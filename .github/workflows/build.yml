@@ -1,0 +1,25 @@
+name: Build package repository
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: php-actions/composer@v3
+
+      - name: Configure access token
+        run: composer -g config github-oauth.github.com ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build package repository
+        run: php console.php app:aggregate-tpr-services > services.json
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GHCR_TOKEN }}
+          publish_dir: ./
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
