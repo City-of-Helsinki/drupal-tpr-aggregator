@@ -1,4 +1,4 @@
-name: Build package repository
+name: Aggregate TPR data
 on:
   push:
     branches:
@@ -9,11 +9,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: php-actions/composer@v3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
 
       - name: Configure access token
         run: composer -g config github-oauth.github.com ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build package repository
+      - name: Aggregate TPR data
         run: php console.php app:aggregate-tpr-services > services.json
 
       - name: Deploy
