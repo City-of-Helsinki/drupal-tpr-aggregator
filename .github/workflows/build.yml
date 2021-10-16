@@ -17,12 +17,12 @@ jobs:
         run: composer -g config github-oauth.github.com ${{ secrets.GITHUB_TOKEN }}
 
       - name: Aggregate TPR data
-        run: php console.php app:aggregate-tpr-services > services.json
+        run: mkdir public && php console.php app:aggregate-tpr-services > public/services.json
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GHCR_TOKEN }}
-          publish_dir: ./
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
