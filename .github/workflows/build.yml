@@ -16,7 +16,12 @@ jobs:
         run: composer -g config github-oauth.github.com ${{ secrets.GITHUB_TOKEN }}
 
       - name: Aggregate TPR data
-        run: mkdir public && php console.php app:aggregate-tpr-services > public/services.json
+        run: |
+          mkdir public/
+          php console.php app:aggregate-tpr-services description > public/services.json
+          cat public/services.json | jq type
+          php console.php app:aggregate-tpr-services errandservice > public/errandservices.json
+          cat public/errandservices.json | jq type
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

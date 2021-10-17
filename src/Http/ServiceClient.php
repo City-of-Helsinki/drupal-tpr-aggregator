@@ -10,33 +10,43 @@ use GuzzleHttp\Utils;
 
 final class ServiceClient
 {
-    public const BASE_URI = 'https://www.hel.fi/palvelukarttaws/rest/vpalvelurekisteri/description/';
+    public const BASE_URI = 'https://www.hel.fi/palvelukarttaws/rest/vpalvelurekisteri/';
 
     public function __construct(private ClientInterface $httpClient)
     {
     }
 
-    public function get(int $id, string $language): ?\stdClass
+    private function assertEndpoint(string $endpoint): void
     {
+        if (!in_array($endpoint, ['description', 'errandservice'])) {
+            throw new \InvalidArgumentException('Invalid endpoint: ' . $endpoint);
+        }
+    }
+
+    public function get(string $endpoint, int $id, string $language): array
+    {
+        $this->assertEndpoint($endpoint);
+
         try {
-            $response = $this->httpClient->request('GET', (string) $id, [
+            $response = $this->httpClient->request('GET', "$endpoint/$id", [
                 'query' => ['language' => $language],
             ]);
 
-            return Utils::jsonDecode($response->getBody()->getContents());
+            return Utils::jsonDecode($response->getBody()->getContents(), true);
         } catch (RequestException $e) {
         }
-        return null;
+        return [];
     }
 
-    public function all(string $language = null): array
+    public function all(string $endpoint, string $language = null): array
     {
+        $this->assertEndpoint($endpoint);
         $query = $language ? ['language' => $language] : [];
 
-        $response = $this->httpClient->request('GET', '', [
+        $response = $this->httpClient->request('GET', "$endpoint/", [
             'query' => $query,
         ]);
 
-        return Utils::jsonDecode($response->getBody()->getContents());
+        return Utils::jsonDecode($response->getBody()->getContents(), true);
     }
 }
