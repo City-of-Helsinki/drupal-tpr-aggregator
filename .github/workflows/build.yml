@@ -1,5 +1,10 @@
 name: Aggregate TPR data
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '**.md'
   schedule:
     - cron:  '0 */3 * * *'
 jobs:
