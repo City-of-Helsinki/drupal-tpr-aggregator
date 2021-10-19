@@ -3285,9 +3285,9 @@
             "type": "APPLICATION",
             "name": "Hae yrityspysäköintitunnusta",
             "description": "Voit hakea yrityspysäköintitunnusta tai jatkaa tunnuksen voimassaoloa sähköpostitse tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi kerrallaan, paitsi sähköpostitse voit hakea tunnusta enintään kuudeksi kuukaudeksi kerrallaan.\n\n",
-            "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa.",
             "processing_time": "Tunnus tulee voimaan, kun maksu on saapunut. ",
             "costs": "Sähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
+            "information": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7081,9 +7081,10 @@
             "type": "NOTICE",
             "name": "Irtisano yrityspysäköintitunnus",
             "name_synonyms": "yrityspysäköintitunnuksen irtisanominen",
-            "description": "Tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden sähköpostitse tai palauttamalla tunnuksen kaupunkiympäristön asiakaspalveluun. \n\nPalautamme rahat etukäteen maksetuista täysistä kuukausista.\n\n\n",
-            "process_description": "Jos irtisanot tunnuksen sähköpositse, ilmoita viestissä\n- nimesi\n- yhteystietosi\n- tunnuksen tiedot\n- tilinumero mahdollista maksujen palautusta varten.\n\n\n",
+            "description": "Tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden sähköpostitse tai palauttamalla tunnuksen kaupunkiympäristön asiakaspalveluun. Palautamme rahat etukäteen maksetuista täysistä kuukausista.\n\n\n",
+            "process_description": "",
             "processing_time": "Tunnuksen voimassaolo päättyy sinä päivänä, kun palautat tunnuksen asiakaspalveluun.",
+            "information": "Jos irtisanot tunnuksen sähköpositse, ilmoita viestissä\n- nimesi\n- yhteystietosi\n- tunnuksen tiedot\n- tilinumero mahdollista maksujen palautusta varten.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7136,9 +7137,8 @@
             "service_id": 10900,
             "type": "NOTICE",
             "name": "Terminate a business parking permit",
-            "description": "Each business parking permit's validity ends automatically at the end of the payment period, if it is not renewed in time. If you wish, you can terminate the permit in the middle of the payment period by email or by returning the permit to the Urban Environment Division's customer service point. \n\n",
+            "description": "Each business parking permit's validity ends automatically at the end of the payment period, if it is not renewed in time. If you wish, you can terminate the permit in the middle of the payment period by email or by returning the permit to the Urban Environment Division's customer service point. We will refund any full months you have paid for in advance.\n\n",
             "processing_time": "The permit's period of validity ends on the day when you return it to the customer service point.",
-            "information": "We will refund any full months you have paid for in advance, if you provide us with your bank account number.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7186,9 +7186,9 @@
             "service_id": 10900,
             "type": "NOTICE",
             "name": "Säg upp tillstånd för företagsparkering",
-            "description": "Tillståndets giltighetstid upphör automatiskt när betalningsperioden tar slut. Om du vill kan du säga upp tillståndet mitt i en betalningsperiod per e-post eller genom att lämna tillbaka tillståndet till stadsmiljösektorns kundtjänst. \n\n",
+            "description": "Tillståndets giltighetstid upphör automatiskt när betalningsperioden tar slut. Om du vill kan du säga upp tillståndet mitt i en betalningsperiod per e-post eller genom att lämna tillbaka tillståndet till stadsmiljösektorns kundtjänst. Vi betalar tillbaka pengarna för de månader som betalats på förhand. \n\n",
             "processing_time": "Tillståndet slutar gälla samma dag som du lämnar tillbaka tillståndet till kundtjänsten.",
-            "information": "Vi betalar tillbaka pengarna för de månader som betalats på förhand. Kom ihåg att även meddela ditt kontonummer om du vill ha återbetalningen.",
+            "information": "Kom ihåg att även meddela ditt kontonummer om du vill ha återbetalningen.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -14101,7 +14101,7 @@
             "type": "COMMUNICATION",
             "name": "Minne auto on siirretty?",
             "name_synonyms": "Auto hukassa",
-            "description": "Selvitä siirretyn ajoneuvon sijainti soittamalla tai tekstiviestillä.\n\nSiirrämme ajoneuvon kadun toiselle puolelle, läheiselle kadulle tai Ajoneuvojen siirtokeskukseen.\n\nJos et löydä autoasi, voit selvittää auton sijainnin soittamalla kaupunkiympäristön asiakaspalveluun, poliisille tai tekstiviestipalvelun avulla.\n\n",
+            "description": "Siirrämme ajoneuvon kadun toiselle puolelle, läheiselle kadulle tai Ajoneuvojen siirtokeskukseen. Jos et löydä autoasi, voit selvittää auton sijainnin soittamalla kaupunkiympäristön asiakaspalveluun, poliisille tai tekstiviestipalvelun avulla.\n\n",
             "costs": "Tekstiviestin hinta on 4,7 senttiä.",
             "information": "Selvitä ajoneuvon sijainti tekstiviestillä - toimi näin:\n\nLähetä tekstiviesti AS (väli) rekisteritunnus numeroon 040 8481 857. Esimerkkiviesti: AS ABC-123\n\nPaluuviesti kertoo siirretyn auton sijainnin.",
             "provided_languages": [
@@ -14124,6 +14124,28 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 3237,
+                    "type": "SMS",
+                    "type_string": "Tekstiviesti",
+                    "name": "Tekstiviestipalvelu",
+                    "process_description": "Lähetä tekstiviesti AS (väli) rekisteritunnus numeroon 040 8481 857. Esimerkkiviesti: AS ABC-123. Paluuviesti kertoo siirretyn auton sijainnin.",
+                    "phone": "040 8481 857",
+                    "call_charge_info": "4,7 senttiä \/ viesti",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": {
@@ -14135,7 +14157,7 @@
             "service_id": 10018,
             "type": "COMMUNICATION",
             "name": "Where has my car been taken?",
-            "description": "Find the location of a towed vehicle by calling or sending a text message to the city.\n\nIf city maintenance has towed your car and you can't find it, you can discover where it has been taken by calling the Urban Environment Division's customer service, the police or by using the city's text message service established for this purpose. In most situations, we either move the vehicle to the other side of the street or a nearby street, or tow it to the Helsinki Vehicle Removal Centre.\n\n",
+            "description": "If city maintenance has towed your car and you can't find it, you can discover where it has been taken by calling the Urban Environment Division's customer service, the police or by using the city's text message service established for this purpose. In most situations, we either move the vehicle to the other side of the street or a nearby street, or tow it to the Helsinki Vehicle Removal Centre.\n\n",
             "costs": "The price of a text message to the service is 4.7 cents.",
             "information": "To find a towed vehicle by text message, follow these steps:\n\nSend a text message that reads 'AS (space) license plate number, example: AS ABC-123' to +358 40 8481 857. You will receive a reply with the location of the towed car. \n\n\n",
             "provided_languages": [
@@ -14153,6 +14175,25 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3237,
+                    "type": "SMS",
+                    "type_string": "SMS",
+                    "phone": "040 8481 857",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -14164,7 +14205,7 @@
             "service_id": 10018,
             "type": "COMMUNICATION",
             "name": "Vart har bilen flyttats?",
-            "description": "Ring eller skicka sms för att få reda på var ett flyttat fordon finns.\n\nVi flyttar fordonet till andra sidan gatan, till en gata i närheten eller till Helsingfors flyttcentrum för fordon.\n\nOm du inte hittar din bil, kan du få reda på var bilen är genom att ringa till stadsmiljösektorns kundtjänst eller polisen, eller med hjälp av sms-tjänsten.\n\n",
+            "description": "Vi flyttar fordonet till andra sidan gatan, till en gata i närheten eller till Helsingfors flyttcentrum för fordon. Om du inte hittar din bil, kan du få reda på var bilen är genom att ringa till stadsmiljösektorns kundtjänst eller polisen, eller med hjälp av sms-tjänsten.\n\n",
             "costs": "Pris för sms är 4,7 cent.",
             "information": "Få reda på var fordonet är per sms - gör så här:\n\nSkicka ett meddelande med AS (mellanslag) registernummer till numret 040 8481 857. I svarsmeddelandet står det var bilen finns. Exempelmeddelande: AS ABC-123\n\n\n",
             "provided_languages": [
@@ -14182,6 +14223,25 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3237,
+                    "type": "SMS",
+                    "type_string": "SMS",
+                    "phone": "040 8481 857",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
