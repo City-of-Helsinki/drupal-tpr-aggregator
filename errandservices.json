@@ -7002,7 +7002,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-service (In Finnish)",
+                            "title": "Go to e-services (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
                         }
@@ -7352,7 +7352,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Go to e-service",
+                            "title": "Go to e-services",
                             "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pysakointi",
                             "file_format": "HTML"
                         }
@@ -14124,28 +14124,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 3237,
-                    "type": "SMS",
-                    "type_string": "Tekstiviesti",
-                    "name": "Tekstiviestipalvelu",
-                    "process_description": "Lähetä tekstiviesti AS (väli) rekisteritunnus numeroon 040 8481 857. Esimerkkiviesti: AS ABC-123. Paluuviesti kertoo siirretyn auton sijainnin.",
-                    "phone": "040 8481 857",
-                    "call_charge_info": "4,7 senttiä \/ viesti",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
             ]
         },
         "en": {
@@ -14175,25 +14153,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3237,
-                    "type": "SMS",
-                    "type_string": "SMS",
-                    "phone": "040 8481 857",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
             ]
         },
         "sv": {
@@ -14223,25 +14182,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3237,
-                    "type": "SMS",
-                    "type_string": "SMS",
-                    "phone": "040 8481 857",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
             ]
         }
     },
@@ -15051,7 +14991,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-service",
+                            "title": "Go to e-services",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1",
                             "file_format": "HTML"
                         }
@@ -15375,7 +15315,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to the e-service (In Finnish)",
+                            "title": "Go to e-services (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnus",
                             "file_format": "HTML"
                         }
@@ -16416,7 +16356,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-service (In Finnish)",
+                            "title": "Go to e-services (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
                             "file_format": "HTML"
                         }
@@ -16591,7 +16531,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-service (In Finnish)",
+                            "title": "Go to e-services (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-muutos-rekisteritunnus",
                             "file_format": "HTML"
                         }
@@ -18663,7 +18603,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to the e-service",
+                            "title": "Go to e-services",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_due_date_extension?new=1",
                             "file_format": "HTML"
                         }
@@ -19566,7 +19506,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Go to the e-service",
+                            "title": "Go to e-services",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
                             "file_format": "HTML"
                         }
