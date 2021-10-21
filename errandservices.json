@@ -45,7 +45,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Omaoloon",
-                            "url": "https:\/\/www.omaolo.fi\/palvelut\/valmennukset"
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/valmennukset?lang=fi"
                         }
                     ],
                     "availabilities": [
@@ -11502,7 +11502,6 @@
         "fi": {
             "id": 2165,
             "exact_descriptions": [
-                3042
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -11566,7 +11565,6 @@
         "en": {
             "id": 2165,
             "exact_descriptions": [
-                3042
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -11601,7 +11599,6 @@
         "sv": {
             "id": 2165,
             "exact_descriptions": [
-                3042
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -19585,7 +19582,7 @@
                 8505,
                 8511,
                 8512,
-                8577
+                8579
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -19631,7 +19628,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Omaoloon",
-                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot"
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot?lang=fi"
                         }
                     ],
                     "availabilities": [
@@ -19653,6 +19650,7 @@
             "id": 4862,
             "exact_descriptions": [
                 7440,
+                8577,
                 8580
             ],
             "service_id": 10016,
@@ -19671,6 +19669,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Siirry Omaoloon",
+                    "url": "https:\/\/www.omaolo.fi\/palvelut\/terveystarkastus?lang=fi"
+                }
             ],
             "channels": [
                 {
@@ -19710,6 +19713,7 @@
             "id": 4862,
             "exact_descriptions": [
                 7440,
+                8577,
                 8580
             ],
             "service_id": 10016,
@@ -19739,7 +19743,7 @@
                     "id": 3222,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Go to the health check",
+                    "name": "Complete a health check-up in Omaolo",
                     "availability_summary": "open every day around the clock",
                     "provided_languages": [
                         "en",
@@ -19772,6 +19776,7 @@
             "id": 4862,
             "exact_descriptions": [
                 7440,
+                8577,
                 8580
             ],
             "service_id": 10016,
@@ -19790,13 +19795,18 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Gå till Omaolo",
+                    "url": "https:\/\/www.omaolo.fi\/palvelut\/terveystarkastus?lang=sv"
+                }
             ],
             "channels": [
                 {
                     "id": 3222,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Tee terveystarkastus Omaolossa",
+                    "name": "Gör en hälsokontroll i Omaolo",
                     "availability_summary": "öppet dygnet runt varje dag",
                     "provided_languages": [
                         "en",
@@ -19813,7 +19823,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry Omaoloon",
+                            "title": "Gå till Omaolo",
                             "url": "https:\/\/www.omaolo.fi\/palvelut\/terveystarkastus?lang=sv"
                         }
                     ],
