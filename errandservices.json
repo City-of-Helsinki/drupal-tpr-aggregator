@@ -13030,11 +13030,6 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Avaa hakemus",
-                    "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/lyhytaikainen"
-                },
-                {
-                    "type": "INTERNET",
                     "title": "Lisätietoja lyhytaikaista asunnoista ",
                     "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/tietoa-asunnoista\/lyhytaikaiset-asunnot\/"
                 }
@@ -13061,12 +13056,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/lyhytaikainen",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -21275,12 +21264,6 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/tyosuhdeasunto",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -21346,12 +21329,6 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/tyosuhdeasunto",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -21416,12 +21393,6 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/tyosuhdeasunto",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -22041,76 +22012,8 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoa vapaarahoitteisista asunnoista Helsingissä",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/tietoa-asunnoista\/vapaarahoitteiset-asunnot\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Asunnot Vuokraovessa ",
-                    "url": "https:\/\/www.vuokraovi.com\/yritykset\/uusimaa\/helsingin-kaupunki--asuntopalvelut\/kohteet\/166"
-                }
             ],
             "channels": [
-                {
-                    "id": 2659,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Vapaarahoitteisten vuokra-asuntojen sähköinen hakemus",
-                    "prerequisites": "Hakijalla tulee olla suomalainen henkilötunnus. Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.",
-                    "availability_summary": "avoinna joka päivä ympäri vuorokauden",
-                    "process_description": "Hae vapaarahoitteista vuokra-asuntoa Vuokraovi.com-sivuston kautta. Asuntoilmoituksessa on linkki sähköiseen asiointipalveluun asunnonhakulomakkeelle. Asiointiin tunnistaudutaan pankki- tai mobiilitunnuksin. Kun hakemus on vastaanotettu, se tallentuu asukasvalintajärjestelmään. \n\nHakemustietoja voi päivittää asiointikansion kautta joko tekemällä kokonaan uuden hakemuksen tai muokkaamalla edellistä lähetettyä hakemusta. Uusi hakemus korvaa aikaisemmin lähetetyn hakemuksen. Kullakin hakijalla voi olla vain yksi vuokra-asuntohakemus voimassa kerrallaan, mutta hakemuksella voi olla valittuna useita kohdetoiveita samanaikaisesti. Sähköisen asioinnin kautta jätettyä hakemusta voi päivittää vain hakija itse.\n\nOsassa asuntoja on vuokravakuus ja\/tai viiden (5) vuoden määräaikainen vuokrasopimus. Asuntoja tarjotaan hakijoille, joilla on vuokranmaksuun riittävät ja säännölliset tulot sekä luottotiedot kunnossa.\n",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Avaa hakemus",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/vapaarahoitteinen",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
-                    "id": 2660,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "availability_summary": "avoinna ma, ke 09-11",
-                    "phone": "+358 9 310 34105",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma, ke 09-11"
-                        }
-                    ]
-                }
             ]
         },
         "en": [
@@ -22399,177 +22302,28 @@
             "id": 492,
             "description_id": 2696,
             "exact_descriptions": [
-                2696,
-                7455
             ],
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Vuokra-asuntohakemus",
-            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin Ara-vuokra-asuntoa.\n\nHuom! Helsingin kaupungin vuokra-asuntohakemukset uudistuvat lokakuussa 2021. Kaikki 18.8.2021 jälkeen jätetyt tai muokatut hakemukset vanhenevat 18.11.2021. Ara-vuokra-asuntoja voi hakea uudella asuntohakemuksella 20.10.2021 alkaen. Tarkempaa tietoa uudistuksesta: asunnonhaku.hel.fi",
-            "process_description": "Ara-vuokra-asuntoa haetaan kaupungin sähköisessä asiointipalvelussa tunnistautumalla pankki- tai mobiilitunnuksin. Kun hakemus on vastaanotettu, se tallentuu asiointikansioon ja asukasvalintajärjestelmään. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.\n\nHakijan on mahdollista päivittää kaupungin sähköisessä asiointipalvelussa tehtyä hakemusta. Hakemus myös uusitaan päivitä-toiminnolla. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Sähköisessä asiointipalvelussa täytettyä hakemusta voi päivittää vain hakija itse.\n\nAra-vuokra-asuntohakemuksen voi jättää myös ilman vahvaa tunnistautumista. Tällöin hakemusta ei voi päivittää, vaan sinun tulee tehdä kokonaan uusi hakemus.\n\nKullakin hakijalla voi olla vain yksi vuokra-asuntohakemus voimassa kerrallaan. Jos kanssahakija tekee oman hakemuksen, hakijoiden yhteinen hakemus peruuntuu. Mikäli päähakija ei halua hakemuksen peruuntuvan, tulee päähakijan ensin poistaa kanssahakija yhteiseltä hakemukselta.\n",
-            "expiration_time": "Hakemus on voimassa kolme (3) kuukautta sen jättämisestä tai muutosten tekemisestä. Nykyinen hakemus vanhenee 18.11.2021 hakemusuudistuksen yhteydessä.",
-            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
-            "information": "Päähakijan tulee olla yli 18-vuotias ja hänellä tulee olla suomalainen henkilötunnus. Asuntoja tarjotaan päivittäin, mutta vapautuvien asuntojen pienen määrän ja toisaalta hakijoiden suuren määrän vuoksi asuntoa ei pystytä tarjoamaan kaikille hakijoille.",
+            "process_description": "",
             "provided_languages": [
-                "en",
-                "fi",
-                "sv"
             ],
             "responsible_depts": [
             ],
             "target_groups": [
-                "INDIVIDUALS"
             ],
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoja Ara-vuokra-asuntojen hakemisesta",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/asunnon-hakeminen\/hae-ara-asuntoa\/",
-                    "file_format": "HTML"
-                }
             ],
             "channels": [
-                {
-                    "id": 831,
-                    "type": "LOCAL",
-                    "type_string": "Henkilökohtainen palvelu",
-                    "availability_summary": "avoinna ma-ti 08:15-12, ke-to 12-15, pe 12-15",
-                    "personal_service_street_addr": "Työpajankatu 8",
-                    "personal_service_postal_code": "00580",
-                    "personal_service_city": "Helsinki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-ti 08:15-12"
-                        },
-                        {
-                            "availability_string": "Avoinna ke-to 12-15"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 832,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "availability_summary": "avoinna ma-ti 12:30-15:30, ke-to 09-12, pe 12-14",
-                    "phone": "09 310 13030",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-ti 12:30-15:30"
-                        },
-                        {
-                            "availability_string": "Avoinna ke-to 09-12"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-14"
-                        }
-                    ]
-                },
-                {
-                    "id": 1606,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Vuokra-asuntohakemus, vaatii tunnistautumisen",
-                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.",
-                    "information": "Voit seurata hakemuksesi tilannetta sähköisessä asioinnissa ja tehdä siihen muutoksia.",
-                    "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/ara?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
-                    "id": 1969,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Vuokra-asuntohakemus, ei vaadi tunnistautumista",
-                    "prerequisites": "Ei vaadi tunnistautumista.",
-                    "information": "Helsingin kaupungin vuokra-asuntohakemukset uudistuvat lokakuussa 2021. Kaikki 18.8.2021 jälkeen jätetyt tai muokatut hakemukset vanhenevat 18.11.2021. Ara-vuokra-asuntoja voi hakea uudella asuntohakemuksella 20.10.2021 alkaen. Tarkempaa tietoa uudistuksesta: asunnonhaku.hel.fi.",
-                    "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Voit ilmoittaa hakemuksen jättämisen jälkeen muuttuneet tiedot ottamalla yhteyttä asiakaspalveluun. Vaihtoehtoisesti voit täyttää kokonaan uuden hakemuksen.",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry lomakkeeseen",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/portal\/asuntohakemus",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
             ]
         },
         "en": {
             "id": 492,
             "description_id": 2696,
             "exact_descriptions": [
-                2696
             ],
             "service_id": 10311,
             "type": "APPLICATION",
@@ -22580,162 +22334,22 @@
             "costs": "Rental housing applications and the rental housing service are free of charge, and new occupants are not charged rental or other guarantees.",
             "information": "Because the number of apartments that become available is small and the number of applicants is very large, housing cannot be offered to everyone who wants it. The primary applicant must be at least 18 and have a Finnish social security number.",
             "provided_languages": [
-                "en",
-                "fi",
-                "sv"
             ],
             "responsible_depts": [
             ],
             "target_groups": [
-                "INDIVIDUALS"
             ],
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "How to apply for an Ara rental apartment",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en\/apply-for-an-apartment\/apply-for-an-ara-apartment\/"
-                }
             ],
             "channels": [
-                {
-                    "id": 831,
-                    "type": "LOCAL",
-                    "type_string": "Local services",
-                    "availability_summary": "open Mon-Tue 08:15-12, Wed-Thu 12-15, Fri 12-15",
-                    "personal_service_street_addr": "Työpajankatu 8",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Tue 08:15-12"
-                        },
-                        {
-                            "availability_string": "Open Wed-Thu 12-15"
-                        },
-                        {
-                            "availability_string": "Open Fri 12-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 832,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "availability_summary": "open Mon-Tue 12:30-15:30, Wed-Thu 09-12, Fri 12-14",
-                    "phone": "09 310 13030",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Tue 12:30-15:30"
-                        },
-                        {
-                            "availability_string": "Open Wed-Thu 09-12"
-                        },
-                        {
-                            "availability_string": "Open Fri 12-14"
-                        }
-                    ]
-                },
-                {
-                    "id": 1606,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Rental housing application, e-service",
-                    "prerequisites": "Use of the service requires identification with online banking code or mobile certificate.",
-                    "information": "You can view the progress of your application and modify it.",
-                    "availability_summary": "service available every day around the clock",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/ara?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                },
-                {
-                    "id": 1969,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Rental housing application, no electronic identification required",
-                    "prerequisites": "Rental housing applications can be submitted without electronic identification.",
-                    "information": "All the housing applications are renewed in October 2021. All the applications submitted after 18.8.2021 will expire on 18.11.2021. You can apply for an Ara apartment with a new application from 20.10.2021. More information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en",
-                    "availability_summary": "service available every day around the clock",
-                    "process_description": "After submitting your application, you can make changes to it by contacting our customer service or you can submit a new application.",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Fill in the form",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/portal\/asuntohakemus",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
             ]
         },
         "sv": {
             "id": 492,
             "description_id": 2696,
             "exact_descriptions": [
-                2696
             ],
             "service_id": 10311,
             "type": "APPLICATION",
@@ -22746,155 +22360,16 @@
             "costs": "Ansökan och förmedling av bostäder är kostnadsfria och den som tar emot bostaden behöver inte betala hyresgaranti eller andra garantiavgifter.",
             "information": "Antalet sökande är större än antalet lediga bostäder och bostäder kan inte erbjudas till alla sökande. Huvudsökanden måste vara 18 år gammal och ha en finsk personbeteckning.",
             "provided_languages": [
-                "en",
-                "fi",
-                "sv"
             ],
             "responsible_depts": [
             ],
             "target_groups": [
-                "INDIVIDUALS"
             ],
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Mera om ansökan om Ara-hyresbostad",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv\/ansok-om-bostad\/ansok-om-en-ara-hyresbostad"
-                }
             ],
             "channels": [
-                {
-                    "id": 831,
-                    "type": "LOCAL",
-                    "type_string": "Lokal service",
-                    "availability_summary": "öppet mån-tis 08:15-12, ons-tor 12-15, fre 12-15",
-                    "personal_service_street_addr": "Verkstadsgatan 8",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-tis 08:15-12"
-                        },
-                        {
-                            "availability_string": "Öppet ons-tor 12-15"
-                        },
-                        {
-                            "availability_string": "Öppet fre 12-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 832,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "availability_summary": "öppet mån-tis 12:30-15:30, ons-tor 09-12, fre 12-14",
-                    "phone": "09 310 13030",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-tis 12:30-15:30"
-                        },
-                        {
-                            "availability_string": "Öppet ons-tor 09-12"
-                        },
-                        {
-                            "availability_string": "Öppet fre 12-14"
-                        }
-                    ]
-                },
-                {
-                    "id": 1606,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om hyresbostad, kräver identifiering",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "information": "Du kan följa vad som händer med din ansökan eller göra ändringar i den.",
-                    "availability_summary": "tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/ara?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                },
-                {
-                    "id": 1969,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om hyresbostad, kräver inte identifiering",
-                    "prerequisites": "Du kan lämna in din ansökan utan identifiering.",
-                    "information": "Alla bostadsansökningar förnyas i oktober 2021. Alla ansökningar som lämnas in efter 18.8.2021 löper ut 18.11.2021. Du kan ansöka om Ara-bostäder med en ny ansökan från 20.10.2021. Mer information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv",
-                    "availability_summary": "tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "För att göra ändringar, kann du fylla i en ny ansökan eller kontakta vår kundservice.",
-                    "authorization_code": "Vuokra-asunnon hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Fyll i blanketten",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/portal\/asuntohakemus",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
             ]
         }
     },
