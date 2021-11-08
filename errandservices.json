@@ -1722,6 +1722,7 @@
         "fi": {
             "id": 4848,
             "exact_descriptions": [
+                2806,
                 2891,
                 4093,
                 4098,
@@ -1812,6 +1813,7 @@
         "en": {
             "id": 4848,
             "exact_descriptions": [
+                2806,
                 2891,
                 4093,
                 4098,
@@ -1882,6 +1884,7 @@
         "sv": {
             "id": 4848,
             "exact_descriptions": [
+                2806,
                 2891,
                 4093,
                 4098,
@@ -14757,7 +14760,7 @@
             "type": "ORDERING",
             "name": "Omahoitotarvikkeiden tilaus",
             "description": "Maksuttomia omahoitotarvikkeita voi tilata sairauden hoitoon sähköisesti tai puhelimella. Käyttö edellyttää lääkärin lähetettä.",
-            "process_description": "Maksuttomia omahoitotarvikkeita voi tilata sairauden hoitoon sähköisesti tai puhelimella.",
+            "process_description": "Maksuttomia omahoitotarvikkeita voi tilata sairauden hoitoon sähköisesti tai puhelimella.\n\nOmahoitotarvikkeet tilataan sähköisesti lähettämällä viesti Maisassa omahoitotarvikejakeluun (www.maisa.fi).",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -14775,6 +14778,11 @@
                     "type": "INTERNET",
                     "title": "Lisätietoja omahoitotarvikkeiden jakelusta",
                     "url": "https:\/\/www.hel.fi\/Helsinki\/fi\/sosiaali-ja-terveyspalvelut\/terveyspalvelut\/muita-terveyspalveluja\/omahoitotarvikkeet\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kirjaudu Maisaan",
+                    "url": "https:\/\/www.maisa.fi"
                 }
             ],
             "channels": [
