@@ -991,6 +991,8 @@
             "id": 492,
             "description_id": 2696,
             "exact_descriptions": [
+                2696,
+                7455
             ],
             "service_id": 10311,
             "type": "APPLICATION",
@@ -1059,15 +1061,15 @@
             "id": 492,
             "description_id": 2696,
             "exact_descriptions": [
+                2696
             ],
             "service_id": 10311,
             "type": "APPLICATION",
-            "name": "Rental housing application",
-            "description": "An electronic service, through which it is possible to apply for a rental apartment from the city of Helsinki.\n\nPlease note, that all the housing applications are renewed in October 2021. The application you have now submitted will expire on 18.11.2021. You can apply for an Ara apartment with a new application from 20.10.2021. More information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en",
-            "process_description": "Ara rental housing is applied via e-services by using online banking identification or a mobile certificate. The application is saved in 'My folder' in the e-services and in the register for applicants. The register automatically defines the level of urgency for each application.\n\nIt is possible to make changes to the application via the e-services. An application is renewed by updating and resending it. An edited or a new application always replaces the previous application. An expired application cannot be renewed and the applicant must submit a new application. An application submitted via E-services can only be modified by the applicant herself.\n\nIt is possible to submit a rental housing application without online banking identification. In this case, you will not be able to make changes to your application once you have submitted it. If your situation changes, you will need to submit a new application.\n\nEach applicant can have only one housing application valid at a time. If a co-applicant submits his or her own application, the applicants' joint application is cancelled. If the primary applicant does not wish the application to be cancelled, he or she must remove the co-applicant from the application.",
+            "name": "Applying for Ara rental housing",
+            "description": "An electronic service through which you can apply for an Ara rental apartment owned by the City of Helsinki.",
+            "process_description": "You can apply for Ara rental housing by completing a housing application. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. If you are applying for housing with a co-applicant, the co-applicant must also authenticate themselves and confirm the housing application in order for the application to be valid and included in the tenant selection. Once you have submitted the application, the co-applicant receives an email with a link for authentication. When both applicants have confirmed the application, it is considered received and is recorded in the tenant selection system. The system classifies the application based on the urgency of the need for housing.\n\nAuthentication means proving your identity. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8 and proving your identity with an official identity card (passport or identity card). After authentication, you can create a username and password using your email address. Your housing application will only be included in the tenant selection after the authentication visit.\n\nIf you are already living in a city-owned Ara rental apartment, you can also use this housing application to apply for a change to an apartment that is becoming available. If you are applying for mutual exchange, you must complete an application for mutual exchange. \n\nThe applicant and co-applicant may update their application. The application can be edited or renewed. The new or edited application will replace the previously submitted application. An expired application cannot be updated or copied, but the applicant must submit a new application. The housing application can only be updated by the applicants themselves.\n\nEach applicant can only have one Ara rental housing application valid at a time. \n",
             "expiration_time": "An application is valid for three (3) months from the time it was submitted or last modified.",
             "costs": "Rental housing applications and the rental housing service are free of charge, and new occupants are not charged rental or other guarantees.",
-            "information": "Because the number of apartments that become available is small and the number of applicants is very large, housing cannot be offered to everyone who wants it. The primary applicant must be at least 18 and have a Finnish social security number.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -1082,23 +1084,61 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Apply for Ara rental housing",
+                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en\/apply-for-an-apartment\/apply-for-an-ara-apartment\/"
+                }
             ],
             "channels": [
+                {
+                    "id": 3260,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Application for Ara apartment",
+                    "prerequisites": "You can apply for Ara rental housing by completing a housing application. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. If you are applying for housing with a co-applicant, the co-applicant must also authenticate themselves and confirm the housing application in order for the application to be valid and included in the tenant selection. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8.",
+                    "information": "You can view the progress of your application and modify it.",
+                    "availability_summary": "open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for Ara apartment",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                }
             ]
         },
         "sv": {
             "id": 492,
             "description_id": 2696,
             "exact_descriptions": [
+                2696
             ],
             "service_id": 10311,
             "type": "APPLICATION",
-            "name": "Ansökan om hyresbostad",
-            "description": "En elektronisk tjänst genom vilken man kan ansöka om Helsingfors stads hyresbostad.\n\nVänligen notera att alla bostadsansökningar förnyas i oktober 2021. Den ansökan du nu har lämnat löper ut 18.11.2021. Du kan ansöka om Ara-hyresbostäder med en ny ansökan från 20.10.2021. Mer information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv\n",
-            "process_description": "Ansökan om Ara-hyresbostad fylls i på stadens e-tjänster genom att identifiera sig med bankkoder eller mobil ID. Efter att ansökan har skickats och tagits emot, sparas den i e-tjänsters ärendemapp och systemet för valet av hyresgäster. Systemet klassificerar bostadsbehovet i ansökan utgående från hur brådskande behovet är.\n\nUppgifterna i ansökan kan uppdateras i e-tjänsterna. Ansökan förnyas genom att uppdatera den. Den nya eller uppdaterade ansökan ersätter den tidigare inlämnade ansökan. Om din ansökan är inter längre giltig, måste du göra en ny. Ansökan i e-tjänsterna kann ändras bara av sökaren själv.\n\nAnsökan om Ara-hyresbostad kan också lämnas in utan webbankkoder. Då kan du inte längre redigera dina sökuppgifter efter att du skickat in ansökan. Om din situation ändras måste du göra en ny ansökan.\n\nObservera att varje sökande endast kan ha en giltig bostadsansökan i systemet åt gången. Om en medsökande gör sin egen bostadsansökan, återkallas de sökandes gemensamma ansökan.\n",
+            "name": "Ansökan om en Ara-hyresbostad",
+            "description": "En ärendehanteringstjänst där du kan ansöka om en ARA-hyresbostad av Helsingfors stad.\n\n",
+            "process_description": "Du kan ansöka om en ARA-hyresbostad genom att fylla i en bostadsansökan. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. Om du ansöker om en bostad med en medsökande, måste medsökanden också identifiera sig och bekräfta bostadsansökan så att ansökan är giltig och ingår i valen av boende. När du har skickat in ansökan, får medsökanden ett e-postmeddelande med en länk för identifiering. När båda sökanden har bekräftat ansökan, har ansökan tagits emot och registreras i systemet för val av boende. Systemet klassificerar ansökan utifrån hur brådskande bostadsbehovet är.\n\nIdentifieringen innebär styrkande av identiteten. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8 och styrka din identitet med ett officiellt identitetsbevis (pass eller identitetskort). Efter identifieringen kan du skapa ett användarnamn och lösenord med hjälp av din e-postadress. Bostadsansökan ingår valen av boende först efter identifieringsbesöket.\n\nOm du redan bor i stadens ARA-hyresbostad, kan du också ansöka om ett byte till en bostad som blir ledig. Om du ansöker om ett inbördes bostadsbyte, ska du fylla i en separat ansökan om ett inbördes byte. \n\nSökanden och medsökanden kan redigera sin ansökan. Ansökan kan redigeras eller förnyas. En ny eller redigerad ansökan ersätter ansökan som tidigare skickats in. En föråldrad ansökan kan inte redigeras eller kopieras, utan sökanden måste lämna in en ny ansökan. Endast de sökande själva kan redigera bostadsansökan.\n\nVarje sökande får endast ha en gällande ansökan om en ARA-hyresbostad i taget. \n\n",
             "expiration_time": "Ansökan är i kraft tre (3) månader efter att den lämnats in eller ändrats.",
             "costs": "Ansökan och förmedling av bostäder är kostnadsfria och den som tar emot bostaden behöver inte betala hyresgaranti eller andra garantiavgifter.",
-            "information": "Antalet sökande är större än antalet lediga bostäder och bostäder kan inte erbjudas till alla sökande. Huvudsökanden måste vara 18 år gammal och ha en finsk personbeteckning.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -1113,8 +1153,46 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ansök om en Ara hyresbostad",
+                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv\/ansok-om-bostad\/ansok-om-en-ara-hyresbostad\/"
+                }
             ],
             "channels": [
+                {
+                    "id": 3260,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan om en Ara-bostad",
+                    "prerequisites": "Du kan ansöka om en ARA-hyresbostad genom att fylla i en bostadsansökan. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. Om du ansöker om en bostad med en medsökande, måste medsökanden också identifiera sig och bekräfta bostadsansökan så att ansökan är giltig och ingår i valen av boende. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8.",
+                    "information": "Du kan följa vad som händer med din ansökan eller göra ändringar i den.",
+                    "availability_summary": "öppet varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om en Ara hyresbostad",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
+                    ]
+                }
             ]
         }
     },
