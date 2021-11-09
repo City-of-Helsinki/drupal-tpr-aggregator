@@ -986,6 +986,139 @@
         ]
     },
     {
+        "id": 492,
+        "fi": {
+            "id": 492,
+            "description_id": 2696,
+            "exact_descriptions": [
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Ara-vuokra-asunnon hakeminen",
+            "description": "Sähköinen asiointipalvelu, jonka kautta voit hakea Helsingin kaupungin Ara-vuokra-asuntoa.",
+            "process_description": "Ara-vuokra-asuntoa haetaan täyttämällä asuntohakemus. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Kun olet lähettänyt hakemuksen, kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.\n\nTunnistautuminen tarkoittaa henkilöllisyyden todistamista. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todistaa henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti). Tunnistautumisen jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nJos asut jo kaupungin Ara-vuokra-asunnossa, tällä asuntohakemuksella haetaan myös vaihtoa vapautuvaan asuntoon. Jos haet keskinäistä vaihtoa, sinun tulee täyttää siihen tarkoitettu keskinäisen vaihdon hakemus. \n\nHakijan ja kanssahakijan on mahdollista päivittää hakemustaan. Hakemusta voi muokata tai sen voi uusia. Uusi tai muokattu hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus.\nAsuntohakemusta voivat päivittää vain hakijat itse.\n\nKullakin hakijalla voi olla vain yksi Ara-vuokra-asuntohakemus voimassa kerrallaan. \n",
+            "expiration_time": "Hakemus on voimassa kolme (3) kuukautta sen jättämisestä tai muutosten tekemisestä. ",
+            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Hae Ara-vuokra-asuntoa",
+                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/asunnon-hakeminen\/hae-ara-asuntoa\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3260,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hakemus Ara-vuokra-asuntoon",
+                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
+                    "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
+                    "availability_summary": "avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus Ara-vuokra-asuntoon",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 492,
+            "description_id": 2696,
+            "exact_descriptions": [
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Rental housing application",
+            "description": "An electronic service, through which it is possible to apply for a rental apartment from the city of Helsinki.\n\nPlease note, that all the housing applications are renewed in October 2021. The application you have now submitted will expire on 18.11.2021. You can apply for an Ara apartment with a new application from 20.10.2021. More information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en",
+            "process_description": "Ara rental housing is applied via e-services by using online banking identification or a mobile certificate. The application is saved in 'My folder' in the e-services and in the register for applicants. The register automatically defines the level of urgency for each application.\n\nIt is possible to make changes to the application via the e-services. An application is renewed by updating and resending it. An edited or a new application always replaces the previous application. An expired application cannot be renewed and the applicant must submit a new application. An application submitted via E-services can only be modified by the applicant herself.\n\nIt is possible to submit a rental housing application without online banking identification. In this case, you will not be able to make changes to your application once you have submitted it. If your situation changes, you will need to submit a new application.\n\nEach applicant can have only one housing application valid at a time. If a co-applicant submits his or her own application, the applicants' joint application is cancelled. If the primary applicant does not wish the application to be cancelled, he or she must remove the co-applicant from the application.",
+            "expiration_time": "An application is valid for three (3) months from the time it was submitted or last modified.",
+            "costs": "Rental housing applications and the rental housing service are free of charge, and new occupants are not charged rental or other guarantees.",
+            "information": "Because the number of apartments that become available is small and the number of applicants is very large, housing cannot be offered to everyone who wants it. The primary applicant must be at least 18 and have a Finnish social security number.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 492,
+            "description_id": 2696,
+            "exact_descriptions": [
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Ansökan om hyresbostad",
+            "description": "En elektronisk tjänst genom vilken man kan ansöka om Helsingfors stads hyresbostad.\n\nVänligen notera att alla bostadsansökningar förnyas i oktober 2021. Den ansökan du nu har lämnat löper ut 18.11.2021. Du kan ansöka om Ara-hyresbostäder med en ny ansökan från 20.10.2021. Mer information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv\n",
+            "process_description": "Ansökan om Ara-hyresbostad fylls i på stadens e-tjänster genom att identifiera sig med bankkoder eller mobil ID. Efter att ansökan har skickats och tagits emot, sparas den i e-tjänsters ärendemapp och systemet för valet av hyresgäster. Systemet klassificerar bostadsbehovet i ansökan utgående från hur brådskande behovet är.\n\nUppgifterna i ansökan kan uppdateras i e-tjänsterna. Ansökan förnyas genom att uppdatera den. Den nya eller uppdaterade ansökan ersätter den tidigare inlämnade ansökan. Om din ansökan är inter längre giltig, måste du göra en ny. Ansökan i e-tjänsterna kann ändras bara av sökaren själv.\n\nAnsökan om Ara-hyresbostad kan också lämnas in utan webbankkoder. Då kan du inte längre redigera dina sökuppgifter efter att du skickat in ansökan. Om din situation ändras måste du göra en ny ansökan.\n\nObservera att varje sökande endast kan ha en giltig bostadsansökan i systemet åt gången. Om en medsökande gör sin egen bostadsansökan, återkallas de sökandes gemensamma ansökan.\n",
+            "expiration_time": "Ansökan är i kraft tre (3) månader efter att den lämnats in eller ändrats.",
+            "costs": "Ansökan och förmedling av bostäder är kostnadsfria och den som tar emot bostaden behöver inte betala hyresgaranti eller andra garantiavgifter.",
+            "information": "Antalet sökande är större än antalet lediga bostäder och bostäder kan inte erbjudas till alla sökande. Huvudsökanden måste vara 18 år gammal och ha en finsk personbeteckning.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
+    },
+    {
         "id": 4309,
         "fi": {
             "id": 4309,
@@ -13015,8 +13148,8 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Lyhytaikaisen vuokra-asunnon hakeminen",
-            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin vuokra-asuntoa tilapäiseen asunnontarpeeseen. \n\nHelsingin kaupungin vuokra-asuntohakemukset uudistuvat marraskuussa 2021. Kaikki 18.8.2021 jälkeen jätetyt tai muokatut hakemukset vanhenevat 18.11.2021. Lyhytaikaisia vuokra-asuntoja voi hakea uudella asuntohakemuksella 4.11.2021 alkaen. Tarkempaa tietoa uudistuksesta: asunnonhaku.hel.fi.",
-            "process_description": "Vuokra-asuntoa haetaan sähköisesti tunnistautumalla pankki- tai mobiilitunnuksin. Päähakijan tulee olla yli 18-vuotias ja hänellä täytyy olla suomalainen henkilötunnus. Asuntoa haetaan kohdekohtaisesti valitsemalla lomakkeen asuntolistalta sopivat asunnot. Hakijan on perusteltava lyhytaikaisen asunnon tarpeensa hakemuksessa.\n\nKun hakemus on vastaanotettu, se tallentuu asukasvalintajärjestelmään. Hakemustietoja voi päivittää asiointikansion kautta muokkaamalla jo lähetettyä hakemusta tai tekemällä kokonaan uuden hakemuksen. Sähköisen asioinnin kautta jätettyä hakemusta voi päivittää vain hakija itse.\n\nAsuntoja tarjotaan sitä mukaa, kun haettavina oleviin kohteisiin saapuu valintakriteerit täyttäviä hakemuksia. Kutakin kohdetta tarjotaan yhdelle hakijalle kerrallaan. Asuntotarjouksesta ilmoitetaan valitulle hakijalle sähköpostitse ja tekstiviestillä.",
+            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin vuokra-asuntoa tilapäiseen asunnontarpeeseen.",
+            "process_description": "Lyhytaikaista vuokra-asuntoa haetaan Oikotie-sivuston kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Kun olet lähettänyt hakemuksen, kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, tulee sinun käydä tunnistautuassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi taustajärjestelmään, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n  \nPäähakijan tulee olla yli 18-vuotias ja hänellä täytyy olla suomalainen henkilötunnus. Asuntoa haetaan kohdekohtaisesti valitsemalla hakemuksen kohdelistalta sopivat asunnot. Hakijan on perusteltava lyhytaikaisen asunnon tarpeensa hakemuksessa.\n\nHakijan ja kanssahakijan on mahdollista päivittää hakemustaan. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n\nAsuntoja tarjotaan sitä mukaa, kun haettavina oleviin kohteisiin saapuu valintakriteerit täyttäviä hakemuksia. Kutakin kohdetta tarjotaan yhdelle hakijalle kerrallaan. Asuntotarjouksesta ilmoitetaan valitulle hakijalle sähköpostitse ja tekstiviestillä.\n",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "information": "Lyhytaikaisessa vuokrauksessa ei noudateta ARA:n asukasvalintakriteerejä, varallisuusrajoja tai erityisasuntokohteiden ehtoja. Hakijalta edellytetään säännöllisiä tuloja ja kunnossa olevia luottotietoja. Hakijan on todistettava lyhytaikaisen asunnon tarve mahdollisen asuntotarjouksen yhteydessä liittein.",
@@ -13038,6 +13171,39 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 3258,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Lyhytaikaisen asunnon hakemus",
+                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
+                    "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
+                    "availability_summary": "avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Lyhytaikaisen asunnon hakemus",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-lyhytaikainen\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
             ]
         },
         "en": [
@@ -21932,13 +22098,14 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Vapaarahoitteisen vuokra-asunnon hakeminen",
-            "description": "Helsingin kaupunki omistaa vapaarahoitteisia vuokra-asuntoja, joiden asukasvalintaa ei säätele lainsäädäntö ja joiden asukasvalinnassa ei noudateta varallisuusrajoja. Asunnot sijaitsevat ympäri Helsinkiä. Ne ovat useimmiten kaupungin omistamia yksittäisiä asuntoja tavallisissa asunto-osakeyhtiöissä.\n\nHelsingin kaupungin vuokra-asuntohakemukset uudistuvat marraskuussa 2021. Kaikki 18.8.2021 jälkeen jätetyt tai muokatut hakemukset vanhenevat 18.11.2021. Vapaarahoitteisia vuokra-asuntoja voi hakea uudella asuntohakemuksella 4.11.2021 alkaen. Tarkempaa tietoa uudistuksesta: asunnonhaku.hel.fi.",
-            "process_description": "Hae vapaarahoitteista vuokra-asuntoa Vuokraovi.com-sivuston kautta. Asuntoilmoituksessa on linkki sähköiseen asiointipalveluun asunnonhakulomakkeelle. Asiointiin tunnistaudutaan pankki- tai mobiilitunnuksin. Kun hakemus on vastaanotettu, se tallentuu asukasvalintajärjestelmään. \n\nHakemustietoja voi päivittää asiointikansion kautta joko tekemällä kokonaan uuden hakemuksen tai muokkaamalla edellistä lähetettyä hakemusta. Uusi hakemus korvaa aikaisemmin lähetetyn hakemuksen. Kullakin hakijalla voi olla vain yksi vuokra-asuntohakemus voimassa kerrallaan, mutta hakemuksella voi olla valittuna useita kohdetoiveita samanaikaisesti. Sähköisen asioinnin kautta jätettyä hakemusta voi päivittää vain hakija itse.\n\nOsassa asuntoja on vuokravakuus ja\/tai viiden (5) vuoden määräaikainen vuokrasopimus. Asuntoja tarjotaan hakijoille, joilla on vuokranmaksuun riittävät ja säännölliset tulot sekä luottotiedot kunnossa.\n",
+            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin omistamia vapaarahoitteisia vuokra-asuntoja.\n\nHelsingin kaupungin omistamien vapaarahoitteisten vuokra-asuntojen asukasvalintaa ei säätele lainsäädäntö eikä asukasvalinnassa noudateta kiireellisyysluokitusta tai varallisuusrajoja. Asunnot sijaitsevat ympäri Helsinkiä. Osa asunnoista on yksittäisiä asuntoja tavallisissa asunto-osakeyhtiöissä.\n",
+            "process_description": "Vapaarahoitteista vuokra-asuntoa Vuokraovi.com-sivuston kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Kun olet lähettänyt hakemuksen, kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään. \n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, tulee sinun käydä tunnistautuassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi taustajärjestelmään, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.  \n\nPäähakijan tulee olla yli 18-vuotias ja hänellä täytyy olla suomalainen henkilötunnus. Asuntoa haetaan kohdekohtaisesti valitsemalla hakemuksen kohdelistalta sopivat asunnot.\n\nHakijan ja kanssahakijan on mahdollista päivittää hakemustaan. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n\n\n",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä.",
-            "costs": "Osassa asuntoja on vuokravakuus ja\/tai viiden (5) vuoden määräaikainen vuokrasopimus.",
-            "information": "Osassa asuntoja on vuokravakuus ja\/tai viiden (5) vuoden määräaikainen vuokrasopimus. Asuntoja tarjotaan hakijoille, joilla on vuokranmaksuun riittävät ja säännölliset tulot sekä luottotiedot kunnossa.\n\nAsuntoja haetaan Vuokraovi.com-sivuston kautta. Hakulinkki löytyy asuntoilmoituksesta.\n",
+            "information": "Asuntoja tarjotaan hakijoille, joilla on vuokranmaksuun riittävät ja säännölliset tulot sekä luottotiedot kunnossa.\n\n",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -21949,8 +22116,51 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Vapaarahoitteiset asunnot Vuokraovi.comissa",
+                    "url": "https:\/\/www.vuokraovi.com\/yritykset\/uusimaa\/helsingin-kaupunki--asuntopalvelut\/kohteet\/166"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Hae vapaarahoitteista asuntoa",
+                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/asunnon-hakeminen\/hae-vapaarahoitteisia-asuntoja\/"
+                }
             ],
             "channels": [
+                {
+                    "id": 3259,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Vapaarahoitteisen asunnon hakemus",
+                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
+                    "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
+                    "availability_summary": "avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vapaarahoitteisen asunnon hakemus",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-vapaarahoitteinen\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
             ]
         },
         "en": [
@@ -22230,83 +22440,6 @@
                         }
                     ]
                 }
-            ]
-        }
-    },
-    {
-        "id": 492,
-        "fi": {
-            "id": 492,
-            "description_id": 2696,
-            "exact_descriptions": [
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Vuokra-asuntohakemus",
-            "process_description": "",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-            ]
-        },
-        "en": {
-            "id": 492,
-            "description_id": 2696,
-            "exact_descriptions": [
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Rental housing application",
-            "description": "An electronic service, through which it is possible to apply for a rental apartment from the city of Helsinki.\n\nPlease note, that all the housing applications are renewed in October 2021. The application you have now submitted will expire on 18.11.2021. You can apply for an Ara apartment with a new application from 20.10.2021. More information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en",
-            "process_description": "Ara rental housing is applied via e-services by using online banking identification or a mobile certificate. The application is saved in 'My folder' in the e-services and in the register for applicants. The register automatically defines the level of urgency for each application.\n\nIt is possible to make changes to the application via the e-services. An application is renewed by updating and resending it. An edited or a new application always replaces the previous application. An expired application cannot be renewed and the applicant must submit a new application. An application submitted via E-services can only be modified by the applicant herself.\n\nIt is possible to submit a rental housing application without online banking identification. In this case, you will not be able to make changes to your application once you have submitted it. If your situation changes, you will need to submit a new application.\n\nEach applicant can have only one housing application valid at a time. If a co-applicant submits his or her own application, the applicants' joint application is cancelled. If the primary applicant does not wish the application to be cancelled, he or she must remove the co-applicant from the application.",
-            "expiration_time": "An application is valid for three (3) months from the time it was submitted or last modified.",
-            "costs": "Rental housing applications and the rental housing service are free of charge, and new occupants are not charged rental or other guarantees.",
-            "information": "Because the number of apartments that become available is small and the number of applicants is very large, housing cannot be offered to everyone who wants it. The primary applicant must be at least 18 and have a Finnish social security number.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-            ]
-        },
-        "sv": {
-            "id": 492,
-            "description_id": 2696,
-            "exact_descriptions": [
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Ansökan om hyresbostad",
-            "description": "En elektronisk tjänst genom vilken man kan ansöka om Helsingfors stads hyresbostad.\n\nVänligen notera att alla bostadsansökningar förnyas i oktober 2021. Den ansökan du nu har lämnat löper ut 18.11.2021. Du kan ansöka om Ara-hyresbostäder med en ny ansökan från 20.10.2021. Mer information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv\n",
-            "process_description": "Ansökan om Ara-hyresbostad fylls i på stadens e-tjänster genom att identifiera sig med bankkoder eller mobil ID. Efter att ansökan har skickats och tagits emot, sparas den i e-tjänsters ärendemapp och systemet för valet av hyresgäster. Systemet klassificerar bostadsbehovet i ansökan utgående från hur brådskande behovet är.\n\nUppgifterna i ansökan kan uppdateras i e-tjänsterna. Ansökan förnyas genom att uppdatera den. Den nya eller uppdaterade ansökan ersätter den tidigare inlämnade ansökan. Om din ansökan är inter längre giltig, måste du göra en ny. Ansökan i e-tjänsterna kann ändras bara av sökaren själv.\n\nAnsökan om Ara-hyresbostad kan också lämnas in utan webbankkoder. Då kan du inte längre redigera dina sökuppgifter efter att du skickat in ansökan. Om din situation ändras måste du göra en ny ansökan.\n\nObservera att varje sökande endast kan ha en giltig bostadsansökan i systemet åt gången. Om en medsökande gör sin egen bostadsansökan, återkallas de sökandes gemensamma ansökan.\n",
-            "expiration_time": "Ansökan är i kraft tre (3) månader efter att den lämnats in eller ändrats.",
-            "costs": "Ansökan och förmedling av bostäder är kostnadsfria och den som tar emot bostaden behöver inte betala hyresgaranti eller andra garantiavgifter.",
-            "information": "Antalet sökande är större än antalet lediga bostäder och bostäder kan inte erbjudas till alla sökande. Huvudsökanden måste vara 18 år gammal och ha en finsk personbeteckning.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
             ]
         }
     },
