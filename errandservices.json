@@ -3543,6 +3543,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3262,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae yrityspysäköintitunnusta",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry turvasähköpostiin",
+                            "url": "https:\/\/securemail.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -7135,6 +7160,31 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3263,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Irtisano yrityspysäköintitunnus",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry turvasähköpostiin",
+                            "url": "https:\/\/securemail.hel.fi\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -10833,7 +10883,7 @@
             "exact_descriptions": [
             ],
             "service_id": 10133,
-            "type": "PERMISSION",
+            "type": "NOTICE",
             "name": "Kontaktimateriaalitoimijoille tarkoitettu ilmoituslomake",
             "description": "Toimijan, joka saattaa markkinoille elintarvikkeen kanssa kosketukseen joutuvia materiaaleja ja tarvikkeita, on tehtävä ilmoitus toimipaikastaan ja siellä harjoitettavasta toiminnasta.",
             "provided_languages": [
@@ -10848,6 +10898,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kontaktimateriaalitoimijan ilmoituslomake",
+                    "url": "https:\/\/ilppa.fi\/alkusivu"
+                }
             ],
             "channels": [
                 {
@@ -10891,7 +10946,7 @@
             "exact_descriptions": [
             ],
             "service_id": 10133,
-            "type": "PERMISSION",
+            "type": "NOTICE",
             "name": "Ansökan om godkännande av anläggningsverksamhet",
             "description": "Företagaren, vilken ska föra till marknaden material och produkter som kommer att vara i kontakt med livsmedelsprodukter måste göra ett anmälan av hans driftställe och den verksamhet som bedrivs där.",
             "provided_languages": [
@@ -10906,6 +10961,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Anmälningsblankett för aktörer som hanterar kontaktmaterial",
+                    "url": "https:\/\/ilppa.fi\/alkusivu-sv"
+                }
             ],
             "channels": [
                 {
