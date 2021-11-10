@@ -21398,11 +21398,11 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Työsuhdeasuntojen hakeminen",
-            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin työntekijöille tarkoitettua työsuhdeasuntoa. Palvelu on tarkoitettu kaikille Helsingin kaupungin toimialojen, keskushallinnon ja liikelaitoksien työntekijöille (pois lukien HKL ja Palvelukeskus Helsinki, jotka välittävät työsuhdeasuntonsa itse).\n\nHelsingin kaupungin vuokra-asuntohakemukset uudistuvat marraskuussa 2021. Kaikki 18.8.2021 jälkeen jätetyt tai muokatut hakemukset vanhenevat 18.11.2021. Työsuhdeasuntoja voi hakea uudella asuntohakemuksella 4.11.2021 alkaen. Tarkempaa tietoa uudistuksesta: asunnonhaku.hel.fi.",
-            "process_description": "Työsuhdeasuntoa haetaan kohdekohtaisesti valitsemalla asuntoja vapaiden asuntojen listalta. Hakulomakkeen käyttö edellyttää vahvaa tunnistautumista pankki- tai mobiilitunnuksin. Kun hakemus on vastaanotettu, se tallentuu asukasvalintajärjestelmään.\n\nHakemustietoja voi päivittää asiointikansion kautta joko tekemällä kokonaan uuden hakemuksen tai muokkaamalla edellistä lähetettyä hakemusta. Uusi hakemus korvaa aikaisemmin lähetetyn hakemuksen. Kullakin hakijalla on yksi työsuhdeasuntohakemus voimassa kerrallaan, mutta hakemuksella voi olla valittuna useita kohdetoiveita samanaikaisesti. Sähköisen asioinnin kautta jätettyä hakemusta voi päivittää vain hakija itse.\n\nTyösuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. Työsuhdeasuntojen pienen määrän ja hakijoiden suuren määrän vuoksi työsuhdeasuntoa ei pystytä tarjoamaan kaikille hakijoille.\n",
+            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin työntekijöille tarkoitettua työsuhdeasuntoa. Palvelu on tarkoitettu kaikille Helsingin kaupungin toimialojen, keskushallinnon ja liikelaitoksien työntekijöille (pois lukien HKL ja Palvelukeskus Helsinki, jotka välittävät työsuhdeasuntonsa itse).\n",
+            "process_description": "Työsuhdeasuntoa haetaan kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Asuntoihin voi tutustua tarkemmin vapaiden vuokra-asuntojen esittelysivulla. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Kun olet vahvistanut hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, tulee sinun käydä tunnistautuassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi taustajärjestelmään, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.  \n\nSinun on mahdollista päivittää hakemustasi. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakija itse.\n\nTyösuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. \n",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä. ",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja. Vuokra peritään laskulla.",
-            "information": "Työsuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. Vuokra peritään laskulla.\n\nTyösuhdeasuntoja välitetään kaikille Helsingin kaupungin toimialojen, keskushallinnon ja liikelaitoksien työntekijöille (pois lukien HKL ja Palvelukeskus Helsinki, jotka välittävät työsuhdeasuntonsa itse).\n\n\n\n",
+            "information": "Työsuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. Vuokra peritään laskulla.\n\nTyösuhdeasuntoja välitetään kaikille Helsingin kaupungin toimialojen, keskushallinnon ja liikelaitoksien työntekijöille (pois lukien HKL ja Palvelukeskus Helsinki, jotka välittävät työsuhdeasuntonsa itse).\n\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -21428,23 +21428,28 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Työsuhdeasunnon hakeminen",
-                    "prerequisites": "Hakijan tulee olla töissä Helsingin kaupungilla. Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.",
-                    "information": "Työsuhdeasunnon hakemiseen liittyvissä kysymyksissä voit ottaa yhteyttä asuntosihteeriin:\npuh. (09) 310 13031, ma ja ke klo 9 - 11 tai tyosuhdeasunnot@hel.fi.\n",
+                    "prerequisites": "Hakijan tulee olla töissä Helsingin kaupungilla.",
+                    "information": "Työsuhdeasunnon hakemiseen liittyvissä kysymyksissä voit ottaa yhteyttä vuokra-asunnon haun neuvontaan.",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Työsuhdeasuntoa haetaan kohdekohtaisesti valitsemalla asuntoja vapaiden asuntojen listalta. Hakulomakkeen käyttö edellyttää vahvaa tunnistautumista pankki- tai mobiilitunnuksin. Kun hakemus on vastaanotettu, se tallentuu asukasvalintajärjestelmään.\n\nHakemustietoja voi päivittää asiointikansion kautta joko tekemällä kokonaan uuden hakemuksen tai muokkaamalla edellistä lähetettyä hakemusta. Uusi hakemus korvaa aikaisemmin lähetetyn hakemuksen. Kullakin hakijalla on yksi työsuhdeasuntohakemus voimassa kerrallaan, mutta hakemuksella voi olla valittuna useita kohdetoiveita samanaikaisesti. Sähköisen asioinnin kautta jätettyä hakemusta voi päivittää vain hakija itse.\n\nTyösuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. Työsuhdeasuntojen pienen määrän ja hakijoiden suuren määrän vuoksi työsuhdeasuntoa ei pystytä tarjoamaan kaikille hakijoille.\n",
+                    "process_description": "Työsuhdeasuntoa haetaan kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Asuntoihin voi tutustua tarkemmin vapaiden vuokra-asuntojen esittelysivulla. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Kun olet lähettänyt hakemuksen, sinun tulee vielä vahvistaa hakemus. Kun olet vahvistanut hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, tulee sinun käydä tunnistautuassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi taustajärjestelmään, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.  \n\nSinun on mahdollista päivittää hakemustasi. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakija itse.\n\nTyösuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. Työsuhdeasuntojen pienen määrän ja hakijoiden suuren määrän vuoksi työsuhdeasuntoa ei pystytä tarjoamaan kaikille hakijoille.",
                     "provided_languages": [
                         "en",
                         "fi",
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
+                    "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus työsuhdeasuntoon",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-tyosuhde\/"
+                        }
                     ],
                     "availabilities": [
                         {
@@ -21463,11 +21468,10 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Application for job-related housing",
-            "description": "An online service, which allows the employees of City of Helsinki to apply for job-related housing. Job-related housing is offered to employees of all of the City of Helsinki's divisions, central administration and enterprises (excluding HKL and Helsinki Service Centre, which provide their company housing themselves).\n\n\nHousing applications are renewed in November 2021. All the applications submitted after 18.8.2021 will expire on 18.11.2021. You can apply for an job-related apartment with a new application from 4.11.2021. More information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-en \n",
-            "process_description": "Job-related housing is applied by choosing apartments from the list of available apartments and filling in an application form. A prerequisite for using the city´s E-services is identification with online banking code or mobile certificate. After submitting the application, it is saved in the eFolder and the register for applicants.\n\nYou can edit the application yourself via E-services. An edited application always replaces the old application, and each applicant can only have one housing application active at a time.\n\nJob-related housing requires employment with the City of Helsinki and the lease agreements are valid until further notice. \n\nDue to the small amount of apartments and the large amount of applicants, not all applicants will get an offer of housing.\n",
+            "description": "An online service, which allows the employees of City of Helsinki to apply for job-related housing. Job-related housing is offered to employees of all of the City of Helsinki's divisions, central administration and enterprises (excluding HKL and Helsinki Service Centre, which provide their company housing themselves).\n\n",
+            "process_description": "You can apply for job-related housing by completing a housing application. To get started, go over the apartments on the site of available apartments. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. You need to confirm the housing application in order to be included in the tenant selection. Once you have submitted the application, you will receive an email with a link for authentication. When you have confirmed the application, it is considered received and is recorded in the tenant selection system.\n\nAuthentication means proving your identity. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8 and proving your identity with an official identity card (driving licence, passport or identity card). After authentication, you can create a username and password using your email address. Your housing application will only be included in the tenant selection after the authentication visit.  \n\nYou may update your application. The application can be edited or renewed without editing. The new or updated application will replace the previously submitted application. An expired application cannot be updated or copied, but the applicant must submit a new application. The housing application can only be updated by the applicants themselves. \n\nJob-related housing requires employment with the City of Helsinki and the lease agreements are valid until further notice. \n\nDue to the small amount of apartments and the large amount of applicants, not all applicants will get an offer of housing.\n",
             "expiration_time": "An application is valid for three (3) months from the time it was submitted or last modified.",
             "costs": "The rental housing service is free of charge, and new occupants are not charged rental or other guarantees. The lease for job-related housing is invoiced and no rental security deposit is charged for the housing.",
-            "information": "In questions concerning job-related housing, please contact the housing secretary:\ntel. (09) 310 13031, Mon and Wed 9-11, or e-mail tyosuhdeasunnot@hel.fi \n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -21493,23 +21497,27 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Application for job-related housing",
-                    "prerequisites": "An online service, which allows the employees of City of Helsinki to apply for job-related housing. Applying for company housing requires strong authentication with online banking credentials or other electronic authentication.",
-                    "information": "In questions concerning company housing, please contact the housing secretary:\ntel. (09) 310 13031, Mon and Wed 9-11, or e-mail tyosuhdeasunnot@hel.fi \n",
+                    "prerequisites": "An online service, which allows the employees of City of Helsinki to apply for job-related housing.",
                     "availability_summary": "service available every day around the clock",
-                    "process_description": "Job-related housing is applied by choosing apartments from the list of available apartments and filling in an application form. A prerequisite for using the city´s E-services is identification with online banking code or mobile certificate. After submitting the application, it is saved in the eFolder and the register for applicants.\n\nYou can edit the application yourself via E-services. An edited application always replaces the old application, and each applicant can only have one housing application active at a time.\n\nJob-related housing is bound to employment with the City of Helsinki, and the lease agreements are valid until further notice.\n",
+                    "process_description": "You can apply for job-related housing by completing a housing application. To get started, go over the apartments on the site of available apartments. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. You need to confirm the housing application in order to be included in the tenant selection. Once you have submitted the application, you will receive an email with a link for authentication. When you have confirmed the application, it is considered received and is recorded in the tenant selection system.\n\nAuthentication means proving your identity. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8 and proving your identity with an official identity card (driving licence, passport or identity card). After authentication, you can create a username and password using your email address. Your housing application will only be included in the tenant selection after the authentication visit.  \n\nYou may update your application. The application can be edited or renewed without editing. The new or updated application will replace the previously submitted application. An expired application cannot be updated or copied, but the applicant must submit a new application. The housing application can only be updated by the applicants themselves.",
                     "provided_languages": [
                         "en",
                         "fi",
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
+                    "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for job-related apartment",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-tyosuhde\/"
+                        }
                     ],
                     "availabilities": [
                         {
@@ -21528,8 +21536,8 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Ansökan om tjänstebostad",
-            "description": "En elektronisk tjänst, genom vilken man kan ansöka om Helsingfors stads tjänstebostad. Tjänsten är avsedd för anställda vid alla sektorer i Helsingfors stad, stadens centralförvaltning och vid affärsverken (utom HRT och Servicecentralen som förmedlar sina tjänstebostäder själva).\n\nBostadsansökningar förnyas i november 2021. Alla ansökningar som lämnas in efter 18.8.2021 löper ut 18.11.2021. Du kan ansöka om tjänstebostäder med en ny ansökan från 4.11.2021. Mer information: https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-sv \n\n",
-            "process_description": "Tjänstebostäder ansöks genom att välja ut bostäder ur bostadslistan. Att använda tjänsten kräver autentisering antingen med personliga bankkoder eller med mobil id. Ansökan sparas i ärendemappen och i ansökningsregistret.\n\nUppgifterna i ansökan kan uppdateras via ärendemappen antingen genom att göra en helt ny ansökan eller genom att ändra den föregående inlämnade ansökan. Den nya eller uppdaterade ansökan ersätter den tidigare inlämnade ansökan. Ansökan i e-tjänsterna kan ändras bara av sökaren själv.\n\nTjänstebostäder är knutna till en anställning vid Helsingfors stad och för dem tecknas hyresavtal som gäller tills vidare. I tjänstebostäderna betalas hyran mot faktura och tas ingen hyresgaranti.\n\nDet finns bara ett litet antal tjänstebostäder och det finns ett stort antal sökande, och därför kan vi inte erbjuda en bostad till alla som vill ha en.\n",
+            "description": "En elektronisk tjänst, genom vilken man kan ansöka om Helsingfors stads tjänstebostad. Tjänsten är avsedd för anställda vid alla sektorer i Helsingfors stad, stadens centralförvaltning och vid affärsverken (utom HRT och Servicecentralen som förmedlar sina tjänstebostäder själva).\n\n",
+            "process_description": "Du ansöker om en tjänstebostad genom att fylla i en bostadsansökan. Börja med att bekanta dig med lediga bostäder på sidan för tillgängliga bostäder. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. När du har skickat in ansökan, du måste bekräfta ansökan. När du har bekräftat ansökan, har ansökan tagits emot och registreras i systemet för val av boende.\n\nIdentifieringen innebär styrkande av identiteten. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8 och styrka din identitet med ett officiellt identitetsbevis (pass eller identitetskort). Efter identifieringen kan du skapa ett användarnamn och lösenord med hjälp av din e-postadress. Bostadsansökan ingår valen av boende först efter identifieringsbesöket.  \n\nDu kan redigera din ansökan. Ansökan kan redigeras eller förnyas utan redigeringar. En ny eller förnyad ansökan ersätter ansökan som tidigare skickats in. En föråldrad ansökan kan inte redigeras eller kopieras, utan sökanden måste lämna in en ny ansökan. Endast de sökande själva kan redigera bostadsansökan.",
             "processing_time": "Ansökan och förmedling av bostäder är kostnadsfritt och den som tar emot bostaden behöver inte betala hyresgaranti eller andra garantiavgifter. Hyran dras av direkt från den anställdas lön.",
             "expiration_time": "Ansökan är i kraft tre månader efter att den lämnats in eller ändrats.",
             "provided_languages": [
@@ -21557,23 +21565,28 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Ansökan om tjänstebostad",
-                    "prerequisites": "Sökanden ska vara anställd vid Helsingfors stad. Tjänstebostäder ansöks i e-tjänsterna genom att identifiera sig med bankkoder eller mobil ID.",
-                    "information": "I frågor kring ansökningar om en bostad i ett arbetsförhållande kan du kontakt bostadssekreteraren:\ntfn (09) 310 13031, må och on kl. 9-11 eller tyosuhdeasunnot@hel.fi. \n",
+                    "prerequisites": "Sökanden ska vara anställd vid Helsingfors stad.",
+                    "information": "",
                     "availability_summary": "tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Tjänstebostäder ansöks genom att välja ut bostäder ur bostadslistan. Att använda tjänsten kräver autentisering antingen med personliga bankkoder eller med mobil id. Ansökan sparas i ärendemappen och i ansökningsregistret.\n\nUppgifterna i ansökan kan uppdateras via ärendemappen antingen genom att göra en helt ny ansökan eller genom att ändra den föregående inlämnade ansökan. Den nya eller uppdaterade ansökan ersätter den tidigare inlämnade ansökan. Ansökan i e-tjänsterna kan ändras bara av sökaren själv.\n\nTjänstebostäderna är knutna till anställningen vid Helsingfors stad och för dem tecknas hyresavtal som gäller tills vidare. Det finns bara ett litet antal tjänstebostäder och det finns ett stort antal sökande, och därför kan vi inte erbjuda en bostad till alla som vill ha en.\n",
+                    "process_description": "Du ansöker om en tjänstebostad genom att fylla i en bostadsansökan. Börja med att bekanta dig med lediga bostäder på sidan för tillgängliga bostäder. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. När du har skickat in ansökan, du måste bekräfta ansökan. När du har bekräftat ansökan, har ansökan tagits emot och registreras i systemet för val av boende.\nIdentifieringen innebär styrkande av identiteten. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8 och styrka din identitet med ett officiellt identitetsbevis (pass eller identitetskort). Efter identifieringen kan du skapa ett användarnamn och lösenord med hjälp av din e-postadress. Bostadsansökan ingår valen av boende först efter identifieringsbesöket.  \nDu kan redigera din ansökan. Ansökan kan redigeras eller förnyas utan redigeringar. En ny eller förnyad ansökan ersätter ansökan som tidigare skickats in. En föråldrad ansökan kan inte redigeras eller kopieras, utan sökanden måste lämna in en ny ansökan. Endast de sökande själva kan redigera bostadsansökan.\nVarje sökande får endast ha en gällande ansökan om ett inbördes bostadsbyte i taget. \n",
                     "provided_languages": [
                         "en",
                         "fi",
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
+                    "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om tjänstebostad",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-tyosuhde\/"
+                        }
                     ],
                     "availabilities": [
                         {
