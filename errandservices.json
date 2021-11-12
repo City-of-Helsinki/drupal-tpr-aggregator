@@ -10847,6 +10847,83 @@
         ]
     },
     {
+        "id": 4926,
+        "fi": {
+            "id": 4926,
+            "description_id": 2696,
+            "exact_descriptions": [
+                2696,
+                7455
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Keskinäisen vaihdon hakeminen",
+            "description": "Sähköinen asiointipalvelu, jonka kautta voit hakea keskinäistä vaihtoa kun asut Helsingin kaupungin Ara-vuokra-asunnossa.",
+            "process_description": "Keskinäistä vaihtoa haetaan täyttämällä asuntohakemus. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta koko kotitaloudelle voidaan tehdä asukasvalinta vaihtoasuntoon. Kun olet lähettänyt hakemuksen, kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nTunnistautuminen tarkoittaa henkilöllisyyden todistamista. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todistaa henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti). Tunnistautumisen jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen. Keskinäinen vaihto on mahdollista vasta tunnistumiskäynnin jälkeen.  \n\nHakijan ja kanssahakijan on mahdollista päivittää hakemustaan. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n\nKullakin hakijalla voi olla vain yksi keskinäisen vaihdon hakemus voimassa kerrallaan. \n",
+            "expiration_time": "Hakemus on voimassa kolme (3) kuukautta sen jättämisestä tai muutosten tekemisestä. ",
+            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoja keskinäisestä vaihdosta",
+                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/asunnon-vaihtaminen\/vaihto-ara\/keskinainen-vaihto-vaihtokumppanin-kanssa\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3261,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Keskinäisen asunnonvaihdon hakemus",
+                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
+                    "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
+                    "availability_summary": "avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Keskinäisen vaihdon hakemus",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4338,
         "fi": {
             "id": 4338,
