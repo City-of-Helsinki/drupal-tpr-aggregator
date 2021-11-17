@@ -3535,6 +3535,11 @@
                     "type": "INTERNET",
                     "title": "Kaupunkiympäristön asiakaspalvelu",
                     "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/kaupunkiympariston-asiakaspalvelu"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Turvasähköpostiin kirjautuminen",
+                    "url": "https:\/\/securemail.hel.fi\/"
                 }
             ],
             "channels": [
@@ -3554,31 +3559,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3262,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae yrityspysäköintitunnusta",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry turvasähköpostiin",
-                            "url": "https:\/\/securemail.hel.fi\/"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -7226,6 +7206,11 @@
                     "type": "INTERNET",
                     "title": "Kaupunkiympäristön asiakaspalvelu",
                     "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/kaupunkiympariston-asiakaspalvelu"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Turvasähköpostiin kirjautuminen",
+                    "url": "https:\/\/securemail.hel.fi\/"
                 }
             ],
             "channels": [
@@ -7245,31 +7230,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3263,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Irtisano yrityspysäköintitunnus",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry turvasähköpostiin",
-                            "url": "https:\/\/securemail.hel.fi\/"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -15085,6 +15045,26 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3272,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -15148,6 +15128,26 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3272,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -15207,6 +15207,26 @@
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1",
                             "file_format": "HTML"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3272,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-post",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -19411,6 +19431,26 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3271,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -19476,6 +19516,26 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3271,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -19538,6 +19598,26 @@
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
                             "file_format": "HTML"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3271,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-post",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
