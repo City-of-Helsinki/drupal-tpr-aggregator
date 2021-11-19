@@ -18786,6 +18786,252 @@
         ]
     },
     {
+        "id": 4933,
+        "fi": {
+            "id": 4933,
+            "description_id": 3049,
+            "exact_descriptions": [
+                3049
+            ],
+            "service_id": 10593,
+            "type": "ADVICE",
+            "name": "Sosiaali- ja potilasasiamiesten neuvonta",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3276,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Sosiaali- ja potilasasiamiesten neuvonta",
+                    "availability_summary": "avoinna ma-to 09-11",
+                    "phone": "09 310 43355",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3277,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Suojattu sähköposti",
+                    "availability_summary": "avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lähetä viesti",
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiamies@hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 4933,
+            "description_id": 3049,
+            "exact_descriptions": [
+                3049
+            ],
+            "service_id": 10593,
+            "type": "ADVICE",
+            "name": "Social and patient ombudsmen's service",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3276,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Social and patient ombudsmen's phone service",
+                    "availability_summary": "open Mon-Thu 09-11",
+                    "phone": "09 310 43355",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3277,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Encrypted email",
+                    "availability_summary": "open every day around the clock",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Send a message",
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiamies@hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4933,
+            "description_id": 3049,
+            "exact_descriptions": [
+                3049
+            ],
+            "service_id": 10593,
+            "type": "ADVICE",
+            "name": "Social- och patientombudsmännens rådgivning",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3276,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Social- och patientombudsmännens rådgivning",
+                    "availability_summary": "öppet mån-tor 09-11",
+                    "phone": "09 310 43355",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3277,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Krypterad e-post",
+                    "availability_summary": "öppet dygnet runt varje dag",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Skicka ett meddelande",
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiamies@hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 934,
         "fi": {
             "id": 934,
