@@ -1026,7 +1026,7 @@
                     "id": 3260,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hakemus Ara-vuokra-asuntoon",
+                    "name": "Hakemus Ara-vuokra-asuntoon.",
                     "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
                     "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
                     "availability_summary": "avoinna joka päivä",
@@ -4848,57 +4848,6 @@
         ]
     },
     {
-        "id": 4211,
-        "fi": {
-            "id": 4211,
-            "description_id": 3641,
-            "exact_descriptions": [
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Helsinki-lisä",
-            "description": "Helsinki-lisä on työnantajalle maksettava kaupungin harkinnanvarainen tuki, jota voivat hakea yksityisen ja kolmannen sektorin työnantajat, kun ovat työllistäneet kohderyhmään kuuluvan helsinkiläisen työttömän.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/yritykset\/tyollisyys-yrittajat\/helsinki-lisa\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä hakemus",
-                    "url": "http:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.doc",
-                    "file_format": "WORD"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä hakemus",
-                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.pdf",
-                    "file_format": "PDF"
-                }
-            ],
-            "channels": [
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 4265,
         "fi": {
             "id": 4265,
@@ -5469,16 +5418,19 @@
         }
     },
     {
-        "id": 4079,
+        "id": 4955,
         "fi": {
-            "id": 4079,
+            "id": 4955,
+            "description_id": 7664,
             "exact_descriptions": [
+                7664
             ],
-            "service_id": 10093,
+            "service_id": 10954,
             "type": "ADVICE",
-            "name": "Hitas-tietoa",
-            "description": "Tietoa Hitas-asunnoista ja asunnon ostamisesta ja myynnistä vahvistetulla enimmäishinnalla tai voimassa olevalla rajaneliöhinnalla.",
-            "process_description": "Enimmäishintalaskelmaan tarvittava isännöitsijäntodistus tai Hitas enimmäishinnan vahvistamislomake tilataan isännöitsijältä. Lomake toimitetaan asuntopalveluille sähköpostilla tai kirjeenä. Enimmäishintalaskelma toimitetaan asiakkaalle joko sähköpostilla tai kirjeenä asiakkaan toivomuksen mukaisesti.",
+            "name": "Hitas-asunnon vahvistettu enimmäishinta",
+            "description": "Hae asunnon enimmäismyyntihinnan vahvistamista toimittamalla asuntopalveluille isännöitsijäntodistus tai Hitas-enimmäishinnan vahvistamislomake.\n\nJos Hitas-asuntoosi on tehty parannuksia tai taloyhtiöön on tehty remontteja, ja ne on jo kirjattu Hitas-rekisteriin, voit hakea enimmäishintalaskelmaa isännöitsijäntodistuksen perusteella.\n\nJos parannustöitä on tehty, mutta niitä ei ole vielä ilmoitettu, käytä Hitas-enimmäishinnan vahvistamislomaketta.\n\nIsännöitsijäntodistuksen ja\/tai Hitas-enimmäishinnan vahvistamislomakkeen laatii isännöitsijä. Enimmäishintalaskelma on voimassa kolme kuukautta laskelman päiväyksestä. Voit uusia laskelman sähköpostitse (hitas@hel.fi) tai puhelimitse (09 310 13033, ma-to 9-11).",
+            "processing_time": "Saat enimmäishintalaskelman viikon kuluessa hakemuksesta.",
+            "expiration_time": "Enimmäishintalaskelma on yleensä voimassa kolme kuukautta laskelman päiväyksestä. Jos huoneiston enimmäishinta on vahvistettu rajaneliöhinnalla, on laskelma voimassa 1-4 kuukautta.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -5491,12 +5443,44 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Hitas-asunnot",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/asuminen\/hitas"
+                }
             ],
             "channels": [
                 {
-                    "id": 2968,
-                    "type": "TELEFAX",
-                    "type_string": "Faksi",
+                    "id": 3302,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Asuntopalvelut, Hitas-asiat puhelinpalvelu",
+                    "availability_summary": "avoinna ma-to 09-11",
+                    "phone": "09 310 13033",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3303,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Asuntopalvelut, Hitas-asiat sähköposti",
+                    "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -9306,7 +9290,7 @@
                     "id": 916,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Kasvatus ja koulutus, yleisavustushakemus",
+                    "name": "Kasvatus ja koulutus, yleisavustushakemus.",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -9826,7 +9810,7 @@
                     "id": 897,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Kaupunginhallitus, yleisavustushakemus",
+                    "name": "Kaupunginhallitus, yleisavustushakemus.",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.\n",
                     "information": "Jos valitset \"Tallenna luonnoksena\", liitteet eivät tallennu hakemuksen mukana.",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
@@ -10130,7 +10114,7 @@
                     "id": 1365,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Kotouttamistyön avustus järjestöille",
+                    "name": "Kotouttamistyön avustus järjestöille.",
                     "prerequisites": "Käyttö edellyttää tunnistautumista joko pankki- tai mobiilitunnuksin.\n\n",
                     "information": "Jos valitset \"Tallenna luonnoksena\", liitteet eivät tallennu hakemuksen mukana.\n\nKuka voi hakea?\nAvustusta voivat hakea helsinkiläiset järjestöt, jotka toiminnallaan edistävät helsinkiläisten ulkomaalaistaustaisten henkilöiden kotoutumista. Kotoutumista edistävää toimintaa ovat esimerkiksi ulkomaalaistaustaisten helsinkiläisten työllisyyden, kouluttautumisen tai hyvinvoinnin tukeminen ja osallistumismahdollisuuksien lisääminen sekä yhdenvertaisten mahdollisuuksien rakentaminen.\n\n\n",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
@@ -10622,6 +10606,7 @@
                 "sv"
             ],
             "responsible_depts": [
+                "49ee63cb-3358-452b-a91d-2cef1707f5c7"
             ],
             "target_groups": [
                 "ENTERPRISES"
@@ -10679,6 +10664,7 @@
                 "fi"
             ],
             "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
             ],
@@ -10701,7 +10687,7 @@
                         "fi"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": false,
+                    "saved_to_customer_folder": true,
                     "e_processing": true,
                     "e_decision": true,
                     "payment_enabled": false,
@@ -14930,6 +14916,84 @@
         }
     },
     {
+        "id": 4956,
+        "fi": {
+            "id": 4956,
+            "description_id": 8737,
+            "exact_descriptions": [
+                8737
+            ],
+            "service_id": 10879,
+            "type": "ADVICE",
+            "name": "Näin ilmoitat asukasvalinnoista",
+            "description": "Asukasvalinnoista ilmoitetaan pääasiassa jälkikäteen. Lähetä tällöin tiedot asukasvalinnoista asuntopalveluille (myös asunnonvaihtajista) kootusti excel-taulukossa kerran kuukaudessa.\n\nPoikkeuksen muodostavat ARA:n nimeämät yleishyödylliset yhteisöt, joiden asukasvalintaa valvotaan eri tavalla. Yhteisöjen pitää toimittaa ensimmäisen kohteensa asukasvalinnat hakemuksineen ja liitteineen hyväksyttäväksi etukäteen, ennen kohteen valmistumista.\n\nJoissain tilanteissa asukasvalintaohjeista on tarpeen poiketa. Tällaisessa tapauksessa ota yhteyttä sähköpostilla.\n",
+            "processing_time": "Teemme päätökset poikkeusluvista 14 vuorokauden sisällä hakemuksen jättämisestä.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin, Espoon ja Vantaan lyhyen korkotuen asuntojen asukasvalintaa täydentävät ohjeet",
+                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-lyhyen-korkotuen-asukasvalintaohje.pdf"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin, Espoon ja Vantaan ARA-vuokra-asuntojen asukasvalintaa täydentävät ohjeet",
+                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje_2021.pdf"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Aran asukasvalintaopas",
+                    "url": "https:\/\/www.ara.fi\/fi-FI\/ARAasuntokanta\/Osaomistusasunnot\/Asukasvalintaopas(34134)"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Ara-vuokra-asuntojen varalisuusrajat",
+                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_varallisuus.pdf"
+                },
+                {
+                    "type": "FORM",
+                    "title": "Ilmoitus asukasvalinnoista",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_ilm_liite1.xlsx"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3304,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Asukasvalinnat, sähköposti",
+                    "process_description": "Lähetä tiedot asukasvalinnoista sähköpostitse.",
+                    "email": "asvalinnat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4815,
         "fi": {
             "id": 4815,
@@ -15716,6 +15780,59 @@
         ]
     },
     {
+        "id": 4211,
+        "fi": {
+            "id": 4211,
+            "description_id": 3641,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Palkan Helsinki-lisä",
+            "description": "Kenelle: kaikille yksityisen ja kolmannen sektorin työnantajille\nMihin: palkkauskustannuksiin\nMäärä: korkeintaan 800 €\/kk. Määrään vaikuttavat työnantajan palkkauskustannukset ja niihin maksettavat muut tuet; palkkatuki ja koulutuskorvaus.\nKesto: enintään 12 kuukautta, oppisopimuksessa enintään koko oppisopimuksen ajan.\nTuen edellytyksenä on, että työsuhteeseen on myönnetty palkkatuki.\n",
+            "process_description": "Helsinki-lisä -hakemukset käsitellään saapumisjärjestyksessä. Jos hakemuksessa tai sen liitteissä on puutteita, pyytävät käsittelijät lisätietoa sähköpostitse tai soittamalla. Kun hakemus on käsitelty, siitä tehdään päätös, joka lähetetään hakijalle. Myönnetty Helsinki-lisä maksetaan hakemuslomakkeessa ilmoitetulle työnantajan tilille.",
+            "processing_time": "Noin neljä viikkoa",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki-lisä",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/yritykset\/tyollisyys-yrittajat\/helsinki-lisa\/",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki-lisä hakemus",
+                    "url": "http:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.doc",
+                    "file_format": "WORD"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki-lisä hakemus",
+                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 927,
         "fi": {
             "id": 927,
@@ -15753,7 +15870,7 @@
                     "id": 917,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Pelastustoimi, yleisavustushakemus",
+                    "name": "Pelastustoimi, yleisavustushakemus.",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.\n",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -15984,7 +16101,7 @@
             ],
             "service_id": 10059,
             "type": "APPLICATION",
-            "name": "Perhepäivähoitoon ja päiväkotiin haetaan samalla varhaiskasvatushakemuksella",
+            "name": "Perhepäivähoitoon ja päiväkotiin haetaan samalla varhaiskasvatushakemuksella Asti-asiointipalvelussa",
             "provided_languages": [
                 "fi"
             ],
@@ -18887,7 +19004,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Sosiaali- ja potilasasiamiesten neuvonta",
                     "availability_summary": "avoinna ma-to 09-11",
-                    "phone": "09 310 43355",
+                    "phone": "+358 9 310 43355",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -18935,6 +19052,36 @@
                             "availability_string": "Avoinna joka päivä ympäri vuorokauden"
                         }
                     ]
+                },
+                {
+                    "id": 3306,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Yhteydenottopyyntö sosiaali- ja potilasasiamiehille",
+                    "availability_summary": "avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Jätä yhteydenottopyyntö",
+                            "url": "https:\/\/turvalomake.hel.fi\/sosiaali_ja_potilasasiamies?lang=fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
                 }
             ]
         },
@@ -18968,7 +19115,7 @@
                     "type_string": "Telephone",
                     "name": "Social and patient ombudsmen's phone service",
                     "availability_summary": "open Mon-Thu 09-11",
-                    "phone": "09 310 43355",
+                    "phone": "+358 9 310 43355",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
                     ],
@@ -19016,6 +19163,36 @@
                             "availability_string": "Open every day around the clock"
                         }
                     ]
+                },
+                {
+                    "id": 3306,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Contact Social and Patient Ombudsmen",
+                    "availability_summary": "open every day around the clock",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Submit contact request ",
+                            "url": "https:\/\/turvalomake.hel.fi\/sosiaali_ja_potilasasiamies"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
                 }
             ]
         },
@@ -19049,7 +19226,7 @@
                     "type_string": "Telefon",
                     "name": "Social- och patientombudsmännens rådgivning",
                     "availability_summary": "öppet mån-tor 09-11",
-                    "phone": "09 310 43355",
+                    "phone": "+358 9 310 43355",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
                     ],
@@ -19090,6 +19267,36 @@
                             "type": "INTERNET",
                             "title": "Skicka ett meddelande",
                             "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiamies@hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
+                    ]
+                },
+                {
+                    "id": 3306,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Kontaktbegäran till social- och patientombudsmannen",
+                    "availability_summary": "öppet dygnet runt varje dag",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lämna kontaktbegäran",
+                            "url": "https:\/\/turvalomake.hel.fi\/sosiaali_ja_potilasasiamies?lang=sv"
                         }
                     ],
                     "availabilities": [
@@ -19141,7 +19348,7 @@
                     "id": 918,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Sosiaali- ja terveystoimi, yleisavustushakemus",
+                    "name": "Sosiaali- ja terveystoimi, yleisavustushakemus.",
                     "prerequisites": "1.1.2021 alkaen palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
                     "information": "Palvelu saatavilla hakuaikana joka päivä ympäri vuorokauden.",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata Asiointikansiosta.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittelyssä\"-tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää hakemuksen \"Viestit\"-ominaisuutta käyttäen annettuun määräaikaan mennessä.",
@@ -19336,7 +19543,7 @@
                 "sv"
             ],
             "responsible_depts": [
-                "9cab401d-4826-4ea5-a4d5-325599e8a973"
+                "49ee63cb-3358-452b-a91d-2cef1707f5c7"
             ],
             "target_groups": [
             ],
@@ -21626,6 +21833,7 @@
                 "sv"
             ],
             "responsible_depts": [
+                "49ee63cb-3358-452b-a91d-2cef1707f5c7"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -22043,7 +22251,7 @@
             ],
             "channels": [
                 {
-                    "id": 2662,
+                    "id": 3300,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Työsuhdeasunnon hakeminen",
@@ -22111,39 +22319,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2662,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Application for job-related housing",
-                    "prerequisites": "An online service, which allows the employees of City of Helsinki to apply for job-related housing.",
-                    "availability_summary": "service available every day around the clock",
-                    "process_description": "You can apply for job-related housing by completing a housing application. To get started, go over the apartments on the site of available apartments. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. You need to confirm the housing application in order to be included in the tenant selection. Once you have submitted the application, you will receive an email with a link for authentication. When you have confirmed the application, it is considered received and is recorded in the tenant selection system.\n\nAuthentication means proving your identity. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8 and proving your identity with an official identity card (driving licence, passport or identity card). After authentication, you can create a username and password using your email address. Your housing application will only be included in the tenant selection after the authentication visit.  \n\nYou may update your application. The application can be edited or renewed without editing. The new or updated application will replace the previously submitted application. An expired application cannot be updated or copied, but the applicant must submit a new application. The housing application can only be updated by the applicants themselves.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Application for job-related apartment",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-tyosuhde\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
             ]
         },
         "sv": {
@@ -22179,40 +22354,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2662,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om tjänstebostad",
-                    "prerequisites": "Sökanden ska vara anställd vid Helsingfors stad.",
-                    "information": "",
-                    "availability_summary": "tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Du ansöker om en tjänstebostad genom att fylla i en bostadsansökan. Börja med att bekanta dig med lediga bostäder på sidan för tillgängliga bostäder. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. När du har skickat in ansökan, du måste bekräfta ansökan. När du har bekräftat ansökan, har ansökan tagits emot och registreras i systemet för val av boende.\nIdentifieringen innebär styrkande av identiteten. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8 och styrka din identitet med ett officiellt identitetsbevis (pass eller identitetskort). Efter identifieringen kan du skapa ett användarnamn och lösenord med hjälp av din e-postadress. Bostadsansökan ingår valen av boende först efter identifieringsbesöket.  \nDu kan redigera din ansökan. Ansökan kan redigeras eller förnyas utan redigeringar. En ny eller förnyad ansökan ersätter ansökan som tidigare skickats in. En föråldrad ansökan kan inte redigeras eller kopieras, utan sökanden måste lämna in en ny ansökan. Endast de sökande själva kan redigera bostadsansökan.\nVarje sökande får endast ha en gällande ansökan om ett inbördes bostadsbyte i taget. \n",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Ansökan om tjänstebostad",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-tyosuhde\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
             ]
         }
     },
@@ -22755,6 +22896,7 @@
                 "sv"
             ],
             "responsible_depts": [
+                "49ee63cb-3358-452b-a91d-2cef1707f5c7"
             ],
             "target_groups": [
                 "ENTERPRISES"
@@ -23668,7 +23810,7 @@
                     "id": 901,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Ympäristötoimi, yleisavustushakemus",
+                    "name": "Ympäristötoimi, yleisavustushakemus.",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
