@@ -4848,6 +4848,123 @@
         ]
     },
     {
+        "id": 4211,
+        "fi": {
+            "id": 4211,
+            "description_id": 3641,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Helsinki-lisän hakeminen",
+            "description": "Hae Helsinki-lisää.\nLataa hakulomake yrityksille ja taloudellista toimintaa harjoittaville yhteisöille (pdf).\nLataa hakulomake yleishyödyllisille yhteisöille (pdf).\nLähetä täytetty hakemus liitteineen suojatun yhteyden kautta: https:\/\/securemail.hel.fi osoitteeseen: helsinkilisa@hel.fi. Liitteiden tulee olla PDF- tai JPG-muodossa.\nVoit myös lähettää hakemuksen tulostettuna postitse osoitteeseen: Helsinki-lisä, Elinkeino-osasto, PL 20, 00099 Helsingin kaupunki.\n",
+            "process_description": "- Jos työnantaja hakee myös palkkatukea, hän tekee sen ennen Helsinki-lisän hakemista ja liittää palkkatukipäätöksen Helsinki-lisä-hakemukseen.\n- Jos työnantaja solmii oppisopimuksen, hän tekee sen ennen Helsinki-lisän hakemista ja liittää oppisopimusdokumentin Helsinki-lisä-hakemukseen.\n- Kun työsopimus on allekirjoitettu, työnantaja hakee Helsinki-lisää ja liittää työsopimuksen Helsinki-lisä-hakemukseen.\n- Harkinnanvarainen tuki myönnetään, jos haku täyttää ehdot.\n- Kaupunki maksaa Helsinki-lisän työnantajalle.\n- Työntaja maksaa palkan työllistetylle.",
+            "processing_time": "Noin neljä viikkoa",
+            "information": "Milloin Helsinki-lisää haetaan?\nHae Helsinki-lisää sen kalenterivuoden aikana, jolloin työllistettävän työsuhde alkaa. Helsinki-lisä haetaa työsuhdeen keston mukaisesti kuitenkin enintään 12 kuukauden ajalle. Palkkatuettuun oppisopimukseen Helsinki-lisää voi hakea koko oppisopimuskoulutuksen ajalle. Tuki haetaan 12 kuukauden jaksoissa.\n\n\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki-lisä",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/yritykset\/tyollisyys-yrittajat\/helsinki-lisa\/",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki-lisä hakemus",
+                    "url": "http:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.doc",
+                    "file_format": "WORD"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki-lisä hakemus",
+                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3307,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Palkan Helsinki-lisä",
+                    "prerequisites": "Kenelle: kaikille yksityisen ja kolmannen sektorin työnantajille\nMihin: palkkauskustannuksiin\nMäärä: korkeintaan 800 €\/kk. Määrään vaikuttavat työnantajan palkkauskustannukset ja niihin maksettavat muut tuet; palkkatuki ja koulutuskorvaus.\nKesto: enintään 12 kuukautta, oppisopimuksessa enintään koko oppisopimuksen ajan.\nTuen edellytyksenä on, että työsuhteeseen on myönnetty palkkatuki.",
+                    "information": "Mirkka Kesti-Helia, puh. 0401985891\nSonja Vuorela, puh. 0401833021\n\nHelsinkilisa@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3308,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Työllistämisen Helsinki-lisä",
+                    "prerequisites": "Kenelle: yrityksille ja taloudellista toimintaa harjoittaville yhteisöille\nMihin: henkilön palkkaamisesta syntyviin muihin kuin palkkauskustannuksiin, kuten ohjaus-, perehdytys-, työväline-, työvaate- ja työtilakustannuksiin silloin, kun niihin ei makseta muuta tukea\nMäärä: 500 €\/kk\nKesto: enintään 12 kuukautta\nTukea voidaan myöntää myös ilman työsuhteeseen myönnettyä palkkatukea.\n",
+                    "information": "Mirkka Kesti-Helia, puh. 0401985891\nSonja Vuorela, puh. 0401833021\n\nHelsinkilisa@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3309,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Toimeksiannon Helsinki-lisä",
+                    "prerequisites": "Kenelle: yrityksille ja taloudellista toimintaa harjoittaville yhteisöille\nMihin: työn tai projektin suorittamiseen kertaluontoisesti. Toimeksianto tehdään esimerkiksi osuuskunnan, toiminimen tai kevytyrittäjyyden kautta.\nMäärä: enintään 50 % toimeksiannon kokonaismäärästä, kuitenkin korkeintaan 1500 €\nKesto: työnantaja voi hakea toimeksiannon Helsinki-lisää korkeintaan kahteen toimeksiantoon vuodessa, ja toimeksiantosopimuksessa on huomioitava työttömyysturvaan ja työnantajavelvoitteisiin liittyvät asiat.\n",
+                    "information": "Mirkka Kesti-Helia, puh. 0401985891\nSonja Vuorela, puh. 0401833021\n\nHelsinkilisa@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4265,
         "fi": {
             "id": 4265,
@@ -15772,59 +15889,6 @@
                         }
                     ]
                 }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 4211,
-        "fi": {
-            "id": 4211,
-            "description_id": 3641,
-            "exact_descriptions": [
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Palkan Helsinki-lisä",
-            "description": "Kenelle: kaikille yksityisen ja kolmannen sektorin työnantajille\nMihin: palkkauskustannuksiin\nMäärä: korkeintaan 800 €\/kk. Määrään vaikuttavat työnantajan palkkauskustannukset ja niihin maksettavat muut tuet; palkkatuki ja koulutuskorvaus.\nKesto: enintään 12 kuukautta, oppisopimuksessa enintään koko oppisopimuksen ajan.\nTuen edellytyksenä on, että työsuhteeseen on myönnetty palkkatuki.\n",
-            "process_description": "Helsinki-lisä -hakemukset käsitellään saapumisjärjestyksessä. Jos hakemuksessa tai sen liitteissä on puutteita, pyytävät käsittelijät lisätietoa sähköpostitse tai soittamalla. Kun hakemus on käsitelty, siitä tehdään päätös, joka lähetetään hakijalle. Myönnetty Helsinki-lisä maksetaan hakemuslomakkeessa ilmoitetulle työnantajan tilille.",
-            "processing_time": "Noin neljä viikkoa",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/yritykset\/tyollisyys-yrittajat\/helsinki-lisa\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä hakemus",
-                    "url": "http:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.doc",
-                    "file_format": "WORD"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä hakemus",
-                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.pdf",
-                    "file_format": "PDF"
-                }
-            ],
-            "channels": [
             ]
         },
         "en": [
