@@ -5590,7 +5590,7 @@
             ],
             "service_id": 10954,
             "type": "ADVICE",
-            "name": "Hitas-asunnon vahvistettu enimmäishinta",
+            "name": "Hitas-asunnon myynti vahvistetulla enimmäishinnalla",
             "description": "Hae asunnon enimmäismyyntihinnan vahvistamista toimittamalla asuntopalveluille isännöitsijäntodistus tai Hitas-enimmäishinnan vahvistamislomake.\n\nJos Hitas-asuntoosi on tehty parannuksia tai taloyhtiöön on tehty remontteja, ja ne on jo kirjattu Hitas-rekisteriin, voit hakea enimmäishintalaskelmaa isännöitsijäntodistuksen perusteella.\n\nJos parannustöitä on tehty, mutta niitä ei ole vielä ilmoitettu, käytä Hitas-enimmäishinnan vahvistamislomaketta.\n\nIsännöitsijäntodistuksen ja\/tai Hitas-enimmäishinnan vahvistamislomakkeen laatii isännöitsijä. Enimmäishintalaskelma on voimassa kolme kuukautta laskelman päiväyksestä. Voit uusia laskelman sähköpostitse (hitas@hel.fi) tai puhelimitse (09 310 13033, ma-to 9-11).",
             "processing_time": "Saat enimmäishintalaskelman viikon kuluessa hakemuksesta.",
             "expiration_time": "Enimmäishintalaskelma on yleensä voimassa kolme kuukautta laskelman päiväyksestä. Jos huoneiston enimmäishinta on vahvistettu rajaneliöhinnalla, on laskelma voimassa 1-4 kuukautta.",
@@ -5606,11 +5606,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Hitas-asunnot",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/asuminen\/hitas"
-                }
             ],
             "channels": [
                 {
