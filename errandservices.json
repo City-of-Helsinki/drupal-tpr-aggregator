@@ -2776,177 +2776,6 @@
         }
     },
     {
-        "id": 4380,
-        "fi": {
-            "id": 4380,
-            "description_id": 2822,
-            "exact_descriptions": [
-                2822
-            ],
-            "service_id": 10131,
-            "type": "APPLICATION",
-            "name": "COVID-tuki helsinkiläisille yksinyrittäjälle",
-            "description": "Yksinyrittäjätuen hakuaika päättyi 30.9.2020 klo 23:59. Tämän jälkeen ei voi lähettää uusia hakemuksia.",
-            "process_description": "Yksinyrittäjätuen hakuaika päättyi 30.9.2020 klo 23:59. Uusia hakemuksia ei voi lähettää.\n--\nYksinyrittäjän tukihakemus jätetään sähköisesti palveluun asiointi.hel.fi. Palvelun pääsy vaatii vahvan tunnistautumisen. Hakemuksessa pitää vastata huolellisesti kaikkiin kysymyksiin ja lisätä pyydetyt liitteet. Hakija voi jättää myös paperisen hakemuksen, joka on tuotava henkilökohtaisesti osoitteeseen NewCo Helsinki, Ensi linja 1 Helsinki, tiistaisin tai torstaisin klo 10-11. Hakijan henkilöllisyys tarkistetaan, joten ota mukaan henkilöllisyystodistuksesi.\nHakemukset käsitellään saapumisjärjestyksessä. Hakemuksen käsittelijä tekee ehdotuksen päättäjälle hakemuksen hyväksymisetä tai hylkäämisestä. Käsittelijä voi ottaa yhteyttä hakijaan, jos hakemuksessa on puutteita.\nEhdotukset hyväksymisestä tai hylkäämisestä lähetetään asian tarkastajille ja sen jälkeen viranhaltijalle, joka tekee päätöksen. Päätöksiä tehdään kerran päivässä. Päätökset lähetetään hakijoille sähköisesti tai vaihtoehtoisesti postitse, jos hakija ei ole suostunut sähköiseen asiointiin. Päätöksenteon jälkeen tiedot lähetetään maksatukseen Talpaan ja tuki maksetaan sen jälkeen hakijan pankkitilille. \n",
-            "processing_time": "Hakemukset käsitellään saapumisjärjestyksessä. Myönteisen päätöksen jälkeen tuki maksetaan yritykselle 2-4 arkipäivän kuluessa.",
-            "expiration_time": "Yksinyrittäjien tukea oli mahdollista hakea 30.9.2020 saakka, ja korvausta voi saada ajalta 16.3. - 31.8.2020.",
-            "information": "Tuki on tarkoitettu päätoimiselle yksinyrittäjälle yhtiömuodosta riippumatta. Saatat olla päätoiminen yksinyrittäjä myös, jos käytät laskutuspalveluja (esim., Ukko, Eezy). Ehdot toteutuvat, mikäli sinulla on YEL-vakuutus tai laskutat tai olisit laskuttanut vuoden aikana vähintään 20 000 euroa. \nYksinyrittäjällä ei ole tuen hakuhetkellä työntekijöitä. Mikäli sinulla oli työntekijöitä ennen 16.3.2020, mutta olet irtisanonut (ei lomauttanut) heidät, olet oikeutettu tukeen. Mikäli yrityksessä on muita YEL-vakuutettuja, jotka tosiasiallisesti ovat töissä yrityksessä, voit hakea tukea ELY-keskukselta. \nTukea voi saada, jos:\n- Olet päätoiminen yksinyrittäjä. \n- Yritystoimintasi on merkittävästi heikentynyt koronapandemiasta johtuvista seikoista 16.3.2020 jälkeen.\n- Yritystoiminnalla pitää olla edellytyksiä kannattavaan toimintaan koronapandemian jälkeen.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2741,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "COVID-tuki helsinkiläisille yksinyrittäjälle - sähköinen hakemus",
-                    "prerequisites": "Olet päätoiminen yksinyrittäjä. Sinulla on siis YEL-vakuutus tai sinulla on yrittäjätuloa vähintään 20 000 euroa viime vuodelta tai vaihtoehtoisesti laskutusta, mikäli toimit laskutuspalvelun kautta. Mikäli aloitit vasta alle puoli vuotta sitten, tulee sinun todistaa laskutuksen nousseen 20 000 euron vuodessa normaalitilanteessa.",
-                    "information": "Yksinyrittäjätuen hakuaika päättyi 30.9.2020 klo 23:59. Tämän jälkeen ei voi lähettää uusia hakemuksia.\nLinkki hakemukseen on poistettu.",
-                    "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "1.\tHakija jättää sähköisen hakemuksen asiointi.hel.fi palveluun tai toimittaa paperisen hakemuksen Helsingin kaupungin kirjaamoon\n2.\tHakemus käsitellään ja tehdään päättäjälle ehdotus tuen myöntämisestä tai hylkäämisestä\n3.\tTehdään asiatarkastus\n4.\tPäättäjä päättää tuen myöntämisestä tai hylkäämisestä\n5.\tHakijoille annetaan tieto päätöksestä sähköisesti tai postitse\n6.\tTiedot myönteisistä päätöksestä ja hakijoista lähetetään Talpaan\n7.\tTalpa maksaa tuen hakijan pankkitilille",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4380,
-            "description_id": 2822,
-            "exact_descriptions": [
-                2822
-            ],
-            "service_id": 10131,
-            "type": "APPLICATION",
-            "name": "Application for operating support in the coronavirus situation for Helsinki-based sole entrepreneurs",
-            "description": "The application time for support for sole entrepreneurs ended 30.9.2020 at 23.59. After this you're not able to send applications anymore.",
-            "process_description": "The application time for support for sole entrepreneurs ended 30.9.2020 at 23.59. After this you're not able to send applications anymore.",
-            "information": "The sole entrepreneur support is entrepreneur-specific. If the sole entrepreneur has several companies in which they work alone, then support is granted to the company that is the entrepreneur's main occupation. The operating support for sole entrepreneurs can also be applied for in the entrepreneur's home municipality (according to the YTJ Business Information System) alone.\nThe support for sole entrepreneurs can be applied for in parallel with unemployment benefits, which have been temporarily extended in Finland to entrepreneurs. The 2,000-euro support for fixed expenses does not affect this payment of unemployment benefits.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2741,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Application",
-                    "prerequisites": "- The support is intended for full-time sole entrepreneurs, regardless of the legal form of the company.\n\n- The prerequisites are met, if you are insured under the self-employed persons' pension insurance (YEL) and you have an annual entrepreneurial income or invoicing of at least 20,000 euros. If you have started your business activities less than six months ago, then you have to prove that the revenue stream, if uninterrupted, would have accrued invoicing of 20,000 euros over a time period of 12 months.\n\n- A sole entrepreneur cannot have employees on payroll when applying for support. If you had employees before 16 March 2020, but have dismissed them (not laid them off), you are entitled to the support. If the company has other people with YEL-insurance, who are de facto working at the company, then you can apply for support from the Centre for Economic Development, Transport and the Environment.\n\n- The financial situation and turnover of your business activities have deteriorated significantly after 16 March 2020 due to the coronavirus outbreak. Significantly means that the turnover has dropped by more than 30 per cent, if it has remained stable during the previous 12-month period.\n\n- The business activities have been profitable based on the 2019 financial statements or the tax return. If you have tax liabilities, then you must have a plan in place for the repayment of the debt that has been approved by the Tax Administration. The sole entrepreneur's report of an exceptional situation in 2019 can be taken into consideration in the profitability evaluation.\n\n- Your business activities must have the potential to become profitable after the coronavirus epidemic. You must also report how you plan to use the support money. The support cannot be used for paying the entrepreneur's salary. It must be used, for example, for rent, acquisitions or other equivalent expenses. The business activities must also continue after the coronavirus epidemic.",
-                    "information": "The application time for support for sole entrepreneurs ended 30.9.2020 at 23.59. After this you're not able to send applications anymore.",
-                    "availability_summary": "service available every day around the clock",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4380,
-            "description_id": 2822,
-            "exact_descriptions": [
-                2822
-            ],
-            "service_id": 10131,
-            "type": "APPLICATION",
-            "name": "Ansökan om verksamhetsstöd för ensamföretagare i Helsingfors under coronakrisen",
-            "description": "Ansökningsperioden för stöd till egenföretagare slutade den 30 september 2020 kl. 23:59. Inga nya ansökningar kan skickas efter detta.",
-            "process_description": "Ansökningsperioden för stöd till egenföretagare slutade den 30 september 2020 kl. 23:59. Inga nya ansökningar kan skickas efter detta.",
-            "information": "Stöd till ensamföretagare betalas per företagare. Om en ensamföretagare har flera företag där hen själv arbetar, kan stödet beviljas det företag som är företagarens huvudsyssla. En ensamföretagare kan endast söka verksamhetsunderstöd från den hemkommun som angetts i FODS-registret.\n\nMan kan ansöka om stöd för ensamföretagare parallellt med arbetsmarknadsstöd för företagare. Ett verksamhetsstöd på 2000 euro för fasta kostnader inverkar inte på arbetsmarknadsstödet.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2741,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan",
-                    "prerequisites": "- Stödet är avsett för ensamföretagare på heltid, oavsett bolagsform.\n\n- Förutsättningarna för ansökan om understöd uppfylls om du är i FöPL-registret och du under det föregående året haft företagsinkomst eller fakturering på minst 20 000 euro. Om din företagsverksamhet startade för mindre än ett halvår sedan ska du intyga att det fortsatta inkomstflödet skulle ha lett till en fakturering på 20 000 euro under en period på tolv månader. \n\n- Ensamföretagaren får inte ha några anställda vid tidpunkten för ansökan. Om du hade anställda före den 16 mars 2020 men har sagt upp dem (inte permitterat) är du berättigad till stödet. Om det finns andra FöPL-försäkrade som faktiskt arbetar i företaget, kan du ansöka om stöd hos NTM-centralen.\n\n- Din företagsverksamhet och omsättning har minskat avsevärt sedan den 16 mars 2020 på grund av coronaepidemin. Avsevärt innebär att omsättningen har minskat med minst 30 % då den hade varit stabil under de föregående tolv månaderna.\n\n- Bokslutet för 2019 eller skattedeklarationen visar att företagsverksamheten varit lönsam. Om du har skatteskuld, ska du ha en plan för betalning av skatteskulden, som Skatteförvaltningen har godkänt. Då man bedömer om verksamheten är lönsam kan man ta hänsyn till ensamföretagarens utredning om en exceptionell situation under 2019.\n\n- Ditt företag måste ha förutsättningar för en lönsam verksamhet efter coronaepidemin. Du ska även berätta till vad du ska använda stödpengarna. Stödet får inte användas för att betala företagarlön, utan det ska användas för till exempel hyra, inköp etc. Företagsverksamheten måste fortsätta efter coronaepidemin.\n",
-                    "information": "Ansökningsperioden för stöd till egenföretagare slutade den 30 september 2020 kl. 23:59. Inga nya ansökningar kan skickas efter detta.",
-                    "availability_summary": "tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 4422,
         "fi": {
             "id": 4422,
@@ -4875,24 +4704,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/yritykset\/tyollisyys-yrittajat\/helsinki-lisa\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä hakemus",
-                    "url": "http:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.doc",
-                    "file_format": "WORD"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsinki-lisä hakemus",
-                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa-hakemus-2021_fi.pdf",
-                    "file_format": "PDF"
-                }
             ],
             "channels": [
                 {
@@ -8306,6 +8117,7 @@
                     "name": "Sähköinen hakemus - avustukset järjestöille, jotka tarjoavat harrastustoimintaa varhaiskasvatuksen palvelujen ulkopuolelle jääville alle kouluikäisille lapsille",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.\n",
                     "information": "Avustusten hakuaika on vuosittain tammikuussa.",
+                    "availability_summary": "avoinna 1-31.1.2022 joka päivä",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.\n",
                     "provided_languages": [
                         "en",
@@ -8328,6 +8140,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä 1-31.1.2022"
+                        }
                     ]
                 },
                 {
@@ -8399,6 +8214,7 @@
                     "name": "Electronic appliction - subsidies for organisations that provide recreational activities to children under school age who are not participating in early childhood education",
                     "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
                     "information": "The application period is at January.",
+                    "availability_summary": "open 1-31 Jan 2022 every day",
                     "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status Received. When the application has the status Processed, it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.\n",
                     "provided_languages": [
                         "en",
@@ -8421,6 +8237,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Open every day 1-31 Jan 2022"
+                        }
                     ]
                 },
                 {
@@ -8492,6 +8311,7 @@
                     "name": "Elektronisk ansökan - Understöd till organisationer som erbjuder fritidsaktiviteter för barn under skolåldern som inte omfattas av tjänster inom småbarnspedagogiken",
                     "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
                     "information": "Ansökningstiden är i januari.",
+                    "availability_summary": "öppet 1-31.1.2022 varje dag",
                     "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
                     "provided_languages": [
                         "en",
@@ -8514,6 +8334,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag 1-31.1.2022"
+                        }
                     ]
                 },
                 {
@@ -22330,11 +22153,10 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Työsuhdeasuntojen hakeminen",
-            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin työntekijöille tarkoitettua työsuhdeasuntoa. Palvelu on tarkoitettu kaikille Helsingin kaupungin toimialojen, keskushallinnon ja liikelaitoksien työntekijöille (pois lukien HKL ja Palvelukeskus Helsinki, jotka välittävät työsuhdeasuntonsa itse).\n",
-            "process_description": "Työsuhdeasuntoa haetaan kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Asuntoihin voi tutustua tarkemmin vapaiden vuokra-asuntojen esittelysivulla. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Kun olet vahvistanut hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, tulee sinun käydä tunnistautuassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi taustajärjestelmään, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.  \n\nSinun on mahdollista päivittää hakemustasi. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakija itse.\n\nTyösuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. \n",
+            "description": "Näin haet työsuhdeasuntoa",
+            "process_description": "Voit hakea työsuhdeasuntoa kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Tutustu asuntoihin tarkemmin vapaiden vuokra-asuntojen esittelysivulla. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksilla. Kun olet vahvistanut hakemuksen, se tallentuu asukasvalintajärjestelmäämme.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä. ",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja. Vuokra peritään laskulla.",
-            "information": "Työsuhdeasunnot ovat Helsingin kaupungin työsuhteeseen sidottuja ja niihin solmitaan toistaiseksi voimassa oleva vuokrasopimus. Vuokra peritään laskulla.\n\nTyösuhdeasuntoja välitetään kaikille Helsingin kaupungin toimialojen, keskushallinnon ja liikelaitoksien työntekijöille (pois lukien HKL ja Palvelukeskus Helsinki, jotka välittävät työsuhdeasuntonsa itse).\n\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
