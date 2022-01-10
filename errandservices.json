@@ -3331,6 +3331,44 @@
         ]
     },
     {
+        "id": 4964,
+        "fi": {
+            "id": 4964,
+            "description_id": 2696,
+            "exact_descriptions": [
+                8749
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Hae Hekan vuokra-asuntoa",
+            "description": "Näin voit hakea Hekan vuokra-asuntoa.",
+            "process_description": "Tee Hekan vuokra-asuntohakemus vuokra-asunnon hakupalvelussa. Lisää hakemukseen henkilökohtainen sähköpostisi, joka on vain sinun käytössäsi. Hakemuksen jättämisen jälkeen saat sähköpostiviestin hakemuksen vastaanottamisesta. Huomaa, että sinun pitää vahvistaa hakemuksesi tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella, jotta hakemuksesi on mukana asukasvalinnoissa. \n\nVoit hakea asuntoa myös kanssahakijan kanssa. Silloin myös kanssahakijan tulee vahvistaa hakemus tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.  \n\nJos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, käy tunnistautumassa hakemuksen jättämisen jälkeen vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todistaa henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti). Tunnistautumisen jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nHakemuksesi on voimassa kolme kuukautta. Jos asuntohakemuksesi Hekan vuokra-asuntoon vanhenee, tulee sinun tehdä uusi hakemus. \n\nKullakin hakijalla voi olla vain yksi asuntohakemus Hekan vuokra-asuntoon voimassa kerrallaan.",
+            "expiration_time": "Hakemus on voimassa kolme kuukautta sen jättämisestä tai muutosten tekemisestä.",
+            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "FORM",
+                    "title": "Hakemus Hekan vuokra-asuntoon",
+                    "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4816,
         "fi": {
             "id": 4816,
@@ -22153,8 +22191,7 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Työsuhdeasuntojen hakeminen",
-            "description": "Näin haet työsuhdeasuntoa",
-            "process_description": "Voit hakea työsuhdeasuntoa kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Tutustu asuntoihin tarkemmin vapaiden vuokra-asuntojen esittelysivulla. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksilla. Kun olet vahvistanut hakemuksen, se tallentuu asukasvalintajärjestelmäämme.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.",
+            "description": "Voit hakea työsuhdeasuntoa kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Tutustu asuntoihin tarkemmin vapaiden vuokra-asuntojen esittelysivulla. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksilla. Kun olet vahvistanut hakemuksen, se tallentuu asukasvalintajärjestelmäämme.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä. ",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja. Vuokra peritään laskulla.",
             "provided_languages": [
@@ -22872,13 +22909,14 @@
             "description_id": 2696,
             "exact_descriptions": [
                 2696,
-                7455
+                7455,
+                8742
             ],
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Vapaarahoitteisen vuokra-asunnon hakeminen",
-            "description": "Sähköinen asiointipalvelu, jonka kautta voi hakea Helsingin kaupungin omistamia vapaarahoitteisia vuokra-asuntoja.\n\nHelsingin kaupungin omistamien vapaarahoitteisten vuokra-asuntojen asukasvalintaa ei säätele lainsäädäntö eikä asukasvalinnassa noudateta kiireellisyysluokitusta tai varallisuusrajoja. Asunnot sijaitsevat ympäri Helsinkiä. Osa asunnoista on yksittäisiä asuntoja tavallisissa asunto-osakeyhtiöissä.\n",
-            "process_description": "Vapaarahoitteista vuokra-asuntoa Vuokraovi.com-sivuston kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Kun olet lähettänyt hakemuksen, kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään. \n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, tulee sinun käydä tunnistautuassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi taustajärjestelmään, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.  \n\nPäähakijan tulee olla yli 18-vuotias ja hänellä täytyy olla suomalainen henkilötunnus. Asuntoa haetaan kohdekohtaisesti valitsemalla hakemuksen kohdelistalta sopivat asunnot.\n\nHakijan ja kanssahakijan on mahdollista päivittää hakemustaan. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n\n\n",
+            "description": "Näin haet vapaarahoitteista vuokra-asuntoa.",
+            "process_description": "Hae vapaarahoitteista vuokra-asuntoa Vuokraovi.com-sivuston kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan pitää tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Kun olet lähettänyt hakemuksen, myös kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi järjestelmäämme, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nPäähakijana sinun tulee olla täysi-ikäinen ja sinulla pitää olla suomalainen henkilötunnus. \n\nHakemus on voimassa kolme kuukautta. Voit päivittää hakemustasi halutessasi, jolloin se korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan silloin sinun on tehtävä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
@@ -22901,9 +22939,9 @@
                     "url": "https:\/\/www.vuokraovi.com\/yritykset\/uusimaa\/helsingin-kaupunki--asuntopalvelut\/kohteet\/166"
                 },
                 {
-                    "type": "INTERNET",
-                    "title": "Hae vapaarahoitteista asuntoa",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/asunnonhaku-fi\/asunnon-hakeminen\/hae-vapaarahoitteisia-asuntoja\/"
+                    "type": "FORM",
+                    "title": "Hakemus vapaarahoitteiseen asuntoon",
+                    "url": "https:\/\/hakemus.etampuuri.fi\/kymp-vapaarahoitteinen\/"
                 }
             ],
             "channels": [
