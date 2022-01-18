@@ -10625,12 +10625,15 @@
             "name": "Kerhohakemus sähköisessä asioinnissa",
             "description": "Sähköisessä asiointipalvelussa voit hakea kerhoihin. Voit muokata sähköisen asiointipalvelun kautta tehtyjä hakemuksia olemalla yhteydessä varhaiskasvatuksen palveluohjaukseen.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
+                "CHILDREN_AND_FAMILIES"
             ],
             "life_events": [
             ],
@@ -10669,10 +10672,70 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4947,
+            "exact_descriptions": [
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Applying for a club via the City of Helsinki's e-services",
+            "description": "You can apply for clubs via the City of Helsinki's e-services. To edit applications you have submitted via the e-services, please contact Service guidance for early childhood education.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Fill in the application in the City of Helsinki’s e-services",
+                    "url": "https:\/\/asiointi.hel.fi"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4947,
+            "exact_descriptions": [
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Ansökan om plats inom klubbverksamhet i e-tjänsterna",
+            "description": "Du kan ansöka om plats inom klubbverksamheten i e-tjänsterna. Du kan redigera ansökningar som lämnats in via e-tjänsterna genom att kontakta småbarnspedagogikens servicehandledning.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Fyll i ansökan i e-tjänsterna",
+                    "url": "https:\/\/asiointi.hel.fi"
+                }
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4926,
@@ -22932,6 +22995,7 @@
             "costs": "Huomioi maksupäätöksen kansio \n\nMaksupäätökset toimitetaan toiseen Helsingin kaupungin sähköiseen asiointikansioon osoitteessa asiointi.hel.fi sille huoltajalle, joka on tehnyt hakemuksen. Tämä on siis eri järjestelmä, kun mihin varhaiskasvatuspäätös tulee ja huoltajan tulee katsoa asiakasmaksupäätöksiä sieltä.    \n",
             "information": "Varhaiskasvatushakemuksen voi tehdä aikaisintaan vuotta ennen toivottua alkamispäivää.  \n  \nVarhaiskasvatuspaikkaa voi hakea myös Helsingin ulkopuolella asuvat. Paikan saamisen edellytyksenä on, että perheellä on varhaiskasvatuksen alkaessa kotipaikkana Helsinki. ",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -22990,23 +23054,61 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": {
+        "en": {
             "id": 4512,
             "exact_descriptions": [
-                2484
+                2484,
+                8693
             ],
             "service_id": 10055,
             "type": "APPLICATION",
-            "name": "Ansökan om småbarnspedagogik",
-            "description": "Med ansökan kan du, i e-tjänsten Asti, ansöka om plats i Helsingfors stads småbarnspedagogik. Plats i förskoleundervisningen kan sökas genom Helsingfors stads e-tjänster.",
+            "name": "Applying for early childhood education and care via the Asti online service",
+            "description": "Parents and guardians can apply for early childhood education and care provided by the City of Helsinki for their child via the Asti online service.\n\nPlease submit any applications for pre-primary education and club activities through your e-services folder.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Asti online service ",
+                    "url": "https:\/\/asti.hel.fi\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "https:\/\/www.hel.fi\/helsinki\/en\/childhood-and-education\/day-care\/early-childhood-education-service-guidance\/",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/childhood-and-education\/day-care\/early-childhood-education-service-guidance\/"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4512,
+            "exact_descriptions": [
+                2484,
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Ansökan om plats inom småbarnspedagogik i e-tjänsten Asti",
+            "description": "Vårdnadshavare kan ansöka om plats till sitt barn inom Helsingfors stads småbarnspedagogik i e-tjänsten Asti.\n\nAnsökan om plats till förskoleundervisning och klubbverksamhet sker via ärendemappen i e-tjänsterna.\n",
             "process_description": "Vid varje rubrik i ansökningsformuläret finns instruktioner om hur du ska fylla i formuläret. Uppgifter som saknas eller är felaktiga visas i röd text på den sida där informationen fattas. Du kan gå vidare i ansökningsprocessen när alla fält i formuläret är ifyllda. Ansökan kan sparas som utkast och utkastet går att redigera senare. Utkastet försvinner när ansökan skickas in. Ansökan kan redigeras fram till tre månader innan man önskar att småbarnspedagogiken ska inledas. \n\nDen inskickade ansökan sparas automatiskt i e-tjänsten Asti. Du får en avisering när ansökan kommit fram. Den sökande kan följa med ansökningens status i Asti. Status för en inskickad ansökan som väntar på behandling är Skickad. När behandlingen av ansökan börjar ändras status till I behandling. \n\nBeslut om ansökan om småbarnspedagogik fattas från och med det datum man önskar att småbarnspedagogiken ska inledas och i mån av möjlighet enligt familjens önskemål. \n\nBarnets vårdnadshavare kan se beslutet om en plats inom småbarnspedagogiken i Asti.\n\nAnsökan kan raderas innan beslutet har fattats. Status för en raderad ansökan är Annullerad. Då finns ansökan inte längre i systemet. \n\nKontaktuppgifter finns på daghemmens webbsidor och på webbsidan med familjedagvårdsområdena.\n",
             "processing_time": "Behandlingstiden för en ansökan är högst fyra månader, om sökanden inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen börjar ungefär tre månader före det startdatum du",
             "expiration_time": "Ansökan är i kraft ett år efter det att den sänts in. ",
             "costs": "Notera ärendemappen för kundavgiftsbeslutet. \nBeslut om avgiften för småbarnspedagogiken skickas till den så kallade elektroniska ärendemappen i Helsingfors stads e-tjänster på adressen asiointi.hel.fi. Kundavgiftsbeslutet och beslutet om småbarnspedagogik skickas alltså till olika e-tjänster. Kundavgiftsbeslutet skickas till den vårdnadshavare som gjort ansökan om småbarnspedagogik. \n",
             "information": "Ansökan kan lämnas in tidigast ett år före det önskade startdatumet. \n\nOckså personer som bor utanför Helsingfors kan lämna in en ansökan. För att få en plats i småbarnpedagogiken måste familjen ändå bo i Helsingfors när barnet inleder småbarnspedagogiken.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -23072,11 +23174,15 @@
             "name": "Varhaiskasvatushakemus paperilomakkeella",
             "description": "Paperilomakkeella voit hakea varhaiskasvatuksen palveluihin, mikäli sinulla\/perheelläsi ei ole suomalaisia henkilötunnuksia, sinulla\/perheelläsi ei ole suomalaisia pankkitunnuksia, sähköinen hakeminen ei ole muuten sinulle\/perheellesi mahdollista tai jollain perheessäsi on turvakielto. \n\nPalauta paperihakemus ensisijaisesti postitse osoitteeseen Varhaiskasvatuksen palveluohjaus, Töysänkatu 2 D, PL 51300, 00099 Helsingin kaupunki. Myös tietyt leikkipuistot ottavat paperihakemuksia vastaan.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
+                "CHILDREN_AND_FAMILIES"
             ],
             "life_events": [
             ],
@@ -23116,10 +23222,72 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4948,
+            "exact_descriptions": [
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Applying for early childhood education and care with a paper form",
+            "description": "You can use the paper form to apply for early childhood and care services if you and your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply via the e-services for other reasons, or a member of your family has been granted non-disclosure for personal safety reasons. \n\nPlease return the paper application primarily by post to the following address: Service guidance for early childhood education, Töysänkatu 2 D, PO Box 51300, 00099 City of Helsinki. We also accept paper applications at certain playgrounds.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Application for early childhood education",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/varhaiskasvatushakemus_EN.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4948,
+            "exact_descriptions": [
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Ansökan om plats inom småbarnspedagogik med pappersblankett",
+            "description": "Om du\/din familj inte har finsk personbeteckning, du\/din familj inte har finska bankkoder, någon i din familj har spärrmarkering eller om du\/din familj på grund av andra skäl inte har möjlighet att ansöka elektroniskt kan du ansöka om plats inom småbarnspedagogikens tjänster med en pappersblankett. \n\nSkicka pappersansökan i första hand per post till adressen Småbarnspedagogikens servicehandledning, Töysägatan 2 D, PB 51300, 00099 Helsingfors stad. Även vissa lekparker tar emot pappersansökningar.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "FORM",
+                    "title": "Ansökan till småbarnspedagogik",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/sves\/varhaiskasvatushakemus_SV.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 1168,
