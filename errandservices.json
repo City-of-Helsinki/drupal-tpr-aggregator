@@ -4201,8 +4201,7 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Hekan vuokra-asunnon hakeminen",
-            "description": "Näin voit hakea Hekan vuokra-asuntoa.",
-            "process_description": "Tee Hekan vuokra-asuntohakemus vuokra-asunnon hakupalvelussa. Lisää hakemukseen henkilökohtainen sähköpostisi, joka on vain sinun käytössäsi. Hakemuksen jättämisen jälkeen saat sähköpostiviestin hakemuksen vastaanottamisesta. Huomaa, että sinun pitää vahvistaa hakemuksesi tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella, jotta hakemuksesi on mukana asukasvalinnoissa. \n\nVoit hakea asuntoa myös kanssahakijan kanssa. Silloin myös kanssahakijan tulee vahvistaa hakemus tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.  \n\nJos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, käy tunnistautumassa hakemuksen jättämisen jälkeen vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todistaa henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti). Tunnistautumisen jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nHakemuksesi on voimassa kolme kuukautta. Jos asuntohakemuksesi Hekan vuokra-asuntoon vanhenee, tulee sinun tehdä uusi hakemus. \n\nKullakin hakijalla voi olla vain yksi asuntohakemus Hekan vuokra-asuntoon voimassa kerrallaan.",
+            "description": "Tee Hekan vuokra-asuntohakemus vuokra-asunnon hakupalvelussa. Huomaa, että sinun pitää vahvistaa hakemuksesi tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella, jotta hakemuksesi on mukana asukasvalinnoissa. \n\nVoit hakea asuntoa myös kanssahakijan kanssa. Silloin myös kanssahakijan pitää vahvistaa hakemus tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.  \n\nJos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, käy tunnistautumassa vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todista henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti).",
             "expiration_time": "Hakemus on voimassa kolme kuukautta sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
@@ -10651,7 +10650,9 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Täytä kerhohakemus sähköisessä asiointipalvelussa",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
@@ -10702,6 +10703,33 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 3288,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Fill in the application in the City of Helsinki's e-services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the e-services",
+                            "url": "https:\/\/asiointi.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -10734,6 +10762,33 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 3288,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Fyll i ansökan i e-tjänsterna",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Logga in i e-tjänsterna",
+                            "url": "https:\/\/asiointi.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -10946,10 +11001,52 @@
             "channels": [
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4945,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "OTHER_ESERVICE",
+            "name": "Three-family daycare",
+            "description": "In three-family daycare, the family daycare caregiver works in the families' homes. This care is primarily provided in different families' homes on alternate weeks, which is why this type of care requires flexibility and close cooperation. The families take turns preparing food for the group and are compensated for it. A three-family daycare group includes four children under the age of seven. The group can also include a pre-schooler or a schoolchild in the afternoon. The group is formed by children from one to four families.\n\nChildren in three-family daycare are covered by insurance while in care. The City of Helsinki's insurance does not cover damage to property.\n\nFor more information on three-family daycare and care providers, please contact Service guidance for early childhood education or the family daycare supervisor.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4945,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "OTHER_ESERVICE",
+            "name": "Trefamiljsdagvård",
+            "description": "Inom trefamiljsdagvården arbetar en familjedagvårdare hemma hos familjerna. Verksamheten sker i regel veckovis hemma hos de olika familjerna, vilket innebär att vårdformen kräver flexibilitet och bra samarbete. Familjerna turas om att laga mat och får ersättning för det. Trefamiljsdagvårdens grupp består av fyra barn under skolåldern. Dessutom kan man även placera ett förskolebarn eller en skolelev i gruppen på eftermiddagarna. Gruppen bildas av barn från 1-4 familjer.\n\nBarn i trefamiljsdagvård är försäkrade under vårddagen. Stadens försäkring täcker inte skador på föremål.\n\nMer information om trefamiljsdagvård och vårdplatser får du från småbarnspedagogikens servicehandledning eller chefen för familjedagvården.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4054,
@@ -14945,7 +15042,7 @@
                     "type_string": "Sähköposti",
                     "name": "Asukasvalinnat, sähköposti",
                     "process_description": "Lähetä tiedot asukasvalinnoista sähköpostitse.",
-                    "email": "asvalinnat@hel.fi",
+                    "email": "asvalvonta@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -15982,7 +16079,9 @@
             "name": "Perhepäivähoito hoitajan kotona",
             "description": "Perhepäivähoitaja on kunnan työntekijä, joka hoitaa lapsia omassa kodissaan. Kaikissa perhepäivähoidon muodoissa lapsiryhmän koko on neljä. Lisäksi ryhmään voidaan sijoittaa iltapäiväksi esiopetusikäinen tai koululainen.\n\nHoitoaika sovitaan lapsikohtaisesti huoltajien työssäoloajan, opiskelun tai muun tarpeen mukaan. Perhepäivähoitajan työaika on pääsääntöisesti 8-9 tuntia päivässä ja keskimäärin 40 tuntia viikossa.\n\nHoitajan ollessa poissa lapselle järjestetään varahoito. Lapselle sovitaan varahoitopaikka hoidon alkaessa ja siihen tutustutaan mahdollisuuksien mukaan. Varahoito tapahtuu ryhmäperhepäivähoidossa, päiväkodissa tai toisen hoitajan ryhmässä.\n\nPerhepäivähoitajan esimiehenä toimii alueen perhepäivähoidon ohjaaja. Saat häneltä lisätietoja perhepäivähoidosta ja hoitopaikoista.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
             ],
@@ -15995,10 +16094,56 @@
             "channels": [
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4943,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "OTHER_ESERVICE",
+            "name": "Family daycare at the caregiver's home",
+            "description": "A family daycare caregiver is an employee of the City of Helsinki who provides care for children in their own home. \nThe maximum group size is four children. The group can also include a pre-schooler or a schoolchild in the afternoon.\n\nThe care provider and the guardians agree on the hours of care separately for each child based on the guardians' working hours, studies or other needs. Family daycare caregivers generally work for 8-9 hours a day, for an average of 40 hours a week.\n\nIn the caregiver's absence, we will provide substitute care for the child at a daycare centre, group family daycare centre or in the group of another family daycare caregiver.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4943,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "OTHER_ESERVICE",
+            "name": "Familjedagvård i vårdarens hem",
+            "description": "Familjedagvårdare som tar hand om barn i sitt eget hem är anställd hos Helsingfors stad. \nGruppen får bestå av högst fyra barn. Dessutom kan man även placera ett förskolebarn eller en skolelev i gruppen på eftermiddagarna.\n\nVårdaren och vårdnadshavarna kommer överens om vårdtiden separat för varje barn beroende på vårdnadshavarens arbetstider, studier eller andra behov. Familjedagvårdaren arbetar i regel 8-9 timmar per dag och i genomsnitt 40 timmar i veckan.\n\nNär vårdaren inte arbetar ordnas reservvård för barnet på ett daghem, ett gruppfamiljedaghem eller i en annan familjevårdares grupp.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4946,
@@ -18328,7 +18473,9 @@
             "name": "Ryhmäperhepäivähoito",
             "description": "Ryhmäperhepäivähoidossa kaksi perhepäivähoitajaa työskentelee kaupungin tiloissa. Lapsiryhmän koko on kahdeksan alle kouluikäistä lasta. Lisäksi ryhmässä voi olla kaksi osapäiväistä esikoulu- tai kouluikäistä lasta.\n\nRyhmäperhepäiväkodit ovat auki 9 tuntia vuorokaudessa. Tarkemmat tiedot aukioloajoista saat alueen perhepäivähoidon ohjaajalta.\n\nPerhepäivähoitajan esimiehenä toimii alueen perhepäivähoidon ohjaaja. Tarvittaessa saatte häneltä lisätietoja ryhmäperhepäivähoidosta.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
@@ -18343,10 +18490,60 @@
             "channels": [
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4944,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "OTHER_ESERVICE",
+            "name": "Group family daycare",
+            "description": "Group family daycare is provided by two family daycare caregivers in premises of the City of Helsinki. The maximum group size is eight children. The group can also include two pre-schoolers or schoolchildren in the afternoon. \n\nGroup family daycare centres are open for nine hours between 7.00 and 17.00. For more detailed information on opening hours, please see the service location's details or contact Service guidance for early childhood education or the family daycare supervisor. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4944,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "OTHER_ESERVICE",
+            "name": "Gruppfamiljedagvård",
+            "description": "Inom gruppfamiljedagvården arbetar två familjedagvårdare i stadens lokaler. Gruppen får bestå av högst åtta barn. Dessutom kan man även placera två förskolebarn eller skolelever i gruppen på eftermiddagarna. \n\nGruppfamiljedaghemmen har öppet i 9 timmar mellan klockan 7.00 och 17.00. Mer information om öppettider får du från verksamhetsställets uppgifter, småbarnspedagogikens servicehandledning eller chefen för familjedagvården. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4046,
@@ -19221,7 +19418,7 @@
                     "id": 918,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Sosiaali- ja terveystoimi, yleisavustushakemus.",
+                    "name": "Sosiaali- ja terveystoimiala sekä kulttuurin ja vapaa-ajan toimiala: Avustus iäkkäiden ihmisten liikkumisen ja kulttuuritoiminnan edistämiseksi",
                     "prerequisites": "1.1.2021 alkaen palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
                     "information": "Palvelu saatavilla hakuaikana joka päivä ympäri vuorokauden.",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata Asiointikansiosta.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittelyssä\"-tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää hakemuksen \"Viestit\"-ominaisuutta käyttäen annettuun määräaikaan mennessä.",
