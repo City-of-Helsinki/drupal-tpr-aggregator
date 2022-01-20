@@ -16156,7 +16156,9 @@
             "type": "APPLICATION",
             "name": "Perhepäivähoitoon ja päiväkotiin haetaan samalla varhaiskasvatushakemuksella Asti-asiointipalvelussa",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
@@ -16210,7 +16212,9 @@
             "type": "APPLICATION",
             "name": "Apply for a place in group family daycare and daycare centre with the same application for early childhood education on the Asti online service.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
@@ -16230,8 +16234,37 @@
             "channels": [
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 4946,
+            "exact_descriptions": [
+                3159
+            ],
+            "service_id": 10059,
+            "type": "APPLICATION",
+            "name": "För ansökan till familjedagvård och daghem används samma ansökan om småbarnspedagogik i e-tjänsten Asti",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Go till e-tjänsten Asti",
+                    "url": "https:\/\/asti.hel.fi"
+                }
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4300,
@@ -23010,8 +23043,7 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Vapaarahoitteisen vuokra-asunnon hakeminen",
-            "description": "Näin haet vapaarahoitteista vuokra-asuntoa.",
-            "process_description": "Hae vapaarahoitteista vuokra-asuntoa Vuokraovi.com-sivuston kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan pitää tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Kun olet lähettänyt hakemuksen, myös kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Neuvonnassa asuntoneuvoja vahvistaa henkilöllisyytesi järjestelmäämme, jonka jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nPäähakijana sinun tulee olla täysi-ikäinen ja sinulla pitää olla suomalainen henkilötunnus. \n\nHakemus on voimassa kolme kuukautta. Voit päivittää hakemustasi halutessasi, jolloin se korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan silloin sinun on tehtävä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n",
+            "description": "Hae vapaarahoitteista vuokra-asuntoa Vuokraoven tai Oikotiensivun kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nPäähakijana sinun tulee olla täysi-ikäinen ja sinulla pitää olla suomalainen henkilötunnus. \n\nVoit päivittää hakemustasi halutessasi, jolloin se korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan silloin sinun on tehtävä uusi hakemus.",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
