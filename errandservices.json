@@ -13493,6 +13493,78 @@
         ]
     },
     {
+        "id": 4969,
+        "fi": {
+            "id": 4969,
+            "exact_descriptions": [
+                8764
+            ],
+            "service_id": 11094,
+            "type": "APPLICATION",
+            "name": "Lyhytaikaisen vuokra-asunnon hakeminen",
+            "description": "Hae lyhytaikaista vuokra-asuntoa Oikotien sivujen kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nAsuntoja tarjotaan sitä mukaa, kun haettavina oleviin kohteisiin saapuu valintakriteerit täyttäviä hakemuksia. Kutakin kohdetta tarjotaan yhdelle hakijalle kerrallaan.",
+            "expiration_time": "Hakemus on voimassa kolme kuukautta sen jättämisestä tai muutosten tekemisestä.",
+            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "FORM",
+                    "title": "Lyhytaikaisen vuokra-asunnon hakemus",
+                    "url": "https:\/\/hakemus.etampuuri.fi\/kymp-lyhytaikainen\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3314,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hakemus lyhytaikaiseen vuokra-asuntoon",
+                    "availability_summary": "avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus lyhytaikaiseen vuokra-asuntoon",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-lyhytaikainen\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4091,
         "fi": {
             "id": 4091,
