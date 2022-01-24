@@ -21642,7 +21642,8 @@
         "fi": {
             "id": 675,
             "exact_descriptions": [
-                2763
+                2763,
+                8771
             ],
             "service_id": 10084,
             "type": "ORDERING",
@@ -21728,6 +21729,8 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Todistusjäljennös",
+                    "information": "Tallenna PDF-lomake koneellesi ennen kuin täytät sen.",
+                    "process_description": "1. Lähetä täytetty lomake kasvatuksen ja koulutuksen toimialan arkistoon, mikäli olet tilaamassa \n- 1996 tai myöhemmin saatua peruskoulun päättö- tai erotodistusta tai \n- 2006 tai myöhemmin saatua lukion päättö- tai erotodistusta. \n2. Lähetä lomake joko turvasähköpostissa arkiston osoitteeseen arkisto.kasvatusjakoulutus@hel.fi TAI tavallisessa postissa osoitteeseen kasvatuksen ja koulutuksen arkisto PL 51300, 00099 Helsingin kaupunki\n",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -21742,6 +21745,11 @@
                             "type": "INTERNET",
                             "title": "Lomake, pdf",
                             "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/todistusjaljennostilaus.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Turvasähköposti",
+                            "url": "https:\/\/securemail.hel.fi\/"
                         }
                     ],
                     "availabilities": [
