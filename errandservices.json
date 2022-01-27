@@ -13502,7 +13502,7 @@
             "service_id": 11094,
             "type": "APPLICATION",
             "name": "Lyhytaikaisen vuokra-asunnon hakeminen",
-            "description": "Hae lyhytaikaista vuokra-asuntoa Oikotien sivujen kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nAsuntoja tarjotaan sitä mukaa, kun haettavina oleviin kohteisiin saapuu valintakriteerit täyttäviä hakemuksia. Kutakin kohdetta tarjotaan yhdelle hakijalle kerrallaan.",
+            "description": "Hae lyhytaikaista vuokra-asuntoa Oikotien sivujen kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistautumiskäynnin jälkeen.\n",
             "expiration_time": "Hakemus on voimassa kolme kuukautta sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
@@ -22406,7 +22406,7 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Työsuhdeasunnon hakeminen",
-            "description": "Voit hakea työsuhdeasuntoa kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksilla. Kun olet vahvistanut hakemuksen, se tallentuu asukasvalintajärjestelmäämme.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.",
+            "description": "Voit hakea työsuhdeasuntoa kohdekohtaisesti valitsemalla asuntoja työsuhdeasuntohakemuksella. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksilla. Kun olet vahvistanut hakemuksen, se tallentuu asukasvalintajärjestelmäämme.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistautumiskäynnin jälkeen.",
             "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä. ",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja. Vuokra peritään laskulla.",
             "provided_languages": [
@@ -22457,6 +22457,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vapaat työsuhdeasunnot",
+                            "url": "https:\/\/kymp-markkinointihaku.etampuuri.fi\/?asumismuoto=tyosuhde"
+                        },
                         {
                             "type": "FORM",
                             "title": "Hakemus työsuhdeasuntoon",
@@ -23508,6 +23513,7 @@
         "fi": {
             "id": 4948,
             "exact_descriptions": [
+                3158,
                 8693
             ],
             "service_id": 10055,
@@ -23566,6 +23572,7 @@
         "en": {
             "id": 4948,
             "exact_descriptions": [
+                3158,
                 8693
             ],
             "service_id": 10055,
@@ -23618,6 +23625,7 @@
         "sv": {
             "id": 4948,
             "exact_descriptions": [
+                3158,
                 8693
             ],
             "service_id": 10055,
