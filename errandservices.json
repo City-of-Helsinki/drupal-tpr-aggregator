@@ -4723,12 +4723,14 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Helsinki-lisän hakeminen",
-            "description": "Hae Helsinki-lisää.\nLataa hakulomake yrityksille (pdf).\nLataa hakulomake yhteisöille (pdf).\nLähetä täytetty hakemus liitteineen suojatun yhteyden kautta: https:\/\/securemail.hel.fi osoitteeseen: helsinkilisa@hel.fi. Liitteiden tulee olla PDF- tai JPG-muodossa.\nVoit myös lähettää hakemuksen tulostettuna postitse osoitteeseen: Helsinki-lisä, Elinkeino-osasto, PL 20, 00099 Helsingin kaupunki.\n",
+            "description": "Lähetä täytetty hakemus liitteineen suojatun yhteyden kautta: https:\/\/securemail.hel.fi osoitteeseen: helsinkilisa@hel.fi. Liitteiden tulee olla PDF- tai JPG-muodossa.\nVoit myös lähettää hakemuksen tulostettuna postitse osoitteeseen: Helsinki-lisä, Elinkeino-osasto, PL 20, 00099 Helsingin kaupunki.\n",
             "process_description": "- Jos työnantaja hakee myös palkkatukea, hän tekee sen ennen Helsinki-lisän hakemista ja liittää palkkatukipäätöksen Helsinki-lisä-hakemukseen.\n- Jos työnantaja solmii oppisopimuksen, hän tekee sen ennen Helsinki-lisän hakemista ja liittää oppisopimusdokumentin Helsinki-lisä-hakemukseen.\n- Kun työsopimus on allekirjoitettu, työnantaja hakee Helsinki-lisää ja liittää työsopimuksen Helsinki-lisä-hakemukseen.\n- Harkinnanvarainen tuki myönnetään, jos haku täyttää ehdot.\n- Kaupunki maksaa Helsinki-lisän työnantajalle.\n- Työntaja maksaa palkan työllistetylle.",
             "processing_time": "Noin neljä viikkoa",
             "information": "Milloin Helsinki-lisää haetaan?\nHae Helsinki-lisää sen kalenterivuoden aikana, jolloin työllistettävän työsuhde alkaa. Helsinki-lisä haetaa työsuhdeen keston mukaisesti kuitenkin enintään 12 kuukauden ajalle. Palkkatuettuun oppisopimukseen Helsinki-lisää voi hakea koko oppisopimuskoulutuksen ajalle. Tuki haetaan 12 kuukauden jaksoissa.\n\n\n",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -4748,7 +4750,7 @@
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Palkan Helsinki-lisä",
                     "prerequisites": "Kenelle: kaikille yksityisen ja kolmannen sektorin työnantajille\nMihin: palkkauskustannuksiin\nMäärä: korkeintaan 800 €\/kk. Määrään vaikuttavat työnantajan palkkauskustannukset ja niihin maksettavat muut tuet; palkkatuki ja koulutuskorvaus.\nKesto: enintään 12 kuukautta, oppisopimuksessa enintään koko oppisopimuksen ajan.\nTuen edellytyksenä on, että työsuhteeseen on myönnetty palkkatuki.",
-                    "information": "Mirkka Kesti-Helia, puh. 0401985891\nSonja Vuorela, puh. 0401833021\n\nHelsinkilisa@hel.fi",
+                    "information": "Mirkka Kesti-Helia, puh. 040 198 5891\nSonja Vuorela, puh. 040 183 3021\n\nhelsinkilisa@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -4766,13 +4768,13 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lataa hakulomake yhteisöille (pdf)",
+                            "title": "Lataa hakulomake yhteisöille (pdf) vanha",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa_hakemus_yhteisot_2022_fi.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lataa hakulomake yrityksille (pdf)",
+                            "title": "Lataa hakulomake yrityksille (pdf) vanha",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa_hakemus_yritykset_2022_fi.pdf",
                             "file_format": "PDF"
                         },
@@ -4816,13 +4818,13 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lataa hakulomake yhteisöille (pdf)",
+                            "title": "Lataa hakulomake yhteisöille (pdf) vanha",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa_hakemus_yhteisot_2022_fi.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lataa hakulomake yrityksille (pdf)",
+                            "title": "Lataa hakulomake yrityksille (pdf) vanha",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa_hakemus_yritykset_2022_fi.pdf",
                             "file_format": "PDF"
                         },
@@ -4866,26 +4868,26 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lataa hakulomake yhteisöille (pdf)",
+                            "title": "Lataa hakulomake yhteisöille (pdf) vanha",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa_hakemus_yhteisot_2022_fi.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lataa hakulomake yrityksille (pdf)",
+                            "title": "Lataa hakulomake yrityksille (pdf) vanha",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinki-lisa_hakemus_yritykset_2022_fi.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinkilisa_hakemus_yritykset_FI_2022.pdf",
+                            "title": "Lataa hakulomake yrityksille (PDF)",
                             "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinkilisa_hakemus_yritykset_FI_2022.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinkilisa_hakemus_yritykset_FI_2022.pdf",
-                            "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinkilisa_hakemus_yritykset_FI_2022.pdf",
+                            "title": "Lataa hakulomake yhteisöille (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/helsinkilisa_hakemus_yhteisot_FI_2022.pdf",
                             "file_format": "PDF"
                         }
                     ],
