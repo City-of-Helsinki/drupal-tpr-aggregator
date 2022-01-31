@@ -13,5 +13,5 @@ use Symfony\Component\Console\Application;
 $serviceHttpClient = new ServiceClient(new Client(['base_uri' => ServiceClient::BASE_URI]));
 $application = new Application();
 $application->add(new AggregateTprServiceCommand($serviceHttpClient));
-$application->add(new AggregateUnitServices($serviceHttpClient));
+$application->add(new AggregateUnitServices());
 $application->run();
