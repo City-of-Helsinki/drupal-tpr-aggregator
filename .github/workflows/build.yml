@@ -27,6 +27,8 @@ jobs:
           cat public/services.json | jq type
           php console.php app:aggregate-tpr-services errandservice > public/errandservices.json
           cat public/errandservices.json | jq type
+          php console.php app:aggregate-unit-services public/services.json > public/unitservices.json
+          cat public/unitservices.json | jq type
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
