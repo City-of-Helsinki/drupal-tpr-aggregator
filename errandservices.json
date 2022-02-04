@@ -4189,10 +4189,153 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 562,
+            "exact_descriptions": [
+                2721,
+                7439,
+                7449,
+                8676,
+                8677,
+                8678,
+                8679,
+                8680,
+                8681,
+                8682,
+                8683
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Dental care e-service",
+            "description": "With the service you can view, cancel or reschedule booked appointments.",
+            "process_description": "With the service you can view, cancel or reschedule booked appointments. You can also send a confirmation to your e-mail about the actions you are making. \n\nYou can update your mobile number or e-mail address in the dental care patient data system, or via a link go and fill in a preliminary information form before coming to your appointment. \n\nYou can use the services on behalf of a child or an elderly person if you are registered as the contact person in the patient documents of the person in question.\n",
+            "information": "N.B.! The first appointment for dental care must always be made by phone,tel. 09 310 51400 Mon-Thu between 7 and 18, Fri between 7 and 15. We have a call-back system.\n\nOne exception is the health control appointment for children of age 1 and 3. In those cases you can make an e-booking after you have received a letter concerning it from the dental clinic.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Dental care",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/socia-health\/health\/dental\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2572,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Customer service for oral health care",
+                    "availability_summary": "open Mon-Thu 07-18, Fri 07-15",
+                    "phone": "+358 9 310 51400",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 07-18"
+                        },
+                        {
+                            "availability_string": "Open Fri 07-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 562,
+            "exact_descriptions": [
+                2721,
+                7439,
+                7449,
+                8676,
+                8677,
+                8678,
+                8679,
+                8680,
+                8681,
+                8682,
+                8683
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Tandvårdens e-tjänster",
+            "description": "Med hjälp av tjänsten kan du t.ex. titta på, avboka eller omboka mottagningstider.",
+            "process_description": "Med hjälp av tjänsten kan du titta på, avboka eller omboka mottagningstider. Du kan också skicka en bekräftelse på åtgärden till din e-post.\n\nDessutom kan du uppdatera ditt mobilnummer och e-postadress i munhälsovårdens patientdatasystem eller via en länk gå och fylla i ett elektroniskt formulär för förhandsuppgifter innan du kommer på mottagningen.\n\nDu kan uträtta ärenden till exempel för ett barn eller en äldre person såvida du har registrerats som kontaktperson personens patientdokument.\n",
+            "information": "Obs! Den första mottagningstiden hos tandläkaren ska alltid beställas per telefon, tfn 09 310 51400 må-to kl. 7 - 18, fr kl. 7 - 15. Vi använder återuppringningstjänst.\n\nEtt undantag är tiden för barnens 1- och 3-årshälsokontroll som du kan boka elektroniskt efter att du fått ett brev om saken från tandkliniken.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tandvårdens avgifter",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/social-och-halso\/halso\/tandvord\/avgifter\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Uppgifter om tandvården",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/social-och-halso\/halso\/tandvord\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2572,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Kundtjänst för tandvård",
+                    "availability_summary": "öppet mån-tor 07-18, fre 07-15",
+                    "phone": "+358 9 310 51400",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 07-18"
+                        },
+                        {
+                            "availability_string": "Öppet fre 07-15"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4964,
@@ -15710,10 +15853,98 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4950,
+            "exact_descriptions": [
+                8682
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Appointment booking for orthodontic treatment",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3299,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "availability_summary": "open Mon-Fri 08-15",
+                    "phone": "+358 9 310 51500",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4950,
+            "exact_descriptions": [
+                8682
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Tidsbeställning för tandreglering",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3299,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "availability_summary": "öppet mån-fre 08-15",
+                    "phone": "+358 9 310 51500",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 08-15"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 3038,
