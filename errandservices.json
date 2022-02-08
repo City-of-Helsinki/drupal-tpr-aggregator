@@ -4138,7 +4138,6 @@
                 8679,
                 8680,
                 8681,
-                8682,
                 8683
             ],
             "service_id": 10203,
@@ -4201,7 +4200,6 @@
                 8679,
                 8680,
                 8681,
-                8682,
                 8683
             ],
             "service_id": 10203,
@@ -4272,7 +4270,6 @@
                 8679,
                 8680,
                 8681,
-                8682,
                 8683
             ],
             "service_id": 10203,
@@ -15808,6 +15805,7 @@
         "fi": {
             "id": 4950,
             "exact_descriptions": [
+                8678,
                 8682
             ],
             "service_id": 10203,
@@ -15856,6 +15854,7 @@
         "en": {
             "id": 4950,
             "exact_descriptions": [
+                8678,
                 8682
             ],
             "service_id": 10203,
@@ -15903,6 +15902,7 @@
         "sv": {
             "id": 4950,
             "exact_descriptions": [
+                8678,
                 8682
             ],
             "service_id": 10203,
@@ -21034,10 +21034,134 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4858,
+            "exact_descriptions": [
+                8505,
+                8511,
+                8512,
+                8579
+            ],
+            "service_id": 10016,
+            "type": "OTHER_ESERVICE",
+            "name": "Fill in a symptom assessment in Omaolo",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Go to Omaolo",
+                    "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot?lang=en"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3220,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Fill in a symptom assessment in Omaolo",
+                    "availability_summary": "open every day around the clock",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Omaolo",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot?lang=en"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4858,
+            "exact_descriptions": [
+                8505,
+                8511,
+                8512,
+                8579
+            ],
+            "service_id": 10016,
+            "type": "OTHER_ESERVICE",
+            "name": "Gör en symptombedömning i Omaolo",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Gå till Omaolo",
+                    "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot?lang=sv"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3220,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en symptombedömning i Omaolo",
+                    "availability_summary": "öppet dygnet runt varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Omaolo",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot?lang=sv"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4862,
