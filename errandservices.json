@@ -15535,7 +15535,7 @@
             "description": "Jos ajoneuvon siirrosta saamasi korvauspäätös on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen.\n\nVoit tehdä oikaisuvaatimuksen sen jälkeen, kun olet saanut päätöksen tiedoksi. Oikaisuvaatimus on tehtävä viimeistään 30 päivän kuluessa tiedoksisaannista. Siirrosta aiheutuneita kuluja ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana.\n",
             "process_description": "Päätös oikaisuvaatimuksesta tulee asiointikansioon tai postitse.",
             "processing_time": "Asian käsittely kestää noin 1-4 kuukautta.",
-            "information": "Oikaisuvaatimuksen voi tehdä sähköisessä palvelussa tai sen voi toimittaa kaupunkiympäristön asiakaspalveluun postitse, sähköpostilla tai henkilökohtaisesti. \n\nOikaisuvaatimus on tehtävä kirjallisena ja siinä on mainittava:\n\n- muutoksenhakijan nimi (ajoneuvon omistaja, haltija tai valtakirjalla) ja osoite\n\n- ajoneuvon rekisteritunnus\n\n- korvauspäätöksen numero\n\n- pankkitilin numero.\n\nLiitä mukaan asiakirjat, joihin vetoat. Hävitämme oikaisuvaatimuksen käsittelyn jälkeen lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen.\n\n",
+            "information": "Oikaisuvaatimuksen voi tehdä sähköisessä palvelussa tai sen voi toimittaa kaupunkiympäristön asiakaspalveluun postitse, sähköpostilla (pysakointi@hel.fi) tai henkilökohtaisesti. \n\nOikaisuvaatimus on tehtävä kirjallisena ja siinä on mainittava:\n\n- muutoksenhakijan nimi (ajoneuvon omistaja, haltija tai valtakirjalla) ja osoite\n\n- ajoneuvon rekisteritunnus\n\n- korvauspäätöksen numero\n\n- pankkitilin numero.\n\nLiitä mukaan asiakirjat, joihin vetoat. Hävitämme oikaisuvaatimuksen käsittelyn jälkeen lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen.\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -15582,26 +15582,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3272,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Sähköposti",
-                    "email": "pysakointi@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -15613,10 +15593,10 @@
             "service_id": 10018,
             "type": "APPLICATION",
             "name": "Claim for rectification of a decision on the reimbursement of vehicle removal costs",
-            "description": "If you think that the reimbursement decision you have received regarding vehicle removal is unfounded, you can submit a claim for rectification. \n\nSubmit a claim for rectification soon after being notified of the decision. You must submit the claim no later than 30 days of being notified. You do not have to pay the vehicle removal costs while your claim is being processed. \n\nYou can submit the claim via the city's e-services or deliver it to Urban Environment Division's customer service by post, by email or in person. \n\nThe claim for rectification must be made in writing, and it must include:\n\n- your name (owner or holder of the vehicle, or with a power of attorney) and address\n- the license plate number of the vehicle in question\n- the number on the reimbursement decision, and\n- your bank account number.\n\nAttach any documents you wish to submit to the claim before you send it.\n",
+            "description": "If you think that the reimbursement decision you have received regarding vehicle removal is unfounded, you can submit a claim for rectification. \n\nSubmit a claim for rectification soon after being notified of the decision. You must submit the claim no later than 30 days of being notified. You do not have to pay the vehicle removal costs while your claim is being processed. \n\n\n\n",
             "process_description": "The decision will be sent to your e-services folder or to your address by post.",
             "processing_time": "It will take us roughly 1-4 months to process your claim. ",
-            "information": "After processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example.",
+            "information": "You can submit the claim via the city's e-services or deliver it to Urban Environment Division's customer service by post, by email (pysakointi@hel.fi) or in person. \n\nThe claim for rectification must be made in writing, and it must include:\n\n- your name (owner or holder of the vehicle, or with a power of attorney) and address\n- the license plate number of the vehicle in question\n- the number on the reimbursement decision, and\n- your bank account number.\n\nAttach any documents you wish to submit to the claim before you send it.\n\n\n\nAfter processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -15664,26 +15644,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3272,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "E-mail",
-                    "email": "pysakointi@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -15695,9 +15655,10 @@
             "service_id": 10018,
             "type": "APPLICATION",
             "name": "Begäran om omprövning av beslut om ersättning för fordonets flyttningskostnader",
-            "description": "Om du anser att beslutet om ersättning för fordonets flyttningskostnader är obefogat, kan du göra en begäran om omprövning. \n\nDu kan göra en begäran om omprövning efter att du har fått ta del av beslutet. En begäran om omprövning ska göras senast inom 30 dagar från delgivningen. Du behöver inte betala kostnaderna för flyttningen under handläggningen av begäran om omprövning. \n\nBegäran om omprövning kan göras i e-tjänsten eller så kan den levereras till stadsmiljösektorns kundtjänst per post, e-post eller personligen. \n\nBegäran om omprövning ska göras skriftligen och innehålla följande:\n\n- ändringssökandens namn (fordonets ägare, innehavare eller med fullmakt) och adress\n- fordonets registernummer\n- ersättningsbeslutets nummer\n- bankkontonummer.\n\nBifoga de handlingar som du åberopar. Efter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation.\n",
+            "description": "Om du anser att beslutet om ersättning för fordonets flyttningskostnader är obefogat, kan du göra en begäran om omprövning. \n\nDu kan göra en begäran om omprövning efter att du har fått ta del av beslutet. En begäran om omprövning ska göras senast inom 30 dagar från delgivningen. Du behöver inte betala kostnaderna för flyttningen under handläggningen av begäran om omprövning.",
             "process_description": "Beslutet om omprövning skickas till ärendemappen eller per post.",
             "processing_time": "Handläggningen av ärendet tar cirka 1-4 månader. ",
+            "information": "Begäran om omprövning kan göras i e-tjänsten eller så kan den levereras till stadsmiljösektorns kundtjänst per post, e-post (pysakointi@hel.fi) eller personligen. \n\nBegäran om omprövning ska göras skriftligen och innehålla följande:\n\n- ändringssökandens namn (fordonets ägare, innehavare eller med fullmakt) och adress\n- fordonets registernummer\n- ersättningsbeslutets nummer\n- bankkontonummer.\n\nBifoga de handlingar som du åberopar. Efter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -15742,26 +15703,6 @@
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1",
                             "file_format": "HTML"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3272,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "E-post",
-                    "email": "pysakointi@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -20860,7 +20801,7 @@
             "description": "Jos pysäköintivirhemaksu on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen. Oikaisuvaatimus on tehtävä 30 päivän kuluessa. Pysäköintivirhemaksua ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana.",
             "process_description": "Päätös oikaisuvaatimuksesta tulee asiointikansioon tai postitse.",
             "processing_time": "Asian käsittely kestää noin 1-4 kuukautta.",
-            "information": "Toimi näin:\n\nTee oikaisuvaatimus verkkolomakkeella tai toimita se kaupunkiympäristön asiakaspalveluun postitse, sähköpostitse tai henkilökohtaisesti.\n\nOikaisuvaatimus on tehtävä kirjallisena, ja siinä on mainittava\n\n- muutoksenhakijan nimi ja osoite\n- ajoneuvon rekisteritunnus\n- pysäköintivirhemaksun numero\n- pankkitilin numero.\n\nLiitä mukaan asiakirjat, joihin vetoat. Hävitämme oikaisuvaatimuksen käsittelyn jälkeen lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen.",
+            "information": "Toimi näin:\n\nTee oikaisuvaatimus verkkolomakkeella tai toimita se kaupunkiympäristön asiakaspalveluun postitse, sähköpostitse (pysakointi@hel.fi) tai henkilökohtaisesti.\n\nOikaisuvaatimus on tehtävä kirjallisena, ja siinä on mainittava\n\n- muutoksenhakijan nimi ja osoite\n- ajoneuvon rekisteritunnus\n- pysäköintivirhemaksun numero\n- pankkitilin numero.\n\nLiitä mukaan asiakirjat, joihin vetoat. Hävitämme oikaisuvaatimuksen käsittelyn jälkeen lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -20909,26 +20850,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3271,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Sähköposti",
-                    "email": "pysakointi@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -20944,7 +20865,7 @@
             "description": "If you think that the parking fine you have received is unfounded, you can contest it by submitting a claim for rectification within 30 days. You do not have to pay the parking fine while your claim is being processed.",
             "process_description": "The decision will be sent to your electronic service folder or to your address by post.",
             "processing_time": "It will take us roughly 1-4 months to process your claim. ",
-            "information": "You can submit your claim for rectification with an online form. If this is not possible, you can also deliver it to the Urban Environment Division's customer service by post, email or in person. \n\nThe claim for rectification must made in writing, and it must include\n- your name and address\n- the license plate number of the vehicle in question\n- the number on the parking fine, and \n- your bank account number.\n\nAttach any documents you wish to submit to the claim before you send it. \n\nAfter processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example.",
+            "information": "You can submit your claim for rectification with an online form. If this is not possible, you can also deliver it to the Urban Environment Division's customer service by post, email (pysakointi@hel.fi) or in person. \n\nThe claim for rectification must made in writing, and it must include\n- your name and address\n- the license plate number of the vehicle in question\n- the number on the parking fine, and \n- your bank account number.\n\nAttach any documents you wish to submit to the claim before you send it. \n\nAfter processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -20993,26 +20914,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3271,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "E-mail",
-                    "email": "pysakointi@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -21028,7 +20929,7 @@
             "description": "Om du anser att felparkeringsavgiften är obefogad, kan du göra en begäran om omprövning. En begäran om omprövning ska göras inom 30 dagar. Du behöver inte betala felparkeringsavgiften under handläggningen av begäran om omprövning.",
             "process_description": "Beslutet om omprövning skickas till ärendemappen eller per post.",
             "processing_time": "Handläggningen av ärendet tar cirka 1-4 månader.",
-            "information": "Gör en begäran om omprövning med webblanketten eller leverera den till stadsmiljösektorns kundtjänst per post, per e-post eller personligen. \n\nBegäran om omprövning ska göras skriftligen och innehålla\n- namn och adress för den ändringssökande\n- fordonets registernummer\n- felparkeringsavgiftens nummer\n- bankkontonummer.\n\nBifoga de handlingar som du åberopar. Efter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation.",
+            "information": "Gör en begäran om omprövning med webblanketten eller leverera den till stadsmiljösektorns kundtjänst per post, per e-post (pysakointi@hel.fi) eller personligen. \n\nBegäran om omprövning ska göras skriftligen och innehålla\n- namn och adress för den ändringssökande\n- fordonets registernummer\n- felparkeringsavgiftens nummer\n- bankkontonummer.\n\nBifoga de handlingar som du åberopar. Efter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -21074,26 +20975,6 @@
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
                             "file_format": "HTML"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3271,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "E-post",
-                    "email": "pysakointi@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
