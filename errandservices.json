@@ -5906,8 +5906,76 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 4955,
+            "exact_descriptions": [
+                7664
+            ],
+            "service_id": 10954,
+            "type": "ADVICE",
+            "name": "Sale of Hitas housing at the fixed maximum price",
+            "description": "Apply for confirmation of the maximum sale price of the home by submitting the property manager's certificate or a Hitas maximum price confirmation form to Housing Services.\n\nIf improvements have been made to your Hitas home or renovations have been made to the housing company and they have already been registered in the Hitas register, you can apply for a maximum price calculation based on the property manager's certificate.\n\nIf improvements have been made but have not yet been reported, use the Hitas maximum price confirmation form.\nThe property manager will prepare the property manager's certificate and\/or Hitas maximum price confirmation form. \n\nThe maximum price calculation is valid for three months from the date of the calculation. You can renew the calculation by e-mail (hitas@hel.fi) or by telephone (+358 9 310 13033, Mon-Thu 9-11).\n",
+            "processing_time": "You will receive the maximum price calculation within one week of the application.",
+            "expiration_time": "The maximum price calculation is normally valid for three months. If the maximum price of the apartment has been fixed at the limit price per square metre, the calculation is valid for 1 - 4 months.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3302,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "availability_summary": "open Mon-Thu 09-11",
+                    "phone": "09 310 13033",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3303,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "hitas@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -15518,8 +15586,73 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 4956,
+            "exact_descriptions": [
+                8737
+            ],
+            "service_id": 10879,
+            "type": "ADVICE",
+            "name": "How to report tenant selection",
+            "description": "Tenant selection is mainly reported afterwards. In this case, send the information on tenant selection to the Housing Services (including apartment changers) in an aggregated Excel table once a month.\n\nThe exception is companies and associations that do not already have ARA rental apartments in Helsinki. They must submit their first location's tenant selections with their applications and attachments for approval in advance, before the location is completed.\nIn some situations, it may be necessary to deviate from the tenant selection guidelines. In this case, contact Housing Services by e-mail.\n",
+            "processing_time": "We make decisions on exemptions within 14 days of submitting an application.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Wealth limits for ARA rental apartments (in Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_varallisuus.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "ARA tenant selection guide",
+                    "url": "https:\/\/www.ara.fi\/fi-FI\/ARAasuntokanta\/Osaomistusasunnot\/Asukasvalintaopas(34134)",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Supplementary instructions for ARA rental apartment tenant selection in Helsinki, Espoo and Vantaa (in Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje_2021.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Supplementary instructions for short-term interest subsidy housing tenant selection in Helsinki, Espoo and Vantaa (in Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-lyhyen-korkotuen-asukasvalintaohje.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3304,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "asvalvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
