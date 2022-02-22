@@ -5976,8 +5976,76 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 4955,
+            "exact_descriptions": [
+                7664
+            ],
+            "service_id": 10954,
+            "type": "ADVICE",
+            "name": "Försäljning av en Hitas-bostad till ett fastställt maximipris",
+            "description": "Ansök om fastställande av maximipriset för försäljning av bostaden genom att skicka in ett disponentintyg eller en blankett för fastställande av Hitas-maximipriset till enheten för bostadstjänster.\n\nOm förbättringar har utförts i din Hitas-bostad eller bostadsbolaget har renoverats, och arbetena redan har registrerats i Hitas-registret, kan du ansöka om en beräkning av maximipriset på grundval av disponentintyget.\n\nOm förbättringsarbeten har utförts, men ännu inte registrerats, ska du använda blanketten för fastställande av Hitas-maximipriset.\n\nDisponenten upprättar disponentintyget och\/eller blanketten för fastställande av Hitas-maximipriset. Beräkningen av maximipriset är giltig i tre månader från datumet på den. Du kan förnya beräkningen per e-post (hitas@hel.fi) eller per telefon (09 310 13033, mån.-tors. 9-11).",
+            "processing_time": "Du får beräkningen av maximipriset inom en vecka från ansökningen.",
+            "expiration_time": "Beräkningen av maximipriset är i allmänhet giltig i tre månader från datumet på den. Om maximipriset har fastställts med gränspriset per kvadratmeter, är beräkningen giltig i 1-4 månader.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3302,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "availability_summary": "öppet mån-tor 09-11",
+                    "phone": "09 310 13033",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3303,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "hitas@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4225,
@@ -15636,6 +15704,8 @@
                     "id": 3304,
                     "type": "EMAIL",
                     "type_string": "E-mail",
+                    "name": "Tenant selection, e-mail",
+                    "process_description": "Send the tenant selection information via secure e-mail.",
                     "email": "asvalvonta@hel.fi",
                     "provided_languages": [
                     ],
@@ -15653,8 +15723,80 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 4956,
+            "exact_descriptions": [
+                8737
+            ],
+            "service_id": 10879,
+            "type": "ADVICE",
+            "name": "Så här meddelar du om valet av boende",
+            "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till enheten för bostadstjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta enheten för bostadstjänster per e-post.\n",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kompletterande anvisningar om val av boende till ARA-hyresbostäder i Helsingfors, Esbo och Vanda ",
+                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje_2021.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kompletterande anvisningar om val av boende till bostäder med kortvarigt räntestöd i Helsingfors, Esbo och Vanda ",
+                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-lyhyen-korkotuen-asukasvalintaohje.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "ARA:s riktlinjer för val av boende",
+                    "url": "https:\/\/www.ara.fi\/fi-FI\/ARAasuntokanta\/Osaomistusasunnot\/Asukasvalintaopas(34134)",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Förmögenhetsgränser för ARA-hyresbostäder ",
+                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_varallisuus.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Meddelande om val av boende",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_ilm_liite1.xlsx",
+                    "file_format": "EXCEL"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3304,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Valet av boende, e-post",
+                    "process_description": "Skicka in uppgifterna om valen av boende exempelvis per krypterad e-post.",
+                    "email": "asvalvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4815,
