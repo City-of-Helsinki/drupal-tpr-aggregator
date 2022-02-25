@@ -19830,6 +19830,87 @@
         ]
     },
     {
+        "id": 5003,
+        "fi": {
+            "id": 5003,
+            "exact_descriptions": [
+                2942,
+                5216
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Seniori-info",
+            "name_synonyms": "seniori-info, seniorineuvonta, ikääntyneiden neuvonta, vanhusneuvonta",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "ELDERLY_PEOPLE"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3006",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3010"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3363,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Soita Seniori-infoon",
+                    "availability_summary": "avoinna ma-pe 09-15",
+                    "phone": "+358 9 310 44556",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3364,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä sähköposti Seniori-infoon",
+                    "email": "seniori.info@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4352,
         "fi": {
             "id": 4352,
