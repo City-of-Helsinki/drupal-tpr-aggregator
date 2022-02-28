@@ -4370,10 +4370,62 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4964,
+            "exact_descriptions": [
+                8749
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Vi väljer den boende på grundval av behov av bostad, förmögenhet och inkomster.",
+            "description": "Apply for a Heka's rental apartment by filling in a housing application. Please note that you have to confirm your application through authentication with online banking credentials or Mobile ID before your application will be included in the tenant selection process. \n\nYou can also apply for an apartment with a co-applicant. In this case, the co-applicant must also confirm the application through authentication with online banking credentials or Mobile ID. The system classifies the application based on the urgency of the need for housing. \n\nIf you do not have online banking credentials or Mobile ID, you can visit the rental apartment search customer service at Työpajankatu 8 and prove your identity using and official personal identity document (passport or personal ID card). \n",
+            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4964,
+            "exact_descriptions": [
+                8749
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Ansök om en Heka-hyresbostad",
+            "description": "Ansök om en Heka-hyresbostad genom att fylla i en bostadsansökan. Observera att du måste bekräfta din ansökan genom att identifiera dig antingen med nätbankskoder eller ett mobilcertifikat så att din ansökan kan iakttas i valet av boende.\n \nDu kan även ansöka om en bostad med en medsökande. I så fall måste även den medsökande bekräfta ansökan genom att identifiera sig med nätbankskoder eller ett mobilcertifikat. Systemet klassificerar ansökan på grundval av hur brådskande behovet av bostad är. \n\nOm du inte har nätbankskoder eller ett mobilcertifikat, kan du besöka kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att bevisa din identitet med ett officiellt identitetsbevis (pass eller identitetskort). \n",
+            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4202,
@@ -14082,10 +14134,64 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4969,
+            "exact_descriptions": [
+                8764
+            ],
+            "service_id": 11094,
+            "type": "APPLICATION",
+            "name": "Applying for a short-term rental apartment",
+            "description": "Apply for a short-term rental apartment through the Oikotie website. The apartment advertisement will contain a link to the application. After completing the application, prove your identity with online banking credentials or Mobile ID. Your co-applicant, if you have one, must also prove their identity through authentication and confirm the housing application.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n",
+            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4969,
+            "exact_descriptions": [
+                8764
+            ],
+            "service_id": 11094,
+            "type": "APPLICATION",
+            "name": "Ansök om en kortvarig hyresbostad",
+            "description": "Ansök om en kortvarig bostad via webbplatsen Oikotie. Bostadsannonsen innehåller en länk till ansökan. När du har fyllt i ansökan, identifiera dig med dina nätbankskoder eller ditt mobilcertifikat. Din eventuella medsökande måste också identifiera sig och bekräfta bostadsansökan.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att autentisera dig. Ta med dig ditt pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n",
+            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4091,
@@ -23382,10 +23488,9 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Application for job-related housing",
-            "description": "An online service, which allows the employees of City of Helsinki to apply for job-related housing. Job-related housing is offered to employees of all of the City of Helsinki's divisions, central administration and enterprises (excluding HKL and Helsinki Service Centre, which provide their company housing themselves).\n\n",
-            "process_description": "You can apply for job-related housing by completing a housing application. To get started, go over the apartments on the site of available apartments. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. You need to confirm the housing application in order to be included in the tenant selection. Once you have submitted the application, you will receive an email with a link for authentication. When you have confirmed the application, it is considered received and is recorded in the tenant selection system.\n\nAuthentication means proving your identity. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8 and proving your identity with an official identity card (driving licence, passport or identity card). After authentication, you can create a username and password using your email address. Your housing application will only be included in the tenant selection after the authentication visit.  \n\nYou may update your application. The application can be edited or renewed without editing. The new or updated application will replace the previously submitted application. An expired application cannot be updated or copied, but the applicant must submit a new application. The housing application can only be updated by the applicants themselves. \n\nJob-related housing requires employment with the City of Helsinki and the lease agreements are valid until further notice. \n\nDue to the small amount of apartments and the large amount of applicants, not all applicants will get an offer of housing.\n",
-            "expiration_time": "An application is valid for three (3) months from the time it was submitted or last modified.",
-            "costs": "The rental housing service is free of charge, and new occupants are not charged rental or other guarantees. The lease for job-related housing is invoiced and no rental security deposit is charged for the housing.",
+            "description": "You can apply for job-related housing by selecting apartments on the job-related housing application. After completing the application, prove your identity with online banking credentials or Mobile ID. Once you have confirmed the application, it will be stored in our tenant selection system.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your driving licence, passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n",
+            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit. The lease is invoiced.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -23417,10 +23522,10 @@
             "service_id": 10309,
             "type": "APPLICATION",
             "name": "Ansökan om tjänstebostad",
-            "description": "En elektronisk tjänst, genom vilken man kan ansöka om Helsingfors stads tjänstebostad. Tjänsten är avsedd för anställda vid alla sektorer i Helsingfors stad, stadens centralförvaltning och vid affärsverken (utom HRT och Servicecentralen som förmedlar sina tjänstebostäder själva).\n\n",
-            "process_description": "Du ansöker om en tjänstebostad genom att fylla i en bostadsansökan. Börja med att bekanta dig med lediga bostäder på sidan för tillgängliga bostäder. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. När du har skickat in ansökan, du måste bekräfta ansökan. När du har bekräftat ansökan, har ansökan tagits emot och registreras i systemet för val av boende.\n\nIdentifieringen innebär styrkande av identiteten. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8 och styrka din identitet med ett officiellt identitetsbevis (pass eller identitetskort). Efter identifieringen kan du skapa ett användarnamn och lösenord med hjälp av din e-postadress. Bostadsansökan ingår valen av boende först efter identifieringsbesöket.  \n\nDu kan redigera din ansökan. Ansökan kan redigeras eller förnyas utan redigeringar. En ny eller förnyad ansökan ersätter ansökan som tidigare skickats in. En föråldrad ansökan kan inte redigeras eller kopieras, utan sökanden måste lämna in en ny ansökan. Endast de sökande själva kan redigera bostadsansökan.",
-            "processing_time": "Ansökan och förmedling av bostäder är kostnadsfritt och den som tar emot bostaden behöver inte betala hyresgaranti eller andra garantiavgifter. Hyran dras av direkt från den anställdas lön.",
-            "expiration_time": "Ansökan är i kraft tre månader efter att den lämnats in eller ändrats.",
+            "description": "Du kan ansöka om en tjänstebostad i ett visst objekt genom att lägga till bostäder i din ansökan om tjänstebostad. När du har fyllt i ansökan ska du identifiera dig med nätbankskoder eller ett mobilcertifikat. När du har bekräftat din ansökan, lagras den i vårt system.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att autentisera dig. Ta med dig ditt körkort, pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n\n\n",
+            "process_description": "",
+            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter. Hyran debiteras med faktura.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -24095,10 +24200,64 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4274,
+            "exact_descriptions": [
+                8742
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Applying for non-subsidised housing",
+            "description": "Apply for a non-subsidised rental apartment through Vuokraovi or Oikotie. The apartment advertisement will contain a link to the application. After completing the application, prove your identity with online banking credentials or Mobile ID. Your co-applicant, if you have one, must also prove their identity through authentication and confirm the housing application.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n\nAs the main applicant, you must be of legal age and have a Finnish personal identity code. \n\nIf you wish, you can update your application, after which it will replace your previously submitted application. An expired application cannot be updated or copied - you must submit a new application.\n",
+            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4274,
+            "exact_descriptions": [
+                8742
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Ansök om en fritt finansierad hyresbostad",
+            "description": "Ansök om en fritt finansierad hyresbostad via Vuokraovi eller Oikotie. Bostadsannonsen innehåller en länk till ansökan. När du har fyllt i ansökan, identifiera dig med nätbankskoder eller ett mobilcertifikat. Din eventuella medsökande måste också identifiera sig och bekräfta bostadsansökan.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att identifiera dig. Ta med dig ditt pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n\nSom huvudsökande ska du vara myndig och ha en finsk personbeteckning. \n\nOm du vill, kan du uppdatera din ansökan. Den uppdaterade ansökan ersätter din tidigare ansökan. Du kan inte redigera eller kopiera en ansökan som gått ut, utan du måste göra en ansökan.\n",
+            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4045,
