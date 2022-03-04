@@ -1678,6 +1678,7 @@
             "exact_descriptions": [
                 2806,
                 2891,
+                2931,
                 4093,
                 4098,
                 4397,
@@ -19825,6 +19826,7 @@
         "fi": {
             "id": 5003,
             "exact_descriptions": [
+                2931,
                 2942,
                 5216
             ],
@@ -21066,6 +21068,67 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5008,
+        "fi": {
+            "id": 5008,
+            "exact_descriptions": [
+                2931
+            ],
+            "service_id": 10828,
+            "type": "OTHER_ESERVICE",
+            "name": "Tee arvio omaishoitotilanteesta Omaolossa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "ELDERLY_PEOPLE"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3006"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3370,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee arvio omaishoitotilanteesta Omaolossa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Omaoloon",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/palveluarviot\/omaishoidon-tuki?lang=fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4043,
