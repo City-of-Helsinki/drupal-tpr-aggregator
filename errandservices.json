@@ -11096,8 +11096,8 @@
             ],
             "service_id": 10055,
             "type": "APPLICATION",
-            "name": "Applying for a club via the City of Helsinki's e-services",
-            "description": "You can apply for clubs via the City of Helsinki's e-services. To edit applications you have submitted via the e-services, please contact Service guidance for early childhood education.",
+            "name": "Applying for a club on City of Helsinki E-services",
+            "description": "Apply for children's clubs via the City of Helsinki E-services. To edit applications you have submitted via the E-services, please contact Service guidance for early childhood education.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -11114,7 +11114,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Fill in the application in the City of Helsinki’s e-services",
+                    "title": "Fill in an application for clubs on City of Helsinki's E-services",
                     "url": "https:\/\/asiointi.hel.fi"
                 }
             ],
@@ -11123,7 +11123,7 @@
                     "id": 3288,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Fill in the application in the City of Helsinki's e-services",
+                    "name": "Fill in an application for clubs on City of Helsinki's E-services",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -11139,8 +11139,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to the e-services",
-                            "url": "https:\/\/asiointi.hel.fi"
+                            "title": "Go to the E-services",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0wwkpiAJKG-AAjgb6wWmZQDOiCCnz0o9Kz8lPgrjIMS_J2CJdP6ooNS21KLVIr7QIKJxRUlJQbKVqoGpQXl6ul5Gao5eWqWqATXlGfnGJfgRClX5BbkRFQG64RbGjoiIAGVR_oQ!!\/dz\/d5\/L0lHSkovd0RNQUprQUVnQSEhLzROVkUvZW4!\/"
                         }
                     ],
                     "availabilities": [
@@ -24544,11 +24544,12 @@
                     "prerequisites": "Edellyttää tunnistamista joko henkilökohtaisilla verkkopankkitunnuksilla tai mobiilivarmenteella.\nPalvelu saatavilla joka päivä ympäri vuorokauden.",
                     "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": false,
+                    "saved_to_customer_folder": true,
                     "e_processing": true,
                     "e_decision": true,
                     "payment_enabled": false,
@@ -24578,8 +24579,8 @@
             ],
             "service_id": 10055,
             "type": "APPLICATION",
-            "name": "Applying for early childhood education and care via the Asti online service",
-            "description": "Parents and guardians can apply for early childhood education and care provided by the City of Helsinki for their child via the Asti online service.\n\nPlease submit any applications for pre-primary education and club activities through your e-services folder.",
+            "name": "Apply for early childhood education on Asti online service",
+            "description": "Guardians can apply for municipal early childhood education offered by the city for their child on the Asti online service.\n\nPlaces in pre-primary education and club activities are applied for through your e-services folder on the City of Helsinki E-services. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -24601,11 +24602,43 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "https:\/\/www.hel.fi\/helsinki\/en\/childhood-and-education\/day-care\/early-childhood-education-service-guidance\/",
+                    "title": "Early childhood education service guidance",
                     "url": "https:\/\/www.hel.fi\/helsinki\/en\/childhood-and-education\/day-care\/early-childhood-education-service-guidance\/"
                 }
             ],
             "channels": [
+                {
+                    "id": 2871,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Fill in an application on Asti",
+                    "prerequisites": "Requires authentication. Service is available 24 hours a day.\n",
+                    "availability_summary": "service available every day around the clock",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Asti",
+                            "url": "https:\/\/asti.hel.fi\/#\/landing"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
             ]
         },
         "sv": {
@@ -24651,11 +24684,12 @@
                     "name": "Ansökan om småbarnpedagogik",
                     "availability_summary": "tjänsten tillgänglig dygnet runt varje dag",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": false,
+                    "saved_to_customer_folder": true,
                     "e_processing": true,
                     "e_decision": true,
                     "payment_enabled": false,
@@ -24747,8 +24781,8 @@
             ],
             "service_id": 10055,
             "type": "APPLICATION",
-            "name": "Applying for early childhood education and care with a paper form",
-            "description": "You can use the paper form to apply for early childhood and care services if you and your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply via the e-services for other reasons, or a member of your family has been granted non-disclosure for personal safety reasons. \n\nPlease return the paper application primarily by post to the following address: Service guidance for early childhood education, Töysänkatu 2 D, PO Box 51300, 00099 City of Helsinki. We also accept paper applications at certain playgrounds.",
+            "name": "Applying for early childhood education with paper application",
+            "description": "You can use the paper form to apply for early childhood education if you or your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply online for other reasons, or a member of your family has a non-disclosure for personal safety reasons.\nReturn the paper application primarily by post to the following address: Service guidance for early childhood education, Töysänkatu 2 D, PO Box 51300, 00099 City of Helsinki. We also accept paper applications at a few playgrounds.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -24775,7 +24809,7 @@
                     "id": 3289,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Applying with the PDF application",
+                    "name": "Applying with paper application",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -24786,6 +24820,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Fill in the PDF application",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/varhaiskasvatushakemus_EN.pdf",
+                            "file_format": "PDF"
+                        }
                     ],
                     "availabilities": [
                     ]
