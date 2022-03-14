@@ -3086,10 +3086,10 @@
             "type": "APPLICATION",
             "name": "Hae yrityspysäköintitunnusta",
             "description": "Voit hakea yrityspysäköintitunnusta tai jatkaa tunnuksen voimassaoloa sähköpostitse, turvasähköpostilla tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi kerrallaan, paitsi sähköpostitse voit hakea tunnusta enintään kuudeksi kuukaudeksi kerrallaan.\n\n",
-            "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa.",
+            "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti.",
             "processing_time": "Tunnus tulee voimaan, kun maksu on saapunut. ",
             "costs": "Sähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
-            "information": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa.",
+            "information": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3545,7 +3545,7 @@
             "id": 4870,
             "exact_descriptions": [
                 2768,
-                3158
+                8693
             ],
             "service_id": 10054,
             "type": "APPLICATION",
@@ -3630,33 +3630,6 @@
                             "availability_string": "Avoinna joka päivä "
                         }
                     ]
-                },
-                {
-                    "id": 3379,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Kunnallisessa varhaiskasvatuksessa olevan lapsen esiopetuspaikka vastaanotetaan Asti-asiointipalvelussa ajalla 1.-13.3.2022",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry Asti-asiointipalveluun",
-                            "url": "https:\/\/asti.hel.fi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -3664,7 +3637,7 @@
             "id": 4870,
             "exact_descriptions": [
                 2768,
-                3158
+                8693
             ],
             "service_id": 10054,
             "type": "APPLICATION",
@@ -3748,33 +3721,6 @@
                             "availability_string": "Open every day "
                         }
                     ]
-                },
-                {
-                    "id": 3379,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "If your child is in municipal early childhood education offered by the City of Helsinki, you can accept your child's pre-primary education place on the Asti online service during 1-13 March 2022.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Asti online service",
-                            "url": "https:\/\/asti.hel.fi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -3782,7 +3728,7 @@
             "id": 4870,
             "exact_descriptions": [
                 2768,
-                3158
+                8693
             ],
             "service_id": 10054,
             "type": "APPLICATION",
@@ -3865,33 +3811,6 @@
                         {
                             "availability_string": "Öppet varje dag "
                         }
-                    ]
-                },
-                {
-                    "id": 3379,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Emottagande av förskoleplats för barn inom den kommunala småbarnspedagogiken sker i e-tjänsten Asti 1-13.3.2022.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "e-tjänsten Asti",
-                            "url": "https:\/\/asti.hel.fi"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -11273,7 +11192,7 @@
         "fi": {
             "id": 4947,
             "exact_descriptions": [
-                8693
+                3158
             ],
             "service_id": 10055,
             "type": "APPLICATION",
@@ -11332,7 +11251,7 @@
         "en": {
             "id": 4947,
             "exact_descriptions": [
-                8693
+                3158
             ],
             "service_id": 10055,
             "type": "APPLICATION",
@@ -11391,7 +11310,7 @@
         "sv": {
             "id": 4947,
             "exact_descriptions": [
-                8693
+                3158
             ],
             "service_id": 10055,
             "type": "APPLICATION",
