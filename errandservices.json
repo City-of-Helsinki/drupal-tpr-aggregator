@@ -24810,11 +24810,11 @@
             "type": "APPLICATION",
             "name": "Ansökan om plats inom småbarnspedagogik i e-tjänsten Asti",
             "description": "Vårdnadshavare kan ansöka om plats till sitt barn inom Helsingfors stads småbarnspedagogik i e-tjänsten Asti.\n\nAnsökan om plats till förskoleundervisning och klubbverksamhet sker via ärendemappen i e-tjänsterna.\n",
-            "process_description": "Vid varje rubrik i ansökningsformuläret finns instruktioner om hur du ska fylla i formuläret. Uppgifter som saknas eller är felaktiga visas i röd text på den sida där informationen fattas. Du kan gå vidare i ansökningsprocessen när alla fält i formuläret är ifyllda. Ansökan kan sparas som utkast och utkastet går att redigera senare. Utkastet försvinner när ansökan skickas in. Ansökan kan redigeras fram till tre månader innan man önskar att småbarnspedagogiken ska inledas. \n\nDen inskickade ansökan sparas automatiskt i e-tjänsten Asti. Du får en avisering när ansökan kommit fram. Den sökande kan följa med ansökningens status i Asti. Status för en inskickad ansökan som väntar på behandling är Skickad. När behandlingen av ansökan börjar ändras status till I behandling. \n\nBeslut om ansökan om småbarnspedagogik fattas från och med det datum man önskar att småbarnspedagogiken ska inledas och i mån av möjlighet enligt familjens önskemål. \n\nBarnets vårdnadshavare kan se beslutet om en plats inom småbarnspedagogiken i Asti.\n\nAnsökan kan raderas innan beslutet har fattats. Status för en raderad ansökan är Annullerad. Då finns ansökan inte längre i systemet. \n\nKontaktuppgifter finns på daghemmens webbsidor och på webbsidan med familjedagvårdsområdena.\n",
-            "processing_time": "Behandlingstiden för en ansökan är högst fyra månader, om sökanden inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen börjar ungefär tre månader före det startdatum du",
-            "expiration_time": "Ansökan är i kraft ett år efter det att den sänts in. ",
-            "costs": "Notera ärendemappen för kundavgiftsbeslutet. \nBeslut om avgiften för småbarnspedagogiken skickas till den så kallade elektroniska ärendemappen i Helsingfors stads e-tjänster på adressen asiointi.hel.fi. Kundavgiftsbeslutet och beslutet om småbarnspedagogik skickas alltså till olika e-tjänster. Kundavgiftsbeslutet skickas till den vårdnadshavare som gjort ansökan om småbarnspedagogik. \n",
-            "information": "Ansökan kan lämnas in tidigast ett år före det önskade startdatumet. \n\nOckså personer som bor utanför Helsingfors kan lämna in en ansökan. För att få en plats i småbarnpedagogiken måste familjen ändå bo i Helsingfors när barnet inleder småbarnspedagogiken.",
+            "process_description": "I ansökningsformuläret finns instruktioner om hur du ska fylla i formuläret. Uppgifter som saknas eller är felaktiga visas i röd text på den sida där informationen fattas.  \n\nDu kan gå vidare i ansökningsprocessen när alla fält i formuläret är ifyllda. Ansökan kan sparas som utkast och utkastet går att redigera senare. Utkastet försvinner när ansökan skickas in. Efter att ansökan skickas in kan den redigeras tills den är låst, tre månader innan behovet börjar och snabbare i en brådskande situation. \n \nDen inskickade ansökan sparas automatiskt i e-tjänsten Asti. Du får en avisering när ansökan kommit fram. Den sökande kan följa med ansökningens status i Asti. Status för en inskickad ansökan som väntar på behandling är Skickad. Ansökan kan redigeras tills den är låst. När behandlingen av ansökan börjar ändras status till I behandling.  \n \nBeslut om ansökan om småbarnspedagogik fattas från och med det datum man önskar att småbarnspedagogiken ska inledas och i mån av möjlighet enligt familjens önskemål. \n \nBarnets vårdnadshavare kan se beslutet om en plats inom småbarnspedagogiken i Asti.\n \nDu kan radera ansökan innan beslutet har fattats. Status för en raderad ansökan är Annullerad. Då finns ansökan inte längre i systemet.  \n \nUnder behandlingstiden kan du meddela om ändringar i ansökan genom att ringa till servicehandledningen.\n",
+            "processing_time": "Behandlingstiden för ansökan är högst fyra mån, om du inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen av ansökan börjar ungefär tre månader före önskat startdatum.",
+            "expiration_time": "Ansökan är i kraft ett år efter det att den skickats in.",
+            "costs": "Notera ärendemappen för kundavgiftsbeslutet.\n\nAvgiftsbeslut skickas till en annan ärendemapp i Helsingfors stads e-tjänster på adressen asiointi.hel.fi till den vårdnadshavare som har lämnat in ansökan. Kundavgiftsbeslutet och beslutet om småbarnspedagogik skickas alltså till olika e-tjänster.   \n\n",
+            "information": "Ansökan om småbarnspedagogik kan göras tidigast ett år före det önskade startdatumet. \n \nOckså personer som bor utanför Helsingfors kan ansöka om en plats inom småbarnspedagogik. För att få en plats i småbarnpedagogiken måste familjen ändå bo i Helsingfors när barnet inleder småbarnspedagogiken. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -24833,6 +24833,11 @@
                     "type": "INTERNET",
                     "title": "Asti",
                     "url": "https:\/\/asti.hel.fi"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Småbarnspedagogikens servicehandledning",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/fostran-och-utbildning\/dagvord-och-forskoleundervisning\/smabarnspedagogikens-servicehandledning\/smbarnspedagogikens-servicehandledning"
                 }
             ],
             "channels": [
