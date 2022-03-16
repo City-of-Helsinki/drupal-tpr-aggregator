@@ -3600,7 +3600,7 @@
                     "id": 3225,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Sähköinen asiointi",
+                    "name": "Täytä hakemus sähköisessä asioinnissa",
                     "prerequisites": "Edellyttää tunnistamista joko henkilökohtaisilla verkkopankkitunnuksilla tai mobiilivarmenteella.\nPalvelu saatavilla joka päivä ympäri vuorokauden.\n",
                     "availability_summary": "avoinna joka päivä",
                     "process_description": "Asian käsittelyn tilaa voi seurata asiointikansiossa. Hakemuksen tilan muuttumisesta ja uudesta palvelu- tai maksupäätöstapahtumasta asiointikansion omistaja saa herätteen sähköpostilla tai tekstiviestinä. Herätteen toimitustavan voi valita asiointikansiossa Omat tiedot -sivulla.",
@@ -3620,7 +3620,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Täytä hakemus sähköisessä asioinnissa",
+                            "title": "Siirry hakemukseen",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/paivahoito?COHESServiceCase=DAYCAREAPPLICATION",
                             "file_format": "HTML"
                         }
