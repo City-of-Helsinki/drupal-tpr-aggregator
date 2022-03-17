@@ -2949,6 +2949,62 @@
         }
     },
     {
+        "id": 5034,
+        "fi": {
+            "id": 5034,
+            "exact_descriptions": [
+            ],
+            "service_id": 10185,
+            "type": "ADVICE",
+            "name": "Fysioterapian puhelinpalvelu",
+            "name_synonyms": "fysioterapian asiakaspalvelu, fysioterapian ajanvaraus",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3391,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Fysioterapian puhelinpalvelu",
+                    "availability_summary": "avoinna ma-pe 08-15",
+                    "phone": "+358 9 310 67000",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4312,
         "fi": {
             "id": 4312,
@@ -6196,6 +6252,68 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5035,
+        "fi": {
+            "id": 5035,
+            "exact_descriptions": [
+            ],
+            "service_id": 10185,
+            "type": "ENROLLMENT",
+            "name": "Ilmoittaudu ryhmään",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3392,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoittaudu ryhmään",
+                    "availability_summary": "avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry ilmoittautumaan",
+                            "url": "https:\/\/helsote.palveluohjain.fi\/citizen\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4055,
@@ -24409,7 +24527,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Täytä hakemus vapaarhoitteiseen asuntoon",
+                            "title": "Täytä hakemus vapaarahoitteiseen asuntoon",
                             "url": "https:\/\/hakemus.etampuuri.fi\/kymp-vapaarahoitteinen\/"
                         }
                     ],
