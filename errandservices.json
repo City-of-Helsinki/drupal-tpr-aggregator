@@ -11882,6 +11882,31 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3393,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Kolmiperhepäivähoitoon haetaan paperilomakkeella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Täytä paperinen hakemuslomake",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/varhaiskasvatushakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": {
@@ -11905,6 +11930,31 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3393,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a place in three-family daycare with paper application",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Fill in the PDF application",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/varhaiskasvatushakemus_EN.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -11928,6 +11978,31 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3393,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Du kan ansöka om plats i trefamiljsdagsvård med pappersblankett",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Fyll i blanketten",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/sves\/varhaiskasvatushakemus_SV.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
