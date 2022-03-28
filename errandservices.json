@@ -25029,6 +25029,11 @@
             "type": "APPLICATION",
             "name": "Apply for early childhood education on Asti online service",
             "description": "Guardians can apply for municipal early childhood education offered by the city for their child on the Asti online service.\n\nPlaces in pre-primary education and club activities are applied for through your e-services folder on the City of Helsinki E-services. \n",
+            "process_description": "The application form includes instructions on how to fill in the form. Missing or incorrect information is marked in red on each page.  \n\nThe application form lets you move forward once all required fields are filled in. You can save the application as a draft and edit it later. The draft will be deleted when you submit the application. After submitting the application, you can edit it until it will be locked three months before the need for the service, or sooner if your case is urgent. \n \nThe submitted application is saved in the Asti online service. The service will notify you if it is sent successfully. You can monitor the application status in the system. The status of a submitted application that is awaiting processing is Submitted. Submitted applications can be edited until the application is locked. When the processing of the application starts, the status of the application changes to In Process. \n \nAn official decision is always made regarding an application for early childhood starting from the start date of the service and, where possible, from the options proposed by the family. \n \nThe decision on the early childhood education place can be viewed electronically by the child's guardians on Asti.\n \nYou can delete your application before a decision is made. The status of a deleted application is Deleted. It is then removed from the system.  \n \nIf you wish to make changes to the application during the processing time, please call the Service guidance for early childhood education.\n",
+            "processing_time": "The processing time of an application is up to 4 months, unless you indicate a later start date for the service. Applications are taken into processing about 2 months before the desired start date.",
+            "expiration_time": "The application is valid for 12 months from the date it was submitted.",
+            "costs": "Note the fee decision folder.\n\nDecisions on fees are delivered to another online service folder of City of Helsinki at asiointi.hel.fi to the guardian who submitted the application. They are delivered to a different system than the early childhood education decision, and you should check for the client fee decisions there.   \n",
+            "information": "An application for early childhood education can be submitted 12 months before the desired start date. \n \nPeople living outside Helsinki can also apply for an early childhood education place, on the condition that the family must officially live in Helsinki by the beginning of the early childhood education. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -25046,7 +25051,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Asti online service ",
-                    "url": "https:\/\/asti.hel.fi\/"
+                    "url": "https:\/\/asti.hel.fi\/#\/landing"
                 },
                 {
                     "type": "INTERNET",
