@@ -6012,7 +6012,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Ilmoita väärinpysäköidystä ajoneuvosta",
             "name_synonyms": "Pysäköinnin valvontapyyntö",
-            "description": "Voit ilmoittaa kaduille, toreille tai viheralueille väärinpysäköidyistä autoista kaupunkiympäristön asiakaspalveluun palautelomakkeella, sähköpostitse tai puhelimitse. Kiireellisissä tapauksissa kannattaa ottaa yhteyttä puhelimitse.\n",
+            "description": "Voit ilmoittaa kaduille, toreille tai viheralueille väärinpysäköidyistä autoista kaupunkiympäristön asiakaspalveluun palautelomakkeella, sähköpostitse tai puhelimitse. \nJos väärinpysäköity auto vaarantaa liikenteen turvallisuutta, kannattaa ottaa yhteyttä puhelimitse.\n",
             "information": "Jos ajoneuvo on pysäköity kiinteistön alueelle, tulisi isännöitsijän tai huolto-yhtiön ottaa yhteyttä asiakaspalveluun, jotta voimme selvittää ajoneuvon siirtoa.\n\nYhteydenottaja voi isännöitsijän ja huoltoyhtiön lisäksi olla joku muu kiinteistön toimivaltainen edustaja, kuten omistaja, toimitusjohtaja, kiinteistö- tai asunto-osakeyhtiön hallituksen puheenjohtaja tai erikseen tähän valtuutettu henkilö.",
             "provided_languages": [
                 "en",
@@ -6085,6 +6085,71 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3395,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kaupunkiympäristön asiakaspalvelu",
+                    "availability_summary": "avoinna ma-to 08:15-16, pe 12-15",
+                    "phone": "0931022111",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 08:15-16"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3396,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Pysäköinninvalvonnan ilta- ja viikonloppupäivystys",
+                    "availability_summary": "avoinna ma-to 16-20, pe 08:15-12, pe 15-20, la 10-15:30, su 11-17",
+                    "phone": "0931070014",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 16-20"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 15-20"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 08:15-12"
+                        },
+                        {
+                            "availability_string": "Avoinna la 10-15:30"
+                        },
+                        {
+                            "availability_string": "Avoinna su 11-17"
+                        }
                     ]
                 }
             ]
@@ -6170,6 +6235,71 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3395,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Urban Environment Division, Customer Services",
+                    "availability_summary": "open Mon-Thu 08:15-16, Fri 12-15",
+                    "phone": "0931022111",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 08:15-16"
+                        },
+                        {
+                            "availability_string": "Open Fri 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3396,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "On-call Parking Enforcement service",
+                    "availability_summary": "open Mon-Thu 16-20, Fri 08:15-12, Fri 15-20, Sat 10-15:30, Sun 11-17",
+                    "phone": "0931070014",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 16-20"
+                        },
+                        {
+                            "availability_string": "Open Fri 15-20"
+                        },
+                        {
+                            "availability_string": "Open Fri 08:15-12"
+                        },
+                        {
+                            "availability_string": "Open Sat 10-15:30"
+                        },
+                        {
+                            "availability_string": "Open Sun 11-17"
+                        }
+                    ]
                 }
             ]
         },
@@ -6253,6 +6383,71 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3395,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Stadsmiljösektorns kundtjänst",
+                    "availability_summary": "öppet mån-tor 08:15-16, fre 12-15",
+                    "phone": "0931022111",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 08:15-16"
+                        },
+                        {
+                            "availability_string": "Öppet fre 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3396,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Parkeringsövervakningen (jour)",
+                    "availability_summary": "öppet mån-tor 16-20, fre 08:15-12, fre 15-20, lör 10-15:30, sön 11-17",
+                    "phone": "0931070014",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 16-20"
+                        },
+                        {
+                            "availability_string": "Öppet fre 15-20"
+                        },
+                        {
+                            "availability_string": "Öppet fre 08:15-12"
+                        },
+                        {
+                            "availability_string": "Öppet lör 10-15:30"
+                        },
+                        {
+                            "availability_string": "Öppet sön 11-17"
+                        }
                     ]
                 }
             ]
