@@ -4635,7 +4635,7 @@
             "type": "ADVICE",
             "name": "Helsinki-info",
             "name_synonyms": "Maahanmuuttoneuvonta, kaupungin palveluiden neuvonta, Oodi, International House Helsinki IHH",
-            "description": "Tietoa ja neuvontaa Helsingin kaupungin palveluista ja maahanmuuttoon liittyvistä asioista puhelimitse, chatissä ja sähköpostitse.\nKasvokkain palvelua: \n- IHH:n tiloissa, Lintulahdenkuja 2D, 2krs.\n- Keskustakirjasto Oodi",
+            "description": "Tietoa ja neuvontaa Helsingin kaupungin palveluista ja maahanmuuttoon liittyvistä asioista puhelimitse, chatissä ja sähköpostitse.",
             "provided_languages": [
                 "ar",
                 "bg",
@@ -4666,12 +4666,6 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Anna palautetta",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute\/anna-palautetta",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
                     "title": "Keskustakirjasto Oodi",
                     "url": "https:\/\/www.oodihelsinki.fi\/"
                 }
@@ -4681,6 +4675,7 @@
                     "id": 2595,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
+                    "name": "Helsinki-infon puhelinneuvonta",
                     "availability_summary": "avoinna ma-to 09-16, pe 10-15",
                     "phone": "+358 9 310 111 11",
                     "call_charge_info": "pvm\/mpm",
@@ -4708,7 +4703,7 @@
                     "id": 2597,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Chat",
+                    "name": "Helsinki-infon chat-neuvonta",
                     "availability_summary": "avoinna ma-to 09-16, pe 10-15",
                     "provided_languages": [
                         "ar",
@@ -4731,8 +4726,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Chat. Napauta tätä linkkiä. Chat on sivun oikeassa alalaidassa.",
-                            "url": "https:\/\/www.hel.fi\/kanslia\/neuvonta-fi",
+                            "title": "Chat-neuvonta",
+                            "url": "https:\/\/neuvonta.hel.fi",
                             "file_format": "HTML"
                         }
                     ],
@@ -4747,9 +4742,9 @@
                 },
                 {
                     "id": 2699,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Ota yhteyttä neuvontaan palautekanavan kautta",
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Helsinki-infon palautelomake",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -4765,8 +4760,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Sähköposti ei ole käytössä. Ota yhteyttä palautelomakkeella.",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute\/anna-palautetta"
+                            "title": "Palautelomake",
+                            "url": "https:\/\/www.hel.fi\/palaute"
                         }
                     ],
                     "availabilities": [
@@ -20535,12 +20530,15 @@
         "fi": {
             "id": 5003,
             "exact_descriptions": [
+                2848,
                 2931,
                 2942,
                 3041,
                 5216,
                 8917,
-                8918
+                8918,
+                8926,
+                8928
             ],
             "service_id": 10087,
             "type": "ADVICE",
@@ -21901,6 +21899,74 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5048,
+        "fi": {
+            "id": 5048,
+            "exact_descriptions": [
+            ],
+            "service_id": 10833,
+            "type": "NOTICE",
+            "name": "Tee huoli-ilmoitus",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3401,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee huoli-ilmoitus Maisassa",
+                    "availability_summary": "avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/maisa.fi\/maisa\/publicforms.asp?mode=showform&formname=SocialCarePreLoginNotificationHel&jsenabled=1"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
                     ]
                 }
             ]
