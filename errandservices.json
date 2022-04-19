@@ -1,5 +1,60 @@
 [
     {
+        "id": 5057,
+        "fi": {
+            "id": 5057,
+            "exact_descriptions": [
+                3050
+            ],
+            "service_id": 10780,
+            "type": "ADVICE",
+            "name": "Aikuisten toimintaterapian puhelinpalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "ELDERLY_PEOPLE",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3005"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3423,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Aikuisten toimintaterapian puhelinpalvelu",
+                    "phone": "+358 9 310 32249",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4861,
         "fi": {
             "id": 4861,
@@ -2958,6 +3013,7 @@
                 8894,
                 8895,
                 8897,
+                8898,
                 8905
             ],
             "service_id": 10185,
@@ -3040,8 +3096,9 @@
                     "id": 2692,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "availability_summary": "palvelu saatavilla ma-pe 08-09",
-                    "phone": "09 3104 8043",
+                    "name": "Geriatrian poliklinikan puhelinpalvelu",
+                    "availability_summary": "palvelu saatavilla ma-pe 08-14",
+                    "phone": "+358 9 310 48043",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -3056,7 +3113,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla ma-pe 08-09"
+                            "availability_string": "Palvelu saatavilla ma-pe 08-14"
                         }
                     ]
                 }
@@ -12481,6 +12538,60 @@
         }
     },
     {
+        "id": 5060,
+        "fi": {
+            "id": 5060,
+            "exact_descriptions": [
+                8946
+            ],
+            "service_id": 10780,
+            "type": "ADVICE",
+            "name": "Koululaisten toimintaterapian puhelinpalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3005"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3426,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Koululaisten toimintaterapian puhelinpalvelu",
+                    "phone": "+358 9 310 35725",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4089,
         "fi": {
             "id": 4089,
@@ -13146,6 +13257,64 @@
                     "links": [
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5059,
+        "fi": {
+            "id": 5059,
+            "exact_descriptions": [
+                5541
+            ],
+            "service_id": 10780,
+            "type": "ADVICE",
+            "name": "Lasten toimintaterapian puhelinpalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3005"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3425,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Lasten toimintaterapian puhelinpalvelu",
+                    "availability_summary": "avoinna ke 13-14",
+                    "phone": "+358 9 310 20823",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ke 13-14"
+                        }
                     ]
                 }
             ]
@@ -16889,6 +17058,61 @@
                         {
                             "availability_string": "Avoinna ma-pe 10-14"
                         }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5058,
+        "fi": {
+            "id": 5058,
+            "exact_descriptions": [
+                8947
+            ],
+            "service_id": 10780,
+            "type": "ADVICE",
+            "name": "Omaishoitajien toimintaterapian puhelinpalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "ELDERLY_PEOPLE",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3006"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3424,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Omaishoitajien toimintaterapian puhelinpalvelu",
+                    "phone": "+358 9 310 32591",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
