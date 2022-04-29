@@ -2826,7 +2826,7 @@
             "service_id": 10095,
             "type": "ADVICE",
             "name": "Hae tai tarkista järjestysnumero",
-            "description": "Voit hakea järjestysnumeroa kolmella eri tavalla: sähköisessä asiointipalvelussa, verkkolomakkeella tai tulostettavalla lomakkeella.\n\nSähköisessä asiointipalvelussa voit hakea uutta järjestysnumeroa tai tarkastella voimassa olevia järjestysnumeroitasi.\n\nJos jätät hakemuksen sähköisessä asiointipalvelussa, saat asiointikansioosi tiedon hakemuksen vastaanotosta asumisoikeusjärjestelmään, ja ilmoituksen, kun uusi järjestysnumero saapuu asiointikansioon.\n\nSaat asiointikansion tapahtumista ilmoituksen sähköpostiisi. Huomaa, että sähköposti-ilmoituksessa ja hakemuksen otsikon perässä oleva numero on asiointikansion asianumero, ei asumisoikeuden järjestysnumero.\n\nVoit tarkastella järjestysnumeroitasi asiointikansiossa avaamalla hakemuksesi tiedot. Tällöin näkyviin tulevat kaikki voimassa olevat järjestysnumerosi.",
+            "description": "Asumisoikeusasunnon hakemiseen tarvitset järjestysnumeron. Voit hakea järjestysnumeroa kolmella eri tavalla: sähköisessä asiointipalvelussa, verkkolomakkeella tai tulostettavalla lomakkeella.\n\nSähköisessä asiointipalvelussa voit hakea uutta järjestysnumeroa tai tarkastella voimassa olevia järjestysnumeroitasi. Saat asiointikansioosi tiedon hakemuksen vastaanotosta asumisoikeusjärjestelmään, ja ilmoituksen, kun uusi järjestysnumero saapuu asiointikansioon.\n\nSaat asiointikansion tapahtumista ilmoituksen sähköpostiisi. Huomaa, että sähköposti-ilmoituksessa ja hakemuksen otsikon perässä oleva numero on asiointikansion asianumero, ei asumisoikeuden järjestysnumero.\n\nVoit tarkastella järjestysnumeroitasi asiointikansiossa avaamalla hakemuksesi tiedot. Tällöin näkyviin tulevat kaikki voimassa olevat järjestysnumerosi.",
             "processing_time": "Saat järjestysnumeron seuraavana arkipäivänä.",
             "expiration_time": "Järjestysnumero on voimassa 31.12.2023 saakka, jos numeroa ei ole sitä ennen käytetty.",
             "provided_languages": [
@@ -2891,12 +2891,6 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute asuntopalveluille",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/Anna+palautetta\/",
-                            "file_format": "HTML"
-                        },
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
