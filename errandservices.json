@@ -2817,6 +2817,152 @@
         ]
     },
     {
+        "id": 1141,
+        "fi": {
+            "id": 1141,
+            "exact_descriptions": [
+                3174
+            ],
+            "service_id": 10095,
+            "type": "ADVICE",
+            "name": "Hae tai tarkista järjestysnumero",
+            "description": "Voit hakea järjestysnumeroa kolmella eri tavalla: sähköisessä asiointipalvelussa, verkkolomakkeella tai tulostettavalla lomakkeella.\n\nSähköisessä asiointipalvelussa voit hakea uutta järjestysnumeroa tai tarkastella voimassa olevia järjestysnumeroitasi.\n\nJos jätät hakemuksen sähköisessä asiointipalvelussa, saat asiointikansioosi tiedon hakemuksen vastaanotosta asumisoikeusjärjestelmään, ja ilmoituksen, kun uusi järjestysnumero saapuu asiointikansioon.\n\nSaat asiointikansion tapahtumista ilmoituksen sähköpostiisi. Huomaa, että sähköposti-ilmoituksessa ja hakemuksen otsikon perässä oleva numero on asiointikansion asianumero, ei asumisoikeuden järjestysnumero.\n\nVoit tarkastella järjestysnumeroitasi asiointikansiossa avaamalla hakemuksesi tiedot. Tällöin näkyviin tulevat kaikki voimassa olevat järjestysnumerosi.",
+            "processing_time": "Saat järjestysnumeron seuraavana arkipäivänä.",
+            "expiration_time": "Järjestysnumero on voimassa 31.12.2023 saakka, jos numeroa ei ole sitä ennen käytetty.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 1347,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Asumisoikeuden järjestysnumerot, verkkolomake",
+                    "prerequisites": "Ei vaadi tunnistautumista pankki- tai mobiilitunnuksilla.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkolomake, ei tunnistautumista",
+                            "url": "https:\/\/www.asumisoikeushakemus.net\/asohakemus\/hakemus.tee",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 1605,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Asumisoikeuden järjestysnumerot, sähköinen asiointipalvelu",
+                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.\nHakijan tulee olla vähintään 18-vuotias.",
+                    "availability_summary": "palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "authorization_code": "Asumisoikeuden järjestysnumeron hakeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute asuntopalveluille",
+                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/Anna+palautetta\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/asolomake",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                },
+                {
+                    "id": 3427,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelinpalvelu",
+                    "availability_summary": "avoinna ma-to 09-11",
+                    "phone": "09 310 13032",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3428,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "asumisoikeus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4816,
         "fi": {
             "id": 4816,
