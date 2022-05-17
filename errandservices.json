@@ -10960,8 +10960,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Kaupunginkanslia, työllisyysavustushakemus",
-                    "prerequisites": "Palvelun käyttäminen edellyttää rekisteröitymistä sekä vahvaa tunnistautumista.\nPalvelu saatavilla hakuaikana 1. - 31.12.",
-                    "information": "Avustusten hakuaika on vuosittain joulukuussa.",
+                    "prerequisites": "Palvelun käyttäminen edellyttää rekisteröitymistä sekä vahvaa tunnistautumista.\nPalvelu saatavilla hakuaikana.",
                     "process_description": "Avustushakemus lähetetään käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyn etenemistä voi seurata asiointikansiosta. Hakemuksen voi myös tallentaa luonnoksena ja lähettää myöhemmin. Hakemuksen tietoja voi muuttaa hakuaikana. Päivitetty tai uusi samaan tarkoitukseen tehty hakemus korvaa aikaisemman.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -11034,7 +11033,7 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Stadskansliet, ansökan om sysselsättningsunderstöd",
-                    "prerequisites": "Användning av e-tjänsten förutsätter registrering och stark identifiering.\nDen årliga ansökningstiden är 1 - 31 december.",
+                    "prerequisites": "Användning av e-tjänsten förutsätter registrering och stark identifiering.\n",
                     "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -16801,7 +16800,7 @@
                     "id": 1828,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "availability_summary": "avoinna ma-pe 10-14",
+                    "availability_summary": "avoinna ma-pe 09-12",
                     "phone": "09 310 55002",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -16817,7 +16816,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe 10-14"
+                            "availability_string": "Avoinna ma-pe 09-12"
                         }
                     ]
                 }
