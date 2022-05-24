@@ -1010,7 +1010,7 @@
             ],
             "service_id": 10951,
             "type": "ADVICE",
-            "name": "Arbiksen neuvontapalvelut",
+            "name": "Arbiksen neuvontapalvelut, asiointipalvelu",
             "name_synonyms": "Arbis, arbetarinstitutet, neuvonta",
             "description": "Annamme neuvontaa Arbiksessa opiskeluun liittyvissä asioissa.",
             "provided_languages": [
@@ -4284,7 +4284,7 @@
             ],
             "service_id": 10951,
             "type": "ADVICE",
-            "name": "Helsingin työväenopiston neuvontapalvelut",
+            "name": "Helsingin työväenopiston neuvontapalvelut, asiointipalvelu",
             "name_synonyms": "työviksen neuvonta, työvis",
             "description": "Annamme neuvontaa Helsingin työväenopistossa opiskeluun liittyvissä asioissa.",
             "provided_languages": [
@@ -8622,6 +8622,7 @@
             "name": "Kasvatuksen ja koulutuksen neuvonta, asiointipalvelut",
             "description": "Annamme neuvontaa varhaiskasvatukseen, peruskouluihin, lukio- ja ammatillisiin opintoihin sekä työväenopistoissa opiskeluun liittyvissä asioissa.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -8629,15 +8630,13 @@
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "INDIVIDUALS",
+                "YOUTH"
             ],
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kasvatuksen ja koultuksen neuvonta",
-                    "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/"
-                }
             ],
             "channels": [
                 {
@@ -8647,6 +8646,7 @@
                     "name": "Kasvatuksen ja koulutuksen palautekanava",
                     "availability_summary": "avoinna joka päivä ympäri vuorokauden",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -8655,13 +8655,13 @@
                     "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
                             "type": "INTERNET",
                             "title": "Kasvatuksen ja koulutuksen palautekanava",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/anna+palautetta\/anna-palautetta"
+                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/anna+palautetta"
                         }
                     ],
                     "availabilities": [
@@ -8674,8 +8674,9 @@
                     "id": 2689,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
+                    "name": "Kasvatuksen ja koulutuksen puhelinneuvonta",
                     "availability_summary": "avoinna ma-pe 10-12, ma-pe 13-15",
-                    "phone": "+350 9 310 8600",
+                    "phone": "+350 9 310 44986",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -8684,7 +8685,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
