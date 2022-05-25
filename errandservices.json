@@ -1044,6 +1044,7 @@
                     "name": "Arbiksen palautekanava",
                     "availability_summary": "avoinna joka päivä ympäri vuorokauden",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -1071,7 +1072,8 @@
                     "id": 2691,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "phone": "+358 0 310 494 94 ",
+                    "name": "Arbiksen puhelinneuvonta",
+                    "phone": "09 310 494 94 ",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -4313,6 +4315,7 @@
                     "name": "Kasvatuksen ja koulutuksen palautekanava",
                     "availability_summary": "avoinna joka päivä",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -4340,6 +4343,8 @@
                     "id": 2687,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
+                    "name": "Helsingin työväenopiston puhelinneuvonta",
+                    "availability_summary": "palvelu saatavilla alkaen 25.5.2022 ma-to 10-16, palvelu ei saatavilla 23.6. - 31.7.2022 ",
                     "phone": "+350 9 310 88610 ",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -4354,6 +4359,12 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla ma-to alkaen 25.5.2022 klo 10-16"
+                        },
+                        {
+                            "availability_string": "Palvelu ei saatavilla 23.6. - 31.7.2022"
+                        }
                     ]
                 }
             ]
