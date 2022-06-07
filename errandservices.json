@@ -6879,6 +6879,7 @@
         "fi": {
             "id": 4410,
             "exact_descriptions": [
+                2686,
                 7812
             ],
             "service_id": 10024,
@@ -24152,6 +24153,228 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5075,
+        "fi": {
+            "id": 5075,
+            "exact_descriptions": [
+                8955
+            ],
+            "service_id": 10096,
+            "type": "APPLICATION",
+            "name": "Tupakointikiellon hakeminen",
+            "name_synonyms": "asuntoyhteisö, talonyhtiö",
+            "description": "Ympäristöpalveluiden asumisterveystiimi neuvoo hakemukseen liittyvissä kysymyksissä sekä käsittelee ja tekee päätökset tupakointikieltohakemuksiin. Hakemusten käsittelystä peritään maksu.\n\nTupakointikieltohakemuksia koskevissa kysymyksissä voit ottaa yhteyttä sähköpostitse osoitteeseen kymp.asumisterveys@hel.fi\n\nVoit toimittaa tupakointikieltohakemuksen Helsingin kaupungin kirjaamoon sähköisesti helsinki.kirjaamo@hel.fi tai postitse osoitteeseen Kirjaamo, PL 10, 00099 Helsingin kaupunki.\n\nMe asumisterveystiimissä valvomme myös tupakointikiellon noudattamista. Asukkaana voit olla tupakointikiellon rikkomisesta yhteydessä asuntoyhteisön isännöitsijään, joka ilmoittaa tarvittaessa asiasta meille.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3451,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelin",
+                    "availability_summary": "Avoinna ma-to 09-12, ti 12-15",
+                    "phone": "09 310 15000",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-12"
+                        },
+                        {
+                            "availability_string": "Avoinna ti 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3452,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "kymp.asumisterveys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5075,
+            "exact_descriptions": [
+                8955
+            ],
+            "service_id": 10096,
+            "type": "APPLICATION",
+            "name": "Applying for a smoking ban",
+            "description": "The Environmental Health Unit gives advice on issues related to applying and it processes and makes decisions on the smoking ban applications. The processing of the application is subject to a processing fee.\n\nIn questions related to smoking ban applications, you can send an e-mail to kymp.asumisterveys@hel.fi\n\nYou can submit your smoking ban application to the City of Helsinki Registry Office electronically to helsinki.kirjaamo@hel.fi or by post to P.O. Box 10, FI-00099 City of Helsinki.\n\nThe Environmental Health Unit also monitors compliance with the smoking ban. A resident can contact the technical property manager of the housing community about violations of the smoking ban, and the manager will notify us, if necessary.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3451,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "availability_summary": "Open Mon-Thu 09-12, Tue 12-15",
+                    "phone": "09 310 15000",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 09-12"
+                        },
+                        {
+                            "availability_string": "Open Tue 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3452,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "kymp.asumisterveys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5075,
+            "exact_descriptions": [
+                8955
+            ],
+            "service_id": 10096,
+            "type": "APPLICATION",
+            "name": "Ansökan om rökförbjud",
+            "description": "Enheten för miljöhälsa ger råd i frågor kring ansökan samt behandlar och fattar beslut om ansökningarna om rökförbud. Det debiteras en avgift för handläggningen av ansökningarna.\n\nI frågor kring ansökningar om rökförbud kan du kontakta oss per e-post på kymp.asumisterveys@hel.fi\n\nDu kan skicka in ansökan om rökförbud elektroniskt till Helsingfors stads registratorskontor på helsinki.kirjaamo@hel.fi eller per post till PB 10, 00099 Helsingfors stad.\n\nEnheten för miljöhälsa bevakar också att rökförbudet följs. Den boende kan kontakta bostadssammanslutningens disponent om man bryter mot rökförbudet och disponenten meddelar oss vid behov om ärendet.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3451,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "availability_summary": "Öppet mån-tor 09-12, tis 12-15",
+                    "phone": "09 310 15000",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 09-12"
+                        },
+                        {
+                            "availability_string": "Öppet tis 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3452,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "kymp.asumisterveys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2711,
