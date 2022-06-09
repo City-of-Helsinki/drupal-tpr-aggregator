@@ -4805,11 +4805,13 @@
                     "provided_languages": [
                         "ar",
                         "en",
+                        "et",
                         "fa",
                         "fad",
                         "fi",
                         "fr",
                         "prs",
+                        "ru",
                         "so",
                         "sv"
                     ],
@@ -24522,6 +24524,64 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5077,
+        "fi": {
+            "id": 5077,
+            "exact_descriptions": [
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Työllisyysneuvonta",
+            "description": "Helsingin työllisyyspalvelujen neuvonta antaa tukea työpaikan hakemiseen sekä tietoa koulutusmahdollisuuksista ja Helsingin työllisyyspalveluista puhelimitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3456,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Työllisyysneuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-pe 09-16",
+                    "phone": "+358931036107",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4516,
