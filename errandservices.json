@@ -2208,7 +2208,6 @@
         "fi": {
             "id": 4422,
             "exact_descriptions": [
-                3137,
                 7822
             ],
             "service_id": 10554,
@@ -4422,7 +4421,6 @@
         "fi": {
             "id": 4202,
             "exact_descriptions": [
-                3137,
                 3500,
                 7569
             ],
@@ -4727,6 +4725,7 @@
         "fi": {
             "id": 4203,
             "exact_descriptions": [
+                3843,
                 7569
             ],
             "service_id": 10876,
@@ -4775,7 +4774,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Helsinki-infon puhelinneuvonta",
                     "availability_summary": "Avoinna ma-to 09-16, pe 10-15",
-                    "phone": "+358 9 310 111 11",
+                    "phone": "+358931011111",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -15347,96 +15346,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Palvelu saatavilla joka päivä "
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 4791,
-        "fi": {
-            "id": 4791,
-            "exact_descriptions": [
-                3005
-            ],
-            "service_id": 10496,
-            "type": "ADVICE",
-            "name": "Matkailuneuvonnan sähköiset palvelukanavat",
-            "description": "Matkailuneuvontaa saa matkailuneuvontapisteiden lisäksi puhelimella ja chatissä.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "be1328b3-09fa-4ace-b24b-0a806c44a59d"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3108,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Matkailuneuvontaa puhelimella",
-                    "availability_summary": "Avoinna joka päivä 09-16",
-                    "phone": "(09) 310 13300 ",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä 09-16"
-                        }
-                    ]
-                },
-                {
-                    "id": 3109,
-                    "type": "CHAT",
-                    "type_string": "Chat",
-                    "name": "Matkailuneuvonnan Chat",
-                    "information": "Chat ruutu on MyHelsinki.fi sivuston oikeassa alalaidassa.",
-                    "availability_summary": "Avoinna ma-pe 09-16",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Juttele Chatissä",
-                            "url": "https:\/\/www.myhelsinki.fi\/fi"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-16"
                         }
                     ]
                 }
