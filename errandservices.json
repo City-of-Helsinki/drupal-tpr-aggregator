@@ -12581,6 +12581,82 @@
         }
     },
     {
+        "id": 5074,
+        "fi": {
+            "id": 5074,
+            "exact_descriptions": [
+                3917
+            ],
+            "service_id": 10195,
+            "type": "APPLICATION",
+            "name": "Koulujen luokka-, ruokasali- ja juhlasalitilojen varaaminen Timmi-järjestelmän kautta",
+            "process_description": "1. Rekisteröidy Timmin käyttäjäksi sähköisesti Y-tunnuksella. \n2. Tee tilavuorohakemus Timmiin.\n3. Saat vahvistuksen, mikäli hakemus hyväksytään.\n4. Saat laskun tilan käytöstä postitse.",
+            "costs": "Laskutetaan käytön jälkeen kuukausittain.",
+            "information": "Kankarepuiston peruskoulun ja leikkipuisto Kankarepuiston tiloja voi varata Varaamon kautta, varaamo.hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Timmi-järjestelmä",
+                    "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3449,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Timmi-verkkoasiointi koulutilojen varaamiseen",
+                    "prerequisites": "Käyttäjä (yritys, yhdistys) on rekisteröitynyt Timmin jäseneksi sähköisesti Y-tunnuksella ja yksityisasiakas henkilötunnuksella.",
+                    "information": "Timmin kautta voi varata vain koulujen luokka-, ruokasali- ja juhlasalitiloja.",
+                    "availability_summary": "Avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Timmi-järjestelmä",
+                            "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5060,
         "fi": {
             "id": 5060,
