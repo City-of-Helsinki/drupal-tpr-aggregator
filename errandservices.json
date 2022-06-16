@@ -2817,6 +2817,67 @@
         ]
     },
     {
+        "id": 4019,
+        "fi": {
+            "id": 4019,
+            "exact_descriptions": [
+                3202,
+                6443
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Hae purkamislupaa tai tee purkamisilmoitus",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2453,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae lupaa tai tee ilmoitus",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1141,
         "fi": {
             "id": 1141,
@@ -14694,7 +14755,6 @@
             "exact_descriptions": [
                 3202,
                 6442,
-                6443,
                 6444,
                 6445,
                 6448,
@@ -15258,7 +15318,6 @@
             "exact_descriptions": [
                 3202,
                 6442,
-                6443,
                 6444,
                 6445,
                 6449,
@@ -18445,93 +18504,6 @@
                         },
                         {
                             "availability_string": "Avoinna ma-pe 13-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 4019,
-        "fi": {
-            "id": 4019,
-            "exact_descriptions": [
-                3202,
-                6443
-            ],
-            "service_id": 10634,
-            "type": "PERMISSION",
-            "name": "Purkamislupa ja purkamisilmoitus",
-            "description": "Rakennuksen tai sen osan purkamiseen asemakaava-alueella haetaan rakennusvalvonnalta purkamislupa. Lupa tarvitaan myös asemakaava-alueen ulkopuolella, jos alueella on voimassa rakennuskielto asemakaavan laatimiseksi tai jos yleiskaavassa niin määrätään. Purkamisluvan voi hakea erikseen tai rakennusluvan yhteydessä. \n\nJos purkamislupaa ei tarvita, niin purkamisesta pitää tehdä purkamisilmoitus rakennusvalvontaan 30 päivää ennen purkamistöiden aloittamista. Perustellusta syystä rakennusvalvonta voi vaatia purkamisluvan hakemista ennen purkamisen aloittamispäivää.",
-            "process_description": "PURKAMISILMOITUS: \n1 Ilmoitus jätetään Lupapiste-palveluun. Liitteenä:\n - Asemapiirros\n - Valokuvat purettavasta rakennuksesta \n - Mahdollinen valtakirja tai valtuutus Lupapisteessä \n2 Päätös purkamisilmoituksesta toimitetaan asiakkaille. Asiakas voi päätöksen saatuaan purkaa kohteen tai hakee purkamislupaa.\n\nERILLINEN PURKAMISLUPA: \n1 Ajanvaraus Ketterän luvan ennakkoneuvotteluun \n2 Ennakkoneuvottelu \n3 Hakemus tehdään Lupapiste-palvelussa. Hakemukseen tulee liittää \n- asemapiirustus \n- valokuvat purettavista rakennuksista\n- mahdollinen valtakirja tai valtuutus Lupapisteessä\n\nLupapisteeseen kannattaa varautua ilmoittamaan syntyvän jätteen määrä, laatu ja hyödyntämis- tai sijoituspaikka, jollei jätteen määrä ole vähäinen. Mahdolliset terveydelle ja ympäristölle vaaralliset purkujätteet ja niiden käsittely- tai sijoituspaikka kirjataan hakemukseen erikseen. \n\nLue lisää ohjeesta Rakennusten purkaminen.",
-            "costs": "Voimassa olevan rakennusvalvontataksan mukaiset maksut. Katso linkki Perittävät maksut.",
-            "information": "Purkamislupaa ei tarvita, jos voimassa oleva rakennuslupa, katusuunnitelma tai hyväksytty tiesuunnitelma edellyttävät rakennuksen purkamista. \n\nLupaa ei myöskään tarvita talousrakennuksen ja siihen verrattavan vähäisen rakennuksen purkamiseen, jos rakennus ei ole historiallisesti merkittävä, rakennustaiteellisesti arvokas tai osa tällaista kokonaisuutta. Pientalon purkaminen vaatii luvan. \n\nLisäksi purkamislupaa sekä -ilmoitusta ei tarvita, kun:\n- rakennuksen korjaustöiden yhteydessä puretaan tavanomaisia rakennusosia\n- tilapäinen tai määräaikainen rakennus puretaan tai\n- rakennuslautakunta on velvoittanut purkamaan kyseisen rakennuksen.\n\nPurkamislupa haetaan ja purkamisilmoitus jätetään Lupapiste-palveluun.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ohje: Rakennusten purkaminen",
-                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Purkaminen.pdf"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Lupapiste.fi",
-                    "url": "https:\/\/www.lupapiste.fi"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Perittävät maksut",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/rakentaminen\/ennakkotietoa-rakentamiseen\/perittavat-maksut"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2453,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Purkamislupa ja purkamisilmoitus - verkkoasiointi",
-                    "prerequisites": "Asiakkaan tulee rekisteröityä palvelun käyttäjäksi. Myös yritystili on mahdollinen.",
-                    "availability_summary": "Palvelu saatavilla joka päivä",
-                    "process_description": "1. Kirjaudu tai rekisteröidy palveluun.\n2. Valtuutettu taho (esim. suunnittelija) tai hankkeeseen ryhtyvä avaa lupahakemuksen. \n3. Kutsutaan hankkeelle muut tarvittavat osapuolet(suunnittelijat). Varmista, että kaikki on kutsuttu ja valtuutettu.\n3. Suunnittelija vie palveluun viimeistellyn hakemusaineiston (asiakirjat ja piirustukset).\n4. Seurataan hankkeen viestintää ja täydennetään puutuvia tietoja. \n5. Lupakäsittely voi alkaa, kun päätökseen tarvittava aineisto on toimitettu. Hakemukset käsitellään hakujärjestyksessä.\n6. Lupapäätös tulee näkyviin Lupapisteessä ja siitä toimitetaan ote hakijalle.\n7. Kutsu vastaavat työnjohtajat hankkeelle (huomaa päätöksen lainvoimaisuuden odottaminen).",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Lupapiste.fi",
-                            "url": "https:\/\/www.lupapiste.fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä "
                         }
                     ]
                 }
