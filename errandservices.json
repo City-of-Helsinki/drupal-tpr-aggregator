@@ -2817,6 +2817,80 @@
         ]
     },
     {
+        "id": 4182,
+        "fi": {
+            "id": 4182,
+            "exact_descriptions": [
+                2694,
+                7455
+            ],
+            "service_id": 10092,
+            "type": "APPLICATION",
+            "name": "Hae omakotitalotonttia",
+            "description": "Omakotitonttihaku 16.6. - 13.9.2022 klo 15.00 helsinkiläisille lapsiperheille.",
+            "process_description": "",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Omakotitalotontit",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/tontit\/tontit\/asunto\/omakotitalotontit\/",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2576,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae omakotitalotonttia",
+                    "information": "Sähköinen asiointipalvelu, jonka avulla voi hakea vuokrattavana olevia kaupungin omakotitontteja.",
+                    "availability_summary": "Avoinna 16.6. - 13.9.2022 09-15",
+                    "authorization_code": "Asumiseen kaavoitettujen tonttien hakeminen",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/static\/pientalotontti\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna 16.6. - 13.9.2022 klo 09-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4019,
         "fi": {
             "id": 4019,
