@@ -12850,14 +12850,14 @@
         "fi": {
             "id": 4089,
             "exact_descriptions": [
+                3641
             ],
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Kulttuuri, kehittämisavustushakemus",
-            "description": "Kehittämisavustukset on tarkoitettu helsinkiläisille rekisteröityneille taide- ja kulttuurilaitoksille ja -yhteisöille hankkeisiin, jotka vastaavat kulttuurin kentällä koettuun kehittämistarpeeseen.",
-            "process_description": "Hakuaika päättyy 28.8.2020 klo 16.00. \n\nPäätöksestä tiedotetaan hakijalle postitse. \n\nAvustuksen käytöstä tehdään päätöksessä mainittuun päivämäärään mennessä selvitys kehittämisavustusten arviointilomakkeella.",
-            "processing_time": "Kehittämisavustusten päätöksistä tiedotetaan marras-joulukuussa.",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty. Puutteelliset hakemukset hylätään.",
+            "description": "Kehittämisavustusta myönnetään kehittämishankkeisiin, jotka vastaavat vähintään yhteen seuraavista: 1. Vastaavat kulttuurin kentällä koettuun kehittämistarpeeseen, esimerkiksi kun vastaavaa toimintaa puuttuu kaupungista. 2. Hyödyttävät taiteen ja kulttuurin kenttää toteuttajatahoaan laajemmin.3. Tukevat muutoin taiteen ja kulttuurin kannalta olennaisia kaupungin valtuustostrategisia ja kulttuuripoliittisia tavoitteita.",
+            "process_description": "Katso linkistä lisätietoa.",
+            "information": "Kehittämisavustuksia voidaan myöntää myös erikseen päätettävien erillishakujen mukaisesti. Tällaisia hakuja ovat mm. Helsingin mallin ja taiteen perusopetuksen kehittämisavustusten erillishaut.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12873,8 +12873,33 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Kulttuurijaoston jakamien avustusten arviointiperusteet",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/avustusten-arviointiperusteeet"
+                    "title": "Helsingin mallin avustukset",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/helsingin-mallin-avustukset",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Taiteen perusopetuksen avustus",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/taiteen-perusopetuksen-avustus",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoa kehittämisavustuksista",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/kehittamisavustukset",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Arviointiperusteet",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/avustusten-myontamisperusteet",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Hakuajat",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/hakuajat",
+                    "file_format": "HTML"
                 }
             ],
             "channels": [
@@ -12883,8 +12908,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Kulttuuri, kehittämisavustushakemus",
-                    "prerequisites": "Kehittämisavustuksia myönnetään\n- helsinkiläisille rekisteröityneille taide- ja kulttuurilaitoksille ja -yhteisöille \n- kehittämishankkeisiin, jotka vastaavat kulttuurin kentällä koettuun kehittämistarpeeseen, esimerkiksi kun vastaavaa toimintaa - kuten vaikkapa alueellisten kulttuuritalojen tarjoama - puuttuu kaupungista. \n- hanke hyödyttää taiteen ja kulttuurin kenttää toteuttajatahoaan laajemmin \n- hanke tukee kaupungin valtuustostrategisia ja kulttuuripoliittisia tavoitteita",
-                    "information": "Avustettavaa toimintaa ovat esim.\n- yhteistyöverkostot \n- kokeilut ja uudet työskentelytavat (esim. uudenlaiset toimintamallit, konseptit, uudenlaiset tilaratkaisut) \n- hankkeet, joilla tavoitellaan kulttuurista ja taiteellista uudistumista ja kehittämistä \n- osaamisen kehittämisen hankkeet\n\nHarkintaan perustuen voidaan avustaa myös muita arviointiperusteet täyttäviä kehittämishankkeita.\n- Avustus voidaan myöntää 1-3-vuotisena",
+                    "prerequisites": "Kenelle: Helsinkiläisille rekisteröityneille toimijoille, jotka eivät ole esittävän taiteen valtionosuusjärjestelmän piirissä.\nMihin tarkoitukseen:Kehittämishankkeisiin, jotka vastaavat vähintään yhteen seuraavista: 1. Vastaavat kulttuurin kentällä koettuun kehittämistarpeeseen, esimerkiksi kun vastaavaa toimintaa puuttuu kaupungista. 2. Hyödyttävät taiteen ja kulttuurin kenttää toteuttajatahoaan laajemmin.3. Tukevat muutoin taiteen ja kulttuurin kannalta olennaisia kaupungin valtuustostrategisia ja kulttuuripoliittisia tavoitteita.",
                     "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -12918,14 +12942,12 @@
         "en": {
             "id": 4089,
             "exact_descriptions": [
+                3641
             ],
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Culture, Application for Development Grant",
-            "description": "Development grants are for registered arts and cultural institutions and organisations based in Helsinki for development projects that respond to an actual development need in the cultural sector.",
-            "process_description": "Applications are due by 28.8.2020 at 16.00.\n\nThe applicant will be informed of the decision by mail. \n\nAn account of the use of the grant must be given with evaluation form for the development grants by the date stated in the grant decision.",
-            "processing_time": "The decisions about Development Grants will be informed in November-December.",
-            "expiration_time": "An application which has been sent is valid until a decision is made. Insufficient and faulty applications will be disallowed. ",
+            "description": "Grant is for development projects that fill at least one of the following: 1. Respond to the cultural sector's development needs (e.g. when certain activities are not yet available in the city). 2. Are beneficial to the field of art and culture more extensively than only to the organisations conducting the projects. 3. Support the City Council's strategic and cultural policy objectives.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12941,8 +12963,20 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "See the evaluation criteria for subsidies and grants",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/evaluation-criteria-for-subsidies-and-grants",
+                    "title": "The Helsinki Model",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/the-helsinki-model",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Conditions and specifications regarding the grant.",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/development-grants",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "See the application schedules",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/application-schedules",
                     "file_format": "HTML"
                 }
             ],
@@ -12952,8 +12986,7 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Culture, Application for Development Grant",
-                    "prerequisites": "Development grants starting from 1 June 2017\n- for registered arts and cultural institutions and organisations based in Helsinki \n- for development projects that respond to an actual development need in the cultural sector, e.g. when no similar activities exist in the city, such as cultural centres regionally \n- the project will generate benefits for the cultural scene beyond the party implementing the project \n- the project supports the council strategy and cultural policy objectives of the city \n- activities receiving grants include \n- cooperation networks \n- experiments and new working methods (e.g. new operating models, concepts, new kinds of space solutions) \n- projects with the objective of cultural and artistic reform and development \n- competence development projects\n\nPlease note that in addition to the general application form, each applicant should complete the relevant supplementary form.\n",
-                    "information": "The cultural policy development activities emphasised in 2017-2018 include: \n- Helsinki Model activities as well as the regional availability of art and culture \n- Cultural work with the elderly \n- Basic education in the arts \nOther development projects that meet the evaluation criteria may also be supported based on discretion. \n- The grant may be awarded for 1-3 years",
+                    "prerequisites": "For whom: Helsinki based registered operators. Operators that belong to the central government subsidies system (VOS) in the fields of performing arts or music are excluded from the grant.\nFor what: Development projects that fill at least one of the following: 1. Respond to the cultural sector's development needs (e.g. when certain activities are not yet available in the city). 2. Are beneficial to the field of art and culture more extensively than only to the organisations conducting the projects. 3. Support the City Council's strategic and cultural policy objectives.\n\n",
                     "availability_summary": "Open every day around the clock",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -12986,14 +13019,12 @@
         "sv": {
             "id": 4089,
             "exact_descriptions": [
+                3641
             ],
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Kultur, ansökan om utvecklingsunderstöd",
-            "description": "Utvecklingsunderstöd beviljas för registrerade konst- och kulturinstitutioner och sammanslutningar i Helsingfors för utvecklingsprojekt som svarar på behov inom kulturfältet.",
-            "process_description": "Ansökningstiden för utvecklingsunderstöd går ut fr 28.8.2020 kl. 16.00. \n\nBeslutet meddelas skriftligen.\n\nDu skall göra en rapport om användningen av understödet på blanketten för det ändamålet inom det datum som är angivet i beslutet.",
-            "processing_time": "Vi informerar om besluten för ansökningarna efter kultursektionens möte i november.",
-            "expiration_time": "Ansökningen är i kraft tills den behandlas. Bristfälliga ansökningar förkastas.",
+            "description": "Stöd för utvecklingsprojekt som uppfyller minst ett av följande kriterier: 1. Svarar på ett upplevt utvecklingsbehov inom kulturfältet (exempelvis när staden saknar motsvarande verksamhet). 2. Projekt som vid sidan av den part som genomför projektet även främjar det övriga konst- och kulturfältet. 3. Projekt som stödjer stadens strategiska och kulturpolitiska mål.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13009,8 +13040,20 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Se bedömningskriterierna för understöd",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/bedomningsgrunderna-for-understod",
+                    "title": "Helsingfors modellen",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/helsingfors-modellen",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för grundläggande konstundervisining",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/understod-for-grundlaggande-konstundervisning",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Se ansökningstider",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/ansokningstider",
                     "file_format": "HTML"
                 }
             ],
@@ -13020,8 +13063,7 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Kultur, ansökan om utvecklingsunderstöd",
-                    "prerequisites": "Utvecklingsunderstöd beviljas\n- för registrerade konst- och kulturinstitutioner och sammanslutningar i Helsingfors \n- för utvecklingsprojekt som svarar på behov inom kulturfältet, till exempel om motsvarande verksamhet saknas i staden, liksom kulturhus i stadsdelar \n- projektet involverar förutom den organiserande institutionen också en bredare grupp aktörer inom konst- och kulturfältet \n- projektet stöder Helsingfors kulturnämnds strategi och kulturpolitiska mål",
-                    "information": "Verksamheter som understöds är till exempel \n- samarbetsnätverk \n- experiment och nya arbetssätt (t.ex. innovativa verksamhetsmodeller, koncept, nya lokallösningar) \n- projekt som har som mål att förnya och utveckla kultur och konst \n- projekt för yrkesmässig kompetensutveckling\nUnder åren 2017-2018 fokuserar man inom kulturpolitiskt utvecklingsarbete på bl.a. följande: \n- Helsingforsmodellens verksamhet och åtkomst till kultur på olika områden i staden \n- Kulturarbete inom äldreomsorgen \n- Grundundervisning i konst\nEnligt prövning kan också andra utvecklingsprojekt som uppfyller bedömningskriterierna beviljas understöd. \n- Understödet beviljas för 1-3 år\n\nAnsökningsblanketten öppnas den 1.8.2017. Lägg märke till att sökande förutom ansökningsblanketten ska fylla i den tillhörande tilläggsblanketten",
+                    "prerequisites": "För vem: Registrerade aktörer i Helsingfors som inte omfattas av statsandelssystemet (VOS) för scenkonst eller musik.\nFör vilka ändamål: utvecklingsprojekt som uppfyller minst ett av följande kriterier: 1. Svarar på ett upplevt utvecklingsbehov inom kulturfältet (exempelvis när staden saknar motsvarande verksamhet). 2. Projekt som vid sidan av den part som genomför projektet även främjar det övriga konst- och kulturfältet. 3. Projekt som stödjer stadens strategiska och kulturpolitiska mål.",
                     "availability_summary": "Öppet dygnet runt varje dag",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -13063,9 +13105,8 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Kulttuuri, taide- ja kulttuuriavustushakemus",
-            "description": "Taide- ja kulttuuriavustuksia myönnetään helsinkiläisille taide- ja kulttuurilaitoksille ja -yhteisöille, järjestöille, yhdistyksille, työryhmille, taiteilijoille, kaupunginosatapahtumille ja asukkaille yleisölle avoimen taide- ja kulttuuritoiminnan sekä taiteen perusopetuksen avustamiseen.",
-            "process_description": "Avustuksista päättää kulttuurijaosto. Lisätiedot ja aikataulut kulttuurin ja vapaa-ajan toimialan nettisivuilla https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/taide-ja-kulttuuriavustukset.\n\nAvustuksen käytöstä tehdään päätöksessä mainittuun päivämäärään mennessä selvitys arviointilomakkeella. Yli 50 000 euron avustukset selvitetään seuraavan haun yhteydessä toimintakertomuksella. \n",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty. Puutteelliset hakemukset hylätään.",
+            "description": "Taide- ja kulttuuriavustushakemuksella voidaan hakea Taide- ja kulttuuriavustusta ja Taiteen perusopetuksen avustusta.",
+            "process_description": "Taide- ja kulttuuriavustukset\nKenelle: Taide- ja kulttuurilaitoksille ja -yhteisöille, järjestöille, yhdistyksille, työryhmille, taiteilijoille ja asukkaille. Toiminta-avustuksia myönnetään ainoastaan helsinkiläisille rekisteröityneille toimijoille. Projektiavustuksia voivat hakea rekisteröityneiden toimijoiden lisäksi rekisteröimättömät työryhmät ja yksityishenkilöt.\nMihin tarkoitukseen: Helsingissä tapahtuvaan yleisölle avoimeen taide- ja kulttuuritoimintaan. Avustuksilla tuetaan helsinkiläisille suuntautuvaa toimintaa, joka tuo ihmisiä yhteen taide- ja kulttuurisisältöjen äärelle sekä tarjoaa mahdollisuuksia kohtaamiseen tai vuorovaikutukseen.\n\nTaiteen perusopetuksen avustukset\nKenelle: Oppilaitoksille, joilla on hyväksytty opetussuunnitelma, ja jotka Helsingin kaupunki on hyväksynyt taiteen perusopetuksen toimijoiksi.\nMihin tarkoitukseen: Helsingissä järjestettävään taiteen perusopetustoimintaan.\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13081,13 +13122,19 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Kulttuurijaoston jakamien avustusten arviointiperusteet",
+                    "title": "Arviointiperusteet",
                     "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/avustusten-myontamisperusteet",
                     "file_format": "HTML"
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Tietoa ja aikataulu",
+                    "title": "Hakuajat",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/hakuajat",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tutustu avustuslajiin ja sitä koskeviin ehtoihin ja rajauksiin ennen hakemista",
                     "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/kulttuurin-avustukset\/taide-ja-kulttuuriavustukset",
                     "file_format": "HTML"
                 }
@@ -13098,8 +13145,8 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Kulttuuri, taide- ja kulttuuriavustushakemus",
-                    "prerequisites": "Taide- ja kulttuuriavustuksia ei myönnetä:\n- mediajulkaisutoimintaan, nettisivuihin, elokuvatuotantoihin, tallenteisiin ja radiotoimintaan yms.\n- yhteisöille, joiden kattojärjestöt ovat kaupungin tuen piirissä\n- opinnäytetöihin ja julkaisuihin\n- kilpailuihin ja juhliin\n- uskonnollisiin ja puoluepoliittisiin tilaisuuksiin\n- suljettuihin tilaisuuksiin\n- esitelmiin, luentoihin, seminaareihin ja kursseihin\n- harrastus-, opinto- tai kerhotoimintaan tai leireihin\n- yksittäisiin konsertteihin, esityksiin tai näyttelyihin\n- pääasiassa Helsingin ulkopuolella tapahtuvaan toimintaan\n\n",
-                    "information": "Avustusta on mahdollista hakea sekä pysyväisluonteiseen että projektimuotoiseen toimintaan.\nHaku tapahtuu porrastetusti, haettavan summan mukaan:\n- alle 5 000 euroa: Haettu summa voidaan myöntää, mikäli toiminnassa sovelletaan 1-2 arviointiperustetta. Avustus myönnetään kuluvalle vuodelle.\n- 5 000 - 50 000: Haettu summa voidaan myöntää, mikäli toiminta soveltaa useita arviointiperusteita sekä työtavoissaan että -suunnitelmassaan. Avustus myönnetään kuluvalle vuodelle.\n- 50 000 - 150 000 euroa: Haettu summa voidaan myöntää, mikäli useita arviointiperusteita on sovellettu hyvin ja niillä on vaikutus toiminnan kehittämiseen. Hakijan tulee olla rekisteröitynyt toimija. Avustus myönnetään seuraavalle vuodelle.",
+                    "prerequisites": "Taide- ja kulttuuriavustukset:\nKenelle: Taide- ja kulttuurilaitoksille ja -yhteisöille, järjestöille, yhdistyksille, työryhmille, taiteilijoille ja asukkaille. Toiminta-avustuksia myönnetään ainoastaan helsinkiläisille rekisteröityneille toimijoille. Projektiavustuksia voivat hakea rekisteröityneiden toimijoiden lisäksi rekisteröimättömät työryhmät ja yksityishenkilöt.\nTaiteen perusopetuksen avustukset:\nKenelle: Oppilaitoksille, joilla on hyväksytty opetussuunnitelma, ja jotka Helsingin kaupunki on hyväksynyt taiteen perusopetuksen toimijoiksi.\n",
+                    "information": "Taide- ja kulttuuriavustukset\nMihin tarkoitukseen: Helsingissä tapahtuvaan yleisölle avoimeen taide- ja kulttuuritoimintaan. Avustuksilla tuetaan helsinkiläisille suuntautuvaa toimintaa, joka tuo ihmisiä yhteen taide- ja kulttuurisisältöjen äärelle sekä tarjoaa mahdollisuuksia kohtaamiseen tai vuorovaikutukseen.\n\nTaiteen perusopetuksen avustukset\nMihin tarkoitukseen: Helsingissä järjestettävään taiteen perusopetustoimintaan.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -13138,9 +13185,8 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Culture, Application for Art and Cultural Subsidies",
-            "description": "Art and cultural subsidies are granted for arts and cultural institutions and communities, organisations, associations, working groups, artists, local events and residents in Helsinki to support art and cultural activities that are open to the public as well as basic education in the arts. The subsidies can be applied for both long-term work and project-type activities.",
-            "process_description": "The grants are awarded by the cultural division.\n\nAdditional information and deadlines can be found at The Culture and Leisure Division's webpage https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/art-and-cultural-subsidies.\n \nThe applicant will be informed of the decision by mail. \n\nAn account of the use of the grant must be given with an evaluation form by the date stated in the grant decision. Grants over 50 000 euros will be accounted of in connection with the following year's application in the annual report.",
-            "expiration_time": "An application which has been sent is valid until a decision is made. Insufficient and faulty applications will be disallowed. ",
+            "description": "Application for Art and Cultural Subsidies is for Arts and Culture Grants Basic and Arts Education Grants.",
+            "process_description": "Arts and Culture Grants\nFor whom: Institutions and communities of art and culture, organisations, associations, working groups, artists and residents. Operational grants can only be granted for registered operators based in Helsinki. In addition to registered operators, unregistered working groups and private individuals may also apply for project grants.\nFor what: For artistic and cultural activities and basic arts education organised in Helsinki and open to the public. For artistic and cultural activities that are open to the public and take place in Helsinki. The grants are directed at supporting activities that are geared towards the citizens of Helsinki, bring people together and into contact with artistic and cultural contents, and offer possibilities for encounters and interaction.\n\nBasic Arts Education Grants\nFor whom: For organisations with an accepted curriculum that the City of Helsinki has accepted as organisers of basic arts education.\nFor what: For basic arts education in Helsinki.\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13156,8 +13202,14 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "See the evaluation criteria for subsidies and grants",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/evaluation-criteria-for-subsidies-and-grants",
+                    "title": "Before applying, check the conditions and specifications regarding the grant",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/arts-and-culture-grants",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "See the application schedules ",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/cultural-subsidies\/application-schedules",
                     "file_format": "HTML"
                 }
             ],
@@ -13167,8 +13219,8 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Culture, Application for Art and Cultural Subsidies",
-                    "prerequisites": "Art and Cultural Subsidies are not available for \n- media publishing activities, websites, film productions, recordings and radio broadcasting, etc. \n- communities whose umbrella organisations are supported by the city \n- theses and publications \n- competitions and celebrations \n- religious and political party events \n- closed events \n- presentations, lectures, seminars and courses \n- hobby, study or club activities or camps \n- individual concerts, performances or exhibitions \n- activities that mainly take place outside of Helsinki\n\n",
-                    "information": "Multi-stage application process according to the amount applied for: \n- less than EUR 5,000: The amount applied for may be granted if the activities meet 1-2 of the evaluation criteria. The grant is awarded for the current year. \n- EUR 5,000-50,000: The amount applied for may be granted if the activities meet several of the evaluation criteria regarding both the work methods and plan. The grant is awarded for the current year. \n- EUR 50,000-150,000: The amount applied for may be granted if several of the evaluation criteria have been applied well and they have an effect on the development of the activities. The applicant must be a registered operator. The grant is awarded for the following year. \n- over EUR 150,000: A grant of the amount applied for may be awarded if the goals, methods, activities and plans are developed continuously in accordance with all of the evaluation criteria. The applicant must be a registered operator. The grant is awarded for the following year.",
+                    "prerequisites": "Arts and Culture Grants\nFor whom: Institutions and communities of art and culture, organisations, associations, working groups, artists and residents. Operational grants can only be granted for registered operators based in Helsinki. In addition to registered operators, unregistered working groups and private individuals may also apply for project grants.\nBasic Arts Education Grants\nFor whom: For organisations with an accepted curriculum that the City of Helsinki has accepted as organisers of basic arts education.\n\n",
+                    "information": "Arts and Culture Grants\nFor what: For artistic and cultural activities and basic arts education organised in Helsinki and open to the public. For artistic and cultural activities that are open to the public and take place in Helsinki. The grants are directed at supporting activities that are geared towards the citizens of Helsinki, bring people together and into contact with artistic and cultural contents, and offer possibilities for encounters and interaction.\nBasic Arts Education Grants\nFor what: For basic arts education in Helsinki.",
                     "availability_summary": "Service available every day around the clock",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -13207,9 +13259,8 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Kultur, ansökan om konst- och kulturunderstöd",
-            "description": "Stödet beviljas för konst- och kulturinstitutioner och samfund i Helsingfors, organisationer, föreningar, arbetsgrupper, konstnärer, stadsdelsevenemang och invånare, och för allmänheten som understöd för konst- och kulturverksamhet och grundundervisning i konst.",
-            "process_description": "Tilläggsinformation och sista ansökningsdagar finns på Kultur- och fritidssektorns hemsida https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/konst-och-kulturunderstod. \n\nBeslutet meddelas skriftligen.\n\nDu skall göra en rapport om användningen av understödet på blanketten för det ändamålet inom det datum som är angivet i beslutet. För dem som fått understöd över 50 000 euro räcker en inlämnad årsrapport i samband med följande ansökningstidpunkt.",
-            "expiration_time": "Ansökningen är i kraft tills den behandlas. Bristfälliga ansökningar förkastas.",
+            "description": "Ansökan om konst- och kulturunderstöd är för Konst- och kulturunderstöd och Understöd för grundläggande konstundervisning.",
+            "process_description": "Konst- och kulturunderstöd\nFör vem: Konst- och kulturinstitutioner, samfund, föreningar, arbetsgrupper, konstnärer och invånare i Helsingfors. Verksamhetsunderstöd beviljas endast till registrerade aktörer i Helsingfors. Projektunderstöd kan sökas av såväl registrerade aktörer som oregistrerade arbetsgrupper och privatpersoner.\n\nFör vilka syften: För konst- och kulturverksamhet som är öppen för allmänheten och som äger rum i Helsingfors. Med understöden stöds verksamhet som riktar sig till Helsingforsbor och som för människor samman kring konst- och kulturinnehåll samt erbjuder möjligheter till möten eller växelverkan.\n\nUnderstöd för grundläggande konstundervisning\nFör vem: För läroanstalter som har en godkänd läroplan och som godkänts av Helsingfors stad som aktörer inom grundläggande konstundervisning. \nFör vilka syften: För grundläggande konstundervisning som ordnas i Helsingfors.\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13225,8 +13276,14 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Se bedömningskriterierna för understöd",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/bedomningsgrunderna-for-understod",
+                    "title": "Läs igenom typen av understöd och dess villkor och avgränsningar ",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/konst-och-kulturunderstod",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Se ansökningstider ",
+                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/understod\/understod-for-kultur\/ansokningstider",
                     "file_format": "HTML"
                 }
             ],
@@ -13236,8 +13293,8 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Kultur, ansökan om konst- och kulturunderstöd",
-                    "prerequisites": "Det är möjligt att ansöka om understöd både för permanent verksamhet och projekt.\n\nKonst- och kulturunderstöd beviljas inte för\n- mediepublikationsverksamhet, webbplatser, filmproduktioner, inspelningar och radioverksamhet o.dyl. \n- sammanslutningar som hör till en takorganisation som får understöd av staden \n- lärdomsprov och publikationer \n- tävlingar och fester \n- religiösa och partipolitiska evenemang \n- slutna evenemang \n- föredrag, föreläsningar, seminarier och kurser \n- hobby-, studie- eller klubbverksamhet eller läger \n- enskilda konserter, uppträdanden eller utställningar \n- verksamhet som genomförs i första hand utanför Helsingfors",
-                    "information": "Ansökningen indelas enligt ansökt belopp:\n- under 5 000 euro: Det ansökta beloppet kan beviljas ifall 1-2 bedömningskriterier tillämpas i verksamheten. Understödet beviljas för det aktuella året. \n- 5 000 - 50 000: Det ansökta beloppet kan beviljas ifall ett flertal bedömningskriterier tillämpas i verksamheten, arbetsmetoderna och verksamhetsplanen. Understödet beviljas för det aktuella året. \n- 50 000 - 150 000 euro: Det ansökta beloppet kan beviljas ifall ett flertal bedömningskriterier tillämpas på ett utmärkt sätt i verksamheten och de påverkar utvecklingen av verksamheten. Den ansökande ska vara en registrerad aktör. Understödet beviljas för följande år. \n- över 150 000 euro: Det ansökta beloppet kan beviljas ifall målen, arbetsmetoderna, verksamheten och planerna utvecklas kontinuerligt i enlighet med samtliga bedömningskriterier. Den ansökande ska vara en registrerad aktör. Understödet beviljas för följande år.",
+                    "prerequisites": "Konst- och kulturunderstöd\nFör vem: Konst- och kulturinstitutioner, samfund, föreningar, arbetsgrupper, konstnärer och invånare i Helsingfors. Verksamhetsunderstöd beviljas endast till registrerade aktörer i Helsingfors. Projektunderstöd kan sökas av såväl registrerade aktörer som oregistrerade arbetsgrupper och privatpersoner.\nUnderstöd för grundläggande konstundervisning\nFör vem: För läroanstalter som har en godkänd läroplan och som godkänts av Helsingfors stad som aktörer inom grundläggande konstundervisning. \n\n",
+                    "information": "Konst- och kulturunderstöd\nFör vilka syften: För konst- och kulturverksamhet som är öppen för allmänheten och som äger rum i Helsingfors. Med understöden stöds verksamhet som riktar sig till Helsingforsbor och som för människor samman kring konst- och kulturinnehåll samt erbjuder möjligheter till möten eller växelverkan.\nUnderstöd för grundläggande konstundervisning\nFör vilka syften: För grundläggande konstundervisning som ordnas i Helsingfors.",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
