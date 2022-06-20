@@ -12786,10 +12786,143 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5074,
+            "exact_descriptions": [
+                3917
+            ],
+            "service_id": 10195,
+            "type": "APPLICATION",
+            "name": "School classrooms, dining rooms and assembly halls are booked through the Timmi system",
+            "process_description": "1. Register as a Timmi user electronically with your Business ID. \n2. Make a facility booking application at Timmi.\n3. You will receive a confirmation if your application is approved.\n4. You will be sent an invoice for the use of the facility by post.\n",
+            "costs": "Invoicesd are sent monthly after use.",
+            "information": "The premises of Kankarepuiston peruskoulu school and Kankarepuisto playground can be booked through Varaamo: varaamo.hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Timmi system",
+                    "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3449,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Timmi online service for booking school facilities",
+                    "prerequisites": "The user (company, association) has registered as a Timmi member electronically with a business ID and a private customer with a personal ID.",
+                    "information": "Only school classrooms, dining rooms and assembly halls can be booked through Timmi.",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Timmi system",
+                            "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5074,
+            "exact_descriptions": [
+            ],
+            "service_id": 10195,
+            "type": "APPLICATION",
+            "name": "Skolornas klassrum, matSkolornas klassrum, matsalar och festsalar bokas via systemet Timmi",
+            "process_description": "1. Registrera dig som användare i Timmi elektroniskt med FO-nummer. \n2. Gör en ansökan om en lokal på Timmi.\n3. Om ansökan godkänns, får du en bekräftelse.\n4. Du får en faktura för användningen av lokalen per post.\n",
+            "costs": "Användningen av lokalen faktureras månatligen efter användningen.",
+            "information": "Grundskolan Kankarepuiston peruskoulus lokaler och lekparken Kankarepuistos lokaler kan bokas via Varaamo: varaamo.hel.fi",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "E-tjänsten Timmi för bokning av skollokaler",
+                    "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3449,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "E-tjänsten Timmi för bokning av skollokaler",
+                    "prerequisites": "Användaren (företag, förening) har registrerat sig som medlem på Timmi elektroniskt med sitt FO-nummer och privatkunden med sin personbeteckning.",
+                    "information": "Via Timmi kan du endast boka skolornas klassrum, matsalar och festsalar.",
+                    "availability_summary": "Öppet varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-tjänsten Timmi",
+                            "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5060,
