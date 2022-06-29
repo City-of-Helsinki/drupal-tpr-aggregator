@@ -2817,6 +2817,65 @@
         ]
     },
     {
+        "id": 5042,
+        "fi": {
+            "id": 5042,
+            "exact_descriptions": [
+                8916
+            ],
+            "service_id": 10900,
+            "type": "APPLICATION",
+            "name": "Hae jakeluliikenteen pysäköintitunnusta",
+            "description": "Voit hakea jakeluliikenteen pysäköintitunnusta ilmoittamalla yrityksesi tiedot sekä rekisteröitävät ajoneuvot verkkolomakkeella. \n\nTunnus on ajoneuvokohtainen, rekisteröitävien ajoneuvojen määrää ei ole rajoitettu.\n\nTunnus on voimassa toistaiseksi. Ajoneuvoja voi lisätä tai poistaa samaa lomaketta käyttämällä. \n",
+            "process_description": "Saat tiedon hakemuksesi hyväksymisestä tai hylkäämisestä ilmoittamaasi sähköpostiosoitteeseen. \n\nVoit alkaa käyttää ParkMan-mobiilisovellusta heti, kun hakemus on hyväksytty.",
+            "information": "Tunnus myönnetään vain yrityksille, joiden jakelutoiminta on ammattimaista ja päätoimista.\n \nAjoneuvon tulee olla liikennekäytössä, rekisteröity Suomeen ja yrityksen tulee olla ajoneuvorekisterin mukaan ajoneuvon omistaja tai haltija.\n \nAjoneuvo voi olla pakettiauto tai alle 12 metriä pitkä kuorma-auto. \n\nYritykselläsi tulee olla voimassa oleva y-tunnus.\nYritykselläsi tulee olla vähintään 15 000 euron tulo tai laskutus vuodessa.\n\nToimita hakemuksen yhteydessä seuraava tiedot\n- ajoneuvojen rekisteritunnukset, joille tunnuksen käyttöoikeutta haetaan\n- yrityksesi verovelkatodistus\n- jos yritykselläsi on verovelkaa: verohallinnon hyväksymä suunnitelma velan maksamiseksi tai muu hyväksytty suunnitelma \n- viimeisin tilinpäätös tai veroilmoitus\n\nHuom! Yrityksesi on tullut rekisteröityä yritys- ja yhteisötietojärjestelmään, kaupparekisteriin sekä ennakkoperintä- ja arvonlisäverovelvollisten rekisteriin tai vastaaviin rekistereihin, jos lainsäädäntö edellyttää rekisteröitymistä.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3397,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae jakeluliikenteen pysäköintitunnusta",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/www.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4182,
         "fi": {
             "id": 4182,
