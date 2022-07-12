@@ -3011,6 +3011,64 @@
         ]
     },
     {
+        "id": 5091,
+        "fi": {
+            "id": 5091,
+            "exact_descriptions": [
+                8993
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Hae rakennuslupaa tai Z-lausuntoa",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3468,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae lupaa tai lausuntoa",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1141,
         "fi": {
             "id": 1141,
@@ -3419,6 +3477,65 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5093,
+        "fi": {
+            "id": 5093,
+            "exact_descriptions": [
+                8994
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Hae toimenpidelupaa",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3471,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae toimenpidelupaa",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4816,
@@ -15760,7 +15877,6 @@
                 6453,
                 6458,
                 6883,
-                7611,
                 7612
             ],
             "service_id": 10634,
@@ -24316,6 +24432,64 @@
                         {
                             "availability_string": "Avoinna joka päivä ympäri vuorokauden"
                         }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5092,
+        "fi": {
+            "id": 5092,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Tilaa maalämmön rakennettavuusselvitys tai ennakkotiedustelu",
+            "name_synonyms": "maalämpö, maalämpökaivo, johtotiedot",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3470,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tilaa rakennettavuusselvitys tai ennakkotiedustelu",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/lomake.hel.fi\/maalampokaivon-rakennettavuusselvitys"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
