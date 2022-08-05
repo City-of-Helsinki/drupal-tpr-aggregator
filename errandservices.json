@@ -13086,9 +13086,9 @@
             "service_id": 10195,
             "type": "APPLICATION",
             "name": "School classrooms, dining rooms and assembly halls are booked through the Timmi system",
-            "process_description": "1. Register as a Timmi user electronically with your Business ID. \n2. Make a facility booking application at Timmi.\n3. You will receive a confirmation if your application is approved.\n4. You will be sent an invoice for the use of the facility by post.\n",
-            "costs": "Invoicesd are sent monthly after use.",
-            "information": "The premises of Kankarepuiston peruskoulu school and Kankarepuisto playground can be booked through Varaamo: varaamo.hel.fi.",
+            "process_description": "1. Register as a Timmi user electronically with your Business ID. \n2. Send a facility booking request in Timmi.\n3. You will receive a confirmation if your request is confirmed.\n4. We will send you an invoice by post for the use of the facility.\n",
+            "costs": "We send invoices out once a month, and you will receive yours after the use of facilities.",
+            "information": "The premises of Kankarepuisto Comprehensive School and Kankarepuisto playground can be booked online via the Varaamo booking system at varaamo.hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13107,7 +13107,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Timmi system",
+                    "title": "Timmi online booking system",
                     "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
                 }
             ],
@@ -13116,9 +13116,9 @@
                     "id": 3449,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Timmi online service for booking school facilities",
+                    "name": "Timmi online booking system for school facilities",
                     "prerequisites": "The user (company, association) has registered as a Timmi member electronically with a business ID and a private customer with a personal ID.",
-                    "information": "Only school classrooms, dining rooms and assembly halls can be booked through Timmi.",
+                    "information": "Please note, that only school classrooms, dining rooms and assembly halls can be booked through Timmi.",
                     "availability_summary": "Open every day",
                     "provided_languages": [
                         "en",
@@ -13135,7 +13135,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Timmi system",
+                            "title": "Go to Timmi",
                             "url": "https:\/\/tilat.edu.hel.fi\/WebTimmi\/login.do"
                         }
                     ],
