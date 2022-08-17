@@ -1039,8 +1039,8 @@
             "channels": [
                 {
                     "id": 2690,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
                     "name": "Arbiksen palautekanava",
                     "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
                     "provided_languages": [
@@ -1074,7 +1074,6 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Arbiksen puhelinneuvonta",
                     "phone": "09 310 494 94 ",
-                    "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -4916,7 +4915,7 @@
         "fi": {
             "id": 4304,
             "exact_descriptions": [
-                7629,
+                8963,
                 9013
             ],
             "service_id": 10951,
@@ -4925,6 +4924,7 @@
             "name_synonyms": "työviksen neuvonta, työvis",
             "description": "Annamme neuvontaa Helsingin työväenopistossa opiskeluun liittyvissä asioissa.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -4938,16 +4938,44 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Kasvatuksen ja koulutuksen yhteystiedot ja palaute",
-                    "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/"
+                    "title": "Helsingi työväenoiston yhteystiedot ja palaute",
+                    "url": "https:\/\/www.hel.fi\/sto\/fi\/yhteystiedot-ja-palaute\/"
                 }
             ],
             "channels": [
                 {
-                    "id": 2686,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Kasvatuksen ja koulutuksen palautekanava",
+                    "id": 2687,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Helsingin työväenopiston puhelinneuvonta",
+                    "availability_summary": "Palvelu saatavilla 1.8.2022 - 30.6.2023 ma-to 10-16, Palvelu ei saatavilla 30.6. - 31.7.2023 klo 16-16",
+                    "phone": "+350 9 310 88610 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla ma-to 1.8.2022 - 30.6.2023 klo 10-16"
+                        },
+                        {
+                            "availability_string": "Palvelu ei saatavilla 30.6. - 31.7.2023 klo 16-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3499,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Helsingin työväenopiston palautekanava",
                     "availability_summary": "Avoinna joka päivä",
                     "provided_languages": [
                         "en",
@@ -4964,38 +4992,13 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Kasvatuksen ja koulutuksen palautekanava",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/anna+palautetta\/anna-palautetta"
+                            "title": "Anna palautetta",
+                            "url": "https:\/\/www.hel.fi\/sto\/fi\/yhteystiedot-ja-palaute\/anna-palautetta\/anna-palautetta"
                         }
                     ],
                     "availabilities": [
                         {
                             "availability_string": "Avoinna joka päivä "
-                        }
-                    ]
-                },
-                {
-                    "id": 2687,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Helsingin työväenopiston puhelinneuvonta",
-                    "availability_summary": "Palvelu saatavilla alkaen 25.5.2022 ma-to 10-16",
-                    "phone": "+350 9 310 88610 ",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla ma-to alkaen 25.5.2022 klo 10-16"
                         }
                     ]
                 }
