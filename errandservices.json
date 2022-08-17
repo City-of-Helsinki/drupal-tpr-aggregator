@@ -712,18 +712,25 @@
                     "id": 3503,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Stadin ammatti- ja aikuislopiston chat",
+                    "name": "Stadin ammatti- ja aikuisopiston chatbot-palvelu",
+                    "process_description": "Valitse chatbotissa olevista aihealueista sinua kiinnostava aihe. Chatbot ohjaa sinut oikean tiedon ääreen. Voit myös kysyä chatbotilta kysymyksiä tai keskustella chatissa hakemiseen ja opintoihin liittyvistä asioista hakutoimiston asiantuntijan kanssa.",
                     "provided_languages": [
                         "fi"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Hakutoimiston chatbot",
+                            "url": "https:\/\/stadinao.fi\/hae-opiskelijaksi\/hakutoimisto\/",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -747,8 +754,29 @@
                         {
                             "type": "INTERNET",
                             "title": "Hakutoimiston ajanvarauslomake",
-                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/csxo7xhkkv"
+                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/csxo7xhkkv",
+                            "file_format": "HTML"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3505,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Stadin ammatti- ja aikuisopiston sähköpostineuvonta",
+                    "email": "hakutoimisto@edu.hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
