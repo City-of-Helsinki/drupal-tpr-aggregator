@@ -682,6 +682,76 @@
                             "availability_string": "Avoinna ma-pe 10-14"
                         }
                     ]
+                },
+                {
+                    "id": 3502,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Stadin ammatti- ja aikuisopiston hakutoimiston puhelinpalvelu",
+                    "availability_summary": "Avoinna 1.1.2022 - 31.5.2023 ma-pe 10-15",
+                    "phone": "+358931089318",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 1.1.2022 - 31.5.2023 klo 10-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3503,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Stadin ammatti- ja aikuislopiston chat",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3504,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Stadin ammatti- ja aikuisopiston hakutoimiston ajanvarauslomake",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Hakutoimiston ajanvarauslomake",
+                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/csxo7xhkkv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -4915,7 +4985,6 @@
         "fi": {
             "id": 4304,
             "exact_descriptions": [
-                8963,
                 9013
             ],
             "service_id": 10951,
@@ -9265,7 +9334,8 @@
                 3086,
                 3091,
                 3092,
-                3098
+                3098,
+                9015
             ],
             "service_id": 10084,
             "type": "ADVICE",
