@@ -567,7 +567,8 @@
                 3084,
                 3090,
                 6427,
-                7628
+                7628,
+                9018
             ],
             "service_id": 10082,
             "type": "ADVICE",
@@ -689,7 +690,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Stadin ammatti- ja aikuisopiston hakutoimiston puhelinpalvelu",
                     "availability_summary": "Avoinna 1.1.2022 - 31.5.2023 ma-pe 10-15",
-                    "phone": "+358931089318",
+                    "phone": "+358 9 310 89318",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -9363,7 +9364,8 @@
                 3091,
                 3092,
                 3098,
-                9015
+                9015,
+                9019
             ],
             "service_id": 10084,
             "type": "ADVICE",
@@ -9444,6 +9446,26 @@
                         {
                             "availability_string": "Avoinna ma-pe 10-12"
                         }
+                    ]
+                },
+                {
+                    "id": 3506,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Kasvatuksen ja koulutuksen neuvonnan sähköposti",
+                    "email": "koulutusneuvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -25066,7 +25088,6 @@
         "sv": {
             "id": 675,
             "exact_descriptions": [
-                2763,
                 8771
             ],
             "service_id": 10084,
