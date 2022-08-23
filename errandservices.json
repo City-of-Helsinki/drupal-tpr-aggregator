@@ -1172,335 +1172,6 @@
         ]
     },
     {
-        "id": 2371,
-        "fi": {
-            "id": 2371,
-            "exact_descriptions": [
-                4641
-            ],
-            "service_id": 10681,
-            "type": "ENROLLMENT",
-            "name": "Arbis, kurssi-ilmoittautuminen",
-            "description": "Ilmonet, sähköinen kurssihaku ja ilmoittautuminen pääkaupunkiseudun kansalais- ja työväenopistoihin.",
-            "process_description": "Ilmonetin kautta voit hakea kursseja ainealan, opetuspaikan tai vaikka hakusanan avulla. Näet ajantasaiset tiedot kursseista sekä kurssipaikkatilanteen.\n\nKurssille ilmoittautuminen edellyttää ensimmäisellä kerralla tunnistautumista pankkitunnuksilla ja rekisteröitymistä. Sen jälkeen asiakas saa käyttäjätunnuksen ja salasanan, joilla voi kirjautua palveluun ilman pankkitunnuksia.\n\nArbikseen voi ilmoittautua myös puhelimitse tai henkilökohtaisesti. Aukioloajat löytyvät Arbiksen verkkosivuilta. Katso kohta Tärkeitä linkkejä.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Arbiksen neuvonta",
-                    "url": "https:\/\/www.hel.fi\/arbis\/sv\/kontakt-och-info\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1487,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Ilmonet, sähköinen kurssihaku ja ilmoittautuminen",
-                    "availability_summary": "Avoinna 8.8.2022 - 23.4.2023 joka päivä",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/ilmonet.fi\/?lang=sv",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute Arbikselle",
-                            "url": "https:\/\/www.hel.fi\/arbis\/sv\/Respons\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä 8.8.2022 - 23.4.2023"
-                        }
-                    ]
-                },
-                {
-                    "id": 1488,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Arbis, puhelinpalvelu",
-                    "phone": "09 310 494 94",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1489,
-                    "type": "LOCAL",
-                    "type_string": "Henkilökohtainen palvelu",
-                    "name": "Arbis",
-                    "personal_service_street_addr": "Dagmarinkatu 3",
-                    "personal_service_postal_code": "00100 ",
-                    "personal_service_city": "Helsinki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 2371,
-            "exact_descriptions": [
-                4641
-            ],
-            "service_id": 10681,
-            "type": "ENROLLMENT",
-            "name": "Arbis, online enrolment",
-            "description": "Ilmonet, course listings and online enrolment to Adult Education Institutes.",
-            "process_description": "Ilmonet, course listings and online enrolment to Adult Education Institutes.\n\nPlease register as an Ilmonet user by using your personal online banking ID. After that you can create your own username and password for Ilmonet service.\n\nYou can also enrol by phone or personally. Further information from Arbis homepage.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1487,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Ilmonet, course listings and online enrolment",
-                    "availability_summary": "Open 8 Aug 2022 - 23 Apr 2023 every day",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/ilmonet.fi\/#en",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to Arbis",
-                            "url": "https:\/\/www.hel.fi\/arbis\/sv\/Respons\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open every day 8 Aug 2022 - 23 Apr 2023"
-                        }
-                    ]
-                },
-                {
-                    "id": 1488,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Arbis",
-                    "phone": "09 310 494 94",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1489,
-                    "type": "LOCAL",
-                    "type_string": "Local services",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 2371,
-            "exact_descriptions": [
-                4641
-            ],
-            "service_id": 10681,
-            "type": "ENROLLMENT",
-            "name": "Arbis, kursanmälning",
-            "description": "Ilmonet, elektronisk kurssökning och anmälning till huvudstadsregionens medborgar- och arbetarinstitut.",
-            "process_description": "Ilmonet, elektronisk kurssökning och anmälning till huvudstadsregionens medborgar- och arbetarinstitut.\n\nFör att anmäla dig till kurser måste du först registrera dig som användare med dina nätbankskoder. Då får du användarnamn och lösenord så att du sedan kan anmäla dig till kurser.\n\nNärmare uppgifter och kontaktinformation på Arbis webbsidor.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1487,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ilmonet, elektronisk kurssökning och anmälning",
-                    "availability_summary": "Öppet 8.8.2022 - 23.4.2023 varje dag",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/ilmonet.fi\/#sv\/search\/com=4",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till Arbis",
-                            "url": "https:\/\/www.hel.fi\/arbis\/sv\/Respons\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag 8.8.2022 - 23.4.2023"
-                        }
-                    ]
-                },
-                {
-                    "id": 1488,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Arbis, telefontjänst",
-                    "phone": "09 310 494 94",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1489,
-                    "type": "LOCAL",
-                    "type_string": "Lokal service",
-                    "name": "Arbis",
-                    "personal_service_street_addr": "Dagmarsgatan 3",
-                    "personal_service_postal_code": "00100",
-                    "personal_service_city": "Helsingfors",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 1564,
         "fi": {
             "id": 1564,
@@ -7695,7 +7366,7 @@
             "service_id": 10876,
             "type": "ENROLLMENT",
             "name": "Ilmonet ilmoittautuminen työväenopistoon, asiointipalvelu",
-            "description": "Ilmonet on pääkaupunkiseudun kansalais- ja työväenopistojen yhteinen palvelu, jonka kautta voi selata tarjolla olevia kursseja, luentoja ja tapahtumia sekä ilmoittautua niihin osallistujaksi vapaan olevien paikkojen puitteissa.",
+            "description": "Ilmonet on pääkaupunkiseudun kansalais- ja työväenopistojen yhteinen palvelu, jonka kautta voi selata tarjolla olevia kursseja, luentoja ja tapahtumia sekä ilmoittautua niihin osallistujaksi vapaana olevien paikkojen puitteissa.",
             "costs": "Tarjolla olevien kurssien, luentojen ja tapahtumien maksullisuus tai maksuttomuus selviää niiden tiedoista.",
             "information": "Tunnistautumista varten tarvitset pankkitunnukset. Jos sinulla ei ole pankkitunnuksia, ota yhteyttä oman opistosi asiakaspalveluun.\n\nKirjautuneena voit\n- ilmoittautua kursseille\n- luoda oman suosikkilistan\n- päivittää omat henkilötietosi\n- perua kurssi-ilmoittautumisen",
             "provided_languages": [
@@ -7726,6 +7397,7 @@
                     "name": "Ilmonet rekisteröityminen ja ilmoittautuminen",
                     "prerequisites": "Tunnistautumista varten tarvitset pankkitunnukset. Jos sinulla ei ole pankkitunnuksia, ota yhteyttä oman opistosi asiakaspalveluun.",
                     "information": "Kirjautuneena voit\n- ilmoittautua kursseille\n- luoda oman suosikkilistan\n- päivittää omat henkilötietosi\n- perua kurssi-ilmoittautumisen",
+                    "availability_summary": "Avoinna 8.8.2022 - 23.4.2023 joka päivä",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -7747,6 +7419,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä 8.8.2022 - 23.4.2023"
+                        }
                     ]
                 }
             ]
@@ -9489,7 +9164,7 @@
                     "name": "Kasvatuksen ja koulutuksen puhelinneuvonta",
                     "availability_summary": "Avoinna ma-pe 10-12, ma-pe 13-15",
                     "phone": "+350 9 310 44986",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -9530,6 +9205,40 @@
                     "availabilities": [
                     ]
                 }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5113,
+        "fi": {
+            "id": 5113,
+            "exact_descriptions": [
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Kasvatuksen ja koulutuksen neuvonta, asiointipalvelut",
+            "name_synonyms": "päiväkodit, varhaiskasvatus, esiopetus, peruskoulut, lukiot, ammatilliset oppilaistokset, ammattikoulu, työväenopistot",
+            "description": "Neuvomme sinua puhelimitse, sähköpostitse ja palautekanavan kautta kasvatuksen ja koulutuksen toimialan palveluihin liittyvissä asioissa. Voit myös tulla neuvontapisteellemme Töysänkatu 2D tiistaisin ja keskiviikkoisin.",
+            "information": "Mikäli haluat henkilökohtaista neuvontaa muina arkipäivinä Töysänkadulla, soita ja varaa aika.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
             ]
         },
         "en": [
