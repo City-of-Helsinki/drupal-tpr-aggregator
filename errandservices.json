@@ -1088,6 +1088,7 @@
             "name_synonyms": "Arbis, arbetarinstitutet, neuvonta",
             "description": "Annamme neuvontaa Arbiksessa opiskeluun liittyvissä asioissa.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -1175,20 +1176,19 @@
         "fi": {
             "id": 2371,
             "exact_descriptions": [
-                4641,
-                9012
+                4641
             ],
             "service_id": 10681,
             "type": "ENROLLMENT",
             "name": "Arbis, kurssi-ilmoittautuminen",
             "description": "Ilmonet, sähköinen kurssihaku ja ilmoittautuminen pääkaupunkiseudun kansalais- ja työväenopistoihin.",
-            "process_description": "Ilmonetin kautta voit hakea kursseja ainealan, opetuspaikan tai vaikka hakusanan avulla. Näet ajantasaiset tiedot kursseista sekä kurssipaikkatilanteen.\n\nKurssille ilmoittautuminen edellyttää ensimmäisellä kerralla tunnistautumista pankkitunnuksilla ja rekisteröitymistä. Sen jälkeen asiakas saa käyttäjätunnuksen ja salasanan, joilla voi kirjautua palveluun ilman pankkitunnuksia.\n\nArbikseen voi ilmoittautua myös puhelimitse tai henkilökohtaisesti. Aukioloajat löytyvät Arbiksen verkkosivuilta.",
+            "process_description": "Ilmonetin kautta voit hakea kursseja ainealan, opetuspaikan tai vaikka hakusanan avulla. Näet ajantasaiset tiedot kursseista sekä kurssipaikkatilanteen.\n\nKurssille ilmoittautuminen edellyttää ensimmäisellä kerralla tunnistautumista pankkitunnuksilla ja rekisteröitymistä. Sen jälkeen asiakas saa käyttäjätunnuksen ja salasanan, joilla voi kirjautua palveluun ilman pankkitunnuksia.\n\nArbikseen voi ilmoittautua myös puhelimitse tai henkilökohtaisesti. Aukioloajat löytyvät Arbiksen verkkosivuilta. Katso kohta Tärkeitä linkkejä.",
             "provided_languages": [
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
-                "2d99ab54-f1a8-47bf-8043-f21d8dc82a11"
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -1196,6 +1196,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Arbiksen neuvonta",
+                    "url": "https:\/\/www.hel.fi\/arbis\/sv\/kontakt-och-info\/",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -1203,6 +1209,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Ilmonet, sähköinen kurssihaku ja ilmoittautuminen",
+                    "availability_summary": "Avoinna 8.8.2022 - 23.4.2023 joka päivä",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -1219,7 +1226,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/ilmonet.fi\/#fi",
+                            "url": "https:\/\/ilmonet.fi\/?lang=sv",
                             "file_format": "HTML"
                         },
                         {
@@ -1230,6 +1237,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä 8.8.2022 - 23.4.2023"
+                        }
                     ]
                 },
                 {
@@ -1292,7 +1302,7 @@
                 "sv"
             ],
             "responsible_depts": [
-                "2d99ab54-f1a8-47bf-8043-f21d8dc82a11"
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -1307,6 +1317,7 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Ilmonet, course listings and online enrolment",
+                    "availability_summary": "Open 8 Aug 2022 - 23 Apr 2023 every day",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -1334,6 +1345,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Open every day 8 Aug 2022 - 23 Apr 2023"
+                        }
                     ]
                 },
                 {
@@ -1392,7 +1406,7 @@
                 "sv"
             ],
             "responsible_depts": [
-                "2d99ab54-f1a8-47bf-8043-f21d8dc82a11"
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -1407,6 +1421,7 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Ilmonet, elektronisk kurssökning och anmälning",
+                    "availability_summary": "Öppet 8.8.2022 - 23.4.2023 varje dag",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -1434,6 +1449,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag 8.8.2022 - 23.4.2023"
+                        }
                     ]
                 },
                 {
@@ -7656,6 +7674,76 @@
                             "title": "Ilmoituslomake",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.pdf",
                             "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5112,
+        "fi": {
+            "id": 5112,
+            "exact_descriptions": [
+            ],
+            "service_id": 10876,
+            "type": "ENROLLMENT",
+            "name": "Ilmonet ilmoittautuminen työväenopistoon, asiointipalvelu",
+            "description": "Ilmonet on pääkaupunkiseudun kansalais- ja työväenopistojen yhteinen palvelu, jonka kautta voi selata tarjolla olevia kursseja, luentoja ja tapahtumia sekä ilmoittautua niihin osallistujaksi vapaan olevien paikkojen puitteissa.",
+            "costs": "Tarjolla olevien kurssien, luentojen ja tapahtumien maksullisuus tai maksuttomuus selviää niiden tiedoista.",
+            "information": "Tunnistautumista varten tarvitset pankkitunnukset. Jos sinulla ei ole pankkitunnuksia, ota yhteyttä oman opistosi asiakaspalveluun.\n\nKirjautuneena voit\n- ilmoittautua kursseille\n- luoda oman suosikkilistan\n- päivittää omat henkilötietosi\n- perua kurssi-ilmoittautumisen",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ilmonet-palvelu",
+                    "url": "https:\/\/ilmonet.fi",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3509,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmonet rekisteröityminen ja ilmoittautuminen",
+                    "prerequisites": "Tunnistautumista varten tarvitset pankkitunnukset. Jos sinulla ei ole pankkitunnuksia, ota yhteyttä oman opistosi asiakaspalveluun.",
+                    "information": "Kirjautuneena voit\n- ilmoittautua kursseille\n- luoda oman suosikkilistan\n- päivittää omat henkilötietosi\n- perua kurssi-ilmoittautumisen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmonet ilmoittautuminen",
+                            "url": "https:\/\/ilmonet.fi\/login?lang=fi",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
