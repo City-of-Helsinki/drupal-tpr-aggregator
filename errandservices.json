@@ -7313,6 +7313,7 @@
         "fi": {
             "id": 5112,
             "exact_descriptions": [
+                9012,
                 9013
             ],
             "service_id": 10876,
@@ -9046,11 +9047,24 @@
         "fi": {
             "id": 5113,
             "exact_descriptions": [
+                2773,
                 2784,
                 3086,
                 3091,
                 3092,
                 3098,
+                3185,
+                3382,
+                3384,
+                3405,
+                3406,
+                3407,
+                3408,
+                3409,
+                3410,
+                3411,
+                6432,
+                6437,
                 9019
             ],
             "service_id": 10876,
@@ -15071,8 +15085,6 @@
         "fi": {
             "id": 4302,
             "exact_descriptions": [
-                3382,
-                3900
             ],
             "service_id": 10085,
             "type": "ADVICE",
@@ -15098,36 +15110,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2680,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Kasvatuksen ja koulutuksen palautekanava",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Kasvatuksen ja koulutuksen palautekanava",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/anna+palautetta\/anna-palautetta"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
                 {
                     "id": 2681,
                     "type": "TELEPHONE",
@@ -18885,14 +18867,6 @@
         "fi": {
             "id": 4300,
             "exact_descriptions": [
-                2773,
-                3384,
-                3405,
-                3406,
-                3410,
-                3411,
-                3897,
-                6437
             ],
             "service_id": 10086,
             "type": "ADVICE",
@@ -18918,63 +18892,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2677,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Kasvatuksen ja koulutuksen palautekanava",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Palautekanava",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/anna+palautetta\/anna-palautetta"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
-                    "id": 2678,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ma-pe 10-12, ma-pe 13-15",
-                    "phone": "+358 9 310 44986",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 10-12"
-                        },
-                        {
-                            "availability_string": "Avoinna ma-pe 13-15"
-                        }
-                    ]
-                }
             ]
         },
         "en": [
@@ -24703,7 +24620,6 @@
         "en": {
             "id": 675,
             "exact_descriptions": [
-                2763,
                 8771
             ],
             "service_id": 10084,
@@ -24774,7 +24690,6 @@
         "sv": {
             "id": 675,
             "exact_descriptions": [
-                2763,
                 8771
             ],
             "service_id": 10084,
