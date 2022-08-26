@@ -4957,7 +4957,7 @@
             "type": "ADVICE",
             "name": "Helsinki-info",
             "name_synonyms": "Maahanmuuttoneuvonta, kaupungin palveluiden neuvonta, Oodi, International House Helsinki IHH",
-            "description": "Tietoa ja neuvontaa Helsingin kaupungin palveluista ja maahanmuuttoon liittyvistä asioista puhelimitse, chatissä ja sähköpostitse.",
+            "description": "Tietoa ja neuvontaa Helsingin kaupungin palveluista ja maahanmuuttoon liittyvistä asioista puhelimitse, chatissä ja palautelomakkeella.",
             "provided_languages": [
                 "ar",
                 "bg",
@@ -5093,10 +5093,270 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4203,
+            "exact_descriptions": [
+                3843,
+                7569
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Helsinki info",
+            "provided_languages": [
+                "ar",
+                "bg",
+                "en",
+                "et",
+                "fa",
+                "fad",
+                "fi",
+                "fr",
+                "prs",
+                "ru",
+                "so",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2595,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Helsinki-info telephone service",
+                    "availability_summary": "Open Mon-Thu 09-16, Fri 10-15",
+                    "phone": "+358931011111",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 09-16"
+                        },
+                        {
+                            "availability_string": "Open Fri 10-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 2597,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Helsinki-info chat service",
+                    "availability_summary": "Open Mon-Thu 09-16, Fri 10-15",
+                    "provided_languages": [
+                        "ar",
+                        "en",
+                        "et",
+                        "fa",
+                        "fad",
+                        "fi",
+                        "fr",
+                        "prs",
+                        "ru",
+                        "so",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Chat service",
+                            "url": "https:\/\/neuvonta.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 09-16"
+                        },
+                        {
+                            "availability_string": "Open Fri 10-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 2699,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Helsinki-info feedback form",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Feedback form",
+                            "url": "https:\/\/www.hel.fi\/feedback"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4203,
+            "exact_descriptions": [
+                3843,
+                7569
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Helsingfors-info",
+            "provided_languages": [
+                "ar",
+                "bg",
+                "en",
+                "et",
+                "fa",
+                "fad",
+                "fi",
+                "fr",
+                "prs",
+                "ru",
+                "so",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2595,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Helsingfors-info telefontjänst",
+                    "availability_summary": "Öppet mån-tor 09-16, fre 10-15",
+                    "phone": "+358931011111",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 09-16"
+                        },
+                        {
+                            "availability_string": "Öppet fre 10-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 2597,
+                    "type": "CHAT",
+                    "type_string": "Chatt",
+                    "name": "Helsingfors-info chat",
+                    "availability_summary": "Öppet mån-tor 09-16, fre 10-15",
+                    "provided_languages": [
+                        "ar",
+                        "en",
+                        "et",
+                        "fa",
+                        "fad",
+                        "fi",
+                        "fr",
+                        "prs",
+                        "ru",
+                        "so",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Chat service",
+                            "url": "https:\/\/neuvonta.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 09-16"
+                        },
+                        {
+                            "availability_string": "Öppet fre 10-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 2699,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Helsingfors-info responsblanketten",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Responsblanketten",
+                            "url": "https:\/\/www.hel.fi\/respons"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4211,
