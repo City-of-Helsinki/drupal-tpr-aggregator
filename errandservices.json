@@ -20466,8 +20466,7 @@
                     "id": 802,
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
-                    "prerequisites": "Tarkista poikkeavat aukioloajat verkkosivuilta hel.fi\/kaupunkiymparisto",
-                    "availability_summary": "Avoinna alkaen 3.10.2017 ma-to 09-13",
+                    "availability_summary": "Avoinna ma-ti 08:15-12, ke-pe 12-15",
                     "personal_service_street_addr": "Työpajankatu 8",
                     "personal_service_postal_code": "00530",
                     "personal_service_city": "Helsinki",
@@ -20484,7 +20483,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-to alkaen 3.10.2017 klo 09-13"
+                            "availability_string": "Avoinna ma-ti 08:15-12"
+                        },
+                        {
+                            "availability_string": "Avoinna ke-pe 12-15"
                         }
                     ]
                 },
@@ -20521,7 +20523,7 @@
                     "id": 2574,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna alkaen 3.10.2017 ma-to 09-10",
+                    "availability_summary": "Avoinna ma-to 09-13",
                     "phone": "p. 09 310 26301",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -20537,7 +20539,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-to alkaen 3.10.2017 klo 09-10"
+                            "availability_string": "Avoinna ma-to 09-13"
                         }
                     ]
                 }
@@ -20611,7 +20613,7 @@
                     "type": "LOCAL",
                     "type_string": "Local services",
                     "prerequisites": "Look for changed opening hours from the internet page hel.fi\/kaupunkiymparisto\/en.",
-                    "availability_summary": "Open from 3 Oct 2017 Mon-Thu 09-13",
+                    "availability_summary": "Open Mon-Tue 08:15-12, Wed-Fri 12-15",
                     "personal_service_street_addr": "Työpajankatu 8",
                     "personal_service_postal_code": "00530",
                     "personal_service_city": "Helsinki",
@@ -20628,7 +20630,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Thu from 3 Oct 2017 at 09-13"
+                            "availability_string": "Open Mon-Tue 08:15-12"
+                        },
+                        {
+                            "availability_string": "Open Wed-Fri 12-15"
                         }
                     ]
                 },
@@ -20636,7 +20641,7 @@
                     "id": 2574,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
-                    "availability_summary": "Open from 3 Oct 2017 Mon-Thu 09-10",
+                    "availability_summary": "Open Mon-Thu 09-13",
                     "phone": "p. 09 310 26301",
                     "call_charge_info": "toll free",
                     "provided_languages": [
@@ -20652,7 +20657,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Thu from 3 Oct 2017 at 09-10"
+                            "availability_string": "Open Mon-Thu 09-13"
                         }
                     ]
                 }
@@ -20737,7 +20742,7 @@
                     "type": "LOCAL",
                     "type_string": "Lokal service",
                     "prerequisites": "Kolla avvikande öppettider via webbsidan hel.fi\/kaupunkiymparisto\/sv.",
-                    "availability_summary": "Öppet från 3.10.2017 mån-tor 09-13",
+                    "availability_summary": "Öppet mån-tis 08:15-12, ons-fre 12-15",
                     "personal_service_street_addr": "Verkstadsgatan 8",
                     "personal_service_postal_code": "00530",
                     "personal_service_city": "Helsingfors",
@@ -20754,7 +20759,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-tor från 3.10.2017 kl. 09-13"
+                            "availability_string": "Öppet mån-tis 08:15-12"
+                        },
+                        {
+                            "availability_string": "Öppet ons-fre 12-15"
                         }
                     ]
                 },
@@ -20762,7 +20770,7 @@
                     "id": 2574,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "availability_summary": "Öppet från 3.10.2017 mån-tor 09-10",
+                    "availability_summary": "Öppet mån-tor 09-13",
                     "phone": "p. 09 310 26301",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -20778,7 +20786,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-tor från 3.10.2017 kl. 09-10"
+                            "availability_string": "Öppet mån-tor 09-13"
                         }
                     ]
                 }
