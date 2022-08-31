@@ -10502,15 +10502,16 @@
             "type": "APPLICATION",
             "name": "Kasvatus ja koulutus, toiminta-avustushakemus koululaisten iltapäivätoiminnan järjestäjille",
             "description": "Järjestöt, seurakunnat, säätiöt, yhteisöt ja yksityiset palveluntuottajat voivat hakea iltapäivätoiminnan toiminta-avustusta. \n\nAvustus kohdentuu Helsingissä koulua käyvien 1-2 lk:n ja kaikkien vuosiluokkien erityisopetuksessa olevien oppilaiden perusopetuslain mukaisen iltapäivätoiminnan järjestämiseen.\n",
-            "process_description": "Edellytyksenä on aikaisempi yhteydenotto kasvatuksen ja koulutuksen toimialan leikkipuisto- ja koululaisten iltapäivätoiminnan palvelukokonaisuuteen ja sopiminen toiminnan mahdollisesta käynnistämisestä. Hakemus tulee toimittaa hakuajan puitteissa. Hakemusta voi täydentää ja hakemuksen liitteitä voi toimittaa hakuajan jälkeen sähköisen asiointipalvelun kautta tai postitse.\n\n1. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen avustussummasta. \n\n2. Päätöksen toiminta-avustuksen myöntämisen periaatteista tekee kasvatus- ja koulutuslautakunta.\n\n3. Järjestökohtaiset maksatuspäätökset tekee hallintojohtaja. \n\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.\n\n5. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä.",
+            "process_description": "Edellytyksenä on aikaisempi yhteydenotto kasvatuksen ja koulutuksen toimialan leikkipuisto- ja koululaisten iltapäivätoiminnan palvelukokonaisuuteen ja sopiminen toiminnan mahdollisesta käynnistämisestä. Hakemus tulee toimittaa hakuajan puitteissa, vuosittain tammikuussa. Hakemusta voi täydentää ja hakemuksen liitteitä voi toimittaa hakuajan jälkeen sähköisen asiointipalvelun kautta tai postitse.\n\n1. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen avustussummasta. \n\n2. Päätöksen toiminta-avustuksen myöntämisen periaatteista tekee kasvatus- ja koulutuslautakunta.\n\n3. Järjestökohtaiset maksatuspäätökset tekee hallintojohtaja. \n\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.\n\n5. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä.",
             "processing_time": "Noin kolme kuukautta.",
             "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se perutaan. ",
-            "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.",
+            "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\nLisätietoja antavat:\n\nToimintaan liittyen\nPalveluvastaava\nLeena Palve-Kaunisto\npuh. 09 310 86809\nleena.palve@hel.fi\n\nTalouteen ja avustusten hakuun liittyen\nLaskentasuunnittelija\nHanna Keränen\npuh. 09 310 86338\nhanna.keranen@hel.fi",
             "provided_languages": [
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
                 "ASSOCIATIONS"
@@ -10570,6 +10571,31 @@
                             "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
                         }
                     ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Toiminta-avustushakemus koululaisten iltapäivätoiminnan järjestäjille",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Toiminta-avustushakemuslomake",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/toiminta_avustushakemus_ip.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -10590,6 +10616,7 @@
                 "sv"
             ],
             "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
                 "ASSOCIATIONS"
@@ -10665,6 +10692,7 @@
                 "sv"
             ],
             "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
             ],
             "target_groups": [
                 "ASSOCIATIONS"
@@ -10718,6 +10746,31 @@
                         {
                             "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
                         }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Verksamhetsunderstöd för eftermiddagsverksamhet för skolelever, ansökan",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökanblankett på finska",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/toiminta_avustushakemus_ip.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
