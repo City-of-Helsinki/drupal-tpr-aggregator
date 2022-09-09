@@ -709,8 +709,130 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5114,
+            "exact_descriptions": [
+                3084,
+                3090,
+                6427,
+                9018
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Vocational education and training advisory services, service channels",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3514,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Helsinki Vocational College and Adult Institute Admissions Office, contact request form",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                },
+                {
+                    "id": 3515,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Helsinki Vocational College and Adult Institute, chatbot service",
+                    "information": "Choose a topic that interests you in the chatbot. The chatbot will show you where to find more information about the topic. You can ask the chatbot a question or chat about applying and studying with one of our specialists at the admission office.",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                },
+                {
+                    "id": 3516,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Helsinki Vocational College and Adult Institute Admissions Office, advisory services by phone",
+                    "availability_summary": "Open Mon-Fri 10-14",
+                    "phone": "+358 9 310 89318",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 10-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3517,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Helsinki Vocational College and Adult Institute Admissions Office, advisory services by email",
+                    "email": "hakutoimisto@edu.hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5114,
             "exact_descriptions": [
@@ -2474,7 +2596,7 @@
             ],
             "service_id": 10876,
             "type": "ADVICE",
-            "name": "English-language and bilingual education services advisory services",
+            "name": "English-language and bilingual education advisory services, service channels",
             "name_synonyms": "English-language basic education advisory services, bilingual education advisory services, advisory service for daycare in different languages",
             "provided_languages": [
                 "en",
@@ -5046,8 +5168,98 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5116,
+            "exact_descriptions": [
+                9012
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Swedish Adult Education Centre Arbis advisory services, service channels",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3524,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Swedish Adult Education Centre Arbis feedback form",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                },
+                {
+                    "id": 3525,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Swedish Adult Education Centre Arbis advisory services by phone",
+                    "phone": "+358 9 310 494 94",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3526,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Swedish Adult Education Centre Arbis advisory services by email",
+                    "email": "arbis@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5116,
             "exact_descriptions": [
@@ -5383,8 +5595,105 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5115,
+            "exact_descriptions": [
+                9013
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "The Finnish Adult Education Centre advisory services, service channels",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3518,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Helsinki Finnish Adult Education Centre feedback form",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                },
+                {
+                    "id": 3519,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Helsinki Finnish Adult Education Centre advisory services by phone",
+                    "availability_summary": "Service available 1 Aug 2022 - 30 Jun 2023 Mon-Thu 10-16, Service not available 1-31 Jul 2023 at 10-16",
+                    "phone": "+350 9 310 88610 ",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available Mon-Thu 1 Aug 2022 - 30 Jun 2023 at 10-16"
+                        },
+                        {
+                            "availability_string": "Service not available 1-31 Jul 2023 at 10-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3523,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Helsinki Finnish Adult Education Centre advisory services by email",
+                    "email": "tyovaenopisto@edu.hel.fi  ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5115,
             "exact_descriptions": [
@@ -8407,10 +8716,132 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5112,
+            "exact_descriptions": [
+                9013
+            ],
+            "service_id": 10876,
+            "type": "ENROLLMENT",
+            "name": "Ilmonet registration and enrollment, service channel",
+            "process_description": "Registration is continuous during our teaching terms. This means that you can enrol anytime during the academic year - if there are places left in the course.\nIf the course you wish to enrol on is fully booked, we will put you on a waiting list and let you know if new vacancies become available.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3509,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Ilmonet registration and enrolment",
+                    "prerequisites": "When you have logged in with your netbank ID you can create your own username and password for Ilmonet and use those for log-in in the future. Alternatively, you can also use your netbank ID every time.",
+                    "information": "When you have logged in you can\n- enrol on a course\n- create your own list of favourites\n- check your personal information\n- cancel your course enrollment",
+                    "availability_summary": "Open 8 Aug 2022 - 23 Apr 2023 every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmonet enrolment",
+                            "url": "https:\/\/ilmonet.fi\/login?lang=en",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day 8 Aug 2022 - 23 Apr 2023"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5112,
+            "exact_descriptions": [
+                9013
+            ],
+            "service_id": 10876,
+            "type": "ENROLLMENT",
+            "name": "Ilmonet registrering och inskrivning, ärendehanteringstjänst",
+            "description": "Ilmonet är en gemensam nätportal för huvudstadsregionens medborgar- och arbetarinstitut",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ilmonet",
+                    "url": "https:\/\/ilmonet.fi\/login?lang=sv",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3509,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ilmonet registrering och inskrivning",
+                    "prerequisites": "Om du loggar in med dina bankkoder kan du göra ett användarnamn och lösenord åt dig och använda dem i framtiden när du loggar in. Du kan också använda bankkoder varje gång du loggar in om du föredrar det.\n",
+                    "information": "När du har loggat in kan du\n- anmäla dig\n- skapa en egen favoritlista\n- kolla dina egna personuppgifter\n- annullera kurser",
+                    "availability_summary": "Öppet 8.8.2022 - 23.4.2023 varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmonet inskrivning",
+                            "url": "https:\/\/ilmonet.fi\/login?lang=sv",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag 8.8.2022 - 23.4.2023"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4282,
@@ -10197,8 +10628,127 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5113,
+            "exact_descriptions": [
+                2773,
+                2784,
+                3086,
+                3098,
+                3185,
+                3382,
+                3384,
+                3405,
+                3406,
+                3407,
+                3408,
+                3409,
+                3410,
+                3411,
+                6432,
+                6437,
+                9019
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Education Division's advisory services, service channels",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3510,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Education Division telephone service",
+                    "availability_summary": "Open Mon-Fri 10-12, Mon-Fri 13-15",
+                    "phone": "+358 9 310 44986",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 10-12"
+                        },
+                        {
+                            "availability_string": "Open Mon-Fri 13-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3511,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Education Division feedback form",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Give feedback",
+                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/en\/feedback\/feedback"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                },
+                {
+                    "id": 3512,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Education Division advisory services' email",
+                    "information": "Do not send personal information, such as personal identity codes by email.",
+                    "email": "koulutusneuvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5113,
             "exact_descriptions": [
@@ -12815,6 +13365,95 @@
                             "title": "Avaa Helsingin kaupungin internetsivu",
                             "url": "https:\/\/www.hel.fi\/helsinki\/fi",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5118,
+        "fi": {
+            "id": 5118,
+            "exact_descriptions": [
+                9021
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Kaupunkiympäristön toimialan asiakaspalvelu",
+            "name_synonyms": "neuvonta, yleisneuvonta, Kaupunkiympäristön toimiala",
+            "description": "Palvelemme sinua pysäköintiin sekä katuihin ja puistoihin liittyvissä asioissa. Palvelemme sähköpostitse, puhelimitse ja toimipisteellämme Kalasatamassa.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3529,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kaupunkiympäristön asiakaspalvelun puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
+                    "phone": "+3589 310 22 111 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 08:15-16"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3530,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Kaupunkiympäristön asiakaspalvelun palautelomake",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Palautelomake",
+                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/anna+palautetta\/anna-palautetta"
                         }
                     ],
                     "availabilities": [
