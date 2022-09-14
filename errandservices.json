@@ -9805,6 +9805,39 @@
         }
     },
     {
+        "id": 5132,
+        "fi": {
+            "id": 5132,
+            "exact_descriptions": [
+            ],
+            "service_id": 10900,
+            "type": "APPLICATION",
+            "name": "Jatka yrityspysäköintitunnuksen voimassaoloa",
+            "description": "Kun haet tunnusta, toimita meille\n\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus\n- tieto, mille ajalle tunnus halutaan ostaa.\n\nJos auto on yrityksen työntekijän omistuksessa tai hallinnassa, toimita lisäksi todistus työsuhteesta ja viimeisin palkkalaskelma tai vuosittain tulorekisteriote, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti.\n\nTunnus tulee voimaan, kun se on maksettu.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 2812,
         "fi": {
             "id": 2812,
@@ -20670,7 +20703,7 @@
             "type": "NOTICE",
             "name": "Päivitä uusi osoite asukaspysäköintitunnukseen",
             "name_synonyms": "Asukaspysäköintitunnuksen osoitteenmuutos",
-            "description": "Voit muuttaa tunnukseen merkittyä osoitettasi sähköisesti verkossa tai ilmoittamalla osoitteenmuutoksesta kaupunkiympäristön asiakaspalveluun. \n\nVoimme muuttaa tunnukseen merkityn osoitteen, kun uusi osoitteesi on päivittynyt väestötietojärjestelmään.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa osoitteen vain asioimalla asiakaspalvelussa. Kimppatunnuksen osoitteenmuutoksen voit tehdä puhelimitse tai asioimalla asiakaspalvelussa.",
+            "description": "Voit muuttaa tunnukseen merkittyä osoitettasi sähköisesti verkossa tai ilmoittamalla osoitteenmuutoksesta kaupunkiympäristön asiakaspalveluun. \n\nVoimme muuttaa tunnukseen merkityn osoitteen, kun uusi osoitteesi on päivittynyt väestötietojärjestelmään.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa osoitteen vain asioimalla asiakaspalvelussa. Kimppatunnuksen osoitteenmuutoksen voit tehdä puhelimitse tai asioimalla asiakaspalvelussa.\n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella osoitteella.\n",
             "processing_time": "Sähköisesti ilmoitetun osoitteenmuutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
             "information": "Jos tunnuksen hinta kallistuu osoitteenmuutoksen vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
@@ -20858,7 +20891,7 @@
             "type": "NOTICE",
             "name": "Päivitä uusi rekisterinumero asukaspysäköintitunnukseen",
             "name_synonyms": "rekisteritunnuksen muutos",
-            "description": "Voit muuttaa tunnukseen merkityn ajoneuvon rekisterinumeroa sähköisesti verkossa tai ilmoittamalla uuden rekisterinumeron kaupunkiympäristön asiakaspalveluun.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa rekisterinumeron vain asioimalla asiakaspalvelussa. \n\n",
+            "description": "Voit muuttaa tunnukseen merkityn ajoneuvon rekisterinumeroa sähköisesti verkossa tai ilmoittamalla uuden rekisterinumeron kaupunkiympäristön asiakaspalveluun.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa rekisterinumeron vain asioimalla asiakaspalvelussa. \n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella ajoneuvolla.\n\n",
             "processing_time": "Sähköisesti ilmoitetun rekisterinumeron muutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
             "information": "Jos tunnuksen hinta kallistuu osoitteenmuutoksen vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
