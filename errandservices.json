@@ -3084,6 +3084,65 @@
         ]
     },
     {
+        "id": 5134,
+        "fi": {
+            "id": 5134,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Hae maalämpöehdon lisäämistä maanvuokrasopimukseen",
+            "description": "Jos rakennat Helsingin kaupungin omistamalle vuokratontille, eikä vuokrasopimuksessasi ole annettu lupaa maalämpökaivon rakentamiseen, sinun täytyy hakea kaupungilta maalämpöehdon lisäämistä tontin maanvuokrasopimukseen. Uusissa vuokrasopimuksissa voidaan sopia maalämpökaivosta jo maanvuokrasopimusta tehdessä.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3549,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae lisäystä maanvuokrasopimukseen",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Maalampo\/Lomake_01.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5097,
         "fi": {
             "id": 5097,
@@ -3208,6 +3267,66 @@
         ]
     },
     {
+        "id": 5136,
+        "fi": {
+            "id": 5136,
+            "exact_descriptions": [
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Hae poikkeamispäätöstä",
+            "name_synonyms": "poikkeamislupa",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3551,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae poikkeamispäätöstä",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4019,
         "fi": {
             "id": 4019,
@@ -3279,12 +3398,14 @@
             "type": "PERMISSION",
             "name": "Hae rakennuslupaa tai lausuntoa",
             "provided_languages": [
-                "fi"
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES",
                 "INDIVIDUALS"
             ],
             "life_events": [
@@ -3308,7 +3429,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
@@ -3318,13 +3439,64 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3552,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ansök om bygglov eller utlåtande",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5091,
+            "exact_descriptions": [
+                8993
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Ansök om bygglov eller utlåtande",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 1141,
@@ -25285,6 +25457,68 @@
         }
     },
     {
+        "id": 5135,
+        "fi": {
+            "id": 5135,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Tee sijoitus- ja vuokrasopimus maalämmön sijoittamisesta yleiselle alueelle",
+            "description": "Tarvitset sijoitus- tai vuokrasopimuksen kaupungin kanssa, jos maalämpökaivoja kallistetaan tai rakennetaan yleiselle alueelle. Rakennettavuusselvityksessä saat tietoa sijoitus- ja vuokrasopimuksen tekemisestä kaupungin kanssa.\n\nTee sijoitus- tai vuokrasopimus ennen rakennus- tai toimenpideluvan hakemista. Liitä hyväksytty sopimus lupahakemukseen.\n\nLisätietoa maalämmön sijoittamisesta yleiselle alueelle kymp.maalampo@hel.fi.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3550,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae yleisen alueen sijoitus- ja vuokrasopimusta kaupungilta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/lupapiste.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4862,
         "fi": {
             "id": 4862,
@@ -26150,8 +26384,10 @@
             ],
             "service_id": 10634,
             "type": "PERMISSION",
-            "name": "Tilaa maalämmön rakennettavuusselvitys tai ennakkotiedustelu",
+            "name": "Tilaa maalämpökaivon rakennettavuusselvitys",
             "name_synonyms": "maalämpö, maalämpökaivo, johtotiedot",
+            "description": "Maalämpökaivon rakennettavuusselvityksessä saat tiedon siitä, onko kohdealueen alla maanalaisia tiloja, rakenteita, tilavarauksia tai johtoja, jotka voivat vaikuttaa maalämpösuunnitelmiin. Tai sijaitseeko kiinteistö pohjavesi-, luonnonsuojelu- tai muinaismuistoalueella, joka voi estää maalämmön rakentamisen.\n\nTarvitset maalämmön rakennettavuusselvityksen hankkeen rakennus- tai toimenpidelupahakemusta varten.",
+            "information": "Kun tilaat pientalotontille rakennettavuusselvitystä, liitä tilaukseen karttapiirros, johon on merkitty maalämpökaivojen suunnitellut paikat. Kartasta tulee näkyä kiinteistö ja sen rajat. \n\nKerrostalotonteille tilaa ensin ennakkotiedustelu, jossa selvitetään, onko maalämmön rakentaminen mahdollista kiinteistölle. Kun tarkempi suunnitelma on valmis, tilaa rakennettavuusselvitys. Liitä tilaukseen asemapiirros, johon on merkitty maalämpökaivojen suunnitellut paikat ja tiedot kaivojen syvyyksistä sekä suunta- ja kallistumiskulmista.\n\nTilausta varten tarvitset seuraavat tiedot:\n\n- hakijan sähköpostiosoite ja puhelinnumero\n\n- katuosoite ja kiinteistötunnus.",
             "provided_languages": [
                 "fi"
             ],
@@ -26159,6 +26395,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES",
                 "INDIVIDUALS"
             ],
             "life_events": [
@@ -26171,7 +26408,7 @@
                     "id": 3470,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Tilaa rakennettavuusselvitys tai ennakkotiedustelu",
+                    "name": "Tilaa rakennettavuusselvitys",
                     "provided_languages": [
                         "fi"
                     ],
@@ -26181,12 +26418,13 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
                             "title": "Siirry lomakkeeseen",
-                            "url": "https:\/\/lomake.hel.fi\/maalampokaivon-rakennettavuusselvitys"
+                            "url": "https:\/\/lomake.hel.fi\/maalampokaivon-rakennettavuusselvitys",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
