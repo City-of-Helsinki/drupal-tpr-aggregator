@@ -3153,12 +3153,18 @@
             "type": "PERMISSION",
             "name": "Hae maisematyölupaa tai -lausuntoa",
             "provided_languages": [
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
             ],
             "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
             ],
             "links": [
             ],
@@ -3177,8 +3183,8 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
@@ -3193,8 +3199,59 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5097,
+            "exact_descriptions": [
+                8999
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Ansök om tillstånd för eller utlåtande om miljöåtgärder",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3480,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om tillstånd för eller utlåtande",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4182,
@@ -3346,7 +3403,6 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ASSOCIATIONS",
                 "ENTERPRISES",
                 "INDIVIDUALS"
             ],
@@ -3409,8 +3465,59 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 4019,
+            "exact_descriptions": [
+                3202,
+                6443
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Ansök om ett rivningslov eller gör en rivningsanmälan",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2453,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om ett lov eller gör en anmälan",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5091,
@@ -3464,32 +3571,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3552,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Ansök om bygglov eller utlåtande",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till Lupapiste",
-                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -3520,6 +3601,32 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3468,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om bygglov eller utlåtande",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -3989,8 +4096,58 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5093,
+            "exact_descriptions": [
+                8994
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Ansök om åtgärdstillstånd",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3471,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om åtgärdstillstånd",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4816,
