@@ -3379,6 +3379,30 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3553,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae naapurin kuulemista tai suostumusta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Naapurinkuuleminen.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -17102,13 +17126,11 @@
             "exact_descriptions": [
                 3202,
                 6442,
-                6444,
                 6445,
                 6448,
                 6449,
                 6451,
                 6452,
-                6453,
                 6458,
                 6883,
                 7612
@@ -17664,12 +17686,10 @@
             "exact_descriptions": [
                 3202,
                 6442,
-                6444,
                 6445,
                 6449,
                 6451,
                 6452,
-                6453,
                 6458,
                 6883,
                 7612
@@ -20851,6 +20871,90 @@
         ]
     },
     {
+        "id": 5138,
+        "fi": {
+            "id": 5138,
+            "exact_descriptions": [
+                9041
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Pyydä naapurilausunto Helsingin kaupungilta",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3554,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Pyydä lausunto kun Helsingin kaupunki on naapurina",
+                    "email": "tontti@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5139,
+        "fi": {
+            "id": 5139,
+            "exact_descriptions": [
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Pyydä naapurilausunto Helsingin kaupungilta maalämpöä varten",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4533,
         "fi": {
             "id": 4533,
@@ -21545,8 +21649,7 @@
             "id": 4063,
             "exact_descriptions": [
                 3202,
-                6442,
-                6444
+                6442
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -26854,8 +26957,6 @@
             "exact_descriptions": [
                 3202,
                 6442,
-                6444,
-                6453,
                 6458,
                 6883
             ],
