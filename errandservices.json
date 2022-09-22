@@ -3197,8 +3197,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5097,
+            "exact_descriptions": [
+                8999
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Apply for a landscape work permit or statement",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3480,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a permit or statement",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5097,
             "exact_descriptions": [
@@ -3228,7 +3279,7 @@
                     "id": 3480,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ansök om tillstånd för eller utlåtande",
+                    "name": "Ansök om tillstånd eller utlåtande",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -3297,7 +3348,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry lomakkeeseen",
+                            "title": "Siirry lomakkeeseen (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Naapurinkuuleminen.pdf",
                             "file_format": "PDF"
                         }
@@ -3307,8 +3358,52 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5140,
+            "exact_descriptions": [
+                9041
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Apply for a hearing or consent of a neighbour",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3557,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a hearing or consent of a neighbour",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5140,
             "exact_descriptions": [
@@ -3351,7 +3446,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gå till blanketten",
+                            "title": "Gå till blanketten (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/sv\/Horande_av_granne.pdf"
                         }
                     ],
@@ -3515,6 +3610,7 @@
                 "INDIVIDUALS"
             ],
             "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
             ],
             "links": [
             ],
@@ -3571,8 +3667,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 4019,
+            "exact_descriptions": [
+                6443
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Apply for a demolition permit or submit a demolition notice",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2453,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a permit or submit a notice",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 4019,
             "exact_descriptions": [
@@ -3594,6 +3741,7 @@
                 "INDIVIDUALS"
             ],
             "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
             ],
             "links": [
             ],
@@ -3682,8 +3830,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5091,
+            "exact_descriptions": [
+                8993
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Apply for a building permit or statement",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3468,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a permit or statement",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5091,
             "exact_descriptions": [
@@ -4178,7 +4377,7 @@
                     "id": 3471,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae toimenpidelupaa",
+                    "name": "Hae lupaa",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -4202,8 +4401,58 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5093,
+            "exact_descriptions": [
+                8994
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Apply for an action permit",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3471,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for an permit",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5093,
             "exact_descriptions": [
@@ -4232,7 +4481,7 @@
                     "id": 3471,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ansök om åtgärdstillstånd",
+                    "name": "Ansök om tillstånd",
                     "provided_languages": [
                         "fi",
                         "sv"
