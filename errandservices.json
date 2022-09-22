@@ -1975,7 +1975,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry hakuun",
-                            "url": "https:\/\/www.erekryhelsinki.fi\/OpenJobs.asp?L=1&NODATA=1&Z=H&IE=2",
+                            "url": "https:\/\/www.hel.fi\/rekry\/fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -3245,6 +3245,114 @@
                             "type": "INTERNET",
                             "title": "Gå till Lupapiste",
                             "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5140,
+        "fi": {
+            "id": 5140,
+            "exact_descriptions": [
+                9041
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Hae naapurin kuulemista ja suostumusta",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3557,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae naapurin kuulemista tai suostumusta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Naapurinkuuleminen.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 5140,
+            "exact_descriptions": [
+                9041
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Ansök om hörande av granne eller grannens samtycke",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3557,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om hörande av granne eller grannens samtycke",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till blanketten",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/sv\/Horande_av_granne.pdf"
                         }
                     ],
                     "availabilities": [
