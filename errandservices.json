@@ -3127,7 +3127,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry lomakkeeseen",
+                            "title": "Siirry lomakkeeseen (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Maalampo\/Lomake_01.pdf",
                             "file_format": "PDF"
                         }
@@ -3137,10 +3137,110 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5134,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Apply to add a geothermal clause to your plot lease agreement",
+            "description": "If you are building on a leased plot owned by the City of Helsinki, and your lease agreement does not allow the construction of a geothermal heat well, you must apply to the city to add a geothermal clause to your plot lease agreement. In new releases, a geothermal well can be agreed at the time of signing the lease.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3549,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply to add a geothermal clause to your plot lease agreement",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the form (In Finnish, pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Maalampo\/Lomake_01.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5134,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Ansök om att lägga till bergvärme i markarrendeavtalet",
+            "description": "Om du bygger på en arrendetomt som ägs av Helsingfors stad och arrendeavtalet inte tillåter byggande av en bergvärmebrunn, måste du ansöka om att lägga till bergvärme i markarrendeavtalet. I nya arrendeavtal kan man avtala om bergvärmebrunnar redan vid inrättandet av markarrendeavtal.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3549,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om att lägga till bergvärme i markarrendeavtalet",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till blanketten (på finska, pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Maalampo\/Lomake_01.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5097,
@@ -3564,7 +3664,7 @@
                     "id": 3551,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae poikkeamispäätöstä",
+                    "name": "Hae päätöstä",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -3641,8 +3741,59 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 5136,
+            "exact_descriptions": [
+                9042
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Ansök om undantagstillstånd",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3551,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om tillstånd",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4019,
@@ -27234,8 +27385,59 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 5092,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Beställ utredning av byggbarhet av en bergvärmebrunn",
+            "description": "I utredningen av byggbarhet av en bergvärmebrunn får du veta om det under objektområdet finns underjordiska utrymmen, konstruktioner, platsreserveringar eller ledningar som kan påverka planerna för bergvärme. Eller om fastigheten ligger i ett grundvatten-, naturskydds- eller fornminnesområde som kan hindra byggandet av bergvärmesystem.\n\nDu behöver en utredning av byggbarhet av en bergvärmebrunn för ansökan om bygglov eller åtgärdstillstånd för projektet.\n",
+            "information": "När du beställer en utredning av byggbarhet för en småhustomt, bifoga beställningen en kartritning där det har markerats platserna för planerade bergvärmebrunnar. Av kartan ska framgå fastigheten och dess gränser. \n\nBeställ för tomter för flervåningshus först en förhandsförfrågning, där det utreds om byggande av bergvärmesystem är möjligt för fastigheten. När en mer detaljerad plan är färdig, beställ en utredning av byggbarhet. Bifoga beställningen en situationsplan där det har markerats platserna för och uppgifterna om djup samt riktnings- och lutningsvinklar.\n\nFör beställningen behöver du följande uppgifter:\n- den sökandes e-postadress och telefonnummer\n- gatuadress och fastighetsbeteckning.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3470,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Beställ utredning av byggbarhet",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till e-tjänsten (på finska)",
+                            "url": "https:\/\/lomake.hel.fi\/maalampokaivon-rakennettavuusselvitys"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4802,
