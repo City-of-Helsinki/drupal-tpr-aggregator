@@ -1918,6 +1918,85 @@
         }
     },
     {
+        "id": 5143,
+        "fi": {
+            "id": 5143,
+            "exact_descriptions": [
+                9115
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Asumisoikeusasioiden neuvonta",
+            "name_synonyms": "asumisoikeus, asumisoikeusasunnot",
+            "description": "Tietoa asumisoikeusasunnoista, niiden hakemisesta ja järjestysnumeroista puhelimitse ja sähköpostitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3561,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Asumisoikeusasuntojen puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-to 09-11",
+                    "phone": "+358 9 310 13032",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3562,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Asumisoikeusasuntojen neuvonnan sähköposti",
+                    "email": "asumisoikeus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1029,
         "fi": {
             "id": 1029,
@@ -25291,10 +25370,9 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Social- och hälsovårdsväsendet, ansökan om allmänt understöd",
-            "description": "Organisationer vars verksamhet stöder och kompletterar social- och hälsovårdsväsendet kan söka understöd för sin verksamhet. Läs mera: https:\/\/hel.fi\/sote > Beslutsfattande > Understöd till organisationer",
-            "process_description": "Allmänt understöd kan sökas av registrerade organisationer vilkas verksamhet riktar sig till helsingforsare och pågått i minst ett år. Noggrannare uppgifter i kungörelsen om understöd.\n\n1. Beslut om allmänt understöd fattas av social- och hälsovårdsnämnden och sektorchefen.\n2. Sökanden informeras om beslutet per post.\n3. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n4. En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Anvisningar om utredningen ges i understödsbeslutet.",
+            "description": "Organisationer vars verksamhet stöder genomförandet av målen i den gällande stadsstrategin och den lagstadgade planen för att främja välbefinnande och hälsa som godkänts av stadsfullmäktige kan söka understöd för sin verksamhet. Läs mera: https:\/\/hel.fi\/sote > Beslutsfattande > Understöd till organisationer",
+            "process_description": "Allmänt understöd kan sökas av registrerade organisationer vilkas verksamhet riktar sig till helsingforsare och pågått i minst ett år. Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\n1. Beslut om allmänt understöd fattas av \nstadsstyrelsen, stadsstyrelsens sektion för reform av social- och hälsovården samt räddningsväsendet eller tjänsteinnehavaren.\n2. Sökanden informeras om beslutet per post.\n3. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n4. En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Anvisningar om utredningen ges i understödsbeslutet.",
             "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan för samma ändamål ersätter den tidigare om den sänts inom utsatt tid.",
-            "information": "Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -30568,6 +30646,120 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5142,
+        "fi": {
+            "id": 5142,
+            "exact_descriptions": [
+                9108
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Vuokra-asunnon haun neuvonta",
+            "name_synonyms": "vuokra-asunnot, neuvonta",
+            "description": "Tietoa ja neuvontaa kaupungin vuokra-asunnoista chatissa, sähköpostitse ja puhelimitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3558,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vuokra-asunnon haun neuvonnan puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-ti 12:30-15:30, ke-to 09-12, pe 12-14",
+                    "phone": "+358 9 310 13030",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-ti 12:30-15:30"
+                        },
+                        {
+                            "availability_string": "Avoinna ke-to 09-12"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3559,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Vuokra-asunnon haun neuvonnan sähköposti",
+                    "email": "asunnonhaku@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3560,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Vuokra-asunnon haun neuvonnan chat-neuvonta",
+                    "availability_summary": "Avoinna ma-to 09-15, pe 12-15",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-15"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 2226,
