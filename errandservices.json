@@ -3588,8 +3588,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5136,
+            "exact_descriptions": [
+                9042
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Apply for a derogation permit",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3551,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a permit",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -26158,8 +26209,60 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5135,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Make a placement- and lease agreement for the installation of geothermal heat in a public area",
+            "description": "You will need a placement- or lease agreement with the city if geothermal wells are to be sunk or built in a public area. The feasibility study will provide you with information on how to conclude a placement- and lease agreement with the city.\n\nMake a placement- or lease agreement before applying for a building permit or planning permission. Attach the approved agreement to the permit application.\n\nFor more information on installing geothermal heat in a public area kymp.maalampo@hel.fi.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3550,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a placement- and lease agreement from the city",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -27067,7 +27170,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry lomakkeeseen",
+                            "title": "Siirry asiointipalveluun",
                             "url": "https:\/\/lomake.hel.fi\/maalampokaivon-rakennettavuusselvitys",
                             "file_format": "HTML"
                         }
@@ -27077,8 +27180,60 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5092,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Order a feasibility study for a geothermal well",
+            "description": "In the case of a report on the feasibility of a geothermal well, you will receive information on whether there are underground spaces, structures, space allocations or cables under the site area that may affect plans on geothermal construction. Or whether the property is located in a groundwater area, nature reserve or historical site, which may prevent geothermal construction.\nYou will need a report on the feasibility of a geothermal site to apply for a building permit or planing permission for the project.\n",
+            "information": "When ordering a report on feasibility for a detached house plot, please attach a map drawing showing the planned locations of the geothermal wells to the order. The map must already show the property and its borders. \n\nFirst, a preliminary enquiry must be ordered in the case of a plot for a blocks of flats to determine whether geothermal construction is possible on the property. When the more detailed plan is ready, order a report on feasibility. Attach to the order a layout plan showing the planned locations of the geothermal wells and their depths and angles of direction as well as the inclination \n\nTo place an order, you will need to fill in the following information:\n- the applicant's email address and telephone number\n- the street address and real property unit ID\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3470,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Order a feasibility study",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to e-services (In Finnish)",
+                            "url": "https:\/\/lomake.hel.fi\/maalampokaivon-rakennettavuusselvitys",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
