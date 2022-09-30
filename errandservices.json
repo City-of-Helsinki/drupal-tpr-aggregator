@@ -26481,8 +26481,60 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 5135,
+            "exact_descriptions": [
+                7611
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Ingå ett placerings- och arrendeavtal för bergvärme i allmänna områden",
+            "description": "Du behöver ett placerings- och arrendeavtal med staden om bergvärmebrunnar lutas mot eller byggs i ett allmänt område. I utredningen av byggbarhet får du information om att ingå ett placerings- och arrendeavtal med staden.\n\nIngå ett placerings- eller arrendeavtal innan du ansöker om bygglov eller åtgärdstillstånd. Bifoga tillståndsansökan det godkända avtalet.\n\nMer information om placering av en bergvärmebrunn i ett allmänt område: kymp.maalampo@hel.fi.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3550,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om placerings- och arrendeavtal hos staden",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4862,
