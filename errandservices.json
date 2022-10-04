@@ -1948,7 +1948,7 @@
                     "id": 3561,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Asumisoikeusasuntojen puhelinneuvonta",
+                    "name": "Asumisoikeusasioiden neuvonnan puhelinpalvelu",
                     "availability_summary": "Avoinna ma-to 09-11",
                     "phone": "+358 9 310 13032",
                     "call_charge_info": "pvm\/mpm",
@@ -1973,7 +1973,7 @@
                     "id": 3562,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Asumisoikeusasuntojen neuvonnan sähköposti",
+                    "name": "Asumisoikeusasuntojen neuvonnan sähköpostiosoite",
                     "email": "asumisoikeus@hel.fi",
                     "provided_languages": [
                     ],
@@ -2001,12 +2001,13 @@
         "fi": {
             "id": 5147,
             "exact_descriptions": [
+                9119
             ],
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Asumisterveysneuvonta",
             "name_synonyms": "asuminen, asumisterveys, neuvonta",
-            "description": "YNeuvomme sinua asuntosi sisäilma- ja meluhaitta-asioissa puhelimitse ja sähköpostitse.",
+            "description": "Neuvomme sinua asuntosi sisäilma- ja meluhaitta-asioissa puhelimitse ja sähköpostitse.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -2026,8 +2027,8 @@
                     "id": 3567,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Asumisterveysneuvonnan puhelinneuvonta",
-                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 12-15",
+                    "name": "Asumisterveysneuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 09-15",
                     "phone": "+358 9 310 15000",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -2046,7 +2047,7 @@
                             "availability_string": "Avoinna ma, ke-to 09-12"
                         },
                         {
-                            "availability_string": "Avoinna ti 12-15"
+                            "availability_string": "Avoinna ti 09-15"
                         }
                     ]
                 },
@@ -8287,6 +8288,85 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5144,
+        "fi": {
+            "id": 5144,
+            "exact_descriptions": [
+                9118
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Hitas-asioiden neuvonta",
+            "name_synonyms": "asuminen, hitas, neuvonta",
+            "description": "Neuvontaa Hitas-asuntoihin liittyen puhelimitse ja sähköpostitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3563,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Hitas-asioiden neuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-to 09-11",
+                    "phone": "+3589 310 13033 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3564,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Hitas-asioiden neuvonnan sähköpostiosoite",
+                    "email": "hitas@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4955,
@@ -30769,7 +30849,7 @@
                     "id": 3558,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vuokra-asunnon haun neuvonnan puhelinneuvonta",
+                    "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
                     "availability_summary": "Avoinna ma-ti 12:30-15:30, ke-to 09-12, pe 12-14",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "pvm\/mpm",
@@ -30800,7 +30880,7 @@
                     "id": 3559,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Vuokra-asunnon haun neuvonnan sähköposti",
+                    "name": "Vuokra-asunnon haun neuvonnan sähköpostiosoite",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -30820,7 +30900,7 @@
                     "id": 3560,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Vuokra-asunnon haun neuvonnan chat-neuvonta",
+                    "name": "Vuokra-asunnon haun neuvonnan chat-palvelu",
                     "availability_summary": "Avoinna ma-to 09-15, pe 12-15",
                     "provided_languages": [
                         "en",
