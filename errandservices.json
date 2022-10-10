@@ -31501,6 +31501,125 @@
         }
     },
     {
+        "id": 5149,
+        "fi": {
+            "id": 5149,
+            "exact_descriptions": [
+                2997
+            ],
+            "service_id": 10036,
+            "type": "ADVICE",
+            "name": "Yritysneuvonta",
+            "description": "Ajan yritysneuvontaan voit varata, kun olet osallistunut NewCo Helsingin järjestämään Yritysinfoon ja tehnyt alustavan liiketoimintasuunnitelman.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3570,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Yritysneuvonnan ajanvaraus",
+                    "prerequisites": "Kun olet lukenut Perustamisoppaan alkavalle yrittäjälle, ja osallistunut Yritysinfoon ja LTS-koulutukseen TAI sinulla on kysymyksiä koskien uutta liikeideaa, tai jo toiminnassa olevan yrityksen kehittämistä, olet tervetullut henkilökohtaiseen yritysneuvontaan.",
+                    "provided_languages": [
+                        "ar",
+                        "en",
+                        "et",
+                        "ru",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Yritysneuvonnan ajanvaraus",
+                            "url": "https:\/\/newcohelsinki.fi\/fi\/palvelut\/yritysneuvonta\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 5149,
+            "exact_descriptions": [
+                2997
+            ],
+            "service_id": 10036,
+            "type": "ADVICE",
+            "name": "Företagsrådgivning",
+            "description": "När du har läst guiden Starta eget - Guide för blivande företagare och deltagit på Företagsinfo och AVP-utbildningen, ELLER om du har frågor kring en ny affärsidé eller utvecklingen av ett aktivt företag, är du välkommen att få personlig företagsrådgivning.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3570,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Företagsrådgivningens tidsreservering",
+                    "prerequisites": "När du har läst guiden Starta eget - Guide för blivande företagare och deltagit på Företagsinfo och AVP-utbildningen, ELLER om du har frågor kring en ny affärsidé eller utvecklingen av ett aktivt företag, är du välkommen att få personlig företagsrådgivning.",
+                    "provided_languages": [
+                        "ar",
+                        "en",
+                        "et",
+                        "ru",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Företagsrådgivningens tidsreservering",
+                            "url": "https:\/\/newcohelsinki.fi\/sv\/tjanster\/foretagsradgivning\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4068,
         "fi": {
             "id": 4068,
