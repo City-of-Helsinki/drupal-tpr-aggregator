@@ -2055,88 +2055,6 @@
         ]
     },
     {
-        "id": 5147,
-        "fi": {
-            "id": 5147,
-            "exact_descriptions": [
-                9119
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Asumisterveysneuvonta",
-            "name_synonyms": "asuminen, asumisterveys, neuvonta",
-            "description": "Neuvomme sinua asuntosi sisäilma- ja meluhaitta-asioissa puhelimitse ja sähköpostitse.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3567,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Asumisterveysneuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 09-15",
-                    "phone": "+358 9 310 15000",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma, ke-to 09-12"
-                        },
-                        {
-                            "availability_string": "Avoinna ti 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 3568,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Asumisterveysneuvonnan sähköpostiosoite",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 1029,
         "fi": {
             "id": 1029,
@@ -2459,11 +2377,89 @@
         ]
     },
     {
+        "id": 5128,
+        "fi": {
+            "id": 5128,
+            "exact_descriptions": [
+                9028
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Elintarvikeneuvonta",
+            "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
+            "description": "Tietoa ja neuvontaa elintarvikkeisiin liittyvissä asioissa sähköpostitse ja puhelimitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3541,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Elintarvikevalvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-pe 09-11",
+                    "phone": "+358 9 310 14000",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3542,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Elintarvikeneuvonnan sähköpostiosoite",
+                    "email": "elintarviketurvallisuus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5129,
         "fi": {
             "id": 5129,
             "exact_descriptions": [
-                4761
             ],
             "service_id": 10133,
             "type": "ADVICE",
@@ -8380,7 +8376,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Hitas-asioiden neuvonnan puhelinpalvelu",
                     "availability_summary": "Avoinna ma-to 09-11",
-                    "phone": "+3589 310 13033 ",
+                    "phone": "+358 9 310 13033 ",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -14572,7 +14568,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Kaupunkiympäristön asiakaspalvelun puhelinneuvonta",
                     "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
-                    "phone": "+3589 310 22 111 ",
+                    "phone": "+358 9 310 22 111 ",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -19093,7 +19089,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Matkailuneuvonta",
-            "name_synonyms": "turismi, matkailu, matkustaminen",
+            "name_synonyms": "turismi, matkailu, matkustaminen, turisti",
             "description": "Maksutonta tietoa Helsingin käyntikohteista, tapahtumista ja palveluista puhelimitse ja chatissä sekä kesäkaudella neuvontapisteillä ja kaduilla.",
             "provided_languages": [
                 "en",
@@ -19303,7 +19299,7 @@
                     "id": 3455,
                     "type": "CHAT",
                     "type_string": "Chatt",
-                    "name": "Helsingfors turistinformationens chat",
+                    "name": "Helsingfors turistinformation chat",
                     "availability_summary": "Öppet varje dag 09-16",
                     "provided_languages": [
                         "en",
@@ -20809,6 +20805,7 @@
                     "id": 3459,
                     "type": "CHAT",
                     "type_string": "Chat",
+                    "name": "Ohjaamo Helsinki chatbot (in Finnish)",
                     "provided_languages": [
                         "fi"
                     ],
@@ -20882,6 +20879,7 @@
                     "id": 3459,
                     "type": "CHAT",
                     "type_string": "Chatt",
+                    "name": "Navigatorns chatbot (på finska)",
                     "provided_languages": [
                         "fi"
                     ],
@@ -24502,63 +24500,6 @@
         ]
     },
     {
-        "id": 5130,
-        "fi": {
-            "id": 5130,
-            "exact_descriptions": [
-                4821
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Rekisteröi elintarvikehuoneisto",
-            "description": "Ilmoita uudesta elintarvikehuoneistosta tai muutoksista verkossa, sähköpostitse tai postitse.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3545,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tee elintarvikehuoneiston rekisteröinti",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Tee ilmoitus Ilppa.fi:ssä",
-                            "url": "https:\/\/ilppa.fi\/alkusivu"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 710,
         "fi": {
             "id": 710,
@@ -26657,6 +26598,92 @@
                         {
                             "availability_string": "Avoinna joka päivä ympäri vuorokauden"
                         }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5130,
+        "fi": {
+            "id": 5130,
+            "exact_descriptions": [
+                4821
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus elintarviketoiminnasta",
+            "description": "Ilmoita uudesta elintarviketoiminnasta verkossa, sähköpostitse tai postitse.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3545,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee elintarvikehuoneiston rekisteröinti",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tee ilmoitus Ilppa.fi:ssä",
+                            "url": "https:\/\/ilppa.fi\/alkusivu"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3576,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Lomakkeet",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Pdf-lomake",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Word-lomake",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.docx"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -32554,6 +32581,9 @@
             "name": "Äitiys- ja lastenneuvolan neuvonta",
             "description": "Puhelinpalvelumme ja chatbot auttavat kaikissa neuvola-asioissa.",
             "provided_languages": [
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
             ],
