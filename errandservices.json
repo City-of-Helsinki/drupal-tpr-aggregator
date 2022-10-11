@@ -8147,7 +8147,7 @@
                         {
                             "type": "FORM",
                             "title": "Henkilötietojen tarkastuspyyntö",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Tietopyyntolomakkeet\/henkilotietojen_tarkastuspyynto_fi_09_2022.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Tietopyyntolomakkeet\/henkilotietojen_tarkastuspyynto_fi_11_2022.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -8242,7 +8242,7 @@
                         {
                             "type": "FORM",
                             "title": "Request to Access Personal Data",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Tietopyyntolomakkeet\/henkilotietojen_tarkastuspyynto_eng_09_2022.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Tietopyyntolomakkeet\/henkilotietojen_tarkastuspyynto_eng_11_2022.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -8337,7 +8337,7 @@
                         {
                             "type": "FORM",
                             "title": "Begäran om insyn i registeruppgifter",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Tietopyyntolomakkeet\/henkilotietojen_tarkastuspyynto_sv_09_2022.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Tietopyyntolomakkeet\/henkilotietojen_tarkastuspyynto_sv_11_2022.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -17132,6 +17132,61 @@
         ]
     },
     {
+        "id": 5117,
+        "fi": {
+            "id": 5117,
+            "exact_descriptions": [
+                9024
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Liikuntaluuri",
+            "name_synonyms": "neuvonta, liikuntaneuvonta, liikunta Helsingissä",
+            "description": "Tarjoamme kaupunkilaisille tietoa ja tukea sekä kannustusta liikkumismahdollisuuksiin liittyen.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3528,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Liikuntaluuri",
+                    "availability_summary": "Avoinna ma-to 13-15",
+                    "phone": "+358 9 310 32623",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 13-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1958,
         "fi": {
             "id": 1958,
@@ -19027,6 +19082,256 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5076,
+        "fi": {
+            "id": 5076,
+            "exact_descriptions": [
+                8969
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Matkailuneuvonta",
+            "name_synonyms": "turismi, matkailu, matkustaminen",
+            "description": "Maksutonta tietoa Helsingin käyntikohteista, tapahtumista ja palveluista puhelimitse ja chatissä sekä kesäkaudella neuvontapisteillä ja kaduilla.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "be1328b3-09fa-4ace-b24b-0a806c44a59d"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3454,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Matkailun puhelinneuvonta",
+                    "availability_summary": "Avoinna joka päivä 09-16",
+                    "phone": "+358931013300",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3455,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Matkailuneuvonnan chat",
+                    "availability_summary": "Avoinna joka päivä 09-16",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Chat-neuvonta",
+                            "url": "https:\/\/www.myhelsinki.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5076,
+            "exact_descriptions": [
+                8969
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Helsinki Tourist Information",
+            "description": "Helsinki Tourist Information provides free information about the city, main attractions, events, and services by chat, telephone and in the summertime on the streets.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "be1328b3-09fa-4ace-b24b-0a806c44a59d"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3454,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Helsinki Tourist Information's telephone service",
+                    "availability_summary": "Open every day 09-16",
+                    "phone": "+358931013300",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3455,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Helsinki Tourist Information's chat",
+                    "availability_summary": "Open every day 09-16",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Chat service",
+                            "url": "https:\/\/www.myhelsinki.fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5076,
+            "exact_descriptions": [
+                8969
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Helsingfors turistinformation",
+            "description": "Helsingfors turistinformation ger gratis information om staden och dess sevärdheter, evenemang och tjänster på chat, telefon och under sommarsäsongen på gatorna i Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "be1328b3-09fa-4ace-b24b-0a806c44a59d"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3454,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Helsingfors turistinformation telefontjänst",
+                    "availability_summary": "Öppet varje dag 09-16",
+                    "phone": "+358931013300",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3455,
+                    "type": "CHAT",
+                    "type_string": "Chatt",
+                    "name": "Helsingfors turistinformationens chat",
+                    "availability_summary": "Öppet varje dag 09-16",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Chat service",
+                            "url": "https:\/\/www.myhelsinki.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag 09-16"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2858,
@@ -31393,7 +31698,6 @@
         "fi": {
             "id": 5120,
             "exact_descriptions": [
-                2767
             ],
             "service_id": 10453,
             "type": "APPLICATION",
