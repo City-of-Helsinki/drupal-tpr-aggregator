@@ -19316,7 +19316,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Nuorisoaseman puhelinneuvonta",
-                    "availability_summary": "Avoinna alkaen 1.8.2022 ma-pe 09-15",
+                    "availability_summary": "Avoinna ma-pe 09-15",
                     "phone": "+358 40 688 3377",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -19332,7 +19332,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe alkaen 1.8.2022 klo 09-15"
+                            "availability_string": "Avoinna ma-pe 09-15"
                         }
                     ]
                 }
@@ -29739,6 +29739,110 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5100,
+        "fi": {
+            "id": 5100,
+            "exact_descriptions": [
+                9002
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Vammaispalvelujen neuvonta",
+            "description": "Vammaispalvelujen neuvonnasta saat puhelimitse ja sähköpostitse neuvontaa ja ohjausta vammaisten palveluista ja niiden hakemisesta.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3485,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vammaispalvelujen neuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
+                    "phone": "+358 9 310 32889",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-11"
+                        },
+                        {
+                            "availability_string": "Avoinna ti, to 12-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3486,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Vammaispalvelujen neuvonnan sähköposti",
+                    "email": "sote.vammaisneuvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3527,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kuljetuspalvelujen neuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-pe 08:15-15",
+                    "phone": "+358 9 310 23000",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-15"
+                        }
                     ]
                 }
             ]
