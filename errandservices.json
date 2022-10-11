@@ -1919,6 +1919,63 @@
         }
     },
     {
+        "id": 5105,
+        "fi": {
+            "id": 5105,
+            "exact_descriptions": [
+                5318
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Asumisneuvonta",
+            "description": "Asumisneuvojilta voit kysyä neuvoa asumiseen liittyvissä asioissa chatissä tai paikan päällä alueellisissa palvelupisteissämme.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3496,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Asumisneuvonnan chat",
+                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Chat-neuvonta",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/sosiaali-ja-terveyspalvelut\/sosiaalinen-tuki-ja-toimeentulo\/sosiaalityo\/asumisneuvonta\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5143,
         "fi": {
             "id": 5143,
@@ -16771,6 +16828,136 @@
         ]
     },
     {
+        "id": 5150,
+        "fi": {
+            "id": 5150,
+            "exact_descriptions": [
+                9195
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Lapsiperheiden sosiaalineuvonta",
+            "description": "Autamme, kun tarvitset apua kasvatuspulmiin, vanhemmuuden haasteiin tai kuormittavaan arkeen.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3571,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tarvitsen apua -verkkolomake",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry verkkolomakkeelle",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3572,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Maisa-asiointipalvelu",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3573,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Lapsiperheiden sosiaalineuvonnan puhelinpalvelu suomeksi",
+                    "availability_summary": "Avoinna ma-pe 09-12",
+                    "phone": "+358931015454 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-12"
+                        }
+                    ]
+                },
+                {
+                    "id": 3574,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Lapsiperheiden sosiaalineuvonnan puhelinpalvelu ruotsiksi",
+                    "availability_summary": "Avoinna ma 09-12",
+                    "phone": "+358931015454 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma 09-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5059,
         "fi": {
             "id": 5059,
@@ -16818,6 +17005,68 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ke 13-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5103,
+        "fi": {
+            "id": 5103,
+            "exact_descriptions": [
+                9004
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Lastenvalvojien neuvonta",
+            "description": "Neuvomme sinua puhelimitse, kun etsit tietoa isyyden ja äitiyden selvittämisestä sekä lasten huoltoon, asumiseen, tapaamisoikeuteen ja elatukseen liittyvistä sopimuksista.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3001",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3002",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3017"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3493,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Lastenvalvojien puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-pe 09-11, ke 15:30-18",
+                    "phone": "+359 9 310 43447",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-11"
+                        },
+                        {
+                            "availability_string": "Avoinna ke 15:30-18"
                         }
                     ]
                 }
@@ -24666,7 +24915,7 @@
                     "id": 3364,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lähetä sähköposti Seniori-infoon",
+                    "name": "Lähetä sähköpostia Seniori-infoon",
                     "email": "seniori.info@hel.fi",
                     "provided_languages": [
                     ],
@@ -26994,6 +27243,108 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5096,
+        "fi": {
+            "id": 5096,
+            "exact_descriptions": [
+                8997
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Terveysneuvonta",
+            "description": "Terveysneuvonta neuvoo terveyteen, hoitoon ja terveyspalveluihin liittyvissä kysymyksissä chatbotin kautta, Omaolo-palvelussa ja terveysneuvontapuhelimessa.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3477,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Terveysasemien neuvova robotti",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Terveysasemien chatbot",
+                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/terveydenhoito\/terveysasemat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3478,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Terveysneuvontapuhelin",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "phone": "+358 9 310 10023",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                },
+                {
+                    "id": 3479,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Omaolo-palvelu",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Omaolon oirearviot",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4073,
@@ -31886,5 +32237,88 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5095,
+        "fi": {
+            "id": 5095,
+            "exact_descriptions": [
+                8996
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Äitiys- ja lastenneuvolan neuvonta",
+            "description": "Puhelinpalvelumme ja chatbot auttavat kaikissa neuvola-asioissa.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3475,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Neuvolan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-pe 08-14",
+                    "process_description": "NUmerossa on takaisinsoitto. Takaisin soitetaan arkisin kello 8-16.",
+                    "phone": "+358 9 310 55530",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3495,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "NeRo - neuvolan chat-robotti",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Nero - Neuvolan chat-robotti",
+                            "url": "https:\/\/www.hel.fi\/sote\/toimipisteet-fi\/aakkosittain\/neuvola\/neuvolat\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     }
 ]
