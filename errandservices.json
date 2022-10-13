@@ -1864,7 +1864,8 @@
                 8681,
                 8682,
                 8683,
-                8946
+                8946,
+                8947
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -2460,6 +2461,7 @@
         "fi": {
             "id": 5129,
             "exact_descriptions": [
+                4821
             ],
             "service_id": 10133,
             "type": "ADVICE",
@@ -26128,7 +26130,7 @@
                     "id": 3545,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Tee elintarvikehuoneiston rekisteröinti",
+                    "name": "Tee ilmoitus elintarviketoiminnasta",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -26143,7 +26145,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Tee ilmoitus Ilppa.fi:ssä",
+                            "title": "Siirry Ilppa-palveluun",
                             "url": "https:\/\/ilppa.fi\/alkusivu"
                         }
                     ],
