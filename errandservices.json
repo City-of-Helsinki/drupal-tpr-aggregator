@@ -11083,7 +11083,7 @@
             "name": "Johtoselvitys",
             "name_synonyms": "johtotietoselvitys",
             "description": "Helsingin kaupungin alueella tehtävissä kaivu-, kairaus- ja louhintatöissä on kaivajan aina ennen kaivuilmoituksen jättämistä haettava ajantasainen johtoselvitys.",
-            "process_description": "HUOM! Johtotietoselvityksen käsittelyssä on ruuhkaa, joten tilausten käsittelyssä voi mennä tavallista kauemmin.\n\n*******\n\nJohtoselvitys sisältää karttaotteen maanalaisista johdoista ja rakenteista. Lisäksi selvityksen yhteydessä annetaan johdon omistajan ohjeita työn suorittamiseksi. Selvityksen liitteeksi tarvitaan työsuunnitelma.\n\nVoit tilata johtoselvityksen johtotietopalvelusta joko sähköisessä asiointipalvelussa tai pdf-lomakkeella. Palauta pdf-lomake kaupungin johtotietopalveluun (yhteystiedot alla).\n\nKaupungin sähköisessä asiointipalvelussa voit seurata asian etenemistä. Asiakasohjeesta (linkki alla) saat neuvoja asiointipalvelun käyttöön.",
+            "process_description": "HUOM! Johtotietoselvityksen käsittelyssä on ruuhkaa, joten tilausten käsittelyssä voi mennä tavallista kauemmin.\n\n*******\n\nJohtoselvitys sisältää karttaotteen maanalaisista johdoista ja rakenteista. Lisäksi selvityksen yhteydessä annetaan johdon omistajan ohjeita työn suorittamiseksi. Selvityksen liitteeksi tarvitaan työsuunnitelma.\n\nVoit tilata johtoselvityksen johtotietopalvelusta sähköisessä asiointipalvelussa (linkki alla).\n\nKaupungin sähköisessä asiointipalvelussa voit seurata asian etenemistä. Asiakasohjeesta (linkki alla) saat neuvoja asiointipalvelun käyttöön.",
             "processing_time": "Käsittelyaika on 1 päivä. Hakemukset käsitellään saapumisjärjestyksessä. Johtotietopalvelussa on tällä hetkellä ruuhkaa, ja johtoselvityksen saaminen saattaa kestää normaalia kauemmin.",
             "expiration_time": "Lähetetty hakemus on voimassa, kunnes johtoselvitys on tehty. Johtoselvityksen voimassaoloaika on 1 kuukausi.",
             "costs": "Johtoselvitys on maksuton kaivu-, kairaus- ja louhintatöitä tekeville. Muita tarkoituksia varten karttaotteet ovat maksullisia.",
@@ -11222,7 +11222,7 @@
             "type": "INFORMATION_SERVICE",
             "name": "Cable report, e-service",
             "description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works.",
-            "process_description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works from the cable data service at the Helsinki Real Estate Department's City Survey Division. Using the service requires identification.\n\n1. Applicant fills in an electronic cable report form. \n2. The cable report form is received for processing by the cable data service. \n3. The cable data service processes the application and sends the cable map with appendices to the customer's e-services folder.",
+            "process_description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works from the cable data service. Using the service requires identification.\n\n1. Applicant fills in an electronic cable report form. \n2. The cable report form is received for processing by the cable data service. \n3. The cable data service processes the application and sends the cable map with appendices to the customer's e-services folder.",
             "processing_time": "The processing time for the cable report application is 1 working day.",
             "expiration_time": "The submitted application is valid until the cable report has been done. The period of validity for the cable report is 1 month.",
             "costs": "The cable report is free of charge for those who perform excavation, drilling and quarrying works.",
@@ -11357,7 +11357,7 @@
             "type": "INFORMATION_SERVICE",
             "name": "Ledningsutredning, e-tjänst",
             "description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten.",
-            "process_description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten från stadsmätningsavdelningens ledningsdatatjänst på Helsingfors stads fastighetskontor. Användning av tjänsten förutsätter identifiering.\n\n1. Den sökande fyller i blanketten för en elektronisk utredning om ledningar. \n2. Ansökningen om en utredning om ledningar kommer till ledningsdatatjänsten för behandling. \n3. Ledningsdatatjänsten behandlar ansökningen och skickar till kunden en ledningskarta med bilagor till den elektroniska ärendemappen.",
+            "process_description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten från stadsmätningsavdelningens ledningsdatatjänst. Användning av tjänsten förutsätter identifiering.\n\n1. Den sökande fyller i blanketten för en elektronisk utredning om ledningar. \n2. Ansökningen om en utredning om ledningar kommer till ledningsdatatjänsten för behandling. \n3. Ledningsdatatjänsten behandlar ansökningen och skickar till kunden en ledningskarta med bilagor till den elektroniska ärendemappen.",
             "processing_time": "Behandlingstiden för ansökningen för en utredning om ledningar är 1 vardag.",
             "expiration_time": "En ansökning som skickats är i kraft tills en utredning om ledningar har gjorts. Giltighetstiden för utredningen om ledningar är 1 månad.",
             "costs": "Utredningen om ledningar är avgiftsfri för de som utför gräv,- borrnings- och brytningsarbeten i Helsingfors.",
@@ -21104,6 +21104,55 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5158,
+        "fi": {
+            "id": 5158,
+            "exact_descriptions": [
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä Läntisen alueen Stadiluotsiin",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3582,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Facebook-sivu",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4137,
