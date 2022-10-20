@@ -753,6 +753,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Contact request form (in Finnish)",
+                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/csxo7xhkkv"
+                        }
                     ],
                     "availabilities": [
                         {
@@ -779,6 +784,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Helsinki Vocational College and Adult Institute chatbot (in Finnish)",
+                            "url": "https:\/\/stadinao.fi\/hae-opiskelijaksi\/hakutoimisto\/"
+                        }
                     ],
                     "availabilities": [
                         {
@@ -29319,6 +29329,7 @@
         "fi": {
             "id": 2711,
             "exact_descriptions": [
+                3914
             ],
             "service_id": 10195,
             "type": "PERMISSION",
@@ -29344,7 +29355,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Tutkimusluvat kasvatuksen ja koulutuksen toimialalla",
-                    "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/palvelut\/tutkimusluvat\/"
+                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/tietoa-helsingista\/tutkimusluvat\/kasvatuksen-ja-koulutuksen-toimialaan-liittyvat-tutkimukset"
                 }
             ],
             "channels": [
@@ -29367,35 +29378,9 @@
                         {
                             "type": "FORM",
                             "title": "Tutkimuslupahakemus",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/tutkimuslupahakemus-sv.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/tutkimuslupahakemus.pdf",
                             "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Tillstånd för undersökningar",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/sv\/tjanster\/tillstand-for-undersokningar\/"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1669,
-                    "type": "LOCAL",
-                    "type_string": "Henkilökohtainen palvelu",
-                    "personal_service_street_addr": "Töysänkatu 2 D",
-                    "personal_service_postal_code": "00510",
-                    "personal_service_city": "Helsinki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -29405,6 +29390,7 @@
         "en": {
             "id": 2711,
             "exact_descriptions": [
+                3914
             ],
             "service_id": 10195,
             "type": "PERMISSION",
@@ -29426,6 +29412,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Research related to the Education Division",
+                    "url": "https:\/\/www.hel.fi\/en\/decision-making\/information-on-helsinki\/research-permits\/research-related-to-the-education-division"
+                }
             ],
             "channels": [
                 {
@@ -29453,30 +29444,13 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 1669,
-                    "type": "LOCAL",
-                    "type_string": "Local services",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
         "sv": {
             "id": 2711,
             "exact_descriptions": [
+                3914
             ],
             "service_id": 10195,
             "type": "PERMISSION",
@@ -29498,6 +29472,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Forskningsstudier med anknytning till sektorn för fostran och utbildning",
+                    "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/information-om-helsingfors\/forskningstillstand\/forskningsstudier-med-anknytning-till-sektorn-for"
+                }
             ],
             "channels": [
                 {
@@ -29521,30 +29500,7 @@
                             "title": "Ansökan om forskningstillstånd",
                             "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/tutkimuslupahakemus-sv.pdf",
                             "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Tillstånd för undersökningar",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/sv\/tjanster\/tillstand-for-undersokningar\/"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1669,
-                    "type": "LOCAL",
-                    "type_string": "Lokal service",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
