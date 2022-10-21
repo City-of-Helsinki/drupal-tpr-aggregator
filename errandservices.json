@@ -26900,6 +26900,7 @@
             "service_id": 10133,
             "type": "NOTICE",
             "name": "Submit a notification of your food business",
+            "description": "Notify us of your new food business online, via email, or by mail.",
             "provided_languages": [
                 "fi"
             ],
@@ -26914,6 +26915,32 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3545,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of your food business",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Got Ilppa.fi service",
+                            "url": "https:\/\/ilppa.fi\/alkusivu"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -26924,6 +26951,7 @@
             "service_id": 10133,
             "type": "NOTICE",
             "name": "Gör en anmälan om livsmedelsverksamhet",
+            "description": "Gör en anmälan om ny livsmedelsverksamhet på nätet, per e-post eller per telefon.",
             "provided_languages": [
                 "fi"
             ],
@@ -26938,6 +26966,32 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3545,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en anmälan om livsmedelsverksamhet",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Ilppa.fi-tjänsten",
+                            "url": "https:\/\/ilppa.fi\/alkusivu-sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
