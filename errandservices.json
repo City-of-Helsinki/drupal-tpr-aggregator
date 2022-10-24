@@ -27080,6 +27080,35 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3576,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "PDF form",
+                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Word form",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -27127,6 +27156,35 @@
                             "type": "INTERNET",
                             "title": "Gå till Ilppa.fi-tjänsten",
                             "url": "https:\/\/ilppa.fi\/alkusivu-sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3576,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Pdf-blankett",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_sv.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Word-blankett",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_sv.docx"
                         }
                     ],
                     "availabilities": [
