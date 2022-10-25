@@ -5313,7 +5313,6 @@
             "type": "APPLICATION",
             "name": "Hakeminen peruskoulujen iltapäivätoimintaan",
             "name_synonyms": "Hakulomake iltapäivätoimintaan",
-            "description": "Hakeminen ja hakuohje",
             "process_description": "Lomake täytetään verkossa tai tulostettavalla lomakkeella.\n\n1 - Iltapäivätoiminnan haku on keväällä maalis-huhtikuussa. Toimintaan voi hakea myös kesken toimintakauden.\n\n2 - Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa kotiosoitteen tai koulun perusteella.\n\n3 - Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\nOhjeet ovat osoitteessa www.hel.fi\/iltapaivatoiminta.\n\n4 - Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena. \n\n5 - Tulostettavan lomakkeen voi myös postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon osoitteeseen Töysänkatu 2 D, 00510 Helsinki. Tulostettava lomake on osoitteessa www.hel.fi\/iltapaivatoiminta.\n\n6 - Hakuaikana hakeneille huoltajille postitetaan päätös heinäkuussa.\n\n7 - Iltapäivätoiminta alkaa lukuvuoden ensimmäisenä päivänä ja jatkuu lukuvuoden loppuun asti. Koulujen loma-aikoina toimintaa ei järjestetä.\n\n8 - Hakuajan ulkopuolella hakemukset lähetetään ensisijaisesti sivun www.hel.fi\/iltapaivatoiminta ohjeiden mukaisesti tai kirjepostina osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.",
             "provided_languages": [
                 "en",
@@ -16846,6 +16845,110 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma 09-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5171,
+        "fi": {
+            "id": 5171,
+            "exact_descriptions": [
+            ],
+            "service_id": 10260,
+            "type": "ADVICE",
+            "name": "Laskutuksen asiakaspalvelu",
+            "description": "Helsingin kaupungin taloushallintopalvelun tuottama laskutuksen asiakaspalvelu palvelee kaupunkilaisia Helsingin kaupungin laskujen maksamiseen liittyvissä asioissa.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "8f584c26-f6bc-4c92-8c1b-ca28cb6373cb"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3594,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Laskutuksen asiakaspalvelun sähköposti",
+                    "email": "talpa.asiakaspalvelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3595,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Laskutuksen puhelinpalvelu",
+                    "phone": "09 310 25300",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3596,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Laskutuksen yhteydenottolomake",
+                    "information": "Lomakkeita käsitellään arkisin.",
+                    "availability_summary": "Palvelu saatavilla ma-pe ympäri vuorokauden",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Avaa yhteydenottolomake",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute\/taloushallintopalvelun-palautelomakkeet\/laskutus-ostolaskut-lomake",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla ma-pe ympäri vuorokauden"
                         }
                     ]
                 }
@@ -29023,7 +29126,6 @@
             "type": "ORDERING",
             "name": "Todistusjäljennös, tilaus",
             "description": "Sähköinen asiointipalvelu, jonka kautta voi tilata vuodesta 1996 alkaen saatujen peruskoulun päättö- ja erotodistusten jäljennöksiä sekä vuodesta 2006 alkaen saatujen lukion päättö- ja erotodistusten jäljennöksiä kasvatuksen ja koulutuksen toimialan arkistosta.",
-            "process_description": "1. Helsingin kaupungin kasvatuksen ja koulutuksen toimiala vastaanottaa tilauksen ja ottaa sen käsittelyyn.\n2. Kun tilaus on merkitty ratkaistuksi, se on valmis ja noudettavissa. Erillistä ilmoitusta ei lähetetä.\n3. Jäljennöksen voi noutaa Kasvatuksen ja koulutuksen toimialan asiakaspalvelupisteestä tai se lähetetään tilauksen tietojen mukaisesti.",
             "processing_time": "Tilauksen käsittely kestää tavallisesti 5-10 päivää.",
             "expiration_time": "Tilaus on voimassa, kunnes todistusjäljennös on tehty tai tilaajaan on oltu yhteydessä.",
             "information": "Uudempia ammattikoulujen todistuksia saa suoraan ammattikouluilta, ennen vuotta 2012 saadut todistukset on siirretty Helsingin kaupunginarkistoon. Stadin ammattiopiston hakutoimisto voi tarvittaessa auttaa todistuksen löytämisessä, puh. 09 310 89318.  \nEnnen vuotta 1996 saatujen peruskoulun päättö- ja erotodistusten jäljennöksiä voi tilata Helsingin kaupunginarkistosta palautejärjestelmän kautta. Vuoden 2005 ja sitä vanhemmat lukion päättötodistukset saa kouluilta. Kaksoiskappaleita ylioppilastodistuksesta voi tilata Ylioppilastutkintolautakunnasta, puh. 0295 338 200.\nKoulua voi etsiä kouluhausta: http:\/\/kore.hel.ninja\n",
@@ -29140,7 +29242,6 @@
             "type": "ORDERING",
             "name": "Requesting copies of certificates",
             "description": "E-service through which you can order copies of certificates from comprehensive school (from 1996 onwards) and upper secondary school (from 2006 onwards) from the archives of City of Helsinki Education Division.",
-            "process_description": "1. The City of Helsinki Education Sector will receive and process the order\n2. The orderer will be notified in the asiointi.hel.fi website when the order is ready.\n3. The copy can be picked up at the Education Sector (Töysänkatu 2 D, Vallila, 00510 Helsinki. Fee: 1 euro, payment by cash only) or it can be sent to an address provided by the orderer.",
             "processing_time": "Processing a request usually takes 5-10 days.",
             "expiration_time": "The order is valid until a copy of the report is made.",
             "information": "You can order more recent certificates of vocational qualification from Helsinki Vocational College, older certificates (before year 2012) have been handed over to the City Archives. If necessary, Helsinki Vocational College and Adult Institute Admissions Office can help you find your certificate.\nYou can order copies of comprehensive school certificates issued before 1996 from the City Archives via Feedback form. Upper secondary school certificates issued before 2006 you get directly from the school. If you need a copy of certificate of matriculation you can order one from the Matriculation Examination Board, Tel. 0295 338 200.\n",
@@ -29210,7 +29311,6 @@
             "type": "ORDERING",
             "name": "Kopior av avgångsbetyg, beställning",
             "description": "E-tjänst via vilken kopior av avgångsbetyg från grundskolan från år 1996 och från gymnasiet från år 2006 och senare år kan beställas från arkivet vid sektorn för fostran och utbildning.",
-            "process_description": "1. Helsingfors stads fostrans- och utbildningssektorn tar emot och behandlar beställningen.\n2. När beställningen är färdig meddelas detta på webbplatsen asiointi.hel.fi\n3. Kopian kan hämtas från Fostrans- och utbildningssektorn (Töysägatan 2 D, Vallila, 00510 Helsingfors. Pris 1 euro, betalning endast med kontanter) eller så skickas kopian till den adress om anges i beställningsuppgifterna.",
             "processing_time": "Handläggningen tar i allmänhet 5-10 dagar.",
             "expiration_time": "Beställningen gäller tills betygskopian har framställts.",
             "information": "Nyare betyg från yrkesläroanstalter får man direkt från skolan, äldre betyg (före år 2012) har redan överläts till Helsingfors stadsarkivet. Vid behov kan Hakutoimisto på Yrkesinstitutet Stadin ammattiopisto hjälpa att hitta betyget. \nKopior av avgångsbetyg utfärdade före 1996 kan man beställa från stadsarkivet (stadsarkivets respons). Kopior av avgångsbetyg från gymnasiet utfärdade före 2006 får man direkt från skolan. Om du behöver en duplikat av studentbetyg du kan beställa det från Studentexamensnämnden, tfn 0295 338 200.\n",
