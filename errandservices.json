@@ -5314,7 +5314,7 @@
             "name": "Hakeminen peruskoulujen iltapäivätoimintaan",
             "name_synonyms": "Hakulomake iltapäivätoimintaan",
             "description": "Hakuohje",
-            "process_description": "Lomake täytetään verkossa tai tulostettavalla lomakkeella.\n\n1 - Iltapäivätoiminnan haku on keväällä maalis-huhtikuussa. Toimintaan voi hakea myös kesken toimintakauden.\n\n2 - Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa karttanäkymästä hakusanalla: iltapäivätoiminta.\n\n3 - Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\nOhjeet ovat osoitteessa www.hel.fi\/iltapaivatoiminta.\n\n4 - Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena. \n\n5 - Tulostettavan lomakkeen voi myös postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon osoitteeseen Töysänkatu 2 D, 00510 Helsinki. Tulostettava lomake on osoitteessa www.hel.fi\/iltapaivatoiminta.\n\n6 - Hakuaikana hakeneille huoltajille postitetaan päätös heinäkuussa.\n\n7 - Iltapäivätoiminta alkaa lukuvuoden ensimmäisenä päivänä ja jatkuu lukuvuoden loppuun asti. Koulujen loma-aikoina toimintaa ei järjestetä.\n\n8 - Hakuajan ulkopuolella hakemukset lähetetään ensisijaisesti sivun www.hel.fi\/iltapaivatoiminta ohjeiden mukaisesti tai kirjepostina osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.",
+            "process_description": "Lomake täytetään verkossa tai tulostettavalla lomakkeella.\n\n1. Iltapäivätoiminnan haku on keväällä maalis-huhtikuussa. Toimintaan voi hakea myös kesken toimintakauden.\n2. Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa karttanäkymästä hakusanalla: iltapäivätoiminta.\n3. Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\nOhjeet ovat osoitteessa www.hel.fi\/iltapaivatoiminta.\n4. Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena.\n5. Tulostettavan lomakkeen voi myös postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon osoitteeseen Töysänkatu 2 D, 00510 Helsinki. Tulostettava lomake on osoitteessa www.hel.fi\/iltapaivatoiminta.\n6. Hakuaikana hakeneille huoltajille postitetaan päätös heinäkuussa.\n7. Iltapäivätoiminta alkaa lukuvuoden ensimmäisenä päivänä ja jatkuu lukuvuoden loppuun asti. Koulujen loma-aikoina toimintaa ei järjestetä.\n8. Hakuajan ulkopuolella hakemukset lähetetään ensisijaisesti sivun www.hel.fi\/iltapaivatoiminta ohjeiden mukaisesti tai kirjepostina osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.",
             "processing_time": "Käsittelyaika 4 kuukautta",
             "provided_languages": [
                 "en",
@@ -19118,8 +19118,8 @@
                     "id": 3454,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Matkailun puhelinneuvonta",
-                    "availability_summary": "Avoinna joka päivä 09-16",
+                    "name": "Matkailuneuvonnan puhelinpalvelu",
+                    "information": "Puhelinpalvelu on avoinna\nMa-la klo 9-16\nSu klo 9-12 ja 13.30-16\n\nTarkista mahdolliset poikkeusaikataulut:\nhttps:\/\/www.myhelsinki.fi\/fi\/info\/matkailuneuvonta",
                     "phone": "+358931013300",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -19134,9 +19134,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä 09-16"
-                        }
                     ]
                 },
                 {
@@ -19144,7 +19141,7 @@
                     "type": "CHAT",
                     "type_string": "Chat",
                     "name": "Matkailuneuvonnan chat",
-                    "availability_summary": "Avoinna joka päivä 09-16",
+                    "information": "Chat-palvelu on avoinna \nMa-la klo 9-16\nSu klo 9-12 ja 13.30-16\n\nTarkista mahdolliset poikkeusaikataulut:\nhttps:\/\/www.myhelsinki.fi\/fi\/info\/matkailuneuvonta\n",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -19165,9 +19162,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä 09-16"
-                        }
                     ]
                 }
             ]
@@ -19201,7 +19195,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Helsinki Tourist Information's telephone service",
-                    "availability_summary": "Open every day 09-16",
+                    "information": "Telephohe service is open \nMon-Sat 9-16\nSun 9-12 and 13.30-16\n\nCheck possible changes at https:\/\/www.myhelsinki.fi\/info\/tourist-information",
                     "phone": "+358931013300",
                     "call_charge_info": "toll free",
                     "provided_languages": [
@@ -19216,9 +19210,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Open every day 09-16"
-                        }
                     ]
                 },
                 {
@@ -19226,7 +19217,7 @@
                     "type": "CHAT",
                     "type_string": "Chat",
                     "name": "Helsinki Tourist Information's chat",
-                    "availability_summary": "Open every day 09-16",
+                    "information": "Chat service is open\nMon-Sat 9-16\nSun 9-12 and 13.30-16\n\nCheck possible changes:\nhttps:\/\/www.myhelsinki.fi\/info\/tourist-information",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -19247,9 +19238,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Open every day 09-16"
-                        }
                     ]
                 }
             ]
@@ -19283,7 +19271,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Helsingfors turistinformation telefontjänst",
-                    "availability_summary": "Öppet varje dag 09-16",
+                    "information": "Telefontjänst är öppen\nMån-lö kl. 9-16\nSö kl. 9-12 och 13.30-16\n\nSe möjliga undantag:\nhttps:\/\/www.myhelsinki.fi\/sv\/info\/turistinformation\n",
                     "phone": "+358931013300",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -19298,9 +19286,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag 09-16"
-                        }
                     ]
                 },
                 {
@@ -19308,7 +19293,7 @@
                     "type": "CHAT",
                     "type_string": "Chatt",
                     "name": "Helsingfors turistinformation chat",
-                    "availability_summary": "Öppet varje dag 09-16",
+                    "information": "Chattjänst är öppen\nMån-lö kl. 9-16\nSö kl. 9-12 och 13.30-16\n\nSe möjliga undantag:\nhttps:\/\/www.myhelsinki.fi\/sv\/info\/turistinformation",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -19329,9 +19314,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag 09-16"
-                        }
                     ]
                 }
             ]
