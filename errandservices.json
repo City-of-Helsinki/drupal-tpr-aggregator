@@ -21605,6 +21605,7 @@
         "fi": {
             "id": 5181,
             "exact_descriptions": [
+                9192
             ],
             "service_id": 11099,
             "type": "ADVICE",
@@ -21631,7 +21632,7 @@
                     "id": 3612,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Yhteys Eteläisen suurpiirin Stadiluotsiin",
+                    "name": "Ota yhteyttä Eteläisen suurpiirin Stadiluotsiin",
                     "email": "jarkko.laaksonen@hel.fi",
                     "provided_languages": [
                     ],
@@ -21892,6 +21893,56 @@
         }
     },
     {
+        "id": 5154,
+        "fi": {
+            "id": 5154,
+            "exact_descriptions": [
+                9193
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä Koillisen suurpiirin Stadiluotsiin",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3577,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ota yhteytta Koillisen suurpiirin Stadiluotsiin",
+                    "email": "kirsti.kallansuo@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5158,
         "fi": {
             "id": 5158,
@@ -21914,26 +21965,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3582,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Facebook-sivu",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3603,
                     "type": "EMAIL",
@@ -21965,6 +21996,7 @@
         "fi": {
             "id": 5157,
             "exact_descriptions": [
+                9189
             ],
             "service_id": 11099,
             "type": "ADVICE",
@@ -21984,30 +22016,10 @@
             ],
             "channels": [
                 {
-                    "id": 3614,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Yhteys Pohjoisen suurpiirin ja Kaarelan Stadiluotsiin",
-                    "email": "anni.salla@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 3616,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Yhteys Pohjoisen suurpiirin ja Kaarelan Stadiluotsiin",
+                    "name": "Ota yhteyttä Pohjoisen suurpiirin ja Kaarelan Stadiluotsiin",
                     "email": "anni.salla@hel.fi",
                     "provided_languages": [
                     ],
