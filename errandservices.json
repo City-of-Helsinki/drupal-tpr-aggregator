@@ -1232,31 +1232,6 @@
             ],
             "channels": [
                 {
-                    "id": 2909,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Huoltopuhelin",
-                    "availability_summary": "Avoinna ma-pe 09-15",
-                    "phone": "09 310 46837",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-15"
-                        }
-                    ]
-                },
-                {
                     "id": 3037,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
@@ -5313,8 +5288,7 @@
             "type": "APPLICATION",
             "name": "Hakeminen peruskoulujen iltapäivätoimintaan",
             "name_synonyms": "Hakulomake iltapäivätoimintaan",
-            "description": "Hakuohje",
-            "process_description": "Lomake täytetään verkossa tai tulostettavalla lomakkeella.\n\n1. Iltapäivätoiminnan haku on keväällä maalis-huhtikuussa. Toimintaan voi hakea myös kesken toimintakauden.\n2. Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa karttanäkymästä hakusanalla: iltapäivätoiminta.\n3. Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\nOhjeet ovat osoitteessa www.hel.fi\/iltapaivatoiminta.\n4. Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena.\n5. Tulostettavan lomakkeen voi myös postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon osoitteeseen Töysänkatu 2 D, 00510 Helsinki. Tulostettava lomake on osoitteessa www.hel.fi\/iltapaivatoiminta.\n6. Hakuaikana hakeneille huoltajille postitetaan päätös heinäkuussa.\n7. Iltapäivätoiminta alkaa lukuvuoden ensimmäisenä päivänä ja jatkuu lukuvuoden loppuun asti. Koulujen loma-aikoina toimintaa ei järjestetä.\n8. Hakuajan ulkopuolella hakemukset lähetetään ensisijaisesti sivun www.hel.fi\/iltapaivatoiminta ohjeiden mukaisesti tai kirjepostina osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.",
+            "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toimintaan voi hakea myös kesken toimintakauden. Toiminta on maksullista ja sitä toteutetaan perusopetuslain mukaisesti.\n\n2 - Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa hakusanalla: iltapäivätoiminta.\n\n3 - Hakulomake täytetään verkossa ja allekirjoitetaan vahvalla tunnistautumisella. Jos ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.\n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja.\n\nTarkemmat ohjeet hakemiseen löydät osoitteesta: hel.fi\/iltapaivatoiminta\n",
             "processing_time": "Käsittelyaika 4 kuukautta",
             "provided_languages": [
                 "en",
@@ -25543,7 +25517,8 @@
                 8917,
                 8918,
                 8926,
-                8928
+                8928,
+                9217
             ],
             "service_id": 10087,
             "type": "ADVICE",
