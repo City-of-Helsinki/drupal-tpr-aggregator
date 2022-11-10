@@ -2179,232 +2179,6 @@
         }
     },
     {
-        "id": 5147,
-        "fi": {
-            "id": 5147,
-            "exact_descriptions": [
-                9119
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Asumisterveysneuvonta",
-            "name_synonyms": "asuminen, asumisterveys, neuvonta",
-            "description": "Neuvomme sinua asuntosi sisäilma- ja meluhaitta-asioissa puhelimitse ja sähköpostitse.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3567,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Asumisterveysneuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 09-15",
-                    "phone": "+358 9 310 15000",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma, ke-to 09-12"
-                        },
-                        {
-                            "availability_string": "Avoinna ti 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 3568,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Asumisterveysneuvonnan sähköpostiosoite",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5147,
-            "exact_descriptions": [
-                9119
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Housing health advisory service",
-            "description": "We advise you on matters related to indoor air and noise nuisances in your home by telephone and email.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3567,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Housing health advisory service, telephone service",
-                    "availability_summary": "Open Mon, Wed-Thu 09-12, Tue 09-15",
-                    "phone": "+358 9 310 15000",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon, Wed-Thu 09-12"
-                        },
-                        {
-                            "availability_string": "Open Tue 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 3568,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Housing health advisory service, email address",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5147,
-            "exact_descriptions": [
-                9119
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Rådgivning om boendehälsa",
-            "description": "Vi ger dig råd kring problem med inomhusluften eller bullerolägenheter i bostaden per telefon och via e-post.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3567,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Telefontjänst för rådgivning om boendehälsa",
-                    "availability_summary": "Öppet mån, ons-tor 09-12, tis 09-15",
-                    "phone": "+358 9 310 15000",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån, ons-tor 09-12"
-                        },
-                        {
-                            "availability_string": "Öppet tis 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 3568,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "E-postadress för rådgivning om boendehälsa",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 1029,
         "fi": {
             "id": 1029,
@@ -5515,7 +5289,6 @@
             "name": "Hakeminen peruskoulujen iltapäivätoimintaan",
             "name_synonyms": "Hakulomake iltapäivätoimintaan",
             "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toimintaan voi hakea myös kesken toimintakauden. Toiminta on maksullista ja sitä toteutetaan perusopetuslain mukaisesti.\n\n2 - Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa hakusanalla: iltapäivätoiminta.\n\n3 - Hakulomake täytetään verkossa ja allekirjoitetaan vahvalla tunnistautumisella. Jos ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.\n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja.\n\nTarkemmat ohjeet hakemiseen löydät osoitteesta: hel.fi\/iltapaivatoiminta\n",
-            "processing_time": "Käsittelyaika 4 kuukautta",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5618,7 +5391,6 @@
             "name": "Applying for afternoon activities at school",
             "description": "Application and instructions",
             "process_description": "Submit an application online or send us a printed paper application by post. \n\n1 - The application period for afternoon activities is during spring.\n\n2 - The application should be submitted online. Invoice will be addressed to the guardian whose online banking credentials are used for identification and filling in the application form. See the instructions at www.hel.fi\/afternoonactivities\n\n3 - When submitting the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature.\n\n4 - A printed paper application can be posted to the Education Division at: Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki. You can also deliver your application to our letterbox at Töysänkatu 2 D, 00510 Helsinki. Find the printable form at www.hel.fi\/afternoonactivities \n\n5 - The decisions on afternoon activities will be posted to guardians in July.\n\n6 - Afternoon activities start on the first day of the school year and continue until the end of the school year. \n\n7 - Application outside the application period should primarily be submitted according to the instructions, www.hel.fi\/afternoonactivities, or posted to Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki\n",
-            "processing_time": "4 months",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5684,7 +5456,6 @@
             "name": "Ansökan till skolornas eftermiddagsverksamhet",
             "description": "Ansökan och anvisningar",
             "process_description": "Blanketten fylls i på nätet. Du kan även skriva ut blanketten och skicka ansökan per post.\n\n1 - Ansökningstiden för eftermiddagsverksamheten är på våren.\n\n2 - Ansökningsblanketten fylls i på nätet. Räkningen för eftermiddagsverksamheten skickas till den vårdnadshavare vars nätbankskoder använts för att fylla i blanketten. Anvisningar finns på adressen www.hel.fi\/eftisverksamhet\n\n3 - För att sända blanketten måste du identifiera dig med nätbankskoder, Mobil ID eller med ett identitetskort med chip. Identifieringen fungerar som underskrift för blanketten.\n\n4 - Ansökningsblanketten kan också skickas till: Fostrans- och utbildningssektorn, Eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad eller läggas i postlådan på adressen Töysägatan 2 D, 00510 Helsingfors. En utskrivningsbar blankett finns på adressen www.hel.fi\/eftisverksamhet.\n\n5 - Beslutet om en plats i eftermiddagsverksamhet postas till vårdnadshavarna i juli.\n\n6 - Eftermiddagsverksamheten börjar läsårets första dag och fortsätter till läsårets slut.\n\n7 - Utanför ansökningstiden ska ansökan till skolornas eftermiddagsverksamhet i första hand göras enligt instruktionerna (www.hel.fi\/eftisverksamhet) eller skickas per post till adressen Fostrans- och utbildningssektorn, Eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad.\n",
-            "processing_time": "4 månader",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12922,6 +12693,215 @@
                 }
             ]
         }
+    },
+    {
+        "id": 913,
+        "fi": {
+            "id": 913,
+            "exact_descriptions": [
+                3641,
+                7483
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kasvatus ja koulutus, toiminta-avustushakemus koululaisten iltapäivätoiminnan järjestäjille, asiointipalvelu",
+            "description": "Voit hakea avustusta sähköisesti tai pdf-lomakkeella.",
+            "process_description": "Ota ensin yhteyttä kasvatuksen ja koulutuksen toimialan koululaisten aamu- ja iltapäivätoiminnan yksikön palvelupäällikköön ja sovi toiminnan mahdollisesta käynnistämisestä. \n\nToimita hakemus hakuaikana, joka on vuosittain tammikuussa. Tarkempi hakuaika julkaistaan vuosittain joulukuun alkupuolella Helsingin kaupungin avustuskuulutuksessa. Voit täydentää hakemusta ja toimittaa hakemuksen liitteitä hakuajan jälkeen sähköisen asiointipalvelun kautta tai postitse.\n\n1. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen avustussummasta. \n\n2. Päätöksen toiminta-avustuksen myöntämisen periaatteista tekee kasvatus- ja koulutuslautakunta.\n\n3. Järjestökohtaiset maksatuspäätökset tekee hallintopäällikkö. \n\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.\n\n5. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Käyttöselvitys on tehtävä, vaikka avusta ei haettaisi enää seuraavana vuonna.",
+            "processing_time": "Noin kolme kuukautta.",
+            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se perutaan. ",
+            "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\n\nLisätietoja antavat:\n\nToimintaan liittyen\nPalvelupäällikkö\nLeena Palve-Kaunisto\npuh. 09 310 86809\nleena.palve@hel.fi\n\nTalouteen ja avustusten hakuun liittyen\nLaskentasuunnittelija\nHanna Keränen\npuh. 09 310 86338\nhanna.keranen@hel.fi",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Anna palautetta",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 915,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Kasvatus ja koulutus, toiminta-avustushakemus koululaisten iltapäivätoiminnan järjestäjille",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Toiminta-avustushakemus koululaisten iltapäivätoiminnan järjestäjille",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Toiminta-avustushakemuslomake",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/toiminta_avustushakemus_ip.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 913,
+            "exact_descriptions": [
+                3641,
+                7483
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Education, operating grant application for organisers of afternoon activities for school children, service channels",
+            "description": "Apply for a grant online or by filling in a pdf form.",
+            "process_description": "First, contact the service manager at the Education Division after-school activities unit and agree on the possible start of operations.\n\nSubmit your application by the application deadline, which is in January each year. Further details of the application period are published in the City's annual public notice for grant applications in early December. You can complete the application and submit any attachments after the deadline via the e-service or by post.\n\n1. Education Division will process the application and propose the amount of the grant. \n\n2. Education and Training Committee decides on the principles for awarding the grant.\n\n3. Head of Administration makes decisions on payments to individual associations and organisations.\n\n4. The decision is sent to the applicant and the grant is paid into the applicant's bank account in accordance with the City's grant guidelines.\n\n5. A report on the use of the grant must be submitted with the following year's application. The report must be submitted even if the grant is not applied for in the following year.",
+            "processing_time": "Approximately three months.",
+            "expiration_time": "The application sent is valid until the decision is made or the application is withdrawn.",
+            "information": "The grant may only be used for the purpose for which it was awarded and may not be redistributed.\n\nFor further information, please contact:\n\nEnquiries on the operations and after-school activities\nService Manager\nLeena Palve-Kaunisto\nTel. 09 310 86809\nleena.palve@hel.fi\n\nEnquiries on finances and grant applications\nAccountant\nHanna Keränen\nTel. 09 310 86338\nhanna.keranen@hel.fi\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Give feedback",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 915,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Education, grant application for organisers of after-school activities for school children",
+                    "prerequisites": "To use the service, you need to identify with online banking credentials or mobile ID.",
+                    "availability_summary": "Service available every day around the clock",
+                    "process_description": "Once you have completed the grant application, you can save it as a draft in your personal service folder or submit it to the grant processing system. You can follow the progress of the application in your personal service folder under 'Tapahtumat' (Actions).\nIf the application is in the 'Vastaanotettu' (Received) status, the application can be edited. When the application is in the 'Käsittely' (Processing) status, it can no longer be edited. An updated application will replace a previously submitted application. Attachments can be sent using the 'Viesti' (Message) feature up until the deadline. In the Tapahtumat' (Actions) section you can see the contact details of the person processing the application.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Give feedback",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Go to the e-service",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0wwkpiAJKG-AAjgb6wWmZQDOiCCkryI2o8HRUVAQA6JeR1Q!!\/dz\/d5\/L0lHSkovd0RNQUprQUVnQSEhLzROVkUvZW4!\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Grant application for organisers of after-school activities for schoolchildren",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grant application form (in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/toiminta_avustushakemus_ip.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": [
+        ]
     },
     {
         "id": 920,
@@ -21603,6 +21583,232 @@
         }
     },
     {
+        "id": 5147,
+        "fi": {
+            "id": 5147,
+            "exact_descriptions": [
+                9119
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä asumisterveyden asiakaspalveluun",
+            "name_synonyms": "asuminen, asumisterveys, neuvonta",
+            "description": "Neuvomme sinua asuntosi sisäilma- ja meluhaitta-asioissa puhelimitse ja sähköpostitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3567,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Asumisterveysneuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 09-15",
+                    "phone": "+358 9 310 15000",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, ke-to 09-12"
+                        },
+                        {
+                            "availability_string": "Avoinna ti 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3568,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Asumisterveysneuvonnan sähköpostiosoite",
+                    "email": "kymp.asumisterveys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5147,
+            "exact_descriptions": [
+                9119
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Contact housing health advisory service",
+            "description": "We advise you on matters related to indoor air and noise nuisances in your home by telephone and email.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3567,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Housing health advisory service, telephone service",
+                    "availability_summary": "Open Mon, Wed-Thu 09-12, Tue 09-15",
+                    "phone": "+358 9 310 15000",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon, Wed-Thu 09-12"
+                        },
+                        {
+                            "availability_string": "Open Tue 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3568,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Housing health advisory service, email address",
+                    "email": "kymp.asumisterveys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5147,
+            "exact_descriptions": [
+                9119
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Kontakta rådgivningen om boendehälsa",
+            "description": "Vi ger dig råd kring problem med inomhusluften eller bullerolägenheter i bostaden per telefon och via e-post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3567,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefontjänst för rådgivning om boendehälsa",
+                    "availability_summary": "Öppet mån, ons-tor 09-12, tis 09-15",
+                    "phone": "+358 9 310 15000",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån, ons-tor 09-12"
+                        },
+                        {
+                            "availability_string": "Öppet tis 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3568,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postadress för rådgivning om boendehälsa",
+                    "email": "kymp.asumisterveys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5181,
         "fi": {
             "id": 5181,
@@ -26653,6 +26859,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Sähköinen Wilma-järjestelmä",
             "description": "Sähköinen Wilma-järjestelmä kodin ja koulun väliseen yhteydenpitoon. Wilmaan tarvitaan käyttäjätunnukset.",
+            "process_description": "Voit ilmoittaa lapsesi aamupäivätoimintaan elokuussa, kun lukuvuosi on alkanut ja lukujärjestykset ovat valmistuneet.\n\nIlmoita lapsesi aamupäivätoimintaan Wilmassa seuraavasti:\n\n1. Kirjaudu Wilmaan . Jos sinulla on useampi lapsi Wilmassa, valitse kenet olet ilmoittamassa aamupäivätoimintaan.\n2. Valitse Wilman ylävalikosta \"Hakemukset ja päätökset\"\n3. Valitse \"Tee uusi hakemus\"\n4. Valitse \"Aamupäivätoimintaan ilmoittautuminen\"\n5. Täytä hakemuksen tiedot ja tallenna.\nKun olet ilmoittanut lapsesi aamupäivätoimintaan yllä olevan ohjeen mukaisesti, saat koululta tarkemmat tiedot aamupäivätoiminnan järjestelyistä.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26676,7 +26883,7 @@
                     "id": 1405,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Wilma-verkkopalvelu",
+                    "name": "Wilma-järjestelmä",
                     "prerequisites": "Wilmaan tarvitaan käyttäjätunnukset.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "provided_languages": [
@@ -26695,12 +26902,6 @@
                             "type": "FORM",
                             "title": "Wilma, kirjautuminen",
                             "url": "https:\/\/helsinki.inschool.fi\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kasvatuksen ja koulutuksen toimialalle",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
                             "file_format": "HTML"
                         }
                     ],
