@@ -12900,8 +12900,108 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 913,
+            "exact_descriptions": [
+                3641,
+                7483
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Fostran- och utbildningssektor, understöd till organisationer som arrangerar lagstadgad eftermiddagsverksamhet, ärendehanteringstjänst",
+            "description": "Du kan ansöka om understöd elektorniskt eller med pdf-blankett.",
+            "process_description": "Ta först kontakt med enhetschefen för skolelevers eftermiddagsverksamhet vid fostrans- och utbildningssektorn och kom överens om eventuell start av verksamhet.\n\nSkicka in ansökan under ansökningstiden som inträffar årligen i januari. Noggrannare tidtabell utlyses årligen i Helsingfors stads bidragskungörelser i början av december. Du kan komplettera ansökan och skicka in bilagor efter ansökningstiden via e-tjänsten eller per post.\n\n1. Fostrans- och utbildningssektorn behandlar ansökningarna och gör ett förslag gällande understödssummorna. \n\n2. Understödet beviljas på de grunder som fostrans- och utbildningsnämnden slagit fast.\n\n3. Beslutet om utbetalningen av understödet till de enskilda organisationerna fattas av förvaltningschefen. \n\n4. Sökanden informeras om beslutet och ett beviljat understöd betalas på den sökande organisationens bankkonto.\n\n5. En redogörelse över hur understödet har använts ska lämnas i samband med att man ansöker om understöd följande år. Redogörelsen ska lämnas in även om man inte ansöker om understöd följande år.",
+            "processing_time": "Cirka 3 månader.",
+            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka. ",
+            "information": "Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\nTilläggsinformation:\n\nGällande verksamheten:\nChef för morgon- och eftermiddagsverksamheten\nLeena Palve-Kaunisto\ntel. 09 310 86809\nleena.palve@hel.fi\n\nGällande ekonomi och ansökan av understöd\nRedovisningsplanerare\nHanna Keränen\ntel. 09 310 86338\nhanna.keranen@hel.fi",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ge respons",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 915,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Fostran och utbildning, understöd till organisationer som arrangerar lagstadgad eftermiddagsverksamhet",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Ge respons",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Verksamhetsunderstöd för eftermiddagsverksamhet för skolelever, ansökan",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökanblankett på finska",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/toiminta_avustushakemus_ip.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 920,
