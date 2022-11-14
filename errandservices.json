@@ -28330,7 +28330,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Ingå ett placering avtal för bergvärme i allmänna områden",
-            "description": "Du behöver ett placerings avtal med staden om bergvärmebrunnar lutas mot eller byggs i ett allmänt område. I utredningen av byggbarhet får du information om att ingå ett placerings- och arrendeavtal med staden.\n\nIngå ett placerings- och arrendeavtal innan du ansöker om bygglov eller åtgärdstillstånd. Bifoga tillståndsansökan det godkända avtalet.\n\nOm du behöver arrendeavtal, ta kontakt med: tonttivalvonta@hel.fi.\n\nMer information om placering av en bergvärmebrunn i ett allmänt område: kymp.maalampo@hel.fi.\n",
+            "description": "Du behöver ett placerings avtal med staden om bergvärmebrunnar lutas mot eller byggs på ett allmänt område. I byggbarhetsutredningen får du information om att ingå ett placerings- och arrendeavtal med staden.\n\nIngå ett placerings- och arrendeavtal innan du ansöker om bygglov eller åtgärdstillstånd. Bifoga tillståndsansökan det godkända avtalet.\n\nOm du behöver arrendeavtal, ta kontakt med: tonttivalvonta@hel.fi.\n\nMer information om placering av en bergvärmebrunn på ett allmänt område: kymp.maalampo@hel.fi.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -29454,9 +29454,9 @@
             ],
             "service_id": 10634,
             "type": "PERMISSION",
-            "name": "Beställ utredning av byggbarhet av en bergvärmebrunn",
-            "description": "I utredningen av byggbarhet av en bergvärmebrunn får du veta om det under objektområdet finns underjordiska utrymmen, konstruktioner, platsreserveringar eller ledningar som kan påverka planerna för bergvärme. Eller om fastigheten ligger i ett grundvatten-, naturskydds- eller fornminnesområde som kan hindra byggandet av bergvärmesystem.\n\nDu behöver en utredning av byggbarhet av en bergvärmebrunn för ansökan om bygglov eller åtgärdstillstånd för projektet.\n",
-            "information": "När du beställer en utredning av byggbarhet för en småhustomt, bifoga beställningen en kartritning där det har markerats platserna för planerade bergvärmebrunnar. Av kartan ska framgå fastigheten och dess gränser. \n\nBeställ för tomter för flervåningshus först en förhandsförfrågning, där det utreds om byggande av bergvärmesystem är möjligt för fastigheten. När en mer detaljerad plan är färdig, beställ en utredning av byggbarhet. Bifoga beställningen en situationsplan där det har markerats platserna för och uppgifterna om djup samt riktnings- och lutningsvinklar.\n\nFör beställningen behöver du följande uppgifter:\n- den sökandes e-postadress och telefonnummer\n- gatuadress och fastighetsbeteckning.\n",
+            "name": "Beställ byggbarhetsutredning av en bergvärmebrunn",
+            "description": "I byggbarhetsutredningen av en bergvärmebrunn får du veta om det under objektområdet finns underjordiska utrymmen, konstruktioner, platsreserveringar eller ledningar som kan påverka planerna för bergvärme. Eller om fastigheten ligger på ett grundvatten-, naturskydds- eller fornminnesområde som kan hindra byggandet av bergvärmesystem.\n\nDu behöver en byggbarhetsutreding av en bergvärmebrunn för bygglovansökan eller åtgärdstillstånd för projektet.\n",
+            "information": "När du beställer en byggbarhetsuttredning för en småhustomt, bifoga beställningen en kartritning där det har markerats platserna för planerade bergvärmebrunnar. Av kartan ska framgå fastigheten och dess gränser. \n\nBeställ för tomter för flervåningshus först en förhandsförfrågning, där det utreds om byggande av bergvärmesystem är möjligt för fastigheten. När en mer detaljerad plan är färdig, beställ en byggbarhetsutredning. Bifoga beställningen en situationsplan där det har markerats platserna för och uppgifterna om djup samt riktnings- och lutningsvinklar.\n\nFör beställningen behöver du följande uppgifter:\n- den sökandes e-postadress och telefonnummer\n- gatuadress och fastighetsbeteckning.\n",
             "provided_languages": [
                 "fi"
             ],
@@ -29477,7 +29477,7 @@
                     "id": 3470,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Beställ utredning av byggbarhet",
+                    "name": "Beställ byggbarhetsutredning",
                     "provided_languages": [
                         "fi"
                     ],
