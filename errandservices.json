@@ -11725,10 +11725,110 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5132,
+            "exact_descriptions": [
+                3622
+            ],
+            "service_id": 10900,
+            "type": "APPLICATION",
+            "name": "Extend the validity of a business parking permit",
+            "description": "When applying for a business parking permit, please provide us with the following information:\n- the vehicle license plate numbers and the company's business ID\n- the time period for which the company would like to buy a permit \n\nIf the car is owned by or in the possession of a company employee, also provide a certificate of the employment relationship and the most recent payslip or an extract from the Finnish Incomes Register, showing the kilometre allowance paid for use of the car for work.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Urban Environment Division, Customer Services",
+                    "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3548,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail",
+                    "email": "kymp.pysakointitunnus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5132,
+            "exact_descriptions": [
+                3622
+            ],
+            "service_id": 10900,
+            "type": "APPLICATION",
+            "name": "Förläng giltighetstiden för företagsparkeringstillståndet",
+            "description": "När du ansöker om parkeringstillstånd ber vi dig lämna in\n- fordonets registernummer och företagets FO-nummer\n- information om vilken tidsperiod tillståndet söks för. \n\nOm fordonet ägs eller innehas av en företagsanställd, ska du dessutom lämna in intyg om anställning och den senaste lönespecifikationen eller inkomstregisterutdraget där kilometerersättningen för användning av bilen specificeras.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Stadsmiljösektorns kundtjänst",
+                    "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3548,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-post",
+                    "email": "kymp.pysakointitunnus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2812,
