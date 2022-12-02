@@ -23,17 +23,26 @@ final class ServiceClient
         }
     }
 
-    public function get(string $endpoint, int $id, string $language): array
+    public function get(string $endpoint, int $id, string $language, int $attempt = 0): array
     {
         $this->assertEndpoint($endpoint);
 
-        try {
-            $response = $this->httpClient->request('GET', "$endpoint/$id", [
-                'query' => ['language' => $language],
-            ]);
+        if ($attempt < 2) {
+            try {
+                $response = $this->httpClient->request('GET', "$endpoint/$id", [
+                    'query' => ['language' => $language],
+                    'headers' => ['accept' => 'application/json'],
+                ]);
 
-            return Utils::jsonDecode($response->getBody()->getContents(), true);
-        } catch (RequestException $e) {
+                return Utils::jsonDecode($response->getBody()->getContents(), true);
+            } catch (RequestException $e) {
+                if ($e->getResponse()->getStatusCode() === 404) {
+                    return [];
+                }
+                printf('Failed to fetch %s. Attempting again...', "$endpoint/$id");
+                // Attempt to re-fetch data again.
+                return $this->get($endpoint, $id, $language, ++$attempt);
+            }
         }
         return [];
     }
@@ -45,6 +54,7 @@ final class ServiceClient
 
         $response = $this->httpClient->request('GET', "$endpoint/", [
             'query' => $query,
+            'headers' => ['accept' => 'application/json'],
         ]);
 
         return Utils::jsonDecode($response->getBody()->getContents(), true);
