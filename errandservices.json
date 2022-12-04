@@ -1,5 +1,68 @@
 [
     {
+        "id": 5195,
+        "fi": {
+            "id": 5195,
+            "exact_descriptions": [
+                7574
+            ],
+            "service_id": 10104,
+            "type": "APPLICATION",
+            "name": "Aamupäivätoimintaan ilmoittautuminen Wilmassa",
+            "name_synonyms": "Wilma",
+            "description": "Wilmaa käytetään kodin ja koulun väliseen yhteydenpitoon. Wilman käyttäjätunnukset saat koululta. Voit ilmoittaa lapsesi aamupäivätoimintaan aikaisintaan elokuussa, kun lukuvuosi on alkanut.",
+            "process_description": "Voit ilmoittaa lapsesi aamupäivätoimintaan elokuussa, kun lukuvuosi on alkanut ja lukujärjestykset ovat valmistuneet.\n\nIlmoita lapsesi aamupäivätoimintaan Wilmassa seuraavasti:\n\n1. Kirjaudu Wilmaan. Jos sinulla on useampi lapsi Wilmassa, valitse kenet olet ilmoittamassa aamupäivätoimintaan.\n2. Valitse Wilman ylävalikosta \"Hakemukset ja päätökset\"\n3. Valitse \"Tee uusi hakemus\"\n4. Valitse \"Aamupäivätoimintaan ilmoittautuminen\"\n5. Täytä hakemuksen tiedot ja tallenna.\n\nKun olet ilmoittanut lapsesi aamupäivätoimintaan yllä olevan ohjeen mukaisesti, saat koululta tarkemmat tiedot aamupäivätoiminnan järjestelyistä.",
+            "costs": "Aamupäivätoiminta on maksutonta.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3625,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Wilma",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Wilma-järjestelmä",
+                            "url": "http:\/\/helsinki.inschool.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5057,
         "fi": {
             "id": 5057,
@@ -2610,7 +2673,7 @@
             "type": "ADVICE",
             "name": "Elintarvikeneuvonta",
             "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
-            "description": "Tietoa ja neuvontaa elintarvikkeisiin liittyvissä asioissa sähköpostitse ja puhelimitse.",
+            "description": "Tietoa ja neuvontaa elintarvikkeisiin liittyvissä asioissa sähköpostitse ja puhelimitse. HUOM! Maanantaina 12.12.2022 ei ole puhelinneuvontaa, mutta tavoitat meidät sähköpostitse.\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -2681,7 +2744,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Advisory service on food issues",
-            "description": "Information and advice on food-related issues by email and telephone.",
+            "description": "Information and advice on food-related issues by email and telephone. NOTE! On Monday 12 December 2022, there will be no telephone service, but you can contact us by email.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -2752,7 +2815,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Livsmedelsrådgivning",
-            "description": "Information och rådgivning om livsmedelsärenden via e-post och per telefon.",
+            "description": "Information och rådgivning om livsmedelsärenden via e-post och per telefon. OBS! Måndagen 12.12.2022 blir det ingen telefonkonsultation, men du kan kontakta oss via e-post.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5564,242 +5627,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 4295,
-        "fi": {
-            "id": 4295,
-            "exact_descriptions": [
-                2772,
-                6041,
-                6061,
-                7456,
-                7457,
-                7573
-            ],
-            "service_id": 10104,
-            "type": "APPLICATION",
-            "name": "Hakeminen peruskoulujen iltapäivätoimintaan",
-            "name_synonyms": "Hakulomake iltapäivätoimintaan",
-            "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toiminta on maksullista ja sitä toteutetaan perusopetuslain mukaisesti.\n\n2 - Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa hakusanalla: iltapäivätoiminta.\n\n3 - Hakulomake täytetään verkossa ja allekirjoitetaan vahvalla tunnistautumisella. Jos ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.\n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja. Huoltajaan ollaan yhteydessä jos lapselle järjestyy paikka alueen iltapäivätoiminnasta. \n\nTarkemmat ohjeet hakemiseen löydät osoitteesta: hel.fi\/iltapaivatoiminta\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "CHILDREN_AND_FAMILIES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Hakeminen koulun iltapäivätoimintaan",
-                    "url": "https:\/\/www.hel.fi\/iltapaivatoiminta"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Iltapäivätoimintapaikat palvelukartalla",
-                    "url": "https:\/\/palvelukartta.hel.fi\/fi\/search?q=iltap%C3%A4iv%C3%A4toiminta"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2943,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Sähköinen hakulomake perusopetuksen iltapäivätoimintaan",
-                    "prerequisites": "Perusopetuksen iltapäivätoimintaan voivat hakea 1.-2. -vuosiluokkien oppilaat sekä kaikkien vuosiluokkien osalta erityistä tukea saavat oppilaat.",
-                    "process_description": "1. Iltapäivätoimintaan haetaan 6.3.-1.5.2023. Hakuajan ulkopuolella katso viimeinen kohta.\n\n2. Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\n\n3. Täytä lomake huolellisesti. Jos lomakkeelta puuttuu pakollisia tietoja sitä ei voi lähettää.\n\n4. Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena.\n\n5. Hakuajan ulkopuolella hakemukset koulujen iltapäivätoimintaan toimitetaan osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.\n",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Sähköinen hakulomake ",
-                            "url": "https:\/\/lomake.hel.fi\/iltapaivatoiminta",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3620,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hakulomake perusopetuksen iltapäivätoimintaan",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2022-2023",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/ip-toiminta\/perusopetuksen_iltapaivatoiminta2022-2023.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2023-2024",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/popa\/Hakulomake-iptoiminta.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4295,
-            "exact_descriptions": [
-                2772,
-                6041,
-                6061,
-                7573
-            ],
-            "service_id": 10104,
-            "type": "APPLICATION",
-            "name": "Applying for afternoon activities at school",
-            "process_description": "Submit an application online or send us a printed paper application by post. \n\n1 - The application period for afternoon activities is during spring.\n\n2 - The application should be submitted online. Invoice will be addressed to the guardian whose online banking credentials are used for identification and filling in the application form. See the instructions at www.hel.fi\/afternoonactivities\n\n3 - When submitting the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature.\n\n4 - A printed paper application can be posted to the Education Division at: Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki. You can also deliver your application to our letterbox at Töysänkatu 2 D, 00510 Helsinki. Find the printable form at www.hel.fi\/afternoonactivities \n\n5 - The decisions on afternoon activities will be posted to guardians in July.\n\n6 - Afternoon activities start on the first day of the school year and continue until the end of the school year. \n\n7 - Application outside the application period should primarily be submitted according to the instructions, www.hel.fi\/afternoonactivities, or posted to Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "CHILDREN_AND_FAMILIES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Applying for afternoon activities at school",
-                    "url": "https:\/\/www.hel.fi\/afternoonactivities"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2943,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Electronic application form for afternoon activities at school",
-                    "prerequisites": "Afternoon activities specified in Chapter 8 a of the Basic Education Act are available to first and second grade pupils at comprehensive schools in Helsinki and also to pupils of all grades who receive special support.",
-                    "process_description": "Enrolment and application instructions\n\n1. The application period for afternoon activities organised at schools is 22 March-23 April 2021. \n\n2. The application should be submitted online. Invoice will be addressed to the guardian whose online banking credentials are used for identification and filling in the application form.\n\n3. Fill in the application form carefully. If there is any required information missing, you will not be able to submit the application.\n\n4. When submitting the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature.\n\n5. Outside the application period applications for schools' afternoon activities should be sent to the address Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki.\n",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Electronic application form",
-                            "url": "https:\/\/lomake.hel.fi\/afternoonactivities",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4295,
-            "exact_descriptions": [
-                2772,
-                6041,
-                7573
-            ],
-            "service_id": 10104,
-            "type": "APPLICATION",
-            "name": "Ansökan till skolornas eftermiddagsverksamhet",
-            "process_description": "Ansökan till eftermiddagsverksamhet inom den grundläggande utbildningen\n\n1 - Ansökan till eftermiddagsverksamhet är öppen på våren. Verksamheten är avgiftsbelagd, och den genomförs enligt lagen om grundläggande utbildning.\n\n2 - På servicekartan kan du söka ett lämpligt verksamhetsställe för eftermiddagsverksamhet med sökordet \"eftermiddagsverksamhet\".\n\n3 - Ansökningsblanketten fylls i på nätet och undertecknas med stark identifiering. Om du inte har möjlighet att fylla i webblanketten, kan du söka till verksamheten också med en pappersblankett.\n\n4 - Till de personer som gjort ansökan under ansökningstiden postas besluten i juli. \n\n5 - Ansökningar som kommit in efter ansökningstiden behandlas under verksamhetsperioden med beaktande av platssituationen. Om platserna ges inga mellanuppgifter.\n\nMer information om ansökan hittar du på https:\/\/www.hel.fi\/helsinki\/sv\/fostran-och-utbildning\/grundskolor\/morgon-eftermiddagsverksamhet\/eftermiddags.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "CHILDREN_AND_FAMILIES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ansökan till skolans eftermiddagsverksamhet",
-                    "url": "https:\/\/www.hel.fi\/eftisverksamhet"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2943,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Elektronisk ansökningsblankett till skolans eftermiddagsverksamhet",
-                    "prerequisites": "Den eftermiddagsverksamhet som arrangeras enligt kapitel 8 a i lagen om grundläggande utbildning är avsedd för elever i årskurserna 1-2 och för elever i samtliga årskurser som får särskilt stöd i grundskolorna i Helsingfors. Vårdnadshavarna kan ansöka om plats för sitt barn i den här verksamheten.",
-                    "process_description": "1. Ansökningstiden för eftermiddagsverksamheten är 22.3−23.4.2021. \n\n2. Ansökningsblanketten fylls i på nätet. Räkningen för eftermiddagsverksamheten skickas till den vårdnadshavare vars nätbankskoder använts för att fylla i blanketten.\n\n3. Fyll i blanketten noggrant. Om blanketten saknar obligatorisk information kan den inte sändas.\n\n4. För att sända blanketten måste du identifiera dig med nätbankskoder, Mobil ID eller med ett identitetskort med chip. Identifieringen fungerar som underskrift för blanketten.\n\n5. Utanför ansökningstiden ska ansökan till skolornas eftermiddagsverksamhet lämnas in på adressen Sektorn för fostran och utbildning, eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Elektronisk ansökningsblankett",
-                            "url": "https:\/\/lomake.hel.fi\/eftisverksamhet",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -12967,7 +12794,7 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Kasvatus ja koulutus, iltapäivätoiminnan harkinnanvarainen lisäavustushakemus",
+            "name": "Kasvatus ja koulutus, iltapäivätoiminnan harkinnanvarainen lisäavustushakemus, asiointipalvelu",
             "description": "Kasvatus- ja koulutuslautakunnan periaatteiden mukaisesti myönnettävät harkinnanvaraiset lisäavustukset perusopetuslain mukaisen iltapäivätoiminnan järjestäjille.",
             "process_description": "Harkinnanvaraista lisäavustusta voivat hakea iltapäivätoiminnan järjestöt, seurakunnat, säätiöt, yhteisöt ja yksityiset palveluntuottajat, jotka ovat saaneet kasvatuksen ja koulutuksen toimialalta toiminta-avustusta perusopetuslain mukaisen iltapäivätoiminnan järjestämiseen.\nEdellyttää kasvatus- ja koulutuslautakunnan päätöstä myönnetystä toiminta-avustuksesta ja sopimista kasvatuksen ja koulutuksen toimialan kanssa lisärahoituksen tarpeesta. Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\n\n1. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen harkinnanvaraisesta lisämäärärahasta.\n2. Päätöksen harkinnanvaraisesta lisäavustuksesta tekee hallintojohtaja.\n3. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.",
             "processing_time": "Noin yksi kuukausi ",
@@ -12984,11 +12811,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Tietoa avustuksista",
-                    "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/palvelut\/avustukset\/"
-                }
             ],
             "channels": [
                 {
@@ -13041,7 +12863,7 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Education sector, optional extra grant application",
+            "name": "Education Division, optional extra grant application for after-school activity organisers, service channels",
             "description": "Optional extra grants awarded in accordance with the Education Committee's guidelines for organisers of afternoon activities as specified in the Basic Education Act.",
             "process_description": "An optional extra grant can be applied for by afternoon activity organisations, parishes, foundations, communities and private service providers, which have been awarded an operating grant from the Education Department for organising afternoon activities as specified in the Basic Education Act.\n\nRequires a decision by the Education Committee concerning awarded operating grants and an agreement with the Education Department over the demand for additional funding.\n\n1. The Education Department processes the application and makes a proposition concerning an optional extra appropriation.\n2. The optional extra grant decision is made by the Research and Development Manager.\n3. Information about the decision will be sent to the applicant and the grant awarded is paid to the bank account of the applicant foundation in accordance with the city's grant guidelines.",
             "processing_time": "About one month.",
@@ -13116,7 +12938,7 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Fostran och utbildning, prövningsbaserat tilläggsunderstöd för eftermiddagsverksamhet",
+            "name": "Fostran och utbildning, prövningsbaserat tilläggsunderstöd för eftermiddagsverksamhet, ärendehanteringstjänst",
             "description": "Prövningsbaserade tilläggsunderstöd som på basis av utbildningsnämndens principer beviljas organisationer som arrangerar lagstadgad eftermiddagsverksamhet.",
             "process_description": "Det prövningsbaserade tilläggsunderstödet kan ansökas av organisationer, församlingar, stiftelser, samfund och privata serviceproducenter, vilka har beviljats verksamhetsunderstöd av utbildningsnämnden.\n\nFörutsätter utbildningsnämndens beslut om beviljat verksamhetsunderstöd och avtal med linjen för grundläggande utbildning vid utbildningsverket om behovet av tilläggsunderstöd.\n\n1. Beslutet om utbetalningen av understödet till de enskidla organisationerna fattas av utvecklingsdirektören.\n2. Sökanden får information om beslutet per post.\n3. Ett beviljat understöd betalas på den sökande organisationens bankkonto enligt stadens understödsprogram.",
             "processing_time": "Cirka 1 månad",
@@ -23536,6 +23358,245 @@
         }
     },
     {
+        "id": 4295,
+        "fi": {
+            "id": 4295,
+            "exact_descriptions": [
+                2772,
+                6041,
+                6061,
+                7456,
+                7457,
+                7573
+            ],
+            "service_id": 10104,
+            "type": "APPLICATION",
+            "name": "Perusopetuksen iltapäivätoimintaan hakeminen",
+            "name_synonyms": "Hakulomake iltapäivätoimintaan",
+            "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toiminta on maksullista ja sitä toteutetaan perusopetuslain mukaisesti.\n\n2 - Palvelukartalta voi hakea sopivaa iltapäivätoimintapaikkaa hakusanalla: iltapäivätoiminta.\n\n3 - Hakulomake täytetään verkossa ja allekirjoitetaan vahvalla tunnistautumisella. Jos ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.\n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja. Huoltajaan ollaan yhteydessä jos lapselle järjestyy paikka alueen iltapäivätoiminnasta. \n\nTarkemmat ohjeet hakemiseen löydät osoitteesta: hel.fi\/iltapaivatoiminta\n",
+            "costs": "Maksut\nIltapäivätoiminnan maksu määräytyy sen mukaan, osallistuuko lapsesi toimintaan klo 16 vai klo 17 saakka . Maksuun sisältyy välipala sekä vakuutus.\n\nJos lapsesi on toiminnassa klo 16.00 saakka, maksu on 100 € \/kk.\nJos lapsesi on toiminnassa klo 17.00 saakka, maksu on 120 € \/kk",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Hakeminen koulun iltapäivätoimintaan",
+                    "url": "https:\/\/www.hel.fi\/iltapaivatoiminta"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Iltapäivätoimintapaikat palvelukartalla",
+                    "url": "https:\/\/palvelukartta.hel.fi\/fi\/search?q=iltap%C3%A4iv%C3%A4toiminta"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2943,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen hakulomake perusopetuksen iltapäivätoimintaan",
+                    "prerequisites": "Perusopetuksen iltapäivätoimintaan voivat hakea 1.-2. -vuosiluokkien oppilaat sekä kaikkien vuosiluokkien osalta erityistä tukea saavat oppilaat.",
+                    "process_description": "1. Iltapäivätoimintaan haetaan 6.3.-1.5.2023. Hakuajan ulkopuolella katso viimeinen kohta.\n\n2. Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\n\n3. Täytä lomake huolellisesti. Jos lomakkeelta puuttuu pakollisia tietoja sitä ei voi lähettää.\n\n4. Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena.\n\n5. Hakuajan ulkopuolella hakemukset koulujen iltapäivätoimintaan toimitetaan osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.\n",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sähköinen hakulomake ",
+                            "url": "https:\/\/lomake.hel.fi\/iltapaivatoiminta",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3620,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tulostettava hakulomake perusopetuksen iltapäivätoimintaan",
+                    "information": "Jos sinulla ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.",
+                    "process_description": "Paperisen hakemuksen voi postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon osoitteeseen Töysänkatu 2 D, 00510 Helsinki.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2022-2023, PDF",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/ip-toiminta\/perusopetuksen_iltapaivatoiminta2022-2023.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2023-2024, PDF",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/popa\/Hakulomake-iptoiminta.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 4295,
+            "exact_descriptions": [
+                2772,
+                6041,
+                6061,
+                7573
+            ],
+            "service_id": 10104,
+            "type": "APPLICATION",
+            "name": "Applying for afternoon activities at school",
+            "process_description": "Submit an application online or send us a printed paper application by post. \n\n1 - The application period for afternoon activities is during spring.\n\n2 - The application should be submitted online. Invoice will be addressed to the guardian whose online banking credentials are used for identification and filling in the application form. See the instructions at www.hel.fi\/afternoonactivities\n\n3 - When submitting the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature.\n\n4 - A printed paper application can be posted to the Education Division at: Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki. You can also deliver your application to our letterbox at Töysänkatu 2 D, 00510 Helsinki. Find the printable form at www.hel.fi\/afternoonactivities \n\n5 - The decisions on afternoon activities will be posted to guardians in July.\n\n6 - Afternoon activities start on the first day of the school year and continue until the end of the school year. \n\n7 - Application outside the application period should primarily be submitted according to the instructions, www.hel.fi\/afternoonactivities, or posted to Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Applying for afternoon activities at school",
+                    "url": "https:\/\/www.hel.fi\/afternoonactivities"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2943,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Electronic application form for afternoon activities at school",
+                    "prerequisites": "Afternoon activities specified in Chapter 8 a of the Basic Education Act are available to first and second grade pupils at comprehensive schools in Helsinki and also to pupils of all grades who receive special support.",
+                    "process_description": "Enrolment and application instructions\n\n1. The application period for afternoon activities organised at schools is 22 March-23 April 2021. \n\n2. The application should be submitted online. Invoice will be addressed to the guardian whose online banking credentials are used for identification and filling in the application form.\n\n3. Fill in the application form carefully. If there is any required information missing, you will not be able to submit the application.\n\n4. When submitting the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature.\n\n5. Outside the application period applications for schools' afternoon activities should be sent to the address Education Division, Afternoon activities, PO Box 51300, 00099 City of Helsinki.\n",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Electronic application form",
+                            "url": "https:\/\/lomake.hel.fi\/afternoonactivities",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4295,
+            "exact_descriptions": [
+                2772,
+                6041,
+                7573
+            ],
+            "service_id": 10104,
+            "type": "APPLICATION",
+            "name": "Ansökan till skolornas eftermiddagsverksamhet",
+            "process_description": "Ansökan till eftermiddagsverksamhet inom den grundläggande utbildningen\n\n1 - Ansökan till eftermiddagsverksamhet är öppen på våren. Verksamheten är avgiftsbelagd, och den genomförs enligt lagen om grundläggande utbildning.\n\n2 - På servicekartan kan du söka ett lämpligt verksamhetsställe för eftermiddagsverksamhet med sökordet \"eftermiddagsverksamhet\".\n\n3 - Ansökningsblanketten fylls i på nätet och undertecknas med stark identifiering. Om du inte har möjlighet att fylla i webblanketten, kan du söka till verksamheten också med en pappersblankett.\n\n4 - Till de personer som gjort ansökan under ansökningstiden postas besluten i juli. \n\n5 - Ansökningar som kommit in efter ansökningstiden behandlas under verksamhetsperioden med beaktande av platssituationen. Om platserna ges inga mellanuppgifter.\n\nMer information om ansökan hittar du på https:\/\/www.hel.fi\/helsinki\/sv\/fostran-och-utbildning\/grundskolor\/morgon-eftermiddagsverksamhet\/eftermiddags.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ansökan till skolans eftermiddagsverksamhet",
+                    "url": "https:\/\/www.hel.fi\/eftisverksamhet"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2943,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Elektronisk ansökningsblankett till skolans eftermiddagsverksamhet",
+                    "prerequisites": "Den eftermiddagsverksamhet som arrangeras enligt kapitel 8 a i lagen om grundläggande utbildning är avsedd för elever i årskurserna 1-2 och för elever i samtliga årskurser som får särskilt stöd i grundskolorna i Helsingfors. Vårdnadshavarna kan ansöka om plats för sitt barn i den här verksamheten.",
+                    "process_description": "1. Ansökningstiden för eftermiddagsverksamheten är 22.3−23.4.2021. \n\n2. Ansökningsblanketten fylls i på nätet. Räkningen för eftermiddagsverksamheten skickas till den vårdnadshavare vars nätbankskoder använts för att fylla i blanketten.\n\n3. Fyll i blanketten noggrant. Om blanketten saknar obligatorisk information kan den inte sändas.\n\n4. För att sända blanketten måste du identifiera dig med nätbankskoder, Mobil ID eller med ett identitetskort med chip. Identifieringen fungerar som underskrift för blanketten.\n\n5. Utanför ansökningstiden ska ansökan till skolornas eftermiddagsverksamhet lämnas in på adressen Sektorn för fostran och utbildning, eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Elektronisk ansökningsblankett",
+                            "url": "https:\/\/lomake.hel.fi\/eftisverksamhet",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4300,
         "fi": {
             "id": 4300,
@@ -33844,11 +33905,12 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Ympäristötoimi, yleisavustushakemus",
-            "description": "Järjestöt, joiden toiminta tukee ja täydentää kaupunkiympäristölautakunnan ympäristö- ja lupajaoston ja ympäristöpalveluiden toimintaa voivat hakea avustusta toimintaansa.",
-            "process_description": "Yleisavustuksia voivat hakea rekisteröityneet vähintään vuoden toimineet järjestöt, joiden toiminta kohdistuu helsinkiläisiin.\n\nTalousarvioavustushakemukset on jätettävä edeltävän vuoden huhtikuun loppuun mennessä. Tarkka jättöpäivä ilmoitetaan vuosittain kaupungin yhteiskuulutuksessa.\n\n1. Yleisavustuksia koskevat päätökset tekee kaupunginvaltuusto, kaupunginhallitus tai pormestari.\n2. Tiedon päätöksestä hakija saa postitse.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n4. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä. Tällöin selvityksen voi tehdä viestiominaisuutta käyttäen.",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan, mikäli se on lähetetty määräajan puitteissa. Talousarvioavustushakemukset on jätettävä ede",
+            "description": "Yhteisöt, joiden toiminta tukee ja täydentää kaupunkiympäristölautakunnan ympäristö- ja lupajaoston sekä kaupunkiympäristön toimialan ympäristöpalveluiden toimintaa ja palveluita helsinkiläisille, voivat hakea avustusta toimintaansa.",
+            "process_description": "Yleisavustuksia voivat hakea rekisteröityneet vähintään vuoden toimineet yhteisöt, joiden toiminta kohdistuu helsinkiläisiin.\n\nTalousarvioavustushakemukset on jätettävä edeltävän vuoden huhtikuun loppuun mennessä. Tarkka jättöpäivä ilmoitetaan vuosittain kaupungin yhteiskuulutuksessa.\n\n1. Päätöksen ympäristötoimen avustuksista tekee kaupunkiympäristölautakunnan ympäristö- ja lupajaosto.\n2. Tiedon päätöksestä hakija saa sähköpostitse.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n4. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avustusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä. Tällöin selvityksen voi tehdä viestiominaisuutta käyttäen.\n",
+            "expiration_time": "Määräpäivään mennessä lähetetty hakemus on voimassa, kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan, mikäli se on lähetetty määräajan puitteissa.",
             "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -33919,11 +33981,12 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Environmental affairs, general grant application",
-            "description": "Organisations in the environmental field may apply for a grant for their operations.",
-            "process_description": "General grants can be applied for by registered organisations, which have been operational for at least a year and whose operations are aimed for the benefit of the people of Helsinki.\n\nBudget grant applications must be filed by the end of April of the preceding year. The specific filing date is announced annually in the city's public announcement.\n\n1. General grant decisions are made by the City Council, the City Board or the Mayor.\n2. The applicant will be informed about the decision by mail.\n3. The grant awarded is paid to the bank account of the applicant foundation.\n4. A report concerning the use of the grant must be provided with next year's application. Even if the grant is not applied for the next year, a report must still be provided. In the latter case, the report may be made using the message feature.",
-            "expiration_time": "Once an application has been sent in, it is valid until the decision has been made. A new application for the same purpose replaces the old application, if sent within the prescribed time limit.",
-            "information": "A grant may be used only for the purpose it was awarded for and it cannot be awarded onwards.",
+            "description": "Organisations whose activities support and complement the activities and services of the Urban Environment Committee's Environment and Permits Sub-committee and the Urban Environment Division's environmental services to Helsinki residents may apply for a grant for their operations.",
+            "process_description": "General grants can be applied for by registered organisations that have been active for at least a year and whose activities are aimed at Helsinki residents.\nApplications for budget grants must be submitted by the end of April of the preceding year. The exact submission deadline is indicated annually in a joint public notice of the city.\n\n1. Decisions on environmental affairs grants are made by the Urban Environment Committee's Environment and Permits sub-committee.\n2. Applicants will be informed of decisions by email.\n3. Grants awarded will be paid to the applicant organisation's bank account.\n4. A report of the use of the grant must be provided when submitting the application for the following year. Even if the grant is not applied for the next year, a report must still be provided. In this case, the report can be submitted using the messaging feature.\n",
+            "expiration_time": "An application submitted by the deadline will remain valid until a decision has been taken. A new application for the same purpose will replace the old application if it is sent before the deadline.",
+            "information": "A grant may only be used for the purpose it was awarded for and cannot be awarded onwards.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -33994,11 +34057,12 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Miljöväsendet, ansökan om allmänt understöd",
-            "description": "Organisationer vars verksamhet stöder och kompletterar stadsmiljönämdens miljö- och tillståndssektionens och miljötjänsters arbete kan söka understöd för sin verksamhet.",
-            "process_description": "Allmänna understöd kan sökas av registrerade organisationer vars verksamhet riktar sig till helsingforsare och som varit verksamma i minst ett år.\n\nAnsökningar om budgetunderstöd ska lämnas in före utgången av april föregående år. Det exakta datumet framgår av stadens årliga gemensamma kungörelse.\n\n1. Beslut om allmänna understöd fattas av stadsfullmäktige, stadsstyrelsen eller borgmästaren. \n2. Sökanden informeras om beslutet per post.\n3. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n  En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Utredningen kan då ges med egenskapen för meddelanden.",
-            "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan med samma syfte ersätter den gamla om den lämnats in inom utsatt tid.",
-            "information": "Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.",
+            "description": "Sammanslutningar vars verksamhet stöder och kompletterar den verksamhet och de tjänster för Helsingforsbor som stadsmiljönämndens miljö- och tillståndssektion samt stadsmiljösektorns miljötjänster tillhandahåller kan ansöka om understöd för sin verksamhet.",
+            "process_description": "Allmänt understöd kan sökas av registrerade sammanslutningar som har varit verksamma minst ett år och vars verksamhet riktar sig till Helsingforsborna.\n\nAnsökningar om budgetunderstöd ska lämnas in före utgången av april föregående år. Det exakta datumet framgår av stadens årliga gemensamma kungörelse.\n\n1. Beslut om miljösektorns understöd fattas av stadsmiljönämndens miljö- och tillståndssektion.\n2. Beslutet meddelas till den sökande per e-post.\n3. Det beviljade understödet utbetalas till den sökande sammanslutningens bankkonto.\n4. En redogörelse för användningen av understödet ska lämnas in i samband med nästa års ansökan. Redogörelsen ska lämnas in även om man inte ansöker om understödet det nästföljande året. I sådana fall kan redogörelsen lämnas in med meddelandefunktionen.\n",
+            "expiration_time": "En ansökan som lämnas in inom tidsfristen är giltig tills ett beslut har fattats. En ny ansökan för samma ändamål ersätter den gamla, såvida den skickas in inom den angivna tidsfristen.",
+            "information": "Understödet får endast användas för det ändamål för vilket det beviljades och får inte delas ut vidare.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
