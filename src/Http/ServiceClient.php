@@ -36,7 +36,7 @@ final class ServiceClient
 
                 return Utils::jsonDecode($response->getBody()->getContents(), true);
             } catch (RequestException $e) {
-                if ($e->getResponse()->getStatusCode() === 404) {
+                if ($e->getResponse()?->getStatusCode() === 404) {
                     return [];
                 }
                 printf('Failed to fetch %s. Attempting again...', "$endpoint/$id");
