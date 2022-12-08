@@ -32,6 +32,7 @@ final class ServiceClient
                 $response = $this->httpClient->request('GET', "$endpoint/$id", [
                     'query' => ['language' => $language],
                     'headers' => ['accept' => 'application/json'],
+                    'curl' => [CURLOPT_TCP_KEEPALIVE => true],
                 ]);
 
                 return Utils::jsonDecode($response->getBody()->getContents(), true);
@@ -39,7 +40,6 @@ final class ServiceClient
                 if ($e->getResponse()?->getStatusCode() === 404) {
                     return [];
                 }
-                printf('Failed to fetch %s. Attempting again...', "$endpoint/$id");
                 // Attempt to re-fetch data again.
                 return $this->get($endpoint, $id, $language, ++$attempt);
             }
