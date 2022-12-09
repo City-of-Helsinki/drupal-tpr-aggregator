@@ -15847,7 +15847,7 @@
                     "id": 3449,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Timmi-verkkoasiointi koulutilojen varaamiseen",
+                    "name": "Varaa koulutiloja Timmissä",
                     "prerequisites": "Käyttäjä (yritys, yhdistys) on rekisteröitynyt Timmin jäseneksi sähköisesti Y-tunnuksella ja yksityisasiakas henkilötunnuksella.",
                     "information": "Timmin kautta voi varata vain koulujen luokka-, ruokasali- ja juhlasalitiloja.",
                     "availability_summary": "Avoinna joka päivä",
@@ -32009,38 +32009,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2661,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Täydentävä tai ehkäisevä toimeentulotukihakemus sähköisesti",
-                    "prerequisites": "Käyttö edellyttää tunnistautumista joko pankki- tai mobiilitunnuksin.\n\nPalvelu on saatavilla joka päivä ympäri vuorokauden.\nHelsinkiläinen, jolla on Kelasta voimassa oleva perustoimeentulotuen päätös, voi hakea täydentävää toimeentulotukea sähköisesti.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Voit tarkastella hakemuksen tilaa asiointikansiostasi.\n\nHakemuksen tilat:\nLähetetty = hakemus on lähetetty onnistuneesti.\nVastaanotettu = hakemus on vastaanotettu, mutta sen käsittelyä ei ole vielä aloitettu.\nKäsittelyssä = hakemuksen käsittely on aloitettu.\nRatkaistu = hakemukseen on vastattu päätöksellä, joka lähetetään hakijalle postitse.\nPeruutettu = hakemus on peruutettu hakemuksen käsittelijän toimesta, koska se on päällekkäinen toisen hakemuksen kanssa tai olet itse ilmoittanut hakemuksesi rauenneeksi.\n\nJos haluat sähköpostiisi viestin hakemuksen tiloissa tapahtuneista muutoksista, kirjaudu palveluun ja palveluun ja tarkasta Omat tiedot -kohdassa, että sinulla on oikea sähköpostiosoite. \n",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/apsa",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
                 {
                     "id": 2663,
                     "type": "PRINTABLE_FORM",
