@@ -11678,8 +11678,8 @@
             "name": "Johtoselvitys",
             "name_synonyms": "johtotietoselvitys",
             "description": "Helsingin kaupungin alueella tehtävissä kaivu-, kairaus- ja louhintatöissä on kaivajan aina ennen kaivuilmoituksen jättämistä haettava ajantasainen johtoselvitys.",
-            "process_description": "HUOM! Johtotietoselvityksen käsittelyssä on ruuhkaa, joten tilausten käsittelyssä voi mennä tavallista kauemmin.\n\n*******\n\nJohtoselvitys sisältää karttaotteen maanalaisista johdoista ja rakenteista. Lisäksi selvityksen yhteydessä annetaan johdon omistajan ohjeita työn suorittamiseksi. Selvityksen liitteeksi tarvitaan työsuunnitelma.\n\nVoit tilata johtoselvityksen johtotietopalvelusta sähköisessä asiointipalvelussa (linkki alla).\n\nKaupungin sähköisessä asiointipalvelussa voit seurata asian etenemistä. Asiakasohjeesta (linkki alla) saat neuvoja asiointipalvelun käyttöön.",
-            "processing_time": "Käsittelyaika on 1 päivä. Hakemukset käsitellään saapumisjärjestyksessä. Johtotietopalvelussa on tällä hetkellä ruuhkaa, ja johtoselvityksen saaminen saattaa kestää normaalia kauemmin.",
+            "process_description": "Johtoselvitys sisältää karttaotteen maanalaisista johdoista ja rakenteista. Lisäksi selvityksen yhteydessä annetaan johdon omistajan ohjeita työn suorittamiseksi. Selvityksen liitteeksi tarvitaan työsuunnitelma.\n\nVoit tilata johtoselvityksen johtotietopalvelusta sähköisessä asiointipalvelussa (linkki alla).\n\nKaupungin sähköisessä asiointipalvelussa voit seurata asian etenemistä. Asiakasohjeesta (linkki alla) saat neuvoja asiointipalvelun käyttöön.",
+            "processing_time": "Käsittelyaika on 1 arkipäivä. Hakemukset käsitellään saapumisjärjestyksessä. Johtotietopalvelussa on tällä hetkellä ruuhkaa, ja johtoselvityksen saaminen saattaa kestää normaalia kauemmin.",
             "expiration_time": "Lähetetty hakemus on voimassa, kunnes johtoselvitys on tehty. Johtoselvityksen voimassaoloaika on 1 kuukausi.",
             "costs": "Johtoselvitys on maksuton kaivu-, kairaus- ja louhintatöitä tekeville. Muita tarkoituksia varten karttaotteet ovat maksullisia.",
             "provided_languages": [
@@ -19101,26 +19101,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3640,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Ota yhteytta Kaakkoisen alueen Stadiluotsiin",
-                    "email": "johannes.jauhiainen@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
             ]
         },
         "en": [
@@ -22324,26 +22304,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3643,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Ota yhteys Itäisen alueen ja Östersundomin Stadiluotsiin",
-                    "email": "marjaana.jaranne@hel.fi ",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -22379,7 +22339,7 @@
                     "id": 3627,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Ota yhteys Kaakkoisen suurpiirin ja Vuosaaren stadiluotsiin",
+                    "name": "Ota yhteyttä Kaakkoisen suurpiirin ja Vuosaaren stadiluotsiin",
                     "email": "johannes.jauhiainen@hel.fi",
                     "provided_languages": [
                     ],
@@ -22676,28 +22636,8 @@
                     "id": 3602,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Ota yhteyttä Keskisen alueen Stadiluotsiin",
+                    "name": "Ota yhteyttä Keskisen suurpiirin Stadiluotsiin",
                     "email": "gritten.naams@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3642,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Ota yhteyttä Keskisen alueen Stadiluotsiin",
-                    "email": "gritten.naams@hel.fi ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -22792,25 +22732,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3603,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "email": "laura.paivapuro@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3641,
                     "type": "EMAIL",
@@ -26630,6 +26551,7 @@
                 8918,
                 8926,
                 8928,
+                9193,
                 9217,
                 9222
             ],
