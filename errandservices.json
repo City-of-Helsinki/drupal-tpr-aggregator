@@ -3795,6 +3795,204 @@
         ]
     },
     {
+        "id": 899,
+        "fi": {
+            "id": 899,
+            "exact_descriptions": [
+                3641,
+                9229
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Hae iltapäivätoiminnan harkinnanvaraista lisäavustusta",
+            "description": "Voit hakea harkinnanvaraista lisäavustusta sähköisesti.",
+            "process_description": "1. Sovi kasvatuksen ja koulutuksen toimialan kanssa lisärahoituksen tarpeesta.\n2. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen harkinnanvaraisesta lisämäärärahasta.\n3. Päätöksen harkinnanvaraisesta lisäavustuksesta tekee hallintopällikkö.\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.",
+            "processing_time": "Noin yksi kuukausi ",
+            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se on peruttu.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 913,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae avustusta",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevLisaavustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 899,
+            "exact_descriptions": [
+                3641,
+                9229
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Apply for an optional extra grant application for after-school activity organisers",
+            "description": "Apply for a grant online.",
+            "process_description": "1. Discuss the need for additional funding with the Education Division.\n2. The Education Division processes the application and makes a proposition concerning an optional extra appropriation.\n3. The optional extra grant decision is made by the Head of Administration.\n4. Information about the decision will be sent to the applicant and the grant awarded is paid to the bank account of the applicant foundation in accordance with the city's grant guidelines.",
+            "processing_time": "About one month.",
+            "expiration_time": "Once an application has been sent in, it is valid until the decision has been made or until it has been cancelled.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 913,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for an optional extra grant",
+                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
+                    "availability_summary": "Service available every day around the clock",
+                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status Received. When the application has the status Processed, it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the e-service",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevLisaavustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 899,
+            "exact_descriptions": [
+                3641,
+                9229
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Ansök om prövningsbaserat tilläggsunderstöd för eftermiddagsverksamhet",
+            "description": "Du kan ansöka om understöd elektorniskt.",
+            "process_description": "1.Kom överens om behov av tilläggsunderstöd med sektorn för fostran och utbildning.\n2. Sektorn för fostran och utbildning behandlar ansökan och gör ett förslag till prövningsbaserat tilläggunderstöd.\n3. Beslutet om utbetalningen av understödet till de enskidla organisationerna fattas av förvaltningschefen.\n4. Sökanden får information om beslutet per post och ett beviljat understöd betalas på den sökande organisationens bankkonto enligt stadens understödsprogram.",
+            "processing_time": "Cirka 1 månad",
+            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 913,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om prövningsbaserat tilläggsunderstöd",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevLisaavustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5042,
         "fi": {
             "id": 5042,
@@ -3852,6 +4050,201 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 920,
+        "fi": {
+            "id": 920,
+            "exact_descriptions": [
+                3641,
+                9427
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Hae kasvatuksen ja koulutuksen yleisavustusta",
+            "description": "Voit hakea yleisavustusta sähköisesti.",
+            "process_description": "1. Yleisavustuksia koskevat päätökset tekee kasvatus- ja koulutuslautakunta sekä toimialajohtaja.\n2. Tiedon päätöksestä hakija saa postitse.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n4. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä. Tällöin selvityksen voi tehdä sähköisen palvelun viestiominaisuutta käyttäen.",
+            "expiration_time": " Lähetetty hakemus on voimassa kunnes päätös on tehty tai se perutaan. ",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 916,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae yleisavustusta",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevAvustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 920,
+            "exact_descriptions": [
+                3641,
+                9427
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Education Division, apply for a general grant",
+            "description": "Apply for a grant online.",
+            "process_description": "1. The general grant decisions are made by the Education Committee and the Executive Director. \n2. The applicant will be informed about the decision by mail.\n3. The grant awarded is paid to the bank account of the applicant foundation.\n4. A report concerning the use of the grant must be provided with next year's application. Even if the grant is not applied for the next year, a report must still be provided. In the latter case, the report may be made using the message feature.",
+            "expiration_time": "Once an application has been sent in, it is valid until the decision has been made or until it has been cancelled.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 916,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a general grant",
+                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
+                    "availability_summary": "Service available every day around the clock",
+                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the e-service",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevAvustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 920,
+            "exact_descriptions": [
+                3641,
+                9427
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Fostran och utbildning, ansök om allmänt understöd",
+            "description": "Du kan ansöka om understöd elektorniskt.",
+            "process_description": "1. Beslut om allmänt understöd fattas av nämnden för fostran och utbildning och sektorchefen.\n2. Sökanden får information om beslutet per post.\n3. Ett beviljat understöd betalas på den sökande organisationens bankkonto.\n4. En redogörelse över hur understödet har använts ska lämnas i samband med att man ansöker om understöd följande år. Redogörelsen ska lämnas in även om man inte ansöker om understöd följande år. I så fall kan redogörelsen sändas med hjälp av meddelandefunktionen.",
+            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 916,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök allmänt understöd",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevAvustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5134,
@@ -5464,6 +5857,315 @@
                             "type": "INTERNET",
                             "title": "Gå till Lupapiste",
                             "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 913,
+        "fi": {
+            "id": 913,
+            "exact_descriptions": [
+                3641,
+                7483
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Hae toiminta-avustusta koululaisten iltapäivätoiminnan järjestämiseen",
+            "description": "Voit hakea avustusta sähköisesti tai pdf-lomakkeella.",
+            "process_description": "Ota ensin yhteyttä kasvatuksen ja koulutuksen toimialan koululaisten aamu- ja iltapäivätoiminnan yksikön palvelupäällikköön ja sovi toiminnan mahdollisesta käynnistämisestä. \n\nToimita hakemus hakuaikana, joka on vuosittain tammikuussa. Tarkempi hakuaika julkaistaan vuosittain joulukuun alkupuolella Helsingin kaupungin avustuskuulutuksessa. Voit täydentää hakemusta ja toimittaa hakemuksen liitteitä hakuajan jälkeen sähköisen asiointipalvelun kautta tai postitse.\n\n1. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen avustussummasta. \n\n2. Päätöksen toiminta-avustuksen myöntämisen periaatteista tekee kasvatus- ja koulutuslautakunta.\n\n3. Järjestökohtaiset maksatuspäätökset tekee hallintopäällikkö. \n\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.\n\n5. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Käyttöselvitys on tehtävä, vaikka avusta ei haettaisi enää seuraavana vuonna.",
+            "processing_time": "Noin kolme kuukautta.",
+            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se perutaan. ",
+            "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\n\nLisätietoja antavat:\n\nToimintaan liittyen\nPalvelupäällikkö\nLeena Palve-Kaunisto\npuh. 09 310 86809\nleena.palve@hel.fi\n\nTalouteen ja avustusten hakuun liittyen\nLaskentasuunnittelija\nHanna Keränen\npuh. 09 310 86338\nhanna.keranen@hel.fi",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Anna palautetta",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 915,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae avustusta",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae avustusta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Toiminta-avustushakemuslomake",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 913,
+            "exact_descriptions": [
+                3641,
+                7483
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Education, operating grant application for organisers of afternoon activities for school children, service channels",
+            "description": "Apply for a grant online or by filling in a pdf form.",
+            "process_description": "First, contact the service manager at the Education Division after-school activities unit and agree on the possible start of operations.\n\nSubmit your application by the application deadline, which is in January each year. Further details of the application period are published in the City's annual public notice for grant applications in early December. You can complete the application and submit any attachments after the deadline via the e-service or by post.\n\n1. Education Division will process the application and propose the amount of the grant. \n\n2. Education and Training Committee decides on the principles for awarding the grant.\n\n3. Head of Administration makes decisions on payments to individual associations and organisations.\n\n4. The decision is sent to the applicant and the grant is paid into the applicant's bank account in accordance with the City's grant guidelines.\n\n5. A report on the use of the grant must be submitted with the following year's application. The report must be submitted even if the grant is not applied for in the following year.",
+            "processing_time": "Approximately three months.",
+            "expiration_time": "The application sent is valid until the decision is made or the application is withdrawn.",
+            "information": "The grant may only be used for the purpose for which it was awarded and may not be redistributed.\n\nFor further information, please contact:\n\nEnquiries on the operations and after-school activities\nService Manager\nLeena Palve-Kaunisto\nTel. 09 310 86809\nleena.palve@hel.fi\n\nEnquiries on finances and grant applications\nAccountant\nHanna Keränen\nTel. 09 310 86338\nhanna.keranen@hel.fi\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Give feedback",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 915,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a grant",
+                    "prerequisites": "To use the service, you need to identify with online banking credentials or mobile ID.",
+                    "availability_summary": "Service available every day around the clock",
+                    "process_description": "Once you have completed the grant application, you can save it as a draft in your personal service folder or submit it to the grant processing system. You can follow the progress of the application in your personal service folder under 'Tapahtumat' (Actions).\nIf the application is in the 'Vastaanotettu' (Received) status, the application can be edited. When the application is in the 'Käsittely' (Processing) status, it can no longer be edited. An updated application will replace a previously submitted application. Attachments can be sent using the 'Viesti' (Message) feature up until the deadline. In the Tapahtumat' (Actions) section you can see the contact details of the person processing the application.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Give feedback",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Go to the e-service",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0wwkpiAJKG-AAjgb6wWmZQDOiCCkryI2o8HRUVAQA6JeR1Q!!\/dz\/d5\/L0lHSkovd0RNQUprQUVnQSEhLzROVkUvZW4!\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a grant (pdf)",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grant application form (in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/opevhttps:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 913,
+            "exact_descriptions": [
+                3641,
+                7483
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Fostran- och utbildningssektor, understöd till organisationer som arrangerar lagstadgad eftermiddagsverksamhet, ärendehanteringstjänst",
+            "description": "Du kan ansöka om understöd elektorniskt eller med pdf-blankett.",
+            "process_description": "Ta först kontakt med enhetschefen för skolelevers eftermiddagsverksamhet vid fostrans- och utbildningssektorn och kom överens om eventuell start av verksamhet.\n\nSkicka in ansökan under ansökningstiden som inträffar årligen i januari. Noggrannare tidtabell utlyses årligen i Helsingfors stads bidragskungörelser i början av december. Du kan komplettera ansökan och skicka in bilagor efter ansökningstiden via e-tjänsten eller per post.\n\n1. Fostrans- och utbildningssektorn behandlar ansökningarna och gör ett förslag gällande understödssummorna. \n\n2. Understödet beviljas på de grunder som fostrans- och utbildningsnämnden slagit fast.\n\n3. Beslutet om utbetalningen av understödet till de enskilda organisationerna fattas av förvaltningschefen. \n\n4. Sökanden informeras om beslutet och ett beviljat understöd betalas på den sökande organisationens bankkonto.\n\n5. En redogörelse över hur understödet har använts ska lämnas i samband med att man ansöker om understöd följande år. Redogörelsen ska lämnas in även om man inte ansöker om understöd följande år.",
+            "processing_time": "Cirka 3 månader.",
+            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka. ",
+            "information": "Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\nTilläggsinformation:\n\nGällande verksamheten:\nChef för morgon- och eftermiddagsverksamheten\nLeena Palve-Kaunisto\ntel. 09 310 86809\nleena.palve@hel.fi\n\nGällande ekonomi och ansökan av understöd\nRedovisningsplanerare\nHanna Keränen\ntel. 09 310 86338\nhanna.keranen@hel.fi",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ge respons",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 915,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om understöd",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Ge respons",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
+                    ]
+                },
+                {
+                    "id": 3532,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om understöd med pdf-blankett",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökanblankett på finska",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille-sv.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -12789,708 +13491,6 @@
                         }
                     ],
                     "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 899,
-        "fi": {
-            "id": 899,
-            "exact_descriptions": [
-                3641,
-                9229
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Kasvatus ja koulutus, iltapäivätoiminnan harkinnanvarainen lisäavustushakemus, asiointipalvelu",
-            "description": "Voit hakea harkinnanvaraista lisäavustusta sähköisesti.",
-            "process_description": "1. Sovi kasvatuksen ja koulutuksen toimialan kanssa lisärahoituksen tarpeesta.\n2. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen harkinnanvaraisesta lisämäärärahasta.\n3. Päätöksen harkinnanvaraisesta lisäavustuksesta tekee hallintopällikkö.\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.",
-            "processing_time": "Noin yksi kuukausi ",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se on peruttu.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 913,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae harkinnanvaraista lisäavustusta",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevLisaavustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 899,
-            "exact_descriptions": [
-                3641,
-                9229
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Education Division, optional extra grant application for after-school activity organisers, service channels",
-            "description": "Apply for a grant online.",
-            "process_description": "1. Discuss the need for additional funding with the Education Division.\n2. The Education Division processes the application and makes a proposition concerning an optional extra appropriation.\n3. The optional extra grant decision is made by the Head of Administration.\n4. Information about the decision will be sent to the applicant and the grant awarded is paid to the bank account of the applicant foundation in accordance with the city's grant guidelines.",
-            "processing_time": "About one month.",
-            "expiration_time": "Once an application has been sent in, it is valid until the decision has been made or until it has been cancelled.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 913,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Apply for an optional extra grant online",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "availability_summary": "Service available every day around the clock",
-                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status Received. When the application has the status Processed, it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevLisaavustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 899,
-            "exact_descriptions": [
-                3641,
-                9229
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Fostran och utbildning, prövningsbaserat tilläggsunderstöd för eftermiddagsverksamhet, ärendehanteringstjänst",
-            "description": "Du kan ansöka om understöd elektorniskt.",
-            "process_description": "1.Kom överens om behov av tilläggsunderstöd med sektorn för fostran och utbildning.\n2. Sektorn för fostran och utbildning behandlar ansökan och gör ett förslag till prövningsbaserat tilläggunderstöd.\n3. Beslutet om utbetalningen av understödet till de enskidla organisationerna fattas av förvaltningschefen.\n4. Sökanden får information om beslutet per post och ett beviljat understöd betalas på den sökande organisationens bankkonto enligt stadens understödsprogram.",
-            "processing_time": "Cirka 1 månad",
-            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 913,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansök om prövningsbaserat tilläggsunderstöd elektroniskt",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevLisaavustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 913,
-        "fi": {
-            "id": 913,
-            "exact_descriptions": [
-                3641,
-                7483
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Kasvatus ja koulutus, toiminta-avustushakemus koululaisten iltapäivätoiminnan järjestäjille, asiointipalvelu",
-            "description": "Voit hakea avustusta sähköisesti tai pdf-lomakkeella.",
-            "process_description": "Ota ensin yhteyttä kasvatuksen ja koulutuksen toimialan koululaisten aamu- ja iltapäivätoiminnan yksikön palvelupäällikköön ja sovi toiminnan mahdollisesta käynnistämisestä. \n\nToimita hakemus hakuaikana, joka on vuosittain tammikuussa. Tarkempi hakuaika julkaistaan vuosittain joulukuun alkupuolella Helsingin kaupungin avustuskuulutuksessa. Voit täydentää hakemusta ja toimittaa hakemuksen liitteitä hakuajan jälkeen sähköisen asiointipalvelun kautta tai postitse.\n\n1. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen avustussummasta. \n\n2. Päätöksen toiminta-avustuksen myöntämisen periaatteista tekee kasvatus- ja koulutuslautakunta.\n\n3. Järjestökohtaiset maksatuspäätökset tekee hallintopäällikkö. \n\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.\n\n5. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Käyttöselvitys on tehtävä, vaikka avusta ei haettaisi enää seuraavana vuonna.",
-            "processing_time": "Noin kolme kuukautta.",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se perutaan. ",
-            "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\n\nLisätietoja antavat:\n\nToimintaan liittyen\nPalvelupäällikkö\nLeena Palve-Kaunisto\npuh. 09 310 86809\nleena.palve@hel.fi\n\nTalouteen ja avustusten hakuun liittyen\nLaskentasuunnittelija\nHanna Keränen\npuh. 09 310 86338\nhanna.keranen@hel.fi",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Anna palautetta",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 915,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae toiminta-avustusta",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
-                    "id": 3532,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae avustusta pdf-lomakkeella",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Toiminta-avustushakemuslomake",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 913,
-            "exact_descriptions": [
-                3641,
-                7483
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Education, operating grant application for organisers of afternoon activities for school children, service channels",
-            "description": "Apply for a grant online or by filling in a pdf form.",
-            "process_description": "First, contact the service manager at the Education Division after-school activities unit and agree on the possible start of operations.\n\nSubmit your application by the application deadline, which is in January each year. Further details of the application period are published in the City's annual public notice for grant applications in early December. You can complete the application and submit any attachments after the deadline via the e-service or by post.\n\n1. Education Division will process the application and propose the amount of the grant. \n\n2. Education and Training Committee decides on the principles for awarding the grant.\n\n3. Head of Administration makes decisions on payments to individual associations and organisations.\n\n4. The decision is sent to the applicant and the grant is paid into the applicant's bank account in accordance with the City's grant guidelines.\n\n5. A report on the use of the grant must be submitted with the following year's application. The report must be submitted even if the grant is not applied for in the following year.",
-            "processing_time": "Approximately three months.",
-            "expiration_time": "The application sent is valid until the decision is made or the application is withdrawn.",
-            "information": "The grant may only be used for the purpose for which it was awarded and may not be redistributed.\n\nFor further information, please contact:\n\nEnquiries on the operations and after-school activities\nService Manager\nLeena Palve-Kaunisto\nTel. 09 310 86809\nleena.palve@hel.fi\n\nEnquiries on finances and grant applications\nAccountant\nHanna Keränen\nTel. 09 310 86338\nhanna.keranen@hel.fi\n",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Give feedback",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 915,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Apply for a grant online",
-                    "prerequisites": "To use the service, you need to identify with online banking credentials or mobile ID.",
-                    "availability_summary": "Service available every day around the clock",
-                    "process_description": "Once you have completed the grant application, you can save it as a draft in your personal service folder or submit it to the grant processing system. You can follow the progress of the application in your personal service folder under 'Tapahtumat' (Actions).\nIf the application is in the 'Vastaanotettu' (Received) status, the application can be edited. When the application is in the 'Käsittely' (Processing) status, it can no longer be edited. An updated application will replace a previously submitted application. Attachments can be sent using the 'Viesti' (Message) feature up until the deadline. In the Tapahtumat' (Actions) section you can see the contact details of the person processing the application.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Give feedback",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0wwkpiAJKG-AAjgb6wWmZQDOiCCkryI2o8HRUVAQA6JeR1Q!!\/dz\/d5\/L0lHSkovd0RNQUprQUVnQSEhLzROVkUvZW4!\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                },
-                {
-                    "id": 3532,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Apply for a grant (pdf)",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Grant application form (in Finnish)",
-                            "url": "https:\/\/www.hel.fi\/static\/opevhttps:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 913,
-            "exact_descriptions": [
-                3641,
-                7483
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Fostran- och utbildningssektor, understöd till organisationer som arrangerar lagstadgad eftermiddagsverksamhet, ärendehanteringstjänst",
-            "description": "Du kan ansöka om understöd elektorniskt eller med pdf-blankett.",
-            "process_description": "Ta först kontakt med enhetschefen för skolelevers eftermiddagsverksamhet vid fostrans- och utbildningssektorn och kom överens om eventuell start av verksamhet.\n\nSkicka in ansökan under ansökningstiden som inträffar årligen i januari. Noggrannare tidtabell utlyses årligen i Helsingfors stads bidragskungörelser i början av december. Du kan komplettera ansökan och skicka in bilagor efter ansökningstiden via e-tjänsten eller per post.\n\n1. Fostrans- och utbildningssektorn behandlar ansökningarna och gör ett förslag gällande understödssummorna. \n\n2. Understödet beviljas på de grunder som fostrans- och utbildningsnämnden slagit fast.\n\n3. Beslutet om utbetalningen av understödet till de enskilda organisationerna fattas av förvaltningschefen. \n\n4. Sökanden informeras om beslutet och ett beviljat understöd betalas på den sökande organisationens bankkonto.\n\n5. En redogörelse över hur understödet har använts ska lämnas i samband med att man ansöker om understöd följande år. Redogörelsen ska lämnas in även om man inte ansöker om understöd följande år.",
-            "processing_time": "Cirka 3 månader.",
-            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka. ",
-            "information": "Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\nTilläggsinformation:\n\nGällande verksamheten:\nChef för morgon- och eftermiddagsverksamheten\nLeena Palve-Kaunisto\ntel. 09 310 86809\nleena.palve@hel.fi\n\nGällande ekonomi och ansökan av understöd\nRedovisningsplanerare\nHanna Keränen\ntel. 09 310 86338\nhanna.keranen@hel.fi",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ge respons",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 915,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansök om understöd elektroniskt",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Ge respons",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                },
-                {
-                    "id": 3532,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Ansök om understöd med pdf-blankett",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ansökanblankett på finska",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille-sv.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 920,
-        "fi": {
-            "id": 920,
-            "exact_descriptions": [
-                3641,
-                9427
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Kasvatus ja koulutus, yleisavustushakemus, asiointipalvelu",
-            "description": "Voit hakea yleisavustusta sähköisesti.",
-            "process_description": "1. Yleisavustuksia koskevat päätökset tekee kasvatus- ja koulutuslautakunta sekä toimialajohtaja.\n2. Tiedon päätöksestä hakija saa postitse.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n4. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä. Tällöin selvityksen voi tehdä sähköisen palvelun viestiominaisuutta käyttäen.",
-            "expiration_time": " Lähetetty hakemus on voimassa kunnes päätös on tehty tai se perutaan. ",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 916,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae yleisavustusta",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevAvustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 920,
-            "exact_descriptions": [
-                3641,
-                9427
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Education, general grant application, service channels",
-            "description": "Apply for a grant online.",
-            "process_description": "1. The general grant decisions are made by the Education Committee and the Executive Director. \n2. The applicant will be informed about the decision by mail.\n3. The grant awarded is paid to the bank account of the applicant foundation.\n4. A report concerning the use of the grant must be provided with next year's application. Even if the grant is not applied for the next year, a report must still be provided. In the latter case, the report may be made using the message feature.",
-            "expiration_time": "Once an application has been sent in, it is valid until the decision has been made or until it has been cancelled.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 916,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Apply for a general grant",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "availability_summary": "Service available every day around the clock",
-                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevAvustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 920,
-            "exact_descriptions": [
-                3641,
-                9427
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Utbildningsväsendet, ansökan om allmänt understöd, ärendehanteringstjänst",
-            "description": "Du kan ansöka om understöd elektorniskt.",
-            "process_description": "1. Beslut om allmänt understöd fattas av nämnden för fostran och utbildning och sektorchefen.\n2. Sökanden får information om beslutet per post.\n3. Ett beviljat understöd betalas på den sökande organisationens bankkonto.\n4. En redogörelse över hur understödet har använts ska lämnas i samband med att man ansöker om understöd följande år. Redogörelsen ska lämnas in även om man inte ansöker om understöd följande år. I så fall kan redogörelsen sändas med hjälp av meddelandefunktionen.",
-            "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 916,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansök allmänt understöd",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevAvustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
                     ]
                 }
             ]
@@ -20838,7 +20838,7 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Ara-vuokra-asuntojen varalisuusrajat",
+                    "title": "Ara-vuokra-asuntojen varallisuusrajat",
                     "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_varallisuus.pdf"
                 },
                 {
