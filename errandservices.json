@@ -3645,7 +3645,6 @@
             "id": 4065,
             "exact_descriptions": [
                 3202,
-                6221,
                 6449,
                 9519
             ],
@@ -3755,8 +3754,8 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "INTERNET",
-                            "title": "Linkki karttapalveluun",
+                            "type": "MAP",
+                            "title": "Siirry karttapalveluun",
                             "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
                         }
                     ],
@@ -33515,8 +33514,9 @@
                     "id": 2009,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Vastaavan työnjohtajan hyväksyminen - verkkoasiointi",
-                    "prerequisites": "Asiakkaan tulee rekisteröityä palvelun käyttäjäksi. Myös yritystili on mahdollinen.",
+                    "name": "Vastaavan työnjohtajan nimeäminen",
+                    "prerequisites": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä.",
+                    "information": "1. Rakennushankkeeseen ryhtyvä nimeää vastaavan työnjohtajan Lupapiste-palvelussa, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse.\n\n2. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa.\n\n3. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen .\n\n4. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.",
                     "availability_summary": "Avoinna joka päivä",
                     "provided_languages": [
                         "fi",
@@ -33532,7 +33532,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Lupapiste.fi",
+                            "title": "Siiry Lupapisteeseen",
                             "url": "https:\/\/www.lupapiste.fi\/",
                             "file_format": "HTML"
                         }
