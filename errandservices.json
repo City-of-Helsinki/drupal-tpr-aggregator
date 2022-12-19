@@ -286,161 +286,6 @@
         }
     },
     {
-        "id": 4065,
-        "fi": {
-            "id": 4065,
-            "exact_descriptions": [
-                3202,
-                6221,
-                6449
-            ],
-            "service_id": 10634,
-            "type": "APPLICATION",
-            "name": "Aloittamisoikeus",
-            "description": "Aloittamisoikeutta voi hakea perustellusta syystä rakennuksen osan tai koko rakennuksen rakentamiselle ennen kuin lupa on lainvoimainen.",
-            "process_description": "Aloittamisoikeutta haetaan hankkeen varsinaisen lupahakemuksen yhteydessä tai erillisellä hakemuksella.",
-            "costs": "Kulloinkin voimassa olevan rakennusvalvontataksan mukaiset maksut. Katso linkki Perittävät maksut.",
-            "information": "Lue lisää ohjeesta Aloittamisoikeus.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ohje: Aloittamisoikeus",
-                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Perittävät maksut",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/rakentaminen\/ennakkotietoa-rakentamiseen\/perittavat-maksut"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2455,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Aloittamisoikeus - verkkoasiointi",
-                    "prerequisites": "Asiakkaan tulee rekisteröityä palvelun käyttäjäksi. Myös yritystili on mahdollinen.",
-                    "availability_summary": "Palvelu saatavilla joka päivä",
-                    "process_description": "1. Kirjaudu tai rekisteröidy palveluun.\n2. Valtuutettu taho (esim. suunnittelija) tai hankkeeseen ryhtyvä avaa lupahakemuksen. \n3. Kutsutaan hankkeelle muut tarvittavat osapuolet(suunnittelijat). Varmista, että kaikki on kutsuttu ja valtuutettu.\n3. Suunnittelija vie palveluun viimeistellyn hakemusaineiston (asiakirjat ja piirustukset).\n4. Seurataan hankkeen viestintää ja täydennetään puutuvia tietoja. \n5. Lupakäsittely voi alkaa, kun päätökseen tarvittava aineisto on toimitettu. Hakemukset käsitellään hakujärjestyksessä.\n6. Lupapäätös tulee näkyviin Lupapisteessä ja siitä toimitetaan ote hakijalle.\n7. Kutsu vastaavat työnjohtajat hankkeelle (huomaa päätöksen lainvoimaisuuden odottaminen).",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Lupapiste.fi",
-                            "url": "https:\/\/www.lupapiste.fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä "
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": {
-            "id": 4065,
-            "exact_descriptions": [
-                3202
-            ],
-            "service_id": 10634,
-            "type": "APPLICATION",
-            "name": "Inledningsrätt",
-            "description": "Inledningsrätt kan sökas av grundad anledning för byggande av en del\nav en byggnad eller en hel byggnad innan tillståndet vunnit laga kraft.",
-            "process_description": "Inledningsrätt kan sökas i samband med den egentliga ansökan om\ntillstånd för projektet eller med en skild ansökan. Inledningsrätt\nska sökas senast inom 14 dagar från att besvärstiden för projektets\ntillståndsbeslut gått ut.",
-            "costs": "Se linken Avgifter som tas ut.",
-            "information": "Läs mer i anvisningen Inledningsrätt.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Avgifter som tas ut",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/byggande\/forhand\/avgifter-som-tas-ut"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Anvisning: Inledningsrätt",
-                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/sv\/Inledningsratt.pdf",
-                    "file_format": "PDF"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2455,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Inledningsrätt - E-tjänst",
-                    "prerequisites": "Kunden måste registrera sig för att använda tjänsten. Det är även möjligt att skapa ett företagskonto.",
-                    "availability_summary": "Tjänsten tillgänglig varje dag",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Lupapiste.fi",
-                            "url": "https:\/\/www.lupapiste.fi\/sv\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig varje dag "
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 4138,
         "fi": {
             "id": 4138,
@@ -3793,6 +3638,230 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 4065,
+        "fi": {
+            "id": 4065,
+            "exact_descriptions": [
+                3202,
+                6221,
+                6449,
+                9519
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Hae aloittamisoikeutta",
+            "description": "Jos et ole hakenut aloittamisoikeutta varsinaisen lupahakemuksen yhteydessä, lähetä hakemus ja alkuperäinen vakuusasiakirja alueen lupasihteerille. Löydät alueen lupasihteerin sähköpostisoitteen karttapalvelusta.",
+            "process_description": "Aloittamisoikeutta haetaan hankkeen varsinaisen lupahakemuksen yhteydessä tai erillisellä hakemuksella.",
+            "costs": "Päätös aloittamisoikeudesta on maksullinen.",
+            "information": "Lue lisää ohjeesta Aloittamisoikeus.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ohje: Aloittamisoikeus",
+                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2455,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Aloittamisoikeus - verkkoasiointi",
+                    "prerequisites": "Asiakkaan tulee rekisteröityä palvelun käyttäjäksi. Myös yritystili on mahdollinen.",
+                    "availability_summary": "Palvelu saatavilla joka päivä",
+                    "process_description": "1. Kirjaudu tai rekisteröidy palveluun.\n2. Valtuutettu taho (esim. suunnittelija) tai hankkeeseen ryhtyvä avaa lupahakemuksen. \n3. Kutsutaan hankkeelle muut tarvittavat osapuolet(suunnittelijat). Varmista, että kaikki on kutsuttu ja valtuutettu.\n3. Suunnittelija vie palveluun viimeistellyn hakemusaineiston (asiakirjat ja piirustukset).\n4. Seurataan hankkeen viestintää ja täydennetään puutuvia tietoja. \n5. Lupakäsittely voi alkaa, kun päätökseen tarvittava aineisto on toimitettu. Hakemukset käsitellään hakujärjestyksessä.\n6. Lupapäätös tulee näkyviin Lupapisteessä ja siitä toimitetaan ote hakijalle.\n7. Kutsu vastaavat työnjohtajat hankkeelle (huomaa päätöksen lainvoimaisuuden odottaminen).",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Lupapiste.fi",
+                            "url": "https:\/\/www.lupapiste.fi\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä "
+                        }
+                    ]
+                },
+                {
+                    "id": 3656,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae aloittamisoikeutta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3657,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Hae alueen lupasihteerin yhteystiedot",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Linkki karttapalveluun",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 4065,
+            "exact_descriptions": [
+                3202
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Inledningsrätt",
+            "description": "Inledningsrätt kan sökas av grundad anledning för byggande av en del\nav en byggnad eller en hel byggnad innan tillståndet vunnit laga kraft.",
+            "process_description": "Inledningsrätt kan sökas i samband med den egentliga ansökan om\ntillstånd för projektet eller med en skild ansökan. Inledningsrätt\nska sökas senast inom 14 dagar från att besvärstiden för projektets\ntillståndsbeslut gått ut.",
+            "costs": "Se linken Avgifter som tas ut.",
+            "information": "Läs mer i anvisningen Inledningsrätt.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Avgifter som tas ut",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/byggande\/forhand\/avgifter-som-tas-ut"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Anvisning: Inledningsrätt",
+                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/sv\/Inledningsratt.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2455,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Inledningsrätt - E-tjänst",
+                    "prerequisites": "Kunden måste registrera sig för att använda tjänsten. Det är även möjligt att skapa ett företagskonto.",
+                    "availability_summary": "Tjänsten tillgänglig varje dag",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Lupapiste.fi",
+                            "url": "https:\/\/www.lupapiste.fi\/sv\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig varje dag "
+                        }
+                    ]
+                },
+                {
+                    "id": 3657,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 899,
