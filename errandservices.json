@@ -3683,39 +3683,6 @@
             ],
             "channels": [
                 {
-                    "id": 2455,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Aloittamisoikeus - verkkoasiointi",
-                    "prerequisites": "Asiakkaan tulee rekisteröityä palvelun käyttäjäksi. Myös yritystili on mahdollinen.",
-                    "availability_summary": "Palvelu saatavilla joka päivä",
-                    "process_description": "1. Kirjaudu tai rekisteröidy palveluun.\n2. Valtuutettu taho (esim. suunnittelija) tai hankkeeseen ryhtyvä avaa lupahakemuksen. \n3. Kutsutaan hankkeelle muut tarvittavat osapuolet(suunnittelijat). Varmista, että kaikki on kutsuttu ja valtuutettu.\n3. Suunnittelija vie palveluun viimeistellyn hakemusaineiston (asiakirjat ja piirustukset).\n4. Seurataan hankkeen viestintää ja täydennetään puutuvia tietoja. \n5. Lupakäsittely voi alkaa, kun päätökseen tarvittava aineisto on toimitettu. Hakemukset käsitellään hakujärjestyksessä.\n6. Lupapäätös tulee näkyviin Lupapisteessä ja siitä toimitetaan ote hakijalle.\n7. Kutsu vastaavat työnjohtajat hankkeelle (huomaa päätöksen lainvoimaisuuden odottaminen).",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Lupapiste.fi",
-                            "url": "https:\/\/www.lupapiste.fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä "
-                        }
-                    ]
-                },
-                {
                     "id": 3656,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
@@ -3769,8 +3736,85 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 4065,
+            "exact_descriptions": [
+            ],
+            "service_id": 10634,
+            "type": "APPLICATION",
+            "name": "Apply for the right to commence",
+            "description": "If you have not applied for the right to commence in connection with the actual permit application, send the application and the original surety document to the local permit secretary. You can find the permit secretary's email address in the map service.",
+            "costs": "The decision on the right to commence is subject to a fee.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3656,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for the right to commence",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the form (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3657,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Find the contact details for the local permit secretary",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Link to the map service",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 4065,
             "exact_descriptions": [
@@ -3778,10 +3822,10 @@
             ],
             "service_id": 10634,
             "type": "APPLICATION",
-            "name": "Inledningsrätt",
+            "name": "Ansök om inledningsrätt",
             "description": "Inledningsrätt kan sökas av grundad anledning för byggande av en del\nav en byggnad eller en hel byggnad innan tillståndet vunnit laga kraft.",
-            "process_description": "Inledningsrätt kan sökas i samband med den egentliga ansökan om\ntillstånd för projektet eller med en skild ansökan. Inledningsrätt\nska sökas senast inom 14 dagar från att besvärstiden för projektets\ntillståndsbeslut gått ut.",
-            "costs": "Se linken Avgifter som tas ut.",
+            "process_description": "Om du inte har ansökt om inledningsrätt i samband med din egentliga tillståndsansökan, skicka din ansökan och dokumentet för säkerheten i original till områdets tillståndssekreterare. Du finner e-postadressen till områdets tillståndssekreterare i karttjänsten.",
+            "costs": "Beslutet om inledningsrätten är avgiftsbelagt.",
             "information": "Läs mer i anvisningen Inledningsrätt.",
             "provided_languages": [
                 "fi",
@@ -3812,41 +3856,34 @@
             ],
             "channels": [
                 {
-                    "id": 2455,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Inledningsrätt - E-tjänst",
-                    "prerequisites": "Kunden måste registrera sig för att använda tjänsten. Det är även möjligt att skapa ett företagskonto.",
-                    "availability_summary": "Tjänsten tillgänglig varje dag",
+                    "id": 3656,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om inledningsrätt",
                     "provided_languages": [
-                        "fi",
-                        "sv"
                     ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Lupapiste.fi",
-                            "url": "https:\/\/www.lupapiste.fi\/sv\/",
-                            "file_format": "HTML"
+                            "title": "Gå till blanketten (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf"
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig varje dag "
-                        }
                     ]
                 },
                 {
                     "id": 3657,
                     "type": "WEBPAGE",
                     "type_string": "Webbsida",
+                    "name": "Sök områdets tillståndssekreterares kontaktuppgifter",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -3860,6 +3897,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Länk till karttjänsten",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
                     ],
                     "availabilities": [
                     ]
