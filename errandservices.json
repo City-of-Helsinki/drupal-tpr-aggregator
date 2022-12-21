@@ -6296,6 +6296,7 @@
         "fi": {
             "id": 5223,
             "exact_descriptions": [
+                9520
             ],
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
@@ -6325,10 +6326,60 @@
             "channels": [
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5223,
+            "exact_descriptions": [
+                9520
+            ],
+            "service_id": 10634,
+            "type": "OTHER_ESERVICE",
+            "name": "Apply for the position of site supervisor",
+            "description": "Apply for the position of site supervisor in charge or specialist supervisor via Lupapiste.",
+            "information": "Always enclose these documents with the application:\n - degree certificates and transcript of records\n - list of construction sites for which the applicant has acted as a site supervisor.\n\nIf necessary\/requested, also enclose these documents with the application:\n - decision extracts on acting as a site supervisor in other municipalities\n - certificate of competence, such as a certificate issued by FISE Oy, a trade association, etc.\n - certificates of employment in the construction sector and any supervisory tasks (also from other sectors).\n\nIf the position is part-time, also enclose the following documents with the application:\n - account of the work to be included in the site supervisor position applied for and the estimated time to be spent on the work\n - other current site supervisor responsibilities in Helsinki and other municipalities and the estimated time to be spent on them.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5223,
+            "exact_descriptions": [
+                9520
+            ],
+            "service_id": 10634,
+            "type": "OTHER_ESERVICE",
+            "name": "Sök som arbetsledare",
+            "description": "Sök som ansvarig arbetsledare och arbetsledare för specialbranscher via Lupapiste.",
+            "information": "Bifoga alltid följande bilagor till en ansökan:\n - examensbetyg och studieintyg\n - en förteckning över de byggobjekt där den sökande har fungerat som arbetsledare.\n\nBifoga även följande bilagor till en ansökan vid behov\/om det begärs:\n - beslutsutdrag om verksamhet som arbetsledare i andra kommuner\n - intyg på kompetens, exempelvis intyg från FISE Oy, branschorganisation eller dylikt.\n - arbetsintyg från byggnadsbranschen och eventuella arbetsledaruppgifter (även inom andra branscher).\n\nOm det är frågan om ett deltidsuppdrag, bifoga även till ansökan:\n - en utredning av de arbeten som ingår i arbetsledaruppdraget som söks och den uppskattade tiden som kommer att användas för dessa\n - andra arbetsledaransvar i Helsingfors och andra kommuner för tillfället samt en uppskattning av tiden som används för dessa.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4816,
@@ -33950,13 +34001,14 @@
             "exact_descriptions": [
                 3202,
                 6449,
-                6451
+                6451,
+                9520
             ],
             "service_id": 10634,
             "type": "PERMISSION",
             "name": "Vastaavan työnjohtajan hyväksyminen",
-            "description": "Rakennuslupaa edellyttävässä rakennustyössä tulee olla vastaava työnjohtaja, joka on hyväksytty ennen rakennustyön aloittamista. Työnjohtajien kelpoisuus arvioidaan rakennusvalvonnassa. Työnjohtajahakemukset ja -ilmoitukset tehdään Lupapiste-palvelussa.",
-            "process_description": "Lue lisää Näin haet työnjohtajaksi -linkistä.",
+            "description": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä.",
+            "information": "1. Rakennushankkeeseen ryhtyvä nimeää vastaavan työnjohtajan Lupapiste-palvelussa, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse.\n\n 2. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa.\n\n3. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen.\n\n 4. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -33972,25 +34024,13 @@
                 "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Rakennusvalvonnan käsittelyajat",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/rakentaminen\/ennakkotietoa-rakentamiseen\/lupa-hakeminen\/kasittelyajat-rakennusvalvonta"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Näin haet työnjohtajaksi",
-                    "url": "https:\/\/www.hel.fi\/rakvv\/fi\/asioi-verkossa\/hae-tyonjohtajaksi\/"
-                }
             ],
             "channels": [
                 {
                     "id": 2009,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Vastaavan työnjohtajan nimeäminen",
-                    "prerequisites": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä.",
-                    "information": "1. Rakennushankkeeseen ryhtyvä nimeää vastaavan työnjohtajan Lupapiste-palvelussa, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse.\n\n2. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa.\n\n3. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen .\n\n4. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.",
+                    "name": "Nimeä vastaava työnjohtaja",
                     "availability_summary": "Avoinna joka päivä",
                     "provided_languages": [
                         "fi",
@@ -34025,13 +34065,14 @@
             "id": 1168,
             "exact_descriptions": [
                 3202,
-                6451
+                6451,
+                9520
             ],
             "service_id": 10634,
             "type": "PERMISSION",
             "name": "Godkännande av ansvarig arbetsledare",
-            "description": "För byggarbeten som kräver bygglov ska det finnas en ansvarig arbetsledare, som har godkänts innan arbetena inleds. Den ansvariga arbetsledarens behörighet avgörs vid byggnadstillsynen. Ansökningarna och anmälningarna om arbetsledare görs i tjänsten Lupapiste.",
-            "process_description": "Läs mer via länken Så här söker du till arbetsledare.",
+            "description": "Den som startar projektet eller hens befullmäktigade representant utnämner arbetsledaren i Lupapiste.",
+            "information": "Närmare uppgifter\n\n 1. Den som startar byggnadsprojektet utnämner den ansvarige arbetsledaren i Lupapiste-tjänsten, varifrån den utnämnda arbetsledaren får ett e-postmeddelande om detta.\n \n 2. Arbetsledaren godkänner utnämningen i Lupapiste-tjänsten.\n\n 3. Arbetsledaren lämnar sina egna uppgifter och sparar de bilagor som krävs och lämnar en ansökan eller gör en anmälan.\n\n 4. Byggnadstillsynen godkänner denna ansökan eller begär de tilläggsuppgifter som krävs.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -34049,13 +34090,8 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Så här söker du till arbetsledare",
-                    "url": "https:\/\/www.hel.fi\/rakvv\/sv\/nattjanster\/sok-till-arbetsledare"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Byggnadstillsynens handläggningstider",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/byggande\/forhand\/ansokan-tillstand\/handlaggningstider-byggnadstillsyn"
+                    "title": "Läs mer: Utnämning av en arbetsledare (på finska)",
+                    "url": "https:\/\/tuki.lupapiste.fi\/fi\/support\/solutions\/articles\/15000017640-ty%C3%B6njohtajan-nime%C3%A4minen-hankkeelle"
                 }
             ],
             "channels": [
@@ -34063,8 +34099,7 @@
                     "id": 2009,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Godkännande av ansvarig arbetsledare - E-tjänst",
-                    "prerequisites": "Kunden måste registrera sig för att använda tjänsten. Det är även möjligt att skapa ett företagskonto.",
+                    "name": "Utnämn en ansvarig arbetsledare",
                     "availability_summary": "Öppet varje dag",
                     "provided_languages": [
                         "fi",
@@ -34080,7 +34115,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Lupapiste.fi",
+                            "title": "Gå till Lupapiste",
                             "url": "https:\/\/www.lupapiste.fi\/sv",
                             "file_format": "HTML"
                         }
