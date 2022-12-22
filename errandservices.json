@@ -6302,7 +6302,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Hae työnjohtajaksi",
             "description": "Hae vastaavan ja erityisalojen työnjohtajaksi Lupapisteen kautta.",
-            "information": "Liitä hakemukseen aina nämä liitteet:\n\n - tutkintotodistukset ja opintosuoritusote\n\n - luettelo rakennuskohteista, joissa hakija on toiminut työnjohtajana.\n\nTarvittaessa\/pyydettäessä liitä hakemukseen myös nämä liitteet:\n\n - päätösotteet toimimisesta työnjohtajana muissa kunnissa\n\n - todistus pätevyydestä, esimerkiksi FISE Oy:n, toimialajärjestön tms. antama todistus.\n\n - työtodistukset rakennusalalta ja mahdollisista työnjohtotehtävistä (myös muilta aloilta).\n\nJos tehtävä on osa-aikainen, liitä hakemukseen myös:\n\n - selvitys haettavaan työnjohtotehtävään sisällytettävistä töistä ja niihin käytettäväksi arvioidusta ajasta\n\n - voimassa olevat muut työnjohtoa koskevat vastuut Helsingissä ja muissa kunnissa sekä arvio niiden ajankäytöstä.",
+            "information": "Liitä hakemukseen aina nämä liitteet:\n\n - tutkintotodistukset ja opintosuoritusote\n - luettelo rakennuskohteista, joissa hakija on toiminut työnjohtajana.\n\nTarvittaessa\/pyydettäessä liitä hakemukseen myös nämä liitteet:\n\n - päätösotteet toimimisesta työnjohtajana muissa kunnissa\n - todistus pätevyydestä, esimerkiksi FISE Oy:n, toimialajärjestön tms. antama todistus.\n - työtodistukset rakennusalalta ja mahdollisista työnjohtotehtävistä (myös muilta aloilta).\n\nJos tehtävä on osa-aikainen, liitä hakemukseen myös:\n\n - selvitys haettavaan työnjohtotehtävään sisällytettävistä töistä ja niihin käytettäväksi arvioidusta ajasta\n - voimassa olevat muut työnjohtoa koskevat vastuut Helsingissä ja muissa kunnissa sekä arvio niiden ajankäytöstä.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -6311,19 +6311,40 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ENTERPRISES"
+                "ENTERPRISES",
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "FORM",
-                    "title": "Siirry Lupapisteeseen",
-                    "url": "https:\/\/www.lupapiste.fi\/login\/fi",
-                    "file_format": "HTML"
-                }
             ],
             "channels": [
+                {
+                    "id": 3676,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Hae työnjohtajaksi",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": {
@@ -6344,13 +6365,40 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ENTERPRISES"
+                "ENTERPRISES",
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3676,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Apply for the position",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -6371,13 +6419,40 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ENTERPRISES"
+                "ENTERPRISES",
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3676,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Sök som arbetsledare",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -34722,7 +34797,6 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Nimeä vastaava työnjohtaja",
-                    "availability_summary": "Avoinna joka päivä",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -34736,16 +34810,12 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
+                            "type": "INTERNET",
                             "title": "Siiry Lupapisteeseen",
-                            "url": "https:\/\/www.lupapiste.fi\/",
-                            "file_format": "HTML"
+                            "url": "https:\/\/www.lupapiste.fi\/"
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä "
-                        }
                     ]
                 }
             ]
@@ -34791,7 +34861,6 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Utnämn en ansvarig arbetsledare",
-                    "availability_summary": "Öppet varje dag",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -34812,9 +34881,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag "
-                        }
                     ]
                 }
             ]
