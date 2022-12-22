@@ -6321,8 +6321,8 @@
             "channels": [
                 {
                     "id": 3676,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
                     "name": "Hae työnjohtajaksi",
                     "provided_languages": [
                         "fi",
@@ -6375,8 +6375,8 @@
             "channels": [
                 {
                     "id": 3676,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
                     "name": "Apply for the position",
                     "provided_languages": [
                         "fi",
@@ -6429,8 +6429,8 @@
             "channels": [
                 {
                     "id": 3676,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
                     "name": "Sök som arbetsledare",
                     "provided_languages": [
                         "fi",
@@ -6729,12 +6729,12 @@
             ],
             "service_id": 10054,
             "type": "APPLICATION",
-            "name": "Application for club activities, pre-primary education and municipal daycare that supplements pre-primary education",
+            "name": "Application for club activities",
             "description": "Guardians can use this application to apply for a place in City of Helsinki club activities, pre-primary education and municipal daycare that supplements pre-primary education for their child.",
-            "process_description": "The instructions on the application form will guide you in completing the application. Any missing or incorrect information will be marked in red in the navigation pane on the left and on the summary page. The submit button will only be activated when all of the mandatory fields on the application have been completed. The application can no longer be edited after it has been submitted, but previously submitted applications can be used as a template for the applications of siblings, for example.\n\nYou can save the application as a draft and edit the draft later in your personal e-services folder. The draft will be deleted when you submit the application.\n\nThe submitted application will be saved in the applicant's e-services folder, the e-services archive system and the early childhood education and pre-primary education client information system of the Education Division. The service will notify the user when the application has been submitted successfully and provide the user with a case number that the applicant can use to monitor the status of the application in their e-services folder. The status of a submitted application waiting to be processed is sent. When the application is opened for processing, the status will change to in progress.\n\nAll decisions on application are made with the client's wishes in mind. Pre-primary education places for the coming school year are granted according to a schedule confirmed each year. Pre-primary education places for the current school year are granted as quickly as possible by the school admission area. Municipal daycare that supplements pre-primary education is granted based on normal admission criteria. Places in clubs are granted when vacancies are available in the desired unit. \n\nDecisions are sent electronically to the guardian living at the same address as the child in their personal e-services folder, if they have a folder. Decisions are also sent electronically to the guardian not living at the same address as the child, if the guardians are co-guardians and the co-guardian has a personal e-services folder.\n\nFee decisions will be sent electronically to the personal e-services folder of the guardian whose details have been provided to the Client Fee Unit as the person responsible for the fees.\n\nThe application can be deleted before the decision is made by contacting the Service guidance. The status of a deleted application is cancelled.\n\nAny changes to the application during the processing stage must be reported to the Service guidance by telephone.\n",
+            "process_description": "The instructions on the application form will guide you in completing the application. Any missing or incorrect information will be marked in red in the navigation pane on the left and on the summary page. The submit button will only be activated when all of the mandatory fields on the application have been completed. The application can no longer be edited after it has been submitted, but previously submitted applications can be used as a template for the applications of siblings, for example.\n\nYou can save the application as a draft and edit the draft later in your personal e-services folder. The draft will be deleted when you submit the application.\n\nThe submitted application will be saved in the applicant's e-services folder, the e-services archive system and the early childhood education and pre-primary education client information system of the Education Division. The service will notify the user when the application has been submitted successfully and provide the user with a case number that the applicant can use to monitor the status of the application in their e-services folder. The status of a submitted application waiting to be processed is sent. When the application is opened for processing, the status will change to in progress.\n\nAll decisions on application are made with the client's wishes in mind. Places in clubs are granted when vacancies are available in the desired unit. \n\nDecisions are sent electronically to the guardian living at the same address as the child in their personal e-services folder, if they have a folder. Decisions are also sent electronically to the guardian not living at the same address as the child, if the guardians are co-guardians and the co-guardian has a personal e-services folder.\n\nFee decisions will be sent electronically to the personal e-services folder of the guardian whose details have been provided to the Client Fee Unit as the person responsible for the fees.\n\nThe application can be deleted before the decision is made by contacting the Service guidance. The status of a deleted application is cancelled.\n\nAny changes to the application during the processing stage must be reported to the Service guidance by telephone.\n",
             "processing_time": "The processing time of the application is a maximum of four months, unless the applicant provides a later date for the start of the service. The processing of the application starts approximately two ",
             "expiration_time": "The application is valid for one year from the date of submission.",
-            "information": "The application can be submitted one year prior to the desired start date of the care services, at the earliest.\n\nGuardians living outside Helsinki can also submit applications. A requirement for receiving the service is that the family's place of residence is in Helsinki at the time of the service starting.\n",
+            "information": "The application can be submitted one year prior to the desired start date.\n\nGuardians living outside Helsinki can also submit applications. A requirement for receiving the service is that the family's place of residence is in Helsinki at the time of the service starting.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -6820,12 +6820,12 @@
             ],
             "service_id": 10054,
             "type": "APPLICATION",
-            "name": "Ansökan till klubbverksamhet, förskoleundervisning och småbarnspedagogik som kompletterar förskoleundervisningen",
+            "name": "Ansökan till klubbverksamhet",
             "description": "Genom ansökan kan vårdnadshavaren ansöka om en plats för sitt barn i Helsingfors stads klubbverksamhet, förskoleundervisning eller småbarnspedagogik som kompletterar förskoleundervisningen.",
-            "process_description": "I ansökningsformuläret finns anvisningar för hur det ska fyllas i. Saknade eller felaktiga uppgifter markeras med rött i navigationen till vänster och på sammanfattningssidan. Skicka-knappen visas först när alla obligatoriska fält i formuläret har fyllts i. När formuläret har skickats in kan det inte längre redigeras, men den inskickade ansökan kan användas exempelvis som mall för ansökningar för syskon.\n\nVårdnadshavaren kan spara ansökan som utkast och senare redigera utkastet i ärendemappen. Utkastet försvinner när ansökan skickas in.\n\nDen inskickade ansökan sparas i den sökandes ärendemapp, i arkiveringssystemet för e-tjänsterna samt i fostrans- och utbildningssektorns klientdatasystem för småbarnspedagogiken och förskoleundervisningen. Tjänsten meddelar att anmälan har skickats och ger ett ärendenummer, med vilket den sökande kan följa ansökans status i ärendemappen. En ansökan som skickats in och väntar på behandling har statusen Sänd. När ansökan tas upp till behandling ändras dess status till Behandlas.\n\nNär ett beslut fattas om ansökan beaktas alltid klientens önskemål i mån av möjlighet. Förskoleplatser för den kommande perioden beviljas enligt en tidtabell som fastställs årligen. Förskoleplatser för innevarande förskoleperiod beviljas enligt elevupptagningsområde så snabbt som möjligt. Småbarnspedagogik som kompletterar förskoleundervisning beviljas enligt de normala urvalsgrunderna. En klubbplats beviljas när det finns lediga platser i den önskade klubben. \n\nBeslutet skickas elektroniskt till de vårdnadshavare som bor i samma hushåll som barnet. Beslutet skickas via vårdnadshavarnas personliga ärendemappar, om de har sådana. Beslutet skickas elektroniskt även till en eventuell vårdnadshavare som bor tillsammans med barnet på en annan adress, om det är fråga om gemensam vårdnad och den gemensamma vårdnadshavaren har en personlig ärendemapp.\n\nAvgiftsbeslut skickas elektroniskt via ärendemappen till den vårdnadshavare som ansvarar för avgifterna enligt anmälan till klientavgiftsenheten.\n\nMan kan ta bort en ansökan innan ett beslut fattats genom att kontakta servicehandledaren. En ansökan som tagits bort har statusen Annullerad.\n\nMan kan meddela om eventuella förändringar som man vill göra i ansökan under handläggningstiden genom att ringa till servicehandledaren.\n",
+            "process_description": "I ansökningsformuläret finns anvisningar för hur det ska fyllas i. Saknade eller felaktiga uppgifter markeras med rött i navigationen till vänster och på sammanfattningssidan. Skicka-knappen visas först när alla obligatoriska fält i formuläret har fyllts i. När formuläret har skickats in kan det inte längre redigeras, men den inskickade ansökan kan användas exempelvis som mall för ansökningar för syskon.\n\nVårdnadshavaren kan spara ansökan som utkast och senare redigera utkastet i ärendemappen. Utkastet försvinner när ansökan skickas in.\n\nDen inskickade ansökan sparas i den sökandes ärendemapp, i arkiveringssystemet för e-tjänsterna samt i fostrans- och utbildningssektorns klientdatasystem för småbarnspedagogiken och förskoleundervisningen. Tjänsten meddelar att anmälan har skickats och ger ett ärendenummer, med vilket den sökande kan följa ansökans status i ärendemappen. En ansökan som skickats in och väntar på behandling har statusen Sänd. När ansökan tas upp till behandling ändras dess status till Behandlas.\n\nNär ett beslut fattas om ansökan beaktas alltid klientens önskemål i mån av möjlighet. En klubbplats beviljas när det finns lediga platser i den önskade klubben. \n\nBeslutet skickas elektroniskt till de vårdnadshavare som bor i samma hushåll som barnet. Beslutet skickas via vårdnadshavarnas personliga ärendemappar, om de har sådana. Beslutet skickas elektroniskt även till en eventuell vårdnadshavare som bor tillsammans med barnet på en annan adress, om det är fråga om gemensam vårdnad och den gemensamma vårdnadshavaren har en personlig ärendemapp.\n\nAvgiftsbeslut skickas elektroniskt via ärendemappen till den vårdnadshavare som ansvarar för avgifterna enligt anmälan till klientavgiftsenheten.\n\nMan kan ta bort en ansökan innan ett beslut fattats genom att kontakta servicehandledaren. En ansökan som tagits bort har statusen Annullerad.\n\nMan kan meddela om eventuella förändringar som man vill göra i ansökan under handläggningstiden genom att ringa till servicehandledaren.\n",
             "processing_time": "Handläggningstiden för en ansökan är högst fyra månader, om den sökande inte meddelar ett senare startdatum för tjänsten. Behandlingen av ansökan inleds ungefär två månader före det önskade startdatum",
             "expiration_time": "Ansökan är i kraft i ett år från det datum den lämnats in.",
-            "information": "Ansökan kan lämnas in tidigast ett år innan man vill att vården ska börja.\n\nÄven personer som inte bor i Helsingfors kan lämna in en ansökan. En förutsättning för att få tjänsten är att familjens hemort är Helsingfors när tjänsten börjar.\n",
+            "information": "Ansökan kan lämnas in tidigast ett år innan startdatumet.\n\nÄven personer som inte bor i Helsingfors kan lämna in en ansökan. En förutsättning för att få tjänsten är att familjens hemort är Helsingfors när tjänsten börjar.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -17599,6 +17599,124 @@
         ]
     },
     {
+        "id": 5235,
+        "fi": {
+            "id": 5235,
+            "exact_descriptions": [
+                2856
+            ],
+            "service_id": 10441,
+            "type": "ADVICE",
+            "name": "Lastensuojelun tukiperhetoiminnan yhteystiedot",
+            "description": "Täältä löydät lastensuojelun tukiperhetoiminnan yhteystiedot.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "d4b3a166-9fa0-4846-9d63-ff1fdab670b6"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3679,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelin",
+                    "phone": "09 310 43240",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3680,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelin",
+                    "phone": "09 310 21576",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3681,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "tukiperhe@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3682,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Postiosoite",
+                    "personal_service_street_addr": "PL 8515",
+                    "personal_service_postal_code": "00099 ",
+                    "personal_service_city": "Helsingin kaupunki ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5059,
         "fi": {
             "id": 5059,
@@ -26707,7 +26825,7 @@
                     "id": 3487,
                     "type": "CHAT",
                     "type_string": "Chatt",
-                    "name": "Senioinfo chat",
+                    "name": "Sotebotti Hester och chat",
                     "availability_summary": "Öppet mån-ons, fre 09-15, tor 09-10, tor 11:30-15",
                     "provided_languages": [
                     ],
@@ -26721,8 +26839,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Chattrådgivning",
-                            "url": "https:\/\/www.hel.fi\/seniorit\/sv"
+                            "title": "Sotebotti (på finska)",
+                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/senioripalvelut\/ohjaus-ja-neuvonta\/seniori-info"
                         }
                     ],
                     "availabilities": [
@@ -31815,10 +31933,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
+                            "type": "INTERNET",
                             "title": "Siirry Lupapisteeseen",
-                            "url": "https:\/\/www.lupapiste.fi\/login\/fi",
-                            "file_format": "HTML"
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
                         }
                     ],
                     "availabilities": [
@@ -34732,6 +34849,62 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5236,
+        "fi": {
+            "id": 5236,
+            "exact_descriptions": [
+                9554
+            ],
+            "service_id": 10441,
+            "type": "ADVICE",
+            "name": "Vastaanottoperhetoiminnan tukipuhelin",
+            "description": "Vastaanottoperhetoiminnan tukipuhelin on tarkoitettu lapsille, vanhemmille, läheisille ja perhehoitajille. Tukipuhelimeen vastaa päivystävä sosiaaliohjaaja.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "0e18bed5-b546-469d-87ae-dfd020414d3b"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3683,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vastaanottoperhetoiminnan tukipuhelin",
+                    "prerequisites": "Palvelemme joka päivä klo 8-21",
+                    "phone": "09 310 52581",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 1168,
