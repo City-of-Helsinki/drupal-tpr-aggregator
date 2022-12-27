@@ -118,6 +118,65 @@
         ]
     },
     {
+        "id": 5242,
+        "fi": {
+            "id": 5242,
+            "exact_descriptions": [
+                3046
+            ],
+            "service_id": 10578,
+            "type": "APPOINTMENT",
+            "name": "Ajanvaraus lastenvalvojan konsultaatioon",
+            "process_description": "Perheasioiden sovitteluun varataan ensin konsultaatioaika. Konsultaatiossa käydään läpi ne asiat, joista tehdän tulisi sopia. Konsultaatio tapahtuu aina etänä.\n\nKonsultaation yhteydessä teille varataan varsinainen aika lastenvalvojalle.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3017"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3687,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Konsultaatioaika lastenvalvojalle",
+                    "availability_summary": "Avoinna ti 12-13",
+                    "phone": "0931043383 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ti 12-13"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4861,
         "fi": {
             "id": 4861,
@@ -23617,6 +23676,63 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5240,
+        "fi": {
+            "id": 5240,
+            "exact_descriptions": [
+            ],
+            "service_id": 10578,
+            "type": "APPOINTMENT",
+            "name": "Perheasioiden sovittelun neuvonta ja ajanvaraus",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3017"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3685,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Perheasioiden sovittelun ajanvaraus",
+                    "availability_summary": "Avoinna ma, pe 09-11",
+                    "phone": "0406865293",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, pe 09-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4943,
