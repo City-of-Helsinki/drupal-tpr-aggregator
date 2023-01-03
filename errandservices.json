@@ -126,8 +126,8 @@
             ],
             "service_id": 10578,
             "type": "APPOINTMENT",
-            "name": "Ajanvaraus lastenvalvojan konsultaatioon",
-            "process_description": "Perheasioiden sovitteluun varataan ensin konsultaatioaika. Konsultaatiossa käydään läpi ne asiat, joista tehdän tulisi sopia. Konsultaatio tapahtuu aina etänä.\n\nKonsultaation yhteydessä teille varataan varsinainen aika lastenvalvojalle.",
+            "name": "Ajanvaraus lastenvalvojalle",
+            "process_description": "",
             "provided_languages": [
                 "en",
                 "fi",
@@ -148,9 +148,9 @@
                     "id": 3687,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Konsultaatioaika lastenvalvojalle",
-                    "availability_summary": "Avoinna ti 12-13",
-                    "phone": "0931043383 ",
+                    "name": "Ajanvaraus lastenvalvojalle",
+                    "availability_summary": "Avoinna ma, ke, pe 09-11, ti, to 13-14",
+                    "phone": "09 3104 4999",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -165,7 +165,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ti 12-13"
+                            "availability_string": "Avoinna ma, ke, pe 09-11"
+                        },
+                        {
+                            "availability_string": "Avoinna ti, to 13-14"
                         }
                     ]
                 }
@@ -2565,232 +2568,6 @@
         ],
         "sv": [
         ]
-    },
-    {
-        "id": 5128,
-        "fi": {
-            "id": 5128,
-            "exact_descriptions": [
-                9028
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Elintarvikeneuvonta",
-            "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
-            "description": "Tietoa ja neuvontaa elintarvikkeisiin liittyvissä asioissa sähköpostitse kymp.elintarviketurvallisuus@hel.fi.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3541,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Elintarvikevalvonnan puhelinpalvelu",
-                    "prerequisites": "HUOM! Maanantaina 12.12.2022 ei ole puhelinneuvontaa, mutta tavoitat meidät sähköpostitse.",
-                    "information": "HUOM! Maanantaina 12.12.2022 ei ole puhelinneuvontaa, mutta tavoitat meidät sähköpostitse.",
-                    "availability_summary": "Avoinna ma-pe 09-11",
-                    "process_description": "HUOM! Maanantaina 12.12.2022 ei ole puhelinneuvontaa, mutta tavoitat meidät sähköpostitse.",
-                    "phone": "+358 9 310 14000",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3542,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Elintarvikeneuvonnan sähköpostiosoite",
-                    "email": "elintarviketurvallisuus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5128,
-            "exact_descriptions": [
-                9028
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Advisory service on food issues",
-            "description": "Information and advice on food-related issues by email kymp.elintarviketurvallisuus@hel.fi.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3541,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Advisory service on food issues, telephone service",
-                    "prerequisites": "NOTE! On Monday 12 December 2022, there will be no telephone service, but you can contact us by email.",
-                    "information": "NOTE! On Monday 12 December 2022, there will be no telephone service, but you can contact us by email.",
-                    "availability_summary": "Open Mon-Fri 09-11",
-                    "process_description": "NOTE! On Monday 12 December 2022, there will be no telephone service, but you can contact us by email.",
-                    "phone": "+358 9 310 14000",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Fri 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3542,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Advisory service on food issues, email address",
-                    "email": "elintarviketurvallisuus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5128,
-            "exact_descriptions": [
-                9028
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Livsmedelsrådgivning",
-            "description": "Information och rådgivning om livsmedelsärenden via e-post kymp.elintarviketurvallisuus@hel.fi.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3541,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Livsmedelsrådgivningens telefontjänst",
-                    "prerequisites": "OBS! Måndagen 12.12.2022 blir det ingen telefonkonsultation, men du kan kontakta oss via e-post.",
-                    "information": "OBS! Måndagen 12.12.2022 blir det ingen telefonkonsultation, men du kan kontakta oss via e-post.",
-                    "availability_summary": "Öppet mån-fre 09-11",
-                    "process_description": "OBS! Måndagen 12.12.2022 blir det ingen telefonkonsultation, men du kan kontakta oss via e-post.",
-                    "phone": "+358 9 310 14000",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-fre 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3542,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Livsmedelsrådgivningens e-postadress",
-                    "email": "elintarviketurvallisuus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
     },
     {
         "id": 4496,
@@ -17842,7 +17619,6 @@
         "fi": {
             "id": 5103,
             "exact_descriptions": [
-                3047,
                 9004
             ],
             "service_id": 10087,
@@ -32026,6 +31802,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Toimita erityissuunnitelmat",
+            "description": "Toimita erityissuunnitelmat ja allekirjoita ne sähköisesti Lupapisteen kautta. Kun olet varannut esittelyajan ja toimittanut suunnitelmat Lupapisteeseen, ilmoita asiasta alueen tarkastusinsinöörille sähköpostilla. Yhteystiedot löydät karttapalvelusta.",
             "information": "Noudata erityissuunnitelmien esitystavassa esimerkiksi seuraavia ohjeita:\n\n - Ympäristöministeriön ohje rakentamista koskevista suunnitelmista ja selvityksistä\n\nAsiakirjoissa tulee olla kansilehti, jossa on vain yksi asianmukaisesti täytetty nimiö, revisiotaulukko ja mahdollinen sijaintikaavio sekä riittävä tila arkistointimerkinnöille. Piirustuksen kuvia, määrittelytekstejä, viittauksia asiakirjoihin tai jakelutaulukkoa ei tule ulottaa kansilehdelle. Nimiön tulee sisältää tiedot rakennuskohteesta, suunnittelijasta ja tämän tutkinnosta sekä piirustuksen sisällöstä.\n\nJos suunnitelmia on yli 10, liitä mukaan myös luettelo piirustuksista.\n\nTiedostojen tulee olla PDF\/A-muodossa.",
             "provided_languages": [
                 "en",
