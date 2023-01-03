@@ -7531,6 +7531,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Swedish Adult Education Centre Arbis advisory services, service channels",
+            "description": "We advise on matters related to the services of Helsingfors Arbis by telephone, e-mail and through the feedback channel.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7623,6 +7624,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Helsingfors arbis rådgivningstjänster, ärendehanteringstjänst",
+            "description": "Vi ger råd i ärenden som gäller Helsingfors Arbis tjänster per telefon, e-post och via responskanalen.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12314,6 +12316,7 @@
             "service_id": 10231,
             "type": "APPOINTMENT",
             "name": "Fotterapins kundtjänst",
+            "description": "Fotterapi centraliserad tidsbokning.",
             "provided_languages": [
                 "fi"
             ],
@@ -23683,6 +23686,7 @@
         "fi": {
             "id": 5240,
             "exact_descriptions": [
+                3048
             ],
             "service_id": 10578,
             "type": "APPOINTMENT",
@@ -23707,7 +23711,7 @@
                     "id": 3685,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Perheasioiden sovittelun ajanvaraus",
+                    "name": "Perheasioiden sovittelun neuvonta ja ajanvaraus",
                     "availability_summary": "Avoinna ma, pe 09-11",
                     "phone": "0406865293",
                     "call_charge_info": "pvm\/mpm",
@@ -24812,6 +24816,7 @@
             "type": "ADVICE",
             "name": "Medical Helpline",
             "name_synonyms": "116 117, 116117",
+            "description": "Please call Medical Helpline on number 116 117 before you go to an emergency clinic. In an emergency, call the emergency number 112 instead.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -24863,6 +24868,7 @@
             "type": "ADVICE",
             "name": "Jourhjälpen",
             "name_synonyms": "116 117, 116117",
+            "description": "Ring Jourhjälp 116 117 innan du överväger att åka till jouren. Om det är fråga om ett nödläge, ring nödnumret 112.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -29554,6 +29560,7 @@
                 "sv"
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -29607,12 +29614,14 @@
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
             "name": "Fill in a symptom assessment in Omaolo",
+            "description": "In Omaolo, you can start using many public social welfare and healthcare services quickly and easily.",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -29671,12 +29680,14 @@
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
             "name": "Gör en symptombedömning i Omaolo",
+            "description": "I Omaolo kan du påbörja användningen av många offentliga social-och hälsotjänster snabbt och enkelt.",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
                 "INDIVIDUALS"
