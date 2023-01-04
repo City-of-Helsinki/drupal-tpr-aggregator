@@ -6125,7 +6125,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Hae työnjohtajaksi",
             "description": "Hae vastaavan ja erityisalojen työnjohtajaksi Lupapisteen kautta.",
-            "information": "Liitä hakemukseen aina nämä liitteet:\n\n - tutkintotodistukset ja opintosuoritusote\n - luettelo rakennuskohteista, joissa hakija on toiminut työnjohtajana.\n\nTarvittaessa\/pyydettäessä liitä hakemukseen myös nämä liitteet:\n\n - päätösotteet toimimisesta työnjohtajana muissa kunnissa\n - todistus pätevyydestä, esimerkiksi FISE Oy:n, toimialajärjestön tms. antama todistus.\n - työtodistukset rakennusalalta ja mahdollisista työnjohtotehtävistä (myös muilta aloilta).\n\nJos tehtävä on osa-aikainen, liitä hakemukseen myös:\n\n - selvitys haettavaan työnjohtotehtävään sisällytettävistä töistä ja niihin käytettäväksi arvioidusta ajasta\n - voimassa olevat muut työnjohtoa koskevat vastuut Helsingissä ja muissa kunnissa sekä arvio niiden ajankäytöstä.",
+            "information": "Liitä hakemukseen aina nämä liitteet:\n\n - tutkintotodistukset ja opintosuoritusote\n - luettelo rakennuskohteista, joissa hakija on toiminut työnjohtajana.\n\nTarvittaessa tai pyydettäessä liitä hakemukseen myös nämä liitteet:\n\n - päätösotteet toimimisesta työnjohtajana muissa kunnissa\n - todistus pätevyydestä, esimerkiksi FISE Oy:n, toimialajärjestön tms. antama todistus.\n - työtodistukset rakennusalalta ja mahdollisista työnjohtotehtävistä (myös muilta aloilta).\n\nJos tehtävä on osa-aikainen, liitä hakemukseen myös:\n\n - selvitys haettavaan työnjohtotehtävään sisällytettävistä töistä ja niihin käytettäväksi arvioidusta ajasta\n - voimassa olevat muut työnjohtoa koskevat vastuut Helsingissä ja muissa kunnissa sekä arvio niiden ajankäytöstä.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -30787,8 +30787,8 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Tilaa maastoonmerkintä ja sijaintikatselmus",
-            "description": "Tilaa maastoonmerkintä ja sijaintikatselmus kaupunkimittauspalvelun asiakaspalvelusta. Lähetä tilaus sähköpostilla tai tule tekemään se paikan päälle. Asiakaspalvelu on auki ma-ti 8.15-12.00 ja ke-pe 12.00-15.00. Palvelua saa vuoronumerolla. Jos varaat ajan etukäteen, saat palvelua sovittuna aikana.",
-            "information": "Liitä tilaukseen seuraavat tiedot:\n\n - Kohteen osoite\n\n - Rakennuslupatunnus\n\n - Kiinteistötunnus\n\n - Lupapisteen tunnus\n\n - Tilaajan nimi ja yhteystiedot. \n\nLiitä tilaukseen myös seuraavat tiedot laskutusta varten:\n\n - Maksajan nimi (yrityksen nimi sekä yhteyshenkilön nimi, yksityishenkilön tilauksissa henkilön nimi riittää)\n\n - Maksajan osoite \n\n - Y-tunnus tai henkilötunnus \n\n - Sähköisen laskutuksen tiedot, mikäli laskutuksen toivotaan tapahtuvan sähköisesti. \n\nKun tilaat maalämmön sijaintikatselmuksen, toimita samalla porausraportti osoitteeseen kymp.maalampo@hel.fi.",
+            "description": "Tilaa maastoonmerkintä ja sijaintikatselmus kaupunkimittauspalvelun asiakaspalvelusta. Kun tilaat maalämmön sijaintikatselmuksen, toimita samalla porausraportti osoitteeseen kymp.maalampo@hel.fi.\n\nLähetä tilaus sähköpostilla tai tule tekemään se paikan päälle. Asiakaspalvelu on auki ma-ti 8.15-12.00 ja ke-pe 12.00-15.00. Palvelua saa vuoronumerolla. Jos varaat ajan etukäteen, saat palvelua sovittuna aikana.",
+            "information": "Liitä tilaukseen seuraavat tiedot:\n\n - Kohteen osoite\n\n - Rakennuslupatunnus\n\n - Kiinteistötunnus\n\n - Lupapisteen tunnus\n\n - Tilaajan nimi ja yhteystiedot. \n\nLiitä tilaukseen myös seuraavat tiedot laskutusta varten:\n\n - Maksajan nimi (yrityksen nimi sekä yhteyshenkilön nimi, yksityishenkilön tilauksissa henkilön nimi riittää)\n\n - Maksajan osoite \n\n - Y-tunnus tai henkilötunnus \n\n - Sähköisen laskutuksen tiedot, mikäli laskutuksen toivotaan tapahtuvan sähköisesti.\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -30852,26 +30852,6 @@
                         {
                             "availability_string": "Avoinna ke-pe 12-15"
                         }
-                    ]
-                },
-                {
-                    "id": 3663,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Tilaa maalämpökaivon sijaintikatselmus",
-                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -30950,26 +30930,6 @@
                             "availability_string": "Open Wed-Fri 12-15"
                         }
                     ]
-                },
-                {
-                    "id": 3663,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Order a geothermal well location review",
-                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -31046,26 +31006,6 @@
                         {
                             "availability_string": "Öppet ons-fre 12-15"
                         }
-                    ]
-                },
-                {
-                    "id": 3663,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Beställ lägessyn för jordvärmebrunn",
-                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -34760,8 +34700,7 @@
             "service_id": 10634,
             "type": "PERMISSION",
             "name": "Vastaavan työnjohtajan hyväksyminen",
-            "description": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä.",
-            "information": "1. Rakennushankkeeseen ryhtyvä nimeää vastaavan työnjohtajan Lupapiste-palvelussa, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse.\n\n 2. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa.\n\n3. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen.\n\n 4. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.",
+            "description": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä,josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.\n",
             "provided_languages": [
                 "fi",
                 "sv"
