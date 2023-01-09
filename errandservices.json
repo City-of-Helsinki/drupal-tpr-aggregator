@@ -31743,6 +31743,33 @@
                         "fi",
                         "sv"
                     ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3709,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Hae yhteystiedot",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
@@ -31752,9 +31779,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "INTERNET",
-                            "title": "Siirry Lupapisteeseen",
-                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                            "type": "MAP",
+                            "title": "Siirry karttapalveluun",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
                         }
                     ],
                     "availabilities": [
@@ -31787,10 +31814,141 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3675,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit special plans",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3709,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Find contact information",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Go to the map service",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 5222,
+            "exact_descriptions": [
+                6221
+            ],
+            "service_id": 10634,
+            "type": "OTHER_ESERVICE",
+            "name": "Leverera specialplaner",
+            "description": "Lämna in och underteckna specialplanerna i Lupapiste. När du har bokat en presentationstid och levererat planerna till Luapiste, meddela detta till områdets inspektionsingenjör per e-post. Kontaktuppgifterna finner du i karttjänsten.",
+            "information": "Följ exempelvis följande anvisningar när specialplanerna ska presenteras:\n\n - Miljöministeriets anvisningar om planer och utredningar gällande byggande\n\nDokumenten bör ha ett titelblad med bara en korrekt ifylld titel, revisionstabell och eventuellt positionsdiagram samt tillräckligt med plats för arkiveringsanteckningar. Bilder av ritningen, definitionstexter, referenser till dokument eller fördelningstabell bör inte finnas på titelbladet. Titeln bör innehålla uppgifter om byggobjektet, planeraren och planerarens examen samt ritningens innehåll.\n\nBifoga även en förteckning över ritningarna om planernas antal överstiger 10.\n\nFilerna bör vara i formatet PDF\/A.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3675,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Leverera specialplaner",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3709,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Sök kontaktuppgifter",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Gå till karttjänsten",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 1999,
