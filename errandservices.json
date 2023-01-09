@@ -3648,10 +3648,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Ansök om inledningsrätt",
-            "description": "Inledningsrätt kan sökas av grundad anledning för byggande av en del\nav en byggnad eller en hel byggnad innan tillståndet vunnit laga kraft.",
-            "process_description": "Om du inte har ansökt om inledningsrätt i samband med din egentliga tillståndsansökan, skicka din ansökan och dokumentet för säkerheten i original till områdets tillståndssekreterare. Du finner e-postadressen till områdets tillståndssekreterare i karttjänsten.",
-            "costs": "Beslutet om inledningsrätten är avgiftsbelagt.",
-            "information": "Läs mer i anvisningen Inledningsrätt.",
+            "description": "Om du inte har ansökt om inledningsrätt i samband med din egentliga tillståndsansökan, skicka din ansökan och dokumentet för säkerheten i original till områdets tillståndssekreterare. Du finner e-postadressen till områdets tillståndssekreterare i karttjänsten.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -30864,8 +30861,8 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Order a staking-out and location review",
-            "description": "Order a staking-out and location review from the customer service of City Survey Services. Email or visit us to place your order. Our customer service is open Mon-Tue 8.15-12.00 and Wed-Fri 12.00-15.00. We provide service with a queueing number. If you make an appointment in advance, you will be served at the agreed time.",
-            "information": "Please include the following information with your order:\n\n - Address of the site\n - Building permit identification number\n - Real property unit identification number\n - Lupapiste identification number\n - Client name and contact information \n\nPlease also include the following information with your order for invoicing purposes:\n\n - Payer's name (company name and contact person's name, for private orders the person's name is sufficient)\n - Payer's address \n - Business ID or personal ID \n - E-invoicing details, if e-invoicing is desired. \n\nWhen ordering a geothermal location review, please submit a drilling report to kymp.maalampo@hel.fi.\n",
+            "description": "Order a staking-out and location review from the customer service of City Survey Services. When ordering a geothermal location review, please submit a drilling report to kymp.maalampo@hel.fi. Email or visit us to place your order. Our customer service is open Mon-Tue 8.15-12.00 and Wed-Fri 12.00-15.00. We provide service with a queueing number. If you make an appointment in advance, you will be served at the agreed time.",
+            "information": "Please include the following information with your order:\n\n - Address of the site\n\n - Building permit identification number\n\n - Real property unit identification number\n\n - Lupapiste identification number\n\n - Client name and contact information \n\nPlease also include the following information with your order for invoicing purposes:\n\n - Payer's name (company name and contact person's name, for private orders the person's name is sufficient)\n\n - Payer's address \n\n - Business ID or personal ID \n\n - E-invoicing details, if e-invoicing is desired. \n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -30941,8 +30938,8 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Beställ utmärkning i terrängen och lägessyn",
-            "description": "Beställ utmärkning i terrängen och lägessyn genom stadsmätningstjänsternas kundservice. Skicka beställningen per e-post eller kom och gör den på plats. Kundservice har öppet mån- tis 8.15- 12.00 och ons-fre 12.00-15.00. Betjäningen sker med könummer Om du bokar en tid på förhand, betjänas du på den avtalade tiden.",
-            "information": "Bifoga beställningen följande uppgifter:\n\n - Objektets adress\n - Bygglovsbeteckning\n - Fastighetsbeteckning\n - Lupapiste-nummer\n - Beställarens namn och kontaktuppgifter. \n\nBifoga beställningen också följande uppgifter för fakturering:\n\n - Betalarens namn (företagets namn och kontaktpersonens namn, privatpersonens namn räcker vid privata beställningar)\n - Beställarens adress \n - FO-nummer eller personbeteckning \n - Uppgifter för elektronisk fakturering om faktureringen önskas ske elektroniskt.\n\nSkicka samtidigt som du beställer lägessyn för jordvärme borrningsrapporten till adressen kymp.maalampo@hel.fi.\n",
+            "description": "Beställ utmärkning i terrängen och lägessyn genom stadsmätningstjänsternas kundservice. \nSkicka samtidigt som du beställer lägessyn för jordvärme borrningsrapporten till adressen kymp.maalampo@hel.fi. Skicka beställningen per e-post eller kom och gör den på plats. Kundservice har öppet mån- tis 8.15- 12.00 och ons-fre 12.00-15.00. Betjäningen sker med könummer Om du bokar en tid på förhand, betjänas du på den avtalade tiden.",
+            "information": "Bifoga beställningen följande uppgifter:\n\n - Objektets adress\n\n - Bygglovsbeteckning\n\n - Fastighetsbeteckning\n\n - Lupapiste-nummer\n\n - Beställarens namn och kontaktuppgifter. \n\nBifoga beställningen också följande uppgifter för fakturering:\n\n - Betalarens namn (företagets namn och kontaktpersonens namn, privatpersonens namn räcker vid privata beställningar)\n\n - Beställarens adress \n\n - FO-nummer eller personbeteckning \n\n - Uppgifter för elektronisk fakturering om faktureringen önskas ske elektroniskt.\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -34858,7 +34855,7 @@
             "service_id": 10634,
             "type": "PERMISSION",
             "name": "Vastaavan työnjohtajan hyväksyminen",
-            "description": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä,josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.\n",
+            "description": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -34916,8 +34913,7 @@
             "service_id": 10634,
             "type": "PERMISSION",
             "name": "Godkännande av ansvarig arbetsledare",
-            "description": "Den som startar projektet eller hens befullmäktigade representant utnämner arbetsledaren i Lupapiste.",
-            "information": "Närmare uppgifter\n\n 1. Den som startar byggnadsprojektet utnämner den ansvarige arbetsledaren i Lupapiste-tjänsten, varifrån den utnämnda arbetsledaren får ett e-postmeddelande om detta.\n \n 2. Arbetsledaren godkänner utnämningen i Lupapiste-tjänsten.\n\n 3. Arbetsledaren lämnar sina egna uppgifter och sparar de bilagor som krävs och lämnar en ansökan eller gör en anmälan.\n\n 4. Byggnadstillsynen godkänner denna ansökan eller begär de tilläggsuppgifter som krävs.\n",
+            "description": "Den som startar projektet eller hens befullmäktigade representant utnämner arbetsledaren i Lupapiste, varifrån den utnämnda arbetsledaren får ett e-postmeddelande om detta. Arbetsledaren godkänner utnämningen i Lupapiste-tjänsten. Arbetsledaren lämnar sina egna uppgifter och sparar de bilagor som krävs och lämnar en ansökan eller gör en anmälan. Byggnadstillsynen godkänner denna ansökan eller begär de tilläggsuppgifter som krävs.\n",
             "provided_languages": [
                 "fi",
                 "sv"
