@@ -26372,7 +26372,7 @@
                     "id": 2612,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Contraception anamnesis",
+                    "name": "Preliminary information form for contraception",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -26383,6 +26383,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Preliminary information form for contraception",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/raskaudenehkaisyn-aloitus-esitiedot-en.doc",
+                            "file_format": "WORD"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -26429,7 +26435,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Användning av preventivmedel, förhanduppgifter",
-                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/Ten-064_Raskaudenehkaisyn_esitiedot_sv.rtf"
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/Ten-064_Raskaudenehkaisyn_esitiedot_sv.rtf",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
@@ -31958,7 +31965,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Toimita erityissuunnitelmat",
             "description": "Toimita erityissuunnitelmat ja allekirjoita ne sähköisesti Lupapisteen kautta. Kun olet varannut esittelyajan ja toimittanut suunnitelmat Lupapisteeseen, ilmoita asiasta alueen tarkastusinsinöörille sähköpostilla. Yhteystiedot löydät karttapalvelusta.",
-            "information": "Noudata erityissuunnitelmien esitystavassa esimerkiksi seuraavia ohjeita:\n\n - Ympäristöministeriön ohje rakentamista koskevista suunnitelmista ja selvityksistä\n\nAsiakirjoissa tulee olla kansilehti, jossa on vain yksi asianmukaisesti täytetty nimiö, revisiotaulukko ja mahdollinen sijaintikaavio sekä riittävä tila arkistointimerkinnöille. Piirustuksen kuvia, määrittelytekstejä, viittauksia asiakirjoihin tai jakelutaulukkoa ei tule ulottaa kansilehdelle. Nimiön tulee sisältää tiedot rakennuskohteesta, suunnittelijasta ja tämän tutkinnosta sekä piirustuksen sisällöstä.\n\nJos suunnitelmia on yli 10, liitä mukaan myös luettelo piirustuksista.\n\nTiedostojen tulee olla PDF\/A-muodossa.",
+            "information": "Noudata erityissuunnitelmien esitystavassa seuraavia ohjeita: \n\n - Asiakirjoissa tulee olla kansilehti, jossa on vain yksi asianmukaisesti täytetty nimiö, revisiotaulukko ja mahdollinen sijaintikaavio sekä riittävä tila arkistointimerkinnöille. \n\n - Piirustuksen kuvia, määrittelytekstejä, viittauksia asiakirjoihin tai jakelutaulukkoa ei tule ulottaa kansilehdelle. \n\n - Nimiön tulee sisältää tiedot rakennuskohteesta, suunnittelijasta ja tämän tutkinnosta sekä piirustuksen sisällöstä. \n\n - Jos suunnitelmia on yli 10, liitä mukaan myös luettelo piirustuksista.\n \n - Tiedostojen tulee olla PDF\/A-muodossa.\n\nKatso Ympäristöministeriön ohje rakentamista koskevista suunnitelmista ja selvityksistä.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32038,7 +32045,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Submit special plans",
             "description": "Submit the special plans and sign them electronically via Lupapiste. Once you have booked a presentation time and submitted your plans to Lupapiste, please notify the inspection engineer responsible for the area by email. You can find the contact information in the map service.",
-            "information": "When presenting special plans, follow these guidelines, for example:\n\n - Guidance on construction plans and surveys from the Ministry of the Environment\n\nDocuments must have a cover page with just one properly filled-in title page, a revision table and a location chart, if any, and sufficient space for filing notations. Drawing illustrations, specification texts, references to documents or a distribution table should not be extended to the cover page. The title should contain information about the building, the planner, the planner's qualifications and the contents of the drawing.\n\nIf there are more than 10 plans, also include a list of drawings.\nThe files must be in PDF\/A format.\n",
+            "information": "When presenting special plans, follow these guidelines, for example:\n\n - Documents must have a cover page with just one properly filled-in title page, a revision table and a location chart, if any, and sufficient space for filing notations. \n\n - Drawing illustrations, specification texts, references to documents or a distribution table should not be extended to the cover page. \n\n - The title should contain information about the building, the planner, the planner's qualifications and the contents of the drawing.\n\n - If there are more than 10 plans, also include a list of drawings.\nThe files must be in PDF\/A format.\n\nGuidance on construction plans and surveys from the Ministry of the Environment.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32118,7 +32125,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Leverera specialplaner",
             "description": "Lämna in och underteckna specialplanerna i Lupapiste. När du har bokat en presentationstid och levererat planerna till Luapiste, meddela detta till områdets inspektionsingenjör per e-post. Kontaktuppgifterna finner du i karttjänsten.",
-            "information": "Följ exempelvis följande anvisningar när specialplanerna ska presenteras:\n\n - Miljöministeriets anvisningar om planer och utredningar gällande byggande\n\nDokumenten bör ha ett titelblad med bara en korrekt ifylld titel, revisionstabell och eventuellt positionsdiagram samt tillräckligt med plats för arkiveringsanteckningar. Bilder av ritningen, definitionstexter, referenser till dokument eller fördelningstabell bör inte finnas på titelbladet. Titeln bör innehålla uppgifter om byggobjektet, planeraren och planerarens examen samt ritningens innehåll.\n\nBifoga även en förteckning över ritningarna om planernas antal överstiger 10.\n\nFilerna bör vara i formatet PDF\/A.\n",
+            "information": "Följ följande anvisningar när specialplanerna ska presenteras:\n\n - Dokumenten bör ha ett titelblad med bara en korrekt ifylld titel, revisionstabell och eventuellt positionsdiagram samt tillräckligt med plats för arkiveringsanteckningar. \n\n - Bilder av ritningen, definitionstexter, referenser till dokument eller fördelningstabell bör inte finnas på titelbladet. \n\n - Titeln bör innehålla uppgifter om byggobjektet, planeraren och planerarens examen samt ritningens innehåll.\n\n - Bifoga även en förteckning över ritningarna om planernas antal överstiger 10.\n\n - Filerna bör vara i formatet PDF\/A.\n\nKontrollera miljöministeriets anvisningar om planer och utredningar gällande byggande\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -34088,7 +34095,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Varaa aika erityissuunnitelmien esittelyyn",
-            "description": "Varaa aika alueen rakennustyön työmaavalvonnasta vastaavalta tarkastusinsinööriltä tai rakennusmestarilta soittamalla puhelinpalveluaikana ma klo 11-12 ja to klo 10.30-12. Yhteystiedot löydät karttapalvelusta.",
+            "description": "Varaa aika erityissuunnitelmien esittelyyn rakennusvalvonnan asiakaspalvelusta.",
             "information": "Erityissuunnitelmia ovat:\n\n - rakennepiirustukset ja -laskelmat\n\n - ilmanvaihtosuunnitelmat\n\n - kiinteistön vesi- ja viemärilaitteiston suunnitelmat\n\n - pohjatutkimukset\n\n - perustamistapalausunnot\n\n - paalutus- ja mittauspöytäkirjat\n\n - mahdolliset rakennusvaiheen lausunnot.",
             "provided_languages": [
                 "fi",
@@ -34105,14 +34112,14 @@
             ],
             "channels": [
                 {
-                    "id": 3660,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Hae yhteystiedot",
+                    "id": 3713,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Rakennusvalvonnan asiakaspalevlu",
+                    "availability_summary": "Avoinna ma-pe 08:30-16",
+                    "phone": " 09 3102 6300",
+                    "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -34122,13 +34129,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Siirry karttapalveluun",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:30-16"
+                        }
                     ]
                 }
             ]
@@ -34141,7 +34146,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Book an appointment for the presentation of special plans",
-            "description": "Book an appointment with the inspection engineer or master builder responsible for supervising construction sites in the area by calling during the telephone service hours, Mon 11.00-12.00 and Thu 10.30-12.00. You can find the contact information in the map service.",
+            "description": "Get hours for presenting specific plans to the inspector from Building Control Services customer service.",
             "information": "Special plans include the following:\n\n - structural drawings and calculations\n - ventilation plans\n - plans for the water supply and sewerage system of the property\n - ground surveys\n - foundation method statements\n - pile-driving and measurement records\n - any statements made during the construction phase.\n",
             "provided_languages": [
                 "fi",
@@ -34158,14 +34163,14 @@
             ],
             "channels": [
                 {
-                    "id": 3660,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Find contact information",
+                    "id": 3713,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Building Control Services customer service",
+                    "availability_summary": "Open Mon-Fri 08:30-16",
+                    "phone": " 09 3102 6300",
+                    "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -34175,13 +34180,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Go to the map service",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08:30-16"
+                        }
                     ]
                 }
             ]
@@ -34194,7 +34197,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Boka tid för förevisande av specialplaner",
-            "description": "Boka tid med inspektionsingenjören eller byggmästaren som ansvarar för byggplatsinspektionen på området genom att ringa under telefonbetjäningstiden mån kl 11-12 och tor kl 10.30-12. Kontaktuppgifterna finner du i karttjänsten.",
+            "description": "Reservera tid för presentering av specialplaner från byggnadstillsynens kundservice.",
             "process_description": "Specialplaner är:\n\n - byggnadsritningar och -beräkningar\n - ventilationsplaner\n - planer för fastighetens vatten- och avloppssystem\n - gundundersökningar\n - utlåtande om grundläggningssätt\n - pålnings- och inmätprotokoll\n - eventuella utlåtanden under byggnadsskedet.\n",
             "provided_languages": [
                 "fi",
@@ -34211,14 +34214,14 @@
             ],
             "channels": [
                 {
-                    "id": 3660,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Sök kontaktuppgifter",
+                    "id": 3713,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Byggnadstillsynens kundservice",
+                    "availability_summary": "Öppet mån-fre 08:30-16",
+                    "phone": " 09 3102 6300",
+                    "call_charge_info": "msa\/lna",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -34228,13 +34231,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Gå till karttjänsten",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 08:30-16"
+                        }
                     ]
                 }
             ]
