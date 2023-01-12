@@ -2570,6 +2570,145 @@
         ]
     },
     {
+        "id": 5128,
+        "fi": {
+            "id": 5128,
+            "exact_descriptions": [
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Elintarvikeneuvonta",
+            "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
+            "description": "Tietoa ja neuvontaa elintarvikkeisiin liittyvissä asioissa sähköpostitse kymp.elintarviketurvallisuus@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3542,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Elintarvikeneuvonnan sähköpostiosoite",
+                    "email": "kymp.elintarviketurvallisuus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5128,
+            "exact_descriptions": [
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Advisory service on food issues",
+            "description": "Information and advice on food-related issues by email kymp.elintarviketurvallisuus@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3542,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Advisory service on food issues, email address",
+                    "email": "kymp.elintarviketurvallisuus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5128,
+            "exact_descriptions": [
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Livsmedelsrådgivning",
+            "description": "Information och rådgivning om livsmedelsärenden via e-post kymp.elintarviketurvallisuus@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3542,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Livsmedelsrådgivningens e-postadress",
+                    "email": "kymp.elintarviketurvallisuus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5129,
         "fi": {
             "id": 5129,
@@ -26460,7 +26599,7 @@
             "process_description": "1. Tee ilmoitus hyvissä ajoin tai viimeistään neljä viikkoa ennen kuin aloitat toiminnan. ​\n\n2. Tee ilmoitus sähköisesti ilppa.fi-sivuston kautta. Jos ilmoituksen teko ei onnistu ilpan kautta, voit täyttää Word-lomakkeen. Lisää liitteeksi elintarvikehuoneiston pohjapiirustus. Ilmoituslomakkeet ja ohjeet ilmoituksen tekemiseen löytyvät verkkosivuiltamme. ​\n\n3. Käsittelemme ilmoituksesi mahdollisimman pian. Olemme yhteydessä, jos käsittelijä tarvitsee lisätietoja. ​\n\n4. Lähetämme todistuksen, kun ilmoituksesi on käsitelty.",
             "processing_time": "Ilmoitus käsitellään seitsemän työpäivän kuluessa sen saapumisesta ja ilmoituksen tekijälle lähetetään todistus ilmoituksen käsittelystä.",
             "costs": "Ilmoituksen käsittely on maksullista. Elintarvikevalvonnan taksa löytyy verkkosivuiltamme.",
-            "information": "Elintarvikevalvonta neuvoo sinua puhelimitse arkisin klo 9-11 puh. 09 310 14000 ja sähköpostitse elintarviketurvallisuus@hel.fi.",
+            "information": "Elintarvikevalvonta neuvoo sinua arkisin sähköpostitse kymp.ulkomyynti@hel.fi.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26576,7 +26715,7 @@
             "process_description": "This is how you submit a notification:\n\n1. Submit the notification well in advance or no later than four weeks prior to the commencement of operations. \n2. Submit the notification through Ilppa website,  ilppa.fi. Ilppa.fi can be used only in Finnish and Swedish at the moment. If you can´t use Ilppa website, you can also fill in a Word form and send that to us. Please attach a layout of the premises to the notification. You can find the forms and further information on our website.  \n3. We will process your notification as soon as possible. We will contact you if we need further information. \n4. We will send you a certificate that the notification has been processed.\n\n\n\n",
             "processing_time": "We will process your notification of starting a food business within seven days from receiving. We will send a certificate to you that the notification has been processed.",
             "costs": "The notification of establishing a business and making changes to the operations of food premises based in Helsinki are subject to a charge.\n",
-            "information": "For more information, please contact Food Safety Unit, mon-fri 9-11 tel. 09 310 14000 and e-mail elintarviketurvallisuus@hel.fi.\n",
+            "information": "For more information, please contact Food Safety Unit by e-mail kymp.ulkomyynti@hel.fi.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26685,7 +26824,7 @@
             "process_description": "Så här gör du en anmälan om en livsmedelslokal:\n\n1. Gör anmälan i god tid eller minst fyra veckor innan du inleder verksamheten.\n2. Gör anmälan elektroniskt via ilppa.fi-sidorna. Om anmälan inte lyckas via ilppa, kan du fylla i en Word-blankett. Bifoga livsmedelslokalens bottenplan. Anmälningsblanketter och anvisningar till att göra anmälan hittar du på våra nätsidor. \n3. Vi behandlar din anmälan så fort som möjligt. Vi tar kontakt, om vi behöver tilläggsinformation.\n4. Vi skickar ett intyg om att ärendet har behandlats.\n\n\n\n\n",
             "processing_time": "Vi strävar efter att behandla din anmälan inom 7 dygn.",
             "expiration_time": "Behandling av anmälan är avgiftsbelagd. Livsmedelsövervakningens taxa finns på våra nätsidor.",
-            "information": "Livsmedelsövervakningen rådger dig per telefon vardagar kl 9-11 tel. 09 310 14000 och per epost elintarviketurvallisuus@hel.fi.",
+            "information": "Livsmedelsövervakningen rådger dig vardagar per epost kymp.ulkomyynti@hel.fi.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -31293,7 +31432,6 @@
                     "type_string": "Verkkosivu",
                     "name": "Tilaa rakentamisen katselmukset",
                     "information": "Tarkastusinsinöörit ja rakennusmestarit ovat tavoitettavissa ma klo 11-12 ja to klo 10.30-12.",
-                    "availability_summary": "Avoinna ma 11-12, to 10:30-12",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -31314,12 +31452,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma 11-12"
-                        },
-                        {
-                            "availability_string": "Avoinna to 10:30-12"
-                        }
                     ]
                 }
             ]
@@ -31357,7 +31489,6 @@
                     "type_string": "Webpage",
                     "name": "Order construction reviews",
                     "information": "The inspection engineers and master builders can be contacted Mon 11.00-12.00 and Thu 10.30-12.00.",
-                    "availability_summary": "Open Mon 11-12, Thu 10:30-12",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -31378,12 +31509,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Open Mon 11-12"
-                        },
-                        {
-                            "availability_string": "Open Thu 10:30-12"
-                        }
                     ]
                 }
             ]
@@ -31421,7 +31546,6 @@
                     "type_string": "Webbsida",
                     "name": "Beställ syneförrättningar för byggandet",
                     "information": "Inspektionsingenjörer och byggmästare är anträffbara mån kl. 11-12 och tor kl. 10.30-12.",
-                    "availability_summary": "Öppet mån 11-12, tor 10:30-12",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -31442,12 +31566,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Öppet mån 11-12"
-                        },
-                        {
-                            "availability_string": "Öppet tor 10:30-12"
-                        }
                     ]
                 }
             ]
