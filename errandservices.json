@@ -24227,8 +24227,13 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Applying for after-school activities at school",
+                    "title": "Applying for after-school activities",
                     "url": "https:\/\/www.hel.fi\/afterschoolactivities"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "After-school activity places on the Service Map",
+                    "url": "https:\/\/palvelukartta.hel.fi\/en\/search?q=after-school%20activities"
                 }
             ],
             "channels": [
@@ -24257,6 +24262,37 @@
                             "title": "Electronic application form",
                             "url": "https:\/\/lomake.hel.fi\/afternoonactivities",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3620,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Paper application for after-school activities",
+                    "information": "If you are unable to use the online application form, you can apply by printing out and sending us the paper application. \n\n\n",
+                    "process_description": "Post the paper application to Education Division, After-school activities, P.O. Box 51300, 00099 City of Helsinki or deliver it to our letter box at Töysänkatu 2 D, 00510 Helsinki.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Paper application to after-school activities in the school year 2023-2024, PDF (Form in English coming soon)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/popa\/Hakulomake-iptoiminta.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Paper application to after-school activities in the school year 2022-2023, PDF",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/ip-toiminta\/perusopetuksen_iltapaivatoiminta_k2022_EN.pdf"
                         }
                     ],
                     "availabilities": [
@@ -31251,7 +31287,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Kaupunkimittauspalvelun asiakaspalvelu",
                     "availability_summary": "Avoinna ma-ti 08:15-12, ke-pe 12-15",
-                    "phone": "Puh. 09 310 38064 tai 09 310 31902",
+                    "phone": "Puh. +358 (0)9 310 38064 tai +358 (0)9 310 31902",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -31282,9 +31318,9 @@
             ],
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
-            "name": "Order a staking-out and location review",
-            "description": "Order a staking-out and location review from the customer service of City Survey Services. When ordering a geothermal location review, please submit a drilling report to kymp.maalampo@hel.fi. Email or visit us to place your order. Our customer service is open Mon-Tue 8.15-12.00 and Wed-Fri 12.00-15.00. We provide service with a queueing number. If you make an appointment in advance, you will be served at the agreed time.",
-            "information": "Please include the following information with your order:\n\n - Address of the site\n\n - Building permit identification number\n\n - Real property unit identification number\n\n - Lupapiste identification number\n\n - Client name and contact information \n\nPlease also include the following information with your order for invoicing purposes:\n\n - Payer's name (company name and contact person's name, for private orders the person's name is sufficient)\n\n - Payer's address \n\n - Business ID or personal ID \n\n - E-invoicing details, if e-invoicing is desired. \n",
+            "name": "Order a terrain marking or location inspection",
+            "description": "Order a terrain marking or location inspection of a building by sending an email to kymp.kami.asiakaspalvelu@hel.fi. tel. +358 (0)9 310 38064 or ?358 (0)9 310 31902. When ordering a geothermal location review, please submit a drilling report to kymp.maalampo@hel.fi. Email or visit us to place your order. Our customer service is open Mon-Tue 8.15-12.00 and Wed-Fri 12.00-15.00. We provide service with a queueing number. If you want to place an order on the spot, please book an appointment with customer service in advance by calling",
+            "information": "Please include the following information with your order: \n\n - Address of the site\n\n - Building permit identification number\n\n - Property identifier\n\n - Lupapiste identification number \n\n - Customer name and contact information \n\nPlease attach the following information to your order for invoicing purposes: \n\n - Payer's name (company name and contact person's name, for private orders the payer's name is sufficient)\n \n- Payer's address \n\n - Business ID or personal identity number \n\n - E-invoicing details, if e-invoicing is desired.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -31328,7 +31364,7 @@
                     "type_string": "Telephone",
                     "name": "the customer service of City Survey Services",
                     "availability_summary": "Open Mon-Tue 08:15-12, Wed-Fri 12-15",
-                    "phone": "Puh. 09 310 38064 tai 09 310 31902",
+                    "phone": "Puh. +358 (0)9 310 38064 tai +358 (0)9 310 31902",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
                     ],
@@ -31405,7 +31441,7 @@
                     "type_string": "Telefon",
                     "name": "Stadsmätningstjänsternas kundservice",
                     "availability_summary": "Öppet mån-tis 08:15-12, ons-fre 12-15",
-                    "phone": "Puh. 09 310 38064 tai 09 310 31902",
+                    "phone": "Puh. +358 (0)9 310 38064 tai +358 (0)9 310 31902",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
                     ],
