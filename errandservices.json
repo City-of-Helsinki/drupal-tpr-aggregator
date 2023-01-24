@@ -30617,7 +30617,6 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Tiedottaminen tilapäisestä elintarvikemyynnistä sähköisesti",
                     "prerequisites": "Käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.",
-                    "information": "Lomakkeeseen liittyvissä kysymyksissä voit ottaa yhteyttä neuvontaan puh. (09) 310 14000.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "authorization_code": "Ympäristöterveydenhuollon ilmoitukset",
                     "provided_languages": [
@@ -30657,9 +30656,9 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tiedottaminen tilapäisestä elintarvikemyynnistä tulostettavalla lomakkeella",
-                    "information": "Lomakkeeseen liittyvissä kysymyksissä voit ottaa yhteyttä ympäristökeskuksen neuvontaan puh. (09) 310 14000.",
+                    "information": "Lomakkeet tulee toimittaa sähköisesti osoitteeseen kymp.ulkomyynti@hel.fi tai postilla osoitteeseen Helsingin kaupungin ympäristöpalvelut, PL 58235, 00099 Helsingin kaupunki, viimeistään neljä arkipäivää ennen toiminnan aloittamista.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Tiedot toimitetaan sähköisesti osoitteeseen ulkomyynti@hel.fi tai postilla osoitteeseen Helsingin kaupungin ympäristökeskus, PL 500, 00099 Helsingin kaupunki, viimeistään neljä arkipäivää ennen toiminnan aloittamista.",
+                    "process_description": "Tiedot toimitetaan sähköisesti osoitteeseen kymp.ulkomyynti@hel.fi tai postilla osoitteeseen Helsingin kaupungin ympäristökeskus, PL 58235, 00099 Helsingin kaupunki, viimeistään neljä arkipäivää ennen toiminnan aloittamista.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -30775,7 +30774,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
                     "name": "Notification of temporary food sales, PDF form (in Finnish)",
-                    "information": "PDF form in Finnish",
+                    "information": "The forms must be submitted electronically to e-mail kymp.ulkomyynti@hel.fi or by post to the address PO Box 58235, 00099 City of Helsinki no later than four business days before the start of the activity.",
                     "availability_summary": "Service available every day around the clock",
                     "provided_languages": [
                     ],
@@ -30880,6 +30879,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
                     "name": "Underrättelse om tillfällig försäljning, blankett för utskrift",
+                    "information": "Blanketterna ska lämnas elektroniskt till adressen kymp.ulkomyynti@hel.fi eller per post till adressen Helsingfors stads miljötjänst, PL 58235, 00099 Helsingfors stad senast fyra arbetsdagar innan aktivitetens start.",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "process_description": "Blanketten kan ifyllas på datorn, sparas på egen dator och sedan sändas som bilaga till ett e-postmeddelande till adressen ulkomyynti@hel.fi.",
                     "provided_languages": [
