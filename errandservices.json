@@ -9984,6 +9984,154 @@
         }
     },
     {
+        "id": 934,
+        "fi": {
+            "id": 934,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Hyvinvoinnin ja terveyden edistämisen sekä sosiaali-, terveys- ja pelastustoimen yleisavustus",
+            "description": "Avustuksia myönnetään toimintaan, joka tukee voimassa olevan kaupunkistrategian ja hyvinvoinnin ja terveyden edistämisen suunnitelman tavoitteiden toteutumista, sekä toimintaan, joka kytkeytyy onnettomuuksien ehkäisyyn, pelastustoimintaan tai väestönsuojelun edistämiseen.",
+            "process_description": "Yleisavustuksia voivat hakea rekisteröityneet vähintään vuoden toimineet järjestöt, joiden toiminta kohdistuu helsinkiläisiin. Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\n\n1. Yleisavustuksia koskevat päätökset tekee kaupunginhallitus sekä sosiaali-, terveys- ja pelaslautakunta tai viranhaltija.\n2. Tiedon päätöksestä hakija saa postitse.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n4. Avustuksen käytöstä on annettava selvitys. Ohjeet selvityksen tekemiseen annetaan avustuspäätöksessä. \n",
+            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan, mikäli se on lähetetty määräajan puitteissa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308",
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa avustuksista",
+                    "url": "https:\/\/www.hel.fi\/sote\/fi\/paatoksenteko\/jarjestoyhteistyo-ja-avustukset\/",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 918,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sosiaali- ja terveystoimiala sekä kulttuurin ja vapaa-ajan toimiala: Avustus iäkkäiden ihmisten liikkumisen ja kulttuuritoiminnan edistämiseksi",
+                    "prerequisites": "1.1.2021 alkaen palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
+                    "information": "Palvelu saatavilla hakuaikana joka päivä ympäri vuorokauden.",
+                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata Asiointikansiosta.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittelyssä\"-tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää hakemuksen \"Viestit\"-ominaisuutta käyttäen annettuun määräaikaan mennessä.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/sotePerus?new=1",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute sosiaali- ja terveystoimialalle",
+                            "url": "https:\/\/www.hel.fi\/sote\/fi\/palaute\/anna-palautetta",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 934,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Understöd inom främjandet av välfärd och hälsa och social-, hälsovårds- och räddningssektorn",
+            "description": "Understöd beviljas för verksamhet som stöder förverkligandet av målen i den gällande stadsstrategin och planen för främjande av välfärd och hälsa samt för verksamhet som anknyter till förebyggande av olyckor, räddningsverksamhet eller främjande av befolkningsskydd.",
+            "process_description": "Allmänt understöd kan sökas av registrerade organisationer vilkas verksamhet riktar sig till helsingforsare och pågått i minst ett år. Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\n1. Beslut om allmänt understöd fattas av \nstadsstyrelsen, stadsstyrelsens sektion för reform av social-, hälsovårds- och räddningsnämnden eller tjänsteinnehavaren.\n2. Sökanden informeras om beslutet per post.\n3. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n4. En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Anvisningar om utredningen ges i understödsbeslutet.",
+            "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan för samma ändamål ersätter den tidigare om den sänts inom utsatt tid.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308",
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Mera om understöd",
+                    "url": "https:\/\/www.hel.fi\/sote\/sv\/beslutsfattande\/understod-till-organisationer\/",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 918,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Social- och hälsovårdsväsendet, ansökan om allmänt understöd",
+                    "prerequisites": "Från och med 1.1.2021 förutsätter användningen av tjänsten identifikation med organisationens\/föreningens suomi.fi-fullmakt.\n\nVänligen notera att det kan ta upp till två månader att beviljas suomi.fi-fullmakt.\n\nYtterligare information om suomi.fi-fullmakten: https:\/\/www.suomi.fi\/fullmakter",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i Ärendemappen.\n\nUppgifterna i ansökan kan ändras så länge statusen är \"Mottagits\". Efter att statusen är \"Behandlas\" kan ansökan inte längre ändras. \nBilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Respons till social- och hälsovårdsväsendet",
+                            "url": "https:\/\/www.hel.fi\/sote\/sv\/respons-och-kontaktuppgifter\/ge-respons",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Fyll i blanketten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/sotePerus?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4225,
         "fi": {
             "id": 4225,
@@ -28642,154 +28790,6 @@
                         {
                             "availability_string": "Öppet dygnet runt varje dag"
                         }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 934,
-        "fi": {
-            "id": 934,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Sosiaali- ja terveystoimi, yleisavustushakemus",
-            "description": "Järjestöt, joiden toiminta tukee voimassa olevan kaupunkistrategian ja kaupunginvaltuuston hyväksymän lakisääteisen hyvinvoinnin ja terveyden edistämisen suunnitelman tavoitteiden toteutumista, voivat hakea avustusta toimintaansa. Tarkemmat tiedot: www.hel.fi\/sote > Päätöksenteko > Järjestöyhteistyö ja avustukset.",
-            "process_description": "Yleisavustuksia voivat hakea rekisteröityneet vähintään vuoden toimineet järjestöt, joiden toiminta kohdistuu helsinkiläisiin. Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.\n\n1. Yleisavustuksia koskevat päätökset tekee kaupunginhallitus, kaupunginhallituksen sosiaali- ja terveydenhuollon sekä pelastustoimen uudistusjaosto tai viranhaltija.\n2. Tiedon päätöksestä hakija saa postitse.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n4. Avustuksen käytöstä on annettava selvitys. Ohjeet selvityksen tekemiseen annetaan avustuspäätöksessä. \n",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan, mikäli se on lähetetty määräajan puitteissa.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308",
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Tietoa avustuksista",
-                    "url": "https:\/\/www.hel.fi\/sote\/fi\/paatoksenteko\/jarjestoyhteistyo-ja-avustukset\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 918,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Sosiaali- ja terveystoimiala sekä kulttuurin ja vapaa-ajan toimiala: Avustus iäkkäiden ihmisten liikkumisen ja kulttuuritoiminnan edistämiseksi",
-                    "prerequisites": "1.1.2021 alkaen palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
-                    "information": "Palvelu saatavilla hakuaikana joka päivä ympäri vuorokauden.",
-                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata Asiointikansiosta.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittelyssä\"-tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää hakemuksen \"Viestit\"-ominaisuutta käyttäen annettuun määräaikaan mennessä.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry lomakkeeseen",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/sotePerus?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute sosiaali- ja terveystoimialalle",
-                            "url": "https:\/\/www.hel.fi\/sote\/fi\/palaute\/anna-palautetta",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": {
-            "id": 934,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Social- och hälsovårdsväsendet, ansökan om allmänt understöd",
-            "description": "Organisationer vars verksamhet stöder genomförandet av målen i den gällande stadsstrategin och den lagstadgade planen för att främja välbefinnande och hälsa som godkänts av stadsfullmäktige kan söka understöd för sin verksamhet. Läs mera: https:\/\/hel.fi\/sote > Beslutsfattande > Understöd till organisationer",
-            "process_description": "Allmänt understöd kan sökas av registrerade organisationer vilkas verksamhet riktar sig till helsingforsare och pågått i minst ett år. Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\n1. Beslut om allmänt understöd fattas av \nstadsstyrelsen, stadsstyrelsens sektion för reform av social- och hälsovården samt räddningsväsendet eller tjänsteinnehavaren.\n2. Sökanden informeras om beslutet per post.\n3. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n4. En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Anvisningar om utredningen ges i understödsbeslutet.",
-            "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan för samma ändamål ersätter den tidigare om den sänts inom utsatt tid.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308",
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Mera om understöd",
-                    "url": "https:\/\/www.hel.fi\/sote\/sv\/beslutsfattande\/understod-till-organisationer\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 918,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Social- och hälsovårdsväsendet, ansökan om allmänt understöd",
-                    "prerequisites": "Från och med 1.1.2021 förutsätter användningen av tjänsten identifikation med organisationens\/föreningens suomi.fi-fullmakt.\n\nVänligen notera att det kan ta upp till två månader att beviljas suomi.fi-fullmakt.\n\nYtterligare information om suomi.fi-fullmakten: https:\/\/www.suomi.fi\/fullmakter",
-                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i Ärendemappen.\n\nUppgifterna i ansökan kan ändras så länge statusen är \"Mottagits\". Efter att statusen är \"Behandlas\" kan ansökan inte längre ändras. \nBilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till social- och hälsovårdsväsendet",
-                            "url": "https:\/\/www.hel.fi\/sote\/sv\/respons-och-kontaktuppgifter\/ge-respons",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Fyll i blanketten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/sotePerus?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
