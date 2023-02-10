@@ -7144,6 +7144,62 @@
         }
     },
     {
+        "id": 5279,
+        "fi": {
+            "id": 5279,
+            "exact_descriptions": [
+            ],
+            "service_id": 10178,
+            "type": "APPLICATION",
+            "name": "Hautausavun hakeminen",
+            "name_synonyms": "hautausapu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3731,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Etuuskäsittelyn puhelinneuvonta suomeksi",
+                    "availability_summary": "Avoinna ma-pe 09-12",
+                    "phone": "09 310 56257",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4964,
         "fi": {
             "id": 4964,
