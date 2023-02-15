@@ -16577,6 +16577,66 @@
         }
     },
     {
+        "id": 5281,
+        "fi": {
+            "id": 5281,
+            "exact_descriptions": [
+                7449
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Koululainen, täytä lasten ja nuorten suun terveyskysely ennen vastaanotolle tuloa",
+            "description": "Täyttämiseen tarvitset oman henkilötunnuksesi. Jos et tiedä henkilötunnustasi, kysy vanhemmalta tai muulta tutulta aikuiselta apua.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3734,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Lasten ja nuorten suun terveyskysely",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Koululainen, täytä lasten ja nuorten suun terveyskysely ennen vastaanotolle tuloa",
+                            "url": "https:\/\/www.omaolo.fi\/maara-aikaistarkastus\/Tarkastus-2023-2d94",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5060,
         "fi": {
             "id": 5060,
