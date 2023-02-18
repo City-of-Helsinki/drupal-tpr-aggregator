@@ -36440,8 +36440,57 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5236,
+            "exact_descriptions": [
+                7562
+            ],
+            "service_id": 10441,
+            "type": "ADVICE",
+            "name": "Hjälplinje",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "0e18bed5-b546-469d-87ae-dfd020414d3b"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3683,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Hjälplinje",
+                    "availability_summary": "Öppet varje dag 08-21",
+                    "phone": "09 310 52581",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag 08-21"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5268,
