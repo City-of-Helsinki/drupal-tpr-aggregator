@@ -1694,7 +1694,8 @@
                 8946,
                 8947,
                 9025,
-                9370
+                9370,
+                9574
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -1799,7 +1800,8 @@
                 8946,
                 8947,
                 9025,
-                9370
+                9370,
+                9574
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -1884,7 +1886,8 @@
                 8946,
                 8947,
                 9025,
-                9370
+                9370,
+                9574
             ],
             "service_id": 10016,
             "type": "OTHER_ESERVICE",
@@ -4289,9 +4292,8 @@
             "service_id": 10384,
             "type": "APPLICATION",
             "name": "Hae kunnan lausunto ARAn hakemukseen",
-            "description": "Hae kunnan lausuntoa rakennus- tai peruskorjaushankkeeseen, johon olet hakenut ARAlta korkotukilainaa tai takauslainaa.",
-            "process_description": "Kun kohteen hankesuunnitelma on valmistunut, jätä hakemusasiakirjat ARAn sähköisessä asioinnissa. ARA pyytää tätä kautta kunnalta lausuntoa.\n\nKaupunki antaa hankkeesta lausuntonsa ja toimittaa sen ARAn. Hakija näkee lausunnon ARAn sähköisestä asioinnista.\n\nOhjeet hakemuksen tekemiseen ja hakemusasiakirjat löydät ARAn sivuilta www.ara.fi\n \nLisätietoa kunnan lausunnoista puh. 09 310 34174 (Veikko Hentilä) tai sähköpostitse asuntoas@hel.fi.\n",
-            "processing_time": "Toimitamme lausunnon kahden viikon kuluessa tarvittavien asiakirjojen vastaanottamisesta.",
+            "description": "Hae kunnan lausuntoa rakennus- tai peruskorjaushankkeeseen, johon olet hakenut ARAlta korkotukilainaa tai takauslainaa.\n\nKun kohteen hankesuunnitelma on valmistunut, jätä hakemusasiakirjat ARAn sähköisessä asioinnissa. ARA pyytää tätä kautta kunnalta lausuntoa.\n\nKaupunki antaa hankkeesta lausuntonsa ja toimittaa sen ARAn. Hakija näkee lausunnon ARAn sähköisestä asioinnista.\n\nIlman kunnan puoltavaa lausuntoa hanke ei voi saada ehdollista varausta ARAlta. Lausunnossa otetaan kantaa hankkeen soveltuvuuteen kunnan asuntokantaan ja asuntomarkkinatilanteeseen.\n\nToimitamme lausunnon kahden viikon kuluessa tarvittavien asiakirjojen vastaanottamisesta.",
+            "process_description": "",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -4303,6 +4305,71 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3743,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Hae avustusta ARAn sivuilla",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry ARAn sivuille",
+                            "url": "https:\/\/www.ara.fi\/fi-FI"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3744,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lisätietoa kunnan lausunnoista sähköpostitse",
+                    "email": "asuntoas@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3745,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Lisätietoa kunnan lausunnoista puhelimitse",
+                    "phone": "09 310 34174",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": [
