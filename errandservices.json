@@ -4291,8 +4291,8 @@
             ],
             "service_id": 10384,
             "type": "APPLICATION",
-            "name": "Hae kunnan lausunto ARAn hakemukseen",
-            "description": "Hae kunnan lausuntoa rakennus- tai peruskorjaushankkeeseen, johon olet hakenut ARAlta korkotukilainaa tai takauslainaa.\n\nKun kohteen hankesuunnitelma on valmistunut, jätä hakemusasiakirjat ARAn sähköisessä asioinnissa. ARA pyytää tätä kautta kunnalta lausuntoa.\n\nKaupunki antaa hankkeesta lausuntonsa ja toimittaa sen ARAn. Hakija näkee lausunnon ARAn sähköisestä asioinnista.\n\nIlman kunnan puoltavaa lausuntoa hanke ei voi saada ehdollista varausta ARAlta. Lausunnossa otetaan kantaa hankkeen soveltuvuuteen kunnan asuntokantaan ja asuntomarkkinatilanteeseen.\n\nToimitamme lausunnon kahden viikon kuluessa tarvittavien asiakirjojen vastaanottamisesta.",
+            "name": "Hae kunnan lausuntoa",
+            "description": "Hae kunnan lausuntoa rakennus- tai peruskorjaushankkeeseen, johon olet hakenut ARAlta korkotukilainaa tai takauslainaa.\n\nKun kohteen hankesuunnitelma on valmistunut, jätä hakemusasiakirjat ARAn sähköisessä asioinnissa. ARA pyytää tätä kautta kunnalta lausuntoa.\n\nKaupunki antaa hankkeesta lausuntonsa ja toimittaa sen ARAn. Hakija näkee lausunnon ARAn sähköisestä asioinnista.\n\nToimitamme lausunnon kahden viikon kuluessa tarvittavien asiakirjojen vastaanottamisesta.",
             "process_description": "",
             "provided_languages": [
             ],
@@ -4322,8 +4322,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry ARAn sivuille",
-                            "url": "https:\/\/www.ara.fi\/fi-FI"
+                            "title": "Siirry ARAn verkkoasiointiin",
+                            "url": "https:\/\/www.ara.fi\/fi-FI\/Verkkoasiointi"
                         }
                     ],
                     "availabilities": [
@@ -4355,7 +4355,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Lisätietoa kunnan lausunnoista puhelimitse",
                     "phone": "09 310 34174",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
