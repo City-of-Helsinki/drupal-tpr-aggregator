@@ -4306,34 +4306,10 @@
             ],
             "channels": [
                 {
-                    "id": 3743,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Hae avustusta ARAn sivuilla",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry ARAn verkkoasiointiin",
-                            "url": "https:\/\/www.ara.fi\/fi-FI\/Verkkoasiointi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 3744,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lisätietoa kunnan lausunnoista sähköpostitse",
+                    "name": "Pyydä lisätietoa kunnan lausunnoista sähköpostitse",
                     "email": "asuntoas@hel.fi",
                     "provided_languages": [
                     ],
@@ -4353,7 +4329,7 @@
                     "id": 3745,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Lisätietoa kunnan lausunnoista puhelimitse",
+                    "name": "Pyydä lisätietoa kunnan lausunnoista puhelimitse",
                     "phone": "09 310 34174",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -4366,6 +4342,31 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3749,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae avustusta ARAn sivuilla",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry ARAn verkkoasiointiin",
+                            "url": "https:\/\/www.ara.fi\/fi-FI\/Verkkoasiointi",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
