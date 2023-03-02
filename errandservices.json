@@ -3666,7 +3666,6 @@
             "id": 4065,
             "exact_descriptions": [
                 3202,
-                6449,
                 9519
             ],
             "service_id": 10634,
@@ -4937,76 +4936,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 4182,
-        "fi": {
-            "id": 4182,
-            "exact_descriptions": [
-                2694,
-                7455
-            ],
-            "service_id": 10092,
-            "type": "APPLICATION",
-            "name": "Hae omakotitalotonttia",
-            "description": "Omakotitonttihaku 16.6. - 13.9.2022 klo 15.00 helsinkiläisille lapsiperheille.",
-            "process_description": "",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3016"
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Omakotitalotontit",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/tontit\/tontit\/asunto\/omakotitalotontit\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2576,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae omakotitalotonttia",
-                    "information": "Sähköinen asiointipalvelu, jonka avulla voi hakea vuokrattavana olevia kaupungin omakotitontteja.",
-                    "authorization_code": "Asumiseen kaavoitettujen tonttien hakeminen",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/static\/pientalotontti\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5136,
@@ -8377,7 +8306,6 @@
         "fi": {
             "id": 4071,
             "exact_descriptions": [
-                6449
             ],
             "service_id": 10634,
             "type": "INFORMATION_SERVICE",
@@ -20239,13 +20167,7 @@
             "id": 3619,
             "exact_descriptions": [
                 3202,
-                6442,
-                6445,
                 6448,
-                6449,
-                6451,
-                6452,
-                6458,
                 6883,
                 7612
             ],
@@ -20303,14 +20225,8 @@
             "id": 3619,
             "exact_descriptions": [
                 3202,
-                6442,
-                6444,
-                6445,
                 6448,
-                6451,
-                6452,
                 6453,
-                6458,
                 6883
             ],
             "service_id": 10634,
@@ -20799,12 +20715,6 @@
             "id": 3199,
             "exact_descriptions": [
                 3202,
-                6442,
-                6445,
-                6449,
-                6451,
-                6452,
-                6458,
                 6883,
                 7612
             ],
@@ -20893,8 +20803,7 @@
         "fi": {
             "id": 4064,
             "exact_descriptions": [
-                3202,
-                6445
+                3202
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -26422,7 +26331,6 @@
         "fi": {
             "id": 4063,
             "exact_descriptions": [
-                6442
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -26513,11 +26421,7 @@
         "fi": {
             "id": 4062,
             "exact_descriptions": [
-                3202,
-                6449,
-                6451,
-                6452,
-                6458
+                3202
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -26598,8 +26502,7 @@
         "fi": {
             "id": 4061,
             "exact_descriptions": [
-                3202,
-                6449
+                3202
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -26692,11 +26595,7 @@
         "fi": {
             "id": 4067,
             "exact_descriptions": [
-                3202,
-                6449,
-                6451,
-                6452,
-                6458
+                3202
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -33291,8 +33190,6 @@
             "id": 4066,
             "exact_descriptions": [
                 3202,
-                6442,
-                6458,
                 6883
             ],
             "service_id": 10634,
@@ -36957,8 +36854,6 @@
             "id": 1168,
             "exact_descriptions": [
                 3202,
-                6449,
-                6451,
                 9520
             ],
             "service_id": 10634,
@@ -37016,7 +36911,6 @@
             "id": 1168,
             "exact_descriptions": [
                 3202,
-                6451,
                 9520
             ],
             "service_id": 10634,
@@ -38098,7 +37992,6 @@
         "fi": {
             "id": 4068,
             "exact_descriptions": [
-                6458
             ],
             "service_id": 10634,
             "type": "PERMISSION",
@@ -38180,7 +38073,6 @@
         "sv": {
             "id": 4068,
             "exact_descriptions": [
-                6458
             ],
             "service_id": 10634,
             "type": "PERMISSION",
