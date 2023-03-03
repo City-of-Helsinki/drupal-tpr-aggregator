@@ -7403,7 +7403,7 @@
             "type": "APPLICATION",
             "name": "Hekan vuokra-asunnon hakeminen",
             "description": "Hae Hekan vuokra-asuntoa täyttämällä asuntohakemus. Huomaa, että sinun pitää vahvistaa hakemuksesi tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella, jotta hakemuksesi on mukana asukasvalinnoissa. \n\nVoit hakea asuntoa myös kanssahakijan kanssa. Silloin myös kanssahakijan pitää vahvistaa hakemus tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.  \n\nJos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, käy tunnistautumassa vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todista henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti).",
-            "expiration_time": "Hakemus on voimassa kolme kuukautta sen jättämisestä tai muutosten tekemisestä.",
+            "expiration_time": "Hakemus on voimassa kolme kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
                 "en",
@@ -7458,7 +7458,7 @@
             "type": "APPLICATION",
             "name": "Applying for a Heka rental apartment",
             "description": "Apply for a Heka rental apartment by filling in a housing application. Please note that you have to confirm your application through authentication with online banking credentials or Mobile ID before your application will be included in the tenant selection process. \n\nYou can also apply for an apartment with a co-applicant. In this case, the co-applicant must also confirm the application through authentication with online banking credentials or Mobile ID. The system classifies the application based on the urgency of the need for housing. \n\nIf you do not have online banking credentials or Mobile ID, you can visit the rental apartment search customer service at Työpajankatu 8 and prove your identity using and official personal identity document (passport or personal ID card). \n",
-            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
             "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
             "provided_languages": [
                 "en",
@@ -7513,7 +7513,7 @@
             "type": "APPLICATION",
             "name": "Ansök om en Heka-hyresbostad",
             "description": "Ansök om en Heka-hyresbostad genom att fylla i en bostadsansökan. Observera att du måste bekräfta din ansökan genom att identifiera dig antingen med nätbankskoder eller ett mobilcertifikat så att din ansökan kan iakttas i valet av boende.\n \nDu kan även ansöka om en bostad med en medsökande. I så fall måste även den medsökande bekräfta ansökan genom att identifiera sig med nätbankskoder eller ett mobilcertifikat. Systemet klassificerar ansökan på grundval av hur brådskande behovet av bostad är. \n\nOm du inte har nätbankskoder eller ett mobilcertifikat, kan du besöka kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att bevisa din identitet med ett officiellt identitetsbevis (pass eller identitetskort). \n",
-            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
             "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
             "provided_languages": [
                 "en",
@@ -17794,6 +17794,97 @@
         }
     },
     {
+        "id": 5293,
+        "fi": {
+            "id": 5293,
+            "exact_descriptions": [
+                9584
+            ],
+            "service_id": 10101,
+            "type": "ADVICE",
+            "name": "Kysy perintäasioista",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3757,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ole yhteydessä asiakaspalveluun",
+                    "email": "tontti@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3758,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kysy perintäasioista",
+                    "phone": "09 310 64332",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3759,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Kysy perintäasioista valvontalakimies Anne Nahilta",
+                    "email": "anne.nahi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4187,
         "fi": {
             "id": 4187,
@@ -20325,7 +20416,7 @@
             "type": "APPLICATION",
             "name": "Lyhytaikaisen vuokra-asunnon hakeminen",
             "description": "Hae lyhytaikaista vuokra-asuntoa Oikotien sivujen kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistautumiskäynnin jälkeen.\n",
-            "expiration_time": "Hakemus on voimassa kolme kuukautta sen jättämisestä tai muutosten tekemisestä.",
+            "expiration_time": "Hakemus on voimassa kolme kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
                 "en",
@@ -20396,7 +20487,7 @@
             "type": "APPLICATION",
             "name": "Application for a short-term rental apartment",
             "description": "Apply for a short-term rental apartment through the Oikotie website. The apartment advertisement will contain a link to the application. After completing the application, prove your identity with online banking credentials or Mobile ID. Your co-applicant, if you have one, must also prove their identity through authentication and confirm the housing application.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n",
-            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
             "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
             "provided_languages": [
                 "en",
@@ -20467,7 +20558,7 @@
             "type": "APPLICATION",
             "name": "Ansökan om en kortvarig hyresbostad",
             "description": "Ansök om en kortvarig bostad via Oikotie. Bostadsannonsen innehåller en länk till ansökan. När du har fyllt i ansökan, identifiera dig med dina nätbankskoder eller ditt mobilcertifikat. Din eventuella medsökande måste också identifiera sig och bekräfta bostadsansökan.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att autentisera dig. Ta med dig ditt pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n",
-            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
             "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
             "provided_languages": [
                 "en",
@@ -21543,6 +21634,157 @@
             "channels": [
             ]
         }
+    },
+    {
+        "id": 5292,
+        "fi": {
+            "id": 5292,
+            "exact_descriptions": [
+                9584
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Muuta laskun eräpäivää",
+            "description": "Jos haluat muuttaa maanvuokralaskun eräpäivää, täytä oheinen lomake. Toimita allekirjoitettu lomake sähköpostitse, postitse tai tuo se paikan päälle kaupunkiympäristön asiakaspalvelupisteeseen (Työpajankatu 8, 1. krs). Merkitse kuoreen \"eräpäivän muutos\".",
+            "information": "Lähetä lomake sähköpostitse maaomaisuus.kiinteistosihteerit@hel.fi tai lähetä se postitse \n\nHelsingin kaupunki, kaupunkiympäristön toimiala\nMaaomaisuuden kehittäminen ja tontit\nVuokrasopimukset\nPL 58213\n00099 HELSINGIN KAUPUNKI",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "FORM",
+                    "title": "Eräpäivän muutoslomake (asuntotontit)",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Laskutus\/erapaivan-muutoslomake-asuntotontit.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "FORM",
+                    "title": "Eräpäivän muutoslomake (kiinteät vuokrat)",
+                    "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Laskutus\/erapaivan-muutoslomake-kiinteat-vuokrat.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3760,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Muuta laskun eräpäivää",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Eräpäivän muutoslomake (kiinteät vuokrat)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Laskutus\/erapaivan-muutoslomake-kiinteat-vuokrat.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Eräpäivän muutoslomake (asuntotontit)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/Laskutus\/erapaivan-muutoslomake-asuntotontit.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5291,
+        "fi": {
+            "id": 5291,
+            "exact_descriptions": [
+                9584
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Muuta laskun tietoja",
+            "description": "Ilmoita muutoksesta laskun tietoihin (esimerkiksi maksulykkäys tai viivästyskorot).\n\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3753,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ilmoita muutoksesta laskun tietoihin",
+                    "email": "talpa.asiakaspalvelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3754,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Helsingin kaupungin taloushallintopalvelu",
+                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "phone": " 09 310 25300",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5263,
@@ -31079,6 +31321,105 @@
         }
     },
     {
+        "id": 5289,
+        "fi": {
+            "id": 5289,
+            "exact_descriptions": [
+                9584
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Tee osoitteenmuutos",
+            "description": "Ilmoita laskutusosoitteen muutoksesta.\n\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3750,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ilmoita osoitteenmuutoksesta",
+                    "email": "maanvuokralaskutus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3751,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Maanvuokralaskutuksen asiakaspalvelu",
+                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "phone": "09 310 36326",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3752,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Ilmoita osoitteenmuutoksesta postitse",
+                    "process_description": "Jos ilmoitat osoitteenmuutoksesta postitse, osoita kirje seuraavalle taholle:\n\nHelsingin kaupunki\nMaaomaisuuden kehittäminen ja tontit\nTontit-yksikkö\/maanvuokralaskutus\n",
+                    "personal_service_street_addr": "PL 58213",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": "HELSINGIN KAUPUNKI",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5135,
         "fi": {
             "id": 5135,
@@ -34321,7 +34662,7 @@
             "type": "APPLICATION",
             "name": "Työsuhdeasunnon hakeminen",
             "description": "Hae työsuhdeasuntoa tutustumalla vapaisiin työsuhdeasuntoihin. Täytä sen jälkeen työsuhdeasuntohakemus ja lisää sinua kiinnostavat asunnot hakemukselle.\n\nHakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksilla. Kun olet vahvistanut hakemuksen, se tallentuu asukasvalintajärjestelmäämme.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan ajokortin, passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistautumiskäynnin jälkeen.",
-            "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä. ",
+            "expiration_time": "Hakemus on voimassa 3 kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä. ",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja. Vuokra peritään laskulla.",
             "provided_languages": [
                 "en",
@@ -34385,7 +34726,7 @@
             "type": "APPLICATION",
             "name": "Application for job-related housing",
             "description": "Start searching for job-related housing by browsing the vacant apartments. Fill in a job-related housing application. You can add apartments you are interested in to the application.\n\nAfter completing the application, prove your identity with online banking credentials or Mobile ID. Once you have confirmed the application, it will be stored in our tenant selection system.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your driving licence, passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n",
-            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
             "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit. The lease is invoiced.",
             "provided_languages": [
                 "en",
@@ -34447,7 +34788,7 @@
             "name": "Ansökan om tjänstebostad",
             "description": "Börja din sökning efter en tjänstebostad genom att ta en titt på de lediga bostäderna. Fyll sedan i en ansökan om tjänstebostad. Du kan lägga till de bostäder som intresserar dig i din ansökan.\n\nNär du har fyllt i ansökan ska du identifiera dig med nätbankskoder eller ett mobilcertifikat. När du har bekräftat din ansökan, lagras den i vårt system.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att autentisera dig. Ta med dig ditt körkort, pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n\n\n",
             "process_description": "",
-            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
             "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter. Hyran debiteras med faktura.",
             "provided_languages": [
                 "en",
@@ -35218,7 +35559,7 @@
             "type": "APPLICATION",
             "name": "Vapaarahoitteisen vuokra-asunnon hakeminen",
             "description": "Hae vapaarahoitteista vuokra-asuntoa Vuokraoven tai Oikotien kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nPäähakijana sinun tulee olla täysi-ikäinen ja sinulla pitää olla suomalainen henkilötunnus. \n\nVoit päivittää hakemustasi halutessasi, jolloin se korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan silloin sinun on tehtävä uusi hakemus.",
-            "expiration_time": "Hakemus on voimassa 3 kuukautta sen jättämisestä tai muutosten tekemisestä.",
+            "expiration_time": "Hakemus on voimassa 3 kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
                 "en",
@@ -35281,7 +35622,7 @@
             "type": "APPLICATION",
             "name": "Applying for non-subsidised housing",
             "description": "Apply for a non-subsidised rental apartment through Vuokraovi or Oikotie. The apartment advertisement will contain a link to the application. After completing the application, prove your identity with online banking credentials or Mobile ID. Your co-applicant, if you have one, must also prove their identity through authentication and confirm the housing application.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n\nAs the main applicant, you must be of legal age and have a Finnish personal identity code. \n\nIf you wish, you can update your application, after which it will replace your previously submitted application. An expired application cannot be updated or copied - you must submit a new application.\n",
-            "expiration_time": "The application is valid for three months after its submission or most recent changes.",
+            "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
             "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
             "provided_languages": [
                 "en",
@@ -35342,7 +35683,7 @@
             "type": "APPLICATION",
             "name": "Ansök om en fritt finansierad hyresbostad",
             "description": "Ansök om en fritt finansierad hyresbostad via Vuokraovi eller Oikotie. Bostadsannonsen innehåller en länk till ansökan. När du har fyllt i ansökan, identifiera dig med nätbankskoder eller ett mobilcertifikat. Din eventuella medsökande måste också identifiera sig och bekräfta bostadsansökan.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att identifiera dig. Ta med dig ditt pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n\nSom huvudsökande ska du vara myndig och ha en finsk personbeteckning. \n\nOm du vill, kan du uppdatera din ansökan. Den uppdaterade ansökan ersätter din tidigare ansökan. Du kan inte redigera eller kopiera en ansökan som gått ut, utan du måste göra en ansökan.\n",
-            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen.",
+            "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
             "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
             "provided_languages": [
                 "en",
