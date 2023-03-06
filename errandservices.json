@@ -6317,6 +6317,110 @@
         }
     },
     {
+        "id": 5299,
+        "fi": {
+            "id": 5299,
+            "exact_descriptions": [
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Hae tonttijakoa",
+            "description": "Hae tonttijakoa sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nTonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.\n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla hakemuksella, jos teet hakemuksen kiinteistötoimitushakemuslomakkeella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta. Pikaohjeen tonttijakohakemuksen tekemiseksi Lupapisteessä löydät sivun alaosasta kohdasta \"Ohjeita Lupapisteen käyttöön\".",
+            "information": "Liitä hakemukseen tarvittaessa:\n\n - valtakirja, jos hakija muu kuin kiinteistön omistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote nimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - liitekartta (esim. koelaskenta)\n\n - liitekartta vektorimuodossa (esim. dwg tai dgn)\n\n - laskutustiedot tai -ohje\n\n - tonttijaon hyväksyminen asianosaiselta \n\n - ote perukirjasta tai sukuselvityksestä, jos kuolinpesä kiinteistön omistajana tieto pesän osakkaista riittää\n\n - yhtiöoikeudellinen päätös haettavasta tonttijaosta.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3764,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae tonttijakoa kiinteistötoimitushakemuksella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3765,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae tonttijakoa",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3766,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus sähköpostilla",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5223,
         "fi": {
             "id": 5223,
@@ -21726,7 +21830,7 @@
             "type": "NOTICE",
             "name": "Muuta laskun eräpäivää",
             "description": "Jos haluat muuttaa maanvuokralaskun eräpäivää, täytä oheinen lomake. Toimita allekirjoitettu lomake sähköpostitse, postitse tai tuo se paikan päälle kaupunkiympäristön asiakaspalvelupisteeseen (Työpajankatu 8, 1. krs). Merkitse kuoreen \"eräpäivän muutos\".",
-            "information": "Lähetä lomake sähköpostitse maaomaisuus.kiinteistosihteerit@hel.fi tai lähetä se postitse \n\nHelsingin kaupunki, kaupunkiympäristön toimiala\nMaaomaisuuden kehittäminen ja tontit\nVuokrasopimukset\nPL 58213\n00099 HELSINGIN KAUPUNKI",
+            "information": "Voit myös lähettää lomakkeen postitse osoitteeseen\n\nHelsingin kaupunki, kaupunkiympäristön toimiala\nMaaomaisuuden kehittäminen ja tontit\nVuokrasopimukset\nPL 58213\n00099 HELSINGIN KAUPUNKI",
             "provided_languages": [
                 "fi"
             ],
@@ -21782,6 +21886,26 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3768,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä eräpäivän muutosilmoitus sähköpostitse",
+                    "email": "maaomaisuus.kiinteistosihteerit@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -21800,7 +21924,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Muuta laskun tietoja",
-            "description": "Ilmoita muutoksesta laskun tietoihin (esimerkiksi maksulykkäys tai viivästyskorot).\n\n",
+            "description": "Ilmoita muutoksesta laskun tietoihin Helsingin kaupungin taloushallintopalveluun.\n\n\n",
             "provided_languages": [
                 "fi"
             ],
@@ -21818,7 +21942,7 @@
                     "id": 3753,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Ilmoita muutoksesta laskun tietoihin",
+                    "name": "Ilmoita muutoksesta laskun tietoihin sähköpostitse",
                     "email": "talpa.asiakaspalvelu@hel.fi",
                     "provided_languages": [
                     ],
@@ -21838,7 +21962,7 @@
                     "id": 3754,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Helsingin kaupungin taloushallintopalvelu",
+                    "name": "Ilmoita muutoksesta laskun tietoihin puhelimitse",
                     "availability_summary": "Avoinna ma-pe 09-15",
                     "phone": " 09 310 25300",
                     "call_charge_info": "pvm\/mpm",
@@ -31468,7 +31592,8 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Tee osoitteenmuutos",
-            "description": "Ilmoita laskutusosoitteen muutoksesta.\n\n",
+            "description": "",
+            "information": "Jos haluat tehdä osoitteenmuutoksen postitse, lähetä siitä tieto osoitteeseen\n\nHelsingin kaupunki\nMaaomaisuuden kehittäminen ja tontit\nTontit-yksikkö\/maanvuokralaskutus\nPL 58213\n00099 HELSINGIN KAUPUNKI",
             "provided_languages": [
                 "fi"
             ],
@@ -31486,7 +31611,7 @@
                     "id": 3750,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Ilmoita osoitteenmuutoksesta",
+                    "name": "Tee osoitteenmuutos sähköpostitse",
                     "email": "maanvuokralaskutus@hel.fi",
                     "provided_languages": [
                     ],
@@ -31506,7 +31631,7 @@
                     "id": 3751,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Maanvuokralaskutuksen asiakaspalvelu",
+                    "name": "Tee osoitteenmuutos puhelimitse",
                     "availability_summary": "Avoinna ma-pe 09-15",
                     "phone": "09 310 36326",
                     "call_charge_info": "pvm\/mpm",
@@ -31525,29 +31650,6 @@
                         {
                             "availability_string": "Avoinna ma-pe 09-15"
                         }
-                    ]
-                },
-                {
-                    "id": 3752,
-                    "type": "MAIL",
-                    "type_string": "Posti",
-                    "name": "Ilmoita osoitteenmuutoksesta postitse",
-                    "process_description": "Jos ilmoitat osoitteenmuutoksesta postitse, osoita kirje seuraavalle taholle:\n\nHelsingin kaupunki\nMaaomaisuuden kehittäminen ja tontit\nTontit-yksikkö\/maanvuokralaskutus\n",
-                    "personal_service_street_addr": "PL 58213",
-                    "personal_service_postal_code": "00099",
-                    "personal_service_city": "HELSINGIN KAUPUNKI",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
