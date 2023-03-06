@@ -4459,6 +4459,110 @@
         }
     },
     {
+        "id": 5302,
+        "fi": {
+            "id": 5302,
+            "exact_descriptions": [
+                9592
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Hae kiinteistönmääritystä (esim. rajankäyntiä)",
+            "description": "Hae kiinteistönmääritystä sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nKiinteistömääritys vie aikaa noin 1-4 kuukautta. ​\n\nPalvelu on maksullinen.",
+            "process_description": "Liitä seuraavat liitteet\n\n - liitekartta, josta ilmenee määritettävä kiinteistöraja tai kohde\n\n - laskutustiedot tai -ohje.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3773,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae kiinteistönmääritystä kiinteistötoimitushakemuksella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen (pdf)",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3774,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae kiinteistönmääritystä",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3775,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus sähköpostilla",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5134,
         "fi": {
             "id": 5134,
@@ -5451,6 +5555,216 @@
         }
     },
     {
+        "id": 5304,
+        "fi": {
+            "id": 5304,
+            "exact_descriptions": [
+                9593
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Hae rakennusrasitteen tai kiinteistöjen yhteisjärjestelyn perustamista rakennusvalvonnasta",
+            "description": "Hae rakennusrasitteen perustamista vähintään hyvissä ajoin ennen rakennushankkeen valmistumista, jotta rakennuksen käyttöönottaminen ei viivästy.\n\nHae rakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustamista sähköisesti Lupapisteessä tai lähettämällä rakennusrasitehakemus sähköpostilla rakennusvalvontaan.\n\nRakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustaminen edellyttää, että kyseisten kiinteistöjen kaikki omistajat ja mahdolliset maanvuokraoikeuden haltijat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nRakennusrasitteen perustaminen, muuttaminen tai poistaminen ovat maksullisia palveluja.",
+            "information": "Liitä hakemukseen mukaan seuraavat asiakirjat:\nValtakirja kaikilta kiinteistöjen omistajilta ja mahdollisilta maanvuokraoikeuden haltijoilta. Valtakirjaa ei kuitenkaan tarvita, jos hakemuslomake on kiinteistöjen kaikkien omistajien ja vuokraoikeuden haltijoiden allekirjoittama eikä myöskään silloin, kun valtakirja sisältyy rasitesopimukseen valtuutuksen muodossa.\n\nRasitesopimus alkuperäisenä tai oikeaksi todistettuna jäljennöksenä.\n\nOmistusoikeusselvitys sekä oikeutetusta että rasitetusta kiinteistöstä. Selvitys voi olla joko lainhuutotodistus tai kiinteistön kauppakirjan jäljennös.\n\nKaupparekisteriote, jos rasitesopimuksen solmijaosapuolena[US1]  on yhtiö. Otteesta tulee selvitä yhtiön nimenkirjoitusoikeudet.\n\nYhtiökokouksen pöytäkirja, jossa yhtiökokous on hyväksynyt rasitteen perustamisen, jos rasitettuna kiinteistönä on asunto-osakeyhtiön omistama tai maanvuokrasopimuksen nojalla hallitsema kiinteistö,\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3780,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae rakennusrasitteen tai kiinteistöjen yhteisjärjestelyn perustamista rakennusrasitehakemuksella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Rasitehakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3781,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae rakennusrasitteen tai kiinteistöjen yhteisjärjestelyn perustamista",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3782,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Rakennusvalvonnan sähköpostiosoite",
+                    "email": "rakennusvalvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5303,
+        "fi": {
+            "id": 5303,
+            "exact_descriptions": [
+                9593
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Hae rasitetoimitusta",
+            "information": "Liitä hakemukseen tarvittaessa:\n\n - valtakirja, jos hakija muu kuin kiinteistön omistaja\n\n - kauppa-, yhdistys- tai säätiörekisteriote (nimenkirjoitusoikeuden toteamiseksi)\n\n - yhtiöoikeudellinen päätös haettavasta toimituksesta\n\n - rasitesopimus liitekarttoineen allekirjoitettuna\n\n - laskutustiedot tai -ohje\n\n - rasitetoimituksen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos kuolinpesä kiinteistön omistajana tai hakijana.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3777,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae rasitetoimitusta kiinteistötoimitushakemuksella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3778,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae rasitetoimitusta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3779,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus sähköpostilla",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1141,
         "fi": {
             "id": 1141,
@@ -6321,6 +6635,7 @@
         "fi": {
             "id": 5299,
             "exact_descriptions": [
+                9592
             ],
             "service_id": 10352,
             "type": "APPLICATION",
@@ -18004,7 +18319,7 @@
                     "id": 3757,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Ole yhteydessä asiakaspalveluun",
+                    "name": "Kysy perintäasioista sähköpostitse",
                     "email": "tontti@hel.fi",
                     "provided_languages": [
                     ],
@@ -18024,7 +18339,7 @@
                     "id": 3758,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Kysy perintäasioista",
+                    "name": "Kysy perintäasioista puhelimitse valvontalakimies Anne Nahilta",
                     "phone": "09 310 64332",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -18045,7 +18360,7 @@
                     "id": 3759,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Kysy perintäasioista valvontalakimies Anne Nahilta",
+                    "name": "Kysy perintäasioista sähköpostitse valvontalakimies Anne Nahilta",
                     "email": "anne.nahi@hel.fi",
                     "provided_languages": [
                     ],
