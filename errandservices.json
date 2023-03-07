@@ -1421,6 +1421,104 @@
         ]
     },
     {
+        "id": 5310,
+        "fi": {
+            "id": 5310,
+            "exact_descriptions": [
+                9586,
+                9590,
+                9591
+            ],
+            "service_id": 10595,
+            "type": "APPLICATION",
+            "name": "Arvio asumispalvelujen tarpeesta",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3787,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Arvio asumispalvelujen tarpeesta, mielenterveysasiakkaat",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lataa tulostettava lomake",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/Te-015_as.palv_laitosh.tarve alle 65v.rtf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 5310,
+            "exact_descriptions": [
+            ],
+            "service_id": 10595,
+            "type": "APPLICATION",
+            "name": "Bedömning av behovet av boendetjänster",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3787,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Bedömning av behovet av boendetjänster, klienter med psykiska problem",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ladda ner utskrivbart blankett",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/Te-015sv_as.palv.tarve.doc"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 1564,
         "fi": {
             "id": 1564,
@@ -6629,6 +6727,135 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5301,
+        "fi": {
+            "id": 5301,
+            "exact_descriptions": [
+                9592
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Hae tontin lohkomista",
+            "description": "Hae tontin lohkomista sähköisesti joko Lupapisteessä tai lähettämällä kiinteistötoimitushakemus sähköpostilla Kiinteistömuodostusyksikköön.\n\nTontin lohkominen vie aikaa keskimäärin 1-4 kuukautta. Kiireellisissä tapauksissa lohkomistoimitusta voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän. \n\nPalvelu on maksullinen.\n\nJos sinun tarvitsee hakea myös tonttijakoa, voit \nhakea tonttijakoa ja tontin lohkomista samalla hakemuksella, jos teet hakemuksen kiinteistötoimitushakemuslomakkeella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta.",
+            "information": "Liitä tarvittaessa seuraavat liitteet:\n\n - valtakirja, jos hakija on muu kuin kiinteistön \nomistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote \nnimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - vuokrasopimus\n\n - laskutustiedot tai -ohje\n\n - tontin lohkomisen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos \nkuolinpesä kiinteistön omistajana tai hakijana\n\n - rasitesopimus liitekarttoineen allekirjoitettuna.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3769,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae tontin lohkomista kiinteistötoimitushakemuksella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3770,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae tontin lohkomista",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3771,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus sähköpostilla",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3772,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Rasitesopimusmalli",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/asuminen-ja-ymparisto\/tontit\/kaupunkimittaus\/Rasitesopimus-ja-liitekarttamalli.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5299,
@@ -33496,6 +33723,89 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5309,
+        "fi": {
+            "id": 5309,
+            "exact_descriptions": [
+                3325
+            ],
+            "service_id": 10639,
+            "type": "ORDERING",
+            "name": "Tilaa rajan- tai korkeudennäyttö",
+            "description": "Tilaa rajan- tai korkeudennäyttö sähköpostilla tai puhelimitse kaupunkimittauspalvelun asiakaspalvelusta.\n\nKaupunkimittaus suorittaa rajan- ja korkeudennäytön noin 1-2 viikon kuluessa tilauksen tekemisestä ja ne ovat maksullisia palveluita.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3785,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tilaa rajan- tai korkeudennäyttö sähköpostilla",
+                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3786,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kaupunkimittauspalvelun asiakaspalvelu",
+                    "availability_summary": "Avoinna ma-to 08:15-16:15, pe 12-15",
+                    "phone": "+358 (0)9 310 22111",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 08:15-16:15"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5225,
