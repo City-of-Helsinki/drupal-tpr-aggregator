@@ -4565,7 +4565,7 @@
             ],
             "service_id": 10352,
             "type": "APPLICATION",
-            "name": "Hae kiinteistönmääritystä (esim. rajankäyntiä)",
+            "name": "Hae kiinteistönmääritystä (esimerkiksi rajankäyntiä)",
             "description": "Hae kiinteistönmääritystä sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nKiinteistömääritys vie aikaa noin 1-4 kuukautta. ​\n\nPalvelu on maksullinen.",
             "process_description": "Liitä seuraavat liitteet\n\n - liitekartta, josta ilmenee määritettävä kiinteistöraja tai kohde\n\n - laskutustiedot tai -ohje.",
             "provided_languages": [
@@ -5662,8 +5662,8 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae rakennusrasitteen tai kiinteistöjen yhteisjärjestelyn perustamista rakennusvalvonnasta",
-            "description": "Hae rakennusrasitteen perustamista vähintään hyvissä ajoin ennen rakennushankkeen valmistumista, jotta rakennuksen käyttöönottaminen ei viivästy.\n\nHae rakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustamista sähköisesti Lupapisteessä tai lähettämällä rakennusrasitehakemus sähköpostilla rakennusvalvontaan.\n\nRakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustaminen edellyttää, että kyseisten kiinteistöjen kaikki omistajat ja mahdolliset maanvuokraoikeuden haltijat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nRakennusrasitteen perustaminen, muuttaminen tai poistaminen ovat maksullisia palveluja.",
-            "information": "Liitteet:\nValtakirja kaikilta kiinteistöjen omistajilta ja maanvuokraoikeuden haltijoilta. Valtakirjaa ei tarvita, jos hakemuslomake on kiinteistöjen kaikkien omistajien ja vuokraoikeuden haltijoiden allekirjoittama tai valtakirja sisältyy rasitesopimukseen valtuutuksen muodossa\n\nRasitesopimus alkuperäisenä tai oikeaksi todistettuna jäljennöksenä\n\nOmistusoikeusselvitys sekä oikeutetusta että rasitetusta kiinteistöstä (lainhuutotodistus tai kiinteistön kauppakirjan jäljennös)\n\nKaupparekisteriote, jos rasitesopimuksen solmijaosapuolena on yhtiö (nimenkirjoitusoikeudet)\n\nYhtiökokouksen pöytäkirja, jossa yhtiökokous on hyväksynyt rasitteen perustamisen, jos rasitettuna kiinteistönä on asunto-osakeyhtiön omistama tai maanvuokrasopimuksen nojalla hallitsema kiinteistö\n\nAsunto-osakeyhtiön hallituksen pöytäkirja, jossa hallitus on hyväksynyt rasitteen perustamisen, jos oikeutettuna kiinteistönä on asunto-osakeyhtiön omistama tai hallitsema kiinteistö\n\nKiinteistörekisteriote",
+            "description": "Hae rakennusrasitteen perustamista hyvissä ajoin ennen rakennushankkeen valmistumista, jotta rakennuksen käyttöönottaminen ei viivästy.\n\nHae rakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustamista sähköisesti Lupapisteessä tai lähettämällä rakennusrasitehakemus sähköpostilla rakennusvalvontaan.\n\nRakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustaminen edellyttää, että kyseisten kiinteistöjen kaikki omistajat ja mahdolliset maanvuokraoikeuden haltijat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nRakennusrasitteen perustaminen, muuttaminen tai poistaminen ovat maksullisia palveluja.",
+            "information": "Rasitesopimuksessa tulee ilmetä\n\n - kiinteistöjen rakennuspaikkatunnukset sekä perustettavat rakennusrasitteet\n\n - mikä kiinteistö on rasitettu ja mikä kiinteistö on oikeutettu\n\n - rasitealueen tai -tilan sijainti (esim. asemapiirroksesta)\n\n - mikä kiinteistö vastaa sopimuksen tarkoittaman toimenpiteen rakentamisesta ja kunnossapidosta.\n\nKatso hakemukseen tarvittavat liitteet sivun alaosasta.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5769,7 +5769,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae rasitetoimitusta",
-            "information": "Liitä hakemukseen tarvittaessa:\n\n - valtakirja, jos hakija muu kuin kiinteistön omistaja\n\n - kauppa-, yhdistys- tai säätiörekisteriote (nimenkirjoitusoikeuden toteamiseksi)\n\n - yhtiöoikeudellinen päätös haettavasta toimituksesta\n\n - rasitesopimus liitekarttoineen allekirjoitettuna\n\n - laskutustiedot tai -ohje\n\n - rasitetoimituksen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos kuolinpesä kiinteistön omistajana tai hakijana.",
+            "information": "Rasitesopimuksessa tulee ilmetä ainakin\n\n - osapuolet\n\n - kiinteistöt, joita sopimus koskee (kiinteistötunnukset)\n\n - mistä kiinteistörasitteista sopimuksella on sovittu\n\n - mikä kiinteistö on rasitettu ja mikä oikeutettu vai \n\n - ovatko molemmat kiinteistöt sekä oikeutettuja että rasitettuja\n\n - kannanotto siihen maksetaanko ja mikäli maksetaan minkä \nverran korvauksia rasitteiden perustamisen johdosta\n\n - osapuolien allekirjoittama kartta, josta ilmenee perustettavan rasitealueen tarkka sijainti.\n\nKatso rasitesopimusmalli alta ja hakemukseen tarvittavat liitteet sivun alaosasta.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -6738,7 +6738,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae tontin lohkomista",
-            "description": "Hae tontin lohkomista sähköisesti joko Lupapisteessä tai lähettämällä kiinteistötoimitushakemus sähköpostilla Kiinteistömuodostusyksikköön.\n\nTontin lohkominen vie aikaa keskimäärin 1-4 kuukautta. Kiireellisissä tapauksissa lohkomistoimitusta voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän. \n\nPalvelu on maksullinen.\n\nJos sinun tarvitsee hakea myös tonttijakoa, voit \nhakea tonttijakoa ja tontin lohkomista samalla hakemuksella, jos teet hakemuksen kiinteistötoimitushakemuslomakkeella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta.",
+            "description": "Hae tontin lohkomista sähköisesti joko Lupapisteessä tai lähettämällä kiinteistötoimitushakemus sähköpostilla Kiinteistömuodostusyksikköön.\n\nTontin lohkominen vie aikaa keskimäärin 1-4 kuukautta. Kiireellisissä tapauksissa lohkomistoimitusta voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän. \n\nPalvelu on maksullinen.\n\nJos sinun tarvitsee hakea myös tonttijakoa, voit hakea tonttijakoa ja tontin lohkomista samalla hakemuksella, jos teet hakemuksen kiinteistötoimitushakemuslomakkeella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta.",
             "information": "Liitä tarvittaessa seuraavat liitteet:\n\n - valtakirja, jos hakija on muu kuin kiinteistön \nomistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote \nnimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - vuokrasopimus\n\n - laskutustiedot tai -ohje\n\n - tontin lohkomisen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos \nkuolinpesä kiinteistön omistajana tai hakijana\n\n - rasitesopimus liitekarttoineen allekirjoitettuna.\n",
             "provided_languages": [
                 "en",
@@ -16647,77 +16647,6 @@
                 }
             ],
             "channels": [
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 3459,
-        "fi": {
-            "id": 3459,
-            "exact_descriptions": [
-            ],
-            "service_id": 10352,
-            "type": "APPLICATION",
-            "name": "Kiinteistötoimitus-\/tonttijakohakemus",
-            "description": "Valtakunnallisen Lupapiste.fi palvelun kautta voi hakea kiinteistötoimitusta ja tonttijakoa Helsingin alueelta.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Sähköinen kiinteistötoimitus-\/tonttijakohakemus",
-                    "url": "https:\/\/www.lupapiste.fi\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Hakulomakkeet, ohjeet ",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kartat-ja-liikenne\/kartat-ja-paikkatieto\/kaupunkimittauksen+sahkoinen+asiointi\/kaupunkimittauksen+ohjeet+ja+lomakkeet"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2289,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Kiinteistötoimitushakemus \/ Tonttijakohakemus \/ Lohkomishakemus, sähköinen asiointipalvelu",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Lupapiste",
-                            "url": "https:\/\/www.lupapiste.fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
             ]
         },
         "en": [
