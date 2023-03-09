@@ -17439,8 +17439,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5281,
+            "exact_descriptions": [
+                7449
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Schoolchildren, please fill in The oral health survey, before coming to the appointment",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3734,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "The oral health survey for children and young people in Omaolo",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Schoolchildren, please fill in The oral health survey, before coming to the appointment",
+                            "url": "https:\/\/www.omaolo.fi\/maara-aikaistarkastus\/Tarkastus-2023-167e"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5281,
             "exact_descriptions": [
@@ -22957,7 +23008,7 @@
             ],
             "target_groups": [
                 "ASSOCIATIONS",
-                "INDIVIDUALS"
+                "YOUTH"
             ],
             "life_events": [
             ],
@@ -22988,7 +23039,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -23022,10 +23073,11 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Ungdomsservicen, ansökan om projektunderstöd",
-            "description": "Med e-tjänsten kan du ansöka om understöd för projekt, gårdsklubbsverksamhet och för inledande av föreningsverksamhet. Understöden är avsedda för ungdomsgrupper, föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för ungdomsverksamheten i gårdsklubbar.",
-            "process_description": "För projekt beviljas understöd till de verksamhetsgrupper för unga och föreningar för yngre tonåringar samt ungdomsföreningar i vilka 2\/3 av medlemmarna är Helsingforsbor i åldern 7-28 år.\n\nMed projektunderstöd avses understöd som beviljas en gång för ett projekt inom ungdomsverksamhet med syfte att engagera unga och stärka dem socialt. Det kan erhållas för att genomföra ett projekt, ett evenemang eller en tillställning eller för att ta del i en sådan verksamhet. Det ska redan under det första understödsåret finnas en tidtabell och en bedömningsplan för projekt som avses bli fleråriga. Understöd beviljas inte projekt i enlighet med föreningens verksamhetsplan som omfattas av den egentliga verksamheten.\n\nStartunderstöd beviljas föreningar för yngre tonåringar och ungdomsföreningar som inleder sin verksamhet eller som på nytt inleder sin verksamhet. Understöd beviljas för utgifter som härrör sig från att verksamheten inleds.\n\nUnderstöd för gårdsklubbar beviljas för ordnande av ungdomsverksamhet i gårdsklubbar.\n\nAnsökan om projektunderstöd ska lämnas in före det ifrågavarande projektet eller evenemanget och man kan ansöka om understöd året runt.\n\nAndra än föreningar (t.ex. ungdomsgrupper) ska ha en myndig kontaktperson som svarar för användningen av understödet. Kontaktpersonen fyller i en kontaktblankett (länken finns i ansökan) som ska skickas undertecknad till byrån för samhällsaktivitet bland unga.\n\n1. Ansökan ska alltid lämnas in innan projektet inleds.\n2. Om beloppet som söks uppgår till högst 3 000 euro fattas beslutet av byråchefen för byrån för samhällsaktivitet bland unga. Beslut om startunderstöd och ansökningar om över 3 000 euro fattas av ungdomsnämnden.\n3. Beslutet delges den sökande per post.\n4. Användningen av understödet ska utredas med en blankett för projektunderstödsutredning före det datum som anges i beslutet. Startunderstöd utreds i samband med eller före ansökan om verksamhetsunderstöd för följande år.",
-            "processing_time": " Understöd på under 3 000 euro 1-2 veckor såvida inga ytterligare utredningar behövs, startunderstöd 1 mån. och understöd på över 3 000 euro 1-2 mån. efter ansökningstidens utgång",
+            "description": "Projektunderstöd beviljas för olika projekt, gårdsklubbsverksamhet och för inledande av föreningsverksamhet. Understöden är avsedda för ungdomsgrupper, föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för ungdomsverksamheten i gårdsklubbar.",
+            "process_description": "För projekt beviljas understöd till de verksamhetsgrupper för unga och föreningar för yngre tonåringar samt ungdomsföreningar i vilka 2\/3 av medlemmarna är Helsingforsbor i åldern 7-28 år.\n\nMed projektunderstöd avses understöd som beviljas en gång för ett projekt inom ungdomsverksamhet med syfte att engagera unga och stärka dem socialt. Det kan erhållas för att genomföra ett projekt, ett evenemang eller en tillställning eller för att ta del i en sådan verksamhet. Det ska redan under det första understödsåret finnas en tidtabell och en bedömningsplan för projekt som avses bli fleråriga. Understöd beviljas inte projekt i enlighet med föreningens verksamhetsplan som omfattas av den egentliga verksamheten.\n\nStartunderstöd beviljas föreningar för yngre tonåringar och ungdomsföreningar som inleder sin verksamhet eller som på nytt inleder sin verksamhet. Understöd beviljas för utgifter som härrör sig från att verksamheten inleds.\n\nUnderstöd för gårdsklubbar beviljas för ordnande av ungdomsverksamhet i gårdsklubbar.\n\nAnsökan om projektunderstöd ska lämnas in före det ifrågavarande projektet eller evenemanget och man kan ansöka om understöd året runt.\n\nAndra än föreningar (t.ex. ungdomsgrupper) ska ha en myndig kontaktperson som svarar för användningen av understödet. Kontaktpersonen fyller i en kontaktblankett (länken finns i ansökan) som ska skickas undertecknad till byrån för samhällsaktivitet bland unga.\n\n1. Ansökan ska alltid lämnas in innan projektet inleds.\n2. Beslut om projektunderstöd på över 3 000 euro fattas av ungdomssektionen, och om projektunderstöd på upp till 3 000 euro beslutar ungdomstjänsternas partnerskapschef. \n3. Beslutet delges den sökande per post.\n4. Användningen av understödet ska utredas med en blankett för projektunderstödsutredning före det datum som anges i beslutet. Startunderstöd utreds i samband med eller före ansökan om verksamhetsunderstöd för följande år.",
+            "processing_time": " Understöd på under 3 000 euro 1-2 veckor såvida inga ytterligare utredningar behövs, startunderstöd och understöd på över 3 000 euro 1-3 mån. ",
             "expiration_time": "En inlämnad ansökan gäller tills beslutet har fattats.",
+            "information": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id. \n\nTjänsten tillgänglig dygnet runt varje dag \n\nAndra än föreningar (t.ex. ungdomsgrupper) ska ha en myndig kontaktperson som svarar för användningen av understödet.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -23034,7 +23086,7 @@
             ],
             "target_groups": [
                 "ASSOCIATIONS",
-                "INDIVIDUALS"
+                "YOUTH"
             ],
             "life_events": [
             ],
@@ -23065,7 +23117,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -23112,8 +23164,7 @@
             "responsible_depts": [
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "INDIVIDUALS"
+                "ASSOCIATIONS"
             ],
             "life_events": [
             ],
@@ -23143,7 +23194,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -23174,10 +23225,11 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Ungdomsservicen, ansökan om förskott på verksamhetsunderstöd och löneunderstöd",
-            "description": "Med e-tjänsten kan du ansöka om verksamhets- och\/eller löneunderstödsförskott. Understöden är avsedda för den årliga verksamheten hos föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för anställning.",
-            "process_description": "Verksamhets- eller löneunderstödsförskott beviljas föreningar som under föregående år har fått startunderstöd eller verksamhets- och\/eller löneunderstöd. Förskottet kan utgöra högst hälften av det understödsbelopp som föreningen fick föregående år.\n\nAnsökan ska lämnas in före utgången av den 15 december. Ifall föreningen inte ansöker om egentligt understöd före ansökningstiden går ut återkrävs det beviljade understödsförskottet. Vid utdelningen av understöd iakttas ungdomsnämndens understödsreglemente som innehåller närmare information om kriterierna för beviljandet av understöd.\n\n1. Ansökan ska lämnas in före utgången av den 15 december.\n2. Byråchefen vid ungdomscentralens byrå för samhällsaktivitet bland unga fattar beslutet om understödet.\n3. Beslutet delges den sökande per post.",
+            "description": "Verksamhets- och lönenunderstödförskot är avsedda för den årliga verksamheten hos föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för anställning.Verksamhets- eller löneunderstödsförskott beviljas föreningar som under föregående år har fått startunderstöd eller verksamhets- och\/eller löneunderstöd. Förskottet kan utgöra högst hälften av det understödsbelopp som föreningen fick föregående år.",
+            "process_description": "1. Ansökan ska lämnas in före utgången av den 15 december.\n2. Byråchefen vid ungdomscentralens byrå för samhällsaktivitet bland unga fattar beslutet om understödet.\n3. Beslutet delges den sökande per post.",
             "processing_time": "En månad.",
             "expiration_time": "En inlämnad ansökan är giltig tills ett beslut har fattats.",
+            "information": "Ifall föreningen inte ansöker om egentligt understöd före ansökningstiden går ut återkrävs det beviljade understödsförskottet. \n\nVid utdelningen av understöd iakttas ungdomsnämndens Understödsreglemente för undomsföreningar för ungdomsföreningar som innehåller närmare information om kriterierna för beviljandet av understöd.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -23185,8 +23237,7 @@
             "responsible_depts": [
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "INDIVIDUALS"
+                "ASSOCIATIONS"
             ],
             "life_events": [
             ],
@@ -23216,7 +23267,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -23260,8 +23311,7 @@
             "responsible_depts": [
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "INDIVIDUALS"
+                "ASSOCIATIONS"
             ],
             "life_events": [
             ],
@@ -23292,7 +23342,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -23326,9 +23376,11 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Ungdomsservicen, ansökan om verksamhetsunderstöd och löneunderstöd",
-            "description": "Med e-tjänsten kan du ansöka om verksamhetsunderstöd (inklusive hyresunderstöd) och\/eller löneunderstöd. Understöden är avsedda för den årliga verksamheten hos föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för anställning.",
-            "process_description": "Verksamhetsunderstöd beviljas åt Helsingforsföreningar för yngre ungdomar eller ungdomar, där över hälften av medlemmarna eller de personer som aktivt deltar i verksamheten är Helsingforsbor i åldern 7-28.\n\n\nOm det är fråga om en förening vars verksamhet för yngre tonåringar eller unga (t.ex. vuxenföreningars avdelningar\/sektioner för yngre tonåringar) endast utgör ett delområde ska ungdomsverksamhetens andel avskiljas från föreningens övriga verksamhet både i bokföringen och i verksamhetsplanen och verksamhetsberättelsen.\n\nHyresunderstöd söks i samband med verksamhetsunderstödet. Hyresunderstöd beviljas föreningar som är behöriga att söka verksamhetsunderstöd, som har hyrt egna lokaler där de driver verksamhet minst fyra dagar i veckan. Hyresunderstöd beviljas även de distriktsorganisationer för yngre tonåringar och ungdomar från Helsingfors vars lokala föreningar eller sektioner är berättigade till verksamhetsunderstöd. Vid ansökan om hyresunderstöd ska det ansökta beloppet inkluderas i det ansökta verksamhetsunderstödsbeloppet och behovet av understöd redogöras i angivet fält.\n\nLöneunderstöd beviljas registrerade ungdomsföreningar och föreningar för yngre tonåringar från Helsingfors eller motsvarande registrerade föreningar som under sig har lokala i Helsingfors verksamma ungdomsföreningar, sektioner\/avdelningar\/verksamhetsgrupper eller om föreningens verksamhet annars är av sådan natur att den förutsätter organisering och 2\/3 av medlemmarna eller personerna som aktivt deltar i verksamheten inte har fyllt 29 år. Förutsättningen för beviljande av löneunderstöd är att föreningens verksamhet bedöms i samarbete med ungdomscentralen.\n\n1. Ansökan ska lämnas in före utgången av den sista februari.\n2. Bilagorna ska lämnas in före slutet av mars.\n3. Ungdomsnämnden fattar beslutet om understödet.\n4. Beslutet delges den sökande per post.\n5. Användningen av understödet utreds i samband med eller före nästa års ansökan.",
-            "information": "Vid utdelningen av understöd iakttas ungdomsnämndens understödsreglemente som innehåller närmare information om kriterierna för beviljandet av understöd.",
+            "description": "Verksamhets- och lönenunderstöd är avsedda för den årliga verksamheten hos föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för anställning. Utgångspunkten för stödet är att 2\/3 av medlemmarna och de som aktivt deltar i verksamheten är personer bosatta i Helsingfors och att de är yngre än 29 år.",
+            "process_description": "Verksamhetsunderstöd beviljas åt Helsingforsföreningar för yngre ungdomar eller ungdomar, där över hälften av medlemmarna eller de personer som aktivt deltar i verksamheten är Helsingforsbor i åldern 7-28.\n\n\nOm det är fråga om en förening vars verksamhet för yngre tonåringar eller unga (t.ex. vuxenföreningars avdelningar\/sektioner för yngre tonåringar) endast utgör ett delområde ska ungdomsverksamhetens andel avskiljas från föreningens övriga verksamhet både i bokföringen och i verksamhetsplanen och verksamhetsberättelsen.\n\nHyresunderstöd söks i samband med verksamhetsunderstödet. Hyresunderstöd beviljas föreningar som är behöriga att söka verksamhetsunderstöd, som har hyrt egna lokaler där de driver verksamhet minst fyra dagar i veckan. Hyresunderstöd beviljas även de distriktsorganisationer för yngre tonåringar och ungdomar från Helsingfors vars lokala föreningar eller sektioner är berättigade till verksamhetsunderstöd. Vid ansökan om hyresunderstöd ska det ansökta beloppet inkluderas i det ansökta verksamhetsunderstödsbeloppet och behovet av understöd redogöras i angivet fält.\n\nLöneunderstöd beviljas registrerade ungdomsföreningar och föreningar för yngre tonåringar från Helsingfors eller motsvarande registrerade föreningar som under sig har lokala i Helsingfors verksamma ungdomsföreningar, sektioner\/avdelningar\/verksamhetsgrupper eller om föreningens verksamhet annars är av sådan natur att den förutsätter organisering och 2\/3 av medlemmarna eller personerna som aktivt deltar i verksamheten inte har fyllt 29 år. Förutsättningen för beviljande av löneunderstöd är att föreningens verksamhet bedöms i samarbete med ungdomssektionen.\n\n1. Ansökan ska lämnas in före utgången av den sista februari.\n2. Bilagorna ska lämnas in före slutet av mars.\n3. Ungdomsnämnden fattar beslutet om understödet.\n4. Beslutet delges den sökande per post.\n5. Användningen av understödet utreds i samband med eller före nästa års ansökan.",
+            "processing_time": "Behndlingstid 3-4 månader",
+            "expiration_time": "En inlämnad ansökan gäller tills beslutet har fattats. ",
+            "information": "Vid utdelningen av understöd iakttas Understödsreglemente för ungdomsföreningarsom innehåller närmare information om kriterierna för beviljandet av understöd.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -23336,8 +23388,7 @@
             "responsible_depts": [
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "INDIVIDUALS"
+                "ASSOCIATIONS"
             ],
             "life_events": [
             ],
@@ -23368,7 +23419,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -38662,7 +38713,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Selaa toimitiloja Oikotiellä",
-                            "url": "https:\/\/toimitilat.oikotie.fi\/vuokrattavat-toimitilat?pagination=1&keywords%5B0%5D=KYMPRYA&cardType=106"
+                            "url": "https:\/\/toimitilat.oikotie.fi\/vuokrattavat-toimitilat?pagination=1&keywords%5B0%5D=KYMPRYA&cardType=106",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -38714,7 +38766,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Browse premises on Oikotie",
-                            "url": "https:\/\/toimitilat.oikotie.fi\/vuokrattavat-toimitilat?pagination=1&keywords%5B0%5D=KYMPRYA&cardType=106"
+                            "url": "https:\/\/toimitilat.oikotie.fi\/vuokrattavat-toimitilat?pagination=1&keywords%5B0%5D=KYMPRYA&cardType=106&apu=en",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -38766,7 +38819,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Bläddra bland lokaler i Oikotie",
-                            "url": "https:\/\/toimitilat.oikotie.fi\/vuokrattavat-toimitilat?pagination=1&keywords%5B0%5D=KYMPRYA&cardType=106"
+                            "url": "https:\/\/toimitilat.oikotie.fi\/vuokrattavat-toimitilat?pagination=1&keywords%5B0%5D=KYMPRYA&cardType=106&apu=sv",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
