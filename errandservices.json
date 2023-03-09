@@ -1327,7 +1327,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Asiakaspalvelun puhelinpalvelu",
-                    "availability_summary": "Avoinna ma-to 09-15, pe 10-15",
+                    "availability_summary": "Avoinna ma-ti 08-16, ke-to 09-17, pe 10-14",
                     "phone": " 09 310 47589",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -1343,10 +1343,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-to 09-15"
+                            "availability_string": "Avoinna ma-ti 08-16"
                         },
                         {
-                            "availability_string": "Avoinna pe 10-15"
+                            "availability_string": "Avoinna ke-to 09-17"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 10-14"
                         }
                     ]
                 },
@@ -1355,7 +1358,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Asiakaspalvelun sähköposti",
-                    "email": "laakso.apuvalinepalvelut@hel.fi",
+                    "email": "sote.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -6761,7 +6764,7 @@
             "type": "APPLICATION",
             "name": "Hae tontin lohkomista",
             "description": "Hae tontin lohkomista sähköisesti joko Lupapisteessä tai lähettämällä kiinteistötoimitushakemus sähköpostilla Kiinteistömuodostusyksikköön.\n\nTontin lohkominen vie aikaa keskimäärin 1-4 kuukautta. Kiireellisissä tapauksissa lohkomistoimitusta voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän. \n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla kiinteistötoimitushakemuksella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta.",
-            "information": "Liitä tarvittaessa seuraavat liitteet:\n\n - valtakirja, jos hakija on muu kuin kiinteistön \nomistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote \nnimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - vuokrasopimus\n\n - laskutustiedot tai -ohje\n\n - tontin lohkomisen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos \nkuolinpesä kiinteistön omistajana tai hakijana\n\n - rasitesopimus liitekarttoineen allekirjoitettuna.\n",
+            "information": "Liitä tarvittaessa seuraavat liitteet:\n\n - valtakirja, jos hakija on muu kuin kiinteistön \nomistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote \nnimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - vuokrasopimus\n\n - laskutustiedot\n\n - tontin lohkomisen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos \nkuolinpesä kiinteistön omistajana tai hakijana\n\n - rasitesopimus liitekarttoineen allekirjoitettuna.\n",
             "provided_languages": [
                 "en",
                 "fi",
