@@ -5767,6 +5767,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae rasitetoimitusta",
+            "description": "Hae rasitetoimitusta joko sähköisesti Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nRasitetoimitus kestää 1-4 kuukautta. \n\nKiinteistörasitteen perustaminen edellyttää yleensä, että tonttien omistajat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nPalvelu on maksullinen\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -6759,7 +6760,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae tontin lohkomista",
-            "description": "Hae tontin lohkomista sähköisesti joko Lupapisteessä tai lähettämällä kiinteistötoimitushakemus sähköpostilla Kiinteistömuodostusyksikköön.\n\nTontin lohkominen vie aikaa keskimäärin 1-4 kuukautta. Kiireellisissä tapauksissa lohkomistoimitusta voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän. \n\nPalvelu on maksullinen.\n\nJos sinun tarvitsee hakea myös tonttijakoa, voit hakea tonttijakoa ja tontin lohkomista samalla hakemuksella, jos teet hakemuksen kiinteistötoimitushakemuslomakkeella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta.",
+            "description": "Hae tontin lohkomista sähköisesti joko Lupapisteessä tai lähettämällä kiinteistötoimitushakemus sähköpostilla Kiinteistömuodostusyksikköön.\n\nTontin lohkominen vie aikaa keskimäärin 1-4 kuukautta. Kiireellisissä tapauksissa lohkomistoimitusta voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän. \n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla kiinteistötoimitushakemuksella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta.",
             "information": "Liitä tarvittaessa seuraavat liitteet:\n\n - valtakirja, jos hakija on muu kuin kiinteistön \nomistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote \nnimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - vuokrasopimus\n\n - laskutustiedot tai -ohje\n\n - tontin lohkomisen hyväksyminen asianosaiselta\n\n - vahvistettu perukirja tai sukuselvitys, jos \nkuolinpesä kiinteistön omistajana tai hakijana\n\n - rasitesopimus liitekarttoineen allekirjoitettuna.\n",
             "provided_languages": [
                 "en",
@@ -6888,7 +6889,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae tonttijakoa",
-            "description": "Hae tonttijakoa sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nTonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.\n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla kiinteistötoimitushakemuksella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta. Ojeita hakemuksen tekemiseksi Lupapisteessä löydät sivun alaosasta.",
+            "description": "Hae tonttijakoa sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nTonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.\n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla kiinteistötoimitushakemuksella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta. Ohjeita hakemuksen tekemiseksi Lupapisteessä löydät sivun alaosasta.",
             "information": "Liitä hakemukseen tarvittaessa:\n\n - valtakirja, jos hakija muu kuin kiinteistön omistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote nimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - liitekartta (esim. koelaskenta)\n\n - liitekartta vektorimuodossa (esim. dwg tai dgn)\n\n - laskutustiedot\n\n - tonttijaon hyväksyminen asianosaiselta\n\n - ote perukirjasta tai sukuselvityksestä, jos kuolinpesä kiinteistön omistajana tieto pesän osakkaista riittää\n\n - yhtiöoikeudellinen päätös haettavasta tonttijaosta.",
             "provided_languages": [
                 "en",
