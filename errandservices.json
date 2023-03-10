@@ -30884,6 +30884,7 @@
                     "id": 3735,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "Krypterad e-post skickas till den här adressen ",
                     "email": "sote.tapaamispaikkapalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -33828,7 +33829,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Tilaa maastoonmerkintä ja sijaintikatselmus",
-            "description": "Tilaa maastoonmerkintä ja sijaintikatselmus kaupunkimittauspalvelun asiakaspalvelusta. Kun tilaat maalämmön sijaintikatselmuksen, toimita samalla porausraportti osoitteeseen kymp.maalampo@hel.fi.\n\nLähetä tilaus sähköpostilla tai tule tekemään se paikan päälle. Asiakaspalvelu on auki ma-ti 8.15-12.00 ja ke-pe 12.00-15.00. Palvelua saa vuoronumerolla. Jos varaat ajan etukäteen, saat palvelua sovittuna aikana.",
+            "description": "Tilaa maastoonmerkintä ja sijaintikatselmus kaupunkimittauspalvelun asiakaspalvelusta. Kun tilaat maalämmön sijaintikatselmuksen, toimita samalla porausraportti osoitteeseen kymp.maalampo@hel.fi.\n\nLähetä tilaus sähköpostilla tai tule tekemään se paikan päälle. Asiakaspalvelu on auki ma-ti 8.15-12.00 ja ke-pe 12.00-15.00. Asiointi paikan päällä ainoastaan ajanvarauksella.",
             "information": "Liitä tilaukseen seuraavat tiedot:\n\n - Kohteen osoite\n\n - Rakennuslupatunnus\n\n - Kiinteistötunnus\n\n - Lupapisteen tunnus\n\n - Tilaajan nimi ja yhteystiedot. \n\nLiitä tilaukseen myös seuraavat tiedot laskutusta varten:\n\n - Maksajan nimi (yrityksen nimi sekä yhteyshenkilön nimi, yksityishenkilön tilauksissa henkilön nimi riittää)\n\n - Maksajan osoite \n\n - Y-tunnus tai henkilötunnus \n\n - Sähköisen laskutuksen tiedot, mikäli laskutuksen toivotaan tapahtuvan sähköisesti.\n\n",
             "provided_languages": [
                 "fi",
@@ -34062,7 +34063,7 @@
             "service_id": 10639,
             "type": "ORDERING",
             "name": "Tilaa rajan- tai korkeudennäyttö",
-            "description": "Tilaa rajan- tai korkeudennäyttö sähköpostilla tai puhelimitse kaupunkimittauspalvelun asiakaspalvelusta.\n\nKaupunkimittaus suorittaa rajan- ja korkeudennäytön noin 1-2 viikon kuluessa tilauksen tekemisestä ja ne ovat maksullisia palveluita.",
+            "description": "Tilaa rajan- tai korkeudennäyttö sähköpostilla kaupunkimittauspalvelun asiakaspalvelusta. Voit kysyä lisätietoa puhelimitse kaupunkiympäristön asiakaspalvelusta. \n\nKaupunkimittaus suorittaa rajan- ja korkeudennäytön noin 1-2 viikon kuluessa tilauksen tekemisestä ja ne ovat maksullisia palveluita.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -34104,8 +34105,8 @@
                     "id": 3786,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Kaupunkimittauspalvelun asiakaspalvelu",
-                    "availability_summary": "Avoinna ma-to 08:15-16:15, pe 12-15",
+                    "name": "Kaupunkiympäristön asiakaspalvelu",
+                    "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
                     "phone": "+358 (0)9 310 22111",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -34121,7 +34122,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-to 08:15-16:15"
+                            "availability_string": "Avoinna ma-to 08:15-16"
                         },
                         {
                             "availability_string": "Avoinna pe 12-15"
