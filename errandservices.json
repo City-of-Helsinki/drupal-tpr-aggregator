@@ -2338,6 +2338,61 @@
         }
     },
     {
+        "id": 5314,
+        "fi": {
+            "id": 5314,
+            "exact_descriptions": [
+                3717
+            ],
+            "service_id": 10713,
+            "type": "ADVICE",
+            "name": "Asunnottomien tuki, neuvonta",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3790,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Neuvonta, myös yhteistyökumppaneille",
+                    "availability_summary": "Avoinna ma, ke, pe 09-11",
+                    "phone": "09 310 22530",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, ke, pe 09-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1029,
         "fi": {
             "id": 1029,
@@ -10466,6 +10521,63 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5311,
+        "fi": {
+            "id": 5311,
+            "exact_descriptions": [
+                9599
+            ],
+            "service_id": 10713,
+            "type": "ADVICE",
+            "name": "Hietaniemenkadun palvelukeskus",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3789,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Ohjaajat, neuvonta ja päivystys 24 h",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "phone": "09 310 46628 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5144,
@@ -29594,8 +29706,154 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5003,
+            "exact_descriptions": [
+                2848,
+                2931,
+                2942,
+                3029,
+                3041,
+                5216,
+                8917,
+                8918,
+                8926,
+                8928,
+                9217,
+                9222
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Senior Info advisory service",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "ELDERLY_PEOPLE"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3006",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3010"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3363,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Call Senior Info",
+                    "availability_summary": "Open Mon-Fri 09-15",
+                    "phone": "+358 9 310 44556",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3364,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Send email to Senior Info",
+                    "email": "seniori.info@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3418,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Encrypted email",
+                    "availability_summary": "Open every day around the clock",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Send a message to Senior Info",
+                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=en&recipient=seniori.info@hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
+                },
+                {
+                    "id": 3487,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Sotebotti Hester and chat",
+                    "availability_summary": "Open Mon-Wed, Fri 09-15, Thu 09-10, Thu 11:30-15",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sotebotti (Currently Sotebotti Hester can help you in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/en\/health-and-social-services\/senior-services\/advice-and-guidance\/senior-info"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Wed, Fri 09-15"
+                        },
+                        {
+                            "availability_string": "Open Thu 11:30-15"
+                        },
+                        {
+                            "availability_string": "Open Thu 09-10"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5003,
             "exact_descriptions": [
