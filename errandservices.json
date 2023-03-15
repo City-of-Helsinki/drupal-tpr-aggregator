@@ -2338,61 +2338,6 @@
         }
     },
     {
-        "id": 5314,
-        "fi": {
-            "id": 5314,
-            "exact_descriptions": [
-                3717
-            ],
-            "service_id": 10713,
-            "type": "ADVICE",
-            "name": "Asunnottomien tuki, neuvonta",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3790,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Neuvonta, myös yhteistyökumppaneille",
-                    "availability_summary": "Avoinna ma, ke, pe 09-11",
-                    "phone": "09 310 22530",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma, ke, pe 09-11"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 1029,
         "fi": {
             "id": 1029,
@@ -22678,6 +22623,7 @@
         "fi": {
             "id": 5263,
             "exact_descriptions": [
+                3210,
                 7789
             ],
             "service_id": 10438,
@@ -22784,6 +22730,7 @@
         "sv": {
             "id": 5263,
             "exact_descriptions": [
+                3210,
                 7789
             ],
             "service_id": 10438,
@@ -35363,25 +35310,24 @@
         }
     },
     {
-        "id": 1999,
+        "id": 5314,
         "fi": {
-            "id": 1999,
+            "id": 5314,
             "exact_descriptions": [
-                4225
+                3717
             ],
-            "service_id": 10781,
-            "type": "APPLICATION",
-            "name": "Torikortin (päiväpaikka) hakeminen",
-            "description": "Tulostettava lomake, jolla yksityiset henkilöt voivat hakea torikorttia eli päivämyyntipaikkaa Hakaniemen, Ylä-Malmin, Töölön tai Kauppatorille.",
+            "service_id": 10713,
+            "type": "ADVICE",
+            "name": "Tuetun asumisen palveluiden neuvonta",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
-                "49ee63cb-3358-452b-a91d-2cef1707f5c7"
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
-                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -35389,10 +35335,13 @@
             ],
             "channels": [
                 {
-                    "id": 1309,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Torikorttihakemus",
+                    "id": 3790,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Tuetun asumisen palveluiden neuvonta (myös yhteistyökumppaneille)",
+                    "availability_summary": "Avoinna ma, ke, pe 09-11",
+                    "phone": "09 310 22530",
+                    "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -35400,17 +35349,14 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Hakemus",
-                            "url": "https:\/\/www.hel.fi\/static\/heltu\/asiointi\/Tukkutori_Torikorttihakemus.pdf",
-                            "file_format": "PDF"
-                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, ke, pe 09-11"
+                        }
                     ]
                 }
             ]
