@@ -713,6 +713,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Vocational education and training advisory services, service channels",
+            "description": "Vocational education and training advice is available via chat, e-mail and phone.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -817,6 +818,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Informationen för yrkesutbildningen, ärendehanteringstjänst",
+            "description": "Rådgivning inom yrkesutbildningen fås via chatt, e-post och telefon.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -19355,6 +19357,7 @@
             "service_id": 10442,
             "type": "ADVICE",
             "name": "Eftervård inom barnskyddet",
+            "description": "Du kan fråga oss om eftervården inom barnskyddet.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -19521,7 +19524,8 @@
             ],
             "service_id": 10441,
             "type": "ADVICE",
-            "name": "Kontaktinformation",
+            "name": "Stödfamiljsverksamhet, kontaktinformation",
+            "description": "Här hittar du kontaktuppgifter till barnskyddets stödfamiljsverksamhet.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -19750,6 +19754,7 @@
             "service_id": 10087,
             "type": "ADVICE",
             "name": "Barnatillsyningsmännens rådgivning",
+            "description": "Vårt råd när du söker information om att erkännande av föräldrarskap och avtal om barns vårdnad, boende, umgängesrätt och underhåll.",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -38434,7 +38439,8 @@
             ],
             "service_id": 10441,
             "type": "ADVICE",
-            "name": "Hjälplinje",
+            "name": "Mottagningsfamiljeverksamheten, hjälplinje",
+            "description": "Stödtelefonen för mottagningsfamiljeverksamheten är avsedd för barn, föräldrar, närstående och familjevårdare. Till stödtelefonen svarar den jourhavande socialhandledaren.",
             "provided_languages": [
                 "fi",
                 "sv"
