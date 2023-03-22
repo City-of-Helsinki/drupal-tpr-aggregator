@@ -31245,6 +31245,166 @@
         }
     },
     {
+        "id": 5324,
+        "fi": {
+            "id": 5324,
+            "exact_descriptions": [
+                4893
+            ],
+            "service_id": 10290,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus liikkuvasta elintarvikehuoneistosta",
+            "name_synonyms": "kioski, ruokarekka",
+            "description": "Tee rekisteröinti Ilppa-asiointipalvelun kautta tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3798,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ilmoitus elintarviketoiminnan sähköisessä palvelussa",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ilppa.fi -palveluun",
+                            "url": "https:\/\/ilppa.fi\/ilmoitus-aloitus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3799,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tulostettavat lomakkeet",
+                    "prerequisites": "Jos et voi täyttää ilmoitusta Ilppa-palvelussa, täytä PDF-lomake tai Word-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen elintarviketurvallisuus@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus elintarviketoiminnasta (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus elintarviketoiminnasta (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3800,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Postiosoite",
+                    "prerequisites": "Voit myös tulostaa lomakkeen ja lähettää sen postitse osoitteeseen\nHelsingin kaupungin ympäristöpalvelut\nElintarviketurvallisuusyksikkö\nPL 58235\n00099 Helsingin kaupunki\n",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5325,
+        "fi": {
+            "id": 5325,
+            "exact_descriptions": [
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Tee Ketterä kioski -sopimus",
+            "description": "Lähetä sähköpostia alueiden käytön tarkastajalle, jossa varaat ajan aloitustapaamiseen.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3801,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "ulkoilma@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 520,
         "fi": {
             "id": 520,
@@ -33044,7 +33204,7 @@
             "service_id": 10634,
             "type": "PERMISSION",
             "name": "Order a feasibility study for a geothermal well",
-            "description": "In the case of a report on the feasibility of a geothermal well, you will receive information on whether there are underground spaces, structures, space allocations or cables under the site area that may affect plans on geothermal construction. Or whether the property is located in a groundwater area, nature reserve or historical site, which may prevent geothermal construction.\nYou will need a report on the feasibility of a geothermal site to apply for a building permit or planing permission for the project.\n",
+            "description": "In the case of a report on the feasibility of a geothermal well, you will receive information on whether there are underground spaces, structures, space allocations or cables under the site area that may affect plans on geothermal construction. Or whether the property is located in a groundwater area, nature reserve or historical site, which may prevent geothermal construction.\n\nYou will need a report on the feasibility of a geothermal site to apply for a building permit or planning permission for the project.\n",
             "information": "When ordering a report on feasibility for a detached house plot, please attach a map drawing showing the planned locations of the geothermal wells to the order. The map must already show the property and its borders. \n\nFirst, a preliminary enquiry must be ordered in the case of a plot for a blocks of flats to determine whether geothermal construction is possible on the property. When the more detailed plan is ready, order a report on feasibility. Attach to the order a layout plan showing the planned locations of the geothermal wells and their depths and angles of direction as well as the inclination \n\nTo place an order, you will need to fill in the following information:\n- the applicant's email address and telephone number\n- the street address and real property unit ID\n",
             "provided_languages": [
                 "fi"
