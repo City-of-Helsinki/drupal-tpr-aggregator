@@ -3423,6 +3423,90 @@
         }
     },
     {
+        "id": 4280,
+        "fi": {
+            "id": 4280,
+            "exact_descriptions": [
+                7607,
+                9000
+            ],
+            "service_id": 10907,
+            "type": "ADVICE",
+            "name": "Etuuskäsittelyn neuvonta",
+            "description": "Täydentävä ja ehkäisevä toimeentulotuki sekä hautausavustus",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3811,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Etuuskäsittelyn neuvontaa suomeksi",
+                    "availability_summary": "Avoinna ma-pe 09-12",
+                    "phone": "09 3105 6257 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-12"
+                        }
+                    ]
+                },
+                {
+                    "id": 3812,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Etuuskäsittelyn neuvontaa ruotsiksi",
+                    "availability_summary": "Avoinna ma-pe 09-12",
+                    "phone": "09 3104 4967 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5034,
         "fi": {
             "id": 5034,
