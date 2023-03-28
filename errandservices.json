@@ -4588,7 +4588,7 @@
                     "id": 916,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae yleisavustusta",
+                    "name": "Hae Kasvatuksen ja koulutuksen yleisavustusta",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -7559,6 +7559,63 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5346,
+        "fi": {
+            "id": 5346,
+            "exact_descriptions": [
+                5001
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Hae yleisen alueen käyttöoikeutta vaalitilaisuutta varten",
+            "name_synonyms": "vaalit, kuntavaalit, eduskuntavaalit, presidentinvaalit, vaalitilaisuudet, eurovaalit, vaalimainos, vaalimainostelineet, vaalikampanja",
+            "description": "Täytä hakulomake ja lähetä se sähköpostitse kaupunkiympäristön alueidenkäytön tarkastajalle osoitteeseen ulkoilma@hel.fi.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3827,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tulostettava lomake",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Alueidenkäyttö-hakemus (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "file_format": "PDF"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -30159,7 +30216,6 @@
         "fi": {
             "id": 5344,
             "exact_descriptions": [
-                9617
             ],
             "service_id": 10406,
             "type": "APPOINTMENT",
@@ -31484,6 +31540,191 @@
         ]
     },
     {
+        "id": 5348,
+        "fi": {
+            "id": 5348,
+            "exact_descriptions": [
+                9623
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Tee hakemus lasitetun terassialueen vuokraamiseksi",
+            "name_synonyms": "terassi, ulkotarjoilu, lasitettu terassi",
+            "description": "Tee hakemus terassialueen vuokraamiseksi sähköisellä lomakkeella kaupungin verkkoasioinnissa tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3830,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee hakemus lasitetun terassialueen vuokraamiseksi",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry kaupungin verkkoasiointiin",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3831,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee hakemus lasitetun terassialueen vuokraamiseksi",
+                    "process_description": "Jos et voi täyttää sähköistä lomaketta, täytä PDF-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen ulkoilma@hel.fi. Voit tarkistaa terassialueen hakemuksessa tarvittavat liitteet liiteluettelosta.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Täytä hakemus lasitetun terassialueen vuokraamiseksi (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Terassihakemuksen liiteluettelo (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5349,
+        "fi": {
+            "id": 5349,
+            "exact_descriptions": [
+                7716
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Tee hakemus parklet-alueen vuokraamiseksi",
+            "name_synonyms": "pysäköintipaikka, pysäköintiruutu",
+            "description": "Tee hakemus parklet-alueen vuokraamiseksi sähköisellä lomakkeella kaupungin verkkoasioinnissa tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3832,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee hakemus parklet-alueen vuokraamiseksi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry kaupungin verkkoasiointiin",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3833,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee hakemus parklet-alueen vuokraamiseksi",
+                    "prerequisites": "Jos et voi täyttää sähköistä lomaketta, täytä PDF-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen ulkoilma@hel.fi. Voit tarkistaa terassialueen hakemuksessa tarvittavat liitteet liiteluettelosta.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Täytä hakemus parklet-alueen vuokraamiseksi (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Terassi ja parklet-alueen hakemuksen liiteluettelo (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4043,
         "fi": {
             "id": 4043,
@@ -31538,6 +31779,93 @@
                             "type": "FORM",
                             "title": "Hakemuslomake talousvettä toimittavan laitoksen perustamisesta",
                             "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5347,
+        "fi": {
+            "id": 5347,
+            "exact_descriptions": [
+                4889
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Tee hakemus terassialueen vuokraamiseksi",
+            "name_synonyms": "terassi, ulkotarjoilu, ulkotarjoilulupa",
+            "description": "Tee hakemus terassialueen vuokraamiseksi sähköisellä lomakkeella kaupungin verkkoasioinnissa tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3828,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee hakemus terassialueen vuokraamiseksi",
+                    "prerequisites": "Tee hakemus terassi- ja parklet -alueen vuokraamiseksi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry kaupungin verkkoasiointiin",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3829,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee hakemus terassialueen vuokraamiseksi",
+                    "process_description": "Jos et voi täyttää sähköistä lomaketta, täytä PDF-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen ulkoilma@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Täytä hakemus terassi-alueen vuokraamiseksi (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
                             "file_format": "PDF"
                         }
                     ],
