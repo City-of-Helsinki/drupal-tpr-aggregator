@@ -30099,6 +30099,65 @@
         }
     },
     {
+        "id": 5344,
+        "fi": {
+            "id": 5344,
+            "exact_descriptions": [
+                9617
+            ],
+            "service_id": 10406,
+            "type": "APPOINTMENT",
+            "name": "Sosiaalinen kuntoutus, ajanvaraus",
+            "description": "Keskitetty uusien asiakkaiden ajanvarausnumero.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3825,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Sosiaalinen kuntoutus, ajanvaraus",
+                    "availability_summary": "Avoinna ti, pe 09-11",
+                    "phone": "09 310 77392 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ti, pe 09-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5338,
         "fi": {
             "id": 5338,
@@ -30325,6 +30384,60 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5343,
+        "fi": {
+            "id": 5343,
+            "exact_descriptions": [
+                9620
+            ],
+            "service_id": 10406,
+            "type": "ADVICE",
+            "name": "Sosiaalisen kuntoutuksen kuntoutusohjaaja",
+            "description": "Tarjoamme yli 30-vuotiaille työttömille tehostettua yksilöllistä palvelua ja kuntoutumista edistäviä ryhmätoimintoja. Tarkoituksenamme on tukea hyvinvointiasi, arkeasi ja toimintakykyäsi.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3824,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kuntoutusohjaajan puhelinnumero",
+                    "phone": "09 310 34821",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 2226,
