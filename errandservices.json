@@ -4333,10 +4333,181 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5265,
+            "exact_descriptions": [
+                3331
+            ],
+            "service_id": 10384,
+            "type": "APPLICATION",
+            "name": "Apply for a grant and a statement from the municipality",
+            "description": "You need a municipality statement for a construction or renovation project for which you have applied for a state grant or subsidy from ARA.\n\nOnce the project plan for the site has been completed, submit the application documents through ARA's online service. Through the service, ARA requests a statement from the municipality.\n\nThe city issues its statement about the project and submits it to ARA. The applicant sees the statement in ARA's online service.\n\nWe will provide the statement within two weeks of receiving the required documents.\n",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3744,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Request more information about the municipality's statements by email",
+                    "email": "asuntoas@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3745,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Request more information about the municipality's statements by phone",
+                    "phone": "09 310 34174",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3749,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a grant on ARA's website",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to ARA's website",
+                            "url": "https:\/\/www.ara.fi\/fi-FI\/Verkkoasiointi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5265,
+            "exact_descriptions": [
+                3331
+            ],
+            "service_id": 10384,
+            "type": "APPLICATION",
+            "name": "Ansök om bidrag och utlåtande från kommunen",
+            "description": "Du behöver ett utlåtande från kommunen för ett bygg- och ombyggnadsprojekt för vilket du ansökt om statens understöd eller bidrag hos ARA.\n\nEfter att projektplanen för objektet blivit färdig, lämna in ansökningshandlingarna via ARA:s e-tjänst. ARA ber om ett utlåtande från kommunen via e-tjänsten.\n\nStaden ger sitt utlåtande om projektet och skickar det till ARA. Den sökande ser utlåtandet på ARA:s e-tjänst.\n\nVi skickar utlåtandet inom två veckor efter att vi mottagit de handlingar vi behöver.\n",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3744,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Be om mer information om kommunens utlåtanden per e-post",
+                    "email": "asuntoas@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3745,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Be om mer information om kommunens utlåtanden per telefon",
+                    "phone": "09 310 34174",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3749,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om bidrag på ARA:s webbplats",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till ARA:s E-tjänster",
+                            "url": "https:\/\/www.ara.fi\/sv-FI\/Etjanst",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 899,
@@ -30634,6 +30805,66 @@
                     "links": [
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5351,
+        "fi": {
+            "id": 5351,
+            "exact_descriptions": [
+                9624
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Sosiaalineuvonta",
+            "description": "Keskitetty sosiaalineuvonta, 16-29-vuotiaat ja yli 30-vuotiaat.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3019"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3837,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Sosiaalineuvonnan puhelin",
+                    "availability_summary": "Avoinna ma-pe 08:15-16",
+                    "phone": "09 310 44400",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-16"
+                        }
                     ]
                 }
             ]
