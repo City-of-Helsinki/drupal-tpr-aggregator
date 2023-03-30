@@ -35098,7 +35098,7 @@
             "service_id": 10352,
             "type": "ORDERING",
             "name": "Tilaa koelaskenta",
-            "description": "Tilaa koelaskenta kiinteistömuodostusyksikön asiantuntijoilta puhelimitse tai sähköpostilla. \n\nKoelaskennan tekemisessä kestää noin kolme arkipäivää. Palvelu on maksullinen.\n\nTilaa koelaskenta\n\nTimo Tutti puh. 09 3103 1874\n\nEero Jalkanen puh. 09 3103 6791 \n\nLauri Raunu puh. 09 3103 1882",
+            "description": "Tilaa koelaskenta kiinteistömuodostusyksikön asiantuntijoilta puhelimitse tai sähköpostilla.\n\nKoelaskennan tekemisessä kestää noin kolme arkipäivää. \n\nPalvelu on maksullinen.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -35614,6 +35614,62 @@
                         {
                             "availability_string": "Avoinna pe 12-15"
                         }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5354,
+        "fi": {
+            "id": 5354,
+            "exact_descriptions": [
+            ],
+            "service_id": 10636,
+            "type": "ORDERING",
+            "name": "Tilaa rakentamisen katselmukset",
+            "description": "Tilaa pohjakatselmus, rakennekatselmus, ilmanvaihtokatselmus, vesi- ja viemärilaitteiden katselmus, seurantakatselmus ja loppukatselmus rakennusvalvonnan alueelliselta tarkastajalta tai rakennusmestarilta.\n\nTarkastusinsinöörit ja rakennusmestarit ovat tavoitettavissa ma klo 11-12 ja to klo 10.30-12.",
+            "information": "Ota katselmukseen mukaan seuraavat asiakirjat:\n\n - rakennusvaiheen suunnitelmat ja asiakirjat\n\n - tehdyt selvitykset ja mittaustulokset\n\n - ajantasainen rakennustyön tarkastusasiakirja.\n\nKatselmukseen tulee osallistua:\n\n - rakennushankkeeseen ryhtyvä tai tämän osoittama edustaja\n\n - vastaava työnjohtaja\n\n - suunnittelija tai erityisalan työnjohtaja, jos tämän asiantuntemusta tarvitaan katselmuksessa.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3843,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tilaa rakentamisen katselmukset",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Siirry karttapalveluun",
+                            "url": "https:\/\/kartta.hel.fi\/?setlanguage=fi&e=25496130&n=6675759&r=2&w=*&l=Karttasarja%2Cvastuualue_rava&o=100%2C100&swtab=tab_default"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -37645,6 +37701,34 @@
                             "title": "Avaa ja täytä tulostettava lomake",
                             "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/303-020_tjae-tuen_hakemus_su.pdf",
                             "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3842,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen hakemus Maisassa",
+                    "prerequisites": "Sähköinen hakemus Maisassa",
+                    "process_description": "Sähköinen hakemus Maisassa",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tee sähköinen hakemus Maisassa",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
                         }
                     ],
                     "availabilities": [
