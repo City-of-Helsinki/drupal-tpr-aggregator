@@ -2751,89 +2751,6 @@
         ]
     },
     {
-        "id": 5309,
-        "fi": {
-            "id": 5309,
-            "exact_descriptions": [
-                3325
-            ],
-            "service_id": 10639,
-            "type": "ORDERING",
-            "name": "Beställ rå- eller höjdvisning",
-            "description": "Beställ rå- eller höjdvisning per e-post från kundtjänsten vid stadsmätningstjänsterna. Du kan fråga mer information av stadsmiljösektorns kundtjänst per telefon. \n\nStadsmätningen utför rå- och höjdvisning inom cirka 1-2 veckor från beställningen och de är avgiftsbelagda tjänster.\n",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3785,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Tilaa rajan- tai korkeudennäyttö sähköpostilla",
-                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3786,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Kaupunkiympäristön asiakaspalvelu",
-                    "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
-                    "phone": "+358 (0)9 310 22111",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-to 08:15-16"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 4422,
         "fi": {
             "id": 4422,
@@ -5356,6 +5273,56 @@
             ],
             "channels": [
                 {
+                    "id": 3773,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for property definition with a cadastral survey application",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the form (in Finnish, PDF)",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3774,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for property definition",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
                     "id": 3775,
                     "type": "EMAIL",
                     "type_string": "E-mail",
@@ -6681,8 +6648,105 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5304,
+            "exact_descriptions": [
+                9593
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Apply for the establishment of a building easement or real estate joint arrangement from Building Control Services",
+            "description": "Please apply for the establishment of a building easement in good time before the construction project is completed so that there will be no delay in the commissioning of the building.\n\nYou can apply for the establishment of a building easement and a real estate joint arrangement electronically via Lupapiste or by sending a building easement application by email to Building Control Services.\n\nEstablishing a building easement and a real estate joint arrangement requires that all owners of the real estates in question and any land lease holders jointly make a written easement contract.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3780,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for the establishment of a building easement or real estate joint arrangement with a building easement application",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the form (in Finnish, PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Rasitehakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3781,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for the establishment of a building easement or real estate joint arrangement",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3782,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Apply for the establishment of a building easement or real estate joint arrangement by email",
+                    "email": "rakennusvalvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5304,
             "exact_descriptions": [
@@ -6802,6 +6866,8 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
                 "INDIVIDUALS"
             ],
             "life_events": [
@@ -6822,7 +6888,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
@@ -6848,7 +6914,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
@@ -6873,7 +6939,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                     ],
                     "availabilities": [
@@ -6892,7 +6958,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
@@ -6905,8 +6971,128 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5303,
+            "exact_descriptions": [
+                9593
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Apply for an easement survey",
+            "description": "You can apply for an easement survey electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit.\n\nThe easement survey will take 1-4 months. \n\nThe establishment of a real estate easement usually requires a joint written contract from the plot owners.\n\nThe service is subject to a fee.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3777,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for an easement survey with a cadastral survey application",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the form (in Finnish, PDF)",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3778,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for an easement survey",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3779,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Apply for an easement survey by email",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3788,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Easement contract template",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the easement contract template (in Finnish, PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/asuminen-ja-ymparisto\/tontit\/kaupunkimittaus\/Rasitesopimus-ja-liitekarttamalli.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5303,
             "exact_descriptions": [
@@ -6924,6 +7110,8 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
                 "INDIVIDUALS"
             ],
             "life_events": [
@@ -6944,7 +7132,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
@@ -6970,7 +7158,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
@@ -6995,7 +7183,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                     ],
                     "availabilities": [
@@ -7014,7 +7202,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
@@ -36333,8 +36521,85 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5307,
+            "exact_descriptions": [
+                3314
+            ],
+            "service_id": 10294,
+            "type": "ORDERING",
+            "name": "Order a notary",
+            "description": "You can order a notary and ask about purchase certification by emailing or directly contacting notaries.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3783,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Find the contact information of notaries",
+                    "availability_summary": "Open Mon-Fri 08:15-16:15",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the contact information of notaries",
+                            "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/plots-and-building-permits\/contact-information-for-plot-and-permit-matters#city-survey-services"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08:15-16:15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3784,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Order a notary by email",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5307,
             "exact_descriptions": [
@@ -36911,6 +37176,89 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5309,
+        "fi": {
+            "id": 5309,
+            "exact_descriptions": [
+                3325
+            ],
+            "service_id": 10639,
+            "type": "ORDERING",
+            "name": "Tilaa rajan- tai korkeudennäyttö",
+            "description": "Tilaa rajan- tai korkeudennäyttö sähköpostilla kaupunkimittauspalvelun asiakaspalvelusta. Voit kysyä lisätietoa puhelimitse kaupunkiympäristön asiakaspalvelusta.\n\nKaupunkimittaus suorittaa rajan- ja korkeudennäytön noin 1-2 viikon kuluessa tilauksen tekemisestä ja ne ovat maksullisia palveluita.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3785,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tilaa rajan- tai korkeudennäyttö sähköpostilla",
+                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3786,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kaupunkiympäristön asiakaspalvelu",
+                    "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
+                    "phone": "+358 (0)9 310 22111",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 08:15-16"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5354,
