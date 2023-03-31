@@ -2751,6 +2751,89 @@
         ]
     },
     {
+        "id": 5309,
+        "fi": {
+            "id": 5309,
+            "exact_descriptions": [
+                3325
+            ],
+            "service_id": 10639,
+            "type": "ORDERING",
+            "name": "Beställ rå- eller höjdvisning",
+            "description": "Beställ rå- eller höjdvisning per e-post från kundtjänsten vid stadsmätningstjänsterna. Du kan fråga mer information av stadsmiljösektorns kundtjänst per telefon. \n\nStadsmätningen utför rå- och höjdvisning inom cirka 1-2 veckor från beställningen och de är avgiftsbelagda tjänster.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3785,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tilaa rajan- tai korkeudennäyttö sähköpostilla",
+                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3786,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kaupunkiympäristön asiakaspalvelu",
+                    "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
+                    "phone": "+358 (0)9 310 22111",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 08:15-16"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4422,
         "fi": {
             "id": 4422,
@@ -5248,8 +5331,52 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5302,
+            "exact_descriptions": [
+                9592
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Apply for property definition",
+            "description": "You can apply for a property definition, e.g. a boundary demarcation procedure, electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit. \n\nAttach a map that indicates the real estate boundary and \nsite to be defined and your invoicing information to the application.\n\nThe property definition process will take roughly 1-4 months. \n\nThe service is subject to a fee.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3775,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Send the application by email",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5302,
             "exact_descriptions": [
@@ -6517,7 +6644,7 @@
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
@@ -6556,8 +6683,105 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5304,
+            "exact_descriptions": [
+                9593
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Ansök om inrättande av byggnadsservitut eller samordning av fastigheter av byggnadstillsynen",
+            "description": "Ansök om inrättande av byggnadsservitut i god tid innan byggnadsprojektet blir färdigt, för att ibruktagandet av byggnaden inte ska fördröjas.\n\nAnsök elektroniskt om inrättande av byggnadsservitut och samordning av fastigheter via Lupapiste eller genom att skicka ansökan om byggnadsservitut per e-post till byggnadstillsynen.\n\nFör att byggnadsservitut och samordning av fastigheter ska kunna inrättas förutsätts att alla ägare till fastigheterna i fråga och eventuella innehavare av jordarrenderätt tillsammans ingår ett skriftligt servitutsavtal.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3780,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om inrättande av byggnadsservitut eller samordning av fastigheter med ansökan om byggnadsservitut",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till blanketten",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/sv\/Ansokan_om_servitut.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3781,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om grundande av byggnadsservitut eller samordning av fastigheter",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3782,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Skicka in ansökan per e-post",
+                    "email": "rakennusvalvonta@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5303,
@@ -6620,7 +6844,7 @@
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
@@ -6708,9 +6932,60 @@
             ],
             "channels": [
                 {
+                    "id": 3777,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om servitutsförrätning med ansökan om fastighetsförrättning",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till blanketten (på finska, pdf)",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3778,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om servitutsförrättning",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupaspiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
                     "id": 3779,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "Skicka in ansökan per e-post",
                     "email": "kiinteistorekisteri@hel.fi",
                     "provided_languages": [
                     ],
@@ -6722,6 +6997,30 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3788,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Modell för servitutsavtal",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gå till modellen för servitutsavtal (på finska, pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/asuminen-ja-ymparisto\/tontit\/kaupunkimittaus\/Rasitesopimus-ja-liitekarttamalli.pdf"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -7715,7 +8014,7 @@
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
@@ -7839,7 +8138,7 @@
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
@@ -7858,7 +8157,7 @@
                     "id": 3771,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "Skicka in ansökan per e-post till Fastighetsbildningsenheten",
+                    "name": "Skicka in ansökan per e-post",
                     "email": "kiinteistorekisteri@hel.fi",
                     "provided_languages": [
                     ],
@@ -7964,7 +8263,7 @@
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
@@ -8001,8 +8300,104 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5299,
+            "exact_descriptions": [
+                9592
+            ],
+            "service_id": 10352,
+            "type": "APPLICATION",
+            "name": "Apply for a plot division",
+            "description": "You can apply for a plot division electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit.\nThe plot division process will take roughly 1-2 months. If your case is urgent, you can expedite the process by acquiring the approval of all parties concerned in writing.\nThe service is subject to a fee.\n\nYou can apply for a plot division and plot parcelling through the same cadastral survey form. In the Lupapiste service, first apply for a plot division and then for real estate formation. You can find instructions for submitting an application in Lupapiste at the bottom of the page.\n",
+            "information": "Submit the following attachments when necessary:\n\n - a power of attorney if the applicant is not the owner or holder of the real estate\n \n - a trade register or register of associations registration certificate for verifying the right to sign\n\n - a reservation decision if the area in question is owned by the City\n\n - an attachment map (e.g. division estimate)\n\n - an attachment map in a vector format (e.g. DWG or DGN)\ninvoicing information\napproval of the plot division from the party concerned \n \n - a copy of the estate inventory or report on family \nrelationships if the real estate is owned by an estate; information of the heirs suffices\n \n - a company law decision on the plot division being applied for.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3764,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a plot division with a cadastral survey application",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the form (in Finnish, PDF)",
+                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3765,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a plot division",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3766,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Send the cadastral survey application by email",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5299,
             "exact_descriptions": [
@@ -8064,7 +8459,7 @@
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
-                    "e_processing": false,
+                    "e_processing": true,
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
@@ -8101,6 +8496,114 @@
                 }
             ]
         }
+    },
+    {
+        "id": 4508,
+        "fi": {
+            "id": 4508,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "PERMISSION",
+            "name": "Hae tupakkalain mukaista myyntilupaa",
+            "name_synonyms": "tupakka, tupakkatuotteet, nikotiininesteet, myyntilupa, tukkumyynti",
+            "description": "Tee tupakkatuotteiden ja nikotiininesteiden myyntilupahakemus sekä tukkumyynti-ilmoitus kirjallisesti kunnalle. Tee hakemus sähköisesti Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) internetsivuilla. Ilmoita lupatietojen muutoksesta ja myynnin lopettamisesta luvan myöntäjälle. Lupatietojen muutoksista ja toiminnan lopettamisesta voit ilmoittaa vapaamuotoisesti joko sähköpostitse kymp.tupakkalupa@hel.fi tai postitse Helsingin kaupungin ympäristöpalvelut, PL 58235, 00099 HELSINGIN KAUPUNKI. Ilmoituksessa tulee olla seuraavat tiedot: myyntiluvan haltija, myyntipaikka, lupanumero ja muutoksen\/myynnin lopettamisen päivämäärä.\n\nJos et pysty tekemään ilmoitusta Valviran-palvelussa, täytä PDF-lomake ja lähetä se sähköpostitse osoitteeseen kymp.tupakkalupa@hel.fi",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2865,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae tupakkalain mukaista myyntilupaa",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Vähittäismyyntilupahakemus (PDF)",
+                            "url": "https:\/\/www.valvira.fi\/documents\/14444\/3646737\/Hakemus_tupakkatuotteiden_ja_nikotiininesteiden_vahittaismyyntiin_tukkumyynti_ilmoitus.pdf\/fc94f01b-c8a5-7e08-1ea5-a94731467c76",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3852,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee vähittäismyyntilupahakemus Valviran sähköisessä palvelussa",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Valviran palveluun",
+                            "url": "https:\/\/www.valvira.fi\/tupakka\/myynti\/vahittaismyynti\/myyntilupahakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3853,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Hae tupakkalain mukaista myyntilupaa",
+                    "personal_service_street_addr": "Helsingin kaupunki\/Ympäristöpalvelut",
+                    "personal_service_postal_code": "PL 58235, 00099",
+                    "personal_service_city": "Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5223,
@@ -12785,69 +13288,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 4055,
-        "fi": {
-            "id": 4055,
-            "exact_descriptions": [
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Ilmoitus alkutuotantopaikasta tai alkutuotantotuotteiden kuljetuksesta",
-            "description": "Alkutuotantopaikasta tulee tehdä ilmoitus. Alkutuotantoa on esimerkiksi tuotantoeläinten pitäminen, hunajantuotanto ja kalastus. Ilmoitusta ei tarvitse tehdä kasvien ja sienten keräilystä eikä metsästyksestä.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2447,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Ilmoitus alkutuotantopaikasta tai alkutuotantotuotteiden kuljetuksesta",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Ilmoitus alkutuotantopaikasta tai alkutuotantotuotteiden kuljetuksesta (PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_alkutuotantopaikka_ilmoituslomake.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Ilmoitus alkutuotantopaikasta tai alkutuotantotuotteiden kuljetuksesta (Word)",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_alkutuotantopaikka_ilmoituslomake.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 4491,
@@ -18013,168 +18453,6 @@
         }
     },
     {
-        "id": 4370,
-        "fi": {
-            "id": 4370,
-            "exact_descriptions": [
-                2890,
-                9025
-            ],
-            "service_id": 10771,
-            "type": "ADVICE",
-            "name": "Koronavirusneuvonta",
-            "description": "Palvelu on tarkoitettu helsinkiläisille, jotka kokevat altistuneensa koronavirukselle tai jotka oireiden perusteella arvelevat saaneensa tartunnan. Koronavirusneuvontaan voi soittaa myös, jos omaisen altistuminen tai oireet huolettavat.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2735,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Koronavirusneuvonnan puhelinpalvelu",
-                    "prerequisites": "Palvelu on tarkoitettu helsinkiläisille, jotka kokevat altistuneensa koronavirukselle tai jotka oireiden perusteella arvelevat saaneensa tartunnan. Numeroon voi soittaa myös, jos omaisen altistuminen tai oireet huolettavat.",
-                    "information": "Kun koronavirusneuvonta on kiinni ja koronaan viittaavat oireet ovat lieviä, odota seuraavaan päivään. Jos asia ei voi odottaa koronaneuvonnan aukeamista tai kyse on muusta kiireellisestä sairaudesta, palvelee sinua Päivystysapu, p. 116 117. Hätätilanteessa soita hätänumeroon 112.",
-                    "availability_summary": "Avoinna joka päivä 08-18",
-                    "phone": "0931010024",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä 08-18"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4370,
-            "exact_descriptions": [
-                2890,
-                9025
-            ],
-            "service_id": 10771,
-            "type": "ADVICE",
-            "name": "Coronavirus helpline",
-            "description": "The service is intended for residents of Helsinki, who suspect that they have been exposed to the corona virus or whose symptoms indicate that they may have been infected with the virus. You can also call the service number if you are concerned about the exposure or symptoms of a loved one.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2735,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Coronavirus helpline, telephone advice service",
-                    "prerequisites": "The service is intended for residents of Helsinki, who suspect that they have been exposed to the corona virus or whose symptoms indicate that they may have been infected with the virus. You can also call the service number if you are concerned about the exposure or symptoms of a loved one.",
-                    "information": "If the Coronavirus Helpline is not available and your symptoms are mild, please wait until the next day and call again. If your symptoms are severe, call the national 24\/7 toll-free Medical Helpline at tel. 116 117. In an emergency, call 112.",
-                    "availability_summary": "Open every day 08-18",
-                    "phone": "0931010024",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open every day 08-18"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4370,
-            "exact_descriptions": [
-                2890,
-                9025
-            ],
-            "service_id": 10771,
-            "type": "ADVICE",
-            "name": "Coronavirusrådgivning",
-            "description": "Tjänsten är avsedd för helsingforsbor som upplever att de blivit exponerade eller som utifrån symtomen misstänker de fått smittan. Du kan ringa till numret också om du är orolig över en närståendes symtom eller att han eller hon blivit exponerad.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2735,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Coronavirusrådgivningens telefontjänst",
-                    "prerequisites": "Tjänsten är avsedd för helsingforsbor som upplever att de blivit exponerade eller som utifrån symtomen misstänker de fått smittan. Du kan ringa till numret också om du är orolig över en närståendes symtom eller att han eller hon blivit exponerad.",
-                    "information": "Om coronavirusrådgivningen är stängd och symtomen som tyder på coronasmitta är lindriga, vänta till nästa dag. Om ärendet inte kan vänta tills coronarådgivningen öppnar eller om det är fråga om någon annan akut sjukdom, betjänar Jourhjälpen på numret 116117. I akuta fall ring 112.",
-                    "availability_summary": "Öppet varje dag 08-18",
-                    "phone": "0931010024",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag 08-18"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5088,
         "fi": {
             "id": 5088,
@@ -19509,62 +19787,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5274,
-        "fi": {
-            "id": 5274,
-            "exact_descriptions": [
-                4906
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Kuluttaja, ilmoita ruokamyrkytysepäilystä",
-            "name_synonyms": "ruokamyrkytysilmoitus",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3727,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Ilmoita ruokamyrkytysepäilystä",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry ilppa-palveluun",
-                            "url": "https:\/\/ilppa.fi\/kuluttajan-ilmoitukset\/sairastumisilmoitus"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 2165,
@@ -24099,7 +24321,6 @@
         "fi": {
             "id": 4044,
             "exact_descriptions": [
-                4934
             ],
             "service_id": 10786,
             "type": "PERMISSION",
@@ -33242,74 +33463,6 @@
         ]
     },
     {
-        "id": 4043,
-        "fi": {
-            "id": 4043,
-            "exact_descriptions": [
-                4687
-            ],
-            "service_id": 10750,
-            "type": "APPLICATION",
-            "name": "Tee hakemus talousvettä toimittavan laitoksen perustamisesta",
-            "description": "Talousvettä toimittavan laitoksen, jolla on omaa veden tuotantoa tai käsittelyä, on haettava toimintansa hyväksymistä kunnan terveydensuojeluviranomaiselta viimeistään 3 kuukautta ennen suunniteltua toiminnan aloittamista. Talousvettä ei saa toimittaa ennen kuin toiminta on hyväksytty. \n\nToiminnan hyväksymistä on haettava myös, jos vedenottoa tai vedenkäsittelyä laajennetaan tai muutetaan olennaisesti tai jos veden laadussa tai jakelussa tapahtuu talousveden laadun kannalta olennaisia muutoksia. Muutosta koskeva hakemus on tehtävä viimeistään 30 vuorokautta ennen toiminnan muuttamista. Toimintaa ei saa muuttaa ennen kuin hakemus on hyväksytty.",
-            "process_description": "Hakemus tehdään alla olevalla lomakkeella ja lähetetään kaupunkiympäristön toimialan ympäristöterveysyksikköön",
-            "costs": "Hakemuksen käsittelystä peritään ympäristöterveydenhuollon taksan mukainen maksu.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2866,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hakemuslomake",
-                    "process_description": "Hakemus liitteineen toimitetaan osoitteeseen Helsingin kaupungin kirjaamo, Ympäristöpalvelut\/elintarviketurvallisuusyksikkö, PL 10, 00099 HELSINGIN KAUPUNKI tai sähköpostitse osoitteeseen helsinki.kirjaamo@hel.fi.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Hakemuslomake talousvettä toimittavan laitoksen perustamisesta",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Hakemuslomake talousvettä toimittavan laitoksen perustamisesta",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5347,
         "fi": {
             "id": 5347,
@@ -33524,6 +33677,86 @@
                 }
             ]
         }
+    },
+    {
+        "id": 4055,
+        "fi": {
+            "id": 4055,
+            "exact_descriptions": [
+                4691
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus alkutuotannosta",
+            "description": "Täytä ilmoituslomake PDF-tiedostona ja lähetä se sähköpostitse osoitteeseen kymp.elintarviketurvallisuus@hel.fi.\n\nLähetä ilmoitus alkutuotantopaikasta tai ilmoitus tuotteiden kuljetuksesta tai niissä tapahtuvasta olennaisesta muuttamisesta elintarvikevalvontaan. On suositeltavaa, että teet ilmoituksen viimeistään neljä viikkoa ennen toiminnan aloittamista tai olennaista muuttamista. Ilmoituksen käsittely ja ensimmäinen tarkastus ovat maksuttomia. Voit myös tulostaa ilmoituksen ja lähettää sen postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2447,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee ilmoitus alkutuotannosta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus alkutuotannosta (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_ilmoitus_alkutuotantopaikasta.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3851,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Tee ilmoitus alkutuotannosta",
+                    "personal_service_street_addr": "Helsingin ympäristöpalvelut",
+                    "personal_service_postal_code": "PL 58235, 00099",
+                    "personal_service_city": "Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5130,
@@ -33769,6 +34002,95 @@
         }
     },
     {
+        "id": 5356,
+        "fi": {
+            "id": 5356,
+            "exact_descriptions": [
+                9627
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus eläinperäisten elintarvikkeiden sisämarkkinatuonnin aloittamisesta tai muutoksista",
+            "name_synonyms": "elintarvike, elintarvikkeet, vienti, tuonti",
+            "description": "Sisämarkkinatuonti tarkoittaa tuontia muista EU-maista. Eläinperäisten elintarvikkeiden sisämarkkinatuontia koskevat aloitus-, muutos- ja lopetusilmoitukset toimitat Helsingin kaupungin elintarviketurvallisuusyksikköön Ilppa-asiointipalvelun kautta tai erillisellä lomakkeella.\n\nTuontitoiminnan aloituksen yhteydessä sinun pitää lisäksi tehdä ilmoitus elintarvikehuoneiston toiminnan aloittamisesta tai olennaisesta muuttamisesta.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3847,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ilmoitus sähköisessä palvelussa",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ilppa.fi-palveluun",
+                            "url": "https:\/\/ilppa.fi\/etusivu",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3848,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee ilmoitus eläinperäisten elintarvikkeiden sisämarkkinatuonnin aloittamisesta tai muutoksista",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoituslomake (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/el_per_elintarv_sisamarkkinatuonti-ilm.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoituslomake (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/el_per_elintarv_sisamarkkinatuonti-ilm.doc",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5324,
         "fi": {
             "id": 5324,
@@ -33867,6 +34189,64 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5274,
+        "fi": {
+            "id": 5274,
+            "exact_descriptions": [
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus ruokamyrkytysepäilystä",
+            "name_synonyms": "ruokamyrkytysilmoitus",
+            "description": "Tee ilmoitus Ympäristöterveydenhuollon sähköisessa Ilppa-asiointipalvelussa, josta se ohjautuu ainoastaan elintarvikehuoneiston valvojalle. Valvoja pyytää tarvittaessa sinulta lisätietoja ja antaa toimintaohjeita.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3727,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita ruokamyrkytysepäilystä",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ilppa.fi-palveluun",
+                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -35144,6 +35524,104 @@
         }
     },
     {
+        "id": 4043,
+        "fi": {
+            "id": 4043,
+            "exact_descriptions": [
+                4687
+            ],
+            "service_id": 10750,
+            "type": "APPLICATION",
+            "name": "Tee vedenjakelua koskeva hakemus tai ilmoitus",
+            "name_synonyms": "juomavesi, talousvesi",
+            "description": "Vedenjakelua tai vesiosuuskuntaa koskevat ilmoitukset ja hakemukset toimitat Helsingin talousvesivalvontaan Ilppa-asiointipalvelun kautta tai erillisellä lomakkeella. Ilmoituksen tai hakemuksen käsittelystä peritään hinnaston mukainen maksu.",
+            "information": "Jos et voi täyttää hakemusta Ilppa-palvelussa, täytä PDF tai Word-lomake ja lähetä se talousvesivalvontaan sähköpostitse osoitteeseen kymp.talousvesivalvonta@hel.fi. Voit myös tulostaa lomakkeen ja lähettää sen postitse osoitteeseen Helsingin kaupungin kirjaamo \/ ympäristöpalvelut \/ elintarviketurvallisuusyksikkö, PL 10, 00099 Helsingin kaupunki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristöterveydenhuollon hinnasto",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2866,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee vedenjakelua koskeva hakemus tai ilmoitus",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Vesihuoltolaitoshakemus (Word)",
+                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
+                            "file_format": "WORD"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Vesihuoltolaitoshakemus (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3849,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ilmoitus sähköisessä palvelussa",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ilppa.fi-palveluun",
+                            "url": "https:\/\/ilppa.fi\/etusivu",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5096,
         "fi": {
             "id": 5096,
@@ -35857,8 +36335,85 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5307,
+            "exact_descriptions": [
+                3314
+            ],
+            "service_id": 10294,
+            "type": "ORDERING",
+            "name": "Beställ köpvittne",
+            "description": "Beställ köpvittne och fråga frågor gällande köpbekräftelse genom att skicka e-post eller genom att direkt kontakta köpvittnet.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3783,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Sök köpvittnens kontaktuppgifter",
+                    "availability_summary": "Öppet mån-fre 08:15-16:15",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till köpvittnens kontaktuppgifter",
+                            "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/tomter-och-bygglov\/kontaktuppgifter-betraffande-tomt-och-tillstandsfragor#stadsmatningstjanster"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 08:15-16:15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3784,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Beställ köpvittne per e-post",
+                    "email": "kiinteistorekisteri@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5300,
@@ -35870,7 +36425,7 @@
             "service_id": 10352,
             "type": "ORDERING",
             "name": "Tilaa koelaskenta",
-            "description": "Tilaa koelaskenta kiinteistömuodostusyksikön asiantuntijoilta puhelimitse tai sähköpostilla.\n\nKoelaskennan tekemisessä kestää noin kolme arkipäivää. \n\nPalvelu on maksullinen.",
+            "description": "Tilaa koelaskenta kiinteistömuodostusyksikön asiantuntijoilta puhelimitse tai sähköpostilla.\n\nKoelaskennan tekemisessä kestää noin kolme arkipäivää.\n\nPalvelu on maksullinen.\n\nTilaa koelaskenta\n\nTimo Tutti puh. 09 3103 1874\n\nEero Jalkanen puh. 09 3103 6791 \n\nLauri Raunu puh. 09 3103 1882\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -36358,89 +36913,6 @@
         }
     },
     {
-        "id": 5309,
-        "fi": {
-            "id": 5309,
-            "exact_descriptions": [
-                3325
-            ],
-            "service_id": 10639,
-            "type": "ORDERING",
-            "name": "Tilaa rajan- tai korkeudennäyttö",
-            "description": "Tilaa rajan- tai korkeudennäyttö sähköpostilla kaupunkimittauspalvelun asiakaspalvelusta. Voit kysyä lisätietoa puhelimitse kaupunkiympäristön asiakaspalvelusta. \n\nKaupunkimittaus suorittaa rajan- ja korkeudennäytön noin 1-2 viikon kuluessa tilauksen tekemisestä ja ne ovat maksullisia palveluita.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3785,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Tilaa rajan- tai korkeudennäyttö sähköpostilla",
-                    "email": "kymp.kami.asiakaspalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3786,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Kaupunkiympäristön asiakaspalvelu",
-                    "availability_summary": "Avoinna ma-to 08:15-16, pe 12-15",
-                    "phone": "+358 (0)9 310 22111",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-to 08:15-16"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5354,
         "fi": {
             "id": 5354,
@@ -36910,61 +37382,6 @@
         }
     },
     {
-        "id": 5276,
-        "fi": {
-            "id": 5276,
-            "exact_descriptions": [
-                4906
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Toiminnanharjoittaja, ilmoita ruokamyrkytysepäilystä",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3728,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tee ilmoitus ruokamyrkytysepäilystä",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry ilppa-palveluun",
-                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset\/sairastumisilmoitus"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5222,
         "fi": {
             "id": 5222,
@@ -37255,74 +37672,6 @@
                         {
                             "availability_string": "Avoinna ma, ke, pe 09-11"
                         }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 4508,
-        "fi": {
-            "id": 4508,
-            "exact_descriptions": [
-                4934
-            ],
-            "service_id": 10786,
-            "type": "PERMISSION",
-            "name": "Tupakkatuotteiden ja nikotiininesteiden vähittäismyyntilupa sekä tukkumyynti-ilmoitus",
-            "name_synonyms": "tupakka, tupakkatuotteet, nikotiininesteet, myyntilupa, tukkumyynti",
-            "description": "Tupakkatuotteiden ja nikotiininesteiden vähittäismyynti edellyttää luvan hakemista myyntipaikan sijaintikunnalta. Vähittäismyyntilupa on myyntipaikkakohtainen. \n\nTupakkatuotteiden ja nikotiininesteiden tukkumyynnistä tulee tehdä ilmoitus myyntipaikan sijaintikunnalle. \n",
-            "process_description": "Tupakkatuotteiden vähittäismyyntilupaa haetaan sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) hakemuslomakkeella tai Valviran sähköisessä asiointipalvelussa.",
-            "processing_time": "Käsittelemme hakemuksesi sen kiireellisyyden huomioiden ennen toiminnan aloittamista.​",
-            "costs": "Tupakkatuotteiden ja nikotiininesteiden vähittäismyyntilupahakemuksen käsittelystä sekä kohteiden vuotuisesta valvonnasta peritään ympäristöterveydenhuollon taksan mukainen maksu. \n\nTukkumyynti-ilmoituksen käsittelystä sekä kohteiden vuotuisesta valvonnasta peritään ympäristöterveydenhuollon taksan mukainen maksu.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ohjeita ja lomakkeet Valviran sivuilla",
-                    "url": "https:\/\/www.valvira.fi\/tupakka\/myynti\/vahittaismyynti\/myyntilupahakemus"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2865,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hakemuslomake tupakkatuotteiden ja nikotiininesteiden vähittäismyyntiin \/ Ilmoituslomake tukkumyynnistä",
-                    "information": "Tulostettava hakemus- ja ilmoituslomake lähetetään osoitteeseen Helsingin kaupunki, Ympäristöpalvelut, PL 58235, 00099 HELSINGIN KAUPUNKI tai sähköpostitse osoitteeseen kymp.tupakkalupa@hel.fi.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Hakemuslomake tupakkatuotteiden ja nikotiininesteiden vähittäismyyntiin \/ Ilmoituslomake tukkumyynnistä",
-                            "url": "https:\/\/www.valvira.fi\/tupakka\/myynti\/vahittaismyynti\/myyntilupahakemus"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
