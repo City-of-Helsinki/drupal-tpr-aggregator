@@ -3654,88 +3654,6 @@
         ]
     },
     {
-        "id": 5098,
-        "fi": {
-            "id": 5098,
-            "exact_descriptions": [
-                9000
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Etuuskäsittelyn neuvonta",
-            "description": "Toimeentulotuen neuvonnasta voit kysyä puhelimitse kaupungin myöntämän täydentävän ja ehkäisevän toimeentulotuen hakemisesta.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3481,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Toimeentulotuen puhelinneuvonta, suomenkieliset asiakkaat",
-                    "availability_summary": "Avoinna ma-pe 09-12",
-                    "phone": "+ 358 9 310 56257",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-12"
-                        }
-                    ]
-                },
-                {
-                    "id": 3482,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Toimeentulotuen puhelinneuvonta, ruotsinkieliset asiakkaat",
-                    "availability_summary": "Avoinna ma-pe 09-12",
-                    "phone": "+358 9 310 44967",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-12"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5034,
         "fi": {
             "id": 5034,
@@ -18708,7 +18626,10 @@
         "fi": {
             "id": 5099,
             "exact_descriptions": [
-                9001
+                9001,
+                9602,
+                9603,
+                9604
             ],
             "service_id": 10087,
             "type": "ADVICE",
