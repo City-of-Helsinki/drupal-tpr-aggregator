@@ -337,6 +337,88 @@
         }
     },
     {
+        "id": 5368,
+        "fi": {
+            "id": 5368,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "OTHER_ESERVICE",
+            "name": "Allekirjoita pitkäaikainen vuokrasopimus",
+            "description": "Kun päätös tontin pitkäaikaisesta vuokrauksesta on tehty, lähetä meille tietolomake täytettynä. Viimeistelemme vuokrasopimuksen tietojen pohjalta ja olemme sinuun yhteydessä allekirjoittamisen ajankohdasta.\n\nLähetä tietolomake sähköpostitse osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi . Lomakkeen voi toimittaa myös suojatulla sähköpostilla securemail.hel.fi kautta osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi.",
+            "information": "Tarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki\nMAKE\/Sopimukset ja valvonta\nPL 58213\n00099 Helsingin kaupunki",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3884,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Täytä tietolomake vuokrasopimusta varten",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Tietolomake vuokrasopimuksen allekirjoittamista varten (docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/tietolomake_maanvuokrasopimuksen_allekirjoitukseen.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3885,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Pitkäaikaisen vuokrasopimuksen allekirjoittaminen",
+                    "process_description": "Sopimuksen allekirjoituksen edellytyksenä on, että kaupungin vuokrauspäätös on lainvoimainen ja että viimeistään allekirjoitustilaisuudessa:\n\n- Sopimuskumppani tarkastaa ja ilmoittaa hyväksyvänsä kaupungin päätöksen liitteenä olleen sopimusluonnoksen ja siihen mahdollisesti täytäntöönpanovaiheessa tehdyt tarkistukset sekä toimittaa tiedon allekirjoittajasta ja selvityksen nimenkirjoitusoikeudesta. \n- Sopimuskumppani toimittaa toimivaltaisen elimen päätöksen sopimuksen hyväksymisestä ja vakuuden luovuttamisesta sekä panttauksesta. \n- Sopimuskumppani toimittaa kaupungille myös muut mahdolliset asiakirjat\/tiedot, jotka kaupungin päätöksessä on nimetty sopimuksen allekirjoituksen edellytyksiksi. \n\nMikäli Maanmittauslaitos vaatii vuokraoikeuden kirjaamishakemuksen liitteeksi muita asiakirjoja, tulee nämä myös myöhemmin kaupungille toimittaa.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maanmittauslaitoksen Kiinteistövaihdannan palveluun",
+                            "url": "https:\/\/www.kiinteistoasiat.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4861,
         "fi": {
             "id": 4861,
@@ -8492,6 +8574,222 @@
         }
     },
     {
+        "id": 5364,
+        "fi": {
+            "id": 5364,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Hae tontin lyhytaikaista vuokrausta",
+            "description": "Hae tontin lyhytaikaista vuokrausta ennen rakennusluvan hakemista. Vuokrauspäätöksen käsittelyaika on noin neljä viikkoa.\n\nLiitä hakemukseen tontin varauspäätöksessä mahdollisesti edellytetyt selvitykset ja asiakirjat.\n\nHuomioithan, että Kalasataman ja Mellunkylän asuinkerrostalotonteille haetaan lyhytaikauksen vuokrauksen sijaan valtakirjaa.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3875,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus asuntotontin lyhytaikaisesta vuokrauksesta sähköpostitse",
+                    "email": "tonttihakemukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3876,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae asuntotontin lyhytaikaista vuokrausta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus asuntotontin lyhytaikaisesta vuokrauksesta (pdf, 2,6 Mt)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus asuntotontin lyhytaikaisesta vuokrauksesta (docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3878,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus toimitilatontin lyhytaikaisesta vuokrauksesta sähköpostilla",
+                    "email": "yritystonttitiedustelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3879,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae toimitilatontin lyhytaikaista vuokrausta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus toimitilatontin lyhytaikaisesta vuokrauksesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Hakemuslomake_yritystontin_vuokraus_rakennuslupaa_varten.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5367,
+        "fi": {
+            "id": 5367,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Hae tontin pitkäaikaista vuokrausta",
+            "description": "Tontin pitkäaikainen vuokrasopimus tulee olla allekirjoitettu ennen rakentamisen aloittamista tai muutoin erikseen esimerkiksi tontinvarauspäätöksessä mainittuna ajankohtana. Vuokrauspäätöksen käsittelyaika on 4-6 viikkoa. \n\nLiitä hakemukseen vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.",
+            "information": "Liitä hakemukseen seuraavat selvitykset ja asiakirjat:\n\n- Pääsuunnittelijan vahvistama selvitys rakennusoikeuden käytöstä, joka sisältää selvityksen hankkeen huoneistojakaumasta, asuntojen keskipinta-alasta sekä perheasuntojen eli vähintään 2 makuuhuonetta käsittävien asuntojen määrästä ja näiden asuntojen keskipinta-alasta.\n- Hankkeen energiatodistus.\n- Vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.\n- Tontin varauspäätöksessä ja\/tai lyhytaikaisen vuokrauksen päätöksessä mahdollisesti edellytetyt selvitykset tai asiakirjat, kuten Kehittyvä kerrostalo -hankkeessa.\n\nKaikki yhtiömuotoiset hankkeet toimittavat edellä esitetyn lisäksi vuokralaiseksi tai ostajaksi tulevan yhtiön kaupparekisteriotteen.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3882,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus pitkäaikaisesta vuokrauksesta sähköpostitse",
+                    "email": " tonttihakemukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3883,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae tontin pitkäaikaista vuokrausta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus asuntotontin pitkäaikaisesta vuokrauksesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_pitkaaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus toimitilatontin pitkäaikaisesta vuokrauksesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_pitkaaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus omakotitalotontin pitkäaikaisesta vuokrauksesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_pitkaaikainen_vuokraus_omakotitalotontti.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5299,
         "fi": {
             "id": 5299,
@@ -9106,6 +9404,82 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5366,
+        "fi": {
+            "id": 5366,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Hae valtakirjaa rakennuslupaa varten sekä pitkäaikaista vuokrasopimusta",
+            "description": "Kalasataman ja Mellunkylän asuinkerrostalotonttien osalta kokeillaan niin sanottua valtakirjamenettelyä, joka korvaa lyhytaikaisen vuokrasopimuksen laatimisen. Kokeilu koskee 1.2.2022 jälkeen tehtyjä hakemuksia.\n\nTontin varaaja hakee samanaikaisesti valtakirjaa rakennusluvan hakemista varten sekä pitkäaikaista vuokrasopimusta. Valtakirjalla Helsingin kaupunki tontin omistajana ja haltijana oikeuttaa varaajan hakemaan tontille rakennuslupaa. Tontin varaaja voi aloittaa maanrakennustyöt tontilla vasta kun pitkäaikaisesta vuokrauksesta on tehty päätös. \n\nValtakirjojen käsittelyaika on noin 2 viikkoa. Tontin valtakirja on voimassa yhden vuoden. \n\nLöydät tarkemmat ohjeet hakemuksesta.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3880,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä hakemus sähköpostitse",
+                    "email": " tonttihakemukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3881,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae valtakirjaa rakennuslupaa varten sekä pitkäaikaista vuokrasopimusta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hakemus valtakirjan ja pitkäaikaisen vuokrasopimuksen hakemista varten (docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.docx",
+                            "file_format": "WORD"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -13119,6 +13493,83 @@
                         {
                             "availability_string": "Avoinna ma-pe 09-16"
                         }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5369,
+        "fi": {
+            "id": 5369,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Ilmoita vuokraoikeuden siirrosta",
+            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3887,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae siirron kirjaamista Maanmittauslaitokselta",
+                    "prerequisites": "Luovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maanmittauslaitoksen sivulle",
+                            "url": "https:\/\/www.maanmittauslaitos.fi\/kiinteistot\/kiinteiston-omistajalle\/rekisteroi-vuokraoikeus\/vuokraoikeuden-siirto"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3888,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä asiakirjajäljennökset ja ilmoita osoitteenmuutoksesta",
+                    "prerequisites": "Uuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta. Samalla tulee ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite.",
+                    "email": "maanvuokralaskutus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -32516,6 +32967,7 @@
         "fi": {
             "id": 5344,
             "exact_descriptions": [
+                9617
             ],
             "service_id": 10406,
             "type": "APPOINTMENT",
@@ -40601,6 +41053,65 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 08:15-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5365,
+        "fi": {
+            "id": 5365,
+            "exact_descriptions": [
+                2917
+            ],
+            "service_id": 10714,
+            "type": "APPOINTMENT",
+            "name": "Vammaistyö, kuntouttava työtoiminta",
+            "description": "Vammaisten henkilöiden työtoiminnassa ja työllistymistä tukevassa toiminnassa teet voimiesi ja kykyjesi mukaista työtä.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3877,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Uusien asiakkaiden ajanvarausnumero",
+                    "prerequisites": "Ajanvaraus on tarkoitettu uusille asiakkaille.",
+                    "availability_summary": "Avoinna ti, pe 09-11",
+                    "phone": "09 310 73392 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ti, pe 09-11"
                         }
                     ]
                 }
