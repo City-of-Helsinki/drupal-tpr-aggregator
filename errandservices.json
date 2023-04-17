@@ -346,8 +346,8 @@
             "service_id": 10101,
             "type": "OTHER_ESERVICE",
             "name": "Allekirjoita pitkäaikainen vuokrasopimus",
-            "description": "Kun päätös tontin pitkäaikaisesta vuokrauksesta on tehty, lähetä meille tietolomake täytettynä. Viimeistelemme vuokrasopimuksen tietojen pohjalta ja olemme sinuun yhteydessä allekirjoittamisen ajankohdasta.\n\nLähetä tietolomake sähköpostitse osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi . Lomakkeen voi toimittaa myös suojatulla sähköpostilla securemail.hel.fi kautta osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi.",
-            "information": "Tarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki\nMAKE\/Sopimukset ja valvonta\nPL 58213\n00099 Helsingin kaupunki",
+            "description": "Kun päätös tontin pitkäaikaisesta vuokrauksesta on tehty, lähetä meille tietolomake täytettynä. Viimeistelemme vuokrasopimuksen tietojen pohjalta ja olemme sinuun yhteydessä allekirjoittamisen ajankohdasta.\n\nLähetä tietolomake sähköpostitse osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi . Lomakkeen voi toimittaa myös suojatulla sähköpostilla securemail.hel.fi kautta osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi. \n\nVuokrasopimus allekirjoitetaan sähköisesti Maanmittauslaitoksen Kiinteistövaihdannan palvelussa tai toimipisteessämme osoitteessa Työpajankatu 8. Huomioithan, että toimitilatonttien pitkäaikaisia vuokrasopimuksia ei kuitenkaan voi allekirjoittaa Maanmittauslaitoksen järjestelmässä.\n\nTarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki\nMAKE\/Sopimukset ja valvonta\nPL 58213\n00099 Helsingin kaupunki",
+            "information": "Sopimuksen allekirjoituksen edellytyksenä on, että kaupungin vuokrauspäätös on lainvoimainen ja että viimeistään allekirjoitustilaisuudessa:\n\n- Sopimuskumppani tarkastaa ja ilmoittaa hyväksyvänsä kaupungin päätöksen liitteenä olleen sopimusluonnoksen ja siihen mahdollisesti täytäntöönpanovaiheessa tehdyt tarkistukset sekä toimittaa tiedon allekirjoittajasta ja selvityksen nimenkirjoitusoikeudesta. \n- Sopimuskumppani toimittaa toimivaltaisen elimen päätöksen sopimuksen hyväksymisestä ja vakuuden luovuttamisesta sekä panttauksesta. \n- Sopimuskumppani toimittaa kaupungille myös muut mahdolliset asiakirjat\/tiedot, jotka kaupungin päätöksessä on nimetty sopimuksen allekirjoituksen edellytyksiksi. \n\nMikäli Maanmittauslaitos vaatii vuokraoikeuden kirjaamishakemuksen liitteeksi muita asiakirjoja, tulee nämä myös myöhemmin kaupungille toimittaa.",
             "provided_languages": [
                 "fi"
             ],
@@ -387,12 +387,12 @@
                     ]
                 },
                 {
-                    "id": 3885,
+                    "id": 3889,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Pitkäaikaisen vuokrasopimuksen allekirjoittaminen",
-                    "process_description": "Sopimuksen allekirjoituksen edellytyksenä on, että kaupungin vuokrauspäätös on lainvoimainen ja että viimeistään allekirjoitustilaisuudessa:\n\n- Sopimuskumppani tarkastaa ja ilmoittaa hyväksyvänsä kaupungin päätöksen liitteenä olleen sopimusluonnoksen ja siihen mahdollisesti täytäntöönpanovaiheessa tehdyt tarkistukset sekä toimittaa tiedon allekirjoittajasta ja selvityksen nimenkirjoitusoikeudesta. \n- Sopimuskumppani toimittaa toimivaltaisen elimen päätöksen sopimuksen hyväksymisestä ja vakuuden luovuttamisesta sekä panttauksesta. \n- Sopimuskumppani toimittaa kaupungille myös muut mahdolliset asiakirjat\/tiedot, jotka kaupungin päätöksessä on nimetty sopimuksen allekirjoituksen edellytyksiksi. \n\nMikäli Maanmittauslaitos vaatii vuokraoikeuden kirjaamishakemuksen liitteeksi muita asiakirjoja, tulee nämä myös myöhemmin kaupungille toimittaa.",
                     "provided_languages": [
+                        "fi"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -8583,7 +8583,7 @@
             "service_id": 10101,
             "type": "APPLICATION",
             "name": "Hae tontin lyhytaikaista vuokrausta",
-            "description": "Hae tontin lyhytaikaista vuokrausta ennen rakennusluvan hakemista. Vuokrauspäätöksen käsittelyaika on noin neljä viikkoa.\n\nLiitä hakemukseen tontin varauspäätöksessä mahdollisesti edellytetyt selvitykset ja asiakirjat.\n\nHuomioithan, että Kalasataman ja Mellunkylän asuinkerrostalotonteille haetaan lyhytaikauksen vuokrauksen sijaan valtakirjaa.",
+            "description": "Hae tontin lyhytaikaista vuokrausta ennen rakennusluvan hakemista. Vuokrauspäätöksen käsittelyaika on noin neljä viikkoa.\n\nLiitä hakemukseen tontin varauspäätöksessä mahdollisesti edellytetyt selvitykset ja asiakirjat.\n\nHuomioithan, että Kalasataman ja Mellunkylän asuinkerrostalotonteille haetaan lyhytaikauksen vuokrauksen sijaan valtakirjaa. \n\nLähetä hakemus asuntotontin lyhytaikaisesta vuokrauksesta sähköpostitse osoitteeseen tonttihakemukset@hel.fi.\n\nLähetä hakemus toimitilatontin lyhytaikaisesta vuokrauksesta sähköpostilla osoitteeseen yritystonttitiedustelut@hel.fi.\n",
             "provided_languages": [
                 "fi"
             ],
@@ -8597,26 +8597,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3875,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä hakemus asuntotontin lyhytaikaisesta vuokrauksesta sähköpostitse",
-                    "email": "tonttihakemukset@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3876,
                     "type": "PRINTABLE_FORM",
@@ -8644,26 +8624,6 @@
                             "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx",
                             "file_format": "WORD"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3878,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä hakemus toimitilatontin lyhytaikaisesta vuokrauksesta sähköpostilla",
-                    "email": "yritystonttitiedustelut@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -8710,7 +8670,7 @@
             "service_id": 10101,
             "type": "APPLICATION",
             "name": "Hae tontin pitkäaikaista vuokrausta",
-            "description": "Tontin pitkäaikainen vuokrasopimus tulee olla allekirjoitettu ennen rakentamisen aloittamista tai muutoin erikseen esimerkiksi tontinvarauspäätöksessä mainittuna ajankohtana. Vuokrauspäätöksen käsittelyaika on 4-6 viikkoa. \n\nLiitä hakemukseen vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.",
+            "description": "Tontin pitkäaikainen vuokrasopimus tulee olla allekirjoitettu ennen rakentamisen aloittamista tai muutoin erikseen esimerkiksi tontinvarauspäätöksessä mainittuna ajankohtana. Vuokrauspäätöksen käsittelyaika on 4-6 viikkoa. \n\nLiitä hakemukseen vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.\n\nLähetä hakemus sähköpostitse osoitteeseen tonttihakemukset@hel.fi.",
             "information": "Liitä hakemukseen seuraavat selvitykset ja asiakirjat:\n\n- Pääsuunnittelijan vahvistama selvitys rakennusoikeuden käytöstä, joka sisältää selvityksen hankkeen huoneistojakaumasta, asuntojen keskipinta-alasta sekä perheasuntojen eli vähintään 2 makuuhuonetta käsittävien asuntojen määrästä ja näiden asuntojen keskipinta-alasta.\n- Hankkeen energiatodistus.\n- Vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.\n- Tontin varauspäätöksessä ja\/tai lyhytaikaisen vuokrauksen päätöksessä mahdollisesti edellytetyt selvitykset tai asiakirjat, kuten Kehittyvä kerrostalo -hankkeessa.\n\nKaikki yhtiömuotoiset hankkeet toimittavat edellä esitetyn lisäksi vuokralaiseksi tai ostajaksi tulevan yhtiön kaupparekisteriotteen.",
             "provided_languages": [
                 "fi"
@@ -8725,26 +8685,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3882,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä hakemus pitkäaikaisesta vuokrauksesta sähköpostitse",
-                    "email": " tonttihakemukset@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3883,
                     "type": "PRINTABLE_FORM",
@@ -9425,7 +9365,7 @@
             "service_id": 10101,
             "type": "APPLICATION",
             "name": "Hae valtakirjaa rakennuslupaa varten sekä pitkäaikaista vuokrasopimusta",
-            "description": "Kalasataman ja Mellunkylän asuinkerrostalotonttien osalta kokeillaan niin sanottua valtakirjamenettelyä, joka korvaa lyhytaikaisen vuokrasopimuksen laatimisen. Kokeilu koskee 1.2.2022 jälkeen tehtyjä hakemuksia.\n\nTontin varaaja hakee samanaikaisesti valtakirjaa rakennusluvan hakemista varten sekä pitkäaikaista vuokrasopimusta. Valtakirjalla Helsingin kaupunki tontin omistajana ja haltijana oikeuttaa varaajan hakemaan tontille rakennuslupaa. Tontin varaaja voi aloittaa maanrakennustyöt tontilla vasta kun pitkäaikaisesta vuokrauksesta on tehty päätös. \n\nValtakirjojen käsittelyaika on noin 2 viikkoa. Tontin valtakirja on voimassa yhden vuoden. \n\nLöydät tarkemmat ohjeet hakemuksesta.",
+            "description": "Kalasataman ja Mellunkylän asuinkerrostalotonttien osalta kokeillaan niin sanottua valtakirjamenettelyä, joka korvaa lyhytaikaisen vuokrasopimuksen laatimisen. Kokeilu koskee 1.2.2022 jälkeen tehtyjä hakemuksia.\n\nTontin varaaja hakee samanaikaisesti valtakirjaa rakennusluvan hakemista varten sekä pitkäaikaista vuokrasopimusta. Valtakirjalla Helsingin kaupunki tontin omistajana ja haltijana oikeuttaa varaajan hakemaan tontille rakennuslupaa. Tontin varaaja voi aloittaa maanrakennustyöt tontilla vasta kun pitkäaikaisesta vuokrauksesta on tehty päätös. \n\nValtakirjojen käsittelyaika on noin 2 viikkoa. Tontin valtakirja on voimassa yhden vuoden. \n\nLöydät tarkemmat ohjeet hakemuksesta.\n\nLähetä hakemus sähköpostitse osoitteeseen tonttihakemukset@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -9439,26 +9379,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3880,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä hakemus sähköpostitse",
-                    "email": " tonttihakemukset@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3881,
                     "type": "PRINTABLE_FORM",
@@ -13512,7 +13432,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Ilmoita vuokraoikeuden siirrosta",
-            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi",
+            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi \n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta. \n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta. Samalla tulee ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite.",
             "provided_languages": [
                 "fi"
             ],
@@ -13547,27 +13467,6 @@
                             "title": "Siirry Maanmittauslaitoksen sivulle",
                             "url": "https:\/\/www.maanmittauslaitos.fi\/kiinteistot\/kiinteiston-omistajalle\/rekisteroi-vuokraoikeus\/vuokraoikeuden-siirto"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3888,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä asiakirjajäljennökset ja ilmoita osoitteenmuutoksesta",
-                    "prerequisites": "Uuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta. Samalla tulee ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite.",
-                    "email": "maanvuokralaskutus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
