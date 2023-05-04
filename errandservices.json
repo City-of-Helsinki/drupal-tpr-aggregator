@@ -14046,7 +14046,8 @@
             "service_id": 10891,
             "type": "NOTICE",
             "name": "Ilmoita ympäristöhaitasta",
-            "description": "Tee ilmoitus ympäristöhaitasta palautelomakkeella.",
+            "description": "Ilmoita ympäristöhaitasta palautelomakkeella.",
+            "information": "Otathan huomioon, että ilmoitukset ovat pääsääntöisesti julkisia asiakirjoja ja ilmoittajan tiedot tallennetaan ympäristöpalveluiden tietokantaan.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -14061,6 +14062,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristövalvonnan rekisteri (pdf)",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Rekisteriselosteet\/Kymp\/Ymp%C3%A4rist%C3%B6valvonnan rekisteri.pdf",
+                    "file_format": "PDF"
+                }
             ],
             "channels": [
                 {
