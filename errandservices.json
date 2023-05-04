@@ -14046,6 +14046,7 @@
             "service_id": 10891,
             "type": "NOTICE",
             "name": "Ilmoita ympäristöhaitasta",
+            "description": "Tee ilmoitus ympäristöhaitasta palautelomakkeella.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -14068,7 +14069,9 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Tee ilmoitus",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -14081,8 +14084,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry palautelomakkeeseen",
-                            "url": "https:\/\/palautteet.hel.fi\/palaute-lomake",
-                            "file_format": "HTML"
+                            "url": "https:\/\/palautteet.hel.fi\/palaute-lomake"
                         }
                     ],
                     "availabilities": [
