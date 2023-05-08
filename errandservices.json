@@ -9439,7 +9439,8 @@
                     "id": 3826,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Sähköpostiosoite",
+                    "name": "Hae ulkomainospaikkaa",
+                    "email": "alueidenkaytto@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -9456,8 +9457,55 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5345,
+            "exact_descriptions": [
+                5017
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Apply for an outdoor advertising location",
+            "name_synonyms": "outdoor advertising, advert",
+            "description": "Apply for an outdoor advertising location by making a proposal on the spot and sending it via email to the land use inspectors of the Urban Environment Division.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3826,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Apply for an outdoor advertising",
+                    "email": "alueidenkaytto@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5345,
             "exact_descriptions": [
@@ -9489,6 +9537,8 @@
                     "id": 3826,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "Ansök om plats för utomhusreklam",
+                    "email": "alueidenkaytto@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -9591,7 +9641,7 @@
                     "id": 3827,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tulostettava lomake",
+                    "name": "Hakulomake",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -9614,10 +9664,104 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5346,
+            "exact_descriptions": [
+                5001
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Apply for a right to use a public area for an election event",
+            "description": "Fill in the application form and send it via email to the land use inspector of the Urban Environment Division at ulkoilma@hel.fi.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3827,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Application form",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Land use application form (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5346,
+            "exact_descriptions": [
+                5001
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Ansök om rätt att använda allmänt område för en valtillställning",
+            "description": "Fyll i ansökningsblanketten och skicka den per e-post till inspektören på stadsmiljösektorns enhet för användning av områden till adressen ulkoilma@hel.fi.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3827,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansökningsblankett",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan om områdesanvändning (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4816,
@@ -14092,7 +14236,7 @@
             "type": "NOTICE",
             "name": "Ilmoita ympäristöhaitasta",
             "description": "Ilmoita ympäristöhaitasta palautelomakkeella.",
-            "information": "Otathan huomioon, että ilmoitukset ovat pääsääntöisesti julkisia asiakirjoja ja ilmoittajan tiedot tallennetaan ympäristöpalveluiden tietokantaan.",
+            "information": "Otathan huomioon, että ilmoitukset ovat pääsääntöisesti julkisia asiakirjoja ja ilmoittajan tiedot tallennetaan ympäristöpalveluiden tietokantaan, jos ilmoitus käsitellään ympäristöpalveluissa.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -14107,6 +14251,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristönsuojeluviranomaisen taksa (pdf)",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistonsuojeluviranomaisen-taksa.pdf",
+                    "file_format": "PDF"
+                },
                 {
                     "type": "INTERNET",
                     "title": "Ympäristövalvonnan rekisteri (pdf)",
@@ -43759,6 +43909,7 @@
             "service_id": 10814,
             "type": "ADVICE",
             "name": "Yhteydenottokanavat",
+            "name_synonyms": "vammaisasiamies",
             "description": "Saat yhteyden asiantuntijaan sähköpostitse tai puhelimitse.",
             "provided_languages": [
                 "fi",
