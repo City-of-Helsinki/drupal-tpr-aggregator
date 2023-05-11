@@ -508,7 +508,9 @@
             "description": "Kun päätös tontin pitkäaikaisesta vuokrauksesta on tehty, lähetä meille tietolomake täytettynä. Viimeistelemme vuokrasopimuksen tietojen pohjalta ja olemme sinuun yhteydessä allekirjoittamisen ajankohdasta.\n\nLähetä tietolomake sähköpostitse osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi . Lomakkeen voi toimittaa myös suojatulla sähköpostilla securemail.hel.fi kautta osoitteeseen maaomaisuus.kiinteistosihteerit@hel.fi. \n\nTarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki\nMAKE\/Sopimukset ja valvonta\nPL 58213\n00099 Helsingin kaupunki\n\nVuokrasopimus allekirjoitetaan sähköisesti Maanmittauslaitoksen Kiinteistövaihdannan palvelussa tai toimipisteessämme osoitteessa Työpajankatu 8. Huomioithan, että toimitilatonttien pitkäaikaisia vuokrasopimuksia ei kuitenkaan voi allekirjoittaa Maanmittauslaitoksen järjestelmässä.\n",
             "information": "Sopimuksen allekirjoituksen edellytyksenä on, että kaupungin vuokrauspäätös on lainvoimainen ja että viimeistään allekirjoitustilaisuudessa:\n\n- Sopimuskumppani tarkastaa ja ilmoittaa hyväksyvänsä kaupungin päätöksen liitteenä olleen sopimusluonnoksen ja siihen mahdollisesti täytäntöönpanovaiheessa tehdyt tarkistukset sekä toimittaa tiedon allekirjoittajasta ja selvityksen nimenkirjoitusoikeudesta. \n- Sopimuskumppani toimittaa toimivaltaisen elimen päätöksen sopimuksen hyväksymisestä ja vakuuden luovuttamisesta sekä panttauksesta. \n- Sopimuskumppani toimittaa kaupungille myös muut mahdolliset asiakirjat\/tiedot, jotka kaupungin päätöksessä on nimetty sopimuksen allekirjoituksen edellytyksiksi. \n\nMikäli Maanmittauslaitos vaatii vuokraoikeuden kirjaamishakemuksen liitteeksi muita asiakirjoja, tulee nämä myös myöhemmin kaupungille toimittaa.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -572,10 +574,60 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5368,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "OTHER_ESERVICE",
+            "name": "Signing a long-term lease agreement",
+            "description": "Once the decision on the long-term lease of the plot has been made, send us the completed information form. We will finalise the lease agreement based on the information and contact you to agree on the signing date.\n\nSend the information form by email to maaomaisuus.kiinteistosihteerit@hel.fi. You can also submit the form via secure email at securemail.hel.fi; use the address maaomaisuus.kiinteistosihteerit@hel.fi. \n\nIf necessary, you can also send the form by regular post to:\n\nCity of Helsinki\nMAKE\/Sopimukset ja valvonta\nPO Box 58213\nFI-00099 City of Helsinki\n\nThe lease agreement will be signed in electronic format via the Property Transaction Service of the National Land Survey of Finland, or at our office located at Työpajankatu 8. Please note, however, that long-term leases for commercial premises cannot be signed via the National Land Survey of Finland service.\n",
+            "information": "Prerequisites for the signing are the rental decision by the city being legally valid and the following taking place at the latest in connection with the signing:\n\n- The contracting partner must review and declare its acceptance of the draft agreement attached to the decision by the city and any amendments made to it during the implementation phase, as well as provide information on the signatory and a report of their right to sign the company name.\n- The contracting partner must submit a decision of their competent body on the approval of the agreement and on the release of the security and the pledging.\n- The contracting partner must also submit to the city any other documents\/information that the city has designated in its decision as prerequisites for signing of the agreement.\n\nIf the National Land Survey of Finland requires any other documents, these must also be submitted to the city at a later point in time.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5368,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "OTHER_ESERVICE",
+            "name": "Underteckna långtidsarrendeavtalet",
+            "description": "Efter att staden fattat ett beslut om långtidsarrende för tomten, skicka oss en informationsblankett som du fyllt i Vi färdigställer arrendeavtalet på basis av uppgifterna och kontaktar dig om tidpunkten för undertecknande.\n\nSkicka informationsblanketten per e-post till maaomaisuus.kiinteistosihteerit@hel.fi . Du kan även skicka blanketten via skyddad e-post securemail.hel.fi till maaomaisuus.kiinteistosihteerit@hel.fi. \n \nVid behov kan du skicka blanketten även per post till följande adress:\n\nHelsingfors stad\nMAKE\/Sopimukset ja valvonta\nPB 58213\n00099 Helsingfors stad\n\nArrendeavtalet undertecknas elektroniskt i Lantmäteriverkets Fastighetsöverlåtelsetjänst eller på vårt verksamhetsställe på Verkstadsgatan 8. Observera att det dock inte är möjligt att underteckna långtidsarrendeavtal för affärs-, kontors- och industritomter i Lantmäteriverkets tjänst.\n",
+            "information": "Förutsättningen för undertecknande av avtalet är att stadens arrendebeslut har vunnit laga kraft och att senast vid tidpunkten för undertecknande:\n\n- Avtalsparten kontrollerar och meddelar att hen godkänner det bifogade avtalsutkastet i stadens beslut och eventuella korrigeringar som gjorts i utkastet vid tidpunkten för verkställande samt lämnar in uppgifter om undertecknaren och en utredning om namnteckningsrätt.\n- Avtalsparten skickar det behöriga organets beslut om godkännande av avtalet och om överlåtelse och pantsättning av säkerheten.\n- Avtalsparten skickar staden även övriga eventuella handlingar\/uppgifter som staden i sitt beslut har angett som förutsättningar för undertecknande av avtalet.\n\nOm Lantmäteriverket förutsätter att andra handlingar ska bifogas till ansökan om inskrivning av arrendeavtalet, ska du senare skicka även dessa till staden.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4861,
@@ -8868,7 +8920,9 @@
             "name": "Hae tontin lyhytaikaista vuokrausta",
             "description": "Hae tontin lyhytaikaista vuokrausta ennen rakennusluvan hakemista. Vuokrauspäätöksen käsittelyaika on noin neljä viikkoa.\n\nLiitä hakemukseen tontin varauspäätöksessä mahdollisesti edellytetyt selvitykset ja asiakirjat.\n\nHuomioithan, että Kalasataman ja Mellunkylän asuinkerrostalotonteille haetaan lyhytaikauksen vuokrauksen sijaan valtakirjaa. \n\nLähetä hakemus asuntotontin lyhytaikaisesta vuokrauksesta sähköpostitse osoitteeseen tonttihakemukset@hel.fi.\n\nLähetä hakemus toimitilatontin lyhytaikaisesta vuokrauksesta sähköpostilla osoitteeseen yritystonttitiedustelut@hel.fi.\n",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -8938,8 +8992,32 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5364,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Applying for a short-term lease",
+            "description": "Apply for a short-term lease of the plot before applying for a building permit. The processing time of a lease application is approximately four weeks.\n\nAttach any reports and documents required in the reservation decision for the plot to the application.\n\nPlease note that a power of attorney must be applied for the plots for apartment blocks in Kalasatama and Mellunkylä instead of a short-term lease. \n\nSend an application for a short-term lease of a residential plot by email to tonttihakemukset@hel.fi.\n\nSend an application for a short-term lease of a commercial plot by email to yritystonttitiedustelut@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
         "sv": [
         ]
     },
@@ -8956,7 +9034,9 @@
             "description": "Tontin pitkäaikainen vuokrasopimus tulee olla allekirjoitettu ennen rakentamisen aloittamista tai muutoin erikseen esimerkiksi tontinvarauspäätöksessä mainittuna ajankohtana. Vuokrauspäätöksen käsittelyaika on 4-6 viikkoa. \n\nLiitä hakemukseen vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.\n\nLähetä hakemus sähköpostitse osoitteeseen tonttihakemukset@hel.fi.",
             "information": "Liitä hakemukseen seuraavat selvitykset ja asiakirjat:\n\n- Pääsuunnittelijan vahvistama selvitys rakennusoikeuden käytöstä, joka sisältää selvityksen hankkeen huoneistojakaumasta, asuntojen keskipinta-alasta sekä perheasuntojen eli vähintään 2 makuuhuonetta käsittävien asuntojen määrästä ja näiden asuntojen keskipinta-alasta.\n- Hankkeen energiatodistus.\n- Vuokra-aluetta koskevat rasite- ja\/tai yhteisjärjestelysopimukset, mikäli ne ovat tiedossa.\n- Tontin varauspäätöksessä ja\/tai lyhytaikaisen vuokrauksen päätöksessä mahdollisesti edellytetyt selvitykset tai asiakirjat, kuten Kehittyvä kerrostalo -hankkeessa.\n\nKaikki yhtiömuotoiset hankkeet toimittavat edellä esitetyn lisäksi vuokralaiseksi tai ostajaksi tulevan yhtiön kaupparekisteriotteen.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -9007,10 +9087,60 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5367,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Applying for a long-term lease",
+            "description": "The long-term lease of a plot must be signed before the start of construction or at a separate time specified in the plot reservation decision or another document. The processing time of the lease decision is four to six weeks. \n\nAttach any known easement and\/or joint arrangement agreements concerning the plot to the application.\n\nSend the application by e-mail to tonttihakemukset@hel.fi.\n",
+            "information": "Attach the following reports and documents to your application:\n\n- A report on the use of building rights, approved by the senior planning officer, including a report on the distribution of flats in the project, the average floor area of the flats, the number of family flats, i.e. flats with at least two bedrooms, and the average area of such flats.\n- An energy performance certificate for the project.\n- Any known easement and\/or joint arrangement agreements concerning the leased plot.\n- Any reports or documents required in the reservation decision and\/or short-term lease decision for the plot, such as in the case of the Re-thinking Urban Housing programme.\n\nIn addition to the above, all projects established in a corporate form must submit an extract from the Trade Register for the company that will become the tenant or buyer. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5367,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Ansök om långtidsarrende för en tomt",
+            "description": "Ett långtidsarrendeavtal för en tomt ska vara undertecknat innan byggandet inleds eller vid en annan tidpunkt som separat nämns till exempel i reserveringsbeslutet för tomten. Handläggningstiden för arrendebeslut är 4-6 veckor. \n\nBifoga till ansökan de servituts- och\/eller samregleringsavtal som gäller arrendeområdet om de är kända.\n\nSkicka ansökan per e-post till tonttihakemukset@hel.fi .\n",
+            "information": "Bifoga följande utredningar och handlingar till ansökan:\n- Utredning som fastställts av huvudplaneraren om användning av byggrätten som innehåller en utredning om projektets lägenhetsfördelning, bostädernas medelyta samt antalet familjebostäder, det vill säga bostäder med minst 2 sovrum, och deras medelyta.\n- Energicertifikat för projektet.\n- Servituts- och\/eller samregleringsavtal som gäller arrendeområdet om de är kända.\n- Utredningar eller handlingar som reserveringsbeslutet och\/eller beslutet om korttidsarrende för tomten eventuellt förutsätter, som i projektet Kehittyvä kerrostalo.\n\nFör alla projekt genomförs av bostadsaktiebolag ska du utöver de ovannämnda handlingarna lämna in ett handelsregisterutdrag över det bolag som blir arrendator eller köpare. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 5299,
@@ -9744,7 +9874,9 @@
             "name": "Hae valtakirjaa rakennuslupaa varten sekä pitkäaikaista vuokrasopimusta",
             "description": "Kalasataman ja Mellunkylän asuinkerrostalotonttien osalta kokeillaan niin sanottua valtakirjamenettelyä, joka korvaa lyhytaikaisen vuokrasopimuksen laatimisen. Kokeilu koskee 1.2.2022 jälkeen tehtyjä hakemuksia.\n\nTontin varaaja hakee samanaikaisesti valtakirjaa rakennusluvan hakemista varten sekä pitkäaikaista vuokrasopimusta. Valtakirjalla Helsingin kaupunki tontin omistajana ja haltijana oikeuttaa varaajan hakemaan tontille rakennuslupaa. Tontin varaaja voi aloittaa maanrakennustyöt tontilla vasta kun pitkäaikaisesta vuokrauksesta on tehty päätös. \n\nValtakirjojen käsittelyaika on noin 2 viikkoa. Tontin valtakirja on voimassa yhden vuoden. \n\nLöydät tarkemmat ohjeet hakemuksesta.\n\nLähetä hakemus sähköpostitse osoitteeseen tonttihakemukset@hel.fi.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -9783,10 +9915,58 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5366,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Applying for a power of attorney for a building permit and a long-term lease",
+            "description": "In the case of the residential plots in Kalasatama and Mellunkylä, there is an experiment on using a power of attorney procedure, which replaces the preparation of a short-term lease agreement. The experiment applies to applications submitted after 1 February 2022.\n\nThe party that has reserved the plot must simultaneously apply for a power of attorney for a building permit and a long-term lease agreement. With the power of attorney, the City of Helsinki as the owner and holder of the plot entitles the party that has reserved the plot to apply for a building permit for the plot. The party that has reserved the plot may not start excavation on the plot until a decision on the long-term lease has been made. \n\nThe processing time for powers of attorney is approximately two weeks. A power of attorney for a plot is valid for one year.\n \nYou will find more detailed instructions on the application form.\n\nSend the application by e-mail to tonttihakemukset@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5366,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Ansök om fullmakt för bygglov samt långtidsarrendeavtal",
+            "description": "I fråga om flervåningshustomterna i Fiskehamnen och Mellungsby provar staden ett så kallat fullmaktsförfarande som ersätter korttidsarrendeavtal. Försöket gäller ansökningar som lämnats in efter 1.2.2022.\n\nDen som reserverat en tomt ansöker samtidigt om fullmakt för en bygglovsansökan samt om ett långtidsarrendeavtal. Med fullmakten berättigar Helsingfors stad som tomtägare och tomtinnehavare den som reserverat tomten att ansöka om ett bygglov för tomten. Den som reserverat tomten kan inleda jordbyggnadsarbeten på tomten först efter att staden fattat ett beslut om långtidsarrende. \n\nHandläggningstiden för fullmakter är cirka 2 veckor. Fullmakten för en tomt gäller ett år. \n\nDu hittar närmare anvisningar i ansökan.\n\nSkicka ansökan per e-post till tonttihakemukset@hel.fi .\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 5346,
@@ -13905,7 +14085,9 @@
             "name": "Ilmoita vuokraoikeuden siirrosta",
             "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi \n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta. \n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokravuokralaskutus@hel.fi.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -13944,10 +14126,58 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5369,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Notification on transfer of leasehold",
+            "description": "When a land lease agreement for a plot owned by the City of Helsinki includes a clause according to which the tenant has the right to transfer the leasehold to a third party without consulting the landlord, the tenant may transfer the leasehold and the buildings located on the plot in their entirety or a part thereof to a third party without the consent of the city.\n\nAsk for more information:\n\n- Residential plots: info@hel.fi\n- Commercial plots: yritystonttitiedustelut@hel.fi \n- Detached houses: omakotitalotonttitiedustelut@hel.fi\n\nAfter the transfer, the new tenant must apply for registration of the leasehold from the National Land Survey of Finland. \n\nThe new tenant must also, without delay after the transfer, submit to the city a copy of the deed of transfer or other document that serves as the basis for the transfer, as well as submit the new billing address for the lease in writing. Send the copies and the new address to maanvuokravuokralaskutus@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5369,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Meddela om överföring av arrenderätten",
+            "description": "När markarrendeavtalet för en tomt som ägs av Helsingfors stad innehåller ett villkor enligt vilket arrendatorn har rätt att utan att höra arrendegivaren överföra arrenderätten till någon annan, kan arrendatorn helt eller delvis överföra sin arrenderätt och byggnaderna på tomten till någon annan utan stadens samtycke.\n\nFråga om mer information:\n\n-\tBostadstomter: asuntotonttitiedustelut@hel.fi\n-\tFöretagstomter: yritystonttitiedustelut@hel.fi \n-\tEgnahemshustomter: omakotitalotonttitiedustelut@hel.fi\n\nEfter överföringen ska den nya arrendatorn ansöka om inskrivning av överföringen av arrenderätten hos Lantmäteriverket. \n\nDen nya arrendatorn ska också utan dröjsmål efter överföringen skicka staden en kopia av överlåtelsehandlingen eller av någon annan handling som utgör grunden till förvärvet samt skriftligen meddela en ny faktureringsadress för arrendet. Skicka kopiorna och meddela den nya adressen till maanvuokravuokralaskutus@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 4225,
@@ -18959,7 +19189,7 @@
                     "id": 3897,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Kehitysvammapoliklinikan neuvonta ja ajanvaraus suomeksi",
+                    "name": "Kehitysvammapoliklinikan neuvonta ja ajanvaraus ruotsiksi",
                     "availability_summary": "Avoinna ti, to 10-12",
                     "phone": "09 310 40401",
                     "call_charge_info": "maksuton",
@@ -36467,6 +36697,70 @@
         ]
     },
     {
+        "id": 5390,
+        "fi": {
+            "id": 5390,
+            "exact_descriptions": [
+                4542
+            ],
+            "service_id": 10488,
+            "type": "APPLICATION",
+            "name": "Tee ilmoitus pilaantuneet maaperän puhdistamisesta",
+            "description": "Lähetä ilmoitus liitteineen Helsingin kaupungin kirjaamoon sähköpostitse osoitteeseen helsinki.kirjaamo@hel.fi tai postitse osoitteeseen PL 10, 00099 Helsingin kaupunki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3903,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Ilmoitus pilaantuneen maaperän puhdistamisesta (PDF)",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.pdf"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
+                            "url": "https:\/\/www.hel.fi\/shttps:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5274,
         "fi": {
             "id": 5274,
@@ -41947,6 +42241,7 @@
         "fi": {
             "id": 5387,
             "exact_descriptions": [
+                2889,
                 3002,
                 3023,
                 3024,
@@ -41955,7 +42250,8 @@
                 3033,
                 3039,
                 6181,
-                9645
+                9645,
+                9651
             ],
             "service_id": 10821,
             "type": "APPLICATION",
