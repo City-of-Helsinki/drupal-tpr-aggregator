@@ -1919,257 +1919,6 @@
         }
     },
     {
-        "id": 1564,
-        "fi": {
-            "id": 1564,
-            "exact_descriptions": [
-                3544
-            ],
-            "service_id": 10271,
-            "type": "APPLICATION",
-            "name": "Asemakaavan muutos",
-            "description": "Tontin omistaja tai haltija voi hakea muutosta voimassa olevaan asemakaavaan.",
-            "process_description": "Muutosta haetaan Asemakaavan muutoshakemus -lomakkeella tai vapaamuotoisella hakemuksella, jossa on vastaavat tiedot.\n\nMukaan on liitettävä seuraavat asiakirjat:\n \n- Selvitys tontin omistus- tai hallintaoikeudesta (esim. lainhuutotodistus, vuokrasopimus, kauppakirja, jos lainhuuto on vireillä tai kaupan tekemisestä on alle 6 kuukautta).\n\n- Valtakirja, mikäli hakemuksen allekirjoittaa muu kuin hakija. Valtakirjassa tulee olla kiinteistön kaikkien omistajien\/haltijoiden allekirjoitukset ja nimen selvennykset. Valtakirjasta tulee selvitä kaikki toimenpiteet, joihin valtuutetulla on oikeus.\n\n- Yhtiökokouksen pöytäkirja, mikäli hakijana on As Oy tai KOY. Yhtiökokouksen tulee päättää asemakaavamuutoksen hakemisesta. \n\n- Kaupparekisteriote, mikäli hakijana on yhtiö. Asiakirja osoittaa, kenellä on yhtiön puolesta allekirjoitusoikeus. \n\n- Maankäyttösuunnitelma eli piirustus, jossa esitetään, mitä halutaan muuttaa.\n\nEnnen hakemuksen jättämistä suosittelemme ottamaan yhteyttä asemakaavoituspalveluun ja neuvottelemaan aluearkkitehdin kanssa muutoksen mahdollisuudesta ja tarkoituksenmukaisuudesta. Samalla voi tiedustella haettavan muutoksen korvauksen suuruudesta, aikatauluarviosta ja muista mahdollisista yksityiskohdista.\n\nAsemakaavoittajat ovat tavattavissa sopimuksen mukaan osoitteessa Työpajankatu 8, Helsinki. Tapaamisaika tulee sopia etukäteen. Alueesta vastaavan kaavoittajan yhteystiedot selviävät Lisätietoja-otsikon alta Kaavoittajien vastuualueet -linkistä.\n\nJos haet kaavamuutosta kaupungin vuokratontille, ole ennen hakemuksen jättämistä yhteydessä kaupungin Maanhankinta-yksikköön. Maanhankitatiimin yhteystiedot löytyvät linkistä Lisätietoa-otsikon alta.\n\nAsemakaavan muutoshakemus lähetetään Helsingin kaupungin kirjaamoon. Kirjaamon yhteystiedot löytyvät linkistä Lisätietoa-otsikon alta.",
-            "costs": "Kaupungilla on oikeus periä hakijalta kaavan laatimisesta ja käsittelystä aiheutuneet kustannukset. Jos hakija peruuttaa asemakaavahakemuksen kaavatyön aloittamisen jälkeen, laskutetaan tehdystä työstä.\nKaavoitusmaksu määräytyy hakemuksen saapumispäivänä voimassa olevan maksutaulukon mukaan. \n(linkki hinnastoon Lisätietoa-kohdassa).",
-            "information": "Pientalotontin tehokkuuden nosto 0,20:sta 0,25:een ei edellytä asemakaavan muuttamista, vaan se voidaan hoitaa poikkeusluvalla. Ohjeet ja tarvittavat lomakkeet ovat saatavissa rakennusvalvonnasta sekä rakennusvalvonnan verkkosivuilta",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Hinnasto",
-                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Kirjaamo",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/hallinto\/kirjaamo",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Rakennusvalvonnan ohje poikkeamisesta",
-                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Poikkeaminen.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Kaavoittajien vastuualueet karttapalvelussa",
-                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Maanhankintatiimi",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/tontit\/tontit\/maan\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1190,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Asemakaavan muutoshakemus. lomakkeet",
-                    "information": "Asemakaavan muutoshakemuslomake on saatavissa pdf-muodossa. Täytetyn lomakkeen voi tallentaa omalle koneelle. Hakemus lähetetään sähköpostilla, faksilla tai postitse Helsingin kaupungin kirjaamoon. Hakemuksen voi toimittaa kirjaamoon myös henkilökohtaisesti.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Pdf-lomake",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asemakaavan-muutoshakemus-hki.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 1564,
-            "exact_descriptions": [
-                3544
-            ],
-            "service_id": 10271,
-            "type": "APPLICATION",
-            "name": "Revision to a detailed plan",
-            "description": "A property owner or holder can apply for a revision to a current detailed plan.",
-            "process_description": "If a property owner or holder wishes to apply for a revision to a current detailed plan, the owner or holder must do so in writing. This can be done with a standard form used to apply for a revision to a detailed plan, or with a free-form application containing the same information.\n\nThe application must be accompanied by a certificate indicating the owner or holder of the property for which the revision is applied, for example, a title certificate or a certified copy of the sale or lease agreement.\n\nThe application can be accompanied by a drawing showing the proposed revision.\n\nBefore applying for a revision, the applicant is advised to contact the Detailed Planning Unit and discuss the feasibility and relevance of the revision with the planner in charge of the area. \n\nThe planners by area are available by appointment at Työpajankatu 8, Helsinki, switchboard: 09 310 2611. \n\nIf you are applying for amendment of the local detailed plan concerning a rented plot owned by the City, please contact the City's land acquisition unit before you submit the application. The contact information for the land acquisition team can be found under the Further information link.\n\nThe application should be delivered to the City of Helsinki Register Office.\n",
-            "costs": "After the proposal for a revision is approved, the landowner pays a fee to cover the production of necessary maps and the announcement of the revision. The fee is determined by the real costs caused by the revision.",
-            "information": "If the application is for an upgrade of a site for single-family housing from utilization level 0.20 to level 0.25, the upgrade can be done with a deviation permit. The instructions and forms can be found on the Building Control Department's Web site.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Registrar's Office",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/administration\/registrars"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Tariff",
-                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Planners on the map",
-                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Land acquisition team",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/housing\/plots-land-buildings\/plots\/land-acquisition",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1190,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Revision to a detailed plan. forms",
-                    "information": "The appliction form is available in Finnish and in word and pdf format. The filled-in copy of the form can be saved. The application can be delivered to the City of Helsinki Registrar's Office by mail, e-mail, telefax or in person.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Word-form",
-                            "url": "http:\/\/lomake.fi\/forms\/word\/HKI\/Asemakaavanmuutoshakemus\/fi",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Pdf-form",
-                            "url": "http:\/\/lomake.fi\/forms\/pdf\/HKI\/Asemakaavanmuutoshakemus\/fi",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 1564,
-            "exact_descriptions": [
-                3544
-            ],
-            "service_id": 10271,
-            "type": "APPLICATION",
-            "name": "Detaljplaneändring",
-            "description": "Ägaren eller innehavaren till en tomt kan ansöka om ändring av en giltig detaljplan.",
-            "process_description": "Man kan ansöka om ändring på blanketten Ansökan om ändring av detaljplan eller med en egen fritt formulerad ansökan med motsvarande uppgifter.\n\nFöljande dokument ska bifogas ansökan:\n \n- Utredning om ägande- eller besittningsrätt. Ett dokument varav ägandeförhållandena eller besittningen av tomten framgår (t.ex. lagfartsbevis, hyresavtal, köpebrev, om lagfarten är anhängig eller om det är högst sex [6] månader sedan köpet).\n\n- Fullmakt, om ansökan undertecknas av någon annan än den sökande. Fullmakten ska innehålla fastighetens samtliga ägares\/innehavares underskrifter och namnförtydliganden. Alla de åtgärder som den befullmäktigade har rätt att vidta ska framgå av fullmakten.\n\n- Protokoll från bolagsstämman, om ändringen söks av ett bostads- eller fastighetsaktiebolag. Bolagsstämman ska besluta om sökande av ändring i detaljplanen. \n\n- Handelsregisterutdrag, om ändringen söks av ett bolag. Dokumentet visar vem eller vilka som har rätt att teckna bolagets firma. \n\n- Markanvändningsplan, det vill säga en ritning varav den sökta ändringen framgår.\n\nInnan du lämnar in ansökan rekommenderar vi att du tar kontakt med planläggningstjänsten och förhandlar om möjligheten till ändring och dess ändamålsenlighet med områdesarkitekten. Samtidigt kan du ställa frågor om ersättningsbeloppet och tidsschemat för ändringen samt om andra eventuella detaljer.\n\nOmrådesarkitekterna finns anträffbara enligt överenskommelse på Verkstadsgatan 8, Helsingfors, telefonväxel 09 310 2611. Man ska komma överens om mötet på förhand.\n\nOm du ansöker om detaljplaneändring för en arrendetomt som staden äger, vänligen kontakta stadens markupphandlingsenhet innan du lämnar in ansökan. Markupphandlingsteamets kontaktuppgifter hittar du under länken Ytterligare information.\n\nÄndringsansökan skickas till Helsingfors registratorskontor.",
-            "costs": "Staden har rätt att uppbära kostnaderna för utarbetande och handläggning av planen av den sökande. Om den sökande återkallar sin ansökan efter att planarbetet har inletts, faktureras för det utförda arbetet. Planläggningsavgiften fastställs enligt den gällande avgiftstabellen den dag då ansökan har kommit in. \n",
-            "information": "Om frågan gäller en höjning av en småhustomts effektivitet från 0,20 till 0,25 kan saken även ordnas med ett undantagstillstånd. Byggnadstillsyn ger ansökningsformulär liksom även anvisningar om inlämnande av ansökan. Det finns också anvisningar och nödvändiga blanketter på byggnadstillsynens webbplats.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsingfors registratorskontor",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/#5"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Avgifter som uppbärs för stadsplan",
-                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut_sv.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Byggnadstillsyn",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/byggande\/tillstond\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Områdesarkitekterna på karttjänsten",
-                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Markupphandlingsteamet",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/tomter\/tomter\/upphandling-mark",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1190,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Ansökan om detaljplaneändring. blankett",
-                    "information": "Ansökan om ändring skickas till Helsingfors stads registratorskontor.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Pdf-blankett",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asemakaavan-muutoshakemus-hki-sv.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 4480,
         "fi": {
             "id": 4480,
@@ -4771,6 +4520,167 @@
                     "availabilities": [
                     ]
                 }
+            ]
+        }
+    },
+    {
+        "id": 1564,
+        "fi": {
+            "id": 1564,
+            "exact_descriptions": [
+                3544
+            ],
+            "service_id": 10271,
+            "type": "APPLICATION",
+            "name": "Hae asemakaavan muutosta",
+            "description": "Hae muutosta valmiilla lomakkeella tai vapaamuotoisella hakemuksella, jossa on vastaavat tiedot kuin lomakkeessa. Lähetä hakemus Helsingin kaupungin kirjaamoon. Sähköpostiosoite: helsinki.kirjaamo@hel.fi. Postiosoite: PL 10, 00099 Helsingin kaupunki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3904,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae asemakaavan muutosta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Asemakaavan muutoshakemus",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asemakaavan-muutoshakemus-hki.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 1564,
+            "exact_descriptions": [
+                3544
+            ],
+            "service_id": 10271,
+            "type": "APPLICATION",
+            "name": "Revision to a detailed plan",
+            "description": "A property owner or holder can apply for a revision to a current detailed plan.",
+            "process_description": "If a property owner or holder wishes to apply for a revision to a current detailed plan, the owner or holder must do so in writing. This can be done with a standard form used to apply for a revision to a detailed plan, or with a free-form application containing the same information.\n\nThe application must be accompanied by a certificate indicating the owner or holder of the property for which the revision is applied, for example, a title certificate or a certified copy of the sale or lease agreement.\n\nThe application can be accompanied by a drawing showing the proposed revision.\n\nBefore applying for a revision, the applicant is advised to contact the Detailed Planning Unit and discuss the feasibility and relevance of the revision with the planner in charge of the area. \n\nThe planners by area are available by appointment at Työpajankatu 8, Helsinki, switchboard: 09 310 2611. \n\nIf you are applying for amendment of the local detailed plan concerning a rented plot owned by the City, please contact the City's land acquisition unit before you submit the application. The contact information for the land acquisition team can be found under the Further information link.\n\nThe application should be delivered to the City of Helsinki Register Office.\n",
+            "costs": "After the proposal for a revision is approved, the landowner pays a fee to cover the production of necessary maps and the announcement of the revision. The fee is determined by the real costs caused by the revision.",
+            "information": "If the application is for an upgrade of a site for single-family housing from utilization level 0.20 to level 0.25, the upgrade can be done with a deviation permit. The instructions and forms can be found on the Building Control Department's Web site.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Registrar's Office",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/administration\/registrars"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tariff",
+                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Planners on the map",
+                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Land acquisition team",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/housing\/plots-land-buildings\/plots\/land-acquisition",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 1564,
+            "exact_descriptions": [
+                3544
+            ],
+            "service_id": 10271,
+            "type": "APPLICATION",
+            "name": "Detaljplaneändring",
+            "description": "Ägaren eller innehavaren till en tomt kan ansöka om ändring av en giltig detaljplan.",
+            "process_description": "Man kan ansöka om ändring på blanketten Ansökan om ändring av detaljplan eller med en egen fritt formulerad ansökan med motsvarande uppgifter.\n\nFöljande dokument ska bifogas ansökan:\n \n- Utredning om ägande- eller besittningsrätt. Ett dokument varav ägandeförhållandena eller besittningen av tomten framgår (t.ex. lagfartsbevis, hyresavtal, köpebrev, om lagfarten är anhängig eller om det är högst sex [6] månader sedan köpet).\n\n- Fullmakt, om ansökan undertecknas av någon annan än den sökande. Fullmakten ska innehålla fastighetens samtliga ägares\/innehavares underskrifter och namnförtydliganden. Alla de åtgärder som den befullmäktigade har rätt att vidta ska framgå av fullmakten.\n\n- Protokoll från bolagsstämman, om ändringen söks av ett bostads- eller fastighetsaktiebolag. Bolagsstämman ska besluta om sökande av ändring i detaljplanen. \n\n- Handelsregisterutdrag, om ändringen söks av ett bolag. Dokumentet visar vem eller vilka som har rätt att teckna bolagets firma. \n\n- Markanvändningsplan, det vill säga en ritning varav den sökta ändringen framgår.\n\nInnan du lämnar in ansökan rekommenderar vi att du tar kontakt med planläggningstjänsten och förhandlar om möjligheten till ändring och dess ändamålsenlighet med områdesarkitekten. Samtidigt kan du ställa frågor om ersättningsbeloppet och tidsschemat för ändringen samt om andra eventuella detaljer.\n\nOmrådesarkitekterna finns anträffbara enligt överenskommelse på Verkstadsgatan 8, Helsingfors, telefonväxel 09 310 2611. Man ska komma överens om mötet på förhand.\n\nOm du ansöker om detaljplaneändring för en arrendetomt som staden äger, vänligen kontakta stadens markupphandlingsenhet innan du lämnar in ansökan. Markupphandlingsteamets kontaktuppgifter hittar du under länken Ytterligare information.\n\nÄndringsansökan skickas till Helsingfors registratorskontor.",
+            "costs": "Staden har rätt att uppbära kostnaderna för utarbetande och handläggning av planen av den sökande. Om den sökande återkallar sin ansökan efter att planarbetet har inletts, faktureras för det utförda arbetet. Planläggningsavgiften fastställs enligt den gällande avgiftstabellen den dag då ansökan har kommit in. \n",
+            "information": "Om frågan gäller en höjning av en småhustomts effektivitet från 0,20 till 0,25 kan saken även ordnas med ett undantagstillstånd. Byggnadstillsyn ger ansökningsformulär liksom även anvisningar om inlämnande av ansökan. Det finns också anvisningar och nödvändiga blanketter på byggnadstillsynens webbplats.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingfors registratorskontor",
+                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/#5"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Avgifter som uppbärs för stadsplan",
+                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut_sv.pdf",
+                    "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Byggnadstillsyn",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/byggande\/tillstond\/",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Områdesarkitekterna på karttjänsten",
+                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Markupphandlingsteamet",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/tomter\/tomter\/upphandling-mark",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
             ]
         }
     },
@@ -16890,420 +16800,6 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 2812,
-        "fi": {
-            "id": 2812,
-            "exact_descriptions": [
-                3282
-            ],
-            "service_id": 10232,
-            "type": "INFORMATION_SERVICE",
-            "name": "Johtoselvitys",
-            "name_synonyms": "johtotietoselvitys",
-            "description": "Helsingin kaupungin alueella tehtävissä kaivu-, kairaus- ja louhintatöissä on kaivajan aina ennen kaivuilmoituksen jättämistä haettava ajantasainen johtoselvitys.",
-            "process_description": "Johtoselvitys sisältää karttaotteen maanalaisista johdoista ja rakenteista. Lisäksi selvityksen yhteydessä annetaan johdon omistajan ohjeita työn suorittamiseksi. Selvityksen liitteeksi tarvitaan työsuunnitelma.\n\nVoit tilata johtoselvityksen johtotietopalvelusta sähköisessä asiointipalvelussa (linkki alla).\n\nKaupungin sähköisessä asiointipalvelussa voit seurata asian etenemistä. Asiakasohjeesta (linkki alla) saat neuvoja asiointipalvelun käyttöön.",
-            "processing_time": "Käsittelyaika on 1 arkipäivä. Hakemukset käsitellään saapumisjärjestyksessä. Johtotietopalvelussa on tällä hetkellä ruuhkaa, ja johtoselvityksen saaminen saattaa kestää normaalia kauemmin.",
-            "expiration_time": "Lähetetty hakemus on voimassa, kunnes johtoselvitys on tehty. Johtoselvityksen voimassaoloaika on 1 kuukausi.",
-            "costs": "Johtoselvitys on maksuton kaivu-, kairaus- ja louhintatöitä tekeville. Muita tarkoituksia varten karttaotteet ovat maksullisia.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Asiakasohje e-asiointi",
-                    "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/asiakasohje.pdf"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Johtotietopalvelun yhteystiedot ja aukioloajat",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/ota-yhteytta\/hae-yhteystietoja\/toimipistekuvaus?id=7230"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1707,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Sähköinen asiointipalvelu",
-                    "prerequisites": "Käyttö edellyttää tunnistautumista joko pankkitunnuksella, mobiilivarmenteella tai varmennekortilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "1. Hakija lähettää johtoselvityksen hakemuslomakkeen\n2. Johtotietopalvelu käsittelee hakemukset saapumisjärjestyksestä.\n3. Johtoselvitys lähetetään liitteineen asiakkaalle sähköisen asiointipalvelun asiointikansioon.",
-                    "authorization_code": "Johtoselvityspyynnön tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/johtoselvitys",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
-                    "id": 1708,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Johtotietopalvelun neuvontapuhelin",
-                    "phone": "09 310 31940 ",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1709,
-                    "type": "LOCAL",
-                    "type_string": "Henkilökohtainen palvelu",
-                    "name": "Asiointi johtotietopalvelussa",
-                    "personal_service_street_addr": "Työpajankatu 8",
-                    "personal_service_postal_code": "00580",
-                    "personal_service_city": "Helsinki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 2731,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Johtotietopalvelu, sähköposti",
-                    "email": "johtotietopalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 2812,
-            "exact_descriptions": [
-            ],
-            "service_id": 10232,
-            "type": "INFORMATION_SERVICE",
-            "name": "Cable report, e-service",
-            "description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works.",
-            "process_description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works from the cable data service. Using the service requires identification.\n\n1. Applicant fills in an electronic cable report form. \n2. The cable report form is received for processing by the cable data service. \n3. The cable data service processes the application and sends the cable map with appendices to the customer's e-services folder.",
-            "processing_time": "The processing time for the cable report application is 1 working day.",
-            "expiration_time": "The submitted application is valid until the cable report has been done. The period of validity for the cable report is 1 month.",
-            "costs": "The cable report is free of charge for those who perform excavation, drilling and quarrying works.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "City Survey Services",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/housing\/plots-land-buildings\/surveying\/cables-pipes\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1707,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Cable report",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank codes, mobile certificate or certificate card.",
-                    "availability_summary": "Service available every day around the clock",
-                    "authorization_code": "Johtoselvityspyynnön tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/johtoselvitys",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to Urban Environmet Division",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/en\/feedback\/feedback\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                },
-                {
-                    "id": 1708,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "phone": "09 310 31940 ",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1709,
-                    "type": "LOCAL",
-                    "type_string": "Local services",
-                    "personal_service_street_addr": "Työpajankatu 8",
-                    "personal_service_city": "Helsinki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 2731,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "email": "johtotietopalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 2812,
-            "exact_descriptions": [
-            ],
-            "service_id": 10232,
-            "type": "INFORMATION_SERVICE",
-            "name": "Ledningsutredning, e-tjänst",
-            "description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten.",
-            "process_description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten från stadsmätningsavdelningens ledningsdatatjänst. Användning av tjänsten förutsätter identifiering.\n\n1. Den sökande fyller i blanketten för en elektronisk utredning om ledningar. \n2. Ansökningen om en utredning om ledningar kommer till ledningsdatatjänsten för behandling. \n3. Ledningsdatatjänsten behandlar ansökningen och skickar till kunden en ledningskarta med bilagor till den elektroniska ärendemappen.",
-            "processing_time": "Behandlingstiden för ansökningen för en utredning om ledningar är 1 vardag.",
-            "expiration_time": "En ansökning som skickats är i kraft tills en utredning om ledningar har gjorts. Giltighetstiden för utredningen om ledningar är 1 månad.",
-            "costs": "Utredningen om ledningar är avgiftsfri för de som utför gräv,- borrnings- och brytningsarbeten i Helsingfors.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lantmäteritjänster",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/boende-och-miljo\/tomter\/lantmateritjanster\/kablar-ledningar\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1707,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Utredning om ledningar",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder, mobil id eller certifikatkort.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Johtoselvityspyynnön tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/johtoselvitys",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till stadsmiljösektor",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/respons",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                },
-                {
-                    "id": 1708,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "phone": "09 310 31940 ",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1709,
-                    "type": "LOCAL",
-                    "type_string": "Lokal service",
-                    "personal_service_street_addr": "Verkstadsgatan 8",
-                    "personal_service_city": "Helsingfors",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 2731,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "email": "johtotietopalvelu@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
                     "for_corporate_customer": true,
                     "links": [
                     ],
@@ -36752,6 +36248,30 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3908,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -38951,6 +38471,140 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 2812,
+        "fi": {
+            "id": 2812,
+            "exact_descriptions": [
+                3282
+            ],
+            "service_id": 10232,
+            "type": "INFORMATION_SERVICE",
+            "name": "Tilaa johtoselvitys",
+            "description": "Tilaa johtoselvitys sähköisessä asiointipalvelussa tai tule tekemään se paikan päälle. Asiointi paikan päällä ainoastaan ajanvarauksella.",
+            "processing_time": "Hakemukset käsitellään saapumisjärjestyksessä. Käsittelyn tavoiteaika on 1 arkipäivä. Voit seurata asian etenemistä asiointipalvelussa. Saat johtoselvityksen liitteineen asiointipalvelun asiointikansi",
+            "expiration_time": "Lähetetty hakemus on voimassa, kunnes johtoselvitys on tehty. Johtoselvitys on voimassa kuukauden. ",
+            "costs": "Kaivu-, kairaus- ja louhintatöitä tekeville johtoselvitys on maksuton.\n\nSuunnittelua varten johtokartat ja muut kartta-aineistot tilataan sähköisesti maksullisesta Karttakori-palvelusta.",
+            "information": "Liitä hakemukseen aina työsuunnitelma. Lisäksi liitteenä voi olla esimerkiksi liitoskohtalausunto. Hakemuksessa voi olla 1-5 liitettä.\n\n\n\n\n\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3906,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tilaa johtoselvitys",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tilaa johtoselvitys",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0g9My9QuyHRUBGNbhhg!!\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 2812,
+            "exact_descriptions": [
+            ],
+            "service_id": 10232,
+            "type": "INFORMATION_SERVICE",
+            "name": "Cable report, e-service",
+            "description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works.",
+            "process_description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works from the cable data service. Using the service requires identification.\n\n1. Applicant fills in an electronic cable report form. \n2. The cable report form is received for processing by the cable data service. \n3. The cable data service processes the application and sends the cable map with appendices to the customer's e-services folder.",
+            "processing_time": "The processing time for the cable report application is 1 working day.",
+            "expiration_time": "The submitted application is valid until the cable report has been done. The period of validity for the cable report is 1 month.",
+            "costs": "The cable report is free of charge for those who perform excavation, drilling and quarrying works.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "City Survey Services",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/housing\/plots-land-buildings\/surveying\/cables-pipes\/"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 2812,
+            "exact_descriptions": [
+            ],
+            "service_id": 10232,
+            "type": "INFORMATION_SERVICE",
+            "name": "Ledningsutredning, e-tjänst",
+            "description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten.",
+            "process_description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten från stadsmätningsavdelningens ledningsdatatjänst. Användning av tjänsten förutsätter identifiering.\n\n1. Den sökande fyller i blanketten för en elektronisk utredning om ledningar. \n2. Ansökningen om en utredning om ledningar kommer till ledningsdatatjänsten för behandling. \n3. Ledningsdatatjänsten behandlar ansökningen och skickar till kunden en ledningskarta med bilagor till den elektroniska ärendemappen.",
+            "processing_time": "Behandlingstiden för ansökningen för en utredning om ledningar är 1 vardag.",
+            "expiration_time": "En ansökning som skickats är i kraft tills en utredning om ledningar har gjorts. Giltighetstiden för utredningen om ledningar är 1 månad.",
+            "costs": "Utredningen om ledningar är avgiftsfri för de som utför gräv,- borrnings- och brytningsarbeten i Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lantmäteritjänster",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/boende-och-miljo\/tomter\/lantmateritjanster\/kablar-ledningar\/"
+                }
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 5307,
