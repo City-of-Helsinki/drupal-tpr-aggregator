@@ -19726,7 +19726,9 @@
             "name": "Kotiopetukseen ilmoittautuminen",
             "description": "Jos lapsi jää kotiopetukseen, huoltaja toimittaa täydennetyn lomakkeen lapsen kouluun.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
@@ -19782,7 +19784,9 @@
             "name": "Enrolment in home schooling",
             "description": "If a child is transferred to home schooling, the guardian will deliver the filled-in form to the child's school.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
@@ -19796,7 +19800,8 @@
                 {
                     "type": "INTERNET",
                     "title": "PDF form: Notification of moving to home schooling",
-                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/ilmoitus-kotiopetukseen-siirtymisesta-en.pdf"
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/ilmoitus-kotiopetukseen-siirtymisesta-en.pdf",
+                    "file_format": "PDF"
                 }
             ],
             "channels": [
@@ -19812,7 +19817,9 @@
             "name": "Anmälan till hemundervisning",
             "description": "Om ett barn ska övergå till hemundervisning ska vårdnadshavaren lämna in den ifyllda blanketten till barnets skola.",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
@@ -19826,7 +19833,8 @@
                 {
                     "type": "INTERNET",
                     "title": "PDF-formulär: Anmälan om övergång till hemundervisning",
-                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/ilmoitus-kotiopetukseen-siirtymisesta-sv.pdf"
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/ilmoitus-kotiopetukseen-siirtymisesta-sv.pdf",
+                    "file_format": "PDF"
                 }
             ],
             "channels": [
