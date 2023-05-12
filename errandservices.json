@@ -4566,7 +4566,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Asemakaavan muutoshakemus",
+                            "title": "Asemakaavan muutoshakemus (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asemakaavan-muutoshakemus-hki.pdf"
                         }
                     ],
@@ -7584,6 +7584,71 @@
         ]
     },
     {
+        "id": 5391,
+        "fi": {
+            "id": 5391,
+            "exact_descriptions": [
+                4985
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Hae sijoitussopimusta",
+            "name_synonyms": "Sijoituslupa, sijoitussuostumus, ",
+            "description": "Hae sijoitussopimusta sähköisesti Lupapisteessä.",
+            "information": "Liitä hakemukseen seuraavat liitteet:\n\nsuunnitelma sijoitettavista rakenteista\nvaltakirja, jos sopimusta hakee joku muu kuin kiinteistön tai rakenteen omistaja tai haltija.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3905,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae sijoitussopimusta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 1141,
         "fi": {
             "id": 1141,
@@ -10301,7 +10366,7 @@
             "service_id": 10054,
             "type": "APPLICATION",
             "name": "Application for club activities",
-            "description": "Guardians can use this application to apply for a place in City of Helsinki club activities.",
+            "description": "Guardians can use this application to apply for a place in Helsinki's free-of-charge club activities.",
             "process_description": "The instructions on the application form will guide you in completing the application. Any missing or incorrect information will be marked in red in the navigation pane on the left and on the summary page. The submit button will only be activated when all of the mandatory fields on the application have been completed. The application can no longer be edited after it has been submitted, but previously submitted applications can be used as a template for the applications of siblings, for example.\n\nYou can save the application as a draft and edit the draft later in your personal e-services folder. The draft will be deleted when you submit the application.\n\nThe submitted application will be saved in the applicant's e-services folder, the e-services archive system and the early childhood education and pre-primary education client information system of the Education Division. The service will notify the user when the application has been submitted successfully and provide the user with a case number that the applicant can use to monitor the status of the application in their e-services folder. The status of a submitted application waiting to be processed is sent. When the application is opened for processing, the status will change to in progress.\n\nAll decisions on application are made with the client's wishes in mind. Places in clubs are granted when vacancies are available in the desired unit. \n\nDecisions are sent electronically to the guardian living at the same address as the child in their personal e-services folder, if they have a folder. Decisions are also sent electronically to the guardian not living at the same address as the child, if the guardians are co-guardians and the co-guardian has a personal e-services folder.\n\nFee decisions will be sent electronically to the personal e-services folder of the guardian whose details have been provided to the Client Fee Unit as the person responsible for the fees.\n\nThe application can be deleted before the decision is made by contacting the Service guidance. The status of a deleted application is cancelled.\n\nAny changes to the application during the processing stage must be reported to the Service guidance by telephone.\n",
             "processing_time": "The processing time of the application is a maximum of four months, unless the applicant provides a later date for the start of the service. The processing of the application starts approximately two ",
             "expiration_time": "The application is valid for one year from the date of submission.",
@@ -35328,7 +35393,7 @@
                     "id": 3831,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee hakemus lasitetun terassialueen vuokraamiseksi",
+                    "name": "Tulostettava lomake",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -35357,10 +35422,178 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5348,
+            "exact_descriptions": [
+                9623
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Submit an application to lease an area for outdoor seating",
+            "name_synonyms": "terrace application, terrace",
+            "description": "Submit an application to lease an area for outdoor seating by using an electronic form and submitting it via the City's online services. Alternatively, you can use a PDF form. You can identify yourself through suomi.fi in order to log in to the service, either with a mobile ID or online banking credentials.",
+            "information": "If you are unable to use the electronic form, fill in the PDF form and send it together with the necessary appendices via email to ulkoilma@hel.fi. You can check which appendices are required for an outdoor seating application from the list of appendices.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3830,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit an application to lease an area for outdoor seating",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the City’s online services",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3831,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fill in the form to lease land for outdoor seating (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "The list of appendices (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5348,
+            "exact_descriptions": [
+                9623
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Fyll i ansökan för att hyra ett terrassområde",
+            "name_synonyms": "ansökan för ett terass, terassområde",
+            "description": "Ansök om hyrning av ett terrassområde genom att fylla i den elektroniska blanketten i stadens e-tjänster eller genom att fylla i en separat blankett. Du kan identifiera dig i tjänsten med Suomi.fi-autentisering med antingen mobilcertifikat eller nätbankskoder.",
+            "information": "Om du inte kan fylla i den elektroniska blanketten, fyll i PDF-blanketten och skicka den jämte bilagor till adressen ulkoilma@hel.fi. Du kan kontrollera de bilagor som behövs för ansökan på förteckningen över bilagor.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3830,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Fyll i ansökan för att hyra ett terrassområde",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till stadens e-tjänster",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3831,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fyll i ansökan för att hyra ett terrassområde (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Förteckningen över bilagor (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5349,
@@ -35420,7 +35653,7 @@
                     "id": 3833,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee hakemus parklet-alueen vuokraamiseksi",
+                    "name": "Tulostettava lomake",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -35449,10 +35682,164 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5349,
+            "exact_descriptions": [
+                7716
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Make an application to lease a parklet spot",
+            "name_synonyms": "parklet spot",
+            "description": "Submit an application to lease a parklet spot by using an electronic form and submitting it via the City's online services. Alternatively, you can also use a PDF form. You can identify yourself through suomi.fi in order to log in to the service, either with mobile ID or online banking credentials.",
+            "information": "If you are unable to use the electronic form, fill in the PDF form and send it together with the necessary appendices via email to ulkoilma@hel.fi. You can check which appendices are required for an outdoor seating application from the list of appendices.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3832,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Make an application to lease a parklet spot",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the City’s online services",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3833,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5349,
+            "exact_descriptions": [
+                7716
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Fyll i ansökan för att hyra ett parklet-område",
+            "name_synonyms": "parklet-område, ansökan för ett parklet-område",
+            "description": "Ansök om hyrning av ett parklet-område genom att fylla i den elektroniska blanketten i stadens e-tjänster eller genom att fylla i en separat blankett. Du kan identifiera dig i tjänsten med Suomi.fi-autentisering med antingen mobilcertifikat eller nätbankskoder.",
+            "information": "Om du inte kan fylla i den elektroniska blanketten, fyll i PDF-blanketten och skicka den jämte bilagor till adressen ulkoilma@hel.fi. Du kan kontrollera de bilagor som behövs för ansökan på förteckningen över bilagor.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3832,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Fyll i ansökan för att hyra ett parklet-område",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till stadens e-tjänster",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3833,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fyll i ansökan för att hyra ett parklet-område (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Förteckningen över bilagor (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5347,
@@ -35488,7 +35875,6 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Tee hakemus terassialueen vuokraamiseksi",
-                    "prerequisites": "Tee hakemus terassi- ja parklet -alueen vuokraamiseksi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": true,
@@ -35513,7 +35899,7 @@
                     "id": 3829,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee hakemus terassialueen vuokraamiseksi",
+                    "name": "Tulostettava lomake",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -35536,10 +35922,164 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5347,
+            "exact_descriptions": [
+                4889
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Submit an application to lease an area for outdoor seating",
+            "name_synonyms": "terrace, terrace application",
+            "description": "Submit an application to lease an area for outdoor seating by using an electronic form and submitting it via the City's online services. Alternatively, you can use a PDF form. You can identify yourself through suomi.fi in order to log in to the service, either with mobile ID or online banking credentials.",
+            "information": "If you are unable to use the electronic form, fill in the PDF form and send it together with the necessary appendices via email to ulkoilma@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3828,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Make an application to lease land for outdoor seating spot",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the City’s online services",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3829,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fill in the form to lease land for outdoor seating (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5347,
+            "exact_descriptions": [
+                4889
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Fyll i ansökan för att hyra ett terrassområde",
+            "name_synonyms": "terassområde, ansökan för ett terassområde",
+            "description": "Ansök om hyrning av ett terrassområde genom att fylla i den elektroniska blanketten i stadens e-tjänster eller genom att fylla i en separat blankett. Du kan identifiera dig i tjänsten med Suomi.fi-autentisering med antingen mobilcertifikat eller nätbankskoder.",
+            "information": "Om du inte kan fylla i den elektroniska blanketten, fyll i PDF-blanketten och skicka den jämte bilagor till adressen ulkoilma@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3828,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Fyll i ansökan för att hyra ett terrass-område",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till stadens e-tjänster",
+                            "url": "https:\/\/lomake.hel.fi\/terassi-hakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3829,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fyll i ansökan för att hyra ett terrassområde (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5048,
@@ -36244,30 +36784,6 @@
                             "type": "FORM",
                             "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
                             "url": "https:\/\/www.hel.fi\/shttps:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3908,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
                         }
                     ],
                     "availabilities": [
@@ -38524,7 +39040,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Tilaa johtoselvitys",
+                            "title": "Siirry asiointipalveluun",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0g9My9QuyHRUBGNbhhg!!\/"
                         }
                     ],
