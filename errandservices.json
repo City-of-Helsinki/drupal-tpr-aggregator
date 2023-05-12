@@ -25030,8 +25030,8 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/ymkmelu",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi",
                             "file_format": "HTML"
                         },
                         {
@@ -25045,37 +25045,6 @@
                         {
                             "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
                         }
-                    ]
-                },
-                {
-                    "id": 1768,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Meluilmoitus, tulostettava lomake",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Meluilmoituslomake, PDF",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/YSL60.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Meluilmoituslomake, Word",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/YSL60.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -25141,8 +25110,8 @@
                         },
                         {
                             "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/ymkmelu",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/lupapiste.fi",
                             "file_format": "HTML"
                         }
                     ],
@@ -25150,37 +25119,6 @@
                         {
                             "availability_string": "Service available every day around the clock"
                         }
-                    ]
-                },
-                {
-                    "id": 1768,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Notification of noise, printable forms",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Notification of noise (in Finnish) Word",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/YSL60.doc",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Notification of noise (in Finnish) PDF",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/YSL60.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -25246,8 +25184,8 @@
                         },
                         {
                             "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/ymkmelu",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi",
                             "file_format": "HTML"
                         }
                     ],
@@ -25255,37 +25193,6 @@
                         {
                             "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
                         }
-                    ]
-                },
-                {
-                    "id": 1768,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Bulleranmälan, blanketter för utskrift",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Bulleranmälan (på finska) Word",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/YSL60.doc",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Bulleranmälan (på finska) PDF",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/YSL60.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -42420,6 +42327,7 @@
                 3033,
                 3039,
                 6181,
+                7666,
                 9645,
                 9651
             ],
