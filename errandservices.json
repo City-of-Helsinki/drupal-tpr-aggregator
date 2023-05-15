@@ -37097,7 +37097,7 @@
             "service_id": 10891,
             "type": "PERMISSION",
             "name": "Tee meluilmoitus",
-            "description": "Tee meluilmoitus Lupapiste-palvelussa",
+            "description": "Tee meluilmoitus Lupapiste-palvelussa. Jos meluilmoitus sisältää salassa pidettäviä asiakirjoja, toimita meluilmoitus word-lomakkeella kaupungin kirjaamoon.",
             "processing_time": "Ilmoituksen käsittely kestää tavallisesti vähintään 2-4 viikkoa.",
             "costs": "Päätöksestä peritään voimassa olevan taksan mukainen maksu.",
             "provided_languages": [
@@ -37125,6 +37125,16 @@
                     "title": "Helsingin kaupungin ympäristönsuojelumääräykset, 4. luku 21 §",
                     "url": "https:\/\/www.hel.fi\/static\/ymk\/esitteet\/ymparistonsuojelumaaraykset.pdf",
                     "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Lähetä kaupungille sähköpostia suojatusti",
+                    "url": "https:\/\/securemail.hel.fi\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kirjaamon yhteystiedot",
+                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/ota-yhteytta-helsingin-kaupunkiin\/kirjaamo"
                 }
             ],
             "channels": [
@@ -37132,8 +37142,7 @@
                     "id": 1767,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Meluilmoitus, sähköinen asiointi",
-                    "prerequisites": "Käyttö edellyttää kirjautumista joko henkilökohtaisilla pankkitunnuksilla, mobiilivarmenteella tai varmennekortilla.",
+                    "name": "Meluilmoitus",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
@@ -37142,7 +37151,7 @@
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
+                    "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
@@ -37153,12 +37162,6 @@
                             "type": "FORM",
                             "title": "Siirry Lupapiste-palveluun",
                             "url": "https:\/\/lupapiste.fi",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kaupunkiympäristön toimialalle",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/Anna+palautetta\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -37216,7 +37219,7 @@
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
+                    "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
@@ -37290,7 +37293,7 @@
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
+                    "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
