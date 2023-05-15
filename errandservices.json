@@ -25017,238 +25017,6 @@
         }
     },
     {
-        "id": 2858,
-        "fi": {
-            "id": 2858,
-            "exact_descriptions": [
-                2762
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Meluilmoitus",
-            "description": "Palvelun avulla voit tehdä ilmoituksen tilapäistä melua tai tärinää aiheuttavasta toimenpiteestä tai tapahtumasta, kuten rakentamisesta tai yleisötilaisuudesta. Ilmoitus on ympäristönsuojelulain mukaan tehtävä viimeistään 30 vuorokautta ennen toiminnan aloittamista.",
-            "process_description": "1. Ilmoitus ohjataan kaupungin kirjaamoon, josta se siirretään ympäristönsuojeluyksikölle käsiteltäväksi\n2. Tarvittaessa yhteyshenkilöltä pyydetään lisätietoja\n3. Helsingin kaupungin ympäristönsuojeluviranomainen tekee päätöksen tyypillisesti 2-4 viikon kuluessa ilmoituksen jättämisestä\n4. Päätös lähetetään ilmoituksen laatijalle ja siitä peritään voimassa olevan taksan mukainen maksu.",
-            "processing_time": "Ilmoituksen käsittely kestää tavallisesti 2-4 viikkoa.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoa melun ja tärinän torjunnasta",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/ymparistonsuojelu\/ymparistonsuojelumaaraykset\/poly\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsingin kaupungin ympäristönsuojelumääräykset, 4. luku 21 §",
-                    "url": "https:\/\/www.hel.fi\/static\/ymk\/esitteet\/ymparistonsuojelumaaraykset.pdf",
-                    "file_format": "PDF"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1767,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Meluilmoitus, sähköinen asiointi",
-                    "prerequisites": "Käyttö edellyttää kirjautumista joko henkilökohtaisilla pankkitunnuksilla, mobiilivarmenteella tai varmennekortilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "authorization_code": "Meluilmoituksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry Lupapiste-palveluun",
-                            "url": "https:\/\/lupapiste.fi",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kaupunkiympäristön toimialalle",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/Anna+palautetta\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 2858,
-            "exact_descriptions": [
-                2762
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Notification of noise, e-service",
-            "description": "An e-service application, that enables you to submit a notification of temporary noise or vibration caused by measures or events, such as construction projects or public events, when there is reason to expect that the noise or vibration will be especially disturbing.",
-            "process_description": "An e-service application, that enables you to submit a notification of temporary noise or vibration caused by measures or events, such as construction projects or public events, when there is reason to expect that the noise or vibration will be especially disturbing.\n\nThe notification must be submitted no later than 30 days prior to the initiation of the activities.\n\n1. The process begins when the City of Helsinki Environment Services receives the notification\n2. If necessary, an inspection visit will be made to the site. The purpose of the inspection is to ensure that the activities comply with the information indicated in the notification\n3. The Environment Services will make a decision based on the notification\n4. The decision will be mailed to the party by whom the notification was submitted and a fee will be charged according to the charges valid at the time.",
-            "processing_time": "The normal processing time of notifications is 2-4 weeks.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "More about prevention of temporary noise and vibration",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/housing\/environmental\/environmental-regulations\/noise-vibration\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1767,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Notification of noise, e-service",
-                    "prerequisites": "To be able to use the service, please sign in using bank codes, mobile certificate or certificate card.",
-                    "availability_summary": "Service available every day around the clock",
-                    "authorization_code": "Meluilmoituksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Urban Environment Division",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/en\/feedback\/feedback\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Go to Lupapiste",
-                            "url": "https:\/\/lupapiste.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 2858,
-            "exact_descriptions": [
-                2762
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Bulleranmälan, e-tjänst",
-            "description": "En e-tjänst där du kan lämna anmälan om åtgärder eller händelser som orsakar tillfälligt buller eller skakningar, såsom byggande eller offentliga tillställningar, om bullret eller skakningarna kan antas bli speciellt störande.",
-            "process_description": "En e-tjänst där du kan lämna anmälan om åtgärder eller händelser som orsakar tillfälligt buller eller skakningar, såsom byggande eller offentliga tillställningar, om bullret eller skakningarna kan antas bli speciellt störande.\n\nAnmälan ska lämnas senast 30 vardagar före verksamheten inleds.\n\n1. Helsingfors stads miljötjänster tar emot anmälan och tar den för handläggning\n2. Vid behov görs ett kontrollbesök till objektet. Med kontrollen säkerställs att verksamheten stämmer överens med anmälan\n3. Miljötjänster fattar ett beslut till följd av anmälan\n4. Beslutet postas till den som har gjort anmälan och en avgift enligt den gällande taxan tas ut för beslutet.",
-            "processing_time": "Handläggningen av anmälan tar vanligen 2¿4 veckor.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Mera om tillfälligt buller och vibrationer",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/boende-och-miljo\/miljoskydd\/miljoskydd\/buller-vibrationer\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1767,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Bulleranmälan, e-tjänst",
-                    "prerequisites": "För att använda tjänsten bör du logga in till tjänsten med personliga bankkoder, mobilcertifikat eller certifikatkort.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Meluilmoituksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till stadsmiljösektorn",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Gå till Lupapiste",
-                            "url": "https:\/\/lupapiste.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 4814,
         "fi": {
             "id": 4814,
@@ -37314,6 +37082,238 @@
                     "links": [
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 2858,
+        "fi": {
+            "id": 2858,
+            "exact_descriptions": [
+                2762
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Tee meluilmoitus",
+            "description": "Tee meluilmoitus Lupapiste-palvelussa",
+            "processing_time": "Ilmoituksen käsittely kestää tavallisesti vähintään 2-4 viikkoa.",
+            "costs": "Päätöksestä peritään voimassa olevan taksan mukainen maksu.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoa melun ja tärinän torjunnasta",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/ymparistonsuojelu\/ymparistonsuojelumaaraykset\/poly\/",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin kaupungin ympäristönsuojelumääräykset, 4. luku 21 §",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/esitteet\/ymparistonsuojelumaaraykset.pdf",
+                    "file_format": "PDF"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1767,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Meluilmoitus, sähköinen asiointi",
+                    "prerequisites": "Käyttö edellyttää kirjautumista joko henkilökohtaisilla pankkitunnuksilla, mobiilivarmenteella tai varmennekortilla.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "authorization_code": "Meluilmoituksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute kaupunkiympäristön toimialalle",
+                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/Anna+palautetta\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 2858,
+            "exact_descriptions": [
+                2762
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Notification of noise, e-service",
+            "description": "An e-service application, that enables you to submit a notification of temporary noise or vibration caused by measures or events, such as construction projects or public events, when there is reason to expect that the noise or vibration will be especially disturbing.",
+            "process_description": "An e-service application, that enables you to submit a notification of temporary noise or vibration caused by measures or events, such as construction projects or public events, when there is reason to expect that the noise or vibration will be especially disturbing.\n\nThe notification must be submitted no later than 30 days prior to the initiation of the activities.\n\n1. The process begins when the City of Helsinki Environment Services receives the notification\n2. If necessary, an inspection visit will be made to the site. The purpose of the inspection is to ensure that the activities comply with the information indicated in the notification\n3. The Environment Services will make a decision based on the notification\n4. The decision will be mailed to the party by whom the notification was submitted and a fee will be charged according to the charges valid at the time.",
+            "processing_time": "The normal processing time of notifications is 2-4 weeks.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "More about prevention of temporary noise and vibration",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/housing\/environmental\/environmental-regulations\/noise-vibration\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1767,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Notification of noise, e-service",
+                    "prerequisites": "To be able to use the service, please sign in using bank codes, mobile certificate or certificate card.",
+                    "availability_summary": "Service available every day around the clock",
+                    "authorization_code": "Meluilmoituksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Feedback to the Urban Environment Division",
+                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/en\/feedback\/feedback\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/lupapiste.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 2858,
+            "exact_descriptions": [
+                2762
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Bulleranmälan, e-tjänst",
+            "description": "En e-tjänst där du kan lämna anmälan om åtgärder eller händelser som orsakar tillfälligt buller eller skakningar, såsom byggande eller offentliga tillställningar, om bullret eller skakningarna kan antas bli speciellt störande.",
+            "process_description": "En e-tjänst där du kan lämna anmälan om åtgärder eller händelser som orsakar tillfälligt buller eller skakningar, såsom byggande eller offentliga tillställningar, om bullret eller skakningarna kan antas bli speciellt störande.\n\nAnmälan ska lämnas senast 30 vardagar före verksamheten inleds.\n\n1. Helsingfors stads miljötjänster tar emot anmälan och tar den för handläggning\n2. Vid behov görs ett kontrollbesök till objektet. Med kontrollen säkerställs att verksamheten stämmer överens med anmälan\n3. Miljötjänster fattar ett beslut till följd av anmälan\n4. Beslutet postas till den som har gjort anmälan och en avgift enligt den gällande taxan tas ut för beslutet.",
+            "processing_time": "Handläggningen av anmälan tar vanligen 2¿4 veckor.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Mera om tillfälligt buller och vibrationer",
+                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/boende-och-miljo\/miljoskydd\/miljoskydd\/buller-vibrationer\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1767,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Bulleranmälan, e-tjänst",
+                    "prerequisites": "För att använda tjänsten bör du logga in till tjänsten med personliga bankkoder, mobilcertifikat eller certifikatkort.",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "authorization_code": "Meluilmoituksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Respons till stadsmiljösektorn",
+                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/Respons\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
                     ]
                 }
             ]
