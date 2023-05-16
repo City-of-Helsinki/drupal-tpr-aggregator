@@ -27578,7 +27578,7 @@
                     "id": 3913,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vammaisneuvonta",
+                    "name": "Vammaisneuvonnnan puhelinpalvelu suomeksi",
                     "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
                     "phone": "09 310 32889",
                     "call_charge_info": "maksuton",
@@ -27599,6 +27599,31 @@
                         },
                         {
                             "availability_string": "Avoinna ti, to 12-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3917,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vammaisneuvonnan puhelinpalvelu ruotsiksi",
+                    "availability_summary": "Avoinna ke 09-11",
+                    "phone": "09 310 35154",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ke 09-11"
                         }
                     ]
                 }
@@ -36662,7 +36687,7 @@
             ],
             "service_id": 10488,
             "type": "APPLICATION",
-            "name": "Tee ilmoitus pilaantuneet maaperän puhdistamisesta",
+            "name": "Tee ilmoitus pilaantuneen maan puhdistamisesta",
             "description": "Lähetä ilmoitus liitteineen Helsingin kaupungin kirjaamoon sähköpostitse osoitteeseen helsinki.kirjaamo@hel.fi tai postitse osoitteeseen PL 10, 00099 Helsingin kaupunki.",
             "provided_languages": [
                 "en",
@@ -36685,7 +36710,7 @@
                     "id": 3903,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee ilmoitus pilaantuneen maaperän puhdistamisesta",
+                    "name": "Tee ilmoitus pilaantuneen maan puhdistamisesta",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36698,12 +36723,12 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (pdf)",
+                            "title": "Ilmoitus pilaantuneen maan puhdistamisesta (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.pdf"
                         },
                         {
                             "type": "FORM",
-                            "title": "Ilmoitus pilaantuneen maaperän puhdistamisesta (docx)",
+                            "title": "Ilmoitus pilaantuneen maan puhdistamisesta (docx)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
                         }
                     ],
@@ -42406,7 +42431,7 @@
                     "id": 3868,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vammaisneuvonnan puhelinpalvelu",
+                    "name": "Vammaisneuvonnan puhelinpalvelu suomeksi",
                     "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
                     "phone": "09 310 32889",
                     "call_charge_info": "maksuton",
@@ -42500,6 +42525,31 @@
                     "links": [
                     ],
                     "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3914,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vammaisneuvonnan puhelinpalvelu ruotsiksi",
+                    "availability_summary": "Avoinna ke 09-11",
+                    "phone": "09 310 35154",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ke 09-11"
+                        }
                     ]
                 }
             ]
@@ -42643,7 +42693,7 @@
                     "id": 3900,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vammaisneuvonnan puhelinpalvelu",
+                    "name": "Vammaisneuvonnan puhelinpalvelu suomeksi",
                     "prerequisites": "Vammaisneuvonnan puhelinpalvelu",
                     "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
                     "phone": "09 310 32889",
@@ -42665,6 +42715,31 @@
                         },
                         {
                             "availability_string": "Avoinna ti, to 12-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3915,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vammaisneuvonnan puhelinpalvelu ruotsiksi",
+                    "availability_summary": "Avoinna ke 09-11",
+                    "phone": "09 310 35154",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ke 09-11"
                         }
                     ]
                 }
