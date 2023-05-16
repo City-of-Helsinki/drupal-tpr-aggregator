@@ -27489,6 +27489,98 @@
         ]
     },
     {
+        "id": 5393,
+        "fi": {
+            "id": 5393,
+            "exact_descriptions": [
+                7616
+            ],
+            "service_id": 10818,
+            "type": "APPLICATION",
+            "name": "Omaishoidon tuen hakeminen",
+            "description": "Omaishoidon tuen hakeminen",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3912,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hakemus omaishoidon tuesta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Hakemus omaishoidon tuesta yli 18-vuotiaat (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/omaishoito\/303-305_hakemus_omaishoidontuki.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Hakemus omaishoidon tuesta alle 18-vuotiaat (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/omaishoito\/303-306_hakemus_omaishoidon_tuesta_alle18.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3913,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vammaisneuvonta",
+                    "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
+                    "phone": "09 310 32889",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-11"
+                        },
+                        {
+                            "availability_string": "Avoinna ti, to 12-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5058,
         "fi": {
             "id": 5058,
@@ -37116,15 +37208,8 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Lisätietoa melun ja tärinän torjunnasta",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/asuminen-ja-ymparisto\/ymparistonsuojelu\/ymparistonsuojelumaaraykset\/poly\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helsingin kaupungin ympäristönsuojelumääräykset, 4. luku 21 §",
-                    "url": "https:\/\/www.hel.fi\/static\/ymk\/esitteet\/ymparistonsuojelumaaraykset.pdf",
-                    "file_format": "PDF"
+                    "title": "Kirjaamon yhteystiedot",
+                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/ota-yhteytta-helsingin-kaupunkiin\/kirjaamo"
                 },
                 {
                     "type": "INTERNET",
@@ -37133,14 +37218,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Kirjaamon yhteystiedot",
-                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/ota-yhteytta-helsingin-kaupunkiin\/kirjaamo"
-                },
-                {
-                    "type": "INTERNET",
                     "title": "Lomake salassa pidettävää meluilmoitusta varten (doc, ei saavutettava)",
-                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.pdf",
-                    "file_format": "WORD"
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
                 }
             ],
             "channels": [
@@ -37149,7 +37228,6 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Meluilmoitus",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
                         "en",
@@ -37172,9 +37250,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
                     ]
                 },
                 {
@@ -37195,7 +37270,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Lomake salassa pidettävää meluilmoitusta varten (doc, ei saavutettava)",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
@@ -37241,7 +37317,6 @@
                     "type_string": "E-services",
                     "name": "Notification of noise, e-service",
                     "prerequisites": "To be able to use the service, please sign in using bank codes, mobile certificate or certificate card.",
-                    "availability_summary": "Service available every day around the clock",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
                         "en",
@@ -37270,9 +37345,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
                     ]
                 }
             ]
@@ -37315,7 +37387,6 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Bulleranmälan, e-tjänst",
                     "prerequisites": "För att använda tjänsten bör du logga in till tjänsten med personliga bankkoder, mobilcertifikat eller certifikatkort.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
                         "en",
@@ -37344,9 +37415,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
                     ]
                 }
             ]
@@ -42488,7 +42556,8 @@
                 6181,
                 7666,
                 9645,
-                9651
+                9651,
+                9658
             ],
             "service_id": 10821,
             "type": "APPLICATION",
