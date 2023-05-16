@@ -37135,6 +37135,12 @@
                     "type": "INTERNET",
                     "title": "Kirjaamon yhteystiedot",
                     "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/ota-yhteytta-helsingin-kaupunkiin\/kirjaamo"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Lomake salassa pidettävää meluilmoitusta varten (doc, ei saavutettava)",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.pdf",
+                    "file_format": "WORD"
                 }
             ],
             "channels": [
@@ -37169,6 +37175,30 @@
                         {
                             "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
                         }
+                    ]
+                },
+                {
+                    "id": 3911,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Meluilmoitus salassapidettävällä aineistolla",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lomake salassa pidettävää meluilmoitusta varten (doc, ei saavutettava)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
