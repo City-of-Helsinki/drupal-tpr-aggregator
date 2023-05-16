@@ -37243,7 +37243,7 @@
             "service_id": 10891,
             "type": "PERMISSION",
             "name": "Tee meluilmoitus",
-            "description": "Tee meluilmoitus Lupapiste-palvelussa. Jos meluilmoitus sisältää salassa pidettäviä asiakirjoja, toimita meluilmoitus word-lomakkeella kaupungin kirjaamoon.",
+            "description": "Tee meluilmoitus Lupapiste-palvelussa. Jos meluilmoitus sisältää salassa pidettäviä asiakirjoja, toimita meluilmoitus Word-lomakkeella kaupungin kirjaamoon.",
             "processing_time": "Ilmoituksen käsittely kestää tavallisesti vähintään 2-4 viikkoa.",
             "costs": "Päätöksestä peritään voimassa olevan taksan mukainen maksu.",
             "provided_languages": [
@@ -37254,8 +37254,8 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
+                "ASSOCIATIONS",
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -37281,10 +37281,9 @@
                     "id": 1767,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Meluilmoitus",
+                    "name": "Tee meluilmoitus Lupapiste-palvelussa",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
-                        "en",
                         "fi",
                         "sv"
                     ],
@@ -37293,7 +37292,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
@@ -37310,7 +37309,7 @@
                     "id": 3911,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Meluilmoitus salassapidettävällä aineistolla",
+                    "name": "Tee salassa pidettävä meluilmoitus Word-lomakkeella",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37318,7 +37317,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
@@ -37352,8 +37351,8 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
+                "ASSOCIATIONS",
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -37373,7 +37372,6 @@
                     "prerequisites": "To be able to use the service, please sign in using bank codes, mobile certificate or certificate card.",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
-                        "en",
                         "fi",
                         "sv"
                     ],
@@ -37382,7 +37380,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
@@ -37422,8 +37420,8 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
+                "ASSOCIATIONS",
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -37443,7 +37441,6 @@
                     "prerequisites": "För att använda tjänsten bör du logga in till tjänsten med personliga bankkoder, mobilcertifikat eller certifikatkort.",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
-                        "en",
                         "fi",
                         "sv"
                     ],
@@ -37452,7 +37449,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
