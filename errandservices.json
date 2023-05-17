@@ -8965,6 +8965,30 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3925,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Ansök om korttidsarrende för en företagstomt",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om korttidsarrende för affärs-, kontors- och industritomt (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Hakemuslomake_yritystontin_vuokraus_rakennuslupaa_varten.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -8992,10 +9016,147 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3926,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for short-term lease of a residential plot",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for short-term lease of a residential plot (pdf, 2.6 MB)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Application for short-term lease of a residential plot (docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3927,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for short-term lease of commercial plot",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for short-term lease of commercial plot (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Hakemuslomake_yritystontin_vuokraus_rakennuslupaa_varten.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 5364,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "APPLICATION",
+            "name": "Ansök om korttidsarrende för en tomt",
+            "description": "Ansök om korttidsarrende för tomten innan du ansöker om bygglov. Handläggningstiden för arrendebeslut är cirka fyra veckor.\n\nBifoga till ansökan de utredningar och handlingar som reserveringsbeslutet för tomten eventuellt förutsätter.\n\nObservera att man i stället för korttidsarrende ansöker om fullmakt för flervåningshustomter i Fiskehamnen och Mellungsby. \n\nSkicka ansökan om korttidsarrende för bostadstomt per e-post till tonttihakemukset@hel.fi.\n\nSkicka ansökan om korttidsarrende för affärs-, kontors- och industritomt per e-post till yritystonttitiedustelut@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3876,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om korttidsarrende för bostadstomt",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om korttidsarrende för bostadstomt (pdf, 2,6 Mt, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om korttidsarrende för bostadstomt (docx, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3924,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om korttidsarrende för en bostadstomt",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om korttidsarrende för bostadstomt (pdf, 2,6 Mt, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om korttidsarrende för bostadstomt (docx, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5367,
@@ -9915,6 +10076,30 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3928,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a power of attorney and a long-term lease",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for a power of attorney and a long-term lease (docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -9941,6 +10126,30 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3929,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om fullmakt för bygglov samt långtidsarrendeavtal",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan för fullmakt och långtidsarrendeavtal (docx, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -14078,23 +14287,19 @@
         ]
     },
     {
-        "id": 5369,
+        "id": 5396,
         "fi": {
-            "id": 5369,
+            "id": 5396,
             "exact_descriptions": [
                 9631
             ],
             "service_id": 10101,
             "type": "NOTICE",
-            "name": "Ilmoita vuokraoikeuden siirrosta",
-            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi \n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta. \n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokravuokralaskutus@hel.fi.",
+            "name": "Ilmoita valtion maksamasta korkotuesta",
+            "description": "Mikäli vuokrasopimus sisältää ehdon, jonka mukaan vuokralaisen tulee ilmoittaa meille valtion maksamasta korkotuesta, toimita meille oheinen lomake liitteineen. \n \nLiitä mukaan seuraavat asiakirjat:\n- jäljennös asumisen rahoitus- ja kehittämiskeskuksen (ARA) korkotukipäätöksestä\n- jäljennös pankin korkotukilainaa koskevasta todistuksesta\n\nLähetä lomake sähköpostitse mvj@hel.fi.\n\nTarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki, korkotuki-ilmoitus\/Toke\nMaaomaisuuden kehittäminen ja tontit\nPL 58213\n00099 HELSINGIN KAUPUNKI\n",
             "provided_languages": [
-                "en",
-                "fi",
-                "sv"
             ],
             "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
             ],
@@ -14104,7 +14309,60 @@
             ],
             "channels": [
                 {
-                    "id": 3887,
+                    "id": 3921,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Ilmoita valtion maksamasta korkotuesta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoita valtion maksamasta korkotuesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Korkotuki-ilmoitus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5398,
+        "fi": {
+            "id": 5398,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Ilmoita vuokraoikeuden siirrosta",
+            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi \n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta. \n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokravuokralaskutus@hel.fi.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3919,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Hae siirron kirjaamista Maanmittauslaitokselta",
@@ -14130,58 +14388,10 @@
                 }
             ]
         },
-        "en": {
-            "id": 5369,
-            "exact_descriptions": [
-                9631
-            ],
-            "service_id": 10101,
-            "type": "NOTICE",
-            "name": "Notification on transfer of leasehold",
-            "description": "When a land lease agreement for a plot owned by the City of Helsinki includes a clause according to which the tenant has the right to transfer the leasehold to a third party without consulting the landlord, the tenant may transfer the leasehold and the buildings located on the plot in their entirety or a part thereof to a third party without the consent of the city.\n\nAsk for more information:\n\n- Residential plots: info@hel.fi\n- Commercial plots: yritystonttitiedustelut@hel.fi \n- Detached houses: omakotitalotonttitiedustelut@hel.fi\n\nAfter the transfer, the new tenant must apply for registration of the leasehold from the National Land Survey of Finland. \n\nThe new tenant must also, without delay after the transfer, submit to the city a copy of the deed of transfer or other document that serves as the basis for the transfer, as well as submit the new billing address for the lease in writing. Send the copies and the new address to maanvuokravuokralaskutus@hel.fi.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-            ]
-        },
-        "sv": {
-            "id": 5369,
-            "exact_descriptions": [
-                9631
-            ],
-            "service_id": 10101,
-            "type": "NOTICE",
-            "name": "Meddela om överföring av arrenderätten",
-            "description": "När markarrendeavtalet för en tomt som ägs av Helsingfors stad innehåller ett villkor enligt vilket arrendatorn har rätt att utan att höra arrendegivaren överföra arrenderätten till någon annan, kan arrendatorn helt eller delvis överföra sin arrenderätt och byggnaderna på tomten till någon annan utan stadens samtycke.\n\nFråga om mer information:\n\n-\tBostadstomter: asuntotonttitiedustelut@hel.fi\n-\tFöretagstomter: yritystonttitiedustelut@hel.fi \n-\tEgnahemshustomter: omakotitalotonttitiedustelut@hel.fi\n\nEfter överföringen ska den nya arrendatorn ansöka om inskrivning av överföringen av arrenderätten hos Lantmäteriverket. \n\nDen nya arrendatorn ska också utan dröjsmål efter överföringen skicka staden en kopia av överlåtelsehandlingen eller av någon annan handling som utgör grunden till förvärvet samt skriftligen meddela en ny faktureringsadress för arrendet. Skicka kopiorna och meddela den nya adressen till maanvuokravuokralaskutus@hel.fi.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-            ]
-        }
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4225,
@@ -34008,8 +34218,53 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5343,
+            "exact_descriptions": [
+                9620
+            ],
+            "service_id": 10406,
+            "type": "ADVICE",
+            "name": "Rehabiliteringshandledare för social rehabilitering",
+            "description": "Vi erbjuder arbetslösa över 30 år effektiverad individuell service och gruppfunktioner som främjar rehabilitering. Vårt syfte är att stöda ditt välbefinnande, din vardag och din funktionsförmåga.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3824,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "rehabiliteringshandledarens telefonnummer",
+                    "phone": "09 310 34821",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2226,
