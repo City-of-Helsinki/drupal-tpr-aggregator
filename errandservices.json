@@ -2901,8 +2901,96 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5350,
+            "exact_descriptions": [
+                9619
+            ],
+            "service_id": 10406,
+            "type": "ADVICE",
+            "name": "Öppen arbetsverksamhets kontaktuppgifter",
+            "description": "Öppen arbetsverksamhets kontaktuppgifter",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3834,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Kontaktuppgifter till rehabiliteringshandledaren för stödgruppen för hemvård",
+                    "phone": "09 3104 4025",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3835,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Kontaktuppgifter till Natur- och miljögruppernas rehabiliteringshandledare",
+                    "phone": "09 3103 2597",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3836,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Kontaktuppgifter till byggnads- och fastighetsgruppernas handledare",
+                    "phone": "09 3104 6040 ",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4422,
@@ -5797,6 +5885,63 @@
                             "title": "Leikkialueen käyttö ja vuokraus (PDF)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/paivakotien-lisapihat\/leikkialuehakemuslomake.pdf",
                             "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 4351,
+        "fi": {
+            "id": 4351,
+            "exact_descriptions": [
+                4891
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Hae lupaa poiketa jätevesien käsittelyvaatimuksista",
+            "description": "Hae lupaa jätevesien käsittelyvaatimuksista poikkeamiselle kaupungin ympäristöpalveluilta sähköisesti Lupapisteessä. Lupa poiketa voidaan myöntää korkeintaan 5 vuodeksi kerrallaan.",
+            "information": "Liitä poikkeamishakemuksen seuraavat liitteet: \n\n - Liite 1: Asemapiirros (esimerkiksi mittakaavassa 1:500), jossa on rakennusten, jäteveden käsittelyjärjestelmien sijainnit sekä niiden etäisyydet ojiin, vesistöihin, talousvesikaivoihin ja rajoihin\n\n - Liite 2: Jätevesijärjestelmän kuvaus\n\n - Liite 3A: Jätevesien vähäisyys\n\n - Liite 3B: Liittäminen viemäriverkostoon\n\n - Liite 3C: Kiinteistön haltijan korkea ikä ja muut elämäntilanteet\n\n - Liite 3D: Kiinteistön haltijan pitkäaikainen työttömyys tai sairaus taikka muu näihin rinnastuva sosiaalinen suorituseste\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3935,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae lupaa poiketa jätevesien käsittelyvaatimuksista",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
                         }
                     ],
                     "availabilities": [
@@ -10154,6 +10299,94 @@
         }
     },
     {
+        "id": 4045,
+        "fi": {
+            "id": 4045,
+            "exact_descriptions": [
+                4884
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Hae vapautusta vesijohtoon ja viemäriverkkoon liittämisestä",
+            "description": "Hae vapautusta kaupungin ympäristöpalveluilta sähköisesti Lupapisteessä. Lisätiedot: ympäristötarkastaja Sini-Pilvi Saarnio sini-pilvi.saarnio@hel.fi tai p. 09 310 32019",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3933,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae vapautusta vesi- ja viemäriverkkoon liittymisestä",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 4045,
+            "exact_descriptions": [
+                4884
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Ansökan om befrielse från anslutning till vattentjänstverkets vattenledning",
+            "description": "Man kan ansöka om befrielse från anslutning till vatten- och avloppsnätet.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Bli kund hos vattenförsörjningen",
+                    "url": "https:\/\/www.hsy.fi\/sv\/hrm\/kundtjanst\/"
+                }
+            ],
+            "channels": [
+            ]
+        }
+    },
+    {
         "id": 5346,
         "fi": {
             "id": 5346,
@@ -10748,79 +10981,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 4053,
-        "fi": {
-            "id": 4053,
-            "exact_descriptions": [
-            ],
-            "service_id": 10133,
-            "type": "APPLICATION",
-            "name": "Hakemus laitostoiminnan hyväksymiseksi",
-            "description": "Eläinperäisiä elintarvikkeita käsittelevän tai varastoivan laitoksen toiminnan aloittamisesta tulee tehdä hakemus.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Hakemus laitostoiminnan hyväksymiseksi  (Word)",
-                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL13Laitos.doc"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Hakemus laitostoiminnan hyväksymiseksi (PDF)",
-                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL13Laitos.pdf"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2445,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hakemus laitostoiminnan hyväksymiseksi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Hakemus laitostoiminnan hyväksymiseksi (PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL14Laitos.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Hakemus laitostoiminnan hyväksymiseksi (Word)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL14Laitos.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 562,
@@ -17114,99 +17274,6 @@
         }
     },
     {
-        "id": 4351,
-        "fi": {
-            "id": 4351,
-            "exact_descriptions": [
-                4891
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Jätevesi, talousjätevesien käsittelyvaatimuksista poikkeaminen",
-            "name_synonyms": "jätevesiasetuksesta poikkeaminen, jäteveden puhdistustehovaatimuksista poikkeaminen",
-            "description": "Kunnan ympäristönsuojeluviranomainen voi hakemuksesta myöntää luvan poiketa jätevesien perustason puhdistusvaatimuksista enintään viiden vuoden määräajaksi kerrallaan",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoa ympäristöhallinnon sivuilta",
-                    "url": "https:\/\/www.ymparisto.fi\/fi-FI\/Rakentaminen\/Rakennushanke\/Talotekniset_jarjestelmat_LVI\/Kiinteiston_jatevesien_kasittely"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2720,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Jätevesi, talousjätevesien käsittelyvaatimuksista poikkeaminen",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "LIITE 2: Jätevesijärjestelmän kuvaus",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/poikkeamiskaavake-FI.docx",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "LIITE 3A: Jätevesien vähäisyys",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/liite3A-jatevesien-vahaisyys-FI.docx",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "LIITE 3B: Liittäminen viemäriverkostoon",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/liite3B-liitt%C3%A4minen-viemariverkkoon-FI.docx",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "LIITE 3C: Kiinteistön haltijan korkea ikä ja muut elämäntilanteet",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/liite3C-elamantilanteet-FI.docx",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "LIITE 3D: Kiinteistön haltijan pitkäaikainen työttömyys tai sairaus taikka muu näihin rinnastuva sosiaalinen suorituseste",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/liite3D-varallisuus-FI.docx",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Poikkeamishakemus jätevesien käsittelystä",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/poikkeamiskaavake-FI.docx",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 3159,
         "fi": {
             "id": 3159,
@@ -21554,8 +21621,56 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5342,
+            "exact_descriptions": [
+                2915
+            ],
+            "service_id": 10714,
+            "type": "ADVICE",
+            "name": "Telefon till rehabiliteringshandledare (fångarbete)",
+            "description": "Telefon till rehabiliteringshandledare (fångarbete)",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3823,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefon till rehabiliteringshandledare (fångarbete)",
+                    "availability_summary": "Öppet mån-tor 08:15-16",
+                    "phone": "09 3104 6040",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tor 08:15-16"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5293,
@@ -35501,7 +35616,7 @@
                     "id": 3838,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee hakemus elintarvikehuoneiston hyväksymiseksi",
+                    "name": "Tulostettava lomake",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -35530,10 +35645,134 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5353,
+            "exact_descriptions": [
+                9625
+            ],
+            "service_id": 10133,
+            "type": "APPLICATION",
+            "name": "Apply for the approval of food premises",
+            "description": "Fill in the application form either as a Word file or a PDF file and send it by e-mail to helsinki.kirjaamo@hel.fi. Please present your company's own-check plan when you submit the application. Own-check refers to the systematic and continuous monitoring of food operations by the operator itself. It ensures that food is safe and meets the requirements laid down in foodstuff regulations. Read more about own-check on the website of the Finnish Food Authority.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "the Finnish Food Authority",
+                    "url": "https:\/\/www.ruokavirasto.fi\/en\/foodstuffs\/food-sector\/setting-up-a-food-business\/own-check-quality-assurance\/principles-of-own-check\/",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3838,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Application for the approval of operations (PDF)",
+                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Application for the approval of operations (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5353,
+            "exact_descriptions": [
+                9625
+            ],
+            "service_id": 10133,
+            "type": "APPLICATION",
+            "name": "Ansök om godkännande av livsmedelslokal",
+            "description": "Fyll i ansökningsblanketten antingen som en Word-fil eller en pdf-fil och skicka den per e-post till helsinki.kirjaamo@hel.fi. Presentera din plan om ditt företags egenkontroll i samband med ansökan. Med egenkontroll avses systematisk och kontinuerlig övervakning av din verksamhet som du själv utför. På så vis säkerställs att livsmedlen är säkra och i enlighet med livsmedelslagstiftningen. Läs mer om egenkontroll på Livsmedelsverkets webbplats.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": " Livsmedelsverkets webbplats",
+                    "url": "https:\/\/www.ruokavirasto.fi\/sv\/livsmedel3\/livsmedelsbranschen\/bilda-ett-livsmedelsforetag-och-egenkontroll\/egenkontroll-och-sparbarhet\/principer-for-egenkontroll\/",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3838,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan om godkännande av verksamhet (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL11Laitos_sv.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan om godkännande av verksamhet (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL11Laitos_sv.doc",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5348,
@@ -39480,7 +39719,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry asiointipalveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0g9My9QuyHRUBGNbhhg!!\/"
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/static\/johtoselvitys"
                         }
                     ],
                     "availabilities": [
@@ -43346,127 +43585,6 @@
                             "type": "INTERNET",
                             "title": "Bläddra lediga bostäder (på finska)",
                             "url": "https:\/\/asunnot.oikotie.fi\/vuokra-asunnot?brokerCompanyId=9512820"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 4045,
-        "fi": {
-            "id": 4045,
-            "exact_descriptions": [
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Vapautushakemus vesi- ja viemäriverkkoon liittymisestä",
-            "description": "Vesi- ja viemäriverkkoon liittymisestä voi hakea vapautusta.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Liittyminen HSY:n vesi- ja viemäriverkostoihin",
-                    "url": "https:\/\/www.hsy.fi\/fi\/asiointi\/uudelle-asiakkaalle\/vesihuolto\/Sivut\/default.aspx"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2433,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Vapautus vesi- ja viemäriverkkoon liittymisestä",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Vapautus vesi- ja viemäriverkkoon liittymisestä (PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Vesihuoltovapautuslomake.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": {
-            "id": 4045,
-            "exact_descriptions": [
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Ansökan om befrielse från anslutning till vattentjänstverkets vattenledning",
-            "description": "Man kan ansöka om befrielse från anslutning till vatten- och avloppsnätet.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Bli kund hos vattenförsörjningen",
-                    "url": "https:\/\/www.hsy.fi\/sv\/hrm\/kundtjanst\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2433,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Befrielse från anslutning till vattentjänstverks vattenledning och\/eller avlopp",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Befrielse från anslutning till vattentjänstverks vattenledning och\/eller avlopp (Word)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/VhL11r.doc",
-                            "file_format": "WORD"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Befrielse från anslutning till vattentjänstverks vattenledning och\/eller avlopp (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/VhL11r.pdf",
-                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
