@@ -36018,8 +36018,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Fyll i ansökan för att hyra ett terrassområde (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "title": "Terassanvisning (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/terrassanvisning.pdf",
                             "file_format": "PDF"
                         },
                         {
@@ -36264,14 +36264,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Fyll i ansökan för att hyra ett parklet-område (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Förteckningen över bilagor (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
+                            "title": "Terassanvisning (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/terrassanvisning.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -36431,8 +36425,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Fill in the form to lease land for outdoor seating (PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "title": "Terrace instructions (PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/terrace-instructions.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -36510,8 +36504,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Fyll i ansökan för att hyra ett terrassområde (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "title": "Terassanvisning (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/terrassanvisning.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -37028,7 +37022,7 @@
                     "id": 3848,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee ilmoitus eläinperäisten elintarvikkeiden sisämarkkinatuonnin aloittamisesta tai muutoksista",
+                    "name": "Tee ilmoitus tulostettavalla lomakkeella",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37057,10 +37051,158 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5356,
+            "exact_descriptions": [
+                9627
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Submit a notification on starting or altering import activities for foodstuffs of animal origin from the internal market",
+            "description": "Imports from the internal market refer to imports from other EU countries. Notifications of the commencement, change and termination of internal import activities of food of animal origin from the internal market can be submitted to the Food Safety Unit of the City of Helsinki via the Ilppa e-service or on a separate form.\n\nIn connection with the commencement of import operations, you must also submit a notification of the establishment of food premises or a substantial change of operations.\n",
+            "information": "If you are unable to submit the notification in the Ilppa service, fill in the PDF or Word form and send it by e-mail to kymp.elintarviketurvallisuus@hel.fi",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3847,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Online services",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the Ilppa.fi service",
+                            "url": "https:\/\/ilppa.fi\/etusivu",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3848,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5356,
+            "exact_descriptions": [
+                9627
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Lämna in en anmälan om inledande av eller ändring av import av livsmedel av animaliskt ursprung från den inre marknaden",
+            "description": "Import från den inre marknaden avser import från andra EU-länder. Anmälan om inledande, ändring och avslutande av import av livsmedel med animaliskt ursprung från den inre marknaden lämnas till Helsingfors stads livsmedelssäkerhetsenhet via e-tjänsten Ilppa eller på en separat blankett.\n\nI samband med att importverksamheten inleds ska du också lämna en anmälan om inledande eller väsentlig ändring av anläggningsverksamhet.\n",
+            "information": "Om du inte kan lämna anmälan i Ilppa-tjänsten, fyll i pdf- eller Word-blanketten och skicka den per e-post till kymp.elintarviketurvallisuus@hel.fi",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3847,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Elektronisk ärendehantering",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Till Ilppa.fi-tjänsten",
+                            "url": "https:\/\/ilppa.fi\/etusivu",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3848,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälningsblankett (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/el_per_elintarv_sisamarkkinatuonti-ilm.pdf",
+                            "file_format": "WORD"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälningsblankett (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/el_per_elintarv_sisamarkkinatuonti-ilm.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5324,
