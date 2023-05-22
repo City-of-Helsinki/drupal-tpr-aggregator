@@ -34069,8 +34069,57 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5344,
+            "exact_descriptions": [
+                9617
+            ],
+            "service_id": 10406,
+            "type": "APPOINTMENT",
+            "name": "Social rehabilitering, tidsbeställning",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3825,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Social rehabilitering, tidsbeställning",
+                    "availability_summary": "Öppet tis, fre 09-11",
+                    "phone": "09 310 73392 ",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet tis, fre 09-11"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5338,
@@ -34147,8 +34196,77 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5338,
+            "exact_descriptions": [
+                2937
+            ],
+            "service_id": 10717,
+            "type": "APPLICATION",
+            "name": "Social kredit",
+            "description": "Ansökan om social kreditgivning och e-postadress",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3814,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansökningsblankett för social kredit",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Öppna och fyll i det utskrivbara formuläret",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/velka\/303-860_soluhakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3815,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postadress för social kreditgivning",
+                    "email": "sosiaalinen.luototus@hel.fi   ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5351,
@@ -42588,8 +42706,97 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5341,
+            "exact_descriptions": [
+                9616
+            ],
+            "service_id": 10791,
+            "type": "ADVICE",
+            "name": "Tjänster hos samordnare för arbetsförmågans kontaktuppgifter",
+            "description": "Tjänster hos samordnare för arbetsförmågans kontaktuppgifter",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3004",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3005",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3820,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefon samordnare för arbetsförmågan 1",
+                    "phone": "040 809 5165",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3821,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefon samordnare för arbetsförmågan 2",
+                    "phone": "040 664 0082",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3822,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postadress",
+                    "email": "sote.tyokykykoordinaattorit@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5340,
@@ -42665,8 +42872,76 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5340,
+            "exact_descriptions": [
+                3339
+            ],
+            "service_id": 10791,
+            "type": "APPOINTMENT",
+            "name": "Utredning av arbetsförmågan, tidsbeställning",
+            "description": "Utredning av arbetsförmågan, tidsbeställning",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3818,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Utredning av arbetsförmåga",
+                    "availability_summary": "Öppet mån-fre 08:15-16",
+                    "phone": "09 310 5015 (vaihde)",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 08:15-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3819,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postadress",
+                    "email": "tyokykyselvitys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5077,
