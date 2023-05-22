@@ -5472,7 +5472,7 @@
                         {
                             "type": "FORM",
                             "title": "Go to the e-service",
-                            "url": "https:\/\/avustukset.hel.fi\/fi\/uusi-hakemus\/kasvatus_ja_koulutus_yleisavustu",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/uusi-hakemus\/kasvatus_ja_koulutus_yleisavustu",
                             "file_format": "HTML"
                         }
                     ],
@@ -5536,7 +5536,7 @@
                         {
                             "type": "FORM",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/avustukset.hel.fi\/fi\/uusi-hakemus\/kasvatus_ja_koulutus_yleisavustu",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/uusi-hakemus\/kasvatus_ja_koulutus_yleisavustu",
                             "file_format": "HTML"
                         }
                     ],
@@ -29844,7 +29844,7 @@
                     "id": 3909,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Sosiaalityöntekijän puhelinnumero",
+                    "name": "Sosiaalityöntekijän puhelinnumero 09 3104 3821",
                     "phone": "09 3104 3821",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -29865,7 +29865,7 @@
                     "id": 3910,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Sosiaalityöntekijän puhelinnumero",
+                    "name": "Sosiaalityöntekijän puhelinnumero 09 3106 9845",
                     "phone": "09 3106 9845",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -36022,7 +36022,7 @@
                     "id": 3830,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Submit an application to lease an area for outdoor seating",
+                    "name": "Apply for renting a glazed terrace area",
                     "provided_languages": [
                         "fi"
                     ],
@@ -36108,7 +36108,7 @@
                     "id": 3830,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Fyll i ansökan för att hyra ett terrassområde",
+                    "name": "Fyll i ansökan för att hyra ett inglasat terrassområde",
                     "provided_languages": [
                         "fi"
                     ],
@@ -43408,8 +43408,92 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 4276,
+            "exact_descriptions": [
+                7607
+            ],
+            "service_id": 10907,
+            "type": "APPLICATION",
+            "name": "Ansökan för kompletterande eller förebyggande utkomststöd",
+            "description": "Ansökan för kompletterande eller förebyggande utkomststöd",
+            "process_description": "Helsingforsbor som har ett beslut från FPA om grundläggande utkomststöd kan söka kompletterande utkomststöd via e-tjänster.\n\n1. Studera blankettens frågor i förväg.\n2. Ytterligare information om kompletterande utkomststöd hittar du på sidan Kompletterande utkomststöd (länk under Ytterligare information). Till ansökan behöver du endast de bilagor eller utredningar som behövs för kompletterande utkomststöd.\n3. Innan du börjar fylla i blanketten, se till att du har alla nödvändiga bilagor i elektronisk form. Du kan spara ansökningsblanketten som ett utkast. Bilagor kan inte i efterskott skickas via webben, utan då sänds de till Mottagning av ansökningar, PB 8320, 00099 Helsingfors stad.\n4. Maximiantalet bilagor är 15 st. och en bilaga får vara högst 2 Mb.\n5. Efter att du sänt ansökan får du ett meddelande: Ansökan har sänts. En stund efter att ansökan sänts får du ett meddelande Sändning av blanketten lyckades och den har sparats i ärendemappen på nummer xxxxx.\n6. Om du önskar ta tillbaka din ansökan, ring utkomststödets telefonrådgivning mån-fre kl. 9.12, tfn 09 310 44967 (svenska) eller 09 310 56257 (finska).\n7. Behandlingen av en ansökan slutar då ett beslut fattas. Beslutet sänds per post.\n8. Du kan följa med behandlingen i Status-spalten i din ärendemapp.",
+            "processing_time": "Behandlingstiden för ansökan är i allmänhet 7 arbetsdagar från att alla uppgifter som behövs för beslutsfattande står till förfogande.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kompletterande och förebyggande utkomststöd",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/social-och-halso\/ekonomiskt\/ekonomiskt-stod\/utkomststod2\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2663,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Utskrivbar ansökan om kompletterande eller förebyggande utkomststöd",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Öppna och fyll i den utskrivbara blanketten ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/303-020_tjae-tuen_hakemus_su.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3842,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Elektronisk ansökan i Maisa",
+                    "prerequisites": "Elektronisk ansökan i Maisa",
+                    "process_description": "Elektronisk ansökan i Maisa",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansök elektroniskt i Maisa. ",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4365,
