@@ -14576,6 +14576,124 @@
         }
     },
     {
+        "id": 3039,
+        "fi": {
+            "id": 3039,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "PERMISSION",
+            "name": "Ilmoita kaivutöistä katu- tai puistoalueella",
+            "description": "Tee ilmoitus vähintään 7 vuorokautta ennen suunniteltua työn aloittamista. Lähetä ilmoitus: luvat@hel.fi",
+            "processing_time": ".",
+            "costs": "Palvelu on maksullinen. Katso hinnat kohdasta maksut.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3936,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Ilmoita kadun tai puiston vuokraamisesta työalueeksi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "lmoitus yleisellä alueella tehtävästä työstä (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5403,
+        "fi": {
+            "id": 5403,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Ilmoita muutoksista, toiminnallisesta tilasta ja valmistumisesta",
+            "description": "Ilmoita työn kestoon liittyvistä muutoksista ja talvikauden toiminnallisesta kunnosta viimeistään hyväksytyn työajan kuluessa. Ilmoita työalueen laajuuteen liittyvistä muutoksista ennen muutosten toteuttamista. \n\nLähetä ilmoitus liitteineen: luvat@hel.fi",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3938,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus muutoksista, toiminnallisesta tilasta ja valmistumisesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5396,
         "fi": {
             "id": 5396,
@@ -46041,6 +46159,65 @@
         }
     },
     {
+        "id": 5402,
+        "fi": {
+            "id": 5402,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
+            "description": "Tee ilmoitus vähintään 7 vuorokautta ennen suunniteltua työn aloittamista. Lähetä ilmoitus liitteineen: luvat@hel.fi",
+            "costs": "Alueen vuokraus on maksullinen. Katso hinnat kohdasta maksut.",
+            "information": "Ilmoitukseen liitteet:\n\n- Suunnitelma tilapäisistä liikennejärjestelyistä, jos työskentely vaikuttaa jalankulun, pyöräilyn tai moottoriajoneuvoliikenteen järjestelyihin tai pysäköintipaikkoja varataan muuhun käyttöön siirtokehotuskyltillä.\n- Valtakirja, jos ilmoituksen tekee joku muu kuin työstä vastaava. Ilmoituksen voi tehdä urakoitsija, jos se on työteknisistä syistä tarkoituksenmukaista. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3937,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Ilmoita kadun tai puiston vuokraamisesta työalueeksi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5329,
         "fi": {
             "id": 5329,
@@ -47229,35 +47406,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 08-14"
-                        }
-                    ]
-                },
-                {
-                    "id": 3495,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Sotebotti Hester",
-                    "information": "Sotebotti on robotti, joka palvelee sinua 24\/7. Sotebotin kautta pääset keskustelemaan terveydenhoitajan kanssa livechatin välityksellä arkisin kello 10-14.",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Nero - Neuvolan chat-robotti",
-                            "url": "https:\/\/www.hel.fi\/sote\/toimipisteet-fi\/aakkosittain\/neuvola\/neuvolat\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
                         }
                     ]
                 }
