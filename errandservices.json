@@ -37970,7 +37970,6 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tulostettavat lomakkeet",
-                    "prerequisites": "Jos et voi täyttää ilmoitusta Ilppa-palvelussa, täytä PDF-lomake tai Word-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen elintarviketurvallisuus@hel.fi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -38002,7 +38001,9 @@
                     "type": "MAIL",
                     "type_string": "Posti",
                     "name": "Postiosoite",
-                    "prerequisites": "Voit myös tulostaa lomakkeen ja lähettää sen postitse osoitteeseen\nHelsingin kaupungin ympäristöpalvelut\nElintarviketurvallisuusyksikkö\nPL 58235\n00099 Helsingin kaupunki\n",
+                    "personal_service_street_addr": "Helsingin kaupunki\/ Elintarviketurvallisuusyksikkö",
+                    "personal_service_postal_code": "PL 58235 00099",
+                    "personal_service_city": "Helsingin kaupunki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -38019,10 +38020,214 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5324,
+            "exact_descriptions": [
+                4893
+            ],
+            "service_id": 10290,
+            "type": "NOTICE",
+            "name": "Register a mobile food establishment",
+            "description": "Submit your registration through the Ilppa e-services or use a separate form. You can log in to the service with your Suomi.fi credentials by using either a mobile certificate or your online banking credentials.",
+            "information": "If you cannot use the Ilppa service to submit your notification, please fill in the form either as a PDF or as a Word file and send it with the relevant attachments via e-mail toelintarviketurvallisuus@hel.fi. You can also print the form and sent it to us by post.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3798,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Online services",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the Ilppa.fi service",
+                            "url": "https:\/\/ilppa.fi\/ilmoitus-aloitus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3799,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Notification of food operations (PDF) (in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Notification of food operations (Word) (in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3800,
+                    "type": "MAIL",
+                    "type_string": "Mailing address",
+                    "name": "Postal address",
+                    "personal_service_street_addr": "Helsingin kaupunki\/ Elintarviketurvallisuusyksikkö",
+                    "personal_service_postal_code": "PL 58235 00099",
+                    "personal_service_city": "Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5324,
+            "exact_descriptions": [
+                4893
+            ],
+            "service_id": 10290,
+            "type": "NOTICE",
+            "name": "Gör en anmälan om en mobil livsmedelslokal",
+            "description": "Gör registreringen på e-tjänsten Ilppa eller på en skild blankett. Du kan identifiera dig i tjänsten med Suomi.fi-identifikation genom att använda antingen mobilcertifikat eller nätbankskoder.",
+            "information": "Om du inte kan fylla i anmälan på tjänsten Ilppa, fyll då i PDF-blanketten eller Word-blanketten och skicka den med bilagor per e-post till adressen elintarviketurvallisuus@hel.fi. Du kan också skriva ut blanketten och skicka den per post.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3798,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "E-tjänst",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till tjänsten Ilppa.fi",
+                            "url": "https:\/\/ilppa.fi\/ilmoitus-aloitus-sv",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3799,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälan om livsmedelsverksamhet (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälan om livsmedelsverksamhet (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3800,
+                    "type": "MAIL",
+                    "type_string": "Postadress",
+                    "name": "Postaddress",
+                    "personal_service_street_addr": "Helsingfors stads miljötjänster\/Livsmedelssäkerhet",
+                    "personal_service_postal_code": "PL 58235 00099",
+                    "personal_service_city": "Helsingfors stad",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5390,
@@ -38604,10 +38809,94 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5325,
+            "exact_descriptions": [
+                9613
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Make a Food Truck Agreement",
+            "description": "Send an email to the inspector responsible for the area's use to book an initial appointment.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3801,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail",
+                    "email": "ulkoilma@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5325,
+            "exact_descriptions": [
+                9613
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Gör ett avtal för en smidig kiosk",
+            "description": "Skicka ett e-postmeddelande till områdesanvändningskontrollanten där du bokar en tid för ett startmöte.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3801,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-post",
+                    "email": "ulkoilma@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4054,
