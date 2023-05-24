@@ -9732,7 +9732,7 @@
             "type": "PERMISSION",
             "name": "Hae tupakkalain mukaista myyntilupaa",
             "name_synonyms": "tupakka, tupakkatuotteet, nikotiininesteet, myyntilupa, tukkumyynti",
-            "description": "Tee tupakkatuotteiden ja nikotiininesteiden myyntilupahakemus sekä tukkumyynti-ilmoitus kirjallisesti kunnalle. Tee hakemus sähköisesti Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) internetsivuilla. Ilmoita lupatietojen muutoksesta ja myynnin lopettamisesta luvan myöntäjälle. Lupatietojen muutoksista ja toiminnan lopettamisesta voit ilmoittaa vapaamuotoisesti joko sähköpostitse kymp.tupakkalupa@hel.fi tai postitse Helsingin kaupungin ympäristöpalvelut, PL 58235, 00099 HELSINGIN KAUPUNKI. Ilmoituksessa tulee olla seuraavat tiedot: myyntiluvan haltija, myyntipaikka, lupanumero ja muutoksen\/myynnin lopettamisen päivämäärä.\n\nJos et pysty tekemään ilmoitusta Valviran-palvelussa, täytä PDF-lomake ja lähetä se sähköpostitse osoitteeseen kymp.tupakkalupa@hel.fi",
+            "description": "Tee tupakkatuotteiden ja nikotiininesteiden myyntilupahakemus sekä tukkumyynti-ilmoitus kirjallisesti kunnalle. Tee hakemus sähköisesti Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) internetsivuilla. Ilmoita lupatietojen muutoksesta ja myynnin lopettamisesta luvan myöntäjälle. Lupatietojen muutoksista ja toiminnan lopettamisesta voit ilmoittaa vapaamuotoisesti joko sähköpostitse kymp.tupakkalupa@hel.fi tai postitse Helsingin kaupungin ympäristöpalvelut, PL 58235, 00099 HELSINGIN KAUPUNKI. Ilmoituksessa tulee olla seuraavat tiedot: myyntiluvan haltija, myyntipaikka, lupanumero ja muutoksen\/myynnin lopettamisen päivämäärä.\n\nJos et pysty tekemään myyntilupahakemusta Valviran sähköisessä palvelussa, täytä PDF-lomake ja lähetä se sähköpostitse osoitteeseen kymp.tupakkalupa@hel.fi.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -9824,10 +9824,202 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4508,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "PERMISSION",
+            "name": "Apply for a sales licence under the Tobacco Act",
+            "description": "Apply for a sales licence for tobacco products and nicotine-containing liquids and submit a written notification of wholesale to the municipality. Apply online on the website of the Finnish National Supervisory Authority for Welfare and Health (Valvira). Notify the permit issuer of any changes to the permit information and the discontinuation of the sale. Changes to permit information and discontinuation of operations can be notified in free form either by e-mail to kymp.tupakkalupa@hel.fi or by post to the City of Helsinki Environmental Services, P.O. Box 58235, 00099 CITY OF HELSINKI. The notification must include the following information: the sales licence holder, the point of sale, the licence number and the date of the change\/discontinuation.",
+            "information": "If you are unable to submit the notification in the Valvira service, fill in the PDF form and send it by e-mail to kymp.tupakkalupa@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2865,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3852,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Online services",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Valvira’s service> (in Finnish)",
+                            "url": "https:\/\/www.valvira.fi\/tupakka\/myynti\/vahittaismyynti\/myyntilupahakemus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3853,
+                    "type": "MAIL",
+                    "type_string": "Mailing address",
+                    "name": "Postal address",
+                    "personal_service_street_addr": "City of Helsinki\/ Environmental Services",
+                    "personal_service_postal_code": "P.O. Box 58235 00099",
+                    "personal_service_city": "CITY OF HELSINKI",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4508,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "PERMISSION",
+            "name": "Ansök om försäljningstillstånd enligt tobakslagen",
+            "description": "Ansök om försäljningstillstånd för tobaksprodukter och nikotinvätskor samt anmäl om partihandel skriftligt till kommunen. Lämna ansökan elektroniskt på Tillsynsmyndigheten för välfärd och hälsas (Valvira) webbplats. Anmäl om ändring i tillståndsuppgifterna och om upphörande av försäljningen till den som beviljat tillståndet. Ändringar i tillståndsuppgifterna och upphörande av verksamheten kan anmälas fritt formulerat antingen per e-post till kymp.tupakkalupa@hel.fi eller per post till Helsingfors stads miljötjänster, PB 58235, 00099 HELSINGFORS STAD. Anmälan ska innehålla följande uppgifter: innehavaren av försäljningstillståndet, försäljningsstället, tillståndsnumret och datum för ändringen\/upphörandet av försäljningen.",
+            "information": "Om du inte kan göra anmälan i Valviras tjänst, fyll i pdf-blanketten och skicka den per e-post till kymp.tupakkalupa@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2865,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan om detaljhandelstillstånd (pdf)",
+                            "url": "https:\/\/www.valvira.fi\/documents\/18502\/3651344\/Hakemus_tupakkatuotteiden_ja_nikotiininesteiden_vahittaismyyntiin_tukkumyynti_ilmoitus_sv.pdf\/adc339d9-98e0-1f45-f498-a25b458a1898",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3852,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Elektronisk ärendehantering",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Till Valviras tjänst",
+                            "url": "https:\/\/www.valvira.fi\/web\/sv\/tobak\/forsaljning\/detaljhandel\/ansokan-om-forsaljningstillstand",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3853,
+                    "type": "MAIL",
+                    "type_string": "Postadress",
+                    "name": "Postadress",
+                    "personal_service_street_addr": "Helsingfors stad\/ Miljötjänster",
+                    "personal_service_postal_code": "PB 58235, 00099",
+                    "personal_service_city": "HELSINGFORS STAD",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5223,
