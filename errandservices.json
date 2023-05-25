@@ -226,8 +226,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5357,
+            "exact_descriptions": [
+                7669
+            ],
+            "service_id": 10014,
+            "type": "OTHER_ESERVICE",
+            "name": "Adult social work for over 30-year-olds",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3854,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Contact your designated social worker through Maisa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Contact your designated social worker through Maisa (The link opens in a new tab.) ",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5357,
             "exact_descriptions": [
@@ -599,6 +650,55 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3947,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Signing a long-term lease agreement",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the website of the National Land Survey of Finland",
+                            "url": "https:\/\/www.kiinteistoasiat.fi\/english_info"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3948,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Complete the information form for the lease agreement",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Information form for signing a lease agreement (docx, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/tietolomake_maanvuokrasopimuksen_allekirjoitukseen.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -626,6 +726,55 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3942,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Undertecknande av långtidsarrendeavtalet",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lantmäteriverkets tjänst för fastighetsöverlåtelse",
+                            "url": "https:\/\/www.kiinteistoasiat.fi\/?locale=sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3943,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Fyll i en informationsblankett för arrendeavtalet",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Informationsblankett för undertecknande av arrendeavtalet (docx, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/tietolomake_maanvuokrasopimuksen_allekirjoitukseen.docx",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -9110,30 +9259,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3925,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Ansök om korttidsarrende för en företagstomt",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Ansökan om korttidsarrende för affärs-, kontors- och industritomt (pdf, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Hakemuslomake_yritystontin_vuokraus_rakennuslupaa_varten.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -9299,6 +9424,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 3925,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om korttidsarrende för en företagstomt",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om korttidsarrende för affärs-, kontors- och industritomt (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Hakemuslomake_yritystontin_vuokraus_rakennuslupaa_varten.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         }
@@ -9394,6 +9544,43 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3946,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Applying for a long-term lease",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for a long-term lease of a residential plot (pdf, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_pitkaaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Application for a long-term lease of a commercial plot (pdf, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_pitkaaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Application for a long-term lease of a plot for a detached house (pdf, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_pitkaaikainen_vuokraus_omakotitalotontti.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -14947,7 +15134,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Ilmoita vuokraoikeuden siirrosta",
-            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi \nYritystontteja koskien yritystonttitiedustelut@hel.fi \nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi \n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta. \n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokralaskutus@hel.fi.",
+            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi\nYritystontteja koskien yritystonttitiedustelut@hel.fi\nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi\n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta.\n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokravuokralaskutus@hel.fi.",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -14986,10 +15173,98 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5398,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Notification on transfer of leasehold",
+            "description": "When a land lease agreement for a plot owned by the City of Helsinki includes a clause according to which the tenant has the right to transfer the leasehold to a third party without consulting the landlord, the tenant may transfer the leasehold and the buildings located on the plot in their entirety or a part thereof to a third party without the consent of the city.\n\nAsk for more information:\n- Residential plots: asuntotonttitiedustelut@hel.fi\n- Commercial plots: yritystonttitiedustelut@hel.fi \n- Detached houses: omakotitalotonttitiedustelut@hel.fi\n\nAfter the transfer, the new tenant must apply for registration of the leasehold from the National Land Survey of Finland. \nThe new tenant must also, without delay after the transfer, submit to the city a copy of the deed of transfer or other document that serves as the basis for the transfer, as well as submit the new billing address for the lease in writing. Send the copies and the new address to maanvuokravuokralaskutus@hel.fi.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3945,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Applying for registration of the transfer from the National Land Survey of Finland",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the website of the National Land Survey of Finland",
+                            "url": "https:\/\/www.maanmittauslaitos.fi\/en\/real-property\/property-owners\/register-leasehold-or-other-special-right\/transfer-leasehold"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5398,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Meddela om överföring av arrenderätten",
+            "description": "När markarrendeavtalet för en tomt som ägs av Helsingfors stad innehåller ett villkor enligt vilket arrendatorn har rätt att utan att höra arrendegivaren överföra arrenderätten till någon annan, kan arrendatorn helt eller delvis överföra sin arrenderätt och byggnaderna på tomten till någon annan utan stadens samtycke.\n\nFråga om mer information:\n- Bostadstomter: asuntotonttitiedustelut@hel.fi\n- Företagstomter: yritystonttitiedustelut@hel.fi \n- Egnahemshustomter: omakotitalotonttitiedustelut@hel.fi\n\nEfter överföringen ska den nya arrendatorn ansöka om inskrivning av överföringen av arrenderätten hos Lantmäteriverket. \n\nDen nya arrendatorn ska också utan dröjsmål efter överföringen skicka staden en kopia av överlåtelsehandlingen eller av någon annan handling som utgör grunden till förvärvet samt skriftligen meddela en ny faktureringsadress för arrendet. Skicka kopiorna och meddela den nya adressen till maanvuokralaskutus@hel.fi.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3944,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om inskrivning av överföringen hos Lantmäteriverket",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lantmäteriverkets webbplats",
+                            "url": "https:\/\/www.maanmittauslaitos.fi\/sv\/fastigheter\/till-fastighetsagare\/registrera-en-arrenderatt\/overforing-av-arrenderatt"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4225,
