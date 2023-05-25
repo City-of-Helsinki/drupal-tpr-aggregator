@@ -27346,8 +27346,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5358,
+            "exact_descriptions": [
+                7584
+            ],
+            "service_id": 10014,
+            "type": "OTHER_ESERVICE",
+            "name": "Adult social work for young adults",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3860,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Contact your designated social worker through Maisa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Contact your designated social worker through Maisa (The link opens in a new tab.)",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5358,
             "exact_descriptions": [
@@ -28962,7 +29013,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "sähköposti",
-                    "email": "jarkko.laaksonen@hel.fi",
+                    "email": "elina.pentikainen@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
