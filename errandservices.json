@@ -15134,7 +15134,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Ilmoita vuokraoikeuden siirrosta",
-            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi\nYritystontteja koskien yritystonttitiedustelut@hel.fi\nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi\n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta.\n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokravuokralaskutus@hel.fi.",
+            "description": "Kun Helsingin kaupungin omistaman tontin maanvuokrasopimus sisältää ehdon, jonka mukaan vuokralaisella on oikeus vuokranantajaa kuulematta siirtää vuokraoikeus toiselle, voi vuokralainen luovuttaa kokonaan tai osittain maanvuokraoikeutensa ja tontilla sijaitsevat rakennukset toiselle ilman kaupungin suostumusta.\n\nMikäli vuokrasopimus ei sisällä vapaata siirto-oikeutta, kysy lisätietoja:\n\nAsuntotontteja koskien asuntotonttitiedustelut@hel.fi\nYritystontteja koskien yritystonttitiedustelut@hel.fi\nOmakotitalottontteja koskien omakotitalotonttitiedustelut@hel.fi\n\nLuovutuksen jälkeen uuden vuokralaisen on haettava vuokraoikeuden siirron kirjaamista Maanmittauslaitokselta.\n\nUuden vuokralaisen tulee myös viipymättä siirron tapahduttua toimittaa kaupungille jäljennös luovutuskirjasta tai muusta saannon perusteena olevasta asiakirjasta sekä ilmoittaa kirjallisesti maanvuokran uusi laskutusosoite. Lähetä jäljennökset ja uusi osoite osoitteeseen maanvuokralaskutus@hel.fi.",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -15181,7 +15181,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Notification on transfer of leasehold",
-            "description": "When a land lease agreement for a plot owned by the City of Helsinki includes a clause according to which the tenant has the right to transfer the leasehold to a third party without consulting the landlord, the tenant may transfer the leasehold and the buildings located on the plot in their entirety or a part thereof to a third party without the consent of the city.\n\nAsk for more information:\n- Residential plots: asuntotonttitiedustelut@hel.fi\n- Commercial plots: yritystonttitiedustelut@hel.fi \n- Detached houses: omakotitalotonttitiedustelut@hel.fi\n\nAfter the transfer, the new tenant must apply for registration of the leasehold from the National Land Survey of Finland. \nThe new tenant must also, without delay after the transfer, submit to the city a copy of the deed of transfer or other document that serves as the basis for the transfer, as well as submit the new billing address for the lease in writing. Send the copies and the new address to maanvuokravuokralaskutus@hel.fi.",
+            "description": "When a land lease agreement for a plot owned by the City of Helsinki includes a clause according to which the tenant has the right to transfer the leasehold to a third party without consulting the landlord, the tenant may transfer the leasehold and the buildings located on the plot in their entirety or a part thereof to a third party without the consent of the city.\n\nAsk for more information:\n- Residential plots: asuntotonttitiedustelut@hel.fi\n- Commercial plots: yritystonttitiedustelut@hel.fi \n- Detached houses: omakotitalotonttitiedustelut@hel.fi\n\nAfter the transfer, the new tenant must apply for registration of the leasehold from the National Land Survey of Finland. \nThe new tenant must also, without delay after the transfer, submit to the city a copy of the deed of transfer or other document that serves as the basis for the transfer, as well as submit the new billing address for the lease in writing. Send the copies and the new address to maanvuokralaskutus@hel.fi.",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -20787,8 +20787,88 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5099,
+            "exact_descriptions": [
+                9602,
+                9603,
+                9604
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Social services promoting integration",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3483,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone counselling for people who have just arrived in Finland and victims of human trafficking",
+                    "availability_summary": "Open Mon-Fri 08:15-12, Mon-Fri 13-16",
+                    "phone": "+358 9 310 37577",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 13-16"
+                        },
+                        {
+                            "availability_string": "Open Mon-Fri 08:15-12"
+                        }
+                    ]
+                },
+                {
+                    "id": 3484,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone counselling for undocumented migrants",
+                    "availability_summary": "Open Mon-Fri 09-16",
+                    "phone": "+358 9 310 23747",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5099,
             "exact_descriptions": [
