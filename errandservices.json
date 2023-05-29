@@ -15007,6 +15007,70 @@
         }
     },
     {
+        "id": 5413,
+        "fi": {
+            "id": 5413,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "APPLICATION",
+            "name": "Huvivenesataman jätehuoltosuunnitelma",
+            "description": "Huvivenesataman pitäjän on tehtävä jätehuoltosuunnitelma aluksista peräisin olevien jätteiden jätehuollosta. Jätehuoltosuunnitelma on päivitettävä viiden vuoden välein tai sataman toiminnan muuttuessa merkittävästi. \n\nLähetä jätehuoltosuunnitelma hyväksyttäväksi Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lue lisää satamien jätehuoltosuunnitelmasta Ympäristö.fi-palvelusta",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/ysln-kertaluonteiset-ilmoitusmenettelyt\/satama"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3955,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Lähetä huvivenesataman jätehuoltosuunnitelma hyväksyttäväksi",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 934,
         "fi": {
             "id": 934,
@@ -16476,6 +16540,70 @@
         ]
     },
     {
+        "id": 5417,
+        "fi": {
+            "id": 5417,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ilmoitus karjanlannan aumaamisesta",
+            "description": "Karjanlannan aumaamisesta tulee ilmoittaa Helsingin ympäristöpalveluille vähintään 14 vuorokautta etukäteen. Auman sijoituspaikan, koon, rakenteen ja aumauksen keston tulee täyttää niin sanotun nitraattiasetuksen vaatimukset. Aumaus ei voi korvata lantalaa pysyvänä ratkaisuna.\n\nIlmoita aumaamisesta Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Nitraattiasetus Finlex-palvelussa",
+                    "url": "https:\/\/www.finlex.fi\/fi\/laki\/alkup\/2014\/20141250"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3959,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita karjanlannan aumaamisesta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4410,
         "fi": {
             "id": 4410,
@@ -16522,6 +16650,70 @@
                             "title": "siirry suomi.fi sivulle",
                             "url": "https:\/\/www.suomi.fi\/palvelut\/lomake\/ilmoitus-jatteen-ammattimaisesta-keraystoiminnasta-jatehuoltorekisteriin-elinkeino-liikenne-ja-ymparistokeskus\/1eb02ecf-f9db-45f3-87df-4d25d3f5a7f9",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5415,
+        "fi": {
+            "id": 5415,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ilmoitus koeluonteisesta toiminnasta",
+            "description": "Toiminnasta, jonka tarkoituksena on kokeilla esimerkiksi ympäristölupaa edellyttävässä toiminnassa uutta raaka- tai polttoainetta, valmistus- tai polttomenetelmää tai jätteen hyödyntämistä tai käsittelyä, tulee tehdä ilmoitus Helsingin ympäristöpalveluille. \n\nLähetä ilmoitus koeluonteisesta toiminnasta Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lue lisää koeluonteisen toiminnan ilmoituksesta Ympäristö.fi-palvelusta.",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/ysln-kertaluonteiset-ilmoitusmenettelyt\/koeluonteinen-toiminta"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3957,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ilmoitus koeluonteisesta toiminnasta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -16691,6 +16883,65 @@
         }
     },
     {
+        "id": 5418,
+        "fi": {
+            "id": 5418,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ilmoitus lannan levittämiskiellosta poikkeamisesta",
+            "description": "Lannan levittämisen kieltoajasta poikkeamisesta on tehtävä ilmoitus kunnan ympäristönsuojeluviranomaiselle lokakuun loppuun mennessä.\n\nIlmoita poikkeamisesta Lupapiste-palvelun kautta.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3960,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita lannan levittämisestä poikkeustilanteessa",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4050,
         "fi": {
             "id": 4050,
@@ -16749,6 +17000,70 @@
                             "title": "Ilmoitus pienimuotoisesta jätteiden sijoittamisesta maaperään (Word)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysm13s.docx",
                             "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5416,
+        "fi": {
+            "id": 5416,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ilmoitus poikkeuksellisesta tilanteesta",
+            "description": "Tee ilmoitus poikkeuksellisesta tilanteesta, jos esimerkiksi onnettomuuden, tuotantohäiriön tai rakennelman tai laitteen purkamisen takia syntyy päästöjä tai jätettä, josta voi aiheutua välitöntä ja ilmeistä ympäristön pilaantumisen vaaraa. Sinun tulee tehdä ilmoitus myös silloin, jos jätteen määrän tai ominaisuuksien vuoksi tarvitaan tavanomaisesta poikkeavia toimia jätehuollossa.\n\nLähetä ilmoitus poikkeuksellisesta tilanteesta Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lue tarkemmat ohjeet ilmoituksen tekemiseen Ympäristö.fi-palvelusta. ",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/ysln-kertaluonteiset-ilmoitusmenettelyt\/poikkeuksellinen-tilanne"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3958,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ilmoitus poikkeuksellisesta tilanteesta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -21271,6 +21586,7 @@
         "en": {
             "id": 5099,
             "exact_descriptions": [
+                9001,
                 9602,
                 9603,
                 9604
@@ -25984,6 +26300,128 @@
                         {
                             "availability_string": "Avoinna ma-pe 13-15"
                         }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5419,
+        "fi": {
+            "id": 5419,
+            "exact_descriptions": [
+            ],
+            "service_id": 10891,
+            "type": "APPLICATION",
+            "name": "Lupa maa-aineisten ottamiseen",
+            "description": "Maa-ainesten ottaminen muuhun kuin omaan kotitarvekäyttöön vaatii maa-aineslain mukaisen luvan. Kotitarveotostakin tulee tehdä ilmoitus, jos aiot ottaa maa-aineksia yli 500 kuutiota.\n\nLähetä ilmoitus maa-ainesten ottamisesta Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lue tarkemmat ohjeet maa-ainesten ottamisesta Ympäristö.fi-palvelusta.",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/maa-ainesten-ottamisen-luvat-ja-ilmoitus"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3961,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae lupaa tai tee ilmoitus maa-ainesten ottamisesta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5414,
+        "fi": {
+            "id": 5414,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "APPLICATION",
+            "name": "Lupa maastossa tai vesialueella järjestettävien harjoitusten ja kilpailujen toistuvaan tai pysyvään järjestämiseen",
+            "description": "Tarvitset luvan maastossa tai vesialueella järjestettävien harjoitusten ja kilpailujen toistuvaan tai pysyvään järjestämiseen. Hae lupaa Helsingin ympäristöpalveluilta Lupapiste-palvelun kautta.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3956,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae lupaa harjoitusten tai kilpailujen järjestämiseen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
