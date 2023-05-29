@@ -4090,8 +4090,81 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 4280,
+            "exact_descriptions": [
+                9000
+            ],
+            "service_id": 10907,
+            "type": "ADVICE",
+            "name": "Benefit handling counselling",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3811,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Benefit handling counselling in Finnish",
+                    "availability_summary": "Open Mon-Fri 09-12",
+                    "phone": "09 3105 6257 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-12"
+                        }
+                    ]
+                },
+                {
+                    "id": 3812,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Benefit handling counselling in Swedish",
+                    "availability_summary": "Open Mon-Fri 09-12",
+                    "phone": "09 3104 4967 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-12"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 4280,
             "exact_descriptions": [
@@ -16344,6 +16417,65 @@
         ]
     },
     {
+        "id": 5412,
+        "fi": {
+            "id": 5412,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ilmoitus jätteen ammattimaisesta keräämisestä",
+            "description": "Jätteen ammattimaisesta keräämisestä on tehtävä ilmoitus hyvissä ajoin ennen toiminnan aloittamista jätehuoltorekisteriin merkitsemistä varten. Selvitä ennen ilmoituksen lähettämistä Helsingin ympäristöpalveluilta, edellyttääkö toiminta ympäristölupaa.\n\nLähetä ilmoitus ympäristöpalveluihin Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3954,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita jätteen ammattimaisesta keräämisestä",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4410,
         "fi": {
             "id": 4410,
@@ -21223,7 +21355,8 @@
             "exact_descriptions": [
                 9001,
                 9602,
-                9603
+                9603,
+                9604
             ],
             "service_id": 10087,
             "type": "ADVICE",
@@ -39053,7 +39186,7 @@
             ],
             "service_id": 10133,
             "type": "NOTICE",
-            "name": "Tee ilmoitus ruokamyrkytysepäilystä",
+            "name": "Tee ilmoitus ruokamyrkytysepäilystä elintarviketoiminnan harjoittajana",
             "name_synonyms": "ruokamyrkytysilmoitus",
             "description": "Tee ilmoitus Ympäristöterveydenhuollon sähköisessa Ilppa-asiointipalvelussa, josta se ohjautuu ainoastaan elintarvikehuoneiston valvojalle. Valvoja pyytää tarvittaessa sinulta lisätietoja ja antaa toimintaohjeita.",
             "provided_languages": [
@@ -48599,6 +48732,80 @@
         ]
     },
     {
+        "id": 5408,
+        "fi": {
+            "id": 5408,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Ympäristölupa",
+            "description": "Tarvitset toiminnalle ympäristöluvan, jos toiminta voi aiheuttaa terveyshaittaa, merkittävää ympäristön pilaantumista tai sen vaaraa. Tällaista toimintaa ovat esimerkiksi ammattimainen jätteenkäsittely ja monet elintarviketeollisuuslaitokset.\n\nYmpäristöluvassa voidaan antaa määräyksiä muun muassa toiminnan laajuudesta, päästöistä ja niiden vähentämisestä. Luvanvaraisen toiminnan saa pääsääntöisesti aloittaa vasta, kun lupa on lainvoimainen.\n\nHelsingissä ympäristöluvat myöntää toiminnan luonteesta ja laajuudesta riippuen Etelä-Suomen aluehallintovirasto tai Helsingin kaupunkiympäristölautakunnan ympäristö- ja lupajaosto. \n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristölupa, Etelä-Suomen aluehallintovirasto",
+                    "url": "https:\/\/avi.fi\/asioi\/yritys-tai-yhteiso\/luvat-ilmoitukset-ja-hakemukset\/vesi-ja-ymparisto\/ymparistolupa"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin ympäristöpalveluiden ympäristövalvonnan yhteystiedot",
+                    "url": "https:\/\/numerot.hel.fi\/fi\/kaupunkiympariston-toimiala\/palvelut-ja-luvat\/ymparistopalvelut\/ymparistoseuranta-ja-valvonta\/ymparistovalvonta"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoja ympäristöluvasta Ymparisto.fi-palvelussa",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/ymparistolupa"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3951,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae ympäristölupaa Helsingin kaupungilta",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4048,
         "fi": {
             "id": 4048,
@@ -48784,6 +48991,134 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5409,
+        "fi": {
+            "id": 5409,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ympäristönsuojelulain mukainen ilmoitusmenettely",
+            "description": "Tietyt toiminnot, jotka aiheuttavat vähäisiä  ympäristövaikutuksia, eivät vaadi ympäristölupaa, vaan sinun tulee tehdä tällaisesta toiminnasta ympäristönsuojelulain mukainen yleinen ilmoitus. Tällaisia toimintoja ovat esimerkiksi ajoneuvo- ja työkonevarikot.\n\nIlmoitus tulee tehdä 120 vuorokautta ennen toiminnan aloittamista. Päätöksessä voimme  antaa toimintaa koskevia määräyksiä.\n \nLähetä ilmoitus Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tarkemmat ohjeet ilmoituksen tekemiseen saat Ymparisto.fi-palvelusta.",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/ysln-yleinen-ilmoitusmenettely"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3952,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ympäristönsuojelulain mukainen ilmoitus",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5411,
+        "fi": {
+            "id": 5411,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Ympäristönsuojelulain mukainen rekisteröinti",
+            "description": "Polttonesteiden jakeluasemat, asfalttiasemat, pienet polttolaitokset, kemialliset pesulat, tietyt orgaanisia liuottimia käyttävät laitokset ja betoniasemat on vapautettu ympäristölupamenettelystä, jos ne täyttävät kyseiselle toiminnalle asetuksissa määritetyt vaatimukset. Ympäristöluvan hakemisen sijaan sinun tulee tehdä ilmoitus toiminnan rekisteröimiseksi. Ilmoitus tulee tehdä vähintään 90 vuorokautta ennen toiminnan aloittamista. Voit aloittaa toiminnan, kun olet saanut tiedon, että toiminta on rekisteröity.\n\nLähetä rekisteröinti-ilmoitus Helsingin ympäristöpalveluille Lupapiste-palvelun kautta. \n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tarkemmat ohjeet rekisteröintiin saat Ymparisto.fi-palvelusta.",
+                    "url": "https:\/\/www.ymparisto.fi\/fi\/luvat-ja-velvoitteet\/ysln-mukainen-rekisterointi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3953,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ympäristönsuojelulain mukainen rekisteröinti",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapiste-palveluun",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 815,
