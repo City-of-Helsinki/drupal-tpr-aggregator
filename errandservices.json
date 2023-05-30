@@ -4094,6 +4094,7 @@
         "en": {
             "id": 4280,
             "exact_descriptions": [
+                7607,
                 9000
             ],
             "service_id": 10907,
@@ -12087,8 +12088,104 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5279,
+            "exact_descriptions": [
+                9580
+            ],
+            "service_id": 10178,
+            "type": "APPLICATION",
+            "name": "Funeral grant",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3731,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Benefit handling telephone counselling in Finnish",
+                    "availability_summary": "Open Mon-Fri 09-12",
+                    "phone": "09 310 56257",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-12"
+                        }
+                    ]
+                },
+                {
+                    "id": 3732,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Benefit handling telephone counselling in Swedish",
+                    "availability_summary": "Open Mon-Fri 09-11",
+                    "phone": "09 310 44967",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3733,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Supplementary social assistance application for funeral expenses form",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Supplementary social assistance application for funeral expenses form (in Finnish and Swedish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/303-024_Taydentava_toimeentulotuki_hautauskulut_fi-sv.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5279,
             "exact_descriptions": [
@@ -35952,6 +36049,51 @@
                             "availability_string": "Avoinna ma-pe 08:15-16"
                         }
                     ]
+                },
+                {
+                    "id": 3962,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sosiaalineuvonnan sähköpostiosoite",
+                    "email": "sosiaalineuvonta.aikuissosiaalityo@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3963,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Suojatun sähköpostin lähettäminen",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Suojatun sähköpostin lähettäminen",
+                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=fi&recipient=sosiaalineuvonta.aikuissosiaalityo%40hel.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -36003,6 +36145,43 @@
                         {
                             "availability_string": "Open Mon-Fri 08:15-16"
                         }
+                    ]
+                },
+                {
+                    "id": 3962,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "sosiaalineuvonta.aikuissosiaalityo@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3963,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -36056,6 +36235,43 @@
                         {
                             "availability_string": "Öppet mån-fre 08:15-16"
                         }
+                    ]
+                },
+                {
+                    "id": 3962,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "sosiaalineuvonta.aikuissosiaalityo@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3963,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -46159,8 +46375,91 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 4276,
+            "exact_descriptions": [
+                7607
+            ],
+            "service_id": 10907,
+            "type": "APPLICATION",
+            "name": "Supplementary or preventive social assistance application",
+            "description": "Supplementary or preventive social assistance application",
+            "process_description": "Residents of Helsinki who have a valid basic social assistance decision from Kela can apply for supplementary social assistance online.\n\n1. Please have a look at the application questions in advance.\n2. For more information on supplementary social assistance, please refer to this page: Täydentävä toimeentulotuki (Supplementary social assistance, in Finnish). You will only need to supply the appendices or additional clarifications related to the supplementary social assistance in the application.\n3. Please make sure you have all the required documents available in electronic form before you begin filling out the form. The online application can be saved as a draft if necessary. Appendices cannot be sent at a later time electronically, they can only be submitted later to the Application Reception Service by post to: Hakemusten vastaanotto, PO Box 6032, 00099 City of Helsinki.\n4. The maximum number of application appendices is 15 and the maximum file size of an appendix is 2 MB.\n5. When you have submitted your application, you will receive a notification stating: 'Application sent'. After a moment, you will receive another notification stating: 'Your form was successfully submitted. It is stored in your services folder under the number xxxxx.'\n6. Applications can only be cancelled by calling the service number for benefit processing (Mon-Fri 9 am-12 noon; Finnish: 09 3105 6257, Swedish: 09 3104 4967).\n7. The application process ends once a decision is made. Decisions are sent by post.\n8. You can monitor the process of your application by checking the Status column in your services folder.",
+            "processing_time": "Applications will typically be processed within 7 working days, if all the information required for the decision is available.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Supplementary and preventive social assistance",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/socia-health\/socia-support\/income-support"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2663,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Printable application for supplementary or preventive social assistance",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Open and fill in the form to be printed ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/303-020_tjae-tuen_hakemus_su.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3842,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Electronic application in Maisa",
+                    "prerequisites": "",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Submit an electronic application through Maisa ",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 4276,
             "exact_descriptions": [
