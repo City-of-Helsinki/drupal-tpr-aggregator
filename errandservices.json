@@ -2692,7 +2692,8 @@
         "en": {
             "id": 5073,
             "exact_descriptions": [
-                3717
+                3717,
+                8965
             ],
             "service_id": 10087,
             "type": "ADVICE",
@@ -35954,8 +35955,58 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5351,
+            "exact_descriptions": [
+                9624
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Social counselling",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3019"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3837,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Social counselling telephone service",
+                    "availability_summary": "Open Mon-Fri 08:15-16",
+                    "phone": "09 310 44400",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08:15-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5351,
             "exact_descriptions": [
@@ -36453,8 +36504,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5337,
+            "exact_descriptions": [
+                2937,
+                9615
+            ],
+            "service_id": 10717,
+            "type": "APPOINTMENT",
+            "name": "Financial and debt counselling",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3813,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Appointment booking and counselling",
+                    "availability_summary": "Open Mon-Tue, Thu-Fri 09-11, Mon-Tue, Thu-Fri 12-14",
+                    "phone": "09 3104 3929",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Tue, Thu-Fri 12-14"
+                        },
+                        {
+                            "availability_string": "Open Mon-Tue, Thu-Fri 09-11"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5337,
             "exact_descriptions": [
@@ -49180,6 +49282,7 @@
             "type": "PERMISSION",
             "name": "Ympäristölupa",
             "description": "Tarvitset toiminnalle ympäristöluvan, jos toiminta voi aiheuttaa terveyshaittaa, merkittävää ympäristön pilaantumista tai sen vaaraa. Tällaista toimintaa ovat esimerkiksi ammattimainen jätteenkäsittely ja monet elintarviketeollisuuslaitokset.\n\nYmpäristöluvassa voidaan antaa määräyksiä muun muassa toiminnan laajuudesta, päästöistä ja niiden vähentämisestä. Luvanvaraisen toiminnan saa pääsääntöisesti aloittaa vasta, kun lupa on lainvoimainen.\n\nHelsingissä ympäristöluvat myöntää toiminnan luonteesta ja laajuudesta riippuen Etelä-Suomen aluehallintovirasto tai Helsingin kaupunkiympäristölautakunnan ympäristö- ja lupajaosto. \n",
+            "costs": "Perimme ympäristölupahakemuksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49214,7 +49317,7 @@
                     "id": 3951,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae ympäristölupaa Helsingin kaupungilta",
+                    "name": "Hae ympäristölupaa Helsingin ympäristöpalveluilta",
                     "provided_languages": [
                         "fi",
                         "sv"
