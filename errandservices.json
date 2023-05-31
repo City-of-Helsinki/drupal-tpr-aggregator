@@ -3097,8 +3097,95 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5350,
+            "exact_descriptions": [
+                9619
+            ],
+            "service_id": 10406,
+            "type": "ADVICE",
+            "name": "Non-institutional Work Activities contact information",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3834,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Contact information for the rehabilitation instructor of the home care assistive teams",
+                    "phone": "09 3104 4025",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3835,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Contact information for the rehabilitation instructor of the nature and environment teams",
+                    "phone": "09 3103 2597",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3836,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Contact information for the rehabilitation instructor of the building and property teams and rehabilitative work for prisoners",
+                    "phone": "09 3104 6040 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5350,
             "exact_descriptions": [
@@ -3149,7 +3236,7 @@
                     "id": 3835,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Kontaktuppgifter till Natur- och miljögruppernas rehabiliteringshandledare",
+                    "name": "Kontaktuppgifter till natur- och miljögruppernas rehabiliteringshandledare",
                     "phone": "09 3103 2597",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -3170,7 +3257,7 @@
                     "id": 3836,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Kontaktuppgifter till byggnads- och fastighetsgruppernas handledare",
+                    "name": "Kontaktuppgifter till rehabiliteringshandledaren för byggnads- och fastighetsgrupper och rehabiliteringsarbete för fångar",
                     "phone": "09 3104 6040 ",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -23308,8 +23395,55 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5342,
+            "exact_descriptions": [
+                2915
+            ],
+            "service_id": 10714,
+            "type": "ADVICE",
+            "name": "Rehabilitation instructor's telephone (prison work)",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3823,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Rehabilitation instructor's telephone (prison work)",
+                    "availability_summary": "Open Mon-Thu 08:15-16",
+                    "phone": "09 3104 6040",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Thu 08:15-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5342,
             "exact_descriptions": [
@@ -35796,8 +35930,57 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5344,
+            "exact_descriptions": [
+                9617
+            ],
+            "service_id": 10406,
+            "type": "APPOINTMENT",
+            "name": "Social rehabilitation, appointment",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3825,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Social rehabilitation, appointment",
+                    "availability_summary": "Open Tue, Fri 09-11",
+                    "phone": "09 310 73392 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Tue, Fri 09-11"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5344,
             "exact_descriptions": [
@@ -36476,8 +36659,52 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5343,
+            "exact_descriptions": [
+                9620
+            ],
+            "service_id": 10406,
+            "type": "ADVICE",
+            "name": "Social rehabilitation instructor",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3824,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone number of the rehabilitation instructor",
+                    "phone": "09 310 34821",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5343,
             "exact_descriptions": [
@@ -45398,8 +45625,96 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5341,
+            "exact_descriptions": [
+                9616
+            ],
+            "service_id": 10791,
+            "type": "ADVICE",
+            "name": "Contact information for work ability coordinator services",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3004",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3005",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3820,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone Work ability coordinator services 1",
+                    "phone": "040 809 5165",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3821,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone Work ability coordinator services 2",
+                    "phone": "040 664 0082",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3822,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Email address",
+                    "email": "sote.tyokykykoordinaattorit@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5341,
             "exact_descriptions": [
@@ -45564,8 +45879,75 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5340,
+            "exact_descriptions": [
+                3339
+            ],
+            "service_id": 10791,
+            "type": "APPOINTMENT",
+            "name": "Work ability assessment, appointment",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3818,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Work ability assessment",
+                    "availability_summary": "Open Mon-Fri 08:15-16",
+                    "phone": "09 310 5015 (vaihde)",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08:15-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3819,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Work Ability Assessment, email",
+                    "email": "tyokykyselvitys@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5340,
             "exact_descriptions": [
