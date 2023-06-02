@@ -5027,11 +5027,8 @@
             ],
             "service_id": 10271,
             "type": "APPLICATION",
-            "name": "Revision to a detailed plan",
-            "description": "A property owner or holder can apply for a revision to a current detailed plan.",
-            "process_description": "If a property owner or holder wishes to apply for a revision to a current detailed plan, the owner or holder must do so in writing. This can be done with a standard form used to apply for a revision to a detailed plan, or with a free-form application containing the same information.\n\nThe application must be accompanied by a certificate indicating the owner or holder of the property for which the revision is applied, for example, a title certificate or a certified copy of the sale or lease agreement.\n\nThe application can be accompanied by a drawing showing the proposed revision.\n\nBefore applying for a revision, the applicant is advised to contact the Detailed Planning Unit and discuss the feasibility and relevance of the revision with the planner in charge of the area. \n\nThe planners by area are available by appointment at Työpajankatu 8, Helsinki, switchboard: 09 310 2611. \n\nIf you are applying for amendment of the local detailed plan concerning a rented plot owned by the City, please contact the City's land acquisition unit before you submit the application. The contact information for the land acquisition team can be found under the Further information link.\n\nThe application should be delivered to the City of Helsinki Register Office.\n",
-            "costs": "After the proposal for a revision is approved, the landowner pays a fee to cover the production of necessary maps and the announcement of the revision. The fee is determined by the real costs caused by the revision.",
-            "information": "If the application is for an upgrade of a site for single-family housing from utilization level 0.20 to level 0.25, the upgrade can be done with a deviation permit. The instructions and forms can be found on the Building Control Department's Web site.",
+            "name": "Apply for an amendment to the local detailed plan",
+            "description": "Apply for an amendment by using our form or with a free-form application containing the same information as the form. Send the application to the City of Helsinki Registrar's Office. Email address: helsinki.kirjaamo@hel.fi. Postal address: P.O. Box 10, 00099 City of Helsinki.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5045,30 +5042,32 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Registrar's Office",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/administration\/registrars"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Tariff",
-                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Planners on the map",
-                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Land acquisition team",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/en\/housing\/plots-land-buildings\/plots\/land-acquisition",
-                    "file_format": "HTML"
-                }
             ],
             "channels": [
+                {
+                    "id": 3904,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Applying for an amendment to the local detailed plan",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for an amendment to the local detailed plan",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asemakaavan-muutoshakemus-hki.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -5078,11 +5077,8 @@
             ],
             "service_id": 10271,
             "type": "APPLICATION",
-            "name": "Detaljplaneändring",
-            "description": "Ägaren eller innehavaren till en tomt kan ansöka om ändring av en giltig detaljplan.",
-            "process_description": "Man kan ansöka om ändring på blanketten Ansökan om ändring av detaljplan eller med en egen fritt formulerad ansökan med motsvarande uppgifter.\n\nFöljande dokument ska bifogas ansökan:\n \n- Utredning om ägande- eller besittningsrätt. Ett dokument varav ägandeförhållandena eller besittningen av tomten framgår (t.ex. lagfartsbevis, hyresavtal, köpebrev, om lagfarten är anhängig eller om det är högst sex [6] månader sedan köpet).\n\n- Fullmakt, om ansökan undertecknas av någon annan än den sökande. Fullmakten ska innehålla fastighetens samtliga ägares\/innehavares underskrifter och namnförtydliganden. Alla de åtgärder som den befullmäktigade har rätt att vidta ska framgå av fullmakten.\n\n- Protokoll från bolagsstämman, om ändringen söks av ett bostads- eller fastighetsaktiebolag. Bolagsstämman ska besluta om sökande av ändring i detaljplanen. \n\n- Handelsregisterutdrag, om ändringen söks av ett bolag. Dokumentet visar vem eller vilka som har rätt att teckna bolagets firma. \n\n- Markanvändningsplan, det vill säga en ritning varav den sökta ändringen framgår.\n\nInnan du lämnar in ansökan rekommenderar vi att du tar kontakt med planläggningstjänsten och förhandlar om möjligheten till ändring och dess ändamålsenlighet med områdesarkitekten. Samtidigt kan du ställa frågor om ersättningsbeloppet och tidsschemat för ändringen samt om andra eventuella detaljer.\n\nOmrådesarkitekterna finns anträffbara enligt överenskommelse på Verkstadsgatan 8, Helsingfors, telefonväxel 09 310 2611. Man ska komma överens om mötet på förhand.\n\nOm du ansöker om detaljplaneändring för en arrendetomt som staden äger, vänligen kontakta stadens markupphandlingsenhet innan du lämnar in ansökan. Markupphandlingsteamets kontaktuppgifter hittar du under länken Ytterligare information.\n\nÄndringsansökan skickas till Helsingfors registratorskontor.",
-            "costs": "Staden har rätt att uppbära kostnaderna för utarbetande och handläggning av planen av den sökande. Om den sökande återkallar sin ansökan efter att planarbetet har inletts, faktureras för det utförda arbetet. Planläggningsavgiften fastställs enligt den gällande avgiftstabellen den dag då ansökan har kommit in. \n",
-            "information": "Om frågan gäller en höjning av en småhustomts effektivitet från 0,20 till 0,25 kan saken även ordnas med ett undantagstillstånd. Byggnadstillsyn ger ansökningsformulär liksom även anvisningar om inlämnande av ansökan. Det finns också anvisningar och nödvändiga blanketter på byggnadstillsynens webbplats.",
+            "name": "Ansök om ändring av detaljplan",
+            "description": "Ansök om ändring av detaljplan med en färdig blankett eller en fritt formulerad ansökan som har motsvarande uppgifter som blanketten. Skicka ansökan till Helsingfors stads registratorskontor. E-postadress: helsinki.kirjaamo@hel.fi. Postadress: PB 10, 00099 Helsingfors stad",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5096,36 +5092,32 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsingfors registratorskontor",
-                    "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/#5"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Avgifter som uppbärs för stadsplan",
-                    "url": "http:\/\/www.hel2.fi\/ksv\/Aineistot\/hinnastot\/kaavamaksut_sv.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Byggnadstillsyn",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/byggande\/tillstond\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Områdesarkitekterna på karttjänsten",
-                    "url": "https:\/\/kartta.hel.fi\/?link=8LG6hV"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Markupphandlingsteamet",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/sv\/boende-och-miljo\/tomter\/tomter\/upphandling-mark",
-                    "file_format": "HTML"
-                }
             ],
             "channels": [
+                {
+                    "id": 3904,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om ändring av detaljplan",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om ändring av detaljplan (på finska, pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asemakaavan-muutoshakemus-hki.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
