@@ -39934,10 +39934,110 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5390,
+            "exact_descriptions": [
+                4542
+            ],
+            "service_id": 10488,
+            "type": "APPLICATION",
+            "name": "File a notification of cleaning contaminated soil",
+            "description": "Send the notification with attachments to the City of Helsinki Registrar's Office by email to helsinki.kirjaamo@hel.fi or by post to P.O. Box 10, 00099 City of Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3903,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "File a notification of cleaning contaminated soil",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5390,
+            "exact_descriptions": [
+                4542
+            ],
+            "service_id": 10488,
+            "type": "APPLICATION",
+            "name": "Gör en anmälan om sanering av förorenad mark",
+            "description": "Skicka anmälan med bilagor per e-post till Helsingfors stads registratorskontor helsinki.kirjaamo@hel.fi eller per post till adressen PB 10, 00099 Helsingfors stad.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3903,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Gör en anmälan om sanering av förorenad mark",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Anmälan om sanering av förorenad mark (på finska, pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.pdf"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "•\tAnmälan om sanering av förorenad mark (på finska, docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5274,
