@@ -8361,10 +8361,66 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5391,
+            "exact_descriptions": [
+                4985
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Apply for a placement agreement",
+            "description": "Apply for a placement agreement electronically via Lupapiste.",
+            "process_description": "Attach the following documents to your application:\n\n- A plan of the structures to be placed\n- A power of attorney if someone other than the owner or occupier of the property or owner or holder of the structure applies for the agreement \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5391,
+            "exact_descriptions": [
+                4985
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Ansök om placeringsavtal",
+            "description": "Ansök om placeringsavtal elektroniskt i tjänsten Lupapiste.",
+            "information": "Bifoga följande bilagor till ansökan:\n\n- plan på konstruktioner som placeras\n- fullmakt om någon annan än ägaren till eller innehavaren av fastigheten eller konstruktionen ansöker om avtalet. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 1141,
@@ -26545,6 +26601,7 @@
         "fi": {
             "id": 5419,
             "exact_descriptions": [
+                4277
             ],
             "service_id": 10891,
             "type": "APPLICATION",
@@ -43149,15 +43206,16 @@
         "en": {
             "id": 2812,
             "exact_descriptions": [
+                3282
             ],
             "service_id": 10232,
             "type": "INFORMATION_SERVICE",
-            "name": "Cable report, e-service",
-            "description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works.",
-            "process_description": "E-service through which it is possible to order a cable report for excavation, drilling and quarrying works from the cable data service. Using the service requires identification.\n\n1. Applicant fills in an electronic cable report form. \n2. The cable report form is received for processing by the cable data service. \n3. The cable data service processes the application and sends the cable map with appendices to the customer's e-services folder.",
-            "processing_time": "The processing time for the cable report application is 1 working day.",
-            "expiration_time": "The submitted application is valid until the cable report has been done. The period of validity for the cable report is 1 month.",
-            "costs": "The cable report is free of charge for those who perform excavation, drilling and quarrying works.",
+            "name": "Order a cable report",
+            "description": "Order a cable report in the e-service or in person. In-person visits only by appointment.",
+            "processing_time": "Applications are processed on a first come, first served basis. We aim to process applications in one business day. You can track the process in the e-service. You will receive the cable report with a",
+            "expiration_time": "The submitted application is valid until the cable report is complete. The cable report is valid for one month.",
+            "costs": "If you are carrying out excavation, drilling or quarrying works, the report is free of charge.\nCable maps and other map materials are ordered electronically from the Karttakori service. \n",
+            "information": "Always attach a work plan to the application. In addition, you can attach a connection point statement, for example. One application can have 1-5 attachments.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -43173,27 +43231,51 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "City Survey Services",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/housing\/plots-land-buildings\/surveying\/cables-pipes\/"
-                }
             ],
             "channels": [
+                {
+                    "id": 3906,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Order a cable report",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to e-services",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/static\/johtoselvitys"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
             "id": 2812,
             "exact_descriptions": [
+                3282
             ],
             "service_id": 10232,
             "type": "INFORMATION_SERVICE",
-            "name": "Ledningsutredning, e-tjänst",
-            "description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten.",
+            "name": "Beställ en ledningsutredning",
+            "description": "Beställ en ledningsutredning i e-tjänsten eller på plats hos oss. Uträttande av ärenden på plats endast med tidsbeställning.",
             "process_description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten från stadsmätningsavdelningens ledningsdatatjänst. Användning av tjänsten förutsätter identifiering.\n\n1. Den sökande fyller i blanketten för en elektronisk utredning om ledningar. \n2. Ansökningen om en utredning om ledningar kommer till ledningsdatatjänsten för behandling. \n3. Ledningsdatatjänsten behandlar ansökningen och skickar till kunden en ledningskarta med bilagor till den elektroniska ärendemappen.",
             "processing_time": "Behandlingstiden för ansökningen för en utredning om ledningar är 1 vardag.",
-            "expiration_time": "En ansökning som skickats är i kraft tills en utredning om ledningar har gjorts. Giltighetstiden för utredningen om ledningar är 1 månad.",
-            "costs": "Utredningen om ledningar är avgiftsfri för de som utför gräv,- borrnings- och brytningsarbeten i Helsingfors.",
+            "expiration_time": "Ansökan som du skickat gäller tills ledningsutredningen är färdig. Ledningsutredningen gäller 1 månad.",
+            "costs": "För personer som utför grävnings-, borrnings- och sprängningsarbeten är ledningsutredningen avgiftsfri.\n\nInför planeringen ska du beställa ledningskartor och annat kartmaterial elektroniskt från tjänsten Karttakori. \n",
+            "information": "Bifoga alltid en arbetsplan till ansökan. Dessutom kan du bifoga till exempel ett utlåtande om anslutningspunkt. Du kan bifoga 1-5 bilagor till ansökan.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -43216,6 +43298,33 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 3906,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Beställ en ledningsutredning",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/static\/johtoselvitys"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -48272,7 +48381,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Varhaiskasvatuksen palveluohjaus",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kasvatus-ja-koulutus\/paivahoito\/varhaiskasvatuksen-palveluohjaus\/"
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/varhaiskasvatus\/varhaiskasvatuksen-ja-esiopetuksen-yhteystiedot#Kysymyksi%C3%A4-hakemisesta?-%E2%80%93-Ota-yhteytt%C3%A4-palveluohjaukseen"
                 }
             ],
             "channels": [
