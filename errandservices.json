@@ -29900,10 +29900,106 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 3038,
+            "exact_descriptions": [
+                2806
+            ],
+            "service_id": 10548,
+            "type": "ORDERING",
+            "name": "Ordering self-treatment products",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 1828,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone service for the distribution of self-treatment products",
+                    "availability_summary": "Open Mon-Fri 09-12",
+                    "phone": "09 310 55002",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 3038,
+            "exact_descriptions": [
+                2806
+            ],
+            "service_id": 10548,
+            "type": "ORDERING",
+            "name": "Beställning av egenvårdsartiklar",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 1828,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefontjänst för utdelning av egenvårdsartiklar",
+                    "availability_summary": "Öppet mån-fre 09-12",
+                    "phone": "09 310 55002",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 09-12"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5393,
