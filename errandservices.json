@@ -30427,6 +30427,87 @@
         }
     },
     {
+        "id": 5266,
+        "fi": {
+            "id": 5266,
+            "exact_descriptions": [
+                3712
+            ],
+            "service_id": 10814,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä",
+            "name_synonyms": "vammaisasiamies",
+            "description": "Saat yhteyden asiantuntijaan sähköpostitse tai puhelimitse.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin vammaisneuvosto",
+                    "url": "https:\/\/ihmisoikeudet.hel.fi\/vammaisneuvosto\/",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3718,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköposti",
+                    "email": "tiina.lappalainen@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3967,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelinnumero",
+                    "phone": "09 3103 6086",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5147,
         "fi": {
             "id": 5147,
@@ -49928,66 +50009,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5266,
-        "fi": {
-            "id": 5266,
-            "exact_descriptions": [
-                3712
-            ],
-            "service_id": 10814,
-            "type": "ADVICE",
-            "name": "Yhteydenottokanavat",
-            "name_synonyms": "vammaisasiamies",
-            "description": "Saat yhteyden asiantuntijaan sähköpostitse tai puhelimitse.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "DISABLED"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsingin vammaisneuvosto",
-                    "url": "https:\/\/ihmisoikeudet.hel.fi\/vammaisneuvosto\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 3718,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Sähköposti",
-                    "email": "tiina.lappalainen@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5408,
