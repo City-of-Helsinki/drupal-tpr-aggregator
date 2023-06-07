@@ -8201,6 +8201,211 @@
         }
     },
     {
+        "id": 1557,
+        "fi": {
+            "id": 1557,
+            "exact_descriptions": [
+                3557
+            ],
+            "service_id": 10456,
+            "type": "PERMISSION",
+            "name": "Hae raskaan liikenteen erityislupaa",
+            "description": "Yli 12 metriä pitkät ajoneuvot tarvitsevat erityisluvan ajaakseen Helsingin kantakaupungin rajoitusalueella. Lupa ei oikeuta poikkeamaan ajoneuvoasetuksen mitoista ja massoista (pituus, leveys, korkeus, kokonaismassa ja akselimassat).",
+            "process_description": "Lupaa haetaan lomakkeella, jonka voi palauttaa sähköpostitse osoitteeseen ksv.liikenne@hel.fi.\n\n\nJos palautat lupahakemuksen postitse, niin lähetä se osoitteeseen:\nKaupunkiympäristön toimiala, Toimistopalvelut \nPL 58201\n00099 Helsingin kaupunki",
+            "processing_time": "Hakemus tulee jättää kaksi työpäivää ennen aiottua kuljetusta.",
+            "costs": "Luvan myöntämisestä ei peritä maksua.",
+            "information": "Eija Huhtala, p. 09 310 38372\nRaija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 040 653 5361\nRiitta Malmivaara, p. 040 860 7628\n\n\n\n\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Erikoiskuljetusten luvat (ELY-keskus)",
+                    "url": "https:\/\/www.ely-keskus.fi\/web\/ely\/erikoiskuljetukset#.V_98nfmLTmE"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kartta rajoitusalueesta",
+                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1187,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Raskaan liikenteen erityislupa, lomakkeet",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lomake (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Lomake (doc)",
+                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.doc",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 1557,
+            "exact_descriptions": [
+            ],
+            "service_id": 10456,
+            "type": "PERMISSION",
+            "name": "Special licence required for heavy traffic to Helsinki inner city",
+            "description": "Vehicles over 12 metres in length require a special licence to operate in the restricted area of the Helsinki inner city.",
+            "process_description": "The licence should be applied for using a form that can be submitted by e-mail (ksv.liikenne@hel.fi) or mail.\n\nMailing address:\nUrban Environment Division, P.O. BOX 58201, 00099 City of Helsinki.",
+            "processing_time": "A licence application should be submitted two workdays prior to the intended transportation.",
+            "costs": "The licence is free of charge.",
+            "information": "Eija Huhtala, tel. 09 310 38372\nRaija Jussilainen, tel. 09 310 24693\nTanja Etelälahti, tel. 09 310 52185\nRiitta Malmivaara, tel. 040 860 7628\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Map of area where restrictions apply",
+                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1187,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Special licence required for heavy traffic, forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Form (pdf, In Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Form (doc, help text in English)",
+                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-en.doc",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 1557,
+            "exact_descriptions": [
+                3557
+            ],
+            "service_id": 10456,
+            "type": "PERMISSION",
+            "name": "Specialtillstånd för tung trafik i Helsingfors stadskärna",
+            "description": "Över tolv meter långa fordon måste ha specialtillstånd för att köra in i det avgränsade området i Helsingfors stadskärna. Tillståndet berättigar inte att avvika från måtten och massorna i fordonsförordningen (längd, bredd, höjd, total massa och axelmassa).",
+            "process_description": "Man ansöker om tillstånd med en blankett som kan returneras per e-post (ksv.liikenne@hel.fi) eller post. \n\nBlanketten kan skickas via post till:\nStadsmiljösektorn, PB 58201, 00099 Helsingfors stad.\n \n",
+            "processing_time": "Ansökan bör lämnas in två arbetsdagar innan man ämnar genomföra transporten. ",
+            "costs": "Ingen avgift tas ut för beviljat tillstånd.",
+            "information": "Eija Huhtala, p. 09 310 38372\nRaija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 040 653 5361\nRiitta Malmivaara, p. 040 860 7628\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Karta över det avgränsade området",
+                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1187,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Specialtillstånd för tung trafik, blanketterna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Blanketten (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-ruotsi.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Blanketten (doc)",
+                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-ruotsi.doc",
+                            "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5328,
         "fi": {
             "id": 5328,
@@ -32352,12 +32557,6 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2022-2023, PDF",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/ip-toiminta\/perusopetuksen_iltapaivatoiminta2022-2023.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "FORM",
                             "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2023-2024, PDF",
                             "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/popa\/Hakulomake-iptoiminta.pdf",
                             "file_format": "PDF"
@@ -32456,11 +32655,6 @@
                             "type": "INTERNET",
                             "title": "Paper application to after-school activities in the school year 2023-2024, PDF (Form in English coming soon)",
                             "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/popa\/Hakulomake-iptoiminta.pdf"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Paper application to after-school activities in the school year 2022-2023, PDF",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/ip-toiminta\/perusopetuksen_iltapaivatoiminta_k2022_EN.pdf"
                         }
                     ],
                     "availabilities": [
@@ -32551,11 +32745,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Ansökningsblankett till eftermiddagsverksamhet 2022-2023",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/ip-toiminta\/perusopetuksen_iltapaivatoiminta_k2022_SV.pdf"
-                        },
                         {
                             "type": "FORM",
                             "title": "Ansökningsblankett till eftermiddagsverksamhet 2023-2024",
@@ -33799,414 +33988,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån-tor 09-13"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 1557,
-        "fi": {
-            "id": 1557,
-            "exact_descriptions": [
-                3557
-            ],
-            "service_id": 10456,
-            "type": "PERMISSION",
-            "name": "Raskaan liikenteen erityislupa Helsingin kantakaupunkiin",
-            "description": "Yli 12 metriä pitkät ajoneuvot tarvitsevat erityisluvan ajaakseen Helsingin kantakaupungin rajoitusalueella. Lupa ei oikeuta poikkeamaan ajoneuvoasetuksen mitoista ja massoista (pituus, leveys, korkeus, kokonaismassa ja akselimassat).",
-            "process_description": "Rajoitusalue kattaa koko eteläisen Helsingin Paciuksenkatu - Nordenskiöldinkatu - Teollisuuskatu -linjalle asti lukuun ottamatta Länsisatamaa, Eteläsatamaa ja Katajanokkaa (katso oheinen kartta). Rajoitus ei koske linja-autoja.\n\nLupaa haetaan lomakkeella, jonka voi palauttaa sähköpostitse, kirjeitse tai henkilökohtaisesti tuomalla.",
-            "processing_time": "Hakemus tulee jättää kaksi työpäivää ennen aiottua kuljetusta.",
-            "costs": "Luvan myöntämisestä ei peritä maksua.",
-            "information": "Eija Huhtala, p. 09 310 38372\nRaija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 040 653 5361\nRiitta Malmivaara, p. 040 860 7628\n\n\n\n\n",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Erikoiskuljetusten luvat (ELY-keskus)",
-                    "url": "https:\/\/www.ely-keskus.fi\/web\/ely\/erikoiskuljetukset#.V_98nfmLTmE"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Kartta rajoitusalueesta",
-                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1185,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Raskaan liikenteen erityislupa, sähköposti",
-                    "process_description": "Jos haluat palauttaa lupahakemuksen sähköpostitse, täytä lomakkeen tiedot, tallenna se omalle koneellesi ja lähetä sähköpostin liitetiedostona osoitteeseen ksv.liikenne@hel.fi.",
-                    "email": "ksv.liikenne@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1187,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Raskaan liikenteen erityislupa, lomakkeet",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Lomake (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Lomake (doc)",
-                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1188,
-                    "type": "MAIL",
-                    "type_string": "Posti",
-                    "name": "Raskaan liikenteen erityislupa, posti",
-                    "information": "Jos haluat palauttaa lupahakemuksen postitse, voit täyttää lomakkeen tiedot tietokoneella tai käsin ja lähettää sen osoitteeseen: \n\nKaupunkiympäristön toimiala, Toimistopalvelut \nPL 58201\n00099 Helsingin kaupunki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1189,
-                    "type": "LOCAL",
-                    "type_string": "Henkilökohtainen palvelu",
-                    "name": "Raskaan liikenteen erityislupa, henkilökohtainen palvelu",
-                    "information": "Jos haluat palauttaa lupahakemuksen henkilökohtaisesti, voit täyttää lomakkeen tiedot tietokoneella tai käsin ja tuoda sen kaupunkisuunnitteluviraston liikennesuunnitteluosastolle osoitteeseen Kansakoulukatu 3.",
-                    "availability_summary": "Avoinna ma-to 08:15-16, pe 08:15-15",
-                    "personal_service_street_addr": "Työpajankatu 8",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-to 08:15-16"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 08:15-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 1557,
-            "exact_descriptions": [
-            ],
-            "service_id": 10456,
-            "type": "PERMISSION",
-            "name": "Special licence required for heavy traffic to Helsinki inner city",
-            "description": "Vehicles over 12 metres in length require a special licence to operate in the restricted area of the Helsinki inner city.",
-            "process_description": "The restricted area covers the entire southern Helsinki up to the Paciuksenkatu- Nordenskiöldinkatu-Teollisuuskatu line excluding the West Harbour, South Harbour and Katajanokka. The restriction does not apply to buses. \n\nThe licence should be applied for using a form that can be submitted by e-mail, fax or mail, or in person.",
-            "processing_time": "A licence application should be submitted two workdays prior to the intended transportation.",
-            "costs": "The licence is free of charge.",
-            "information": "Information:\n \nEija Huhtala, tel. 09 310 38372\nRaija Jussilainen, tel. 09 310 24693\nTanja Etelälahti, tel. 09 310 52185\nRiitta Malmivaara, tel. 040 860 7628\n",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Map of area where restrictions apply",
-                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1185,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Special licence required for heavy traffic, e-mail",
-                    "email": "ksv.liikenne@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1187,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Special licence required for heavy traffic, forms",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Form (pdf, In Finnish)",
-                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Form (doc, help text in English)",
-                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-en.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1188,
-                    "type": "MAIL",
-                    "type_string": "Mailing address",
-                    "name": "Special licence required for heavy traffic, mail",
-                    "information": "Mailing address:\nUrban Environment Division, P.O. BOX 28210, 00099 City of Helsinki.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1189,
-                    "type": "LOCAL",
-                    "type_string": "Local services",
-                    "name": "Special licence required for heavy traffic, personal service",
-                    "availability_summary": "Open Mon-Thu 08:15-16, Fri 08:15-15",
-                    "personal_service_street_addr": "Työpajankatu 8",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Thu 08:15-16"
-                        },
-                        {
-                            "availability_string": "Open Fri 08:15-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 1557,
-            "exact_descriptions": [
-                3557
-            ],
-            "service_id": 10456,
-            "type": "PERMISSION",
-            "name": "Specialtillstånd för tung trafik i Helsingfors stadskärna",
-            "description": "Över tolv meter långa fordon måste ha specialtillstånd för att köra in i det avgränsade området i Helsingfors stadskärna. Tillståndet berättigar inte att avvika från måtten och massorna i fordonsförordningen (längd, bredd, höjd, total massa och axelmassa).",
-            "process_description": "Det avgränsade området omfattar hela södra Helsingfors till linjen Paciusgatan - Nordenskiöldsgatan - Industrigatan med undantag för Västra hamnen, Södra hamnen och Skatudden. Begräsningen gäller inte bussar. \n\nMan ansöker om tillstånd med en blankett som kan returneras per e-post, post eller personligen. \n \n",
-            "processing_time": "Ansökan bör lämnas in två arbetsdagar innan man ämnar genomföra transporten. ",
-            "costs": "Ingen avgift tas ut för beviljat tillstånd.",
-            "information": "Eija Huhtala, tfn 09 310 38372\nRaija Jussilainen, tfn 09 310 24693\nTanja Etelälahti, tfn 040 653 5361",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Karta över det avgränsade området",
-                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1185,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Specialtillstånd för tung trafik, e-post",
-                    "email": "ksv.liikenne@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1187,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Specialtillstånd för tung trafik, blanketterna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Blanketten (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-ruotsi.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Blanketten (doc)",
-                            "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-ruotsi.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1188,
-                    "type": "MAIL",
-                    "type_string": "Postadress",
-                    "name": "Specialtillstånd för tung trafik, post",
-                    "information": "Blanketten kan skickas via post till \n\nStadsmiljösektorn, PB 28201, 00099 Helsingfors stad.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1189,
-                    "type": "LOCAL",
-                    "type_string": "Lokal service",
-                    "name": "Specialtillstånd för tung trafik, personlig service",
-                    "availability_summary": "Öppet mån-tor 08:15-16, fre 08:15-15",
-                    "personal_service_street_addr": "Verkstadsgatan 8",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-tor 08:15-16"
-                        },
-                        {
-                            "availability_string": "Öppet fre 08:15-15"
                         }
                     ]
                 }
