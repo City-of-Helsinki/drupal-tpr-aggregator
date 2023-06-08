@@ -36473,6 +36473,7 @@
                     "id": 3963,
                     "type": "WEBPAGE",
                     "type_string": "Webbsida",
+                    "name": "Skicka ett kryptera e-postmeddelande",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36483,6 +36484,12 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Skicka ett krypterat e-postmeddelande",
+                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=sv&recipient=sosiaalineuvonta.aikuissosiaalityo%40hel.fi#",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
