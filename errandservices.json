@@ -15462,6 +15462,7 @@
             "type": "APPLICATION",
             "name": "Huvivenesataman jätehuoltosuunnitelma",
             "description": "Huvivenesataman pitäjän on tehtävä jätehuoltosuunnitelma aluksista peräisin olevien jätteiden jätehuollosta. Jätehuoltosuunnitelma on päivitettävä viiden vuoden välein tai sataman toiminnan muuttuessa merkittävästi. \n\nLähetä jätehuoltosuunnitelma hyväksyttäväksi Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -16936,6 +16937,7 @@
             "type": "NOTICE",
             "name": "Ilmoitus jätteen ammattimaisesta keräämisestä",
             "description": "Jätteen ammattimaisesta keräämisestä on tehtävä ilmoitus hyvissä ajoin ennen toiminnan aloittamista jätehuoltorekisteriin merkitsemistä varten. Selvitä ennen ilmoituksen lähettämistä Helsingin ympäristöpalveluilta, edellyttääkö toiminta ympäristölupaa.\n\nLähetä ilmoitus ympäristöpalveluihin Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -16995,6 +16997,7 @@
             "type": "NOTICE",
             "name": "Ilmoitus karjanlannan aumaamisesta",
             "description": "Karjanlannan aumaamisesta tulee ilmoittaa Helsingin ympäristöpalveluille vähintään 14 vuorokautta etukäteen. Auman sijoituspaikan, koon, rakenteen ja aumauksen keston tulee täyttää niin sanotun nitraattiasetuksen vaatimukset. Aumaus ei voi korvata lantalaa pysyvänä ratkaisuna.\n\nIlmoita aumaamisesta Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -17118,6 +17121,7 @@
             "type": "NOTICE",
             "name": "Ilmoitus koeluonteisesta toiminnasta",
             "description": "Toiminnasta, jonka tarkoituksena on kokeilla esimerkiksi ympäristölupaa edellyttävässä toiminnassa uutta raaka- tai polttoainetta, valmistus- tai polttomenetelmää tai jätteen hyödyntämistä tai käsittelyä, tulee tehdä ilmoitus Helsingin ympäristöpalveluille. \n\nLähetä ilmoitus koeluonteisesta toiminnasta Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -17338,6 +17342,7 @@
             "type": "NOTICE",
             "name": "Ilmoitus lannan levittämiskiellosta poikkeamisesta",
             "description": "Lannan levittämisen kieltoajasta poikkeamisesta on tehtävä ilmoitus kunnan ympäristönsuojeluviranomaiselle lokakuun loppuun mennessä.\n\nIlmoita poikkeamisesta Lupapiste-palvelun kautta.",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -17468,6 +17473,7 @@
             "type": "NOTICE",
             "name": "Ilmoitus poikkeuksellisesta tilanteesta",
             "description": "Tee ilmoitus poikkeuksellisesta tilanteesta, jos esimerkiksi onnettomuuden, tuotantohäiriön tai rakennelman tai laitteen purkamisen takia syntyy päästöjä tai jätettä, josta voi aiheutua välitöntä ja ilmeistä ympäristön pilaantumisen vaaraa. Sinun tulee tehdä ilmoitus myös silloin, jos jätteen määrän tai ominaisuuksien vuoksi tarvitaan tavanomaisesta poikkeavia toimia jätehuollossa.\n\nLähetä ilmoitus poikkeuksellisesta tilanteesta Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26812,6 +26818,7 @@
             "type": "APPLICATION",
             "name": "Lupa maa-aineisten ottamiseen",
             "description": "Maa-ainesten ottaminen muuhun kuin omaan kotitarvekäyttöön vaatii maa-aineslain mukaisen luvan. Kotitarveotostakin tulee tehdä ilmoitus, jos aiot ottaa maa-aineksia yli 500 kuutiota.\n\nLähetä ilmoitus maa-ainesten ottamisesta Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme hakemuksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26876,6 +26883,7 @@
             "type": "APPLICATION",
             "name": "Lupa maastossa tai vesialueella järjestettävien harjoitusten ja kilpailujen toistuvaan tai pysyvään järjestämiseen",
             "description": "Tarvitset luvan maastossa tai vesialueella järjestettävien harjoitusten ja kilpailujen toistuvaan tai pysyvään järjestämiseen. Hae lupaa Helsingin ympäristöpalveluilta Lupapiste-palvelun kautta.",
+            "costs": "Perimme hakemuksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49809,7 +49817,7 @@
             "type": "PERMISSION",
             "name": "Ympäristölupa",
             "description": "Tarvitset toiminnalle ympäristöluvan, jos toiminta voi aiheuttaa terveyshaittaa, merkittävää ympäristön pilaantumista tai sen vaaraa. Tällaista toimintaa ovat esimerkiksi ammattimainen jätteenkäsittely ja monet elintarviketeollisuuslaitokset.\n\nYmpäristöluvassa voidaan antaa määräyksiä muun muassa toiminnan laajuudesta, päästöistä ja niiden vähentämisestä. Luvanvaraisen toiminnan saa pääsääntöisesti aloittaa vasta, kun lupa on lainvoimainen.\n\nHelsingissä ympäristöluvat myöntää toiminnan luonteesta ja laajuudesta riippuen Etelä-Suomen aluehallintovirasto tai Helsingin kaupunkiympäristölautakunnan ympäristö- ja lupajaosto. \n",
-            "costs": "Perimme ympäristölupahakemuksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
+            "costs": "Perimme hakemuksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -50071,6 +50079,7 @@
             "type": "NOTICE",
             "name": "Ympäristönsuojelulain mukainen ilmoitusmenettely",
             "description": "Tietyt toiminnot, jotka aiheuttavat vähäisiä  ympäristövaikutuksia, eivät vaadi ympäristölupaa, vaan sinun tulee tehdä tällaisesta toiminnasta ympäristönsuojelulain mukainen yleinen ilmoitus. Tällaisia toimintoja ovat esimerkiksi ajoneuvo- ja työkonevarikot.\n\nIlmoitus tulee tehdä 120 vuorokautta ennen toiminnan aloittamista. Päätöksessä voimme  antaa toimintaa koskevia määräyksiä.\n \nLähetä ilmoitus Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -50135,6 +50144,7 @@
             "type": "NOTICE",
             "name": "Ympäristönsuojelulain mukainen rekisteröinti",
             "description": "Polttonesteiden jakeluasemat, asfalttiasemat, pienet polttolaitokset, kemialliset pesulat, tietyt orgaanisia liuottimia käyttävät laitokset ja betoniasemat on vapautettu ympäristölupamenettelystä, jos ne täyttävät kyseiselle toiminnalle asetuksissa määritetyt vaatimukset. Ympäristöluvan hakemisen sijaan sinun tulee tehdä ilmoitus toiminnan rekisteröimiseksi. Ilmoitus tulee tehdä vähintään 90 vuorokautta ennen toiminnan aloittamista. Voit aloittaa toiminnan, kun olet saanut tiedon, että toiminta on rekisteröity.\n\nLähetä rekisteröinti-ilmoitus Helsingin ympäristöpalveluille Lupapiste-palvelun kautta. \n",
+            "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
                 "sv"
