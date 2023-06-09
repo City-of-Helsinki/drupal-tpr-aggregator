@@ -50439,7 +50439,7 @@
             "service_id": 10036,
             "type": "ADVICE",
             "name": "Yritysneuvonta",
-            "description": "Ajan yritysneuvontaan voit varata, kun olet osallistunut NewCo Helsingin järjestämään Yritysinfoon ja tehnyt alustavan liiketoimintasuunnitelman.",
+            "description": "Ajan yritysneuvontaan voit varata, kun olet osallistunut Business Helsingin järjestämään Yritysinfoon ja tehnyt alustavan liiketoimintasuunnitelman.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -50462,6 +50462,7 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Yritysneuvonnan ajanvaraus",
                     "prerequisites": "Kun olet lukenut Perustamisoppaan alkavalle yrittäjälle, ja osallistunut Yritysinfoon ja LTS-koulutukseen TAI sinulla on kysymyksiä koskien uutta liikeideaa, tai jo toiminnassa olevan yrityksen kehittämistä, olet tervetullut henkilökohtaiseen yritysneuvontaan.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "provided_languages": [
                         "ar",
                         "en",
@@ -50480,10 +50481,14 @@
                         {
                             "type": "INTERNET",
                             "title": "Yritysneuvonnan ajanvaraus",
-                            "url": "https:\/\/newcohelsinki.fi\/fi\/palvelut\/yritysneuvonta\/"
+                            "url": "https:\/\/newcohelsinki.fi\/fi\/palvelut\/ajanvaraus\/",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
                     ]
                 }
             ]
@@ -50521,6 +50526,7 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Företagsrådgivningens tidsreservering",
                     "prerequisites": "När du har läst guiden Starta eget - Guide för blivande företagare och deltagit på Företagsinfo och AVP-utbildningen, ELLER om du har frågor kring en ny affärsidé eller utvecklingen av ett aktivt företag, är du välkommen att få personlig företagsrådgivning.",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "provided_languages": [
                         "ar",
                         "en",
@@ -50543,6 +50549,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
                     ]
                 }
             ]
