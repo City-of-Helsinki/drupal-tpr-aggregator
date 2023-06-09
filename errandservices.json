@@ -36391,6 +36391,7 @@
                     "id": 3963,
                     "type": "WEBPAGE",
                     "type_string": "Webpage",
+                    "name": "Confidential message",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36401,6 +36402,12 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Confidential message",
+                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=en&recipient=sosiaalineuvonta.aikuissosiaalityo%40hel.fi",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
