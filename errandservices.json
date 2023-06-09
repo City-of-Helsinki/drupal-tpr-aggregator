@@ -8210,11 +8210,8 @@
             "service_id": 10456,
             "type": "PERMISSION",
             "name": "Hae raskaan liikenteen erityislupaa",
-            "description": "Yli 12 metriä pitkät ajoneuvot tarvitsevat erityisluvan ajaakseen Helsingin kantakaupungin rajoitusalueella. Lupa ei oikeuta poikkeamaan ajoneuvoasetuksen mitoista ja massoista (pituus, leveys, korkeus, kokonaismassa ja akselimassat).",
-            "process_description": "Lupaa haetaan lomakkeella, jonka voi palauttaa sähköpostitse osoitteeseen ksv.liikenne@hel.fi.\n\n\nJos palautat lupahakemuksen postitse, niin lähetä se osoitteeseen:\nKaupunkiympäristön toimiala, Toimistopalvelut \nPL 58201\n00099 Helsingin kaupunki",
-            "processing_time": "Hakemus tulee jättää kaksi työpäivää ennen aiottua kuljetusta.",
-            "costs": "Luvan myöntämisestä ei peritä maksua.",
-            "information": "Eija Huhtala, p. 09 310 38372\nRaija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 040 653 5361\nRiitta Malmivaara, p. 040 860 7628\n\n\n\n\n",
+            "description": "Lähetä lupahakemus sähköpostitse osoitteeseen ksv.liikenne@hel.fi.",
+            "information": "",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8228,23 +8225,13 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Erikoiskuljetusten luvat (ELY-keskus)",
-                    "url": "https:\/\/www.ely-keskus.fi\/web\/ely\/erikoiskuljetukset#.V_98nfmLTmE"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Kartta rajoitusalueesta",
-                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
-                }
             ],
             "channels": [
                 {
                     "id": 1187,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Raskaan liikenteen erityislupa, lomakkeet",
+                    "name": "Lomakkeet",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -8257,13 +8244,13 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Lomake (pdf)",
+                            "title": "Raskaan liikenteen erityislupahakemus (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Lomake (doc)",
+                            "title": "Raskaan liikenteen erityislupahakemus (doc)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.doc",
                             "file_format": "WORD"
                         }
@@ -8280,11 +8267,7 @@
             "service_id": 10456,
             "type": "PERMISSION",
             "name": "Special licence required for heavy traffic to Helsinki inner city",
-            "description": "Vehicles over 12 metres in length require a special licence to operate in the restricted area of the Helsinki inner city.",
-            "process_description": "The licence should be applied for using a form that can be submitted by e-mail (ksv.liikenne@hel.fi) or mail.\n\nMailing address:\nUrban Environment Division, P.O. BOX 58201, 00099 City of Helsinki.",
-            "processing_time": "A licence application should be submitted two workdays prior to the intended transportation.",
-            "costs": "The licence is free of charge.",
-            "information": "Eija Huhtala, tel. 09 310 38372\nRaija Jussilainen, tel. 09 310 24693\nTanja Etelälahti, tel. 09 310 52185\nRiitta Malmivaara, tel. 040 860 7628\n",
+            "description": "The licence should be applied for using a form that can be submitted by e-mail (ksv.liikenne@hel.fi) or mail.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8298,18 +8281,13 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Map of area where restrictions apply",
-                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
-                }
             ],
             "channels": [
                 {
                     "id": 1187,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Special licence required for heavy traffic, forms",
+                    "name": "Forms",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -8322,13 +8300,13 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Form (pdf, In Finnish)",
+                            "title": "Special licence required for heavy traffic (pdf, In Finnish)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Form (doc, help text in English)",
+                            "title": "Special licence required for heavy traffic (doc, help text in English)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-en.doc",
                             "file_format": "WORD"
                         }
@@ -8346,11 +8324,8 @@
             "service_id": 10456,
             "type": "PERMISSION",
             "name": "Specialtillstånd för tung trafik i Helsingfors stadskärna",
-            "description": "Över tolv meter långa fordon måste ha specialtillstånd för att köra in i det avgränsade området i Helsingfors stadskärna. Tillståndet berättigar inte att avvika från måtten och massorna i fordonsförordningen (längd, bredd, höjd, total massa och axelmassa).",
-            "process_description": "Man ansöker om tillstånd med en blankett som kan returneras per e-post (ksv.liikenne@hel.fi) eller post. \n\nBlanketten kan skickas via post till:\nStadsmiljösektorn, PB 58201, 00099 Helsingfors stad.\n \n",
-            "processing_time": "Ansökan bör lämnas in två arbetsdagar innan man ämnar genomföra transporten. ",
-            "costs": "Ingen avgift tas ut för beviljat tillstånd.",
-            "information": "Eija Huhtala, p. 09 310 38372\nRaija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 040 653 5361\nRiitta Malmivaara, p. 040 860 7628\n",
+            "description": "Man ansöker om tillstånd med en blankett som kan returneras per e-post (ksv.liikenne@hel.fi).",
+            "process_description": " \n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8364,18 +8339,13 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Karta över det avgränsade området",
-                    "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/rajoitusalue.pdf"
-                }
             ],
             "channels": [
                 {
                     "id": 1187,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Specialtillstånd för tung trafik, blanketterna",
+                    "name": "Blanketterna",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
