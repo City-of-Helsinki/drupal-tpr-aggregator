@@ -29743,6 +29743,11 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry asiointipalveluun (tarkastele ennen 1.6. tehtyjen oikaisuvaatimusten päätöksiä)",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1"
                         }
                     ],
@@ -29809,6 +29814,11 @@
                         {
                             "type": "INTERNET",
                             "title": "Go to e-services",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to e-services (examine decisions on claims submitted before 1 June)",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1",
                             "file_format": "HTML"
                         }
@@ -29876,8 +29886,12 @@
                         {
                             "type": "INTERNET",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1",
-                            "file_format": "HTML"
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till e-tjänsten (bekanta dig med beslut om omprövning som lämnats in före den 1 juni)",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1"
                         }
                     ],
                     "availabilities": [
@@ -35315,7 +35329,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry asiointipalveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_due_date_extension?new=1",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -35380,7 +35394,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Go to e-services",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_due_date_extension?new=1",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -35440,7 +35454,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_due_date_extension?new=1",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -41307,14 +41321,13 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry asiointipalveluun (tarkastele ennen 1.6. tehtyjen oikaisuvaatimusten päätöksiä)",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
-                            "file_format": "HTML"
+                            "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
                         },
                         {
                             "type": "FORM",
-                            "title": "Siirry asiointipalveluun",
-                            "url": "https:\/\/www.pysakoinninasiointi.hel.fi"
+                            "title": "Siirry asiointipalveluun (tarkastele ennen 1.6. tehtyjen oikaisuvaatimusten päätöksiä)",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1"
                         }
                     ],
                     "availabilities": [
@@ -41380,10 +41393,14 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
+                            "type": "INTERNET",
                             "title": "Go to e-services",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
-                            "file_format": "HTML"
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to e-services (examine decisions on claims submitted before 1 June)",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1"
                         }
                     ],
                     "availabilities": [
@@ -41451,8 +41468,12 @@
                         {
                             "type": "FORM",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
-                            "file_format": "HTML"
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten (bekanta dig med beslut om omprövning som lämnats in före den 1 juni)",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1"
                         }
                     ],
                     "availabilities": [
