@@ -21919,12 +21919,29 @@
         }
     },
     {
+        "id": 5425,
+        "fi": [
+        ],
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5425,
+        "fi": [
+        ],
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5099,
         "fi": {
             "id": 5099,
             "exact_descriptions": [
                 9001,
-                9602,
                 9603,
                 9604
             ],
@@ -22008,7 +22025,6 @@
             "id": 5099,
             "exact_descriptions": [
                 9001,
-                9602,
                 9603,
                 9604
             ],
@@ -22091,7 +22107,6 @@
             "id": 5099,
             "exact_descriptions": [
                 9001,
-                9602,
                 9603,
                 9604
             ],
@@ -41292,9 +41307,14 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry asiointipalveluun",
+                            "title": "Siirry asiointipalveluun (tarkastele ennen 1.6. tehtyjen oikaisuvaatimusten päätöksiä)",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1",
                             "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/www.pysakoinninasiointi.hel.fi"
                         }
                     ],
                     "availabilities": [
