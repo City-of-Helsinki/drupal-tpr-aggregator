@@ -6387,10 +6387,58 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4351,
+            "exact_descriptions": [
+                4891
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Apply for permission for exemption from the wastewater treatment requirements.",
+            "description": "Apply for permission for exemption from the wastewater treatment requirements electronically from the City of Helsinki's Environmental Services via Lupapiste. Permission for exemption can be granted for a maximum of five years at a time.",
+            "information": "- Appendix 1: A layout plan (e.g. at a 1:500 scale), showing the locations of buildings and wastewater treatment systems as well as their distances to ditches, waterways, domestic water wells and boundaries\n\n- Appendix 2: Description of the wastewater system\n\n- Appendix 3A: Small amount of wastewater\n\n- Appendix 3B:Connection to the sewer network\n\n- Appendix 3C:High age of the property owner and other situations in life\n\n- Appendix 3D: Long-term unemployment or illness of the property owner or other similar social performance impediment\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 4351,
+            "exact_descriptions": [
+                4891
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Ansök om tillstånd att avvika från behandlingskraven på avloppsvatten",
+            "description": "Ansök om tillstånd att avvika från behandlingskraven på avloppsvatten av stadens miljötjänster elektroniskt via tjänsten Lupapiste. Staden kan bevilja avvikelse högst för 5 år åt gången.",
+            "information": "- Bilaga 1: situationsplan (till exempel i skala 1:500) med lägena på byggnader, system för behandling av avloppsvatten samt deras avstånd till diken, \nvattendrag, hushållsvattenbrunnar och fastighetsgränser\n\n- Bilaga 2: Beskrivning av systemet för avloppsvatten (på finska)\n\n- Bilaga 3A: Liten mängd av avloppsvatten (på finska)\n\n- Bilaga 3B: Anslutning till avloppsnät (på finska)\n\n- Bilaga 3C: Fastighetsinnehavarens höga ålder och övriga livssituationer\n\n- Bilaga 3D: Fastighetsinnehavarens långvariga arbetslöshet eller sjukdom eller något annat jämförbart socialt hinder för betalning\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
     },
     {
         "id": 5134,
@@ -11390,10 +11438,108 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4285,
+            "exact_descriptions": [
+                4884
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Apply for an exemption from connecting to the stormwater sewer",
+            "description": "Apply for an exemption electronically from the City of Helsinki's Environmental Services via Lupapiste. Additional information: Ville Hahkala, Environmental Inspector ville.hahkala@hel.fi or tel. +358 9 310 32005",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3934,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for an exemption from connecting to the stormwater sewer",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4285,
+            "exact_descriptions": [
+                4884
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Ansök om befrielse från anslutning till dagvattenavlopp",
+            "description": "Ansök om befrielse av stadens miljötjänster elektroniskt i Lupapiste. Mer information: miljöinspektör Ville Hahkala ville.hahkala@hel.fi eller tfn 09 310 32005",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3934,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om befrielse från anslutning till dagvattenavlopp",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4045,
@@ -11449,17 +11595,15 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": {
+        "en": {
             "id": 4045,
             "exact_descriptions": [
                 4884
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Ansökan om befrielse från anslutning till vattentjänstverkets vattenledning",
-            "description": "Man kan ansöka om befrielse från anslutning till vatten- och avloppsnätet.",
+            "name": "Apply for an exemption from connecting to the water main and sewer network.",
+            "description": "Apply for an exemption electronically from the City of Helsinki's Environmental Services via Lupapiste. Additional information: Sini-Pilvi Saarnio, Environmental Inspector sini-pilvi.saarnio@hel.fi or tel. +358 9 310 32019",
             "provided_languages": [
                 "en",
                 "fi",
@@ -11473,13 +11617,86 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Bli kund hos vattenförsörjningen",
-                    "url": "https:\/\/www.hsy.fi\/sv\/hrm\/kundtjanst\/"
-                }
             ],
             "channels": [
+                {
+                    "id": 3933,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for an exemption from connecting to the water main and sewer network",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4045,
+            "exact_descriptions": [
+                4884
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Ansök om befrielse från anslutning till vattenledning och avloppsnät",
+            "description": "Ansök om befrielse av stadens miljötjänster elektroniskt i Lupapiste. Mer information: miljöinspektör Sini-Pilvi Saarnio sini-pilvi.saarnio@hel.fi eller tfn 09 310 32019",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3933,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om befrielse från anslutning till vatten- och avloppsnät",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": true,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
