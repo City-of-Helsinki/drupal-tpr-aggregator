@@ -4187,6 +4187,7 @@
             "service_id": 10907,
             "type": "ADVICE",
             "name": "Benefit handling counselling",
+            "description": "Supplementary and preventive social assistance and death grants.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -36562,26 +36563,6 @@
                     ]
                 },
                 {
-                    "id": 3962,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Sosiaalineuvonnan sähköpostiosoite",
-                    "email": "sosiaalineuvonta.aikuissosiaalityo@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 3963,
                     "type": "WEBPAGE",
                     "type_string": "Verkkosivu",
@@ -36656,25 +36637,6 @@
                         {
                             "availability_string": "Open Mon-Fri 08:15-16"
                         }
-                    ]
-                },
-                {
-                    "id": 3962,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "email": "sosiaalineuvonta.aikuissosiaalityo@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
                     ]
                 },
                 {
@@ -36753,25 +36715,6 @@
                         {
                             "availability_string": "Öppet mån-fre 08:15-16"
                         }
-                    ]
-                },
-                {
-                    "id": 3962,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "email": "sosiaalineuvonta.aikuissosiaalityo@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
                     ]
                 },
                 {
@@ -37009,6 +36952,7 @@
             "service_id": 10406,
             "type": "ADVICE",
             "name": "Social rehabilitation instructor",
+            "description": "We offer unemployed people over the age of 30 intensified individual services and group activities that promote rehabilitation. Our purpose is to support your well-being, everyday life and functional capacity.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -37298,6 +37242,7 @@
             "service_id": 10717,
             "type": "APPOINTMENT",
             "name": "Financial and debt counselling",
+            "description": "You can book an appointment with us for financial advice and applying for social credit.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -38399,7 +38344,7 @@
             ],
             "service_id": 10290,
             "type": "APPLICATION",
-            "name": "Submit an application to lease an area for outdoor seating",
+            "name": "Submit an application to lease a glassed terrace area",
             "name_synonyms": "terrace application, terrace",
             "description": "Submit an application to lease an area for outdoor seating by using an electronic form and submitting it via the City's online services. Alternatively, you can use a PDF form. You can identify yourself through suomi.fi in order to log in to the service, either with a mobile ID or online banking credentials.",
             "information": "If you are unable to use the electronic form, fill in the PDF form and send it together with the necessary appendices via email to ulkoilma@hel.fi. You can check which appendices are required for an outdoor seating application from the list of appendices.",
@@ -38485,7 +38430,7 @@
             ],
             "service_id": 10290,
             "type": "APPLICATION",
-            "name": "Fyll i ansökan för att hyra ett terrassområde",
+            "name": "Fyll i ansökan för att hyra en inglasad terrass",
             "name_synonyms": "ansökan för ett terass, terassområde",
             "description": "Ansök om hyrning av ett terrassområde genom att fylla i den elektroniska blanketten i stadens e-tjänster eller genom att fylla i en separat blankett. Du kan identifiera dig i tjänsten med Suomi.fi-autentisering med antingen mobilcertifikat eller nätbankskoder.",
             "information": "Om du inte kan fylla i den elektroniska blanketten, fyll i PDF-blanketten och skicka den jämte bilagor till adressen ulkoilma@hel.fi. Du kan kontrollera de bilagor som behövs för ansökan på förteckningen över bilagor.",
