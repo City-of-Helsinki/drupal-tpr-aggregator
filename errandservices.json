@@ -14640,17 +14640,59 @@
     },
     {
         "id": 5424,
-        "fi": [
-        ],
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 5424,
-        "fi": [
-        ],
+        "fi": {
+            "id": 5424,
+            "exact_descriptions": [
+                9671
+            ],
+            "service_id": 10483,
+            "type": "ADVICE",
+            "name": "Helsinkiläisten paperittomien neuvonta",
+            "description": "Palvelemme sinua puhelimitse arkisin.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3969,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Helsingissä olevien paperittomien puhelinneuvonta",
+                    "prerequisites": "Paperittomien puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-pe 09-16",
+                    "phone": "+358 9 310 23747",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "en": [
         ],
         "sv": [
@@ -22213,19 +22255,119 @@
     },
     {
         "id": 5425,
-        "fi": [
-        ],
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 5425,
-        "fi": [
-        ],
-        "en": [
-        ],
+        "fi": {
+            "id": 5425,
+            "exact_descriptions": [
+                9602
+            ],
+            "service_id": 10483,
+            "type": "ADVICE",
+            "name": "Kotouttamista tukevien sosiaalipalveluiden neuvonta",
+            "description": "Kotouttamista tukevien sosiaalipalveluiden neuvonta.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3970,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kotoutumista tukevien sosiaalipalveluiden neuvonta puhelimitse",
+                    "availability_summary": "Avoinna ma-pe 08:15-12, ma-pe 13-16",
+                    "phone": "+358 9 310 37577",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 13-16"
+                        },
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5425,
+            "exact_descriptions": [
+                9602
+            ],
+            "service_id": 10483,
+            "type": "ADVICE",
+            "name": "Contact number",
+            "name_synonyms": "Social services that promote integration",
+            "description": "For guidance on social services that promote integration, please contact us.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3970,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Call us",
+                    "availability_summary": "Open Mon-Fri 08:15-12, Mon-Fri 13-16",
+                    "phone": "+358 9 310 37577",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 13-16"
+                        },
+                        {
+                            "availability_string": "Open Mon-Fri 08:15-12"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -27606,17 +27748,86 @@
     },
     {
         "id": 5321,
-        "fi": [
-        ],
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 5321,
-        "fi": [
-        ],
+        "fi": {
+            "id": 5321,
+            "exact_descriptions": [
+            ],
+            "service_id": 10483,
+            "type": "ADVICE",
+            "name": "Maahan muuttaneiden ja paperittomien neuvontapalvelut",
+            "description": "Maahan muuttaneiden ja paperittomien neuvontapalvelut",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3796,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Maahan muuttaneiden neuvonta (vasta maahan tulleet, nuorten jälkihuolto, ihmiskaupaun uhrit)",
+                    "availability_summary": "Avoinna ma-pe 08:15-12, ma-pe 13-16",
+                    "phone": "+358 9 310 37577",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 13-16"
+                        },
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-12"
+                        }
+                    ]
+                },
+                {
+                    "id": 3797,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Paperittomien henkilöiden neuvonta",
+                    "availability_summary": "Avoinna ma-pe 09-16",
+                    "phone": " +358 9 310 23747 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "en": [
         ],
         "sv": [
