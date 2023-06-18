@@ -15269,6 +15269,103 @@
         }
     },
     {
+        "id": 5445,
+        "fi": {
+            "id": 5445,
+            "exact_descriptions": [
+                9677
+            ],
+            "service_id": 10138,
+            "type": "APPOINTMENT",
+            "name": "Hevossairaalan yhteystiedot​",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3994,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Hevossairaalan ajanvaraus",
+                    "availability_summary": "Avoinna ma-pe 08-16",
+                    "phone": "029 41 57350​",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3995,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Hevossairaalan päivystys ympäri vuorokauden",
+                    "phone": "0600 97412​",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3996,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Käyntiosoite",
+                    "personal_service_street_addr": "Koetilankuja 1",
+                    "personal_service_postal_code": "00790",
+                    "personal_service_city": "Helsinki​",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5311,
         "fi": {
             "id": 5311,
@@ -33542,6 +33639,102 @@
                 }
             ],
             "channels": [
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5444,
+        "fi": {
+            "id": 5444,
+            "exact_descriptions": [
+                9677
+            ],
+            "service_id": 10138,
+            "type": "APPOINTMENT",
+            "name": "Pieneläinsairaalan yhteystiedot​",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3991,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Pieneläinsairaalan ajanvaraus",
+                    "availability_summary": "Avoinna ma-pe 08:15-15:30",
+                    "phone": "029 41 57201​",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-15:30"
+                        }
+                    ]
+                },
+                {
+                    "id": 3992,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Pieneläinsairaalan päivystys virka-ajan ulkopuolella",
+                    "phone": "0600 97411​ ​",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3993,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Käyntiosoite",
+                    "personal_service_street_addr": "Koetilantie 2",
+                    "personal_service_postal_code": "00790​",
+                    "personal_service_city": "Helsinki​",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": [
