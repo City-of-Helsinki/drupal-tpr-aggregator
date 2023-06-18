@@ -16192,6 +16192,85 @@
         }
     },
     {
+        "id": 5443,
+        "fi": {
+            "id": 5443,
+            "exact_descriptions": [
+                9676
+            ],
+            "service_id": 10138,
+            "type": "NOTICE",
+            "name": "Ilmoita eläinten pidosta ja pitopaikasta Ruokavirastoon",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3989,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee ilmoitus Ruokaviraston sähköisessä palvelussa",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ruokaviraston palveluun",
+                            "url": "https:\/\/epr.ruokavirasto.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3990,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tee ilmoitus lomakkeella",
+                    "prerequisites": "Täytetyt lomakkeet lähetetään Itä-Uudenmaan maaseutuhallintoon osoitteeseen Bäckasinkuja 1A, 07880 Liljendal tai sähköpostin liitteenä maaseututoimi@loviisa.fi",
+                    "information": "Täytetyt lomakkeet lähetetään Itä-Uudenmaan maaseutuhallintoon osoitteeseen Bäckasinkuja 1A, 07880 Liljendal tai sähköpostin liitteenä maaseututoimi@loviisa.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ruokaviraston lomakkeet",
+                            "url": "https:\/\/www.ruokavirasto.fi\/tietoa-meista\/asiointi\/oppaat-ja-lomakkeet\/viljelijat\/elainten-pito\/elainten-merkitseminen-ja-rekisterointi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5438,
         "fi": {
             "id": 5438,
@@ -16201,7 +16280,7 @@
             "service_id": 10138,
             "type": "ADVICE",
             "name": "Ilmoita kadonneesta tai löytyneestä lemmikistä",
-            "description": "Jos olet kadottanut lemmikkieläimen​, ota yhteyttä Viikin löytöeläintaloon.​\n\nJos olet löytänyt lemmikkieläimen ilman omistajaa​, ota yhteyttä Viikin löytöeläintaloon.​\n\nLöytöeläintalon aukioloaikojen ulkopuolella ota yhteyttä poliisiin soittamalla hätänumeroon 112.​\n\nJos irrallaan tavattu lemmikkieläin aiheuttaa vaaraa esimerkiksi ihmisille tai liikenteelle, soita hätänumeroon 112.​",
+            "description": "Jos olet kadottanut tai löytänyt lemmikkieläimen ilman omistajaa​, ota yhteyttä Viikin löytöeläintaloon.​\n\nLöytöeläintalon aukioloaikojen ulkopuolella ota yhteyttä poliisiin soittamalla hätänumeroon 112.​\n\nJos irrallaan tavattu lemmikkieläin aiheuttaa vaaraa esimerkiksi ihmisille tai liikenteelle, soita hätänumeroon 112.​",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -16238,7 +16317,7 @@
                     "id": 3981,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Ilmoita kadonneesta tai löytyneestä lemmikistä sähköpostitse",
+                    "name": "Ota yhteyttä Viikin löytöeläintaloon sähköpostitse",
                     "email": " viikki@hesy.fi ",
                     "provided_languages": [
                     ],
@@ -16332,6 +16411,80 @@
                             "title": "lmoitus yleisellä alueella tehtävästä työstä (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5442,
+        "fi": {
+            "id": 5442,
+            "exact_descriptions": [
+                9675
+            ],
+            "service_id": 10138,
+            "type": "NOTICE",
+            "name": "Ilmoita kuolleesta luonnonvaraisesta eläimestä tai lemmikin laittomasta maahantuonnista",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3987,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Soita valvontaeläinlääkärille",
+                    "availability_summary": "Avoinna ma-pe 09-10",
+                    "phone": " 09 310 31531​",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-10"
+                        }
+                    ]
+                },
+                {
+                    "id": 3988,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä valvontaeläinlääkärille sähköpostia",
+                    "email": " kymp.elainsuojelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -38358,6 +38511,80 @@
         ]
     },
     {
+        "id": 5440,
+        "fi": {
+            "id": 5440,
+            "exact_descriptions": [
+                4683
+            ],
+            "service_id": 10139,
+            "type": "NOTICE",
+            "name": "Tee eläinsuojeluilmoitus valvontaeläinlääkäreille",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3985,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Tee eläinsuojeluilmoitus puhelimitse",
+                    "availability_summary": "Avoinna ma-pe 09-10",
+                    "phone": "09 310 31531",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-10"
+                        }
+                    ]
+                },
+                {
+                    "id": 3986,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tee eläinsuojeluilmoitus sähköpostitse",
+                    "email": " kymp.elainsuojelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5353,
         "fi": {
             "id": 5353,
@@ -48667,6 +48894,79 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5439,
+        "fi": {
+            "id": 5439,
+            "exact_descriptions": [
+                4684
+            ],
+            "service_id": 10138,
+            "type": "APPOINTMENT",
+            "name": "Varaa eläimen vientitarkastus",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3983,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kysy vientitarkastuksesta puhelimitse",
+                    "availability_summary": "Avoinna ma-pe 09-10",
+                    "phone": "09 310 31531 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-10"
+                        }
+                    ]
+                },
+                {
+                    "id": 3984,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Kysy vientitarkastuksesta sähköpostitse",
+                    "email": "kymp.elaintenvienti@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5109,
