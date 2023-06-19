@@ -14693,8 +14693,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5424,
+            "exact_descriptions": [
+                9671
+            ],
+            "service_id": 10483,
+            "type": "ADVICE",
+            "name": "Counseling for undocumented people in Helsinki",
+            "description": "Counseling for undocumented people in Helsinki",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3969,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Counselling for undocumented migrants",
+                    "prerequisites": "Counselling for undocumented migrants.",
+                    "availability_summary": "Open Mon-Fri 09-16",
+                    "phone": "+358 9 310 23747",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -16298,6 +16349,7 @@
             "service_id": 10138,
             "type": "NOTICE",
             "name": "Ilmoita eläinten pidosta ja pitopaikasta Ruokavirastoon",
+            "description": "Voit tehdä ilmoituksen eläinten pidosta ja pitopaikasta Ruokaviraston sähköisessä palvelussa tai täyttämällä lomakkeen.\n\nTäytetyt lomakkeet lähetetään Itä-Uudenmaan maaseutuhallintoon osoitteeseen Bäckasinkuja 1A, 07880 Liljendal tai sähköpostin liitteenä maaseututoimi@loviisa.fi",
             "provided_languages": [
                 "fi"
             ],
