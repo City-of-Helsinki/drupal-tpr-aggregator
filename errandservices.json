@@ -11922,7 +11922,7 @@
             "description": "Voit hakea yrityspysäköintitunnusta tai jatkaa tunnuksen voimassaoloa sähköpostitse tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi kerrallaan. Paikan päällä asioidessa tunnuksen saa voimaan heti ja sähköpostitse käsittelyjonosta riippuen 2-4 arkipäivän kuluttua.\n\n",
             "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa (1-12kk)\n\nJos auto ei ole yrityksen omistuksessa tai hallinnassa, toimita lisäksi vapaamuotoinen todistus työsuhteesta ja viimeisin palkkalaskelma tai ote tulorekisterin kilometrikorvauksista, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti. Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi.",
             "processing_time": "Tunnus tulee voimaan, kun maksu on saapunut. ",
-            "costs": "Yhden alueen tunnuksen hinta 30,83 €\/kk ja kaikkien alueiden tunnuksen hinta 61,66 €\/kk.\n\nSähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Tunnus astuu voimaan n. kahden arkipäivän kuluttua maksusta. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
+            "costs": "Sähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Tunnus astuu voimaan n. kahden arkipäivän kuluttua maksusta. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -18050,8 +18050,8 @@
             "service_id": 10891,
             "type": "NOTICE",
             "name": "Ilmoita ympäristöhaitasta",
-            "description": "Ilmoita ympäristöhaitasta palautelomakkeella.",
-            "information": "Otathan huomioon, että ilmoitukset ovat pääsääntöisesti julkisia asiakirjoja ja ilmoittajan tiedot tallennetaan ympäristöpalveluiden tietokantaan, jos ilmoitus käsitellään ympäristöpalveluissa.",
+            "description": "Ilmoita ympäristöhaitasta palautelomakkeella. Otathan huomioon, että palautteen kulku ympäristövalvontaan voi kestää muutaman päivän. Jos haitta edellyttää nopeampaa reagointia, lähetä sähköpostia osoitteeseen kymp.ymparistovalvonta@hel.fi.",
+            "information": "Ilmoitukset ovat pääsääntöisesti julkisia asiakirjoja ja ilmoittajan tiedot tallennetaan ympäristöpalveluiden tietokantaan, jos ilmoitus käsitellään ympäristöpalveluissa.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32110,7 +32110,6 @@
             "process_description": "",
             "processing_time": "Jos asioit asiakaspalvelussamme, saat tunnuksen heti käyttöösi. Jos haet tunnusta sähköisesti, saat tunnuksen muutamassa arkipäivässä.",
             "costs": "Asiakaspalvelussa asioidessasi tunnus maksetaan heti. Maksutavat ovat käteinen raha ja korttimaksu",
-            "information": "Koronavirustilanteen takia tunnusta haetaan ensisijaisesti sähköisesti ja muutokset ilmoitetaan puhelimitse.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -35083,7 +35082,7 @@
             "name_synonyms": "rekisteritunnuksen muutos",
             "description": "Voit muuttaa tunnukseen merkityn ajoneuvon rekisterinumeroa sähköisesti verkossa tai ilmoittamalla uuden rekisterinumeron kaupunkiympäristön asiakaspalveluun.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa rekisterinumeron vain asioimalla asiakaspalvelussa. \n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella ajoneuvolla.\n\n",
             "processing_time": "Sähköisesti ilmoitetun rekisterinumeron muutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
-            "information": "Jos tunnuksen hinta kallistuu osoitteenmuutoksen vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
+            "information": "Jos tunnuksen hinta kallistuu ajoneuvon vaihdon vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -35143,7 +35142,7 @@
             "name": "Update your license plate number on a resident parking permit",
             "description": "You can change the license plate number on your permit with an online form or by notifying the Urban Environment Division's customer service of the new number.\n\nPermits for two vehicles can only be changed by visiting our customer service point.",
             "processing_time": "The processing period of a license plate number change submitted online is a few weekdays. If you report an address change by phone or at the customer service, it enters into force immediately.",
-            "information": "If the price of your permit increases because of a change of address, we will refund the money paid for full months in advance and create a new permit for you. If the price decreases, we will refund the difference between the old and new price for the months paid in advance.",
+            "information": "If the price of your permit increases because of a change of vehicle, we will refund the money paid for full months in advance and create a new permit for you. If the price decreases, we will refund the difference between the old and new price for the months paid in advance.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -35202,7 +35201,7 @@
             "name": "Ange ett nytt registernummer för boendeparkeringstillståndet",
             "description": "Du kan ändra registernumret för ett fordon som är registrerat på tillståndet elektroniskt med webblanketten eller genom att anmäla det nya registernumret till stadsmiljösektorns kundtjänst.\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra registernumret genom att besöka kundtjänsten.",
             "processing_time": "Handläggningstiden för elektroniskt meddelade ändringar av registernummer är några vardagar. Ändringar som anmäls i kundtjänsten eller per telefon träder genast i kraft. ",
-            "information": "Om tillståndets pris blir dyrare på grund av adressändringen, betalar vi tillbaka pengarna för de månader som du betalat på förhand och gör ett nytt tillstånd till dig. Om priset blir billigare, betalar vi tillbaka skillnaden mellan det gamla och det nya priset för de månader som du betalat på förhand.",
+            "information": "Om tillståndets pris blir dyrare på grund av ändringen, betalar vi tillbaka pengarna för de månader som du betalat på förhand och gör ett nytt tillstånd till dig. Om priset blir billigare, betalar vi tillbaka skillnaden mellan det gamla och det nya priset för de månader som du betalat på förhand.",
             "provided_languages": [
                 "en",
                 "fi",
