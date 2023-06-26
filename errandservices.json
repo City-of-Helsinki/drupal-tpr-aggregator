@@ -18109,10 +18109,137 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5383,
+            "exact_descriptions": [
+                5116
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Report environmental damage",
+            "description": "Report environmental damage using the feedback form.",
+            "information": "Please note that, as a rule, reports are public documents and the information of the person submitting the report is stored in the database of Environmental Services if the report is processed by Environmental Services.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Environmental protection authority’s fee (pdf, In Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistonsuojeluviranomaisen-taksa.pdf"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Environmental monitoring register (pdf, In Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Rekisteriselosteet\/Kymp\/Ymp%C3%A4rist%C3%B6valvonnan rekisteri.pdf"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3895,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a report about environmental damage",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the feedback form",
+                            "url": "https:\/\/palautteet.hel.fi\/palaute-lomake"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5383,
+            "exact_descriptions": [
+                5116
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Rapportera en miljöolägenhet",
+            "description": "Använd responsblanketten för att rapportera en miljöolägenhet.",
+            "information": "Observera att anmälningar i regel är offentliga handlingar och att anmälarens uppgifter lagras i miljötjänsternas databas, om anmälan behandlas av miljötjänsterna.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Miljöskyddsmyndighetens taxa (pdf) ",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistonsuojeluviranomaisen-taksa-sv.pdf"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Miljötillsynens register (pdf) ",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/Kaupunginkanslia\/Rekisteriselosteet\/Kymp\/Milj%C3%B6tillsynens register.pdf"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3895,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en anmälan om miljöolägenhet",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till responsblanketten",
+                            "url": "https:\/\/palautteet.hel.fi\/palaute-lomake",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4491,
