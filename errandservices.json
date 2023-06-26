@@ -8369,11 +8369,13 @@
         "en": {
             "id": 1557,
             "exact_descriptions": [
+                3557
             ],
             "service_id": 10456,
             "type": "PERMISSION",
-            "name": "Special licence required for heavy traffic to Helsinki inner city",
-            "description": "The licence should be applied for using a form that can be submitted by e-mail (ksv.liikenne@hel.fi) or mail.",
+            "name": "Apply for a special heavy traffic permit",
+            "description": "Submit your permit application by e-mail to ksv.liikenne@hel.fi.",
+            "information": "Eija Huhtala, tel. 09 310 38372\nRaija Jussilainen, tel. 09 310 24693\nTanja Etelälahti, tel. 040 653 5361\nRiitta Malmivaara, tel. 040 860 7628\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8406,13 +8408,13 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Special licence required for heavy traffic (pdf, In Finnish)",
+                            "title": "Application for a special heavy traffic permit (pdf, In Finnish)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Special licence required for heavy traffic (doc, help text in English)",
+                            "title": "Application for a special heavy traffic permit (doc, help text in English)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-en.doc",
                             "file_format": "WORD"
                         }
@@ -8429,9 +8431,10 @@
             ],
             "service_id": 10456,
             "type": "PERMISSION",
-            "name": "Specialtillstånd för tung trafik i Helsingfors stadskärna",
-            "description": "Man ansöker om tillstånd med en blankett som kan returneras per e-post (ksv.liikenne@hel.fi).",
+            "name": "Ansök om specialtillstånd för tung trafik",
+            "description": "Skicka ansökan om tillstånd per e-post till ksv.liikenne@hel.fi.",
             "process_description": " \n",
+            "information": "Eija Huhtala, tfn 09 310 38372\nRaija Jussilainen, tfn 09 310 24693\nTanja Etelälahti, tfn 040 653 5361\nRiitta Malmivaara, tfn 040 860 7628\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8464,13 +8467,13 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Blanketten (pdf)",
+                            "title": "Ansökan om specialtillstånd för tung trafik (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-ruotsi.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Blanketten (doc)",
+                            "title": "Ansökän om specialtillstånd för tung trafik (doc)",
                             "url": "https:\/\/www.hel.fi\/static\/ksv\/lomakkeet\/Erityislupa-ruotsi.doc",
                             "file_format": "WORD"
                         }
@@ -18693,162 +18696,6 @@
         ]
     },
     {
-        "id": 4409,
-        "fi": {
-            "id": 4409,
-            "exact_descriptions": [
-                7811
-            ],
-            "service_id": 10489,
-            "type": "NOTICE",
-            "name": "Ilmoitus koeluontoisesta toiminnasta",
-            "description": "Ympäristölupaa ei tarvita koeluonteiseen lyhytaikaiseen toimintaan, jonka tarkoituksena on kokeilla uutta tekniikkaa, raaka- tai polttoainetta, valmistus- tai polttomenetelmää tai puhdistuslaitetta taikka käsitellä jätettä laitos- tai ammattimaisesti tällaisen toiminnan vaikutusten, käyttökelpoisuuden tai muun näihin rinnastettavan seikan selvittämiseksi.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2766,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Koeluonteisesta toiminnasta ilmoittaminen",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry ympäristö.fi sivustolle",
-                            "url": "https:\/\/www.ymparisto.fi\/fi-FI\/Asiointi_luvat_ja_ymparistovaikutusten_arviointi\/Luvat_ilmoitukset_ja_rekisterointi\/YSLn_kertaluonteisen_toiminnan_ilmoitusmenettely\/Koeluonteinen_toiminta",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4409,
-            "exact_descriptions": [
-                7811
-            ],
-            "service_id": 10489,
-            "type": "NOTICE",
-            "name": "Notification of experimental basis",
-            "description": "A permit is not required for a short-term activity undertaken on an experimental basis when the purpose is to test an emerging technique, raw material or fuel, a manufacturing or incineration method or treatment equipment, or to treat waste at an installation or on a professional basis to investigate the impact, feasibility or other corresponding feature of such an activity.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2766,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Notification of activies on an experimental basis",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to ymparistö.fi service site (in finnish)",
-                            "url": "https:\/\/www.ymparisto.fi\/fi-FI\/Asiointi_luvat_ja_ymparistovaikutusten_arviointi\/Luvat_ilmoitukset_ja_rekisterointi\/YSLn_kertaluonteisen_toiminnan_ilmoitusmenettely\/Koeluonteinen_toiminta",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4409,
-            "exact_descriptions": [
-                7811
-            ],
-            "service_id": 10489,
-            "type": "NOTICE",
-            "name": "Anmälan om verksamhet av försöksnatur",
-            "description": "Miljötillstånd behövs inte för sådan kortvarig verksamhet av försöksnatur vars syfte är att testa ny teknik, råvaror eller bränslen, tillverknings- eller förbränningsmetoder eller en reningsanordning eller att i en anläggning eller yrkesmässigt behandla avfall, om detta sker i syfte att klarlägga verksamhetens konsekvenser, användbarhet eller någon annan jämförbar omständighet.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2766,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Anmälan om Verksamhet av försöksnatur",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till Miljö.fi sidan",
-                            "url": "https:\/\/www.ymparisto.fi\/sv-FI\/Arendehantering_tillstand_och_miljokonsekvensbedomning\/Tillstand_anmalningar_och_registrering\/Anmalningsforfaranden_i_fraga_om_verksamhet_av_engangsnatur_enligt_MSL\/Verksamhet_av_forsoksnatur",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5418,
         "fi": {
             "id": 5418,
@@ -20749,6 +20596,202 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5458,
+        "fi": {
+            "id": 5458,
+            "exact_descriptions": [
+                8927
+            ],
+            "service_id": 10618,
+            "type": "ADVICE",
+            "name": "Jelpin puhelinpalvelu",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4004,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Etelän alue",
+                    "phone": "+358931024350",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4006,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Etelän alue",
+                    "phone": "+358931024333",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4007,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Idän alue",
+                    "phone": "+358931044791",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4008,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Idän alue",
+                    "phone": "+358931050063",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4009,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Lännen alue",
+                    "phone": "+358931069505",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4010,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Lännen alue",
+                    "phone": "+358931025807",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4011,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Pohjoisen alue",
+                    "phone": "+358931042974",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4012,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Jelpin puhelinpalvelu, Pohjoisen alue",
+                    "phone": "+358931064671",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 3159,
@@ -52496,10 +52539,135 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5408,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Environmental permit",
+            "description": "Your operations require an environmental permit if they may cause a health hazard or notable environmental pollution or the risk of it. These operations apply toe.g. professional waste processing and many industrial food facilities.\n\nThe environmental permit may state some regulations about the scope of the operations or their emissions and reducing them. Operations requiring a permit can usually only be started when the permit has come into force.\n\nDepending on the nature and scope of the operations, environmental permits in Helsinki are granted by the Regional State Administrative Agency for Southern Finland or the Environment and Permits Sub-committee of the Helsinki Urban Environment Committee.\n\nWe will charge a fee for processing the environmental permit application in accordance with the environmental protection authority's valid price list.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Environmental Permit, Regional State Administrative Agency of Southern Finland",
+                    "url": "https:\/\/avi.fi\/en\/services\/businesses\/licence-notices-and-applications\/water-and-the-environment\/environmental-permits"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Contact information for environmental monitoring of City of Helsinki’s Environmental Services",
+                    "url": "https:\/\/numerot.hel.fi\/fi\/kaupunkiympariston-toimiala\/palvelut-ja-luvat\/ymparistopalvelut\/ymparistoseuranta-ja-valvonta\/ymparistovalvonta"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3951,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for an environmental permit from the Helsinki Environmental Services",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5408,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "PERMISSION",
+            "name": "Miljötillstånd",
+            "description": "Du behöver ett miljötillstånd för din verksamhet om den kan ge hälsoolägenheter, väsentligen förorena miljön eller ge risk för detta. Sådan verksamhet är till exempel yrkesmässig hantering av avfall, och många livsmedelsindustrianläggningar.\n\nMiljötillståndet kan ge föreskrifter om bland annat verksamhetens omfattning, avfall och hur de minskas. Tillståndspliktig verksamhet får i regel inledas först när tillståndet har laga kraft.\n\nMiljötillstånd i Helsingfors beviljas av Regionförvaltningsverket i Södra Finland eller av miljö- och tillståndssektionen vid Helsingfors stads miljönämnd.\n\nVi tar ut en avgift för behandlingen av ansökan om miljötillstånd, enligt miljöskyddsmyndighetens taxa.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Miljötillstånd, Regionförvaltningsverket i Södra Finland ",
+                    "url": "https:\/\/avi.fi\/sv\/valj-arende\/foretag-eller-organisation\/tillstand-anmalningar-och-ansokningar\/vatten-och-miljo\/miljotillstand"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kontaktuppgifter för miljötillsynen vid Helsingfors miljötjänster ",
+                    "url": "https:\/\/numerot.hel.fi\/sv\/stadsmiljosektorn\/tjanster-och-tillstand\/miljotjansterna\/ymparistoseuranta-ja-valvonta\/ymparistovalvonta"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Mer information om miljötillstånd i tjänsten Ymparisto.fi ",
+                    "url": "https:\/\/www.ymparisto.fi\/sv\/tillstand-och-skyldigheter\/miljotillstand"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3951,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om miljötillstånd av Helsingfors miljötjänster",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4048,
