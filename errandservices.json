@@ -53473,8 +53473,64 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5409,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Anmälningsförfarande enligt miljöskyddslagen",
+            "description": "Viss verksamhet med ringa miljökonsekvenser kräver inte miljötillstånd. För en sådan verksamhet ska du lämna en allmän anmälan enligt miljöskyddslagen. Sådan verksamhet är till exempel depåer för fordon och arbetsmaskiner.\n\nAnmälan ska lämnas minst 120 dygn innan verksamheten inleds. Med beslutet kan vi ge föreskrifter angående verksamheten.\n\nLämna anmälan till Helsingfors miljötjänster via Lupapiste.fi.\n",
+            "costs": "Vi tar ut en avgift för behandlingen av ansökan, enligt miljöskyddsmyndighetens taxa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Det finns närmare anvisningar på webbplatsen Ymparisto.fi om att göra anmälan.",
+                    "url": "https:\/\/www.ymparisto.fi\/sv\/tillstand-och-skyldigheter\/allmant-anmalningsforfarande-enligt-msl"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3952,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Lämna en anmälan enligt miljöskyddslagen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5411,
