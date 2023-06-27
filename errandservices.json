@@ -1924,10 +1924,158 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 4550,
+            "exact_descriptions": [
+                2802
+            ],
+            "service_id": 10407,
+            "type": "ADVICE",
+            "name": "Assistive device services customer service",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2911,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Customer service telephone",
+                    "availability_summary": "Open Mon-Tue 08-16, Wed-Thu 09-17, Fri 10-14",
+                    "phone": " 09 310 47589",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Tue 08-16"
+                        },
+                        {
+                            "availability_string": "Open Wed-Thu 09-17"
+                        },
+                        {
+                            "availability_string": "Open Fri 10-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 2912,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Customer service email",
+                    "email": "sote.apuvalinepalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4550,
+            "exact_descriptions": [
+                2802
+            ],
+            "service_id": 10407,
+            "type": "ADVICE",
+            "name": "Hjälpmedelstjänstens kundtjänst",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 2911,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefontjänst för kundtjänst",
+                    "availability_summary": "Öppet mån-tis 08-16, ons-tor 09-17, fre 10-14",
+                    "phone": " 09 310 47589",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tis 08-16"
+                        },
+                        {
+                            "availability_string": "Öppet ons-tor 09-17"
+                        },
+                        {
+                            "availability_string": "Öppet fre 10-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 2912,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Kundservice e-post",
+                    "email": "sote.apuvalinepalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4309,
@@ -20788,10 +20936,368 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5458,
+            "exact_descriptions": [
+                8927
+            ],
+            "service_id": 10618,
+            "type": "ADVICE",
+            "name": "Telephone service for Jelppi",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4004,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931024350",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4006,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931024333",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4007,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931044791",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4008,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931050063",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4009,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931069505",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4010,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931025807",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4011,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931042974",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4012,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": "+358931064671",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5458,
+            "exact_descriptions": [
+                8927
+            ],
+            "service_id": 10618,
+            "type": "ADVICE",
+            "name": "Telefontjänst för Jelppi",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4004,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931024350",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4006,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931024333",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4007,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931044791",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4008,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931050063",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4009,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931069505",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4010,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931025807",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4011,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931042974",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4012,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "phone": "+358931064671",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 3159,
@@ -43407,10 +43913,10 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Notification of noise, e-service",
-            "description": "An e-service application, that enables you to submit a notification of temporary noise or vibration caused by measures or events, such as construction projects or public events, when there is reason to expect that the noise or vibration will be especially disturbing.",
-            "process_description": "An e-service application, that enables you to submit a notification of temporary noise or vibration caused by measures or events, such as construction projects or public events, when there is reason to expect that the noise or vibration will be especially disturbing.\n\nThe notification must be submitted no later than 30 days prior to the initiation of the activities.\n\n1. The process begins when the City of Helsinki Environment Services receives the notification\n2. If necessary, an inspection visit will be made to the site. The purpose of the inspection is to ensure that the activities comply with the information indicated in the notification\n3. The Environment Services will make a decision based on the notification\n4. The decision will be mailed to the party by whom the notification was submitted and a fee will be charged according to the charges valid at the time.",
-            "processing_time": "The normal processing time of notifications is 2-4 weeks.",
+            "name": "Submit a notification of noise",
+            "description": "Submit a notification of noise via the Lupapiste service. If the notification of noise includes confidential documents, please deliver your notification to the Registrar's Office as a Word form.",
+            "processing_time": "Processing notifications usually takes at least 2-4 weeks.",
+            "costs": "A fee in accordance with the valid price list will be charged for the decision.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -43427,8 +43933,18 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "More about prevention of temporary noise and vibration",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/en\/housing\/environmental\/environmental-regulations\/noise-vibration\/"
+                    "title": "Contact information for the Registrar's Office",
+                    "url": "https:\/\/www.hel.fi\/en\/decision-making\/contact-the-city-of-helsinki\/registrars-office"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Send a secure email to the City",
+                    "url": "https:\/\/securemail.hel.fi\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "•\tForm for confidential notification of noise (doc, not accessible, In Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
                 }
             ],
             "channels": [
@@ -43436,8 +43952,7 @@
                     "id": 1767,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Notification of noise, e-service",
-                    "prerequisites": "To be able to use the service, please sign in using bank codes, mobile certificate or certificate card.",
+                    "name": "Submit a notification of noise via the Lupapiste service",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
                         "fi",
@@ -43452,17 +43967,30 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Urban Environment Division",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/en\/feedback\/feedback\/",
-                            "file_format": "HTML"
-                        },
-                        {
                             "type": "FORM",
                             "title": "Go to Lupapiste",
                             "url": "https:\/\/lupapiste.fi",
                             "file_format": "HTML"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3911,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Printable forms",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -43476,10 +44004,10 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Bulleranmälan, e-tjänst",
-            "description": "En e-tjänst där du kan lämna anmälan om åtgärder eller händelser som orsakar tillfälligt buller eller skakningar, såsom byggande eller offentliga tillställningar, om bullret eller skakningarna kan antas bli speciellt störande.",
-            "process_description": "En e-tjänst där du kan lämna anmälan om åtgärder eller händelser som orsakar tillfälligt buller eller skakningar, såsom byggande eller offentliga tillställningar, om bullret eller skakningarna kan antas bli speciellt störande.\n\nAnmälan ska lämnas senast 30 vardagar före verksamheten inleds.\n\n1. Helsingfors stads miljötjänster tar emot anmälan och tar den för handläggning\n2. Vid behov görs ett kontrollbesök till objektet. Med kontrollen säkerställs att verksamheten stämmer överens med anmälan\n3. Miljötjänster fattar ett beslut till följd av anmälan\n4. Beslutet postas till den som har gjort anmälan och en avgift enligt den gällande taxan tas ut för beslutet.",
-            "processing_time": "Handläggningen av anmälan tar vanligen 2¿4 veckor.",
+            "name": "Lämna en bulleranmälan",
+            "description": "Gör bulleranmälan i tjänsten Lupapiste. Om bulleranmälan innehåller sekretessbelagda dokument, lämna in den på en Word-blankett till stadens registratorskontor.",
+            "processing_time": "Det tar normalt två till fyra veckor att behandla anmälan.",
+            "costs": "För beslutet tas ut en avgift enligt gällande taxa.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -43496,8 +44024,18 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Mera om tillfälligt buller och vibrationer",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/boende-och-miljo\/miljoskydd\/miljoskydd\/buller-vibrationer\/"
+                    "title": "Registratorskontorets kontaktuppgifter ",
+                    "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/kontakta-helsingfors-stad\/registratorskontor"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Skicka skyddad e-post till staden ",
+                    "url": "https:\/\/securemail.hel.fi\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "•\tBlankett för sekretessbelagd bulleranmälan (doc, otillgänglig) ",
+                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
                 }
             ],
             "channels": [
@@ -43505,8 +44043,7 @@
                     "id": 1767,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Bulleranmälan, e-tjänst",
-                    "prerequisites": "För att använda tjänsten bör du logga in till tjänsten med personliga bankkoder, mobilcertifikat eller certifikatkort.",
+                    "name": "Gör bulleranmälan i Lupapiste",
                     "authorization_code": "Meluilmoituksen tekeminen",
                     "provided_languages": [
                         "fi",
@@ -43521,16 +44058,34 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FEEDBACK",
-                            "title": "Respons till stadsmiljösektorn",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        },
-                        {
                             "type": "FORM",
                             "title": "Gå till Lupapiste",
                             "url": "https:\/\/lupapiste.fi",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3911,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Blanketter att skriva ut",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Blankett för sekretessbelagd bulleranmälan (doc, otillgänglig, på finska) ",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
                         }
                     ],
                     "availabilities": [
