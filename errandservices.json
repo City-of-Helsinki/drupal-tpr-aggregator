@@ -16344,8 +16344,64 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5413,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "APPLICATION",
+            "name": "Avfallshanteringsplan för småbåtshamn",
+            "description": "Den som håller en småbåtshamn ska utarbeta en plan för hanteringen av avfall från småbåtar. Avfallshanteringsplanen ska uppdateras vart femte år, eller då verksamheten i hamnen väsentligt förändras. Lämna avfallshanteringsplanen till Helsingfors miljötjänster för godkännande, via Lupapiste.fi\n",
+            "costs": "Vi tar ut en avgift för behandlingen av ansökan, enligt miljöskyddsmyndighetens taxa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Läs mer om avfallshanterinsplaner i Ympäristö.fi",
+                    "url": "https:\/\/www.ymparisto.fi\/sv\/tillstand-och-skyldigheter\/anmalning-av-engangsnatur-enligt-msl\/hamn"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3955,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Lämna avfallshanteringsplan för småbåtshamn för godkännande",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 934,
@@ -18651,8 +18707,59 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5412,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Anmälan om yrkesmässig insamling av avfall",
+            "description": "Det ska lämnas en anmälan om yrkesmässig insamling av avfall i god tid innan verksamheten inleds, för anteckning i avfallshanteringsregistret. Innan anmälan lämnas in, utred med Helsingfors miljötjänster om verksamheten kräver miljötillstånd. Lämna anmälan till miljötjänsterna via Lupapiste.fi.\n",
+            "costs": "Vi tar ut en avgift för behandlingen av ansökan, enligt miljöskyddsmyndighetens taxa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3954,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Anmäl om yrkesmässig insamling av avfall",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5417,
@@ -18840,8 +18947,64 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5415,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Anmälan om verksamhet av försöksnatur",
+            "description": "Verksamhet som kräver miljötillstånd, men i syfte att till exempel testa ett nytt råämne eller bränsle, en ny tillverknings- eller förbränningsmetod eller att utnyttja eller hantera avfall, ska anmälas till Helsingfors miljötjänster. Lämna anmälan om verksamhet av försöksnatur via Lupapiste.\n",
+            "costs": "Vi tar ut en avgift för behandlingen av ansökan, enligt miljöskyddsmyndighetens taxa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Läs mer om anmälan av verksamhet av försöksnatur, i Ympäristö.fi.",
+                    "url": "https:\/\/www.ymparisto.fi\/sv\/tillstand-och-skyldigheter\/anmalning-av-engangsnatur-enligt-msl\/verksamhet-av-forsoksnatur"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3957,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Anmäl om verksamhet av försöksnatur",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5418,
@@ -29163,8 +29326,59 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5414,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "APPLICATION",
+            "name": "Tillstånd för att upprepat eller varaktigt anordna övningar eller tävlingar i terräng eller på vattenområden",
+            "description": "Du behöver tillstånd för att upprepat eller varaktigt anordna övningar eller tävlingar i terräng eller på vattenområden. Ansök om tillstånd av Helsingfors miljötjänster via Lupapiste.",
+            "costs": "Vi tar ut en avgift för behandlingen av ansökan, enligt miljöskyddsmyndighetens taxa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3956,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om tillstånd att anordna övningar eller tävlingar",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste ",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4969,
