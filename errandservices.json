@@ -46330,6 +46330,87 @@
         }
     },
     {
+        "id": 5459,
+        "fi": {
+            "id": 5459,
+            "exact_descriptions": [
+                9682
+            ],
+            "service_id": 10138,
+            "type": "ADVICE",
+            "name": "Tiedustele neuvoja tuhohyönteisiin liittyen",
+            "description": "Voit ottaa yhteyttä myös palautejärjestelmän kautta: http:\/\/hel.fi\/palaute.\n\nAsiakaspalvelumme palvelee osoitteessa Työpajankatu 8, Helsinki.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4013,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Asumisterveysneuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 12-15",
+                    "phone": "09 310 15000",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, ke-to 09-12"
+                        },
+                        {
+                            "availability_string": "Avoinna ti 12-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4014,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ympäristökeskuksen asiakaspalvelu",
+                    "email": "ymk@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4481,
         "fi": {
             "id": 4481,
