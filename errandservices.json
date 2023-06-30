@@ -18696,8 +18696,58 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5412,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Notification of professional waste collection",
+            "description": "Submit a notification of professional waste carrying or transport well in advance before commencing the operations to be registered in the waste management register. Before submitting your notification, contact the City of Helsinki's Environmental Services to find out whether the operations require an environmental permit. Submit a notification to the Environmental Services via the Lupapiste service.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3954,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of professional waste collection operations",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5412,
             "exact_descriptions": [
@@ -44346,7 +44396,7 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "•\tForm for confidential notification of noise (doc, not accessible, In Finnish)",
+                    "title": "Form for confidential notification of noise (doc, not accessible, In Finnish)",
                     "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
                 }
             ],
@@ -44394,6 +44444,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Form for confidential notification of noise (doc, not accessible, In Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc",
+                            "file_format": "WORD"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -44437,7 +44493,7 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "•\tBlankett för sekretessbelagd bulleranmälan (doc, otillgänglig) ",
+                    "title": "Blankett för sekretessbelagd bulleranmälan (doc, otillgänglig) ",
                     "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
                 }
             ],
@@ -53965,8 +54021,58 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5409,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Reporting procedure following the Environmental Protection Act",
+            "description": "Certain activities causing only minor environmental impacts do not require an environmental permit, but you must submit a general notification of such operations in accordance with the Environmental Protection Act. These operations includee.g. vehicle and work machinery depots.\n\nThe notification must be submitted at least 120 days before starting the operations. We may issue some regulations pertaining to the operations in the decision.\n\nSubmit a notification to the Helsinki Environmental Services via Lupapiste.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3952,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Notification in accordance with the Environmental Protection Act",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5409,
             "exact_descriptions": [
@@ -54086,10 +54192,116 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5411,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Registering in accordance with the Environmental Protection Act",
+            "description": "Fuel distribution stations, asphalt stations, small combustion plants, chemical laundries, plants using certain organic solvents, and concrete stations shall be exempted from the environmental permit procedures if they meet the requirements laid down for their operations in the regulations. Instead of applying for an environmental permit, you should submit a notification to register your operations. The notification must be submitted at least 90 days before starting the operations. You can start your operations when you receive the confirmation that your operations have been registered. Submit a registration notification to the Helsinki Environmental Services via Lupapiste.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3953,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Registering in accordance with the Environmental Protection Act",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5411,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Registrering enligt miljöskyddslagen",
+            "description": "Bränsledistributionsstationer, asfaltstationer, mindre brännverk, kemiska tvätterier, vissa anläggningar som använder organiska lösningsmedel samt betongstationer är befriade från förfarandet för miljöstånd, om de uppfyller kraven i förordningar som ställs på verksamheten i fråga. I stället för att ansöka om miljötillstånd ska du lämna en anmälan för registrering av verksamheten. Anmälan ska lämnas minst 90 dygn innan verksamheten inleds. Du kan inleda verksamheten när du har meddelats att den registrerats.\n\nLämna anmälan för registrering till Helsingfors miljötjänster via Lupapiste.fi.\n",
+            "costs": "Vi tar ut en avgift för behandlingen av ansökan, enligt miljöskyddsmyndighetens taxa.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Det finns närmare anvisningar i Ymparisto.fi om registreringen.",
+                    "url": "https:\/\/www.ymparisto.fi\/sv\/tillstand-och-skyldigheter\/registrering-enligt-msl"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3953,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Registrera enligt miljöskyddslagen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/lupapiste.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 815,
