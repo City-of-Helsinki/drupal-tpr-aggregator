@@ -25504,8 +25504,8 @@
                 {
                     "type": "INTERNET",
                     "title": "Lomake kouluun hakemisesta vuotta aiemmin",
-                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kasvatuksen-ja-koulutuksen-toimiala\/lomakkeet\/104.pdf",
-                    "file_format": "PDF"
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/kouluun-ilmoittautuminen-ja-hakeminen\/tietoa-1-luokan-aloittavalle\/kouluun-vuotta-myohemmin-tai-aikaisemmin",
+                    "file_format": "HTML"
                 }
             ],
             "channels": [
@@ -25513,7 +25513,7 @@
                     "id": 3624,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Kouluun hakeminen vuotta aikaisemmin",
+                    "name": "Tulostettava lomake, kouluun hakeminen vuotta aikaisemmin",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -25524,6 +25524,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "pdf lomake",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/perusopetuksen-aloittaminen-vuotta-aiemmin.pdf",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -25586,7 +25592,7 @@
                         {
                             "type": "FORM",
                             "title": "PDF-lomake: kouluun hakeminen vuotta myöhemmin",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kasvatuksen-ja-koulutuksen-toimiala\/lomakkeet\/106.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/perusopetuksen-aloittaminen-vuotta-myohemmin.pdf",
                             "file_format": "PDF"
                         }
                     ],
