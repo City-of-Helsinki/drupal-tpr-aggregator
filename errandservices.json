@@ -5574,7 +5574,7 @@
                     "id": 913,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae avustusta",
+                    "name": "Hae harkinnanvaraista lisäavustusta",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -5592,12 +5592,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/avustukset\/iltapaivatoiminnan-harkinnanvarainen-lisaavustushakemus",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -5657,12 +5651,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/avustukset.hel.fi\/en\/optional-extra-grant-application-for-after-school-activity-organisers",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -5722,12 +5710,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/avustukset.hel.fi\/sv\/provningsbaserat-tillaggsunderstod-for-eftermiddagsverksamhet",
-                            "file_format": "HTML"
-                        }
                     ],
                     "availabilities": [
                         {
@@ -5887,7 +5869,7 @@
                     "id": 916,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae Kasvatuksen ja koulutuksen yleisavustusta",
+                    "name": "Hae yleisavustusta",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -9451,7 +9433,7 @@
                     "id": 915,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae avustusta",
+                    "name": "Hae avustusta iltapäivätoiminnan järjestämiseen",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -9523,7 +9505,7 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Apply for an operating grant application for organisers of afternoon activities for school children",
+            "name": "Apply for an operating grant application for organisers of after-school activities for school children",
             "description": "Apply for a grant online or by filling in a pdf form.",
             "process_description": "First, contact the service manager at the Education Division after-school activities unit and agree on the possible start of operations.\n\nSubmit your application by the application deadline, which is in January each year. Further details of the application period are published in the City's annual public notice for grant applications in early December. You can complete the application and submit any attachments after the deadline via the e-service or by post.\n\n1. Education Division will process the application and propose the amount of the grant. \n\n2. Education and Training Committee decides on the principles for awarding the grant.\n\n3. Head of Administration makes decisions on payments to individual associations and organisations.\n\n4. The decision is sent to the applicant and the grant is paid into the applicant's bank account in accordance with the City's grant guidelines.\n\n5. A report on the use of the grant must be submitted with the following year's application. The report must be submitted even if the grant is not applied for in the following year.",
             "processing_time": "Approximately three months.",
@@ -9553,7 +9535,7 @@
                     "id": 915,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Apply for a grant",
+                    "name": "Apply for a grant for organising after-school activities",
                     "prerequisites": "To use the service, you need to identify with online banking credentials or mobile ID.",
                     "availability_summary": "Service available every day around the clock",
                     "process_description": "Once you have completed the grant application, you can save it as a draft in your personal service folder or submit it to the grant processing system. You can follow the progress of the application in your personal service folder under 'Tapahtumat' (Actions).\nIf the application is in the 'Vastaanotettu' (Received) status, the application can be edited. When the application is in the 'Käsittely' (Processing) status, it can no longer be edited. An updated application will replace a previously submitted application. Attachments can be sent using the 'Viesti' (Message) feature up until the deadline. In the Tapahtumat' (Actions) section you can see the contact details of the person processing the application.",
@@ -9655,7 +9637,7 @@
                     "id": 915,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ansök om understöd",
+                    "name": "Ansök om understöd för att arrangera eftermiddagsverksamhet",
                     "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
