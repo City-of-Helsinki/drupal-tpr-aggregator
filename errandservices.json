@@ -1932,6 +1932,7 @@
             "service_id": 10407,
             "type": "ADVICE",
             "name": "Assistive device services customer service",
+            "description": "Contact customer service when you need guidance and advice regarding assistive devices.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -2008,6 +2009,7 @@
             "service_id": 10407,
             "type": "ADVICE",
             "name": "Hjälpmedelstjänstens kundtjänst",
+            "description": "Ta kontakt med kundtjänsten när du behöver handledning och rådgivning i hjälpmedelärenden.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -2846,6 +2848,7 @@
             "service_id": 10087,
             "type": "ADVICE",
             "name": "Advice for the homeless (Housing support)",
+            "description": "You can ask about homeless counselling by phone about arranging housing services for adult homeless, single, childless couples and mental health clients.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3163,7 +3166,7 @@
             "service_id": 10406,
             "type": "ADVICE",
             "name": "Avotyötoiminnan yhteystiedot",
-            "description": "Avotyötoiminnan yhteystiedot",
+            "description": "Avotyötoiminnan yhteystietoja",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3253,6 +3256,7 @@
             "service_id": 10406,
             "type": "ADVICE",
             "name": "Non-institutional Work Activities contact information",
+            "description": "Contact information for Non-institutional Work Activities.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3342,7 +3346,7 @@
             "service_id": 10406,
             "type": "ADVICE",
             "name": "Öppen arbetsverksamhets kontaktuppgifter",
-            "description": "Öppen arbetsverksamhets kontaktuppgifter",
+            "description": "Kontaktuppgifter till öppen arbetsverksamhet.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -9473,12 +9477,6 @@
                             "title": "Siirry palveluun",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1",
                             "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/palaute",
-                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -9570,12 +9568,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Give feedback",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/en\/administration\/participate\/feedback",
-                            "file_format": "HTML"
-                        },
                         {
                             "type": "FORM",
                             "title": "Go to the e-service",
@@ -9672,12 +9664,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Ge respons",
-                            "url": "https:\/\/www.hel.fi\/helsinki\/sv\/stad-och-forvaltning\/delta\/feedback",
-                            "file_format": "HTML"
-                        },
                         {
                             "type": "FORM",
                             "title": "Gå till e-tjänsten",
@@ -24730,6 +24716,7 @@
             "service_id": 10087,
             "type": "ADVICE",
             "name": "Social services promoting integration",
+            "description": "Integration advice gives you advice on issues related to integration, immigration, human trafficking and undocumented services on-site or over the phone.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -26429,7 +26416,7 @@
             "service_id": 10714,
             "type": "ADVICE",
             "name": "Kuntoutusohjaajan puhelin (vankityö)",
-            "description": "Kuntoutusohjaajan puhelin (vankityö)",
+            "description": "Vankityön kuntoutusohjaajan puhelin.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26479,6 +26466,7 @@
             "service_id": 10714,
             "type": "ADVICE",
             "name": "Rehabilitation instructor's telephone (prison work)",
+            "description": "Rehabilitation counsellor's telephone (prison work).",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -26528,7 +26516,7 @@
             "service_id": 10714,
             "type": "ADVICE",
             "name": "Telefon till rehabiliteringshandledare (fångarbete)",
-            "description": "Telefon till rehabiliteringshandledare (fångarbete)",
+            "description": "Telefon till fångarbetes rehabiliteringshandledare.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -33220,6 +33208,7 @@
             "service_id": 10548,
             "type": "ORDERING",
             "name": "Ordering self-treatment products",
+            "description": "Free self-care supplies can be ordered for the treatment of illness electronically or by phone. Use requires a doctor's referral.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -33270,6 +33259,7 @@
             "service_id": 10548,
             "type": "ORDERING",
             "name": "Beställning av egenvårdsartiklar",
+            "description": "Avgiftsfria egenvårdsartiklar kan beställas för behandling av sjukdomen elektroniskt eller per telefon. För användning krävs remiss av läkare.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -33821,7 +33811,8 @@
             "service_id": 10814,
             "type": "ADVICE",
             "name": "Contact us",
-            "name_synonyms": "Contact us",
+            "name_synonyms": "Disability advocate",
+            "description": "You can contact an expert by email or phone.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -33888,7 +33879,8 @@
             "service_id": 10814,
             "type": "ADVICE",
             "name": "Kontakta oss",
-            "description": "Kontakta oss",
+            "name_synonyms": "Handikappombudsmannen",
+            "description": "Du får kontakt med en expert per e-post eller telefon.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -39472,6 +39464,7 @@
             "service_id": 10406,
             "type": "APPOINTMENT",
             "name": "Social rehabilitation, appointment",
+            "description": "Centralised appointment number for new customers.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -39523,6 +39516,7 @@
             "service_id": 10406,
             "type": "APPOINTMENT",
             "name": "Social rehabilitering, tidsbeställning",
+            "description": "Centraliserat tidsbokningsnummer för nya kunder.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -39802,6 +39796,7 @@
             "service_id": 10087,
             "type": "ADVICE",
             "name": "Social counselling",
+            "description": "Centralised social counselling, 16-29 years old and over 30 years old.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49465,7 +49460,7 @@
             "service_id": 10791,
             "type": "ADVICE",
             "name": "Työkykykoordinaattorien yhteystiedot",
-            "description": "Työkykykoordinaattorien yhteystiedot",
+            "description": "Työkykykoordinaattorien yhteystietoja",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49556,6 +49551,7 @@
             "service_id": 10791,
             "type": "ADVICE",
             "name": "Contact information for work ability coordinator services",
+            "description": "Contact information of work ability coordinators.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49646,7 +49642,7 @@
             "service_id": 10791,
             "type": "ADVICE",
             "name": "Tjänster hos samordnare för arbetsförmågans kontaktuppgifter",
-            "description": "Tjänster hos samordnare för arbetsförmågans kontaktuppgifter",
+            "description": "Kontaktuppgifter till tjänster hos samordnare för arbetsförmåga.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49740,7 +49736,7 @@
             "service_id": 10791,
             "type": "APPOINTMENT",
             "name": "Työkykyselvitys, ajanvaraus",
-            "description": "Työkykyselvitys, ajanvaraus",
+            "description": "Työkykyselvityksen ajanvaraus.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49810,6 +49806,7 @@
             "service_id": 10791,
             "type": "APPOINTMENT",
             "name": "Work ability assessment, appointment",
+            "description": "Appointment for work capacity assessment.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49879,7 +49876,7 @@
             "service_id": 10791,
             "type": "APPOINTMENT",
             "name": "Utredning av arbetsförmågan, tidsbeställning",
-            "description": "Utredning av arbetsförmågan, tidsbeställning",
+            "description": "Tidsbeställning för utredning av arbetsförmågan.",
             "provided_languages": [
                 "fi",
                 "sv"
