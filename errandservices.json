@@ -25859,10 +25859,442 @@
         }
     },
     {
+        "id": 5334,
+        "fi": {
+            "id": 5334,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, erillishaku, avustus iäkkäiden ihmisten kulttuuritoiminnan edistämiseksi",
+            "description": "Avustus on harkinnanvarainen erillisavustus, joka kohdennetaan helsinkiläisten iäkkäiden ihmisten hyvinvointia ja toimintakykyä tukevaan kulttuuritoimintaan. Avustushaku on valmisteltu kulttuurin ja vapaa-ajan toimialan liikuntapalveluiden kanssa yhteistyönä. Avustusta voivat hakea helsinkiläiset oikeustoimikelpoiset rekisteröidyt taide- ja kulttuurialalla toimivat yhteisöt.",
+            "process_description": "Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, erillishaku: avustus iäkkäiden ihmisten kulttuuritoiminnan edistämiseksi ",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-avustukset-iakkaiden",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3810,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustusasiointi",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset: Kulttuurin avustukset iäkkäiden ihmisten kulttuuritoiminnan edistämiseksi",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-avustukset-iakkaiden",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5333,
+        "fi": {
+            "id": 5333,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, erityisavustus painotetun musiikinopetuksen kerhotoiminnan tuottamiseen",
+            "description": "Erityisavustus on tarkoitettu taiteen perusopetusta antavalle helsinkiläiselle oppilaitokselle, joka tuottaa peruskoulun painotettua musiikinopetusta syventävää erillistä kerhomuotoista musiikkiopetusta. Avustus on tarkoitettu musiikin kerhotoimintaan, joka kohdennetaan painotetun musiikinopetuksen oppilaiden musiikin kerhotoiminnan järjestämiseen vuonna 2021-23. Kerhotunnit tulee integroida oppilaan koulupäivään ja palveluntuottajan pedagogien tulee huolehtia opetuksesta.",
+            "process_description": "Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, erityisavustus painotetun musiikinopetuksen kerhotoiminnan tuottamiseen",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-erityisavustus",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3809,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset: Kulttuurin erityisavustus painotetun musiikinopetuksen kerhotoiminnan tuottamiseen",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-erityisavustus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5331,
+        "fi": {
+            "id": 5331,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, Helsingin mallin kehittämisavustus",
+            "description": "Helsingin malli on osallistavan ja alueellisen kulttuurityön malli, jossa taidelaitoksia ja taiteen ammattilaisryhmiä kannustetaan toimimaan seiniensä ulkopuolella eri kaupunginosissa yhteistyössä alueen asukkaiden ja yhteisöjen kanssa.\nHelsingin mallin tavoitteena on tasapainottaa ja monipuolistaa kaupunginosien taide- ja kulttuuritarjontaa, vahvistaa kaupunginosien yhteisöllisyyttä ja myönteistä profiloitumista sekä asukkaiden kulttuurista osallisuutta. \n",
+            "process_description": "Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, Helsingin mallin kehittämisavustukset",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-helsingin-mallin",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3807,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuuripalvelut, Helsingin malli",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5318,
+        "fi": {
+            "id": 5318,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, kehittämisavustus",
+            "description": "Kehittämisavustuksia myönnetään helsinkiläisille rekisteröityneille toimijoille, jotka eivät ole esittävän taiteen tai musiikin valtionosuusjärjestelmän piirissä. Avustusta myönnetään hankkeisiin, jotka vastaavat vähintään yhteen seuraavista kriteereistä: \n- kulttuurin kentällä koettu kehittämistarve (esimerkiksi silloin, kun vastaava toiminta puuttuu kaupungista),\n- hankkeet, jotka hyödyttävät taiteen ja kulttuurin kenttää toteuttajatahoaan laajemmin,\n- hankkeet, jotka tukevat kaupungin valtuustostrategisia ja kulttuuripoliittisia tavoitteita.\n\nAvustus voidaan myöntää 1-3-vuotisena. Monivuotiset avustukset vahvistetaan hakemuksesta vuosittain.\n\n\n",
+            "process_description": "Kehittämisavustusta haetaan pääsääntöisesti hakuaikojen mukaisesti seuraavalle vuodelle. Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, kehittämisavustus",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-kehittamisavustukset",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3794,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset, kehittämisavustus",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5339,
+        "fi": {
+            "id": 5339,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, taide- ja kulttuuriavustukset, monivuotiset toiminta-avustukset",
+            "description": "Taide- ja kulttuuriavustuksia myönnetään Helsingissä tapahtuvaan, yleisölle avoimeen taide- ja kulttuuritoimintaan. Avustuksilla tuetaan helsinkiläisille suuntautuvaa toimintaa, joka tuo ihmisiä yhteen taide- ja kulttuurisisältöjen äärelle sekä tarjoaa mahdollisuuksia kohtaamiseen tai vuorovaikutukseen. Monivuotisia toiminta-avustuksia voidaan myöntää helsinkiläisille rekisteröityneille esittävän taiteen ja musiikin valtionosuusjärjestelmän piirissä oleville taide- ja kulttuuriyhteisöille nelivuotiskaudeksi 2023-2026. Ne on tarkoitettu Helsingissä tapahtuvaan, yleisölle avoimeen taide- ja kulttuuritoimintaan. Monivuotiset toiminta-avustukset ovat toiminta-avustuksia yhteisöille, ja lähtökohtaisesti niihin sovelletaan samoja ehtoja kuin muihinkin toiminta-avustuksiin.",
+            "process_description": "Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, monivuotiset toiminta-avustukset",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taide-ja-0",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3817,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset: Kulttuurin taide- ja kulttuuriavustukset: Monivuotiset toiminta-avustukset",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5317,
+        "fi": {
+            "id": 5317,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, taide- ja kulttuuriavustukset, projektiavustus",
+            "description": "Taide- ja kulttuuriavustuksia myönnetään Helsingissä tapahtuvaan yleisölle avoimeen taide- ja kulttuuritoimintaan. Avustuksilla tuetaan helsinkiläisille suuntautuvaa toimintaa, joka tuo ihmisiä yhteen taide- ja kulttuurisisältöjen äärelle sekä tarjoaa mahdollisuuksia kohtaamiseen tai vuorovaikutukseen. \n\nProjektiavustuksia myönnetään rekisteröityneille toimijoille, rekisteröitymättömille työryhmille ja yksityishenkilöille. Avustusta myönnetään projektitoimintaan. Avustuksia ei myönnetä pääasiassa Helsingin ulkopuolella tapahtuvaan toimintaan, suljettuihin tilaisuuksiin, tallenteisiin tai julkaisuihin, mediajulkaisutoimintaan, uskonnollisiin tai puoluepoliittisiin tilaisuuksiin, esitelmiin, luentoihin tai seminaareihin. Avustusta ei voida myöntää toimintaan, jonka koko rahoitusta haetaan kyseisellä avustuksella.",
+            "process_description": "Projektiavustusta haetaan jatkuvassa haussa pääasiassa kuluvalle vuodelle. Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Kulttuurin edistämisen päällikkö päättää sellaisista hakemuksista, joiden hakemussumma on korkeintaan 7500 euroa ja myönnettävä avustussumma korkeintaan 5000 euroa. Viranhaltijapäätösten aikataulu noudattaa pääsääntöisesti kulttuuri- ja kirjastojaoston kokousaikoja. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse. \n\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset: taide- ja kulttuuriavustukset: projektiavustukset",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taide-ja-1"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3793,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset: taide- ja kulttuuriavustukset: projektiavustukset",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taide-ja-1"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5315,
         "fi": {
             "id": 5315,
             "exact_descriptions": [
+                3641
             ],
             "service_id": 10115,
             "type": "APPLICATION",
@@ -25898,6 +26330,7 @@
                     "name": "Sähköinen avustushakemus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -25914,6 +26347,150 @@
                         {
                             "type": "INTERNET",
                             "title": "Kulttuurin avustukset, taide- ja kulttuuriavustukset, toiminta-avustus",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5319,
+        "fi": {
+            "id": 5319,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, taiteen perusopetuksen avustus",
+            "description": "Taiteen perusopetus on tavoitteellista tasolta toiselle etenevää ensisijaisesti lapsille ja nuorille järjestettävää eri taiteenalojen opetusta, joka samalla antaa oppilaalle valmiuksia ilmaista itseään ja hakeutua asianomaisen taiteenalan ammatilliseen ja korkea-asteen koulutukseen. Avustusta taiteen perusopetukseen saava yhteisö tekee avustuskaudellaan vuosittain avustushakemuksen liitteineen Helsingin kaupungin Sähköinen asiointi -palvelussa.\n\n",
+            "process_description": "Taiteen perusopetuksen avustuksia on mahdollista hakea kerran vuodessa seuraavalle vuodelle. Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, taiteen perusopetuksen avustukset",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taiteen-perusopetuksen",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3795,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset: Kulttuurin taiteen perusopetuksen avustukset",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taiteen-perusopetuksen",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5332,
+        "fi": {
+            "id": 5332,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, taiteen perusopetuksen kehittämisavustus",
+            "description": "Taiteen perusopetuksen kehittämishankkeille myönnetään 1−3-vuotisia avustuksia vuosille 2023-25. Hakuun varataan 300 000 euron vuosittainen määräraha. Hankehaku suunnataan helsinkiläisille taiteen perusopetuksen valtionosuusjärjestelmän ulkopuolisille toimijoille.",
+            "process_description": "Hakemus käsitellään Helsingin kaupungin kulttuurin ja vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset, taiteen perusopetuksen kehittämisavustukset",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taiteen-perusopetuksen-0",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3808,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset, taiteen perusopetuksen kehittämisavustukset",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
                             "file_format": "HTML"
                         }
