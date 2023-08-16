@@ -25859,6 +25859,76 @@
         }
     },
     {
+        "id": 5315,
+        "fi": {
+            "id": 5315,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulttuuripalvelut, taide- ja kulttuuriavustukset, toiminta-avustus",
+            "description": "Taide- ja kulttuuriavustuksia myönnetään Helsingissä tapahtuvaan, yleisölle avoimeen taide- ja kulttuuritoimintaan. Avustuksilla tuetaan helsinkiläisille suuntautuvaa toimintaa, joka tuo ihmisiä yhteen taide- ja kulttuurisisältöjen äärelle sekä tarjoaa mahdollisuuksia kohtaamiseen tai vuorovaikutukseen. Toiminta-avustuksia myönnetään helsinkiläisille, rekisteröityneille toimijoille, joiden toiminta on jatkunut rekisteröityneenä vähintään yhden tilivuoden. Avustus myönnetään koko vuoden toimintaan.",
+            "process_description": "Toiminta-avustuksia on mahdollista hakea kerran vuodessa seuraavalle vuodelle. Hakemus käsitellään Helsingin kaupungin kulttuurin vapaa-ajan toimialan kulttuurin edistäminen -palvelun kumppanuusyksikössä. Käsittelyajan pituus riippuu haettavasta avustuksesta. Avustuksista päättää kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaosto. Hakijoita tiedotetaan päätöksestä jaoston päätöksen jälkeen. Hakijoille lähetetään tieto päätöksestä postitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulttuurin avustukset: taide- ja kulttuuriavustukset: toiminta-avustukset",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset\/kulttuurin-avustukset-kulttuurin-taide-ja",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3791,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin sähköisessä asiointipalvelussa. Voit tallentaa hakemuksen luonnokseksi, jolloin voit palata täyttämään sitä myöhemmin. Hakemuksesi tallentuu omaan asiointikansioosi Helsingin kaupungin Sähköinen asiointi -palvelussa. Avustuspäätös lähetetään hakijalle postitse.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kulttuurin avustukset, taide- ja kulttuuriavustukset, toiminta-avustus",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4088,
         "fi": {
             "id": 4088,
@@ -32652,7 +32722,7 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun (tarkastele ennen 14.6. tehtyjen oikaisuvaatimusten päätöksiä)",
+                            "title": "Katso ennen 14.6. tekemäsi oikaisuvaatimuksen päätös",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1"
                         }
                     ],
@@ -32795,7 +32865,7 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten (bekanta dig med beslut om omprövning som lämnats in före den 14 juni)",
+                            "title": "Klicka här för beslutet om omprövning som lämnats in före 14.6. ",
                             "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1"
                         }
                     ],
