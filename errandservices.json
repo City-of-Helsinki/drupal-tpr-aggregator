@@ -25674,10 +25674,128 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5334,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, separate grant calls, grants to promote cultural activities for the elderly",
+            "description": "The discretionary targeted grants are intended for cultural activities that increase the wellbeing and functional capacity of elderly Helsinki residents. The call for applications has been prepared in cooperation with the Culture and Leisure Division's Sports Services. The grants can be applied for by Helsinki-based legally authorised registered organisations operating in the field of arts and culture.",
+            "process_description": "The application will be processed by the City of Helsinki Culture and Leisure Division Cultural Services and Support partner unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Culture grants for the promotion of cultural activities for the elderly",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture\/grants-for-culture-culture-grants-for-the-promotion-of",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3810,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate.",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5334,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, separat ansökan, understöd för främjande av kulturella aktiviteter för äldre",
+            "description": "Understödet är ett behovsprövat specialunderstöd riktat till kulturverksamhet som stöder äldre Helsingforsbors välbefinnande och funktionsförmåga. Utlysningen av understödet har beretts i samarbete med idrottsservicen inom kultur- och fritidssektorn. Understödet kan ansökas av registrerade organisationer inom konst- och kultursektorn i Helsingfors som har rättshandlingsförmåga.",
+            "process_description": "Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för kultur: Separat ansökan: Understöd för främjande av kulturella aktiviteter för äldre",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur\/understod-for-kultur-separat-ansokan-understod-for-framjande-av",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3810,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i Helsingfors stads e-tjänst",
+                    "prerequisites": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder.",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare. Din ansökan sparas i din egen ärendehanteringsmapp i Helsingfors stads e-tjänst. Understödsbeslutet sänds till sökanden per post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Separat ansökan: Understöd för främjande av kulturella aktiviteter för äldre",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur\/understod-for-kultur-separat-ansokan-understod-for-framjande-av",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5333,
@@ -25891,10 +26009,138 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5318,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, development grants ",
+            "description": "Development grants are awarded to Helsinki-based registered operators that are not included in the scope of the system of central government transfers to local government in the fields of performing arts or music. Grants are awarded for projects meeting at least one of the following criteria: - Responds to the cultural sector's development needs (e.g. when certain activities are not yet available in the city) - Is beneficial to the field of art and culture more extensively than only to the organisation implementing the project - Supports the City Council's strategic and cultural policy objectives Grants can be awarded for one to three years. Multiannual grants are annually confirmed based on an application.",
+            "process_description": "As a rule, development grants are applied for in accordance with the application periods for the following year. The application will be processed by the City of Helsinki Culture and Leisure Division Cultural Services and Support partner unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post. ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Development grants for culture",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture\/grants-for-culture-development-grants-for-culture",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3794,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate. ",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post. ",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grants for culture: Development grants for culture",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5318,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, utvecklingsunderstöd ",
+            "description": "Utvecklingsunderstöd beviljas registrerade aktörer i Helsingfors som inte omfattas av statsandelssystemet för scenkonst eller musik. Understöd beviljas för projekt som uppfyller minst ett av följande kriterier: - svarar på ett upplevt utvecklingsbehov inom kulturfältet (till exempel när staden saknar motsvarande verksamhet)\n- projekt som vid sidan av den part som genomför projektet även främjar det övriga konst- och kulturfältet\n- projekt som stödjer stadens strategiska och kulturpolitiska mål. Understödet kan beviljas för 1-3 år. Fleråriga understöd fastställs årligen på ansökan.",
+            "process_description": "Utvecklingsunderstödet ansöks i regel enligt ansökningstiderna för följande år. Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post. ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kulturtjänster, utvecklingstöd",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur\/understod-for-kultur-utvecklingsstod-for-kultur",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3794,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i Helsingfors stads e-tjänst",
+                    "prerequisites": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder. ",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare. Din ansökan sparas i din egen ärendehanteringsmapp i Helsingfors stads e-tjänst. Understödsbeslutet sänds till sökanden per post. ",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Utvecklingsstöd för kultur",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5339,
@@ -25963,10 +26209,136 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5339,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, grants for arts and culture, multiannual operational grants",
+            "description": "Arts and culture grants are awarded for artistic and cultural activities organised in Helsinki and open to the general public. The grants are directed at supporting activities that are geared towards Helsinki residents, bring people together and into contact with artistic and cultural content, and offer possibilities for encounters and interaction.​ Multiannual operational grants may be granted to registered Helsinki-based art operators that are included in the scope of the system of central government transfers to local government for the four-year period from 2023 to 2026. The grants are intended for artistic and cultural activities open to the general public in Helsinki. The multiannual operational grants are operational grants to organisations and are subject, in principle, to the same conditions as other operational grants.",
+            "process_description": "The application will be processed by the City of Helsinki Culture and Leisure Division Cultural Services and Support partner unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Multi-year operational grants for culture",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture\/grants-for-culture-multi-year-operational-grants-for",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3817,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate.",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grants for culture: Multi-year operational grants for culture",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5339,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, konst- och kulturunderstöd, fleråriga verksamhetsunderstöd",
+            "description": "Konst- och kulturunderstöd beviljas för konst- och kulturverksamhet i Helsingfors som är öppen för allmänheten. Med understöden stöds verksamhet riktad till Helsingforsbor, som för samman människor kring konst- och kulturinnehåll samt erbjuder möjligheter att mötas eller interagera. Fleråriga verksamhetsunderstöd kan beviljas i Helsingfors verksamma registrerade konst- och kultursammanslutningar som omfattas av statsandelssystemet för scenkonst och musik för en fyraårsperiod 2023-2026. Understöden är avsedda för konst- och kulturverksamhet i Helsingfors som är öppen för allmänheten. Fleråriga verksamhetsunderstöd är verksamhetsunderstöd för sammanslutningar och omfattas i princip av samma villkor som de övriga verksamhetsunderstöden.",
+            "process_description": "Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för kultur: Understöd för konst och kultur: Fleråriga verksamhetsunderstöd",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur\/understod-for-kultur-understod-for-konst-och-kultur-flerariga",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3817,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i Helsingfors stads e-tjänst",
+                    "prerequisites": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder.",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare. Din ansökan sparas i din egen ärendehanteringsmapp i Helsingfors stads e-tjänst. Understödsbeslutet sänds till sökanden per post.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Understöd för konst och kultur: Fleråriga verksamhetsunderstöd",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5317,
@@ -26034,10 +26406,138 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5317,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, grants for arts and culture, project grant ",
+            "description": "Arts and culture grants are awarded for artistic and cultural activities organised in Helsinki and open to the general public. The grants are directed at supporting activities that are geared towards Helsinki residents, bring people together and into contact with artistic and cultural content, and offer possibilities for encounters and interaction.​  Project grants are awarded to registered operators, non-registered working groups and private individuals.​ A grant is awarded for project activities. Grants are not awarded for activities that mainly take place outside Helsinki, closed events, recordings or publications, media publishing, religious or political events, presentations, lectures or seminars. Grants cannot be awarded for activities for which full funding is requested by means of said grant. ",
+            "process_description": "An application for a project grant may be submitted at any time, mainly for activities taking place during the current calendar year. The application will be processed by the City of Helsinki Culture and Leisure Division Cultural Services and Support partner unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. The Director of Cultural Services and Support decides on applications with a maximum applied amount of EUR 7,500 and a maximum awarded amount of EUR 5,000. As a rule, the schedule for decisions made by a local government official follows the meeting times of the Culture and Library Sub-committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post.   ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Project grants for culture",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/grants-for-culture-project-grants-for-culture",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3793,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-services Application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate. ",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post. ",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grants for culture: Project grants for culture",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/grants-for-culture-project-grants-for-culture",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5317,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, konst- och kulturunderstöd, projektunderstöd ",
+            "description": "Konst- och kulturunderstöd beviljas för konst- och kulturverksamhet i Helsingfors som är öppen för allmänheten. Med understöden stöds verksamhet riktad till Helsingforsbor, som för samman människor kring konst- och kulturinnehåll samt erbjuder möjligheter att mötas eller interagera.  Projektunderstöd beviljas registrerade aktörer, oregistrerade arbetsgrupper och enskilda personer. Understöd beviljas för projektverksamhet. Understöd beviljas inte för verksamhet som huvudsakligen sker utanför Helsingfors, för slutna tillställningar, upptagningar eller publikationer, för mediepublikationsverksamhet, religiösa eller partipolitiska tillställningar, föredrag, föreläsningar eller seminarier. Understöd kan inte beviljas för verksamhet där hela finansieringen täcks med understödet i fråga. ",
+            "process_description": "Projektunderstöd ansöks vid kontinuerlig ansökan i huvudsak för det innevarande året. Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Chefen för kulturfrämjande beslutar om ansökningar där ansökningsbeloppet är högst 7 500 euro och där det beviljade understödet är högst 5 000 euro. Tidtabellen för tjänsteinnehavarnas beslut följer i regel tidpunkterna för kultur- och bibliotekssektionens möten. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post.   ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för kultur: Understöd för konst och kultur: Projektstöd",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/understod-for-kultur-understod-for-konst-och-kultur-projektstod",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3793,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i Helsingfors stads e-tjänst",
+                    "prerequisites": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder. ",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare. Din ansökan sparas i din egen ärendehanteringsmapp i Helsingfors stads e-tjänst. Understödsbeslutet sänds till sökanden per post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Understöd för konst och kultur: Projektstöd",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/understod-for-kultur-understod-for-konst-och-kultur-projektstod",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5315,
@@ -26106,10 +26606,136 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5315,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, grants for arts and culture, operational grant  ",
+            "description": "Arts and culture grants are awarded for artistic and cultural activities organised in Helsinki and open to the general public. The grants are directed at supporting activities that are geared towards Helsinki residents, bring people together and into contact with artistic and cultural content, and offer possibilities for encounters and interaction.​ operational grants are awarded to Helsinki-based registered organisations that have been operational as registered for at least one fiscal year.​ A grant is awarded for the whole year's activities.​ ",
+            "process_description": "It is possible to apply for an operational grant once a year for the following year. The applications are processed by the City of Helsinki Culture and Leisure Division's Cultural Services and Support partnership unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post.   ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Operational grants for culture",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/grants-for-culture-operational-grants-for-culture",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3791,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate. ",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grants for culture: Operational grants for culture",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5315,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, konst- och kulturunderstöd, verksamhetsunderstöd  ",
+            "description": "Konst- och kulturunderstöd beviljas för konst- och kulturverksamhet i Helsingfors som är öppen för allmänheten. Med understöden stöds verksamhet riktad till Helsingforsbor, som för samman människor kring konst- och kulturinnehåll samt erbjuder möjligheter att mötas eller interagera. Verksamhetsunderstöd beviljas sådana aktörer i Helsingfors som är registrerade och vars registrerade verksamhet har pågått under minst ett räkenskapsår. Understödet beviljas för verksamheten under hela året. ",
+            "process_description": "Verksamhetsunderstöd kan ansökas en gång per år för det följande året. Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post.   ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för kultur: Understöd för konst och kultur: Verksamhetsunderstöd",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/understod-for-kultur-understod-for-konst-och-kultur-verksamhetsunderstod",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3791,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i Helsingfors stads e-tjänst",
+                    "information": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder. ",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare. Din ansökan sparas i din egen ärendehanteringsmapp i Helsingfors stads e-tjänst. Understödsbeslutet sänds till sökanden per post. ",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Understöd för konst och kultur: Verksamhetsunderstöd",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5319,
@@ -26179,10 +26805,138 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5319,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, grants for basic arts education",
+            "description": "Basic arts education is progressive and goal-oriented instruction in various forms of art, mainly intended for children and young people, and it provides the students with skills to express themselves and apply for vocational or higher education in a specific arts discipline. Throughout the grant period, the organisation receiving a basic arts education grant must submit annual grant applications with the required enclosures via the City of Helsinki e-services.",
+            "process_description": "It is possible to apply for a basic arts education grant once a year for the following year. The application will be processed by the City of Helsinki Culture and Leisure Division Cultural Services and Support partner unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Basic arts education grants for culture",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture\/grants-for-culture-basic-arts-education-grants-for",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3795,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate.",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grants for culture: Basic arts education grants for culture",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture\/grants-for-culture-basic-arts-education-grants-for",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5319,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, understöd för grundläggande konstundervisning",
+            "description": "Grundläggande konstundervisning är undervisning i konstämnen som är målinriktad och från nivå till nivå fortskridande, och som primärt riktas till barn och unga. Den ger eleverna beredskap att uttrycka sig och även att söka sig till yrkesutbildning och högre utbildning inom konstformen i fråga. Sammanslutningar som får understöd för grundläggande konstundervisning ska årligen under understödsperioden lämna in en ansökan om understöd jämte bilagor i Helsingfors stads e-tjänst.",
+            "process_description": "Understöd för grundläggande konstundervisning kan ansökas en gång per år för det följande året. Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för kultur: Stöd för grundläggande konstundervisning",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur\/understod-for-kultur-stod-for-grundlaggande-konstundervisning",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3795,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i e-tjänsten",
+                    "prerequisites": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder.",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Stöd för grundläggande konstundervisning",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur\/understod-for-kultur-stod-for-grundlaggande-konstundervisning",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5332,
@@ -26250,10 +27004,134 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5332,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Cultural Services, basic art education development grants",
+            "description": "Grants for the development of basic art education are awarded for one to three years between 2023 and 2025. An annual appropriation of EUR 300,000 has been earmarked for the grants. The call for applications is directed at Helsinki-based art operators that are not included in the scope of the system of central government transfers to local government in the field of basic art education.",
+            "process_description": "The application will be processed by the City of Helsinki Culture and Leisure Division Cultural Services and Support partner unit. The length of the processing time depends on the applied grant. Decisions on grants are made by the Culture and Library Sub-committee of the Culture and Leisure Committee. Applicants will be informed of the decision once the committee has made its decision. Applicants will be notified by post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grants for culture: Basic arts education development grants for culture",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture\/grants-for-culture-basic-arts-education-development",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3808,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service application",
+                    "prerequisites": "To use the service, identification is required, either with online banking credentials or a mobile certificate.",
+                    "process_description": "You can apply for a grant through the City of Helsinki e-services. You can save your application as a draft and return to complete it later. Your application will be saved in your personal folder in the City of Helsinki e-services. The grant decision will be sent to you by post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grants for culture: Basic arts education development grants for culture",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5332,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Kulturtjänster, utvecklingsunderstöd för grundläggande konstundervisning",
+            "description": "Utvecklingsprojekt inom den grundläggande konstundervisningen beviljas 1-3-åriga understöd för åren 2023-25. Ett årligt anslag på 300 000 euro reserveras för projekten. Projektansökan riktas till aktörer i Helsingfors som inte omfattas av statsandelssystemet för grundläggande konstundervisning.",
+            "process_description": "Ansökan behandlas vid partnerskapsenheten för tjänsten för kulturfrämjande inom Helsingfors stads kultur- och fritidssektor. Behandlingstiden beror på det ansökta understödet. Kultur- och bibliotekssektionen vid kultur- och fritidsnämnden beslutar om understöden. Besluten meddelas till sökandena efter sektionen fattat besluten. Sökandena delges beslutet per post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Understöd för kultur: Utvecklingsstöd för grundläggande konstundervisning",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/understod-for-kultur-utvecklingsstod-for-grundlaggande-konstundervisning",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3808,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan i Helsingfors stads e-tjänst",
+                    "prerequisites": "Användningen av tjänsten kräver identifiering antingen med bankkoder eller med mobilkoder.",
+                    "process_description": "Gör ansökan om understöd i Helsingfors stads e-tjänst. Du kan spara ansökan som ett utkast och återkomma till att fylla i den senare. Din ansökan sparas i din egen ärendehanteringsmapp i Helsingfors stads e-tjänst. Understödsbeslutet sänds till sökanden per post.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för kultur: Utvecklingsstöd för grundläggande konstundervisning",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taideKulttuuri\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2165,
