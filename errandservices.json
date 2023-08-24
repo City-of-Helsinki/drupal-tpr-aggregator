@@ -5374,7 +5374,7 @@
             "type": "APPLICATION",
             "name": "Hae iltapäivätoiminnan harkinnanvaraista lisäavustusta",
             "description": "Voit hakea harkinnanvaraista lisäavustusta sähköisesti.",
-            "process_description": "1. Sovi kasvatuksen ja koulutuksen toimialan kanssa lisärahoituksen tarpeesta.\n2. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen harkinnanvaraisesta lisämäärärahasta.\n3. Päätöksen harkinnanvaraisesta lisäavustuksesta tekee hallintopällikkö.\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.",
+            "process_description": "1. Sovi kasvatuksen ja koulutuksen toimialan kanssa lisärahoituksen tarpeesta.\n2. Kasvatuksen ja koulutuksen toimiala käsittelee hakemuksen ja tekee esityksen harkinnanvaraisesta lisämäärärahasta.\n3. Päätöksen harkinnanvaraisesta lisäavustuksesta tekee talous- ja suunnittelujohtaja.\n4. Päätöksestä lähetetään tieto hakijalle ja myönnetty avustus maksetaan hakijayhteisön pankkitilille kaupungin avustusohjeiden mukaisesti.",
             "processing_time": "Noin yksi kuukausi ",
             "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty tai se on peruttu.",
             "provided_languages": [
@@ -5439,7 +5439,7 @@
             "type": "APPLICATION",
             "name": "Apply for an optional extra grant application for after-school activity organisers",
             "description": "Apply for a grant online.",
-            "process_description": "1. Discuss the need for additional funding with the Education Division.\n2. The Education Division processes the application and makes a proposition concerning an optional extra appropriation.\n3. The optional extra grant decision is made by the Head of Administration.\n4. Information about the decision will be sent to the applicant and the grant awarded is paid to the bank account of the applicant foundation in accordance with the city's grant guidelines.",
+            "process_description": "1. Discuss the need for additional funding with the Education Division.\n2. The Education Division processes the application and makes a proposition concerning an optional extra appropriation.\n3. The optional extra grant decision is made by the Head of Finance and planning services.\n4. Information about the decision will be sent to the applicant and the grant awarded is paid to the bank account of the applicant foundation in accordance with the city's grant guidelines.",
             "processing_time": "About one month.",
             "expiration_time": "Once an application has been sent in, it is valid until the decision has been made or until it has been cancelled.",
             "provided_languages": [
@@ -5503,7 +5503,7 @@
             "type": "APPLICATION",
             "name": "Ansök om prövningsbaserat tilläggsunderstöd för eftermiddagsverksamhet",
             "description": "Du kan ansöka om understöd elektorniskt.",
-            "process_description": "1.Kom överens om behov av tilläggsunderstöd med sektorn för fostran och utbildning.\n2. Sektorn för fostran och utbildning behandlar ansökan och gör ett förslag till prövningsbaserat tilläggunderstöd.\n3. Beslutet om utbetalningen av understödet till de enskidla organisationerna fattas av förvaltningschefen.\n4. Sökanden får information om beslutet per post och ett beviljat understöd betalas på den sökande organisationens bankkonto enligt stadens understödsprogram.",
+            "process_description": "1.Kom överens om behov av tilläggsunderstöd med sektorn för fostran och utbildning.\n2. Sektorn för fostran och utbildning behandlar ansökan och gör ett förslag till prövningsbaserat tilläggunderstöd.\n3. Beslutet om utbetalningen av understödet till de enskidla organisationerna fattas av ekonomi- och planeringschefen.\n4. Sökanden får information om beslutet per post och ett beviljat understöd betalas på den sökande organisationens bankkonto enligt stadens understödsprogram.",
             "processing_time": "Cirka 1 månad",
             "expiration_time": "Ansökan är i kraft tills beslutet är fattat eller tills ansökan har dragits tillbaka.",
             "provided_languages": [
@@ -30416,222 +30416,6 @@
                         {
                             "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
                         }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5451,
-        "fi": {
-            "id": 5451,
-            "exact_descriptions": [
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Liikuntapalvelut, kohdeavustus (UUSI)",
-            "description": "Kohdeavustus on liikuntaseuroille ja muille liikuntaa edistäville yhdistyksille suunnattu harkinnanvarainen avustus liikunnan kohdennettuun toimintaan.",
-            "process_description": "Kohdeavustusta voi hakea ympäri vuoden.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset kohdeavustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Avustusta saa käyttää vain avustuspäätöksessä mainittuun tarkoitukseen. Jos avustuspäätöksessä ei ole tarkemmin yksilöity käyttötarkoitusta, avustus on käytettävä hakemuksessa mainittuun tarkoitukseen. Avustuksen käytöstä tulee raportoida erillisellä lomakkeella. Avustuspäätöksessä on tieto, milloin selvitys tulee olla tehtynä.",
-            "processing_time": "Hakemuksia käsitellään säännöllisesti ympäri vuoden.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kohdeavustuksen tarkemmat myöntämisperusteet",
-                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-kohdeavustus"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Tietoa Helsingin kaupungin avustuksista",
-                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 4001,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Liikunta, yleisavustushakemus",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
-                    "availability_summary": "Palvelu saatavilla joka päivä 00-",
-                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1"
-                        }
-                    ],
-                    "availabilities": [
-                        [
-                        ]
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5451,
-            "exact_descriptions": [
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Sports services, targeted grant",
-            "description": "The targeted grant is a discretionary grant for sports clubs and other associations organising sports activites for the purpose of organising targeted sports and physical activities.",
-            "process_description": "A targeted grant can be applied for all year round.\n\nThe applications are processed by the Partnership and Development unit within the Sports Services. The decisions on event grants are made by the Sports Services Director.\n\nApplicants will be notified of the decision by post. The awarded grant will be paid in accordance with the grant decision in one installment into a bank account specified by the recipient. The grant can only be used for the purpose stated in the grant decision. If the grant decision does not specify the purpose, the grant must be used for the purpose stated in the application. The use of a targeted grant must be reported via a separate form. The grant decision indicates when the report must be submitted.",
-            "processing_time": "Applications are processed regularly throughout the year.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "A more detailed description of the eligibility criteria of the targeted grant ",
-                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-sports\/targeted-grant-for-sports"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Information about the City of Helsinki grants",
-                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 4001,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Sport, general application for sports grants",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "availability_summary": "Service available every day 00-",
-                    "process_description": "Apply for the grant through the City of Helsinki e-services for grants and attach the mandatory appendices to the application. The application can be saved as a draft and returned to in order to complete it later. The sending of the application transfers the application to the grant processing system for processing. The processing of the matter may be traced through the e-services for grants.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application.\n",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service ",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1"
-                        }
-                    ],
-                    "availabilities": [
-                        [
-                        ]
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5451,
-            "exact_descriptions": [
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Idrottsservice, riktat understöd",
-            "description": "Riktat understöd är ett behovsprövat understöd riktat till idrottsföreningar och övriga föreningar som ordnar idrottstjänster för att ordna riktad idrottsverksamhet.",
-            "process_description": "Understödet kan ansökas året om.\n\nAnsökningar behandlas vid enheten för partnerskap och utveckling inom idrottsservicen. Beslutet om beviljande av evenemangsunderstöd fattas av motionstjänstchefen.\n\nSökandena delges beslutet per post. Understödet betalas ut i enlighet med understödsbeslutet i en rat med de betalningsuppgifter som understödstagaren angett. Understödet får endast användas för det ändamål som nämns i understödsbeslutet. Om användningsändamålet inte har definierats i understödsbeslutet, ska understödet användas för det ändamål som angetts i ansökan. Användningen av understödet ska rapporteras i en separat blankett. I understödsbeslutet anges när utredningen ska vara slutförd.",
-            "processing_time": "Ansökningarna behandlas regelbundet året om.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "De exakta grunderna för beviljande av riktat understöd",
-                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-idrott\/riktat-understod-for-idrott"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Om understöden av Helsingfors stad",
-                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 4001,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Idrott, allmän ansökan om understöd för idrott",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig varje dag 00-",
-                    "process_description": "Gör ansökan om understödet i Helsingfors stads e-tjänst för understöd och bifoga de obligatoriska bilagorna till ansökan. Ansökan kan sparas som ett utkast och återkommas till att fylla i den senare. När du skickar in en ansökan, tas den i systemet för understödsshantering för behandling. Behandlingen kan följas i e-tjänsten för understöd.\n\nUppgifterna i ansökan kan ändras så länge statusen är \"Mottagen\". Då ärendet har statusen \"Behandling\" kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan.\n",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1"
-                        }
-                    ],
-                    "availabilities": [
-                        [
-                        ]
                     ]
                 }
             ]
