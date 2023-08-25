@@ -49527,6 +49527,24 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4021,
+                    "type": "SMS",
+                    "type_string": "Tekstiviesti",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": {
@@ -49553,6 +49571,24 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4021,
+                    "type": "SMS",
+                    "type_string": "SMS",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -49579,6 +49615,24 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4021,
+                    "type": "SMS",
+                    "type_string": "SMS",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
