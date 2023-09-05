@@ -29806,311 +29806,6 @@
         }
     },
     {
-        "id": 829,
-        "fi": {
-            "id": 829,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Liikuntapalvelu, laitosavustushakemus",
-            "description": "Urheilulaitokset ja -säätiöt voivat hakea avustusta toimintaansa.",
-            "process_description": "Avustusta voivat hakea urheilulaitokset tai -säätiöt, joille on myönnetty kaupungin avustusta edellisenä vuonna.\nTalousarvioavustushakemukset on jätettävä edeltävän vuoden huhtikuun loppuun mennessä. Tarkka jättöpäivä ilmoitetaan vuosittain kaupungin yhteiskuulutuksessa.\n\n1. Tiedon päätöksestä hakija saa postitse.\n2. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n3. Avustuksen käytöstä on annettava selvitys seuraavan vuoden hakemuksen yhteydessä. Mikäli avusta ei haeta enää seuraavana vuonna, tulee käyttöselvitys kuitenkin tehdä. Tällöin selvityksen voi tehdä viestiominaisuutta käyttäen.",
-            "information": "Avustusta saa käyttää vain myönnettyyn tarkoitukseen, eikä sitä saa jakaa edelleen.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kulttuurin ja vapaa-ajan toimiala",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoa avustuksista",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 903,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Liikuntatoimi, laitos- ja säätiöavustukset",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
-                    "information": "Jos valitset \"Tallenna luonnoksena\", liitteet eivät tallennu hakemuksen mukana.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kulttuurin ja vapaa-ajan toimialalle",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 829,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Sports services, institution and foundation grants",
-            "description": "Sports institutions and foundations may apply for a grant for their operations.",
-            "process_description": "A grant may be applied for by institutions or foundations, for which the city has awarded a grant the previous year.\n\nBudget grant applications must be filed by the end of April of the preceding year. The specific filing date is announced annually in the city's public announcement.\n\n1. The applicant will be informed about the decision by mail.\n2. The grant awarded will be paid to the bank account of the applicant foundation.\n3. A report concerning the use of the grant must be provided with next year's application. Even if the grant is not applied for the next year, a report must still be provided. In the latter case, the report may be made using the message feature.",
-            "information": "A grant may be used only for the purpose it was awarded for and it cannot be awarded onwards.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Further information about grants",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/grants\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 903,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Sports services, institution and foundation grants",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "availability_summary": "Service available every day around the clock",
-                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Culture and Leisure Division",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/feedback\/feedback\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 829,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Idrottsväsendet, anläggnings- och stiftelseunderstöd",
-            "description": "Anläggningar och stiftelser kan söka understöd för sin verksamhet.",
-            "process_description": "Understöd kan sökas av anläggningar och stiftelser som har fått understöd föregående år.\n\nAnsökningar om budgetunderstöd ska lämnas in före utgången av april föregående år. Det exakta datumet framgår av stadens årliga gemensamma kungörelse.\n\n1. Sökanden informeras om beslutet per post.\n2. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n3. En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Utredningen kan då ges med egenskapen för meddelanden.",
-            "information": "Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Upplysningar om bidrag",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/Understod\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Kultur- och fritidssektorn",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 903,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Idrottsväsendet, anläggnings- och stiftelseunderstöd",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till kultur- och fritidssektorn",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 2638,
-        "fi": {
-            "id": 2638,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Liikuntapalvelu, Starttiavustushakemus",
-            "description": "Helsinkiläiset alle vuoden toimineet yhdistykset tai rekisteröintiprosessin käynnistäneet yhdistykset, joiden pääasiallinen toiminta sääntöjen mukaan on liikuntatoiminta voivat hakea 500 € suuruista starttiavustusta.",
-            "process_description": "Helsinkiläiset alle vuoden toimineet yhdistykset tai rekisteröintiprosessin käynnistäneet yhdistykset, joiden pääasiallinen toiminta sääntöjen mukaan on liikuntatoiminta voivat hakea 500 € suuruista starttiavustusta.\n\nStarttiavustus voidaan myöntää yhdistykselle vain kerran.\n\nStarttiavustusta on mahdollista hakea ympäri vuoden, ensisijaisesti sähköisen järjestelmän. Poikkeustapauksessa avustushakemus voidaan toimittaa kaupungin kirjaamoon. \n\nStarttiavustus-hakemuksen liitteenä toimitetaan ote yhdistysrekisteristä, yhdistyksen säännöt sekä talousarvio ja toimintasuunnitelma.\n\nLiikuntajaos vahvistaa vuosittain starttiavustuksen jakoperusteet ja osittaa avustusmäärärahan, jonka jakamisesta päätöksen tekee liikuntajohtaja.",
-            "expiration_time": "Hakemus on voimassa, kunnes päätös on tehty.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Tietoa avustuksista",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1626,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Liikuntatoimi, Starttiavustushakemus, verkkopalvelu",
-                    "prerequisites": "Palvelun käyttäminen edellyttää vahvaa tunnistautumista joko käyttäjän henkilökohtaisilla pankki- tai mobiilitunnuksilla.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livStartti\/?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kulttuurin ja vapaa-ajan toimialalle",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 2631,
         "fi": {
             "id": 2631,
@@ -30421,6 +30116,84 @@
         }
     },
     {
+        "id": 5451,
+        "fi": {
+            "id": 5451,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, kohdeavustus (UUSI)",
+            "description": "Kohdeavustus on liikuntaseuroille ja muille liikuntaa edistäville yhdistyksille suunnattu harkinnanvarainen avustus liikunnan kohdennettuun toimintaan.",
+            "process_description": "Kohdeavustusta voi hakea ympäri vuoden.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset kohdeavustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Avustusta saa käyttää vain avustuspäätöksessä mainittuun tarkoitukseen. Jos avustuspäätöksessä ei ole tarkemmin yksilöity käyttötarkoitusta, avustus on käytettävä hakemuksessa mainittuun tarkoitukseen. Avustuksen käytöstä tulee raportoida erillisellä lomakkeella. Avustuspäätöksessä on tieto, milloin selvitys tulee olla tehtynä.",
+            "processing_time": "Hakemuksia käsitellään säännöllisesti ympäri vuoden.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tarkemmat myöntämisperusteett kohdeavustus",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-kohdeavustus"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4001,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta, yleisavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä 00-",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        [
+                        ]
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 843,
         "fi": {
             "id": 843,
@@ -30652,6 +30425,84 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5453,
+        "fi": {
+            "id": 5453,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, starttiavustus (UUSI)",
+            "description": "Starttiavustusta voidaan myöntää alle yhden vuoden toimineelle tai rekisteröintiprosessinsa käynnistäneelle liikuntaseuralle Helsingissä.",
+            "process_description": "Starttiavustusta voi hakea ympäri vuoden.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset starttiavustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Avustus tulee käyttää liikuntaseuran yleishyödylliseen liikuntatoimintaan.",
+            "processing_time": "Päätökset pyritään tekemään kuukauden sisällä hakemuksen saapumisesta.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Starttiavustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-starttiavustus"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4002,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta, yleisavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä 00-",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livStartti\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        [
+                        ]
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4302,
