@@ -10670,7 +10670,7 @@
                         {
                             "type": "FORM",
                             "title": "Vähittäismyyntilupahakemus (PDF)",
-                            "url": "https:\/\/www.valvira.fi\/documents\/14444\/3646737\/Hakemus_tupakkatuotteiden_ja_nikotiininesteiden_vahittaismyyntiin_tukkumyynti_ilmoitus.pdf\/fc94f01b-c8a5-7e08-1ea5-a94731467c76",
+                            "url": "https:\/\/valvira.fi\/documents\/152634019\/171571797\/Kirjallinen-lupahakemus.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -10683,7 +10683,8 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Tee vähittäismyyntilupahakemus Valviran sähköisessä palvelussa",
                     "provided_languages": [
-                        "fi"
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -10696,7 +10697,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Valviran palveluun",
-                            "url": "https:\/\/www.valvira.fi\/tupakka\/myynti\/vahittaismyynti\/myyntilupahakemus",
+                            "url": "https:\/\/sol.itella.net\/ec\/valvira\/form",
                             "file_format": "HTML"
                         }
                     ],
@@ -10768,6 +10769,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application form (PDF, In Finnish)",
+                            "url": "https:\/\/valvira.fi\/documents\/152634019\/171571797\/Kirjallinen-lupahakemus.pdf",
+                            "file_format": "PDF"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -10778,7 +10785,8 @@
                     "type_string": "E-services",
                     "name": "Online services",
                     "provided_languages": [
-                        "fi"
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -10790,8 +10798,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to Valvira’s service> (in Finnish)",
-                            "url": "https:\/\/www.valvira.fi\/tupakka\/myynti\/vahittaismyynti\/myyntilupahakemus",
+                            "title": "Go to Valvira’s service (in Finnish)",
+                            "url": "https:\/\/sol.itella.net\/ec\/valvira\/form",
                             "file_format": "HTML"
                         }
                     ],
@@ -10866,7 +10874,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Ansökan om detaljhandelstillstånd (pdf)",
-                            "url": "https:\/\/www.valvira.fi\/documents\/18502\/3651344\/Hakemus_tupakkatuotteiden_ja_nikotiininesteiden_vahittaismyyntiin_tukkumyynti_ilmoitus_sv.pdf\/adc339d9-98e0-1f45-f498-a25b458a1898",
+                            "url": "https:\/\/valvira.fi\/documents\/152634019\/172153951\/Kirjallinen-lupahakemus-Skriftlig-tillst%C3%A5ndsans%C3%B6kan.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -10879,7 +10887,8 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Elektronisk ärendehantering",
                     "provided_languages": [
-                        "fi"
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -10892,7 +10901,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Till Valviras tjänst",
-                            "url": "https:\/\/www.valvira.fi\/web\/sv\/tobak\/forsaljning\/detaljhandel\/ansokan-om-forsaljningstillstand",
+                            "url": "https:\/\/sol.itella.net\/ec\/valvira\/form\/sv",
                             "file_format": "HTML"
                         }
                     ],
@@ -33270,7 +33279,7 @@
             "service_id": 10879,
             "type": "ADVICE",
             "name": "Näin ilmoitat asukasvalinnoista",
-            "description": "Asukasvalinnoista ilmoitetaan pääasiassa jälkikäteen. Lähetä tällöin tiedot asukasvalinnoista asuntopalveluille (myös asunnonvaihtajista) kootusti excel-taulukossa kerran kuukaudessa.\n\nPoikkeuksen muodostavat yritykset ja yhteisöt, joilla ei ennestään ole Ara-vuokra-asuntoja Helsingissä. Niiden pitää toimittaa ensimmäisen kohteensa asukasvalinnat hakemuksineen ja liitteineen hyväksyttäväksi etukäteen, ennen kohteen valmistumista.\n\nJoissain tilanteissa asukasvalintaohjeista on tarpeen poiketa. Tällaisessa tapauksessa ota yhteyttä asuntopalveluihin sähköpostilla.\n",
+            "description": "Asukasvalinnoista ilmoitetaan pääasiassa jälkikäteen. Lähetä tällöin tiedot asukasvalinnoista asuntopalveluille (myös asunnonvaihtajista) kootusti excel-taulukossa kerran kuukaudessa.\n\nPoikkeuksen muodostavat yritykset ja yhteisöt, joilla ei ennestään ole Ara-vuokra-asuntoja Helsingissä. Niiden pitää toimittaa ensimmäisen kohteensa asukasvalinnat hakemuksineen ja liitteineen hyväksyttäväksi etukäteen, ennen kohteen valmistumista.\n\nJoissain tilanteissa asukasvalintaohjeista on tarpeen poiketa. Tällaisessa tapauksessa ota yhteyttä asuntopalveluihin sähköpostilla osoitteeseen asvalvonta@hel.fi.\n",
             "processing_time": "Teemme päätökset poikkeusluvista 14 vuorokauden sisällä hakemuksen jättämisestä.",
             "provided_languages": [
             ],
@@ -33340,7 +33349,7 @@
             "service_id": 10879,
             "type": "ADVICE",
             "name": "How to report tenant selection",
-            "description": "Tenant selection is mainly reported afterwards. In this case, send the information on tenant selection to the Housing Services (including apartment changers) in an aggregated Excel table once a month.\n\nThe exception is companies and associations that do not already have ARA rental apartments in Helsinki. They must submit their first location's tenant selections with their applications and attachments for approval in advance, before the location is completed.\nIn some situations, it may be necessary to deviate from the tenant selection guidelines. In this case, contact Housing Services by e-mail.\n",
+            "description": "Tenant selection is mainly reported afterwards. In this case, send the information on tenant selection to the Housing Services (including apartment changers) in an aggregated Excel table once a month.\n\nThe exception is companies and associations that do not already have ARA rental apartments in Helsinki. They must submit their first location's tenant selections with their applications and attachments for approval in advance, before the location is completed.\nIn some situations, it may be necessary to deviate from the tenant selection guidelines. In this case, contact Housing Services by e-mail asvalvonta@hel.fi.\n",
             "processing_time": "We make decisions on exemptions within 14 days of submitting an application.",
             "provided_languages": [
             ],
@@ -33409,7 +33418,7 @@
             "service_id": 10879,
             "type": "ADVICE",
             "name": "Så här meddelar du om valet av boende",
-            "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till enheten för bostadstjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta enheten för bostadstjänster per e-post.\n",
+            "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till enheten för bostadstjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta enheten för bostadstjänster per e-post asvalvonta@hel.fi.\n",
             "provided_languages": [
             ],
             "responsible_depts": [
