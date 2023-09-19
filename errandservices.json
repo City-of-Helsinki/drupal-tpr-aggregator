@@ -12746,6 +12746,7 @@
                     "id": 4024,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
+                    "name": "Vuokra-asunnon haun neuvonta",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -30183,10 +30184,11 @@
         "fi": {
             "id": 5451,
             "exact_descriptions": [
+                3641
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Liikuntapalvelut, kohdeavustus (UUSI)",
+            "name": "Liikuntapalvelut, kohdeavustus",
             "description": "Kohdeavustus on liikuntaseuroille ja muille liikuntaa edistäville yhdistyksille suunnattu harkinnanvarainen avustus liikunnan kohdennettuun toimintaan.",
             "process_description": "Kohdeavustusta voi hakea ympäri vuoden.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset kohdeavustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Avustusta saa käyttää vain avustuspäätöksessä mainittuun tarkoitukseen. Jos avustuspäätöksessä ei ole tarkemmin yksilöity käyttötarkoitusta, avustus on käytettävä hakemuksessa mainittuun tarkoitukseen. Avustuksen käytöstä tulee raportoida erillisellä lomakkeella. Avustuspäätöksessä on tieto, milloin selvitys tulee olla tehtynä.",
             "processing_time": "Hakemuksia käsitellään säännöllisesti ympäri vuoden.",
@@ -30241,7 +30243,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTalousarvioavustus\/?new=1"
+                            "url": "https:\/\/nginx-avustusasiointi-prod.apps.platta.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-kohdeavustus"
                         }
                     ],
                     "availabilities": [
@@ -30494,10 +30496,11 @@
         "fi": {
             "id": 5453,
             "exact_descriptions": [
+                3641
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Liikuntapalvelut, starttiavustus (UUSI)",
+            "name": "Liikuntapalvelut, starttiavustus",
             "description": "Starttiavustusta voidaan myöntää alle yhden vuoden toimineelle tai rekisteröintiprosessinsa käynnistäneelle liikuntaseuralle Helsingissä.",
             "process_description": "Starttiavustusta voi hakea ympäri vuoden.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset starttiavustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Avustus tulee käyttää liikuntaseuran yleishyödylliseen liikuntatoimintaan.",
             "processing_time": "Päätökset pyritään tekemään kuukauden sisällä hakemuksen saapumisesta.",
@@ -30552,7 +30555,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livStartti\/?new=1"
+                            "url": "https:\/\/nginx-avustusasiointi-prod.apps.platta.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-starttiavustus"
                         }
                     ],
                     "availabilities": [
