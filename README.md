@@ -15,3 +15,7 @@ php console.php app:aggregate-tpr-services description > services.json
 php console.php app:aggregate-tpr-services errandservice > errandservices.json
 php console.php app:aggregate-unit-services services.json > unitservices.json
 ```
+
+## Contact
+
+Slack: #helfi-drupal (http://helsinkicity.slack.com/)
