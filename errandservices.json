@@ -22584,7 +22584,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taskePerus\/?new=1&apu=fi",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/avustukset\/kaupunginhallitus-yleisavustus",
                             "file_format": "HTML"
                         }
                     ],
@@ -22669,15 +22669,15 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taskePerus\/?new=1&apu=en",
-                            "file_format": "HTML"
-                        },
-                        {
                             "type": "FEEDBACK",
                             "title": "Feedback to the City Executive Office",
                             "url": "https:\/\/www.hel.fi\/kanslia\/en\/feedback\/feedback\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Go to the e-service",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants\/city-board-general-grant-application",
                             "file_format": "HTML"
                         }
                     ],
@@ -22761,15 +22761,15 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taskePerus\/?new=1&apu=sv",
-                            "file_format": "HTML"
-                        },
-                        {
                             "type": "FEEDBACK",
                             "title": "Respons till stadskansliet",
                             "url": "https:\/\/www.hel.fi\/kanslia\/sv\/yhteystiedot-ja-palaute_sv\/Respons\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understoden\/stadsstyrelsen-allman-bidragsansokan",
                             "file_format": "HTML"
                         }
                     ],
