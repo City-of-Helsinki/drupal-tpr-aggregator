@@ -22837,24 +22837,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Avustukset",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/strategia-ja-talous\/avustukset",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Työllisyyspalvelut",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/fi\/kaupunki-ja-hallinto\/yritykset\/tyollisyys\/",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Hakuohje",
-                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/hakuohje.pdf",
-                    "file_format": "PDF"
-                }
             ],
             "channels": [
                 {
@@ -22878,15 +22860,15 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/tyollisyysAvustus?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
                             "type": "FEEDBACK",
                             "title": "Palaute kaupunginkanslialle",
                             "url": "https:\/\/www.hel.fi\/kanslia\/fi\/palaute\/Anna+palautetta\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/avustukset\/tyollisyysavustus",
                             "file_format": "HTML"
                         }
                     ],
@@ -22922,12 +22904,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ansökningsanvisningar",
-                    "url": "https:\/\/www.hel.fi\/static\/kanslia\/elo\/ansokningsanvisning-2.pdf",
-                    "file_format": "PDF"
-                }
             ],
             "channels": [
                 {
@@ -22959,7 +22935,7 @@
                         {
                             "type": "FORM",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/tyollisyysAvustus?new=1",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understoden\/sysselsattningsunderstod",
                             "file_format": "HTML"
                         }
                     ],
