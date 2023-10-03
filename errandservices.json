@@ -42949,8 +42949,68 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5048,
+            "exact_descriptions": [
+                8928
+            ],
+            "service_id": 10833,
+            "type": "NOTICE",
+            "name": "Submit a social care notification",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3401,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a social care notification in Maisa",
+                    "availability_summary": "Open every day around the clock",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Maisa",
+                            "url": "https:\/\/maisa.fi\/maisa\/publicforms.asp?mode=showform&formname=SocialCarePreLoginNotificationHel&jsenabled=1&lang=en-GB"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5048,
             "exact_descriptions": [
