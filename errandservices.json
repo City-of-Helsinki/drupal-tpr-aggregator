@@ -17066,7 +17066,8 @@
                         {
                             "type": "FORM",
                             "title": "lmoitus yleisellä alueella tehtävästä työstä (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf"
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -17074,10 +17075,114 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 3039,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "PERMISSION",
+            "name": "Report excavation work in a street or park area",
+            "description": "Submit the notification at least seven days before you plan to start work. Send the notification to luvat@hel.fi.",
+            "information": "The service is subject to a fee. See the prices in the fees section.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3936,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Report the rental of a street or park as a work area",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Notification about work in a public area (PDF, in Finnish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 3039,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "PERMISSION",
+            "name": "Anmäl grävarbeten i ett gatu- eller parkområde",
+            "description": "Gör anmälan minst sju dygn innan det planerade arbetet inleds. Skicka anmälan till luvat@hel.fi",
+            "information": "Tjänsten är avgiftsbelagd. Se priserna i punkten avgifter.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3936,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Anmäl hyrning av gata eller park som arbetsområde",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Anmälan om arbete på allmänna områden (på finska, pdf) ",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5442,
@@ -17341,10 +17446,108 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5403,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Report changes, functional status and completion",
+            "description": "Report any changes to the duration of the work and the functional status of the area during the winter season within the approved work period at the latest. Report any changes to the size of the work area before implementing the changes. \n\nSend the notification and its attachments to luvat@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3938,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Request an extension and report changes, functional status and completion",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Notification of changes, functional status and completion (PDF, in Finnish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5403,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Anmäl ändringar, funktionsstatus och färdigställande",
+            "description": "Anmäl ändringar i arbetets längd och det funktionella skicket under vintern senast inom den godkända arbetstiden. Anmäl ändringar i arbetsområdets omfattning innan du gör ändringarna. \n\nSkicka anmälan med bilagor till luvat@hel.fi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3938,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om tilläggstid och anmäl ändringar, funktionsstatus och färdigställande",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Anmäl ändringar, funktionsstatus och färdigställande (på finska, pdf) ",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5396,
@@ -32639,7 +32842,7 @@
             "description": "Loma-aikojen leiriavustusta myönnetään helsinkiläiselle yhdistykselle, joka järjestää lapsille ja nuorille leiritoimintaa koulujen loma-aikoina. Leirit voivat olla yö- ja\/tai päiväleirejä ja niiden tulee olla avoimia helsinkiläisille osallistujille. Leirikausi on 1.11.-31.10.",
             "process_description": "Loma-aikojen leiriavustushakemus tulevan kauden leireille tulee toimittaa 31.10. mennessä. Samaan aikaan mennessä tulee selvittää edellisen kauden toteutuneet leirit.  \n\nKulttuuri- ja vapaa-aikalautakunnan nuorisojaosto päättää avustuksesta kahdessa osassa. Ensimmäinen päätös avustuksesta tehdään alkuvuodesta suunnitelmien perusteella ja jälkimmäinen päätös toteutuneiden tietojen perusteella vuoden lopussa. \n\nPäätös avustuksesta tulee postitse. Hakemuksen valmisteluvaiheessa lisätietoja kysytään asiointipalvelussa hakemuksen yhteydessä tai sähköpostitse.",
             "processing_time": "Avustuksen hakeminen 2-3 kuukautta ja avustuksen selvittäminen 1-2 kuukautta.",
-            "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty.",
+            "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty..",
             "information": "Leirien määrään, kestoon, osallistujiin ja ajankohtiin liittyy tarkkoja avustuksen myöntämisperusteita. Kriteereihin kannattaa tutustua huolellisesti ennen avustuksen hakemista.\n\nNuorisotoiminnan avustusten myöntämisessä noudatetaan Nuorisoyhdistysten avustusohjesääntöä ja Helsingin kaupungin avustusohjesääntöä.",
             "provided_languages": [
                 "en",
@@ -32657,7 +32860,8 @@
                 {
                     "type": "INTERNET",
                     "title": "Lue lisää loma-aikojen leiriavustuksesta",
-                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset\/nuorisotoiminnan-loma-aikojen-leiriavustus"
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset\/nuorisotoiminnan-loma-aikojen-leiriavustus",
+                    "file_format": "HTML"
                 }
             ],
             "channels": [
@@ -54172,6 +54376,58 @@
                         {
                             "type": "FORM",
                             "title": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5402,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Rent a street or park area as a temporary work area",
+            "description": "Submit the notification at least seven days before you plan to start work. Send the notification and its attachments to luvat@hel.fi.",
+            "information": "Notification attachments:\n\n- A plan for temporary traffic arrangements if the work will affect the arrangements for pedestrian, bicycle or motor vehicle traffic, or if you reserve parking spaces for other use with street signs urging vehicle owners to move their parked vehicles.\n- A power of attorney if the notification is submitted by someone other than the person responsible for the work. The contractor may submit the notification if it is appropriate for practical reasons relating to the work. \n\nThe area rental is subject to a fee. See the prices in the fees section.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3937,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Report the rental of a street or park as a work area",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Rent a street or park area as a temporary work area (PDF, in Finnish) ",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf"
                         }
                     ],
@@ -54180,10 +54436,58 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5402,
+            "exact_descriptions": [
+                4883
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Hyr ett gatu- eller parkområde som tillfälligt arbetsområde",
+            "description": "Gör anmälan minst sju dygn innan det planerade arbetet inleds. Skicka anmälan med bilagor till luvat@hel.fi",
+            "information": "Bilagor till anmälan\n\n- Plan för tillfälliga trafikarrangemang, om arbetet inverkar på arrangemangen för gång, cykling eller motorfordonstrafik eller om parkeringsplatser reserveras för annan användning med en skylt om flyttningsuppmaning.\n- Fullmakt, om någon annan än den som ansvarar för arbetet gör anmälan. Entreprenören kan göra anmälan om det är ändamålsenligt av arbetstekniska skäl. \n\nDet är avgiftsbelagt att hyra ett område. Se priserna i punkten avgifter.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3937,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Anmäl hyrning av gata eller park som arbetsområde",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Hyr ett gatu- eller parkområde som tillfälligt arbetsområde (på finska) ",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5329,
