@@ -25552,7 +25552,7 @@
                     "id": 4015,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Byråsekreterare, services på svenska",
+                    "name": "Byråsekreterare (på svenska)",
                     "phone": " 09 3104 4817",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -32869,13 +32869,14 @@
                     "id": 1929,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Loma-aikojen leiriavustushakemus - Sähköinen asiointi",
+                    "name": "Loma-aikojen leiriavustushakemus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "information": "Palvelu on saatavilla joka päivä ympäri vuorokauden.\n",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "availability_summary": "Palvelu saatavilla 27.9. - 31.10.2023 joka päivä ympäri vuorokauden",
                     "process_description": "Luonnosvaiheessa oleva hakemus voidaan tallentaa asiointikansioon luonnoksena. Kun hakemus on valmis, se lähetetään käsiteltäväksi. Asian käsittelyä voi seurata asiointikansiossa, josta näkee myös käsittelijän yhteystiedot.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"käsittely\"-tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää myös viestitoimintoa käyttäen annettuun määräaikaan mennessä.\n",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -32895,7 +32896,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                            "availability_string": "Palvelu saatavilla joka päivä 27.9. - 31.10.2023 ympäri vuorokauden"
                         }
                     ]
                 }
@@ -32946,7 +32947,7 @@
                     "id": 909,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Nuorisotoimi, projektiavustushakemus",
+                    "name": "Projektiavustushakemus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
@@ -32965,16 +32966,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkProjekti\/?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute nuorison palveluista",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
-                            "file_format": "HTML"
+                            "type": "INTERNET",
+                            "title": "Nuorisotoiminnan projektiavustus",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
                         }
                     ],
                     "availabilities": [
@@ -33023,7 +33017,7 @@
                     "id": 909,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Youth work service, project grant application",
+                    "name": "Project grant application",
                     "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
                     "availability_summary": "Service available every day around the clock",
                     "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
@@ -33042,16 +33036,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Youth Department",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/en\/feedback\/feedback\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Fill in the form",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkProjekti\/?new=1",
-                            "file_format": "HTML"
+                            "type": "INTERNET",
+                            "title": "Grants for youth activities: Project grants",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-youth-activities"
                         }
                     ],
                     "availabilities": [
@@ -33100,7 +33087,7 @@
                     "id": 909,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ungdomsväsendet, ansökan om projektunderstöd",
+                    "name": "Ansökan om projektunderstöd",
                     "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i ärendemappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
@@ -33119,16 +33106,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FEEDBACK",
-                            "title": "Respons till ungdomscentralen",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkProjekti\/?new=1",
-                            "file_format": "HTML"
+                            "type": "INTERNET",
+                            "title": "Understöd för ungdomsverksamhet: Projektunderstöd",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
                         }
                     ],
                     "availabilities": [
