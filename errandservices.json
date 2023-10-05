@@ -23323,8 +23323,87 @@
         },
         "en": [
         ],
-        "sv": [
-        ]
+        "sv": {
+            "id": 5385,
+            "exact_descriptions": [
+                9652,
+                9653,
+                9654,
+                9655,
+                9656,
+                9657
+            ],
+            "service_id": 10331,
+            "type": "ADVICE",
+            "name": "Rådgivning och tidsbokning vid polikliniken för utvecklingsstörning",
+            "description": "Rådgivning och tidsbokning",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3896,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Rådgivning och tidsbokning vid polikliniken för utvecklingsstörning (på finska)",
+                    "availability_summary": "Öppet mån-tis, tor-fre 09-11",
+                    "phone": "09 310 40400",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-tis, tor-fre 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3897,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Rådgivning och tidsbokning vid polikliniken för utvecklingsstörning (på svenska)",
+                    "availability_summary": "Öppet tis, tor 10-12",
+                    "phone": "09 310 40401",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet tis, tor 10-12"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5016,
@@ -52127,6 +52206,7 @@
                 6181,
                 7666,
                 9645,
+                9651,
                 9658
             ],
             "service_id": 10821,
@@ -53824,7 +53904,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Application for early childhood education",
-                    "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/varhaiskasvatushakemus_EN.pdf",
+                    "url": "https:\/\/stplattaprod.blob.core.windows.net\/kasvatuskoulutus76e5cprod\/Varhaiskasvatushakemus_EN.pdf",
                     "file_format": "PDF"
                 }
             ],
