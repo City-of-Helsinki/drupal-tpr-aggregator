@@ -10,7 +10,7 @@ use GuzzleHttp\Utils;
 
 final class ServiceClient
 {
-    public const BASE_URI = 'https://www.hel.fi/palvelukarttaws/rest/vpalvelurekisteri/';
+    public const BASE_URI = 'https://tpr.hel.fi/palvelukarttaws/rest/vpalvelurekisteri/';
 
     public function __construct(private ClientInterface $httpClient)
     {
