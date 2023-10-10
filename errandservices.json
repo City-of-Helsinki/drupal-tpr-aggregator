@@ -35822,6 +35822,87 @@
         ]
     },
     {
+        "id": 5467,
+        "fi": {
+            "id": 5467,
+            "exact_descriptions": [
+                9688
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä taloyhtiöiden energianeuvontaan",
+            "description": "Taloyhtiöiden energianeuvontaan saa yhteyttä sähköpostitse tai ajanvarauslomakkeella.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4019,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Ota yhteyttä taloyhtiöiden energianeuvontaan lomakkeella",
+                    "availability_summary": "Avoinna ma-pe 09-16",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Avaa yhteydenottolomake",
+                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/energiaremontti",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4020,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ota yhteyttä taloyhtiöiden energianeuvontaan sähköpostitse",
+                    "email": "energiaremontti@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4137,
         "fi": {
             "id": 4137,
@@ -41232,88 +41313,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5467,
-        "fi": {
-            "id": 5467,
-            "exact_descriptions": [
-                9688
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Taloyhtiöiden energianeuvonta",
-            "description": "Helsinkiläisille taloyhtiöille annettavaa ilmaista insinööriapua ja neuvontaa.",
-            "costs": "Ilmainen",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4019,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Energianeuvonnan ajanvaraussähköposti",
-                    "availability_summary": "Avoinna ma-pe 09-16",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ota yhteyttä lomakkeella",
-                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/energiaremontti",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-16"
-                        }
-                    ]
-                },
-                {
-                    "id": 4020,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Energianeuvonnan sähköposti",
-                    "email": "energiaremontti@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5282,
@@ -54117,7 +54116,7 @@
                         {
                             "type": "FORM",
                             "title": "Täytä paperinen hakemuslomake",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/varhaiskasvatushakemus.pdf",
+                            "url": "https:\/\/stplattaprod.blob.core.windows.net\/kasvatuskoulutus76e5cprod\/KASKO-Varhaiskasvatushakemus.pdf",
                             "file_format": "PDF"
                         }
                     ],
