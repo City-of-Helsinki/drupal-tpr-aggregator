@@ -32631,7 +32631,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Lisätietoa avustuksista",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/nuorisotoiminnan_avustukset\/"
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
                 }
             ],
             "channels": [
@@ -32704,7 +32704,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Penningunderstöd",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/Understod\/Understod_till_ungdomsverksamhet\/"
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
                 }
             ],
             "channels": [
@@ -32778,7 +32778,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Lisätietoja avustuksista",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/avustukset\/nuorisotoiminnan_avustukset\/"
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
                 }
             ],
             "channels": [
@@ -32805,16 +32805,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkYleis\/?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute nuorison palveluista",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
-                            "file_format": "HTML"
+                            "type": "INTERNET",
+                            "title": "Nuoristoiminnan toiminta- ja palkkausavustushakemus",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
                         }
                     ],
                     "availabilities": [
@@ -32855,7 +32848,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Penningunderstöd",
-                    "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/Understod\/Understod_till_ungdomsverksamhet\/"
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
                 }
             ],
             "channels": [
@@ -32882,16 +32875,9 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FEEDBACK",
-                            "title": "Respons till ungdomscentralen",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkYleis\/?new=1",
-                            "file_format": "HTML"
+                            "type": "INTERNET",
+                            "title": "Ansökan om verksamhets- och löneunderstöd",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
                         }
                     ],
                     "availabilities": [
@@ -32947,7 +32933,7 @@
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "information": "",
                     "availability_summary": "Palvelu saatavilla 27.9. - 31.10.2023 joka päivä ympäri vuorokauden",
-                    "process_description": "Luonnosvaiheessa oleva hakemus voidaan tallentaa asiointikansioon luonnoksena. Kun hakemus on valmis, se lähetetään käsiteltäväksi. Asian käsittelyä voi seurata asiointikansiossa, josta näkee myös käsittelijän yhteystiedot.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"käsittely\"-tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää myös viestitoimintoa käyttäen annettuun määräaikaan mennessä.\n",
+                    "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
                         "en",
@@ -32976,10 +32962,144 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 3140,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Youth activities, holiday camp grants",
+            "description": "Holiday camp grants are awarded to a Helsinki-based association that organises camp activities for children and young people during school holidays. Camps can be night and\/or day camps and must be open to participants from Helsinki. The camp season is from 1 November until 31 October.",
+            "process_description": "The holiday camp grant application for the upcoming season's camps must be submitted by 31 October. The actual camps of the previous season must be clarified at the same time.  \n\nThe Youth Sub-committee of the Culture and Leisure Committee decides on the grant in two parts. The first decision on the grant is made at the beginning of the year on the basis of plans and the second decision at the end of the year on the basis of actual data. \n\nThe grant decision will be sent by post. During the preparation of the application, additional information is requested in the e-service in connection with the application or by email.",
+            "processing_time": "Applying for a grant: 2-3 months and clarification of the grant: 1-2 months. ",
+            "expiration_time": "The submitted application is valid until the decision is made. ",
+            "information": "There are specific eligibility criteria for the number and duration of camps, participants, and dates. It is a good idea to read the criteria carefully before applying for the grant. \n\nThe grants for youth activities are awarded in accordance with the Youth Associations' Grant Regulations and the City of Helsinki's Grant Regulations.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Read more about holiday camp grants. ",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-youth-activities"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1929,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Holiday camp grant application",
+                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
+                    "availability_summary": "Service available 27 Sep - 31 Oct 2023 every day around the clock",
+                    "process_description": "The information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Holiday camp grants for youth activities",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-youth-activities\/holiday-camp-grants-for-youth-activities"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day 27 Sep - 31 Oct 2023 around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 3140,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Ungdomsverksamhet, lägerunderstöd under skollovstider",
+            "description": "Lägerunderstöd under skollovstider beviljas föreningar i Helsingfors som ordnar lägerverksamhet för barn och unga under skolloven. Lägren kan vara övernattnings- och\/eller dagläger och bör vara öppna för deltagare från Helsingfors. Lägersäsongen är 1.11-31.10.",
+            "process_description": "Ansökan om lägerunderstöd under skollovstider för läger under den kommande säsongen ska lämnas in senast den 31 oktober. Inom samma tid ska en utredning lämnas in för läger under den föregående säsongen.  \n\nUngdomssektionen inom kultur- och fritidsnämnden beslutar om understödet i två delar. Det första beslutet om understödet fattas i början av året på basis av planer och det senare beslutet i slutet av året på basis av faktiska uppgifter. \n\nBeslutet om understödet skickas per post. Under beredningen av ansökan kommer ytterligare information att begäras i samband med ansökan eller per e-post.",
+            "processing_time": "Ansökningsprocessen: 2-3 månader och utredning av understödet: 1-2 månader. ",
+            "expiration_time": "En inskickad ansökan gäller tills beslutet har fattats. ",
+            "information": "Det finns specifika grunder för beviljandet av understödet när det gäller antalet läger, lägrens längd, deltagare och tidpunkt. Det lönar sig att läsa kriterierna noggrant innan man ansöker om bidrag. \n\nVid beviljande av understöd för ungdomsverksamhet iakttas Understödsreglementet för ungdomsföreningar och Understödsreglementet för Helsingfors stad.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Läs mer om lägerunderstödet under skollovstider. ",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 1929,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökän om lägerunderstöd under skollovstider",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig 27.9. - 31.10.2023 dygnet runt varje dag",
+                    "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i ärendemappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Understöd för ungdomsverksamhet: Lägeruderstöd under skollovstider",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet\/understod-for-ungdomsverksamhet-lagerunderstod-under"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig varje dag 27.9. - 31.10.2023 dygnet runt"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 871,
@@ -32991,11 +33111,11 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Nuorisotoiminta projektiavustus",
-            "description": "Projektiavustusta myönnetään erilaisiin projekteihin, talokerhotoimintaan ja yhdistyksen toiminnan käynnistämiseen. Avustukset on tarkoitettu helsinkiläisille nuorten ryhmille, varhaisnuoriso- ja nuorisoyhdistyksille sekä talokerhojen nuorisotoiminnalle.",
-            "process_description": "Projekteihin avustusta myönnetään nuorten toimintaryhmille ja varhaisnuoriso- ja nuorisoyhdistyksille, joiden jäsenistä 2\/3 on 7-28-vuotiaita helsinkiläisiä.\n\nProjektiavustus on kertaluonteinen, nuorisotoiminnalliselle hankkeelle myönnettävä avustus, joka tähtää nuorten osallistamiseen ja sosiaaliseen vahvistamiseen. Sitä voi saada projektin, hankkeen, tapahtuman tai tilaisuuden toteuttamiseen tai siihen osallistumiseen. Monivuotisiksi tarkoitetuilla projekteilla tulee jo ensimmäisenä avustusvuonna olla aikataulu ja arviointisuunnitelma. \n\nAvustusta ei voi saada yhdistyksen toimintasuunnitelman mukaiseen ja varsinaisen toiminnan piiriin kuuluviin hankkeisiin.\n\nStarttiavustusta myönnetään toimintaansa aloittaville tai uudelleen käynnistäville varhaisnuoriso- tai nuorisoyhdistyksille. Avustusta myönnetään toiminnan käynnistämisestä aiheutuviin menoihin.\n\nTalokerhoavustusta myönnetään talokerhojen nuorisotoiminnan järjestämiseen.\n\n1. Hakemus on toimitettava aina ennen hankkeen alkamista.\n2. Enintään 3 000 euron hakemuksista päätöksen tekee nuorisopalvelujen kumppanuuspäällikkö, starttiavustuksista ja yli 3 000 euron hakemuksista nuorisojaosto\n3. Päätöksestä lähetetään hakijalle tieto postitse.\n4. Avustuksen käyttöselvitys tehdään päätöksessä mainittuun päivämäärään mennessä projektiavustusselvityslomakkeella kuittikopioineen, starttiavustukset selvitetään seuraavan vuoden toiminta-avustushaun yhteydessä tai siihen mennessä.",
-            "processing_time": "Alle 3 000 euron avustukset 1-2 viikkoa, mikäli lisäselvityksiä ei tarvita, starttiavustukset ja yli 3 000 euron avustukset 1-3 kk.",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty.",
-            "information": "Projektiavustusta voi hakea läpi vuoden, kuitenkin niin että hakemus on toimitettava ennen ko. hanketta tai tapahtumaa. \n\nMuulla kuin yhdistyksellä (esim. nuorten ryhmät), tulee olla täysi-ikäinen yhteyshenkilö, joka vastaa avustuksen käytöstä.\n\nAvustusten jaossa noudatetaan Nuorisoyhdistysten avustusohjesääntöä, josta löytyy tarkemmat tiedot avustuksen myöntämisen kriteereistä.",
+            "description": "Projektiavustusta myönnetään helsinkiläisille nuorten ryhmille, varhaisnuoriso- ja nuorisoyhdistyksille sekä talokerhoille, joiden jäsenistä 2\/3 on 7-28 - vuotiaita helsinkiläisiä. Avustusta voi saada projektin, hankkeen, tapahtuman tai tilaisuuden toteuttamiseen tai siihen osallistumiseen ja talokerhojen lasten ja nuorten toimintaan. Lisäksi yhdistyksen toiminnan käynnistämiseen voi saada starttiavustusta.",
+            "process_description": "Hakemus on toimitettava aina ennen hankkeen alkamista. Yli 3 000 euron hakemuksista ja starttiavustuksista päätöksen tekee kulttuuri- ja vapaa-aikalautakunnan nuorisojaosto ja enintään 3 000 euron hakemuksista nuorisopalveluiden kumppanuuspäällikkö. \n\nPäätös avustuksesta tulee postitse. Päätökseen on kirjattu myös tieto avustuksen käytön selvittämisestä ja määräajasta. Hakemuksen valmisteluvaiheessa lisätietoja kysytään asiointipalvelussa hakemuksen yhteydessä tai sähköpostitse.",
+            "processing_time": "Alle 3 000 euron avustukset 1-3 viikkoa, starttiavustukset ja yli 3 000 euron avustukset 1-3 kk.",
+            "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty.",
+            "information": "Kannattaa tutustua projektiavustuksen kriteereihin huolellisesti ennen avustuksen hakemista \n\nNuorisotoiminnan avustusten myöntämisessä noudatetaan Nuorisoyhdistysten avustusohjesääntöä ja Helsingin kaupungin avustusohjesääntöä.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -33012,7 +33132,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Lisätietoa avustuksista",
+                    "title": "Lue lisää nuorisotoiminnan projektiavustuksista. ",
                     "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
                 }
             ],
@@ -33060,12 +33180,12 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Grants for youth activities, project grant",
-            "description": "A project grant is a one-off grant for a youth activity project that aims to involve and socially empower young people. You can receive project grant to carry out or participate in projects, programmes or events. Grants are awarded to Helsinki based early youth- and youth organisations, youth activity groups and housing association clubs.",
-            "process_description": "Grants are awarded to early youth and youth organisations, two thirds of whose members and active participants are Helsinki residents between the ages of 7 and 28. \nA project grant is a one-off grant for a youth activity project that aims to involve and socially empower young people. You can receive the grant to carry out or participate in projects, programmes or events. For projects that are intended to run for several years, we require a clear timetable and evaluation criteria at the initial grant application stage. \nWe do not award project grants for projects that are part of an organisation's activity plan and its core activities \nA newly established or restarting early youth or youth organization can apply for a launching grant for the expenses related to starting or restarting its operations. \nWe award grants to clubs for organising early youth and youth activities. \n\n1. The application must always be sent in before the start of the project.\n2. The Youth Sub-committee decides on project grants over EUR 3 000 and the Partnership Manager of Youth Services on project grants up to EUR 3 000.\n3. The applicant will be informed about the decision by mail.",
-            "processing_time": "Project grants over EUR 3 000: 1-2 months.Project grants up to EUR 3 000: 1-2 weeks, if there is no need for additional reports.",
-            "expiration_time": " Once an application has been sent in, it is valid until the decision has been made.",
-            "information": "The grants are awarded in accordance with the Youth Committee's standing orders for grants.",
+            "name": "Youth activities, project grant application",
+            "description": "Project grants are awarded to youth groups, early youth and youth associations and housing association clubs in Helsinki, where 2\/3 of the members are Helsinki residents aged 7-28 years. You can receive the grant to carry out or participate in projects, programmes or events as well as children and youth activities in housing association clubs. In addition, you can receive start grants for starting the association's activities.",
+            "process_description": "The application must always be submitted before the start of the project. For applications and start grants of more than EUR 3,000, the decision is made by the Youth Sub-committee of the Culture and Leisure Committee and for applications of up to EUR 3,000 by the Partnership Manager of Youth Services. \n\nThe grant decision will be sent by post. The decision also includes information on the clarification of the use of the grant and the deadline. During the preparation of the application, additional information is requested in the e-service in connection with the application or by email.",
+            "processing_time": "Grants under EUR 3,000 1-3 weeks, start grants and grants over EUR 3,000 1-3 months. ",
+            "expiration_time": "The submitted application is valid until the decision is made. ",
+            "information": "It is a good idea to read the project grant criteria carefully before applying for a grant. \n\nThe grants for youth activities are awarded in accordance with the Youth Associations' Grant Regulations and the City of Helsinki's Grant Regulations.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -33082,7 +33202,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "More information on grants for youth activities",
+                    "title": "Read more about project grants for youth activities. ",
                     "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-youth-activities"
                 }
             ],
@@ -33130,12 +33250,12 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Ungdomsservicen, projektunderstöd",
-            "description": "Projektunderstöd beviljas för olika projekt, gårdsklubbsverksamhet och för inledande av föreningsverksamhet. Understöden är avsedda för ungdomsgrupper, föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för ungdomsverksamheten i gårdsklubbar.",
-            "process_description": "För projekt beviljas understöd till de verksamhetsgrupper för unga och föreningar för yngre tonåringar samt ungdomsföreningar i vilka 2\/3 av medlemmarna är Helsingforsbor i åldern 7-28 år.\n\nMed projektunderstöd avses understöd som beviljas en gång för ett projekt inom ungdomsverksamhet med syfte att engagera unga och stärka dem socialt. Det kan erhållas för att genomföra ett projekt, ett evenemang eller en tillställning eller för att ta del i en sådan verksamhet. Det ska redan under det första understödsåret finnas en tidtabell och en bedömningsplan för projekt som avses bli fleråriga. Understöd beviljas inte projekt i enlighet med föreningens verksamhetsplan som omfattas av den egentliga verksamheten.\n\nStartunderstöd beviljas föreningar för yngre tonåringar och ungdomsföreningar som inleder sin verksamhet eller som på nytt inleder sin verksamhet. Understöd beviljas för utgifter som härrör sig från att verksamheten inleds.\n\nUnderstöd för gårdsklubbar beviljas för ordnande av ungdomsverksamhet i gårdsklubbar.\n\nAnsökan om projektunderstöd ska lämnas in före det ifrågavarande projektet eller evenemanget och man kan ansöka om understöd året runt.\n\nAndra än föreningar (t.ex. ungdomsgrupper) ska ha en myndig kontaktperson som svarar för användningen av understödet.\n\n1. Ansökan ska alltid lämnas in innan projektet inleds.\n2. Beslut om projektunderstöd på över 3 000 euro fattas av ungdomssektionen, och om projektunderstöd på upp till 3 000 euro beslutar ungdomstjänsternas partnerskapschef. \n3. Beslutet delges den sökande per post.\n4. Användningen av understödet ska utredas med en blankett för projektunderstödsutredning före det datum som anges i beslutet. Startunderstöd utreds i samband med eller före ansökan om verksamhetsunderstöd för följande år.",
-            "processing_time": " Understöd på under 3 000 euro 1-2 veckor såvida inga ytterligare utredningar behövs, startunderstöd och understöd på över 3 000 euro 1-3 mån. ",
-            "expiration_time": "En inlämnad ansökan gäller tills beslutet har fattats.",
-            "information": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id. \n\nTjänsten tillgänglig dygnet runt varje dag \n\nAndra än föreningar (t.ex. ungdomsgrupper) ska ha en myndig kontaktperson som svarar för användningen av understödet.",
+            "name": "Ungdomsverksamhet, ansökan om projektunderstöd",
+            "description": "Projektunderstöd beviljas ungdomsgrupper och föreningar för ungdomar och yngre tonåringar i Helsingfors och gårdsklubbar vars medlemmar till två tredjedelar består av helsingforsare i åldern 7-28. Understöd kan beviljas för genomförande av ett projekt, ett evenemang eller en tillställning eller deltagande i sådant, och för gårdsklubbars barn- och ungdomsverksamhet. Dessutom kan startunderstöd beviljas för att inleda föreningens verksamhet.",
+            "process_description": "Ansökan ska alltid lämnas in innan projektet inleds. Beslut om ansökningar och startunderstöd på över 3 000 euro fattas av ungdomssektionen inom kultur- och fritidsnämnden och beslut om ansökningar på högst 3 000 euro av partnerskapschefen för ungdomsservicen. \n\nBeslutet om understödet skickas per post. I beslutet finns även antecknat information om hur användningen av understödet ska utredas och om tidsfristen. Under beredningen av ansökan kommer ytterligare information att begäras i samband med ansökan eller per e-post.",
+            "processing_time": "Understöd på under 3 000 euro 1-3 veckor, startunderstöd och understöd på över 3 000 euro 1-3 månader. ",
+            "expiration_time": "Ansökan som du skickat gäller tills beslutet har fattats. ",
+            "information": "Det lönar sig att läsa kriterierna noggrant innan man ansöker om bidrag. \n\nVid beviljande av understöd för ungdomsverksamhet iakttas Understödsreglementet för ungdomsföreningar och Understödsreglementet för Helsingfors stad.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -33152,7 +33272,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Läs mer om understöden för ungdomsverksamhet",
+                    "title": "Läs mer om projektunderstöd för ungdomsverksamhet. ",
                     "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
                 }
             ],
@@ -44498,6 +44618,16 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Notification of cleaning contaminated soil (in Finnish, PDF)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.pdf"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Notification of cleaning contaminated soil (in Finnish, docx)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -44552,7 +44682,7 @@
                         },
                         {
                             "type": "FORM",
-                            "title": "•\tAnmälan om sanering av förorenad mark (på finska, docx)",
+                            "title": "Anmälan om sanering av förorenad mark (på finska, docx)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/Ysl782.docx"
                         }
                     ],
@@ -48044,11 +48174,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lantmäteritjänster",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/sv\/boende-och-miljo\/tomter\/lantmateritjanster\/kablar-ledningar\/"
-                }
             ],
             "channels": [
                 {
