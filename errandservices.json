@@ -22609,7 +22609,6 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Kaupunginhallitus, asukasosallisuus - pienavustus",
-            "description": "Kaupunginhallitus myöntää vuosittain asukasosallisuuden avustuksia. Avustuslajit ovat:\n\n1. Yleisavustus muiden kuin kaupungin ylläpitämien asukastilojen ylläpitämiseen ja toiminnan koordinointiin\n\n2. Toiminta-avustus asukasosallisuutta parantavien rakenteiden ja menetelmien kehittämiseen\n\n3. Pienavustus edellisten avustuslajien mukaisten uusien, alkavien tai kertaluonteisten hankkeiden toteuttamiseen.\n\nPienavustushakemukset käsitellään saapumisjärjestyksessä.\n\nLisätietoa avustusten hakemisesta: www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/osallistu-ja-vaikuta\/asukas-jarjesto-toiminta\/avustukset\/\n\ntai vuorovaikutussuunnittelija Veli-Matti Hurtig, veli-matti.hurtig@hel.fi.",
             "process_description": "Avustusten hakijoina voivat olla rekisteröidyt yhteisöt, kuten asukas\/kaupunginosayhdistykset, muut yhdistykset, säätiöt, osuuskunnat, sosiaaliset yritykset, asukastaloja hallinnoivat pysäköintiyhtiöt ja muut yritykset, sikäli kun avustettava toiminta on yleishyödyllistä ja kohdistuu Helsingin kaupungin asukkaisiin. Yritysmuotoisiin hakijoihin sovelletaan kaupungin yleisiä ohjeita.\n\nPienavustuksia voivat hakea myös rekisteröitymättömät toimijat kuten kaupunginosaliikkeet ja erilaiset toimintaryhmät.\n\nPienavustuksia voi hakea ympäri vuoden tai niin kauan kuin avustusmäärärahaa riittää.\n\nMyönnettävät pienavustukset ovat enintään 3 000 euroa.\n\nNäin haet avustusta\n- Aloita asiointi asiointi.hel.fi-palvelusta.\n- Tunnistaudu palveluun.\n- Täytä sähköinen avustushakemus.\n- Lähetä valmis hakemus tai tallenna lomake luonnoksena. Huomaa, että liitteet eivät tallennu hakemusluonnoksen mukana.\n- Voit seurata hakemuksen käsittelyä asiointikansion Tapahtumat-kohdasta.\n\nAsian eteneminen:\n\n- Pienavustusten myöntämisestä päättää ensisijaisesti viestintäjohtaja viranhaltijapäätöksenä. \n- Hakija saa sähköpostitse tiedon päätöksestä.\n- Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n- Avustusta saa käyttää vain myönnettyyn tarkoitukseen, ja sen käytöstä on annettava selvitys kaupungille.\n- Ilmoita kaupungille viipymättä avustuksen käyttöön vaikuttavista merkittävistä muutoksista (kanslia.avustukset[at]hel.fi)\n",
             "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan, mikäli se on lähetetty määräajan puitteissa.",
             "information": "Helsingin kaupungin avustuksia haetaan sähköisen palvelun kautta. Poikkeuksellisesti hakemuksen voi toimittaa kirjaamoon. Kuoreen merkitään vastaanottajaksi Helsingin kaupungin kirjaamo, PL 10, 00099 Helsingin kaupunki.",
@@ -25470,7 +25469,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Toimistosihteerien puhelinnumero (suomenkielinen palvelu)",
                     "availability_summary": "Avoinna ma-pe 08:15-16",
-                    "phone": "09 310 23100",
+                    "phone": "+358 9 310 23100 ",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -25542,8 +25541,109 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5389,
+            "exact_descriptions": [
+                3028
+            ],
+            "service_id": 10813,
+            "type": "APPLICATION",
+            "name": "Transport service",
+            "description": "Transport service",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3901,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone number for office secretaries",
+                    "availability_summary": "Open Mon-Fri 08:15-16",
+                    "phone": "+358 9 310 23100 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08:15-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3902,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Transport service application form",
+                    "prerequisites": "Transport service application form",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Download and fill in the transport service application form (PDF in Finnish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/vamty\/lomakkeet\/303-450_sosiaalihuoltolain_kuljetustuen_hak.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Medical certificate of the need for transport service (PDF form in Finnish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/vamty\/lomakkeet\/303-470_laakarintodistus_vammaisp_kuljetusp.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4015,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "phone": " 09 3104 4817",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5389,
             "exact_descriptions": [
@@ -25574,7 +25674,7 @@
                     "type_string": "Telefon",
                     "name": "Byråsekreterarnas telefonnummer (på finska)",
                     "availability_summary": "Öppet mån-fre 08:15-16",
-                    "phone": "09 310 23100",
+                    "phone": "+358 9 310 23100 ",
                     "call_charge_info": "gratis",
                     "provided_languages": [
                     ],
@@ -34549,7 +34649,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Vammaisneuvonnan puhelinpalvelu suomeksi",
                     "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
-                    "phone": "09 310 32889",
+                    "phone": "+358 9 310 32889 ",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -34577,7 +34677,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Vammaisneuvonnan puhelinpalvelu ruotsiksi",
                     "availability_summary": "Avoinna ke 09-11",
-                    "phone": "09 310 35154",
+                    "phone": "+358 9 310 35154 ",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -34598,8 +34698,117 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5393,
+            "exact_descriptions": [
+                7616
+            ],
+            "service_id": 10818,
+            "type": "APPLICATION",
+            "name": "Application for informal care support",
+            "description": "Application for informal care support",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "DISABLED"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3912,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Forms for printing",
+                    "prerequisites": "Forms for printing",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": " Application for informal care support for persons under the age of 18 (PDF in Finnish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/omaishoito\/303-306_hakemus_omaishoidon_tuesta_alle18.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": " Application for informal care support for persons over the age of 18 (PDF in Finnish) ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/omaishoito\/303-305_hakemus_omaishoidontuki.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3913,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone counselling for people with disabilities in Finnish",
+                    "availability_summary": "Open Mon-Fri 09-11, Tue, Thu 12-14",
+                    "phone": "+358 9 310 32889 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-11"
+                        },
+                        {
+                            "availability_string": "Open Tue, Thu 12-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 3917,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone counselling for people with disabilities in Swedish",
+                    "availability_summary": "Open Wed 09-11",
+                    "phone": "+358 9 310 35154 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Wed 09-11"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -52674,7 +52883,8 @@
                 3039,
                 6181,
                 7666,
-                9645
+                9645,
+                9658
             ],
             "service_id": 10821,
             "type": "APPLICATION",
