@@ -16164,6 +16164,7 @@
             "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan, mikäli se on lähetetty määräajan puitteissa.",
             "information": "Helsingin kaupungin avustuksia haetaan sähköisen palvelun kautta. Poikkeuksellisesti hakemuksen voi toimittaa kirjaamoon. Kuoreen merkitään vastaanottajaksi Helsingin kaupungin kirjaamo, PL 10, 00099 Helsingin kaupunki.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -16223,8 +16224,42 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 934,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Grants for welfare and health promotion, social welfare and health care and rescue services",
+            "description": "Grants are awarded for activities that support the objectives of the current City Strategy and welfare and health promotion plan, as well as for activities linked to accident prevention, rescue operations or civil protection.",
+            "process_description": "General grants can be applied for by registered organizations that have been in operation for at least a year and whose activities target Helsinki residents. The grant may only be used for the purpose for which it was granted, and may not be distributed further.\n\nHow to apply\n- Log into the city's e-services at asiointi.hel.fi.\n- Confirm your identity with a form of strong identification (online banking codes, Mobile ID, or a certificate card).\n- Fill in the online application form for the City Board general grant.\n- Submit the completed application or save it as a draft. Note that attachments will not be saved along with the draft application.\n- You can track the processing of your application in the 'Latest events' section of the e-services folder.\n\nWhen to apply\n- The application deadline for City Board grants each year is at the end of April. Grant decisions are made towards the end of the year, after the budget has been approved.\n- The application is valid until a decision has been made. Applications are archived in the e-services folder for four years.\n\nApplication processing\n- The City Board, the Social Services, Health Care and Rescue Department Council or the office holder will make a decision on the grant.\n- You will receive notice of the decision to your email.\n- The City of Helsinki pays the grant to the selected applicant organisation's bank account.\n- Selected applicants must draw up a report explaining how the grant was used and send it to the city. The grant can only be used for the purpose stated in the application.\n- Inform the city immediately via email (kanslia.avustukset[at]hel.fi) if any significant changes arise that affect the grant or its use.\n",
+            "expiration_time": "The application is valid until a decision has been made. A new application submitted for the same purpose will replace any older versions in the system, if you submit it before the deadline.",
+            "information": "Apply for City of Helsinki grants through the city's e-services. If this is not possible, you can also mail the application to the City Register Office at the following address: City of Helsinki Register Office, P.O. Box 10, 00099 CITY OF HELSINKI",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308",
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "More information about grants",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants"
+                }
+            ],
+            "channels": [
+            ]
+        },
         "sv": {
             "id": 934,
             "exact_descriptions": [
@@ -16234,9 +16269,10 @@
             "type": "APPLICATION",
             "name": "Understöd inom främjandet av välfärd och hälsa och social-, hälsovårds- och räddningssektorn",
             "description": "Understöd beviljas för verksamhet som stöder förverkligandet av målen i den gällande stadsstrategin och planen för främjande av välfärd och hälsa samt för verksamhet som anknyter till förebyggande av olyckor, räddningsverksamhet eller främjande av befolkningsskydd.",
-            "process_description": "Allmänt understöd kan sökas av registrerade organisationer vilkas verksamhet riktar sig till helsingforsare och pågått i minst ett år. Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\n1. Beslut om allmänt understöd fattas av \nstadsstyrelsen, stadsstyrelsens sektion för reform av social-, hälsovårds- och räddningsnämnden eller tjänsteinnehavaren.\n2. Sökanden informeras om beslutet per post.\n3. Det beviljade understödet betalas in på sammanslutningens bankkonto.\n4. En utredning om hur understödet använts ska ges i samband med följande års ansökan. Om något understöd inte söks följande år ska en utredning ändå lämnas in. Anvisningar om utredningen ges i understödsbeslutet.",
+            "process_description": "Allmänt understöd kan sökas av registrerade organisationer vilkas verksamhet riktar sig till helsingforsare och pågått i minst ett år. Understödet får användas enbart för det beviljade ändamålet och får inte vidareutdelas.\n\nSå här ansöker du om bidrag\n- Börja med e-tjänsten asiointi.hel.fi\n- Logga in i tjänsten.\n- Fyll i elektronisk bidragsansökan.\n- Skicka ansökan eller spara formuläret som ett utkast. Observera att bilagorna inte lagras tillsammans med utkastet.\n- Du kan följa med behandlingen av ansökan i ärendemappen.\n\nNär ska man ansöka?\n- Ansökningstiderna för understöd som beviljas av stadsstyrelsen upphör årligen före utgången av april. Beslut om bidrag fattas i slutet av året efter att budgeten har godkänts.\n- Ansökan gäller till dess att beslutet har fattats. En ny ansökan som skickats för samma ändamål ersätter den gamla, om den har lämnats inom utsatt tid. Ansökningarna bevaras i ärendemappen i fyra år.\n\nHur ärendet framskrider\n- Stadsstyrelsen, social-, hälsovårds- och räddningsnämnden eller tjänsteinnehavaren fattar beslutet.\n- Du får beslutet per e-post.\n- Staden betalar bidraget till den sökandes bankkonto.\n- Understödet får användas endast för ett beviljat ändamål och man ska lämna en redogörelse om användningen till staden.\n- Meddela staden utan dröjsmål om betydande förändringar som påverkar användningen av understödet (kanslia.avustukset[at]hel.fi)",
             "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan för samma ändamål ersätter den tidigare om den sänts inom utsatt tid.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
