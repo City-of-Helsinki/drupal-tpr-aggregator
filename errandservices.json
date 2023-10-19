@@ -16192,9 +16192,11 @@
                     "name": "Hyvinvoinnin ja terveyden edistämisen sekä sosiaali-, terveys- ja pelastustoimen yleisavustus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
                     "information": "Palvelu saatavilla hakuaikana joka päivä ympäri vuorokauden.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata Asiointikansiosta.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -16220,6 +16222,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
                     ]
                 }
             ]
@@ -16263,8 +16268,10 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Grants for welfare and health promotion, social welfare and health care and rescue services",
+                    "availability_summary": "Service available every day around the clock",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -16276,8 +16283,23 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Apply",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/other-grants\/grants-for-welfare-and-health-promotion-social-welfare-and",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Feedback",
+                            "url": "https:\/\/palautteet.hel.fi\/en\/",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
                     ]
                 }
             ]
@@ -16320,11 +16342,13 @@
                     "id": 918,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Social- och hälsovårdsväsendet, ansökan om allmänt understöd",
-                    "prerequisites": "Från och med 1.1.2021 förutsätter användningen av tjänsten identifikation med organisationens\/föreningens suomi.fi-fullmakt.\n\nVänligen notera att det kan ta upp till två månader att beviljas suomi.fi-fullmakt.\n\nYtterligare information om suomi.fi-fullmakten: https:\/\/www.suomi.fi\/fullmakter",
-                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i Ärendemappen.\n\nUppgifterna i ansökan kan ändras så länge statusen är \"Mottagits\". Efter att statusen är \"Behandlas\" kan ansökan inte längre ändras. \nBilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden.",
+                    "name": "Understöd inom främjandet av välfärd och hälsa och social- och hälsovården samt räddningsväsendet",
+                    "prerequisites": "Användningen av tjänsten identifikation med organisationens\/föreningens suomi.fi-fullmakt.\n\nVänligen notera att det kan ta upp till två månader att beviljas suomi.fi-fullmakt.\n\nYtterligare information om suomi.fi-fullmakten: https:\/\/www.suomi.fi\/fullmakter",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i Ärendemappen.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -16338,18 +16362,21 @@
                     "links": [
                         {
                             "type": "FEEDBACK",
-                            "title": "Respons till social- och hälsovårdsväsendet",
-                            "url": "https:\/\/www.hel.fi\/sote\/sv\/respons-och-kontaktuppgifter\/ge-respons",
+                            "title": "Respons",
+                            "url": "https:\/\/palautteet.hel.fi\/sv\/",
                             "file_format": "HTML"
                         },
                         {
                             "type": "FORM",
-                            "title": "Fyll i blanketten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/sotePerus?new=1&apu=sv",
+                            "title": "Ansök om understöd",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/muut-avustukset\/hyvinvoinnin-ja-terveyden-edistamisen-seka-sosiaali-terveys-ja",
                             "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
                     ]
                 }
             ]
@@ -22535,12 +22562,13 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Asukasosallisuus, Pienavustus",
-                    "prerequisites": "Palvelun käyttäminen edellyttää vahvaa tunnistautumista joko henkilökohtaisilla pankkitunnuksilla, mobiilivarmenteella tai varmennekortilla. \nPalvelu saatavilla joka päivä ympäri vuorokauden \nAvoinna joka päivä ympäri vuorokauden",
+                    "prerequisites": "Palvelun käyttäminen edellyttää vahvaa tunnistautumista.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "1. Asukasosallisuuden avustuksia koskevia päätöksiä voivat tehdä kaupunginvaltuusto, kaupunginhallitus tai kaupunginjohtaja. Asukasosallisuuden pienavustuksia koskevat päätökset tekee ensisijaisesti viestintäjohtaja (kaupunginhallituksen päätös 25.6.2018 § 460).\n2. Hakija saa postitse tiedon päätöksestä.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -22553,7 +22581,13 @@
                         {
                             "type": "FORM",
                             "title": "Hae pienavustusta",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/asukasOsallisuusProjekti\/?new=1",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/asukasosallisuuden-avustukset\/asukasosallisuuden-pienavustus",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute",
+                            "url": "https:\/\/palautteet.hel.fi\/fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -22596,6 +22630,45 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 2584,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Recident participation: Small grants",
+                    "availability_summary": "Service available every day around the clock",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Apply",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-recident-participation\/recident-participation-small-grants",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Feedback",
+                            "url": "https:\/\/palautteet.hel.fi\/en\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
             ]
         },
         "sv": {
@@ -22633,12 +22706,13 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Stadsstyrelsen, ansökan om bidrag för invånardelaktighet - små understöd",
-                    "prerequisites": "Användningen av tjänsten förutsätter identifiering antingen med personliga bankkoder, mobilcertifikat eller certifikatkort.\nÖppet dygnet runt varje dag",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "1. Besluten som gäller understöd för invånardelaktighet fattas av stadsfullmäktige, stadsstyrelsen eller stadsdirektören. Beslutet fattas i första hand av stadsstyrelsen. Beslutet fattas efter att stadens budget har godkänts, i praktiken i december som tidigast.\n2. Sökanden får meddelande om beslutet per post.\n3. Beviljade bidrag betalas till den sökande sammanslutningens bankkonto.\n",
+                    "process_description": "",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -22651,7 +22725,13 @@
                         {
                             "type": "FORM",
                             "title": "Gå till ansök om små understöd",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/asukasOsallisuusProjekti\/?new=1",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-invanardelaktighet\/understod-for-invanardelaktighet-sma-understod",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Respons",
+                            "url": "https:\/\/palautteet.hel.fi\/sv\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -22707,9 +22787,9 @@
                     "name": "Kaupunginkanslia: Asukasosallisuusavustus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "1. Asukasosallisuuden avustuksia koskevia päätöksiä voivat tehdä kaupunginvaltuusto, kaupunginhallitus tai kaupunginjohtaja. Ensisijaisesti päätöksen tekee kaupunginhallitus. Päätös tehdään sen jälkeen, kun kaupungin talousarvio on hyväksytty, käytännössä aikaisintaan joulukuussa.\n2. Hakija saa postitse tiedon päätöksestä.\n3. Myönnetty avustus maksetaan hakijayhteisön pankkitilille.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -22723,14 +22803,14 @@
                     "links": [
                         {
                             "type": "FEEDBACK",
-                            "title": "Palaute kaupunginkanslialle",
-                            "url": "https:\/\/www.hel.fi\/kanslia\/fi\/palaute\/anna+palautetta\/anna-palautetta",
+                            "title": "Palaute",
+                            "url": "https:\/\/palautteet.hel.fi\/fi\/",
                             "file_format": "HTML"
                         },
                         {
                             "type": "FORM",
                             "title": "Hae asukasosallisuusavustusta",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taskeAsukasosallisuus?new=1",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/asukasosallisuuden-avustukset\/asukasosallisuuden-yleis-ja-toiminta-avustus",
                             "file_format": "HTML"
                         }
                     ],
@@ -22776,6 +22856,45 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 1727,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Resident participation grants",
+                    "availability_summary": "Service available every day around the clock",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Feedback",
+                            "url": "https:\/\/palautteet.hel.fi\/en\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Apply",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-recident-participation\/resident-participation-general-and",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
             ]
         },
         "sv": {
@@ -22816,12 +22935,12 @@
                     "id": 1727,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Bidrag för invånardelaktighet, ansökan",
-                    "prerequisites": "Användningen av tjänsten förutsätter identifiering antingen med personliga bankkoder, mobilcertifikat eller certifikatkort.",
+                    "name": "Bidrag för invånardelaktighet",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "1.\tBesluten som gäller understöd för invånardelaktighet fattas av stadsfullmäktige, stadsstyrelsen eller stadsdirektören. Beslutet fattas i första hand av stadsstyrelsen. Beslutet fattas efter att stadens budget har godkänts, i praktiken i december som tidigast.\n2.\tSökanden får meddelande om beslutet per post.\n3.\tBeviljade bidrag betalas till den sökande sammanslutningens bankkonto.\n4.\tEn utredning om användningen av de allmänna understöd och verksamhetsunderstöd som beviljats för år 2017 ska ges senast 30.4.2018. Utredningen ges på denna blankett: https:\/\/response.questback.com\/helsinginkaupunki\/zyzsv0nov1 \n(OBS! Under ansökningsblankettens punkt för en utredning om användningen av föregående års understöd kan sökanden ange att utredningen har getts på en separat blankett.)",
+                    "process_description": "",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -22835,14 +22954,14 @@
                     "links": [
                         {
                             "type": "FEEDBACK",
-                            "title": "Respons till stadskansliet",
-                            "url": "https:\/\/www.hel.fi\/kanslia\/sv\/yhteystiedot-ja-palaute_sv\/respons\/ge-respons-info",
+                            "title": "Respons",
+                            "url": "https:\/\/palautteet.hel.fi\/sv\/",
                             "file_format": "HTML"
                         },
                         {
                             "type": "FORM",
                             "title": "Ansök om bidrag för invånardelaktighet",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/taskeAsukasosallisuus?new=1",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-invanardelaktighet\/understod-for-invanardelaktighet-verksamhets-och",
                             "file_format": "HTML"
                         }
                     ],
