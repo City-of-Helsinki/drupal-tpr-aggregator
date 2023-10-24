@@ -36568,10 +36568,146 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5467,
+            "exact_descriptions": [
+                9688
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Contact an energy expert",
+            "description": "The energy advice for housing companies can be contacted by email or using the contact form.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4019,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Contact energy experts by filling out this contact form",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Open contact form",
+                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/energiaremontti",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4020,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact an energy expert via email",
+                    "email": "energiaremontti@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5467,
+            "exact_descriptions": [
+                9688
+            ],
+            "service_id": 10876,
+            "type": "ADVICE",
+            "name": "Ta kontakt med energiexperter",
+            "description": "Du kan kontakta energirådgivningen för husbolag via e-post eller kontaktblankett.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4019,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Kontakta energiexperter med det här formuläret.",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Öppna formuläret",
+                            "url": "https:\/\/response.questback.com\/helsinginkaupunki\/energiaremontti",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4020,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Ta kontakt med energiexperter via e-post",
+                    "email": "energiaremontti@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4137,
