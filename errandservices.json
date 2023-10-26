@@ -32685,8 +32685,11 @@
             "id": 5263,
             "exact_descriptions": [
                 3210,
+                6440,
+                6441,
                 7789,
-                9186
+                9186,
+                9209
             ],
             "service_id": 10438,
             "type": "APPOINTMENT",
@@ -32711,7 +32714,7 @@
                     "id": 3710,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Neuvolan keskitetty puhelinpalvelu",
+                    "name": "Neuvolan keskitetty puhelinpalvelu (takaisinsoittopalvelu toimii klo 8-16)",
                     "availability_summary": "Avoinna ma-pe 08-14",
                     "phone": "09 3105 5530",
                     "call_charge_info": "pvm\/mpm",
@@ -32778,7 +32781,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Täältä pääset Maisaan",
+                            "title": "Siirry Maisaan",
                             "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
                         }
                     ],
@@ -32793,8 +32796,11 @@
             "id": 5263,
             "exact_descriptions": [
                 3210,
+                6440,
+                6441,
                 7789,
-                9186
+                9186,
+                9209
             ],
             "service_id": 10438,
             "type": "APPOINTMENT",
@@ -32819,7 +32825,7 @@
                     "id": 3710,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Rådgivningsbyråernas centraliserade betjänining och tidsbokning",
+                    "name": "Rådgivningsbyråernas centraliserade betjänining och tidsbokning (Återuppringningstjänsten betjänar dig kl. 8-16)",
                     "availability_summary": "Öppet mån-fre 08-14",
                     "phone": "09 3105 5530",
                     "call_charge_info": "msa\/lna",
@@ -32844,7 +32850,7 @@
                     "id": 3711,
                     "type": "CHAT",
                     "type_string": "Chatt",
-                    "name": "Chatbotten Hester",
+                    "name": "Chatbotten Hester (Sotebotti Hester)",
                     "availability_summary": "Öppet mån-fre 10-14",
                     "provided_languages": [
                         "fi",
@@ -32885,7 +32891,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Maisa",
+                            "title": "Gå till Maisa",
                             "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=swedish"
                         }
                     ],
@@ -57837,10 +57843,7 @@
         "fi": {
             "id": 5095,
             "exact_descriptions": [
-                6440,
-                6441,
-                8996,
-                9209
+                8996
             ],
             "service_id": 10087,
             "type": "ADVICE",
@@ -57864,7 +57867,7 @@
                     "id": 3475,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Neuvolan puhelinpalvelu",
+                    "name": "Neuvolan puhelinpalvelu (takaisin soitetaan arkisin kello 8-16)",
                     "availability_summary": "Avoinna ma-pe 08-14",
                     "process_description": "NUmerossa on takaisinsoitto. Takaisin soitetaan arkisin kello 8-16.",
                     "phone": "+358 9 310 55530",
@@ -57884,6 +57887,53 @@
                         {
                             "availability_string": "Avoinna ma-pe 08-14"
                         }
+                    ]
+                },
+                {
+                    "id": 4027,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Neuvolan chattipalvelu (Sotebotti Hester)",
+                    "availability_summary": "Avoinna ma-pe 10-14",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 10-14"
+                        }
+                    ]
+                },
+                {
+                    "id": 4028,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Asiointi Maisassa",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
