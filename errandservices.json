@@ -45161,6 +45161,68 @@
         }
     },
     {
+        "id": 5472,
+        "fi": {
+            "id": 5472,
+            "exact_descriptions": [
+                9703
+            ],
+            "service_id": 10488,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus jätteen pienimuotoisesta hyödyntämisestä maarakentamisessa",
+            "description": "Tee valvontailmoitus Lupapiste-palvelussa.",
+            "costs": "Emme peri ilmoituksen käsittelystä maksua.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4030,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee valvontailmoitus",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/lupapiste.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5324,
         "fi": {
             "id": 5324,
@@ -47866,68 +47928,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5472,
-        "fi": {
-            "id": 5472,
-            "exact_descriptions": [
-                9703
-            ],
-            "service_id": 10488,
-            "type": "NOTICE",
-            "name": "Tee valtontailmoitus",
-            "description": "Tee valvontailmoitus pienimuotoisesta jätteen hyödyntämisestä maarakentamisessa Lupapiste-palvelussa.",
-            "costs": "Emme peri ilmoituksen käsittelystä maksua.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4030,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tee ilmoitus",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry Lupapisteeseen",
-                            "url": "https:\/\/lupapiste.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 4043,
