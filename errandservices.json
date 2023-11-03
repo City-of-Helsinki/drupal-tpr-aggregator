@@ -14058,7 +14058,7 @@
             "type": "APPLICATION",
             "name": "Helsinki-lisän hakeminen",
             "description": "Hae Helsinki-lisää sähköisessä asiointipalvelussa tai lomakkeella liitteineen.",
-            "process_description": "1. Työllistä helsinkiläinen työtön.\n2. Varmista, että Helsinki-lisän myöntämisen ehdot täyttyvät.\n3. Täytä Helsinki-lisä-hakemus.\nVoit hakea Helsinki-lisää sähköisessä asiointipalvelussa tai hakemuslomakkeella.\nLiitä hakemukselle tarvittavat liitteet.\n4. Saat tiedon päätöksestä paperikirjeenä postitse.\n5. Kaupunki maksaa Helsinki-lisän työnantajalle.\n6. Ilmoita mahdollisista työsuhteen muutoksista.",
+            "process_description": "1. Työllistä helsinkiläinen työtön.\n2. Varmista, että Helsinki-lisän myöntämisen ehdot täyttyvät.\n3. Täytä Helsinki-lisä-hakemus. Voit hakea Helsinki-lisää sähköisessä asiointipalvelussa tai hakemuslomakkeella. Liitä hakemukselle tarvittavat liitteet.\n4. Saat tiedon päätöksestä paperikirjeenä postitse.\n5. Kaupunki maksaa Helsinki-lisän työnantajalle.\n6. Ilmoita mahdollisista työsuhteen muutoksista.",
             "processing_time": "Noin neljä viikkoa",
             "information": "",
             "provided_languages": [
@@ -14082,8 +14082,9 @@
                     "id": 3308,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Täytä lomake",
-                    "information": "Vaihtoehtoisesti lataa ja täytä hakulomake. Lähetä täytetty hakemus liitteineen suojatun yhteyden https:\/\/securemail.hel.fi kautta osoitteeseen helsinkilisa@hel.fi.\nTarvittaessa voit toimittaa täytetyn hakemuksen liitteineen postitse osoitteeseen Helsinki-lisä, Elinkeino-osasto, PL70, 00099 Helsingin kaupunki\n\n",
+                    "name": "Vaihtoehtoisesti lataa ja täytä hakulomake",
+                    "prerequisites": "Lähetä täytetty hakemus liitteineen suojatun yhteyden https:\/\/securemail.hel.fi kautta osoitteeseen helsinkilisa@hel.fi. Tarvittaessa voit toimittaa täytetyn hakemuksen liitteineen postitse osoitteeseen Helsinki-lisä, Elinkeino-osasto, PL70, 00099 Helsingin kaupunki.",
+                    "information": "",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -14108,10 +14109,13 @@
                     "id": 4031,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Asioi verkossa",
-                    "information": "Hae Helsinki-lisää asiointipalvelussa. Palvelun käyttö vaatii tunnistautumisen ja Suomi.fi-valtuuden. Kirjaudu palveluun pankkitunnuksilla tai mobiilivarmenteella.",
+                    "name": "Hae Helsinki-lisää asiointipalvelussa.",
+                    "prerequisites": "Palvelun käyttö vaatii tunnistautumisen ja Suomi.fi-valtuuden. Kirjaudu palveluun pankkitunnuksilla tai mobiilivarmenteella.",
+                    "authorization_code": "Applying for pay supsidy",
                     "provided_languages": [
-                        "en"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
@@ -14136,6 +14140,7 @@
         "en": {
             "id": 4211,
             "exact_descriptions": [
+                8738
             ],
             "service_id": 10115,
             "type": "APPLICATION",
@@ -14164,8 +14169,8 @@
                     "id": 3308,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Fill in the application form",
-                    "information": "Alternatively, you can download and fill out the application form. Send the filled out application and its attachments via a secure connection https:\/\/securemail.hel.fi to\nhelsinkilisa@hel.fi. If necessary, you can also send the filled out application form and attachments to the following address: Helsinki-lisä, Elinkeino-osasto, PO Box 70, 00099 City of Helsinki.",
+                    "name": "Alternatively, you can download and fill out the application form",
+                    "prerequisites": "Send the filled out application and its attachments via a secure connection https:\/\/securemail.hel.fi to helsinkilisa@hel.fi. If necessary, you can also send the filled out application form and attachments to the following address: Helsinki-lisä, Elinkeino-osasto, PO Box 70, 00099 City of Helsinki.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -14190,10 +14195,13 @@
                     "id": 4031,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Apply via the online Helsinki benefit service",
-                    "information": "Apply for the Helsinki benefit via the online Helsinki benefit service. Using the service requires identification and Suomi.fi e-Authorization. Sign in with your online banking credentials or mobile certificate.",
+                    "name": "Apply for the Helsinki benefit via the online Helsinki benefit service",
+                    "prerequisites": "Using the service requires identification and Suomi.fi e-Authorization. Sign in with your online banking credentials or mobile certificate.",
+                    "authorization_code": "Applying for pay supsidy",
                     "provided_languages": [
-                        "en"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
@@ -14247,8 +14255,9 @@
                     "id": 3308,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Fyll i en blankett",
-                    "information": "Alternativt kan du ladda ner och fylla i ansökningsblanketten. Skicka den ifyllda ansökan med bilagor per e-post via skyddad förbindelse https:\/\/securemail.hel.fi till adressen helsinkilisa@hel.fi. Vid behov kan du skicka den ifyllda ansökan med bilagor per post till adressen Helsingforstillägg, Näringslivsavdelningen, PB70, 00099 Helsingfors stad.\n",
+                    "name": "Alternativt kan du ladda ner och fylla i ansökningsblanketten",
+                    "prerequisites": "Skicka den ifyllda ansökan med bilagor per e-post via skyddad förbindelse https:\/\/securemail.hel.fi till adressen helsinkilisa@hel.fi. Vid behov kan du skicka den ifyllda ansökan med bilagor per post till adressen Helsingforstillägg, Näringslivsavdelningen, PB70, 00099 Helsingfors stad.",
+                    "information": "",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -14273,10 +14282,13 @@
                     "id": 4031,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Uträtta ärendet på nätet",
-                    "information": "Ansök om Helsingforstillägget i e-tjänsten. För att kunna använda tjänsten ska du identifiera dig och ha en Suomi.fi-fullmakt. Logga in i tjänsten med nätbankskoder eller mobilcertifikat.",
+                    "name": "Ansök om Helsingforstillägget i e-tjänsten",
+                    "prerequisites": "För att kunna använda tjänsten ska du identifiera dig och ha en Suomi.fi-fullmakt. Logga in i tjänsten med nätbankskoder eller mobilcertifikat.",
+                    "authorization_code": "Applying for pay supsidy",
                     "provided_languages": [
-                        "en"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
