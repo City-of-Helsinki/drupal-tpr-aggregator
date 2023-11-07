@@ -7611,7 +7611,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae rakennusrasitteen tai kiinteistöjen yhteisjärjestelyn perustamista",
-            "description": "Hae rakennusrasitteen perustamista hyvissä ajoin ennen rakennushankkeen valmistumista, jotta rakennuksen käyttöönottaminen ei viivästy.\n\nHae rakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustamista sähköisesti Lupapisteessä tai lähettämällä rakennusrasitehakemus sähköpostilla rakennusvalvontaan.\n\nRakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustaminen edellyttää, että kyseisten kiinteistöjen kaikki omistajat ja mahdolliset maanvuokraoikeuden haltijat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nRakennusrasitteen perustaminen, muuttaminen tai poistaminen ovat maksullisia palveluja.",
+            "description": "Hae rakennusrasitteen perustamista hyvissä ajoin ennen rakennushankkeen valmistumista, jotta rakennuksen käyttöönottaminen ei viivästy.\n\nHae rakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustamista sähköisesti Lupapisteessä.\n\nRakennusrasitteen ja kiinteistöjen yhteisjärjestelyn perustaminen edellyttää, että kyseisten kiinteistöjen kaikki omistajat ja mahdolliset maanvuokraoikeuden haltijat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nRakennusrasitteen perustaminen, muuttaminen tai poistaminen ovat maksullisia palveluja.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7630,30 +7630,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3780,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae rakennusrasitteen tai kiinteistöjen yhteisjärjestelyn perustamista rakennusrasitehakemuksella",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry lomakkeeseen",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Rasitehakemus.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3781,
                     "type": "ESERVICE",
@@ -7679,26 +7655,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3782,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä rakennusrasitehakemus sähköpostilla",
-                    "email": "rakennusvalvonta@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -7710,7 +7666,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Apply for the establishment of a building easement or real estate joint arrangement from Building Control Services",
-            "description": "Please apply for the establishment of a building easement in good time before the construction project is completed so that there will be no delay in the commissioning of the building.\n\nYou can apply for the establishment of a building easement and a real estate joint arrangement electronically via Lupapiste or by sending a building easement application by email to Building Control Services.\n\nEstablishing a building easement and a real estate joint arrangement requires that all owners of the real estates in question and any land lease holders jointly make a written easement contract.\n",
+            "description": "Please apply for the establishment of a building easement in good time before the construction project is completed so that there will be no delay in the commissioning of the building.\n\nYou can apply for the establishment of a building easement and a real estate joint arrangement electronically via Lupapiste.\n\nEstablishing a building easement and a real estate joint arrangement requires that all owners of the real estates in question and any land lease holders jointly make a written easement contract.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7729,30 +7685,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3780,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Apply for the establishment of a building easement or real estate joint arrangement with a building easement application",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the form (in Finnish, PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Rasitehakemus.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3781,
                     "type": "ESERVICE",
@@ -7778,26 +7710,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3782,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Apply for the establishment of a building easement or real estate joint arrangement by email",
-                    "email": "rakennusvalvonta@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -7809,7 +7721,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Ansök om inrättande av byggnadsservitut eller samordning av fastigheter av byggnadstillsynen",
-            "description": "Ansök om inrättande av byggnadsservitut i god tid innan byggnadsprojektet blir färdigt, för att ibruktagandet av byggnaden inte ska fördröjas.\n\nAnsök elektroniskt om inrättande av byggnadsservitut och samordning av fastigheter via Lupapiste eller genom att skicka ansökan om byggnadsservitut per e-post till byggnadstillsynen.\n\nFör att byggnadsservitut och samordning av fastigheter ska kunna inrättas förutsätts att alla ägare till fastigheterna i fråga och eventuella innehavare av jordarrenderätt tillsammans ingår ett skriftligt servitutsavtal.\n",
+            "description": "Ansök om inrättande av byggnadsservitut i god tid innan byggnadsprojektet blir färdigt, för att ibruktagandet av byggnaden inte ska fördröjas.\n\nAnsök elektroniskt om inrättande av byggnadsservitut och samordning av fastigheter via Lupapiste.\n\nFör att byggnadsservitut och samordning av fastigheter ska kunna inrättas förutsätts att alla ägare till fastigheterna i fråga och eventuella innehavare av jordarrenderätt tillsammans ingår ett skriftligt servitutsavtal.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -7828,30 +7740,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3780,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Ansök om inrättande av byggnadsservitut eller samordning av fastigheter med ansökan om byggnadsservitut",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till blanketten",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/sv\/Ansokan_om_servitut.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3781,
                     "type": "ESERVICE",
@@ -7877,26 +7765,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3782,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Skicka in ansökan per e-post",
-                    "email": "rakennusvalvonta@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         }
@@ -7911,7 +7779,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae rasitetoimitusta",
-            "description": "Hae rasitetoimitusta joko sähköisesti Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nRasitetoimitus kestää 1-4 kuukautta. \n\nKiinteistörasitteen perustaminen edellyttää yleensä, että tonttien omistajat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nPalvelu on maksullinen\n",
+            "description": "Hae rasitetoimitusta sähköisesti Lupapisteessä.\n\nRasitetoimitus kestää 1-4 kuukautta. \n\nKiinteistörasitteen perustaminen edellyttää yleensä, että tonttien omistajat yhdessä solmivat kirjallisen rasitesopimuksen.\n\nPalvelu on maksullinen.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -7929,30 +7797,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3777,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae rasitetoimitusta kiinteistötoimitushakemuksella",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry lomakkeeseen",
-                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3778,
                     "type": "ESERVICE",
@@ -7978,50 +7822,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3779,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä hakemus sähköpostilla",
-                    "email": "kiinteistorekisteri@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3788,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Rasitesopimusmalli",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry lomakkeesen (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/asuminen-ja-ymparisto\/tontit\/kaupunkimittaus\/Rasitesopimus-ja-liitekarttamalli.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -8033,7 +7833,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Apply for an easement survey",
-            "description": "You can apply for an easement survey electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit.\n\nThe easement survey will take 1-4 months. \n\nThe establishment of a real estate easement usually requires a joint written contract from the plot owners.\n\nThe service is subject to a fee.\n",
+            "description": "You can apply for an easement survey electronically via Lupapiste.\n\nThe easement survey will take 1-4 months. \n\nThe establishment of a real estate easement usually requires a joint written contract from the plot owners.\n\nThe service is subject to a fee.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8051,30 +7851,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3777,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Apply for an easement survey with a cadastral survey application",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the form (in Finnish, PDF)",
-                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3778,
                     "type": "ESERVICE",
@@ -8100,50 +7876,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 3779,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Apply for an easement survey by email",
-                    "email": "kiinteistorekisteri@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3788,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Easement contract template",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the easement contract template (in Finnish, PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/asuminen-ja-ymparisto\/tontit\/kaupunkimittaus\/Rasitesopimus-ja-liitekarttamalli.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -8155,7 +7887,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Ansök om servitutsförrättning",
-            "process_description": "Ansök om servitutsförrättning antingen elektroniskt via Lupapiste eller genom att skicka en undertecknad ansökan om fastighetsförrättning per e-post till Fastighetsbildningsenheten.\n\nEn servitutsförrättning tar 1-4 månader. \n\nFör att fastighetsservitut ska kunna inrättas förutsätts i allmänhet att tomtägarna tillsammans ingår ett skriftligt servitutsavtal.\n\nTjänsten är avgiftsbelagd.\n",
+            "process_description": "Ansök om servitutsförrättning antingen elektroniskt via Lupapiste.\n\nEn servitutsförrättning tar 1-4 månader. \n\nFör att fastighetsservitut ska kunna inrättas förutsätts i allmänhet att tomtägarna tillsammans ingår ett skriftligt servitutsavtal.\n\nTjänsten är avgiftsbelagd.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8173,30 +7905,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3777,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Ansök om servitutsförrätning med ansökan om fastighetsförrättning",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till blanketten (på finska, pdf)",
-                            "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 3778,
                     "type": "ESERVICE",
@@ -8218,50 +7926,6 @@
                             "type": "INTERNET",
                             "title": "Gå till Lupaspiste",
                             "url": "https:\/\/www.lupapiste.fi\/login\/sv"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3779,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Skicka in ansökan per e-post",
-                    "email": "kiinteistorekisteri@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3788,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Modell för servitutsavtal",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till modellen för servitutsavtal (på finska, pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/asuminen-ja-ymparisto\/tontit\/kaupunkimittaus\/Rasitesopimus-ja-liitekarttamalli.pdf"
                         }
                     ],
                     "availabilities": [
@@ -14084,7 +13748,7 @@
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Vaihtoehtoisesti lataa ja täytä hakulomake",
                     "prerequisites": "Lähetä täytetty hakemus liitteineen suojatun yhteyden https:\/\/securemail.hel.fi kautta osoitteeseen helsinkilisa@hel.fi. Tarvittaessa voit toimittaa täytetyn hakemuksen liitteineen postitse osoitteeseen Helsinki-lisä, Elinkeino-osasto, PL70, 00099 Helsingin kaupunki.",
-                    "information": "",
+                    "information": "Lähetä täytetty hakemus liitteineen suojatun yhteyden https:\/\/securemail.hel.fi kautta osoitteeseen helsinkilisa@hel.fi. Tarvittaessa voit toimittaa täytetyn hakemuksen liitteineen postitse osoitteeseen Helsinki-lisä, Elinkeino-osasto, PL70, 00099 Helsingin kaupunki.\n",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -14111,7 +13775,7 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Hae Helsinki-lisää asiointipalvelussa.",
                     "prerequisites": "Palvelun käyttö vaatii tunnistautumisen ja Suomi.fi-valtuuden. Kirjaudu palveluun pankkitunnuksilla tai mobiilivarmenteella.",
-                    "authorization_code": "Applying for pay supsidy",
+                    "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -14120,7 +13784,7 @@
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
                     "e_processing": true,
-                    "e_decision": false,
+                    "e_decision": true,
                     "payment_enabled": false,
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
@@ -14197,7 +13861,7 @@
                     "type_string": "E-services",
                     "name": "Apply for the Helsinki benefit via the online Helsinki benefit service",
                     "prerequisites": "Using the service requires identification and Suomi.fi e-Authorization. Sign in with your online banking credentials or mobile certificate.",
-                    "authorization_code": "Applying for pay supsidy",
+                    "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -14206,7 +13870,7 @@
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
                     "e_processing": true,
-                    "e_decision": false,
+                    "e_decision": true,
                     "payment_enabled": false,
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
@@ -14284,7 +13948,7 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Ansök om Helsingforstillägget i e-tjänsten",
                     "prerequisites": "För att kunna använda tjänsten ska du identifiera dig och ha en Suomi.fi-fullmakt. Logga in i tjänsten med nätbankskoder eller mobilcertifikat.",
-                    "authorization_code": "Applying for pay supsidy",
+                    "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -14293,7 +13957,7 @@
                     "requires_authentication": true,
                     "saved_to_customer_folder": true,
                     "e_processing": true,
-                    "e_decision": false,
+                    "e_decision": true,
                     "payment_enabled": false,
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
