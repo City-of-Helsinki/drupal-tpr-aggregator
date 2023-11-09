@@ -8933,7 +8933,7 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Hae avustusta iltapäivätoiminnan järjestämiseen",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "availability_summary": "Palvelu saatavilla 2-31.1.2024 joka päivä 08:15-16",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -8958,7 +8958,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                            "availability_string": "Palvelu saatavilla joka päivä 2-31.1.2024 klo 08:15-16"
                         }
                     ]
                 },
@@ -8967,7 +8967,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Hae avustusta lomakkeella",
-                    "information": "Toimita hakemus kaupungin kirjaamoon joko viemällä se sinne tai postitse.",
+                    "information": "Toimita paperinen hakemus kaupungin kirjaamoon postitse: PL 10, 00099 Helsingin kaupunki tai viemällä kirjaamon postilaatikkoon Pohjoisesplanadi 11-13, 00170 Helsinki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -9030,7 +9030,7 @@
                     "type_string": "E-services",
                     "name": "Apply for a grant for organising after-school activities",
                     "prerequisites": "To use the service, you need to identify with online banking credentials or mobile ID.",
-                    "availability_summary": "Service available every day around the clock",
+                    "availability_summary": "Service available 2-31 Jan 2024 every day 08:15-16",
                     "process_description": "Once you have completed the grant application, you can save it as a draft in your personal service folder or submit it to the grant processing system. You can follow the progress of the application in your personal service folder under 'Tapahtumat' (Actions).\nIf the application is in the 'Vastaanotettu' (Received) status, the application can be edited. When the application is in the 'Käsittely' (Processing) status, it can no longer be edited. An updated application will replace a previously submitted application. Attachments can be sent using the 'Viesti' (Message) feature up until the deadline. In the Tapahtumat' (Actions) section you can see the contact details of the person processing the application.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -9055,7 +9055,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Service available every day around the clock"
+                            "availability_string": "Service available every day 2-31 Jan 2024 at 08:15-16"
                         }
                     ]
                 },
@@ -9126,7 +9126,7 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Ansök om understöd för att arrangera eftermiddagsverksamhet",
                     "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "availability_summary": "Tjänsten tillgänglig 2-31.1.2024 varje dag 08:15-16",
                     "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -9151,7 +9151,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                            "availability_string": "Tjänsten tillgänglig varje dag 2-31.1.2024 kl. 08:15-16"
                         }
                     ]
                 },
@@ -13725,7 +13725,7 @@
             "description": "Hae Helsinki-lisää sähköisessä asiointipalvelussa tai lomakkeella liitteineen.",
             "process_description": "1. Työllistä helsinkiläinen työtön.\n2. Varmista, että Helsinki-lisän myöntämisen ehdot täyttyvät.\n3. Täytä Helsinki-lisä-hakemus. Voit hakea Helsinki-lisää sähköisessä asiointipalvelussa tai hakemuslomakkeella. Liitä hakemukselle tarvittavat liitteet.\n4. Saat tiedon päätöksestä paperikirjeenä postitse.\n5. Kaupunki maksaa Helsinki-lisän työnantajalle.\n6. Ilmoita mahdollisista työsuhteen muutoksista.",
             "processing_time": "Noin neljä viikkoa",
-            "information": "",
+            "information": "Voit hakea Helsinki-lisää asiointipalvelussa tai lähettämällä hakulomakkeen postitse. Lähetä täytetty hakemus liitteineen joko sähköisesti palvelun https:\/\/securemail.hel.fi suojatun yhteyden kautta osoitteeseen helsinkilisa@hel.fi, tai postitse osoitteeseen Elinkeino-osasto\/Helsingin työllisyyspalvelut Helsinki-lisä\nPL 70, 00099 Helsingin kaupunki",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13813,6 +13813,7 @@
             "description": "You can apply for the Helsinki benefit via the online Helsinki benefit service or by submitting the application form with the required attachments.",
             "process_description": "1. Hire an unemployed Helsinki resident.\n2. Make sure that the conditions for granting the Helsinki benefit are met.\n3. Submit your Helsinki benefit application. You can apply for the Helsinki benefit via the online Helsinki benefit service or using the application form. Be sure to attach the necessary attachments to the application.\n4. You will be informed of the decision by letter.\n5. The City pays the Helsinki benefit to the employer.\n6. Report any changes in the employment relationship.\n",
             "processing_time": "About four weeks",
+            "information": "You can apply for the Helsinki benefit via the online Helsinki benefit service or by submitting the application form with the required attachments.\nSubmit a completed application with attachments:\n\nElectronically using the service's https:\/\/securemail.hel.fi secure connection to helsinkilisa@hel.fi.\n\nBy post to Economic Development Department\/Helsinki Employment Services Helsinki benefit\nPO Box 70\n00099 Helsingin kaupunki",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13899,6 +13900,7 @@
             "description": "Ansök om Helsingforstillägget i e-tjänsten eller genom att skicka oss ansökningsblanketten med bilagor.",
             "process_description": "1. Anställ en arbetslös helsingforsare.\n2. Kontrollera att villkoren för beviljandet av Helsingforstillägget uppfylls.\n3. Fyll i ansökan om Helsingforstillägget. Du kan ansöka om Helsingforstillägget i e-tjänsten eller genom att fylla i ansökningsblanketten. Bifoga nödvändiga bilagor till ansökan.\n4. Du får beslutet på papper per post.\n5. Staden betalar Helsingforstillägget till arbetsgivaren.\n6. Meddela om eventuella ändringar i anställningsförhållandet.\n",
             "processing_time": "Circa fyra veckor",
+            "information": "Ansök om Helsingforstillägget i e-tjänsten eller genom att skicka oss ansökningsblanketten med bilagor. Skicka den ifyllda ansökningen med bilagor Elektronisk genom säker förbindelse i tjänsten https:\/\/securemail.hel.fi till adressen helsinkilisa@hel.fi.\nPer post Näringslivsavdelning\/Helsingfors sysselsättningstjänster Helsingforstillägget, PL 70, 00099 Helsingfors stad\n",
             "provided_languages": [
                 "en",
                 "fi",
