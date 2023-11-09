@@ -8966,7 +8966,8 @@
                     "id": 3532,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae avustusta PDF-lomakkeella",
+                    "name": "Hae avustusta lomakkeella",
+                    "information": "Toimita hakemus kaupungin kirjaamoon joko viemällä se sinne tai postitse.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -8979,7 +8980,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Toiminta-avustushakemuslomake",
+                            "title": "Toiminta-avustushakemus, pdf",
                             "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/toiminta-avustushakemus-ip-toiminnan-jarjestajille.pdf",
                             "file_format": "PDF"
                         }
