@@ -50142,6 +50142,37 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 2914,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Copies of certificates",
+                    "information": "Download the form to your computer before completing it.",
+                    "process_description": "1.Fill in the form and send it to Education Division's archive when ordering\n- copies of certificates from comprehensive school (from 1996 onwards)\n- copies of certificates from upper secondary school (from 2006 onwards)\n2. Send the form as a secure email attachment to arkisto.kasvatusjakoulutus@hel.fi OR by mail to Education Division's archive P.O. Box 51300, 00099 City of Helsinki\n",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "PDF-form (in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/todistusjaljennostilaus.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Secure e-mail",
+                            "url": "https:\/\/securemail.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -50181,6 +50212,37 @@
                 }
             ],
             "channels": [
+                {
+                    "id": 2914,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Kopior av avgångs- och skiljebetyg",
+                    "information": "Ladda ned PDF-blanketten innan du fyller i den.",
+                    "process_description": "1. Fyll i blanketten och skicka den till fostrans- och utbildningssektorns arkivet om du vill beställa\n- avgångs- eller skiljebetyg från grundskolan (från år 1996)\n- avgångs- eller skiljebetyg från gymnasiet (från år 2006)\n2. Skicka blanketten som säker e-post till arkisto.kasvatusjakoulutus@hel.fi ELLER som brev till Fostrans- och utbildningssektorns arkivet PB 51300, 00099 Helsingfors stad\n",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "pdf-blankett (på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/opev\/virasto\/lomakkeet\/todistusjaljennostilaus.pdf"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Säker epost",
+                            "url": "https:\/\/securemail.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
