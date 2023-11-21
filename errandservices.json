@@ -50083,47 +50083,6 @@
             ],
             "channels": [
                 {
-                    "id": 883,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Todistusjäljennöksen tilaus verkossa",
-                    "prerequisites": "Käyttö edellyttää tunnistautumista pankkitunnuksilla, mobiilivarmenteella tai varmennekortilla\n",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Voit tarkastella tilauksen tilaa asiointikansiostasi.\n\nKäsittelyn tilat:\nLähetetty = Tilaus on lähetetty onnistuneesti.\nVastaanotettu = Tilaus on otettu käsittelyyn kasvatuksen ja koulutuksen toimialalla.\nRatkaistu= Todistusjäljennös on valmis ja toimitetaan pyydetyllä tavalla, joko kasvatuksen ja koulutuksen toimialan neuvontaan tai annettuun osoitteeseen postiennakkokirjeenä.\nPeruutettu = Todistusjäljennöstä ei voida tehdä. Syy kirjoitetaan joko asiointikansioon tai henkilöön otetaan yhteyttä.",
-                    "authorization_code": "Koulu- tai tutkintotodistuksen tilaaminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/todistus",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kasvatuksen ja koulutuksen palveluista",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
                     "id": 2914,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
@@ -50183,46 +50142,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 883,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Requesting copies of certificates",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "availability_summary": "Service available every day around the clock",
-                    "authorization_code": "Koulu- tai tutkintotodistuksen tilaaminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Education Sector",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/en\/feedback\/feedback\/feedback",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/todistus",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
             ]
         },
         "sv": {
@@ -50233,7 +50152,7 @@
             "service_id": 10084,
             "type": "ORDERING",
             "name": "Kopior av avgångsbetyg, beställning",
-            "description": "E-tjänst via vilken kopior av avgångsbetyg från grundskolan från år 1996 och från gymnasiet från år 2006 och senare år kan beställas från arkivet vid sektorn för fostran och utbildning.",
+            "description": "Du kan beställa kopior av avgångs- och skiljebetyg från grundskolan (från år 1996) och från gymnasiet (från år 2006) från arkivet vid sektorn för fostran och utbildning.",
             "processing_time": "Handläggningen tar i allmänhet 5-10 dagar.",
             "expiration_time": "Beställningen gäller tills betygskopian har framställts.",
             "information": "Nyare betyg från yrkesläroanstalter får man direkt från skolan, äldre betyg (före år 2012) har redan överläts till Helsingfors stadsarkivet. Vid behov kan Hakutoimisto på Yrkesinstitutet Stadin ammattiopisto hjälpa att hitta betyget. \nKopior av avgångsbetyg utfärdade före 1996 kan man beställa från stadsarkivet (stadsarkivets respons). Kopior av avgångsbetyg från gymnasiet utfärdade före 2006 får man direkt från skolan. Om du behöver en duplikat av studentbetyg du kan beställa det från Studentexamensnämnden, tfn 0295 338 200.\n",
@@ -50262,46 +50181,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 883,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Kopior av avgångsbetyg, beställning",
-                    "prerequisites": "Att använda tjänsten kräver autentisering\nantigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Koulu- tai tutkintotodistuksen tilaaminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/todistus",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till fostrans- och utbildningssektorn",
-                            "url": "https:\/\/www.hel.fi\/kasvatuksen-ja-koulutuksen-toimiala\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
             ]
         }
     },
