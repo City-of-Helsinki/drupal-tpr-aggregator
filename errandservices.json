@@ -12459,7 +12459,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Arbis kontaktinformation",
-                    "url": "https:\/\/www.hel.fi\/arbis\/sv\/kontakt-och-info\/",
+                    "url": "https:\/\/arbis.hel.fi\/om-arbis\/kontaktuppgifter\/",
                     "file_format": "HTML"
                 }
             ],
@@ -12486,7 +12486,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Anna palautetta",
-                            "url": "https:\/\/www.hel.fi\/arbis\/sv\/respons\/anna-palautetta-sv"
+                            "url": "https:\/\/palautteet.hel.fi\/fi\/"
                         }
                     ],
                     "availabilities": [
@@ -12581,6 +12581,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Give feedback",
+                            "url": "https:\/\/palautteet.hel.fi\/en\/"
+                        }
                     ],
                     "availabilities": [
                         {
@@ -12677,7 +12682,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Ge respons",
-                            "url": "https:\/\/www.hel.fi\/arbis\/sv\/respons\/anna-palautetta-sv"
+                            "url": "https:\/\/palautteet.hel.fi\/sv\/"
                         }
                     ],
                     "availabilities": [
@@ -51693,11 +51698,7 @@
             "id": 2358,
             "exact_descriptions": [
                 4604,
-                6361,
-                6888,
-                6889,
-                7190,
-                7196
+                6361
             ],
             "service_id": 10732,
             "type": "ENROLLMENT",
@@ -51784,11 +51785,7 @@
             "id": 2358,
             "exact_descriptions": [
                 4604,
-                6361,
-                6888,
-                6889,
-                7190,
-                7196
+                6361
             ],
             "service_id": 10732,
             "type": "ENROLLMENT",
