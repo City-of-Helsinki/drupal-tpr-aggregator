@@ -27901,6 +27901,339 @@
         ]
     },
     {
+        "id": 5476,
+        "fi": {
+            "id": 5476,
+            "exact_descriptions": [
+                7667
+            ],
+            "service_id": 10428,
+            "type": "APPOINTMENT",
+            "name": "Lapsiperheiden kotipalvelun asiakasohjaus- ja tilauspalvelu",
+            "description": "Lapsiperheiden kotipalvelun asiakasohjaus- ja tilauspalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "0e18bed5-b546-469d-87ae-dfd020414d3b",
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4039,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tarvitsen apua verkkolomake ja Maisa-palvelu",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Avaa verkkolomake",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4040,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Suomenkielinen puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-pe 08-13",
+                    "phone": "+358931015454",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08-13"
+                        }
+                    ]
+                },
+                {
+                    "id": 4041,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelinpalvelu ruotsiksi",
+                    "availability_summary": "Avoinna ma 08-13",
+                    "phone": "+358931015454 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma 08-13"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5476,
+            "exact_descriptions": [
+                7667
+            ],
+            "service_id": 10428,
+            "type": "APPOINTMENT",
+            "name": "Lapsiperheiden kotipalvelun asiakasohjaus- ja tilauspalvelu",
+            "description": "Lapsiperheiden kotipalvelun asiakasohjaus- ja tilauspalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "0e18bed5-b546-469d-87ae-dfd020414d3b",
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4039,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "I need help-online form and Maisa oneline service",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Maisa",
+                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login?lang=britishenglish"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the oneline form",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4040,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone service in Finnish",
+                    "availability_summary": "Open Mon-Fri 08-13",
+                    "phone": "+358931015454",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 08-13"
+                        }
+                    ]
+                },
+                {
+                    "id": 4041,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone service in Swedish",
+                    "availability_summary": "Open Mon 08-13",
+                    "phone": "+358931015454 ",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon 08-13"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5476,
+            "exact_descriptions": [
+                7667
+            ],
+            "service_id": 10428,
+            "type": "APPOINTMENT",
+            "name": "Lapsiperheiden kotipalvelun asiakasohjaus- ja tilauspalvelu",
+            "description": "Lapsiperheiden kotipalvelun asiakasohjaus- ja tilauspalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "0e18bed5-b546-469d-87ae-dfd020414d3b",
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4039,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Jag behöver hjälp -onlineformulär och Maisa onelinetjänst",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Maisa",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=swedish"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till onelineformuläret",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4040,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefontjänst på finska",
+                    "availability_summary": "Öppet mån-fre 08-13",
+                    "phone": "+358931015454",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 08-13"
+                        }
+                    ]
+                },
+                {
+                    "id": 4041,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefontjänst på svenska",
+                    "availability_summary": "Öppet mån 08-13",
+                    "phone": "+358931015454 ",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån 08-13"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4336,
         "fi": {
             "id": 4336,
@@ -28143,7 +28476,6 @@
             "exact_descriptions": [
                 2926,
                 7636,
-                7667,
                 9195,
                 9408,
                 9512,
@@ -28276,7 +28608,6 @@
             "exact_descriptions": [
                 2926,
                 7636,
-                7667,
                 9195,
                 9408,
                 9512,
@@ -28409,7 +28740,6 @@
             "exact_descriptions": [
                 2926,
                 7636,
-                7667,
                 9195,
                 9408,
                 9512,
