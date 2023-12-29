@@ -40684,6 +40684,7 @@
             "service_id": 10593,
             "type": "ADVICE",
             "name": "Sosiaali- ja potilasasiavastaavan neuvonta",
+            "description": "Voit olla yhteydessä sosiaali- ja potilasasiavastaavaan, jos olet tyytymätön saamaasi hoitoon, kohteluun tai palveluun tai tarvitset neuvoja oikeuksistasi sosiaali- ja terveydenhuollossa tai varhaiskasvatuksessa. Palvelu on maksuton.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -40793,7 +40794,8 @@
             ],
             "service_id": 10593,
             "type": "ADVICE",
-            "name": "Social and patient ombudsmen's service",
+            "name": "Social and patient ombudsperson's service",
+            "description": "You can contact a Social and Patient Ombudsperson if you are dissatisfied with the care, treatment or service you have received, or if you need advice on your rights in health and social services or early childhood education and care. The service is free of charge.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -40813,7 +40815,7 @@
                     "id": 3276,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
-                    "name": "Social and Patient Ombudsmen's phone service",
+                    "name": "Social and Patient Ombudspersons' phone service",
                     "availability_summary": "Open Mon-Thu 09-11",
                     "phone": "+358 9 310 43355",
                     "call_charge_info": "mobile call charge \/ local network charge",
@@ -40868,7 +40870,7 @@
                     "id": 3306,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Contact Social and Patient Ombudsmen",
+                    "name": "Contact Social and Patient Ombudspersons",
                     "availability_summary": "Open every day around the clock",
                     "provided_languages": [
                         "fi",
@@ -40904,6 +40906,7 @@
             "service_id": 10593,
             "type": "ADVICE",
             "name": "Social- och patientombudens rådgivning",
+            "description": "Du kan kontakta social- och patientombuden om du är missnöjd med den vård eller betjäning du fått, hur du bemötts eller om du behöver råd om dina rättigheter i social- och hälsovården eller småbarnspedagogiken. Tjänsten är gratis.",
             "provided_languages": [
                 "fi",
                 "sv"
