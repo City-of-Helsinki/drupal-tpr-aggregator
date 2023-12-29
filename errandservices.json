@@ -15218,7 +15218,7 @@
             "service_id": 10954,
             "type": "ADVICE",
             "name": "Hitas-asunnon myynti vahvistetulla enimmäishinnalla",
-            "description": "Hae asunnon enimmäismyyntihinnan vahvistamista toimittamalla asuntopalveluille isännöitsijäntodistus tai Hitas-enimmäishinnan vahvistamislomake.\n\nJos Hitas-asuntoosi on tehty parannuksia tai taloyhtiöön on tehty remontteja, ja ne on jo kirjattu Hitas-rekisteriin, voit hakea enimmäishintalaskelmaa isännöitsijäntodistuksen perusteella.\n\nJos parannustöitä on tehty, mutta niitä ei ole vielä ilmoitettu, käytä Hitas-enimmäishinnan vahvistamislomaketta.\n\nIsännöitsijäntodistuksen ja\/tai Hitas-enimmäishinnan vahvistamislomakkeen laatii isännöitsijä. Enimmäishintalaskelma on voimassa kolme kuukautta laskelman päiväyksestä. Voit uusia laskelman sähköpostitse (hitas@hel.fi) tai puhelimitse (09 310 13033, ma-to 9-11).",
+            "description": "Hae asunnon enimmäismyyntihinnan vahvistamista toimittamalla asumisen palveluille isännöitsijäntodistus tai Hitas-enimmäishinnan vahvistamislomake.\n\nJos Hitas-asuntoosi on tehty parannuksia tai taloyhtiöön on tehty remontteja, ja ne on jo kirjattu Hitas-rekisteriin, voit hakea enimmäishintalaskelmaa isännöitsijäntodistuksen perusteella.\n\nJos parannustöitä on tehty, mutta niitä ei ole vielä ilmoitettu, käytä Hitas-enimmäishinnan vahvistamislomaketta.\n\nIsännöitsijäntodistuksen ja\/tai Hitas-enimmäishinnan vahvistamislomakkeen laatii isännöitsijä. Enimmäishintalaskelma on voimassa kolme kuukautta laskelman päiväyksestä. Voit uusia laskelman sähköpostitse (hitas@hel.fi) tai puhelimitse (09 310 13033, ma-to 9-11).",
             "processing_time": "Saat enimmäishintalaskelman viikon kuluessa hakemuksesta.",
             "expiration_time": "Enimmäishintalaskelma on yleensä voimassa kolme kuukautta laskelman päiväyksestä. Jos huoneiston enimmäishinta on vahvistettu rajaneliöhinnalla, on laskelma voimassa 1-4 kuukautta.",
             "provided_languages": [
@@ -15239,7 +15239,7 @@
                     "id": 3302,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Asuntopalvelut, Hitas-asiat puhelinpalvelu",
+                    "name": "Asumisen palvelut, Hitas-asiat puhelinpalvelu",
                     "availability_summary": "Avoinna ma-to 09-11",
                     "phone": "09 310 13033",
                     "call_charge_info": "pvm\/mpm",
@@ -15264,7 +15264,7 @@
                     "id": 3303,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Asuntopalvelut, Hitas-asiat sähköposti",
+                    "name": "Asumisen palvelut, Hitas-asiat sähköposti",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15360,7 +15360,7 @@
             "service_id": 10954,
             "type": "ADVICE",
             "name": "Försäljning av en Hitas-bostad till ett fastställt maximipris",
-            "description": "Ansök om fastställande av maximipriset för försäljning av bostaden genom att skicka in ett disponentintyg eller en blankett för fastställande av Hitas-maximipriset till enheten för bostadstjänster.\n\nOm förbättringar har utförts i din Hitas-bostad eller bostadsbolaget har renoverats, och arbetena redan har registrerats i Hitas-registret, kan du ansöka om en beräkning av maximipriset på grundval av disponentintyget.\n\nOm förbättringsarbeten har utförts, men ännu inte registrerats, ska du använda blanketten för fastställande av Hitas-maximipriset.\n\nDisponenten upprättar disponentintyget och\/eller blanketten för fastställande av Hitas-maximipriset. Beräkningen av maximipriset är giltig i tre månader från datumet på den. Du kan förnya beräkningen per e-post (hitas@hel.fi) eller per telefon (09 310 13033, mån.-tors. 9-11).",
+            "description": "Ansök om fastställande av maximipriset för försäljning av bostaden genom att skicka in ett disponentintyg eller en blankett för fastställande av Hitas-maximipriset till boendetjänster.\n\nOm förbättringar har utförts i din Hitas-bostad eller bostadsbolaget har renoverats, och arbetena redan har registrerats i Hitas-registret, kan du ansöka om en beräkning av maximipriset på grundval av disponentintyget.\n\nOm förbättringsarbeten har utförts, men ännu inte registrerats, ska du använda blanketten för fastställande av Hitas-maximipriset.\n\nDisponenten upprättar disponentintyget och\/eller blanketten för fastställande av Hitas-maximipriset. Beräkningen av maximipriset är giltig i tre månader från datumet på den. Du kan förnya beräkningen per e-post (hitas@hel.fi) eller per telefon (09 310 13033, mån.-tors. 9-11).",
             "processing_time": "Du får beräkningen av maximipriset inom en vecka från ansökningen.",
             "expiration_time": "Beräkningen av maximipriset är i allmänhet giltig i tre månader från datumet på den. Om maximipriset har fastställts med gränspriset per kvadratmeter, är beräkningen giltig i 1-4 månader.",
             "provided_languages": [
@@ -33794,7 +33794,7 @@
             "service_id": 10879,
             "type": "ADVICE",
             "name": "How to report tenant selection",
-            "description": "Tenant selection is mainly reported afterwards. In this case, send the information on tenant selection to the Housing Services (including apartment changers) in an aggregated Excel table once a month.\n\nThe exception is companies and associations that do not already have ARA rental apartments in Helsinki. They must submit their first location's tenant selections with their applications and attachments for approval in advance, before the location is completed.\nIn some situations, it may be necessary to deviate from the tenant selection guidelines. In this case, contact Housing Services by e-mail asvalvonta@hel.fi.\n",
+            "description": "Tenant selection is mainly reported afterwards. In this case, send the information on tenant selection to the Housing Services (including apartment changers) in an aggregated Excel table once a month.\n\nThe exception is companies and associations that do not already have ARA rental apartments in Helsinki. They must submit their first location's tenant selections with their applications and attachments for approval in advance, before the location is completed.\n\nIn some situations, it may be necessary to deviate from the tenant selection guidelines. In this case, contact Housing Services by e-mail asvalvonta@hel.fi.\n",
             "processing_time": "We make decisions on exemptions within 14 days of submitting an application.",
             "provided_languages": [
             ],
@@ -33863,7 +33863,7 @@
             "service_id": 10879,
             "type": "ADVICE",
             "name": "Så här meddelar du om valet av boende",
-            "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till enheten för bostadstjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta enheten för bostadstjänster per e-post asvalvonta@hel.fi.\n",
+            "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till boendetjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta boendetjänster per e-post asvalvonta@hel.fi.\n",
             "provided_languages": [
             ],
             "responsible_depts": [
