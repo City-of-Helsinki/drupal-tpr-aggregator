@@ -32848,294 +32848,6 @@
         ]
     },
     {
-        "id": 885,
-        "fi": {
-            "id": 885,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Nuorisopalvelut, toiminta- ja palkkausavustusennakkohakemus",
-            "description": "Toiminta- ja palkkausavustukset on tarkoitettu helsinkiläisten varhaisnuorisoyhdistysten ja nuorisoyhdistysten vuosittaiseen toimintaan ja palkkaukseen. Toiminta ja palkkausavustusennakkoa voi saada yhdistys ´, joka on edellisenä vuonna saanut starttiavustusta tai toiminta- ja\/tai palkkausavustusta. Ennakkoa voi saada enintään puolet edellisen vuoden avustuksen määrästä.",
-            "process_description": "1. Hakemus on toimitettava joulukuun 15. päivän loppuun mennessä.\n2. Päätöksen avustuksesta tekee nuorisopalvelujen kumppanuuspäällikkö.\n3. Päätöksestä lähetetään hakijalle tieto postitse.",
-            "processing_time": "Yksi (1) kuukausi.",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty.",
-            "information": "Mikäli yhdistys ei hae varsinaista avustusta hakuaikaan mennessä, peritään myönnetty ennakkoavustus takaisin. \n\nAvustusten jaossa noudatetaan Nuorisoyhdistysten avustusohjesääntöä, josta löytyy tarkemmat tiedot avustuksen myöntämisen kriteereistä.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoa avustuksista",
-                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 911,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Nuorisotoimi, toiminta- ja palkkausavustusennakkohakemus",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.\n",
-                    "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkEnnakko\/?new=1",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute nuorison palveluista",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": {
-            "id": 885,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Ungdomsservicen, ansökan om förskott på verksamhetsunderstöd och löneunderstöd",
-            "description": "Verksamhets- och lönenunderstödförskot är avsedda för den årliga verksamheten hos föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för anställning.Verksamhets- eller löneunderstödsförskott beviljas föreningar som under föregående år har fått startunderstöd eller verksamhets- och\/eller löneunderstöd. Förskottet kan utgöra högst hälften av det understödsbelopp som föreningen fick föregående år.",
-            "process_description": "1. Ansökan ska lämnas in före utgången av den 15 december.\n2. Byråchefen vid ungdomscentralens byrå för samhällsaktivitet bland unga fattar beslutet om understödet.\n3. Beslutet delges den sökande per post.",
-            "processing_time": "En månad.",
-            "expiration_time": "En inlämnad ansökan är giltig tills ett beslut har fattats.",
-            "information": "Ifall föreningen inte ansöker om egentligt understöd före ansökningstiden går ut återkrävs det beviljade understödsförskottet. \n\nVid utdelningen av understöd iakttas ungdomsnämndens Understödsreglemente för undomsföreningar för ungdomsföreningar som innehåller närmare information om kriterierna för beviljandet av understöd.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Penningunderstöd",
-                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 911,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ungdomsväsendet, ansökan om förskott på verksamhetsunderstöd och löneunderstöd",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i kommunikationsmappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till ungdomscentralen",
-                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/kontaktuppgifter-och-respons\/Respons\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkEnnakko\/?new=1",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 892,
-        "fi": {
-            "id": 892,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Nuorisopalvelut, toiminta- ja palkkausavustushakemus",
-            "description": "Toiminta- ja palkkausavustukset on tarkoitettu helsinkiläisten varhaisnuorisoyhdistysten ja nuorisoyhdistysten vuosittaiseen toimintaan ja palkkaukseen. Lähtökohtana avustusten myöntämisessä on, että yhdistyksen jäsenistä ja aktiivisesti toimintaan osallistuvista 2\/3 on alle 29-vuotiaita helsinkiläisiä.\n \n\n\n",
-            "process_description": "Toiminta-avustusta voi saada helsinkiläinen varhaisnuoriso- ja nuorisoyhdistys, joka on aloittanut toimintansa vähintään edellisenä kalenterivuonna ja jonka jäsenistä ja aktiivisesti toimintaan osallistuvista yli puolet on 7-28-vuotiaita helsinkiläisiä. \n \nJos kyseessä on yhdistys, jonka yhtenä osa-alueena on varhaisnuoriso- tai nuorisotoimintaa (esim. aikuisjärjestöjen varhaisnuoriso-osastot\/jaostot), on nuorten toiminnan osuus erotettava yhdistyksen muusta toiminnasta sekä kirjanpidossa että toimintasuunnitelmassa ja - kertomuksessa.\n\nVuokra-avustusta haetaan toiminta-avustuksen yhteydessä. Vuokra-avustusta voi saada toiminta-avustuskelpoinen yhdistys, jolla on vuokrattuna oma toimitila ja siinä on toimintaa vähintään neljänä päivänä viikossa. Vuokra-avustusta voivat saada myös helsinkiläiset varhaisnuoriso- ja nuorisopiirijärjestöt, joiden paikallisjärjestöt tai osastot ovat oikeutettuja toiminta-avustuksiin. Haettaessa vuokra-avustusta hakusumma sisällytetään toiminta-avustuksen hakusummaan ja avustuksen tarve selvitetään hakemuksella sille varatussa kohdassa.\n\nPalkkausavustusta voi saada rekisteröitynyt helsinkiläinen nuoriso- ja varhaisnuorisoyhdistys tai vastaava rekisteröitynyt yhdistys, jolla on alaisuudessaan paikallisia helsinkiläisiä nuorisoyhdistyksiä, jaostoja\/osastoja\/toimintaryhmiä tai järjestön toiminnan luonne muutoin edellyttää organisoimista ja joiden jäsenistä tai toimintaan aktiivisesti osallistuvista 2\/3 on alle 29-vuotiaita. Palkkausavustuksen saamisen edellytyksenä on järjestön toiminnan arviointi nuorisopalvelujen kanssa.\n\n1. Hakemus on toimitettava helmikuun viimeisen päivän loppuun mennessä.\n2. Hakemuksen liitteet on toimitettava maaliskuun loppuun mennessä.\n3. Päätöksen avustuksesta tekee nuorisojaosto.\n4. Päätöksestä lähetetään hakijalle tieto postitse.\n5. Avustuksen käyttöselvitys tehdään seuraavan vuoden haun yhteydessä tai siihen mennessä.",
-            "processing_time": "3 - 4 kuukautta.",
-            "expiration_time": "Lähetetty hakemus on voimassa kunnes päätös on tehty.",
-            "information": "Avustusten jaossa noudatetaan nuorisoyhdistysten avustusohjesääntöä, josta löytyy tarkemmat tiedot avustuksen myöntämisen kriteereistä.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoja avustuksista",
-                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 912,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Nuorisotoimi, toiminta- ja palkkausavustushakemus",
-                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla, mobiilitunnuksilla.\n",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Nuoristoiminnan toiminta- ja palkkausavustushakemus",
-                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": {
-            "id": 892,
-            "exact_descriptions": [
-                3641
-            ],
-            "service_id": 10115,
-            "type": "APPLICATION",
-            "name": "Ungdomsservicen, ansökan om verksamhetsunderstöd och löneunderstöd",
-            "description": "Verksamhets- och lönenunderstöd är avsedda för den årliga verksamheten hos föreningar för yngre tonåringar och ungdomsföreningar från Helsingfors samt för anställning. Utgångspunkten för stödet är att 2\/3 av medlemmarna och de som aktivt deltar i verksamheten är personer bosatta i Helsingfors och att de är yngre än 29 år.",
-            "process_description": "Verksamhetsunderstöd beviljas åt Helsingforsföreningar för yngre ungdomar eller ungdomar, där över hälften av medlemmarna eller de personer som aktivt deltar i verksamheten är Helsingforsbor i åldern 7-28.\n\n\nOm det är fråga om en förening vars verksamhet för yngre tonåringar eller unga (t.ex. vuxenföreningars avdelningar\/sektioner för yngre tonåringar) endast utgör ett delområde ska ungdomsverksamhetens andel avskiljas från föreningens övriga verksamhet både i bokföringen och i verksamhetsplanen och verksamhetsberättelsen.\n\nHyresunderstöd söks i samband med verksamhetsunderstödet. Hyresunderstöd beviljas föreningar som är behöriga att söka verksamhetsunderstöd, som har hyrt egna lokaler där de driver verksamhet minst fyra dagar i veckan. Hyresunderstöd beviljas även de distriktsorganisationer för yngre tonåringar och ungdomar från Helsingfors vars lokala föreningar eller sektioner är berättigade till verksamhetsunderstöd. Vid ansökan om hyresunderstöd ska det ansökta beloppet inkluderas i det ansökta verksamhetsunderstödsbeloppet och behovet av understöd redogöras i angivet fält.\n\nLöneunderstöd beviljas registrerade ungdomsföreningar och föreningar för yngre tonåringar från Helsingfors eller motsvarande registrerade föreningar som under sig har lokala i Helsingfors verksamma ungdomsföreningar, sektioner\/avdelningar\/verksamhetsgrupper eller om föreningens verksamhet annars är av sådan natur att den förutsätter organisering och 2\/3 av medlemmarna eller personerna som aktivt deltar i verksamheten inte har fyllt 29 år. Förutsättningen för beviljande av löneunderstöd är att föreningens verksamhet bedöms i samarbete med ungdomssektionen.\n\n1. Ansökan ska lämnas in före utgången av den sista februari.\n2. Bilagorna ska lämnas in före slutet av mars.\n3. Ungdomsnämnden fattar beslutet om understödet.\n4. Beslutet delges den sökande per post.\n5. Användningen av understödet utreds i samband med eller före nästa års ansökan.",
-            "processing_time": "Behndlingstid 3-4 månader",
-            "expiration_time": "En inlämnad ansökan gäller tills beslutet har fattats. ",
-            "information": "Vid utdelningen av understöd iakttas Understödsreglemente för ungdomsföreningarsom innehåller närmare information om kriterierna för beviljandet av understöd.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "ASSOCIATIONS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Penningunderstöd",
-                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 912,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ungdomsväsendet, ansökan om verksamhetsunderstöd och löneunderstöd",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i kommunikationsmappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
-                    "authorization_code": "Avustushakemuksen tekeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ansökan om verksamhets- och löneunderstöd",
-                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 3140,
         "fi": {
             "id": 3140,
@@ -33178,6 +32890,7 @@
                     "name": "Loma-aikojen leiriavustushakemus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
                     "information": "",
+                    "availability_summary": "Palvelu saatavilla 1.9. - 31.10.2024 joka päivä 00:01-23:59",
                     "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -33200,6 +32913,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä 1.9. - 31.10.2024 klo 00:01-23:59"
+                        }
                     ]
                 }
             ]
@@ -33243,6 +32959,7 @@
                     "type_string": "E-services",
                     "name": "Holiday camp grant application",
                     "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
+                    "availability_summary": "Service available 1 Sep - 31 Oct 2024 every day 00:01-23:59",
                     "process_description": "The information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -33265,6 +32982,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Service available every day 1 Sep - 31 Oct 2024 at 00:01-23:59"
+                        }
                     ]
                 }
             ]
@@ -33308,6 +33028,7 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Ansökän om lägerunderstöd under skollovstider",
                     "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig 1.9. - 31.10.2024 varje dag 00:01-23:59",
                     "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i ärendemappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -33330,6 +33051,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig varje dag 1.9. - 31.10.2024 kl. 00:01-23:59"
+                        }
                     ]
                 }
             ]
@@ -33542,6 +33266,373 @@
                     "availabilities": [
                         {
                             "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 892,
+        "fi": {
+            "id": 892,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Nuorisotoiminta, toiminta- ja palkkausavustus",
+            "description": "Toiminta- ja palkkausavustuksia myönnetään helsinkiläisille varhaisnuoriso- ja nuorisoyhdistyksille tai vastaaville, joiden jäsenistä 2\/3 on alle 29-vuotiaita helsinkiläisiä. Lisäksi toiminta-avustusta saadakseen jäsenistä vähintään puolet tulee olla 7-28-vuotiaita. \n\nToiminta-avustusta myönnetään yhdistysten vuosittaiseen toimintaan. Palkkausavustusta saavalla yhdistyksellä tulee olla alaisuudessaan paikallisia helsinkiläisiä nuorisoyhdistyksiä tai vastaavia tai järjestön toiminnan luonne muutoin edellyttää organisoimista. \n\n\n",
+            "process_description": "Hakemus on toimitettava helmikuun viimeisen päivän loppuun mennessä. Liitteitä voi toimittaa maaliskuun loppuun asti. \n\nKulttuuri-ja vapaa-aikalautakunnan nuorisojaosto päättää avustuksesta. Päätös tehdään yleensä toukokuun kokouksessa. Päätös avustuksesta tulee postitse. \n\nPäätökseen on kirjattu tieto avustuksen käytön selvittämisestä. Avustus selvitetään seuraavan vuoden haun yhteydessä tai samaan määräaikaan mennessä. Hakemuksen valmisteluvaiheessa lisätietoja kysytään asiointipalvelussa hakemuksen yhteydessä tai sähköpostitse.",
+            "processing_time": "Hakemuksen käsittelyaika on 2-3 kuukautta.",
+            "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty.",
+            "information": "Toiminta-avustuksen yhteydessä voi hakea vuokra-avustusta, jos yhdistyksellä on vuokrattuna oma toimitila. Tilassa tulee olla toimintaa vähintään neljänä päivänä viikossa. \n\nPalkkausavustuksen saamisen yhtenä ehtona on järjestön toiminnan arviointi nuorisopalvelujen kanssa. \n\nNuorisotoiminnan avustusten myöntämisessä noudatetaan Nuorisoyhdistysten avustusohjesääntöä ja Helsingin kaupungin avustusohjesääntöä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lue lisää toiminta- ja palkkausavustuksesta: ",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 912,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Toiminta- ja palkkausavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla, mobiilitunnuksilla.\n",
+                    "availability_summary": "Palvelu saatavilla 1.1. - 29.2.2024 joka päivä 00:01-23:59",
+                    "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Nuoristoiminnan toiminta- ja palkkausavustushakemus",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset\/nuorisotoiminnan-palkkausavustus"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä 1.1. - 29.2.2024 klo 00:01-23:59"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 892,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Youth activities; operating grants and hiring grants",
+            "description": "Operating and hiring grants are awarded to Helsinki-based early youth and youth organisations or similar organisations in which 2\/3 of the members are Helsinki residents under the age of 29. In addition, at least half of the members must be aged 7-28 to be eligible for an operating grant.\n \nOperating grants are awarded for the annual operations of associations. An association receiving a hiring grant must have local youth associations or similar associations in Helsinki under their umbrella, or the nature of the organisation's activities otherwise requires organising.\n",
+            "process_description": "You must submit your application by the last day of February. You can submit attachments until the end of March. \n\nThe Youth Sub-committee of the Culture and Leisure Committee decides on grants. The decision is usually made at the meeting in May. The grant decision will be sent by post.\n \nThe decision includes information about reporting on the use of the grant. The report on the grant will be submitted in the application for the following year or by the same deadline. During the preparation of the application, additional information is requested in the e-service in connection with the application or by email.\n",
+            "processing_time": "The processing time for applications is 2-3 months.",
+            "expiration_time": "The submitted application is valid until a decision is made.",
+            "information": "You can apply for a rental grant alongside an operating grant if the association is currently renting its own space. There must be activity in the space at least four days per week.\n\nOne of the conditions for receiving an operating grant is an evaluation of the organisation's activities with Youth Services.\n\nThe grants for youth activities are awarded in accordance with the Youth associations' grant guidelines and the City of Helsinki's grant guidelines.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Read more about operating and hiring grants:",
+                    "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-youth-activities"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 912,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Youth work service, operating and hiring grant application",
+                    "prerequisites": "Using the eService requires you to sign in either with your bank access codes or with mobile certificate.",
+                    "availability_summary": "Service available 1 Jan - 29 Feb 2024 every day 00:01-23:59",
+                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Application for operating and hiring grant for youth activities",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-youth-activities"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day 1 Jan - 29 Feb 2024 at 00:01-23:59"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 892,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Ungdomsverksamhet, verksamhets- och löneunderstöd",
+            "description": "Verksamhets- och löneunderstöd beviljas till föreningar för yngre ungdomar och ungdomar och motsvarande i Helsingfors, i vilka 2\/3 av medlemmarna är under 29 år gamla helsingforsare. För att få verksamhetsunderstöd ska minst hälften av medlemmarna dessutom vara 7-28 år gamla.\n \nVerksamhetsunderstöd beviljas för föreningarnas årliga verksamhet. En förening som mottar löneunderstöd ska ha underlydande lokala ungdomsföreningar i Helsingfors eller motsvarande, eller organisationens verksamhet ska på annat sätt förutsätta organisering.\n",
+            "process_description": "Ansökan ska levereras senast den sista februari. Bilagor kan levereras fram till slutet av mars. \n\nUngdomssektionen inom kultur- och fritidsnämnden beslutar om understödet. Beslutet fattas i allmänhet på mötet i maj. Beslutet om understödet skickas per post. \n\nI beslutet finns antecknat information om hur användningen av understödet ska utredas. Understödet utreds i samband med ansökan följande år, eller senast inom samma tidsfrist. Under beredningen av ansökan kommer ytterligare information att begäras i samband med ansökan eller per e-post.\n",
+            "processing_time": "Ansökningens behandlingstid är 2-3 månader.",
+            "expiration_time": "En inskickad ansökan gäller tills beslutet har fattats.",
+            "information": "I samband med ansökan om verksamhetsunderstöd kan man även ansöka om hyresunderstöd, ifall föreningen hyr en egen verksamhetslokal. Det ska finnas verksamhet i lokalen minst fyra dagar i veckan.\n\nEtt villkor för mottagande av löneunderstöd är att organisationens verksamhet bedöms tillsammans med ungdomstjänsterna.\n\nVid beviljande av understöd för ungdomsverksamhet iakttas Understödsreglementet för ungdomsföreningar och Understödsreglementet för Helsingfors stad.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Läs mer om verksamhets- och löneunderstöd:",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 912,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ungdomsväsendet, ansökan om verksamhetsunderstöd och löneunderstöd",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig 1.1. - 29.2.2024 varje dag 00:01-23:59",
+                    "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i kommunikationsmappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan om verksamhets- och löneunderstöd",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig varje dag 1.1. - 29.2.2024 kl. 00:01-23:59"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 885,
+        "fi": {
+            "id": 885,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Nuorisotoiminta, toiminta- ja palkkausavustusennakko",
+            "description": "Toiminta- ja palkkausavustusennakkoa voi saada yhdistys, joka on edellisenä vuonna saanut vastaavaa avustusta tai starttiavustusta. Avustusta myönnetään helsinkiläisille varhaisnuoriso- ja nuorisoyhdistyksille.",
+            "process_description": "Toiminta - ja palkkausavustusennakkohakemus tulee toimittaa 15.12. mennessä. Nuorisopalveluiden kumppanuuspäällikkö tekee päätöksen avustuksesta tammikuussa. Avustus voi olla enintään puolet edellisen vuoden avustuksesta. \n\nPäätös avustuksesta tulee postitse. Hakemuksen valmisteluvaiheessa lisätietoja kysytään asiointipalvelussa hakemuksen yhteydessä tai sähköpostitse.",
+            "processing_time": "Hakemuksen käsittelyaika on noin kuukauden.",
+            "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty.",
+            "information": "Mikäli yhdistys ei hae varsinaista avustusta hakuaikaan mennessä, peritään myönnetty ennakkoavustus takaisin. \n\nNuorisotoiminnan avustusten myöntämisessä noudatetaan Nuorisoyhdistysten avustusohjesääntöä ja Helsingin kaupungin avustusohjesääntöä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lue lisää toiminta- ja palkkausavustusennakoista:",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 911,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Toiminta- ja palkkausavustusennakkohakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.\n",
+                    "availability_summary": "Palvelu saatavilla 16.10. - 15.12.2024 joka päivä 00:01-23:59",
+                    "process_description": "Hakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/nuorisotoiminnan-avustukset\/nuorisotoiminnan-toiminta-avustusennakko",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute nuorison palveluista",
+                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/fi\/yhteystiedot-ja-palaute\/Anna+palautetta\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä 16.10. - 15.12.2024 klo 00:01-23:59"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 885,
+            "exact_descriptions": [
+                3641
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Ungdomsverksamhet, förskott på verksamhets- och löneunderstöd",
+            "description": "Förskott på verksamhets- och löneunderstöd kan mottas av en förening som har mottagit motsvarande stöd eller startunderstöd föregående år. Understödet beviljas till föreningar för yngre ungdomar och ungdomar i Helsingfors.",
+            "process_description": "Ansökan om förskott på verksamhets- och löneunderstöd ska levereras senast den 15.12. Partnerskapschefen vid ungdomsservicen fattar beslut om understödet i januari. Understödet kan vara högst hälften av stödbeloppet för föregående år.\n \nBeslutet om understödet skickas per post. Under beredningen av ansökan kommer ytterligare information att begäras i samband med ansökan eller per e-post.\n",
+            "processing_time": "Ansökningens behandlingstid är cirka en månad.",
+            "expiration_time": "En inskickad ansökan gäller tills beslutet har fattats.",
+            "information": "Ifall föreningen inte ansöker om egentligt stöd inom tidsfristen, återkrävs det beviljade förskottet.\n\nVid beviljande av understöd för ungdomsverksamhet iakttas Understödsreglementet för ungdomsföreningar och Understödsreglementet för Helsingfors stad.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Läs mer om förskott på verksamhets- och löneunderstöd: ",
+                    "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-ungdomsverksamhet"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 911,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ungdomsväsendet, ansökan om förskott på verksamhetsunderstöd och löneunderstöd",
+                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
+                    "availability_summary": "Tjänsten tillgänglig 16.10. - 15.12.2024 varje dag 00:01-23:59",
+                    "process_description": "Uppgifterna i redan inskickade ansökningar kan ändras så länge som ansökans status i kommunikationsmappen är \"mottagen\". En uppdaterad ansökan ersätter en tidigare inskickad ansökan. När ansökans status ändras till \"i behandling\" går det inte längre att ändra på ansökan. Bilagor till ansökan kan lämnas in med hjälp av meddelandefunktionen inom utsatt tid.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Respons till ungdomscentralen",
+                            "url": "https:\/\/www.hel.fi\/kulttuurin-ja-vapaa-ajan-toimiala\/sv\/kontaktuppgifter-och-respons\/Respons\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/nkEnnakko\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig varje dag 16.10. - 15.12.2024 kl. 00:01-23:59"
                         }
                     ]
                 }
@@ -52095,7 +52186,9 @@
             "id": 2358,
             "exact_descriptions": [
                 4604,
-                6361
+                6361,
+                7190,
+                7196
             ],
             "service_id": 10732,
             "type": "ENROLLMENT",
@@ -52182,7 +52275,9 @@
             "id": 2358,
             "exact_descriptions": [
                 4604,
-                6361
+                6361,
+                6888,
+                7196
             ],
             "service_id": 10732,
             "type": "ENROLLMENT",
