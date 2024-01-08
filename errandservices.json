@@ -55546,8 +55546,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5268,
+            "exact_descriptions": [
+                9573
+            ],
+            "service_id": 11075,
+            "type": "OTHER_ESERVICE",
+            "name": "Helpline for host family",
+            "description": "Helpline for host family",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3721,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Helpline for host family",
+                    "prerequisites": "Helpline for host family",
+                    "availability_summary": "Open every day 08-21",
+                    "phone": "+358 931052581",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day 08-21"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5268,
             "exact_descriptions": [
@@ -55556,6 +55607,7 @@
             "service_id": 11075,
             "type": "OTHER_ESERVICE",
             "name": "Stödtelefon dör mottagningsfamilj",
+            "description": "Stödtelefon dör mottagningsfamilj",
             "provided_languages": [
                 "fi",
                 "sv"
