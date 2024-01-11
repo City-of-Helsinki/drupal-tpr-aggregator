@@ -2353,13 +2353,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Asiakkaan ohje Maisan käyttöön",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/sosiaali-ja-terveyspalvelut\/a-o\/palvelut\/sahkoinen-asiointi\/maisa\/maisa-asiakkaan-ohje",
-                    "file_format": "HTML"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Maisan puolesta asioinnin ohje",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/sosiaali-ja-terveyspalvelut\/a-o\/palvelut\/sahkoinen-asiointi\/maisa\/maisa-puolesta-asioinnin-ohje",
+                    "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/digitaaliset-palvelut#maisa-asiakasportaali",
                     "file_format": "HTML"
                 }
             ],
@@ -2451,6 +2445,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Maisa client portal",
+                    "url": "https:\/\/www.hel.fi\/en\/health-and-social-services\/digital-health-and-social-services#maisa-client-portal",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -2537,6 +2537,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Klientportalen Maisa",
+                    "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/digitala-tjanster#klientportalen-maisa",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -34727,12 +34733,14 @@
                 {
                     "type": "INTERNET",
                     "title": "Lisätietoja omahoitotarvikkeiden jakelusta",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/fi\/sosiaali-ja-terveyspalvelut\/terveyspalvelut\/muita-terveyspalveluja\/omahoitotarvikkeet\/"
+                    "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/terveydenhoito\/muita-terveyspalveluja\/omahoitotarvikkeiden-jakelu",
+                    "file_format": "HTML"
                 },
                 {
                     "type": "INTERNET",
                     "title": "Kirjaudu Maisaan",
-                    "url": "https:\/\/www.maisa.fi"
+                    "url": "https:\/\/www.maisa.fi",
+                    "file_format": "HTML"
                 }
             ],
             "channels": [
@@ -34785,6 +34793,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Distribution of self-care supplies",
+                    "url": "https:\/\/www.hel.fi\/en\/health-and-social-services\/health-care\/other-health-care-services\/distribution-of-self-care-supplies",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -34836,6 +34850,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Utdelning av egenvårdsartiklar",
+                    "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/halsovard\/ovriga-halsovardstjanster\/utdelning-av-egenvardsartiklar",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -54980,7 +55000,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Ansökan om plats inom småbarnspedagogik i e-tjänsten Asti",
-            "description": "Vårdnadshavare kan ansöka om plats till sitt barn inom Helsingfors stads småbarnspedagogik och förskoleundervisning i e-tjänsten Asti.\n\nAnsökan om plats till klubbverksamhet sker via ärendemappen i e-tjänsterna.\n",
+            "description": "I e-tjänsten Asti kan du som vårdnadshavare ansöka om plats inom Helsingfors stads småbarnspedagogik och förskoleundervisning. \n\nAnsökan om plats till klubbverksamhet gör du via ärendemappen Helsingfors stads e-tjänster. \n\n",
             "process_description": "I ansökningsformuläret finns instruktioner om hur du ska fylla i formuläret. Uppgifter som saknas eller är felaktiga visas i röd text på den sida där informationen fattas.  \n\nDu kan gå vidare i ansökningsprocessen när alla fält i formuläret är ifyllda. Ansökan kan sparas som utkast och utkastet går att redigera senare. Utkastet försvinner när ansökan skickas in. Efter att ansökan skickas in kan den redigeras tills den är låst, tre månader innan behovet börjar och snabbare i en brådskande situation. \n \nDen inskickade ansökan sparas automatiskt i e-tjänsten Asti. Du får en avisering när ansökan kommit fram. Den sökande kan följa med ansökningens status i Asti. Status för en inskickad ansökan som väntar på behandling är Skickad. Ansökan kan redigeras tills den är låst. När behandlingen av ansökan börjar ändras status till I behandling.  \n \nBeslut om ansökan om småbarnspedagogik fattas från och med det datum man önskar att småbarnspedagogiken ska inledas och i mån av möjlighet enligt familjens önskemål. \n \nBarnets vårdnadshavare kan se beslutet om en plats inom småbarnspedagogiken i Asti.\n \nDu kan radera ansökan innan beslutet har fattats. Status för en raderad ansökan är Annullerad. Då finns ansökan inte längre i systemet.  \n \nUnder behandlingstiden kan du meddela om ändringar i ansökan genom att ringa till servicehandledningen.\n",
             "processing_time": "Behandlingstiden för ansökan är högst fyra mån, om du inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen av ansökan börjar ungefär tre månader före önskat startdatum.",
             "expiration_time": "Ansökan är i kraft ett år efter det att den skickats in.",
