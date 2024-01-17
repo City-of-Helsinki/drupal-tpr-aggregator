@@ -19833,7 +19833,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun",
+                            "title": "Irtisano ennen 17.1.2024 ostettu tunnus",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
                         }
@@ -19861,7 +19861,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun",
+                            "title": "Irtisano 17.1.2024 tai myöhemmin ostettu tunnus",
                             "url": "https:\/\/pysakointitunnukset.hel.fi\/",
                             "file_format": "HTML"
                         }
@@ -37619,7 +37619,7 @@
             "type": "NOTICE",
             "name": "Päivitä uusi osoite asukaspysäköintitunnukseen",
             "name_synonyms": "Asukaspysäköintitunnuksen osoitteenmuutos",
-            "description": "Voit muuttaa tunnukseen merkittyä osoitettasi sähköisesti verkossa tai ilmoittamalla osoitteenmuutoksesta kaupunkiympäristön asiakaspalveluun. \n\nVoimme muuttaa tunnukseen merkityn osoitteen, kun uusi osoitteesi on päivittynyt väestötietojärjestelmään.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa osoitteen vain asioimalla asiakaspalvelussa. Kimppatunnuksen osoitteenmuutoksen voit tehdä puhelimitse tai asioimalla asiakaspalvelussa.\n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella osoitteella.\n",
+            "description": "Voit muuttaa tunnukseen merkittyä osoitettasi verkossa tai ilmoittamalla osoitteenmuutoksesta kaupunkiympäristön asiakaspalveluun. \n\nVoimme muuttaa tunnukseen merkityn osoitteen, kun uusi osoitteesi on päivittynyt väestötietojärjestelmään.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa osoitteen vain asioimalla asiakaspalvelussa. Kimppatunnuksen osoitteenmuutoksen voit tehdä puhelimitse tai asioimalla asiakaspalvelussa.\n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella osoitteella.\n",
             "processing_time": "Sähköisesti ilmoitetun osoitteenmuutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
             "information": "Jos tunnuksen hinta kallistuu osoitteenmuutoksen vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
@@ -37653,9 +37653,11 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Päivitä osoite",
                     "prerequisites": "",
-                    "process_description": "Asian käsittelyn eteneminen:\n1. Hakija lähettää ilmoituksen asukaspysäköintitunnuksen osoitteenmuutoksesta.\n2. Kaupunkiympäristön asiakaspalvelu käsittelee osoitteenmuutoksen ja tekee tarvittaessa kaupungin taloushallintopalvelulle rahanpalautuspyynnön.\n3. Kaupunkiympäristön asiakaspalvelu ilmoittaa osoitteenmuutoksen vahvistuksesta ja rahanpalautuksesta hakijalle.\n",
+                    "process_description": "",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -37666,8 +37668,14 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Siirry asiointipalveluun",
+                            "type": "INTERNET",
+                            "title": "Päivitä osoite 17.1.2024 tai sen jälkeen ostettuun tunnukseen ",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Päivitä osoite ennen 17.1.2024 ostettuun tunnukseen ",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
                             "file_format": "HTML"
                         }
@@ -37714,7 +37722,9 @@
                     "type_string": "E-services",
                     "name": "Update your address",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -37773,7 +37783,9 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Uppdatera ny adress",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -37807,8 +37819,8 @@
             "type": "NOTICE",
             "name": "Päivitä uusi rekisterinumero asukaspysäköintitunnukseen",
             "name_synonyms": "rekisteritunnuksen muutos",
-            "description": "Voit muuttaa tunnukseen merkityn ajoneuvon rekisterinumeroa sähköisesti verkossa tai ilmoittamalla uuden rekisterinumeron kaupunkiympäristön asiakaspalveluun.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa rekisterinumeron vain asioimalla asiakaspalvelussa. \n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella ajoneuvolla.\n\n",
-            "processing_time": "Sähköisesti ilmoitetun rekisterinumeron muutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
+            "description": "Voit muuttaa tunnukseen merkityn ajoneuvon rekisterinumeroa verkossa tai ilmoittamalla uuden rekisterinumeron kaupunkiympäristön asiakaspalveluun.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa rekisterinumeron vain asioimalla asiakaspalvelussa. \n\nSaat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella ajoneuvolla.\n\n",
+            "processing_time": "Sähköisesti ilmoitetun rekisterinumeron muutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti.",
             "information": "Jos tunnuksen hinta kallistuu ajoneuvon vaihdon vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
                 "en",
@@ -37819,6 +37831,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -37836,22 +37849,28 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Päivitä rekisterinumero",
                     "prerequisites": "",
-                    "process_description": "Asian käsittelyn eteneminen:\n1. Hakija lähettää ilmoituksen asukaspysäköintitunnuksen osoitteenmuutoksesta.\n2. Kaupunkiympäristön asiakaspalvelu käsittelee rekisteritunnuksen muutoksen ja tekee tarvittaessa kaupungin taloushallintopalvelulle rahanpalautuspyynnön.\n3. Kaupunkiympäristön asiakaspalvelu ilmoittaa rekisteritunnuksen muutoksen vahvistuksesta ja rahanpalautuksesta hakijalle.\n",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Siirry asiointipalveluun",
+                            "type": "INTERNET",
+                            "title": "Päivitä rekisterinumero ennen 17.1.2024 ostettuun tunnukseen",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-muutos-rekisteritunnus"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Päivitä rekisterinumero 17.1.2024 tai sen jälkeen ostettuun tunnukseen",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -37879,6 +37898,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -37896,14 +37916,16 @@
                     "type_string": "E-services",
                     "name": "Update your license plate number",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -37938,6 +37960,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -37955,14 +37978,16 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Uppdatera registernummer",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
