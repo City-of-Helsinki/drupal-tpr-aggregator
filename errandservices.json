@@ -19790,7 +19790,7 @@
             "type": "NOTICE",
             "name": "Irtisano asukaspysäköintitunnus",
             "name_synonyms": "asukaspysäköintitunnus,pysäköintilupa, irtisanominen",
-            "description": "Tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden ilmoittamalla irtisanomisesta kaupunkiympäristön asiakaspalveluun tai sähköisesti verkkolomakkeella.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, tunnus irtisanotaan toimittamalla se asiakaspalveluun postitse tai henkilökohtaisesti.",
+            "description": "Tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden ilmoittamalla irtisanomisesta kaupunkiympäristön asiakaspalveluun tai verkossa.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, tunnus irtisanotaan toimittamalla se asiakaspalveluun postitse tai henkilökohtaisesti.",
             "processing_time": "Tunnuksen voimassaolo päättyy sinä päivänä, kun ilmoitat irtisanomisesta tai palautat tunnuksen asiakaspalveluun.",
             "information": "Palautamme rahat etukäteen maksetuista täysistä kuukausista. Jos haluat palautuksen, muista ilmoittaa myös tilinumerosi.",
             "provided_languages": [
@@ -19802,6 +19802,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -19817,7 +19818,7 @@
                     "id": 2763,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Irtisano tunnus",
+                    "name": "Irtisano tunnus, joka on ostettu ennen 17.1.2024",
                     "prerequisites": "",
                     "provided_languages": [
                         "fi"
@@ -19827,13 +19828,41 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
                             "type": "INTERNET",
                             "title": "Siirry asiointipalveluun",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4043,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Irtisano tunnus, joka on ostettu 17.1.2024 tai sen jälkeen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -19862,6 +19891,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -19886,7 +19916,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -19921,6 +19951,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -19945,7 +19976,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -20434,194 +20465,6 @@
                         {
                             "availability_string": "Öppet mån-fre 08-10"
                         }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 4221,
-        "fi": {
-            "id": 4221,
-            "exact_descriptions": [
-                3621
-            ],
-            "service_id": 10090,
-            "type": "APPLICATION",
-            "name": "Jatka asukaspysäköintitunnuksen voimassaoloa",
-            "description": "Voit jatkaa asukaspysäköintitunnuksen voimassaoloa sähköisessä asiointipalvelussa tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa.\n\nJos haluat uusia kimppatunnuksen tai tunnuksen, jossa on kahden ajoneuvon rekisterinumerot, joudut asioimaan paikan päällä kaupunkiympäristön asiakaspalvelussa.\n\nKun jatkat asukaspysäköintitunnuksesi voimassaoloa asiointipalvelussa, ota palvelusta kuitti talteen, jotta tiedät, milloin tunnuksesi voimassaolo päättyy, ja osaat uusia tunnuksen ajoissa. Nykyinen asiointipalvelu sulkeutuu vuoden 2023 lopussa, eikä järjestelmä lähetä ilmoitusta tunnuksen voimassaolon päättymisestä.",
-            "processing_time": "Tunnuksen jatko tulee voimaan heti maksamisen jälkeen. ",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kaupunkiympäristön asiakaspalvelu",
-                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/kaupunkiympariston-asiakaspalvelu"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2615,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Jatka tunnuksen voimassaoloa",
-                    "information": "",
-                    "process_description": "1. Tunnistaudu palveluun verkkopankkitunnuksella tai mobiilivarmenteella.\n2. Asiointipalvelussa näkyy viimeisimmän tunnuksesi tiedot\n3. Valitse jakso, jolle ajalle haluat tunnuksen (1-12 kk)\n4. Maksa tunnus\n5. Halutessasi tulosta itsellesi vahvistus\n",
-                    "authorization_code": "Pysäköintiluvan hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry asiointipalveluun",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pysakointi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4221,
-            "exact_descriptions": [
-                3621
-            ],
-            "service_id": 10090,
-            "type": "APPLICATION",
-            "name": "Extend the validity of a resident parking permit",
-            "description": "You can extend the validity of a resident parking permit through the city's e-services or by visiting the Urban Environment Division's customer service point in person.\n\nIf you would like to renew a shared permit or a permit that includes the registration numbers of two vehicles, you must visit the service point in person.\n",
-            "processing_time": "The extended validity period comes into effect after payment.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Urban Environment Division, Customer Services ",
-                    "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2615,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Extend the validity of a permit",
-                    "authorization_code": "Pysäköintiluvan hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to e-services",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pysakointi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4221,
-            "exact_descriptions": [
-                3621
-            ],
-            "service_id": 10090,
-            "type": "APPLICATION",
-            "name": "Förläng giltighetstiden för boendeparkeringstillståndet",
-            "description": "Du kan förlänga boendeparkeringstillståndets giltighet i e-tjänsten eller personligen hos stadsmiljösektorns kundtjänst.\n\nOm du vill förnya ett grupptillstånd eller ett tillstånd med två fordons registernummer, måste du besöka stadsmiljösektorns kundtjänst.\n",
-            "processing_time": "Förlängningen av tillståndet träder i kraft direkt efter betalningen. ",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Stadsmiljösektorns kundtjänst",
-                    "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2615,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Förläng giltighetstiden för tillståndet",
-                    "authorization_code": "Pysäköintiluvan hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": true,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänst",
-                            "url": "http:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pysakointi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
@@ -34645,11 +34488,11 @@
             ],
             "service_id": 10090,
             "type": "APPLICATION",
-            "name": "Osta asukaspysäköintitunnus ensimmäistä kertaa",
-            "description": "Voit hankkia asukaspysäköintitunnuksen sähköisesti verkkolomakkeella tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa.\n\nJos tarvitset kimppatunnuksen tai tunnuksen, jossa on kahden ajoneuvon rekisterinumerot, joudut asioimaan paikan päällä kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi.\n\n",
+            "name": "Osta asukaspysäköintitunnus",
+            "description": "Voit hankkia asukaspysäköintitunnuksen tai jatkaa sen voimassaoloa verkossa tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa.\n\nJos tarvitset kimppatunnuksen tai haluat jatkaa sen voimassaoloa, joudut asioimaan toistaiseksi paikan päällä kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi tai valita jatkuvan veloituksen, jolloin veloitamme maksun kuukausittain, kunnes irtisanot tunnuksen tai oikeutesi tunnukseen päättyy esimerkiksi muuton takia.\n\n\nVerkossa voit maksaa uuden kauden aikaisintaan kahta viikkoa etukäteen.",
             "process_description": "",
-            "processing_time": "Jos asioit asiakaspalvelussamme, saat tunnuksen heti käyttöösi. Jos haet tunnusta sähköisesti, saat tunnuksen muutamassa arkipäivässä.",
-            "costs": "Asiakaspalvelussa asioidessasi tunnus maksetaan heti. Maksutavat ovat käteinen raha ja korttimaksu",
+            "processing_time": "Tunnus tulee voimaan heti, kun olet maksanut sen.",
+            "costs": "Asiakaspalvelussa asioidessasi tunnus maksetaan heti. Maksutavat ovat käteinen raha ja korttimaksu. Verkossa asioidessasi voit maksaa tunnuksen verkkopankissa, debit-korteilla sekä MasterCard ja Visa -luottokorteilla (Diners Club ja American Express -kortit eivät kelpaa).",
             "provided_languages": [
                 "en",
                 "fi",
@@ -34659,6 +34502,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -34675,24 +34519,25 @@
                     "id": 2740,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hanki asukaspysäköintitunnus",
+                    "name": "Osta asukaspysäköintitunnus",
                     "prerequisites": "",
-                    "process_description": "Kun hakemus on käsitelty, saat sähköpostiisi linkin sähköiseen asiointipalveluun, jossa voit maksaa tunnuksen. Maksun yhteydessä voit valita, kuinka moneksi kuukaudeksi ostat tunnuksen. Tunnus maksetaan sähköisessä asiointipalvelussa verkkopankissa tai korttimaksuna.",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
                             "type": "INTERNET",
                             "title": "Siirry asiointipalveluun",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnus",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -34721,6 +34566,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -34738,14 +34584,16 @@
                     "type_string": "E-services",
                     "name": "Buy a permit",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -34780,6 +34628,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -34797,14 +34646,16 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Köp tillstånd",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
