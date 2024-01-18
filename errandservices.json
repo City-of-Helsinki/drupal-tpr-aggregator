@@ -19818,7 +19818,7 @@
                     "id": 2763,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Irtisano tunnus, joka on ostettu ennen 17.1.2024",
+                    "name": "Irtisano tunnus, joka on ostettu viimeistään 16.1.2024",
                     "prerequisites": "",
                     "provided_languages": [
                         "fi"
@@ -19833,7 +19833,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Irtisano ennen 17.1.2024 ostettu tunnus",
+                            "title": "Irtisano tunnus, joka on ostettu viimeistään 16.1.2024 ",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
                         }
@@ -19845,7 +19845,7 @@
                     "id": 4043,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Irtisano tunnus, joka on ostettu 17.1.2024 tai sen jälkeen",
+                    "name": "Irtisano tunnus, joka on ostettu 17.1.2024 alkaen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -19861,7 +19861,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Irtisano 17.1.2024 tai myöhemmin ostettu tunnus",
+                            "title": "Irtisano tunnus, joka on ostettu 17.1.2024 alkaen",
                             "url": "https:\/\/pysakointitunnukset.hel.fi\/",
                             "file_format": "HTML"
                         }
@@ -19907,7 +19907,7 @@
                     "id": 2763,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Terminate a permit purchased before 17 January 2024",
+                    "name": "Terminate a permit purchased no later than 16 January 2024",
                     "provided_languages": [
                         "fi"
                     ],
@@ -19921,7 +19921,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-services (In Finnish)",
+                            "title": "Terminate a permit purchased no later than 16 January 2024  (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
                         }
@@ -19994,7 +19994,7 @@
                     "id": 2763,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Säg upp tillstånd som är köpts före 17.1.2024",
+                    "name": "Säg upp tillstånd som är köpts senast 16.1.2024",
                     "provided_languages": [
                         "fi"
                     ],
@@ -20008,7 +20008,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Säg upp tillstånd som är köpts före 17.1.2024 (på finska)",
+                            "title": "Säg upp tillstånd som är köpts senast 16.1.2024 (på finska)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
                         }
@@ -29837,6 +29837,86 @@
         }
     },
     {
+        "id": 5461,
+        "fi": {
+            "id": 5461,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, avustus iäkkäiden ihmisten liikkumisen edistämiseksi (UUSI)",
+            "description": "Avustus on harkinnanvarainen erillisavustus, joka kohdennetaan helsinkiläisten iäkkäiden ihmisten hyvinvointia ja toimintakykyä tukevaan, liikkumista edistävään toimintaan. Avustusta voivat hakea yhdistys- ja säätiömuotoiset toimijat.",
+            "process_description": "Avustusta iäkkäiden ihmisten liikkumisen edistämiseksi haetaan alkuvuodesta kyseiselle vuodelle avustukseen osoitetusta valtionperintömäärärahasta.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätöksen avustettavista hankkeista tekee liikuntajaosto.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Avustusta saa käyttää vain avustuspäätöksessä mainittuun tarkoitukseen. Jos avustuspäätöksessä ei ole tarkemmin yksilöity käyttötarkoitusta, avustus on käytettävä hakemuksessa mainittuun tarkoitukseen. Avustuksen käyttö tulee selvittää erillisellä käyttöselvityslomakkeella.",
+            "processing_time": "Päätös iäkkäiden ihmisten liikkumisen edistämisen avustuksista tehdään liikuntajaostossa keväällä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Iäkkäiden liikkumisen edistämisen avustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/avustus-iakkaiden-ihmisten-liikkumisen-edistamiseksi"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4016,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Kulttuuri ja vapaa-aika, iäkkäiden liikkumisen ja kulttuuritoiminnan edistämisen avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.\n",
+                    "information": "Iäkkäiden liikkumisen ja kulttuuritoiminnan edistämisen avustuksen haussa hyödynnettävästä hakulomakkeessa avustusasioinnissa tiedotetaan erikseen.",
+                    "availability_summary": "Palvelu ei saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Avustuslomakkeessa kysytään tietoja hakijaorganisaatiosta. Webropol-lomakkeessa puolestaan kuvataan hankkeen sisältöä, tavoitteita ja toteutusta. Kaikki Webropol-lomakkeen kysymykset koskevat itse hanketta, jolle avustusta haetaan, ei hakijaorganisaation toimintaa yleensä. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/kuvaHarrastus\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu ei saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5451,
         "fi": {
             "id": 5451,
@@ -29915,6 +29995,85 @@
         ]
     },
     {
+        "id": 5449,
+        "fi": {
+            "id": 5449,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, muiden liikuntaa edistävien yhdistysten avustus (UUSI)",
+            "description": "Muiden liikuntaa edistävien yhdistysten avustus on liikuntaseuroille sekä muille liikuntaa järjestäville yhdistyksille suunnattu yleisavustusluonteinen avustus. Avustusta voivat hakea ne seurat ja yhdistykset, jotka eivät ole toiminta-avustuksen piirissä.",
+            "process_description": "Muiden liikuntaa edistävien yhdistysten avustuksen haku on auki kerran vuodessa.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätöksen muiden liikuntaa edistävien yhdistysten avustuksista tekee liikuntajaosto.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen jälkeen yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Muiden liikuntaa edistävien yhdistysten avustus tulee käyttää yhdistyksen yleishyödylliseen liikuntatoimintaan. Avustuksen käyttö selvitetään seuraavan vuoden avustushaun yhteydessä.",
+            "processing_time": "Päätös muiden liikuntaa edistävien yhdistysten avustuksista tehdään liikuntajaostossa vuosittain keväällä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Muiden liikuntaa edistävien yhdistysten avustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/muiden-liikuntaa-edistavien-yhdistysten-avustus"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3999,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta: toiminta- ja tilankäyttöavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Muiden liikuntaa edistävien yhdistysten avustusta haetaan toiminta- ja tilankäyttöavustuslomakkeella. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5453,
         "fi": {
             "id": 5453,
@@ -29983,6 +30142,324 @@
                     "availabilities": [
                         [
                         ]
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5452,
+        "fi": {
+            "id": 5452,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, suunnistuskartta-avustus (UUSI)",
+            "description": "Suunnistuskartta-avustus on liikuntaseuroille suunnattu avustus suunnistuskarttojen valmistuskuluihin.",
+            "process_description": "Suunnistuskartta-avustuksen haku on auki kerran vuodessa alkuvuodesta.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset suunnistuskartta-avustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Suunnistuskartta-avustus myönnetään edellisenä vuonna painettujen suunnistuskarttojen toteutuneiden valmistuskulujen perusteella, joten erillistä selvitystä avustuksen käytöstä ei tarvitse toimittaa, ellei tätä pyydetä erikseen.",
+            "processing_time": "Liikuntapalvelupäällikkö päättää suunnistuskartta-avustusten myöntämisestä keväällä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Suunnistuskartta-avustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-suunnistuskartta-avustus"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4003,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta, suunnistuskartta-avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livKartta\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5450,
+        "fi": {
+            "id": 5450,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, tapahtuma-avustus (UUSI)",
+            "description": "Tapahtuma-avustus on rekisteröidyille yhdistyksille, yrityksille ja yhteisöille suunnattu avustus Helsingin kaupungin alueella järjestettävien, helsinkiläisiä liikuttavien tapahtumien järjestämiseen.",
+            "process_description": "Tapahtuma-avustusta voi hakea ympäri vuoden. Avustusta haetaan sille vuodelle, jolloin tapahtuma järjestetään ja hakemus tulee toimittaa ennen tapahtumaa.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätökset tapahtuma-avustuksista tekee liikuntapalvelupäällikkö.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan hakijayhteisön pankkitilille sen jälkeen, kun tapahtumasta on toimitettu loppuraportti liikuntapalveluihin. Loppuraportti tulee toimittaa viimeistään kaksi kuukautta tapahtuman järjestämisen jälkeen tai kaksi kuukautta tehdyn avustuspäätöksen jälkeen, mikäli päätös on tehty tapahtuman järjestämisajankohdan jälkeen.",
+            "processing_time": "Päätöksiä saapuneista tapahtuma-avustushakemuksista pyritään tekemään noin kerran kuussa.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tapahtuma-avustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/liikunnan-tapahtuma-avustus"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4000,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta, tapahtuma-avustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/livTapahtuma\/?new=1",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5448,
+        "fi": {
+            "id": 5448,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, tilankäyttöavustus (UUSI)",
+            "description": "Tilankäyttöavustus on harkinnanvarainen avustus, jota myönnetään muissa kuin liikuntapalveluiden omissa liikuntatiloissa tapahtuvaan toimintaan. Tilankäyttöavustusta voidaan myöntää niille liikuntaseuroille sekä eläkeläis- ja erityisjärjestöille, joille myönnetään liikunnan toiminta-avustusta samana vuonna.",
+            "process_description": "Tilankäyttöavustuksen haku on auki kerran vuodessa alkuvuodesta.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätöksen tilankäyttöavustuksista tekee liikuntajaosto.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen jälkeen avustuksen saajan ilmoittamin maksuyhteystiedoin. Tilankäyttöavustus tulee käyttää siihen tarkoitukseen, johon sen on myönnetty. Tilankäyttöavustuksen myöntäminen perustuu edellisen vuoden toteutuneeseen tilankäyttöön ja sen kuluihin.",
+            "processing_time": "Päätös tilankäyttöavustuksista tehdään liikuntajaostossa vuosittain keväällä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tilankäyttöavustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-tilankayttoavustus"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3998,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta: toiminta- ja tilankäyttöavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Tilankäyttöavustusta haetaan samalla hakemuksella toiminta-avustuksen kanssa. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5447,
+        "fi": {
+            "id": 5447,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Liikuntapalvelut, toiminta-avustus (UUSI)",
+            "description": "Toiminta-avustus on liikuntaseurojen toimintaan suunnattu yleisavustusluontoinen avustus.",
+            "process_description": "Toiminta-avustuksen haku on auki kerran vuodessa alkuvuodesta.\n\nHakemukset käsitellään liikuntapalvelujen kumppanuus- ja kehittämisyksikössä. Päätöksen toiminta-avustuksista tekee liikuntajaosto.\n\nHakijoita tiedotetaan päätöksestä postitse. Myönnetty avustus maksetaan avustuspäätöksen mukaisesti yhdessä erässä avustuksen saajan ilmoittamin maksuyhteystiedoin. Liikuntaseuroille myönnettyä avustusta voidaan käyttää seuran omasta toiminnasta aiheutuviin kuluihin. Avustus tulee käyttää yhdistyksen yleishyödylliseen toimintaan. Toiminta-avustuksen käyttö selvitetään seuraavan vuoden toiminta-avustushaun yhteydessä.",
+            "processing_time": "Päätös toiminta-avustuksista tehdään liikuntajaostossa vuosittain keväällä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Toiminta-avustuksen tarkemmat myöntämisperusteet",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/liikunnan-toiminta-avustus"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3997,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikunta: toiminta- ja tilankäyttöavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilivarmenteella.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "Tee avustushakemus Helsingin kaupungin avustusasioinnissa ja liitä hakemukselle vaaditut liitteet. Hakemuksen voi tallentaa luonnokseksi, jolloin sitä voi palata täydentämään myöhemmin. Hakemuksen lähettäminen vie hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Hakemuksen käsittelyä voi seurata avustusasioinnissa.\n\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/avustus\/opevIpavustus\/?new=1"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
                     ]
                 }
             ]
@@ -37706,7 +38183,7 @@
                     "id": 2897,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Päivitä osoite",
+                    "name": "Päivitä osoite tunnukseen, joka on ostettu viimeistään 16.1.2024",
                     "prerequisites": "",
                     "process_description": "",
                     "provided_languages": [
@@ -37722,7 +38199,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Päivitä osoite ennen 17.1.2024 ostettuun tunnukseen ",
+                            "title": "Päivitä osoite tunnukseen, joka on ostettu viimeistään 16.1.2024",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
                             "file_format": "HTML"
                         }
@@ -37734,7 +38211,7 @@
                     "id": 4044,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Päivitä osoite",
+                    "name": "Päivitä osoite tunnukseen, joka on ostettu 17.1.2024 alkaen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -37750,7 +38227,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Päivitä osoite 17.1.2024 tai sen jälkeen ostettuun tunnukseen ",
+                            "title": "Päivitä osoite tunnukseen, joka on ostettu 17.1.2024 alkaen",
                             "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
