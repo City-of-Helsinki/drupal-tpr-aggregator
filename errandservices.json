@@ -19879,7 +19879,7 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Terminate a resident parking permit",
-            "description": "The validity of your resident parking permit ends automatically at the end of each payment period if you forget to renew it. You can also terminate the permit in the middle of a payment period if you wish by informing the Urban Environment Division's customer service or submitting an online form.\n\nPermits for two vehicles can be terminated by sending the permit to the customer service point by post or by visiting the point in person.",
+            "description": "The validity of your resident parking permit ends automatically at the end of each payment period if you forget to renew it. You can also terminate the permit in the middle of a payment period if you wish by informing the Urban Environment Division's customer service or terminating it yourself online.\n\nPermits for two vehicles can be terminated by sending the permit to the customer service point by post or by visiting the point in person.",
             "processing_time": "The permit's period of validity ends on the day when you notify our customer service of the termination or return your permit to the customer service point. ",
             "information": "The city will refund any full months you have paid for in advance, if you provide us with your bank account number.",
             "provided_languages": [
@@ -19907,7 +19907,7 @@
                     "id": 2763,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Terminate a permit",
+                    "name": "Terminate a permit purchased before 17 January 2024",
                     "provided_languages": [
                         "fi"
                     ],
@@ -19924,6 +19924,33 @@
                             "title": "Go to e-services (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4043,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Terminate a permit purchased on or after 17 January 2024",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Terminate a permit purchased on or after 17 January 2024",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -34580,10 +34607,10 @@
             ],
             "service_id": 10090,
             "type": "APPLICATION",
-            "name": "Buy your first resident parking permit",
-            "description": "You can apply for a resident parking permit via the city's e-services by filling out an online form or by visiting the Urban Environment Division's customer service point in person.\n\nIf you need a shared permit or a permit that includes the registration numbers of two vehicles, you must visit the customer service point in person. \n\nYou can buy a permit for up to 12 months at a time.\n",
-            "processing_time": "If you visit our customer service point in person, you will receive your permit immediately after you have paid the fee. If you apply for a permit electronically, you will receive your permit in a few",
-            "costs": "You can pay for your resident parking permit with cash or a card in our customer service point.",
+            "name": "Buy a resident parking permit",
+            "description": "You can apply for a resident parking permit or extend it online or by visiting the Urban Environment Division's customer service point in person.\n\nIf you need a shared permit or you wish to extend an existing shared permit, currently you must visit the customer service point in person. \n\nYou can purchase permits for periods of 1-12 months or select rolling charging, whereby we will charge you a monthly fee each month until you terminate your permit or your right to a permit ends, due to you moving, for example. \nYou can pay for a new period no more than two weeks in advance online.\n",
+            "processing_time": "A permit will become valid as soon as you have paid for it.",
+            "costs": "You can pay for your resident parking permit with cash or by card at our customer service point. Online, you can pay for a permit using your online banking service or with a debit card or a MasterCard or Visa credit card (Diners Club and American Express cards are not accepted).",
             "provided_languages": [
                 "en",
                 "fi",
@@ -34625,8 +34652,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-services (In Finnish)",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnus",
+                            "title": "Go to e-services",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -37740,8 +37767,8 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Update the address on a resident parking permit",
-            "description": "You can change the address on your permit with an online form or by notifying the Urban Environment Division's customer service of your change of address. \n\nWe will change the address on your permit once your address has been updated in the Finnish Population Information System.\n\nYou must visit the customer service point to change the address on permits for two vehicles. The address on a shared permit can be changed by calling or visiting the customer service point.\n",
-            "processing_time": "The processing period for an online notification of change of address is a few weekdays. If you report an address change by phone or in person at the customer service, it enters into force immediately",
+            "description": "You can change the address on your permit using our online form or by notifying the Urban Environment Division's customer service of your change of address. \n\nWe will change the address on your permit once your address has been updated in the Finnish Population Information System.\n\nYou must visit the customer service point to change the address on permits for two vehicles. The address on a shared permit can be changed by calling or visiting the customer service point.\n",
+            "processing_time": "The processing time for an online notification of change of address is a few weekdays. If you report an address change by phone or in person, it will enter into force immediately.",
             "information": "If the price of your permit increases because of a change of address, we will refund the money paid for full months in advance and create a new permit for you. If the price decreases, we will refund the difference between the old and new price for the months paid in advance.",
             "provided_languages": [
                 "en",
@@ -37782,9 +37809,36 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-services (In Finnish)",
+                            "title": "Update your address for a permit purchased before 17 January 2024 (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4044,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Update your address",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Update your address for a permit purchased on or after 17 January 2024",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -37828,7 +37882,7 @@
                     "id": 2897,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Uppdatera ny adress",
+                    "name": "Uppdatera adress",
                     "provided_languages": [
                         "fi"
                     ],
@@ -37854,7 +37908,7 @@
                     "id": 4044,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Uppdatera ny adressen",
+                    "name": "Uppdatera adressen",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -37978,8 +38032,8 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Update your license plate number on a resident parking permit",
-            "description": "You can change the license plate number on your permit with an online form or by notifying the Urban Environment Division's customer service of the new number.\n\nPermits for two vehicles can only be changed by visiting our customer service point.",
-            "processing_time": "The processing period of a license plate number change submitted online is a few weekdays. If you report an address change by phone or at the customer service, it enters into force immediately.",
+            "description": "You can change the license plate number on your permit online or by notifying the Urban Environment Division's customer service of the new number.\n\nPermits for two vehicles can only be changed by visiting our customer service point.",
+            "processing_time": "The processing period for a license plate number change submitted online is a few weekdays. If you report an address change by phone or at the customer service, it will enter into force immediately.",
             "information": "If the price of your permit increases because of a change of vehicle, we will refund the money paid for full months in advance and create a new permit for you. If the price decreases, we will refund the difference between the old and new price for the months paid in advance.",
             "provided_languages": [
                 "en",
@@ -38020,9 +38074,36 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-services (In Finnish)",
+                            "title": "Update the registration plate number for permits purchased before 17 January 2024  (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-muutos-rekisteritunnus",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4045,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Update your license plate number",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Update the license plate number for permits purchased on or after 17 January 2024",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
