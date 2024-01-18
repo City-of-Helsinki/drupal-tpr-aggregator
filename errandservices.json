@@ -19939,7 +19939,7 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Säg upp tillstånd för boendeparkering",
-            "description": "Tillståndets giltighetstid upphör automatiskt när betalningsperioden tar slut. Om du vill kan du säga upp tillståndet mitt i betalningsperioden genom att meddela om uppsägningen till stadsmiljösektorns kundtjänst eller elektroniskt med webblanketten.\n\nOm tillståndet innehåller uppgifter för två fordon, sägs tillståndet upp genom att leverera det till kundtjänsten per post eller personligen.\n\n",
+            "description": "Tillståndets giltighetstid upphör automatiskt när betalningsperioden tar slut. Om du vill kan du säga upp tillståndet mitt i betalningsperioden genom att meddela om uppsägningen till stadsmiljösektorns kundtjänst eller via nätet.\n\nOm tillståndet innehåller uppgifter för två fordon, sägs tillståndet upp genom att leverera det till kundtjänsten per post eller personligen.\n\n",
             "processing_time": "Tillståndet slutar gälla samma dag som du meddelar om uppsägningen eller lämnar tillbaka tillståndet till kundtjänsten. ",
             "information": "Vi betalar tillbaka pengarna för de månader som betalats på förhand. Kom ihåg att även meddela ditt kontonummer om du vill ha återbetalningen.",
             "provided_languages": [
@@ -19967,7 +19967,7 @@
                     "id": 2763,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Säg upp tillstånd",
+                    "name": "Säg upp tillstånd som är köpts före 17.1.2024",
                     "provided_languages": [
                         "fi"
                     ],
@@ -19981,9 +19981,36 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten (på finska)",
+                            "title": "Säg upp tillstånd som är köpts före 17.1.2024 (på finska)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4043,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Säg upp tillstånd som köpts 17.1.2024 eller senare",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Säg upp tillstånd som köpts 17.1.2024 eller senare",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -34615,10 +34642,10 @@
             ],
             "service_id": 10090,
             "type": "APPLICATION",
-            "name": "Köp tillstånd för boendeparkering för första gången",
-            "description": "Du kan skaffa tillstånd för boendeparkering elektroniskt med webblankett eller personligen hos stadsmiljösektorns kundtjänst.\n\nOm du behöver ett grupptillstånd eller ett tillstånd med två fordons registernummer, måste du besöka stadsmiljösektorns kundtjänst.\n \nDu kan köpa tillståndet för 1-12 månader.\n",
-            "processing_time": "Om du ansöker om tillståndet i vår kundtjänst, får du ta det i bruk direkt. Om du ansöker om tillståndet elektroniskt, får du tillståndet inom några vardagar.",
-            "costs": "Om du ansöker om tillståndet i vår kundtjänst, betalas tillståndet genast. Du kan betala med kontanter och kort.",
+            "name": "Köp tillstånd för boendeparkering",
+            "description": "Du kan skaffa tillstånd för boendeparkering eller förlänga dess giltighetstid via nätet eller personligen hos stadsmiljösektorns kundtjänst.\n\nOm du behöver ett grupptillstånd eller vill förlänga dess giltighetstid, måste du tills vidare besöka stadsmiljösektorns kundtjänst.\n\nDu kan köpa tillståndet för 1-12 månader eller välja kontinuerlig debitering, så att vi debiterar avgiften månadsvis tills du säger upp tillståndet eller din rätt till det upphör exempelvis på grund av att du flyttar.\n\nDu kan betala för en ny period via nätet tidigast två veckor i förväg.\n",
+            "processing_time": "Tillståndet träder i kraft direkt när du har betalat för det.",
+            "costs": "Om du ansöker om tillståndet i vår kundtjänst, betalas tillståndet genast. Du kan betala med kontanter och kort. Om du betalar via nätet kan du betala för tillståndet via nätbanken, med debitkort samt med MasterCard- och Visa-kreditkort (Diners Club- och American Express-kort fungerar inte).",
             "provided_languages": [
                 "en",
                 "fi",
@@ -34660,8 +34687,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten (på finska)",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnus"
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -37631,6 +37658,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -37655,6 +37683,32 @@
                     "prerequisites": "",
                     "process_description": "",
                     "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Päivitä osoite ennen 17.1.2024 ostettuun tunnukseen ",
+                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4044,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Päivitä osoite",
+                    "provided_languages": [
                         "en",
                         "fi",
                         "sv"
@@ -37664,20 +37718,13 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
                             "type": "INTERNET",
                             "title": "Päivitä osoite 17.1.2024 tai sen jälkeen ostettuun tunnukseen ",
-                            "url": "https:\/\/pysakointitunnukset.hel.fi\/",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Päivitä osoite ennen 17.1.2024 ostettuun tunnukseen ",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
-                            "file_format": "HTML"
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -37705,6 +37752,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -37722,16 +37770,14 @@
                     "type_string": "E-services",
                     "name": "Update your address",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
+                        "fi"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -37754,7 +37800,7 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Ange en ny adress för boendeparkeringstillståndet",
-            "description": "Du kan ändra din adress på tillståndet elektroniskt med webblanketten eller genom att meddela om adressändringen till stadsmiljösektorns kundtjänst. \n\nVi kan ändra adressen på tillståndet när den nya adressen har uppdaterats i befolkningsdatasystemet.\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra adressen genom att besöka kundtjänsten. För grupptillstånd kan du göra adressändringen per telefon eller genom att besöka kundtjänsten.\n\n\n\n",
+            "description": "Du kan ändra registernumret för ett fordon som är registrerat på tillståndet via nätet eller genom att anmäla det nya registernumret till stadsmiljösektorns kundtjänst. \n\nVi kan ändra adressen på tillståndet när den nya adressen har uppdaterats i befolkningsdatasystemet.\n\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra adressen genom att besöka kundtjänsten. För grupptillstånd kan du göra adressändringen per telefon eller genom att besöka kundtjänsten.\n\n\n\n",
             "processing_time": "Handläggningstiden för elektroniskt meddelade adressändringar är några vardagar. Ändringar som anmäls i kundtjänsten eller per telefon träder genast i kraft.",
             "information": "Om tillståndets pris blir dyrare på grund av adressändringen, betalar vi tillbaka pengarna för de månader som du betalat på förhand och gör ett nytt tillstånd till dig. Om priset blir billigare, betalar vi tillbaka skillnaden mellan det gamla och det nya priset för de månader som du betalat på förhand.",
             "provided_languages": [
@@ -37766,6 +37812,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -37783,6 +37830,32 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Uppdatera ny adress",
                     "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Uppdatera adressen för ett tillstånd som köpts före 17.1.2024 (på finska)",
+                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4044,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Uppdatera ny adressen",
+                    "provided_languages": [
                         "en",
                         "fi",
                         "sv"
@@ -37792,14 +37865,13 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten (på finska)",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
-                            "file_format": "HTML"
+                            "title": "Uppdatera adressen för ett tillstånd som köpts 17.1.2024 eller senare",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -37850,9 +37922,7 @@
                     "name": "Päivitä rekisterinumero",
                     "prerequisites": "",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
+                        "fi"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -37866,7 +37936,29 @@
                             "type": "INTERNET",
                             "title": "Päivitä rekisterinumero ennen 17.1.2024 ostettuun tunnukseen",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-muutos-rekisteritunnus"
-                        },
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4045,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Päivitä rekisterinumero",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
                         {
                             "type": "INTERNET",
                             "title": "Päivitä rekisterinumero 17.1.2024 tai sen jälkeen ostettuun tunnukseen",
@@ -37916,9 +38008,7 @@
                     "type_string": "E-services",
                     "name": "Update your license plate number",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
+                        "fi"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -37948,7 +38038,7 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Ange ett nytt registernummer för boendeparkeringstillståndet",
-            "description": "Du kan ändra registernumret för ett fordon som är registrerat på tillståndet elektroniskt med webblanketten eller genom att anmäla det nya registernumret till stadsmiljösektorns kundtjänst.\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra registernumret genom att besöka kundtjänsten.",
+            "description": "Du kan ändra registernumret för ett fordon som är registrerat på tillståndet via nätet eller genom att anmäla det nya registernumret till stadsmiljösektorns kundtjänst.\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra registernumret genom att besöka kundtjänsten.",
             "processing_time": "Handläggningstiden för elektroniskt meddelade ändringar av registernummer är några vardagar. Ändringar som anmäls i kundtjänsten eller per telefon träder genast i kraft. ",
             "information": "Om tillståndets pris blir dyrare på grund av ändringen, betalar vi tillbaka pengarna för de månader som du betalat på förhand och gör ett nytt tillstånd till dig. Om priset blir billigare, betalar vi tillbaka skillnaden mellan det gamla och det nya priset för de månader som du betalat på förhand.",
             "provided_languages": [
@@ -37978,6 +38068,32 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Uppdatera registernummer",
                     "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Uppdatera registernumret för ett tillstånd som köpts före 17.1.2024 (på finska)",
+                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-muutos-rekisteritunnus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4045,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Uppdatera registernummer",
+                    "provided_languages": [
                         "en",
                         "fi",
                         "sv"
@@ -37992,9 +38108,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten (på finska)",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-muutos-rekisteritunnus",
-                            "file_format": "HTML"
+                            "title": "Uppdatera registernumret för ett tillstånd som köpts 17.1.2024 eller senare",
+                            "url": "https:\/\/pysakointitunnukset.hel.fi\/"
                         }
                     ],
                     "availabilities": [
