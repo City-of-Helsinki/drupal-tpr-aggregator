@@ -19879,7 +19879,7 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Terminate a resident parking permit",
-            "description": "The validity of your resident parking permit ends automatically at the end of each payment period if you forget to renew it. You can also terminate the permit in the middle of a payment period if you wish by informing the Urban Environment Division's customer service or terminating it yourself online.\n\nPermits for two vehicles can be terminated by sending the permit to the customer service point by post or by visiting the point in person.",
+            "description": "The validity of your resident parking permit ends automatically at the end of each payment period. You can also terminate the permit in the middle of a payment period if you wish by informing the Urban Environment Division's customer service or terminating it yourself online.\n\nPermits for two vehicles can be terminated by sending the permit to the customer service point by post or by visiting the point in person.",
             "processing_time": "The permit's period of validity ends on the day when you notify our customer service of the termination or return your permit to the customer service point. ",
             "information": "The city will refund any full months you have paid for in advance, if you provide us with your bank account number.",
             "provided_languages": [
@@ -35085,7 +35085,7 @@
             "service_id": 10090,
             "type": "APPLICATION",
             "name": "Buy a resident parking permit",
-            "description": "You can apply for a resident parking permit or extend it online or by visiting the Urban Environment Division's customer service point in person.\n\nIf you need a shared permit or you wish to extend an existing shared permit, currently you must visit the customer service point in person. \n\nYou can purchase permits for periods of 1-12 months or select rolling charging, whereby we will charge you a monthly fee each month until you terminate your permit or your right to a permit ends, due to you moving, for example. \nYou can pay for a new period no more than two weeks in advance online.\n",
+            "description": "You can apply for a resident parking permit or extend it online or by visiting the Urban Environment Division's customer service point in person.\n\nIf you need a shared permit or you wish to extend an existing shared permit, currently you must visit the customer service point in person. \n\nYou can purchase permits for periods of 1-12 months or select rolling charging, whereby we will charge you a monthly fee each month until you terminate your permit or your right to a permit ends, due to you moving, for example. \n\nYou can pay for a new period no more than two weeks in advance online.\n",
             "processing_time": "A permit will become valid as soon as you have paid for it.",
             "costs": "You can pay for your resident parking permit with cash or by card at our customer service point. Online, you can pay for a permit using your online banking service or with a debit card or a MasterCard or Visa credit card (Diners Club and American Express cards are not accepted).",
             "provided_languages": [
@@ -38150,8 +38150,8 @@
             "type": "NOTICE",
             "name": "Päivitä uusi osoite asukaspysäköintitunnukseen",
             "name_synonyms": "Asukaspysäköintitunnuksen osoitteenmuutos",
-            "description": "Voit muuttaa tunnukseen merkittyä osoitettasi verkossa tai ilmoittamalla osoitteenmuutoksesta kaupunkiympäristön asiakaspalveluun. \n\nVoimme muuttaa tunnukseen merkityn osoitteen, kun uusi osoitteesi on päivittynyt väestötietojärjestelmään.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa osoitteen vain asioimalla asiakaspalvelussa. Kimppatunnuksen osoitteenmuutoksen voit tehdä puhelimitse tai asioimalla asiakaspalvelussa.\n\nAsiakaspalvelu käsittelee muutospyynnön noin kahdessa arkipäivässä. Saat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella osoitteella.\n",
-            "processing_time": "Sähköisesti ilmoitetun osoitteenmuutoksen käsittelyaika on muutama arkipäivä. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
+            "description": "Voit muuttaa tunnukseen merkittyä osoitettasi verkossa tai ilmoittamalla osoitteenmuutoksesta kaupunkiympäristön asiakaspalveluun. \n\nVoimme muuttaa tunnukseen merkityn osoitteen, kun uusi osoitteesi on päivittynyt väestötietojärjestelmään.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa osoitteen vain asioimalla asiakaspalvelussa. Kimppatunnuksen osoitteenmuutoksen voit tehdä puhelimitse tai asioimalla asiakaspalvelussa.\n",
+            "processing_time": "Sähköisesti ilmoitetun osoitteenmuutoksen käsittelyaika on noin kaksi arkipäivää. Saat ilmoituksen, kun muutos on päivittynyt. Asiakaspalvelussa tai puhelimitse ilmoitettu muutos tulee voimaan heti. ",
             "information": "Jos tunnuksen hinta kallistuu osoitteenmuutoksen vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
                 "en",
@@ -38272,7 +38272,7 @@
                     "id": 2897,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Update your address",
+                    "name": "Update your address for a permit purchased no later than 16 January 2024 (In Finnish)",
                     "provided_languages": [
                         "fi"
                     ],
@@ -38286,7 +38286,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Update your address for a permit purchased before 17 January 2024 (In Finnish)",
+                            "title": "Update your address for a permit purchased no later than 16 January 2024 (In Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
                             "file_format": "HTML"
                         }
@@ -38331,7 +38331,7 @@
             "service_id": 10090,
             "type": "NOTICE",
             "name": "Ange en ny adress för boendeparkeringstillståndet",
-            "description": "Du kan ändra registernumret för ett fordon som är registrerat på tillståndet via nätet eller genom att anmäla det nya registernumret till stadsmiljösektorns kundtjänst. \n\nVi kan ändra adressen på tillståndet när den nya adressen har uppdaterats i befolkningsdatasystemet.\n\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra adressen genom att besöka kundtjänsten. För grupptillstånd kan du göra adressändringen per telefon eller genom att besöka kundtjänsten.\n\n\n\n",
+            "description": "Du kan ändra din adress på tillståndet via nätet eller genom att meddela om adressändringen till stadsmiljösektorns kundtjänst.\n\nVi kan ändra adressen på tillståndet när den nya adressen har uppdaterats i befolkningsdatasystemet.\n\nOm tillståndet innehåller uppgifter för två fordon kan du bara ändra adressen genom att besöka kundtjänsten. För grupptillstånd kan du göra adressändringen per telefon eller genom att besöka kundtjänsten.",
             "processing_time": "Handläggningstiden för elektroniskt meddelade adressändringar är några vardagar. Ändringar som anmäls i kundtjänsten eller per telefon träder genast i kraft.",
             "information": "Om tillståndets pris blir dyrare på grund av adressändringen, betalar vi tillbaka pengarna för de månader som du betalat på förhand och gör ett nytt tillstånd till dig. Om priset blir billigare, betalar vi tillbaka skillnaden mellan det gamla och det nya priset för de månader som du betalat på förhand.",
             "provided_languages": [
@@ -38359,7 +38359,7 @@
                     "id": 2897,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Uppdatera adress",
+                    "name": "Uppdatera adressen för ett tillstånd som köpts senast 16.1.2024",
                     "provided_languages": [
                         "fi"
                     ],
@@ -38373,7 +38373,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Uppdatera adressen för ett tillstånd som köpts före 17.1.2024 (på finska)",
+                            "title": "Uppdatera adressen för ett tillstånd som köpts senast 16.1.2024 (på finska)",
                             "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-osoitteenmuutos",
                             "file_format": "HTML"
                         }
