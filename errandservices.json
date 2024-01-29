@@ -48566,6 +48566,68 @@
         }
     },
     {
+        "id": 5483,
+        "fi": {
+            "id": 5483,
+            "exact_descriptions": [
+                5036
+            ],
+            "service_id": 10292,
+            "type": "NOTICE",
+            "name": "Tee vikailmoitus ulkovalaistuksesta",
+            "description": "Ulkovalaistuksen vikailmoituksen voit tehdä vikailmoituslomakkeella tai olemalla yhteydessä kaupunkiympäristön asiakaspalveluun.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4047,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee vikailmoitus ulkovalaistuksesta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry asiointipalveluun",
+                            "url": "https:\/\/kymp.keyuv.keypro.fi\/fi\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5096,
         "fi": {
             "id": 5096,
