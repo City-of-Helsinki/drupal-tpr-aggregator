@@ -35546,7 +35546,9 @@
             "type": "ADVICE",
             "name": "Ota yhteyttä Eteläisen suurpiirin Stadiluotsiin",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -35580,10 +35582,97 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5181,
+            "exact_descriptions": [
+                9192
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the borough liaison of Southern major district",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3612,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of Southern major district",
+                    "email": "lotta.jaattela@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5181,
+            "exact_descriptions": [
+                9192
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i södra stordistriktet",
+            "name_synonyms": "södra stadslotsen",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3612,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Kontakta stadslotsen i södra stordistriktet",
+                    "email": "lotta.jaattela@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5086,
@@ -35597,7 +35686,9 @@
             "name": "Ota yhteyttä Itäisen suurpiirin Stadiluotsiin",
             "description": "",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -35631,10 +35722,96 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5086,
+            "exact_descriptions": [
+                9187
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the Borough liaison of Eastern major district and Östersundom",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3606,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of Eastern major district and Östersundom",
+                    "email": "marjaana.jaranne@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5086,
+            "exact_descriptions": [
+                9187
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i östra stordistriktet och Östersundom",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3606,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Kontakta stadslotsen i östra stordistriktet och Östersundom",
+                    "email": "marjaana.jaranne@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5156,
@@ -35647,7 +35824,9 @@
             "type": "ADVICE",
             "name": "Ota yhteyttä Kaakkoisen suurpiirin ja Vuosaaren Stadiluotsiin",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -35681,10 +35860,95 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5156,
+            "exact_descriptions": [
+                9194
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the borough liason of South-Eastern major distirct and Vuosaari",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3627,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of North-Eastern major district",
+                    "email": "johannes.jauhiainen@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5156,
+            "exact_descriptions": [
+                9194
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i sydöstra distriktet och Nordsjö",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3627,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "johannes.jauhiainen@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5118,
@@ -35944,7 +36208,9 @@
             "type": "ADVICE",
             "name": "Ota yhteyttä Keskisen alueen Stadiluotsiin",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -35978,10 +36244,96 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5155,
+            "exact_descriptions": [
+                9190
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the Borough liaison of Central major district",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3602,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of Central major district",
+                    "email": "gritten.naams@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5155,
+            "exact_descriptions": [
+                9190
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i mellersta stordistriktet",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3602,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Kontakta stadslotsen i mellersta stordistriktet",
+                    "email": "gritten.naams@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5154,
@@ -35994,7 +36346,9 @@
             "type": "ADVICE",
             "name": "Ota yhteyttä Koillisen suurpiirin Stadiluotsiin",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -36028,10 +36382,96 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5154,
+            "exact_descriptions": [
+                9193
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the borough liaison of North-Eastern major district",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3577,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of North-Eastern major district",
+                    "email": "kirsti.kallansalo@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5154,
+            "exact_descriptions": [
+                9193
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i nordöstra stordistriktet",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3577,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Kontakta stadslots i nordöstra stordistriktet",
+                    "email": "kirsti.kallansalo@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5158,
@@ -36044,7 +36484,9 @@
             "type": "ADVICE",
             "name": "Ota yhteyttä Läntisen alueen Stadiluotsiin",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -36078,10 +36520,95 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5158,
+            "exact_descriptions": [
+                9188
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the borough liaison of Western major district",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3641,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of Western major district",
+                    "email": "laura.paivapuro@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5158,
+            "exact_descriptions": [
+                9188
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i västra stordistriktet",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3641,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "laura.paivapuro@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5157,
@@ -36094,7 +36621,9 @@
             "type": "ADVICE",
             "name": "Ota yhteyttä Pohjoisen suurpiirin ja Kaarelan Stadiluotsiin",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "421399be-a090-4298-8745-ab4899873308"
@@ -36128,10 +36657,96 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5157,
+            "exact_descriptions": [
+                9189
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Contact the Borough liaison of Northern major district and Kaarela",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3616,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact the Borough liaison of Northern major district and Kaarela",
+                    "email": "elina.pentikainen@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5157,
+            "exact_descriptions": [
+                9189
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Kontakta stadslotsen i norra stordistriktet och Kårböle",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3616,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Kontakta stadslots i norra stordistriktet och Kårböle",
+                    "email": "elina.pentikainen@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5467,
@@ -39978,7 +40593,7 @@
                     "id": 3364,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lähetä sähköpostia Seniori-infoon",
+                    "name": "Lähetä sähköpostia Seniori-infoon (sähköposti ei ole turvattu, joten älä sisällytä viestiisi henkilötunnisteita)",
                     "email": "seniori.info@hel.fi",
                     "provided_languages": [
                     ],
@@ -40094,7 +40709,7 @@
                     "id": 3364,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "Send email to Senior Info",
+                    "name": "Send email to Senior Info (this address is not secure, so please do not include personal identifiers in your message)",
                     "email": "seniori.info@hel.fi",
                     "provided_languages": [
                     ],
@@ -40209,7 +40824,7 @@
                     "id": 3364,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "Skicka e-post till Seniorinfo",
+                    "name": "Skicka e-post till Seniorinfo (denna adress är inte säker så inkludera inga personuppgifter i ditt meddelande)",
                     "email": "seniori.info@hel.fi",
                     "provided_languages": [
                     ],
