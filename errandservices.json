@@ -4717,7 +4717,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Hae aloittamisoikeutta",
-            "description": "Jos et ole hakenut aloittamisoikeutta varsinaisen lupahakemuksen yhteydessä, lähetä hakemus ja alkuperäinen vakuusasiakirja alueen lupasihteerille. Löydät alueen lupasihteerin sähköpostiosoitteen karttapalvelusta.",
+            "description": "Aloittamisoikeutta voi hakea varsinaisen lupahakemuksen yhteydessä tai erillisellä hakemuksella.\n\nJos haet aloittamisoikeutta varsinaisen lupahakemuksen yhteydessä, lisää Lupapisteessä täytetty aloittamisoikeuslomake hakemuksen liitteisiin ja kirjoita hakevasi aloittamisoikeutta myös hankekuvauksessa.\n\nJos et ole hakenut aloittamisoikeutta varsinaisen lupahakemuksen yhteydessä, lähetä hakemus ja alkuperäinen vakuusasiakirja alueen lupa-assistentille. Löydät alueen lupa-assistentin sähköpostiosoitteen karttapalvelusta. Aloittamisoikeutta tulee hakea viimeistään 14 päivän kuluessa hankkeen lupapäätöksen valitusajan päättymisestä.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8360,6 +8360,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3905,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a placement agreement",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (in Finnish)",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -8390,6 +8417,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3905,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om placeringsavtal",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
