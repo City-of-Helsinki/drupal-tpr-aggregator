@@ -122,7 +122,7 @@
             "name": "Anmälan till morgonverksamheten i Wilma",
             "name_synonyms": "Wilma",
             "description": "Wilma används för kommunikation mellan hem och skola. Användarnamn för Wilma får du av skolan. Du kan anmäla ditt barn till morgonverksamheten tidigast i augusti, när läsåret har börjat.",
-            "process_description": "Du kan anmäla ditt barn till morgonverksamheten i augusti, när läsåret har börjat och skolans scheman har blivit klara\n\nSå anmäler du ditt barn till morgonverksamheten i Wilma:\n\n1. Logga in i Wilma. Om du har fler än ett barn i Wilma, välj det barn som du vill anmäla till morgonverksamheten.\n2. Välj \"Ansökningar och beslut\" i övre menyn i Wilma\n3. Välj \"Gör en ny ansökan\"\n4. Välj \"Anmälan till morgonverksamheten\"\n5. Fyll i uppgifterna i ansökan och spara.\n\nNär du har anmält ditt barn till morgonverksamheten i enlighet med instruktionerna ovan, får du närmare information om arrangemangen för morgonverksamheten av skolan.\n",
+            "process_description": "Du kan anmäla ditt barn till morgonverksamheten i augusti, när läsåret har börjat och skolans scheman har blivit klara\n\nSå anmäler du ditt barn till morgonverksamheten i Wilma:\n\n1. Logga in i Wilma. Om du har fler än ett barn i Wilma, välj det barn som du vill anmäla till morgonverksamheten.\n2. Välj \"Ansökningar och beslut\" i övre menyn i Wilma\n3. Välj \"Gör en ny ansökan\"\n4. Välj \"Anmälan till morgonverksamheten\"\n5. Fyll i uppgifterna i ansökan och spara.\n\nNär du har anmält ditt barn till morgonverksamheten i enlighet med instruktionerna ovan, får du närmare information om arrangemangen för morgonverksamheten av skolan.",
             "costs": "Morgonverksamheten är avgiftsfri.",
             "provided_languages": [
                 "fi",
@@ -37808,7 +37808,7 @@
             "type": "APPLICATION",
             "name": "Perusopetuksen iltapäivätoimintaan hakeminen",
             "name_synonyms": "Hakulomake iltapäivätoimintaan",
-            "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toiminta on maksullista ja sitä toteutetaan perusopetuslain mukaisesti.\n\n2 - Palvelukartalta voi etsiä sopivaa iltapäivätoimintapaikkaa hakusanalla: iltapäivätoiminta.\n\n3 - Hakulomake täytetään verkossa ja allekirjoitetaan vahvalla tunnistautumisella. Jos ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.\n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja. Huoltajaan ollaan yhteydessä, jos lapselle järjestyy paikka alueen iltapäivätoiminnasta.\n\n",
+            "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toiminta on maksullista.\n\n2 - Iltapäivätoimintapaikkoja voi etsiä ja niihin tutustua sivulla hel.fi\/iltapaivatoimintapaikat tai Palvelukartalla hakusanalla iltapäivätoiminta.\n\n3 - Iltapäivätoimintaan haetaan ensisijaisesti Wilmassa. Jos huoltajalla ei ole vielä Wilma-tunnusta, ohjeet tunnuksen tekemiseen löytyvät: hel.fi\/wilma. \nHakeminen Wilmassa: Hakulomake on kohdassa \"Hakemukset ja päätökset\". Valitse \"Tee uusi hakemus\". Valitse \"Iltapäivätoimintaan hakeminen\". Täytä hakemuksen tiedot ja tallenna tiedot. \n\nJos ei ole mahdollisuutta täyttää hakulomaketta Wilmassa, toimintaan voi hakea myös paperilomakkeella. \n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja. Huoltajaan ollaan yhteydessä, jos lapselle järjestyy paikka alueen iltapäivätoiminnasta.",
             "costs": "Maksut\nIltapäivätoiminnan maksu määräytyy sen mukaan, osallistuuko lapsesi toimintaan klo 16 vai klo 17 saakka. Maksuun sisältyy välipala sekä vakuutus.\n\nJos lapsesi on toiminnassa klo 16.00 saakka, maksu on 100 euroa \/ kuukausi.\nJos lapsesi on toiminnassa klo 17.00 saakka, maksu on 120 euroa \/ kuukausi.",
             "information": "Hakuaika iltapäivätoimintaan lukuvuodelle 2024-2025 on 11.3.-17.4.2024. \n\nPaikkoja jaettaessa ei ole merkitystä sillä, mihin aikaan hakuajan sisällä hakemus on lähetetty.",
             "provided_languages": [
@@ -37829,6 +37829,11 @@
                     "type": "INTERNET",
                     "title": "Iltapäivätoimintapaikat palvelukartalla",
                     "url": "https:\/\/palvelukartta.hel.fi\/fi\/search?q=iltap%C3%A4iv%C3%A4toiminta"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Iltapäivätoimintapaikat",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/aamu-ja-iltapaivatoiminta-kerhot-ja-harrastukset\/iltapaivatoiminta\/iltapaivatoimintapaikat"
                 }
             ],
             "channels": [
@@ -37836,9 +37841,9 @@
                     "id": 2943,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Sähköinen hakulomake perusopetuksen iltapäivätoimintaan",
+                    "name": "Iltapäivätoimintaan hakeminen Wilmassa",
                     "prerequisites": "Perusopetuksen iltapäivätoimintaan voivat hakea 1.-2. -vuosiluokkien oppilaat sekä kaikkien vuosiluokkien osalta erityistä tukea saavat oppilaat.",
-                    "process_description": "1. Iltapäivätoimintaan haetaan 11.3.-17.4.2024. Hakuajan ulkopuolella katso viimeinen kohta.\n\n2. Lomake täytetään verkossa. Huoltajaa, jonka verkkopankkitunnuksia on käytetty tunnistautumiseen ja lomakkeen täyttämiseen, pidetään laskun maksavana huoltajana.\n\n3. Täytä lomake huolellisesti. Jos lomakkeelta puuttuu pakollisia tietoja sitä ei voi lähettää.\n\n4. Lomaketta lähetettäessä pyydetään tunnistautumaan verkkopankkitunnuksella, mobiilivarmenteella tai sirullisella henkilökortilla. Tunnistautuminen toimii lomakkeen allekirjoituksena.\n\n5. Hakuajan ulkopuolella hakemukset koulujen iltapäivätoimintaan toimitetaan osoitteeseen Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki.\n",
+                    "process_description": "",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -37854,8 +37859,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Sähköinen hakulomake perusopetuksen iltapäivätoimintaan lukuvuodelle 2023-2024",
-                            "url": "https:\/\/lomake.hel.fi\/iltapaivatoiminta"
+                            "title": "Siirry Wilman kirjautumissivulle.",
+                            "url": "https:\/\/helsinki.inschool.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -37867,7 +37872,7 @@
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tulostettava hakulomake perusopetuksen iltapäivätoimintaan",
                     "information": "Jos sinulla ei ole mahdollisuutta täyttää verkkolomaketta, toimintaan voi hakea myös paperilomakkeella.",
-                    "process_description": "Paperisen hakemuksen voi postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon osoitteeseen Töysänkatu 2 D, 00510 Helsinki.",
+                    "process_description": "Paperisen hakemuksen voi postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon nimikoidussa kirjekuoressa osoitteeseen Työpajankatu 8, 00580 Helsinki.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37901,7 +37906,7 @@
             "service_id": 10104,
             "type": "APPLICATION",
             "name": "Applying to basic education after-school activities",
-            "process_description": "1 - The application period for the after-school activities is in the spring. The activities are subject to a fee and provided under the Basic Education Act.\n\n2 - You can use the Service Map to search for a suitable after-school activity by entering the following search word: after-school activities.\n\n3 - Complete the application form online and sign it by using strong identification. If you cannot use the online form, apply with a paper form.\n\n4 - If you apply during the application period, we will post the decision in July. \n\n5 - Applications arriving after the application period will be processed depending on the available places during the school year. We do not answer status inquiries regarding your application during the process.\n\n",
+            "process_description": "1 - The application period for the after-school activities is in the spring. The activities are subject to a fee.\n\n2 - After-school activity locations can be searched for and viewed at hel.fi\/afterschoollocations or on the Service map with the search term after-school activities.\n\n3 - Applications for after-school activities are primarily made in Wilma. If the guardian does not yet have Wilma credentials, instructions can be found at hel.fi\/wilma. \nApplying on Wilma: The application form can be found under 'Applications and decisions'. Choose 'New application', then 'Application for after-school activities'. Fill in the form with the necessary details and save it.\n\nIf you are unable to fill in the form on Wilma, you can also apply with a paper form. \n\n4 - If you apply during the application period, we will post the decision in July. \n\n5 - Applications arriving after the application period will be processed depending on the available places during the school year. We do not answer status inquiries regarding your application during the process.",
             "costs": "After-school activity fee depends on whether the child attends until at 16.00 or activities or at 17.00. A snack and insurance are included in the fee.\t\n\t\nIf your child attends until 16.00, the fee is EUR 100 per month.\t\nIf your child attends until 17.00, the fee is EUR 120 per month.",
             "provided_languages": [
                 "en",
@@ -37921,6 +37926,11 @@
                     "type": "INTERNET",
                     "title": "After-school activity places on the Service Map",
                     "url": "https:\/\/palvelukartta.hel.fi\/en\/search?q=after-school%20activities"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "After-school activity locations",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/basic-education\/morning-and-after-school-activities-clubs-and-hobbies\/after-school-activities\/after-school-activity-locations"
                 }
             ],
             "channels": [
@@ -37928,9 +37938,9 @@
                     "id": 2943,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Electronic application form for after-school activities at school",
+                    "name": "Applying to after-school activities in Wilma",
                     "prerequisites": "After-school activities are available to first and second grade pupils at comprehensive schools in Helsinki and also to pupils of all grades who receive special support.",
-                    "process_description": "Enrolment and application instructions\n\n1. The application period for after-school activities organised at schools is 6 March-1 May 2023. \n\n2. The application should be submitted online. Invoice will be addressed to the guardian whose online banking credentials are used for identification and filling in the application form.\n\n3. Fill in the application form carefully. If there is any required information missing, you will not be able to submit the application.\n\n4. When submitting the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature.\n\n5. Outside the application period applications for schools' after-school activities should be sent to the address Education Division, After-school activities, PO Box 51300, 00099 City of Helsinki.\n",
+                    "process_description": "",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -37946,8 +37956,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Electronic application form",
-                            "url": "https:\/\/lomake.hel.fi\/afternoonactivities"
+                            "title": "Wilma",
+                            "url": "https:\/\/helsinki.inschool.fi\/?langid=3"
                         }
                     ],
                     "availabilities": [
@@ -37959,7 +37969,7 @@
                     "type_string": "Printable form",
                     "name": "Paper application for after-school activities",
                     "information": "If you are unable to use the online application form, you can apply by printing out and sending us the paper application. \n\n\n",
-                    "process_description": "Post the paper application to Education Division, After-school activities, P.O. Box 51300, 00099 City of Helsinki or deliver it to our letter box at Töysänkatu 2 D, 00510 Helsinki.",
+                    "process_description": "Post the paper application to Education Division, After-school activities, P.O. Box 51300, 00099 City of Helsinki or deliver it to our letter box at Työpajankatu 8, 00580 Helsinki.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37991,7 +38001,7 @@
             "service_id": 10104,
             "type": "APPLICATION",
             "name": "Ansökan till skolornas eftermiddagsverksamhet",
-            "process_description": "Ansökan till eftermiddagsverksamhet inom den grundläggande utbildningen\n\n1 - Ansökan till eftermiddagsverksamhet är öppen på våren. Verksamheten är avgiftsbelagd, och den genomförs enligt lagen om grundläggande utbildning.\n\n2 - På servicekartan kan du söka ett lämpligt verksamhetsställe för eftermiddagsverksamhet med sökordet \"eftermiddagsverksamhet\".\n\n3 - Ansökningsblanketten fylls i på nätet och undertecknas med stark identifiering. Om du inte har möjlighet att fylla i webblanketten, kan du söka till verksamheten också med en pappersblankett.\n\n4 - Till de personer som gjort ansökan under ansökningstiden postas besluten i juli. \n\n5 - Ansökningar som kommit in efter ansökningstiden behandlas under verksamhetsperioden med beaktande av platssituationen. Om platserna ges inga mellanuppgifter.",
+            "process_description": "Ansökan till eftermiddagsverksamhet inom den grundläggande utbildningen\n\n1 - Ansökan till eftermiddagsverksamhet är öppen på våren. Verksamheten är avgiftsbelagd.\n\n2 - Du kan söka efter och bekanta dig med platser som ordnar eftermiddagsverksamhet på sidan hel.fi\/eftisplatser eller på Servicekartan med sökordet \"eftermiddagsverksamhet\".\n\n3 - Du ansöker i första hand om eftermiddagsverksamhet i Wilma. Om du som vårdnadshavare ännu inte har ett Wilma-konto hittar du anvisningar för hur du skapar ett konto på adressen hel.fi\/wilma-sv. Ansökan i Wilma: Ansökningsblanketten finns under rubriken \"Ansökningar och beslut\". Välj \"Gör en ny ansökan\" Välj \"Eftermiddagsverksamhet\". Fyll i uppgifterna i ansökan och spara uppgifterna.\n\nOm du inte har möjlighet att ansöka via Wilma kan du söka till verksamheten med en pappersblankett.\n\n4 - Om du ansökt om plats under ansökningstiden skickar vi beslutet per post i juli. \n\n5 - Ansökningar som kommit in efter ansökningstiden behandlas under läsåret med beaktande av platssituationen. Staden ger inga preliminära uppgifter om beslutet. Vi kontaktar vårdnadshavaren om det finns en plats åt barnet.",
             "costs": "Avgifterna för eftermiddagsverksamheten är:\n\nOm ditt barn deltar i verksamheten fram till kl. 16.00 är avgiften 100 euro per månad. \nOm ditt barn deltar i verksamheten fram till kl. 17.00 är avgiften 120 euro per månad.",
             "provided_languages": [
                 "en",
@@ -38011,6 +38021,11 @@
                     "type": "INTERNET",
                     "title": "Eftermiddagsverksamhetens verksamhetsställen på Servicekartan",
                     "url": "https:\/\/palvelukartta.hel.fi\/sv\/search?q=eftermiddagsverksamhet"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Platser med eftermiddagsverksamhet",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/grundlaggande-utbildning\/morgon-och-eftermiddagsverksamhet-klubbar-och-hobbyer-i-skolorna\/eftermiddagsverksamhet\/platser-med-eftermiddagsverksamhet"
                 }
             ],
             "channels": [
@@ -38018,9 +38033,8 @@
                     "id": 2943,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Elektronisk ansökningsblankett till skolans eftermiddagsverksamhet",
+                    "name": "Ansökan till eftermiddagsverksamhet i Wilma",
                     "prerequisites": "Den eftermiddagsverksamhet om grundläggande utbildning är avsedd för elever i årskurserna 1-2 och för elever i samtliga årskurser som får särskilt stöd i grundskolorna i Helsingfors. Vårdnadshavarna kan ansöka om plats för sitt barn i den här verksamheten.",
-                    "process_description": "1. Ansökningstiden för eftermiddagsverksamheten är 6.3−1.5.2023. \n\n2. Ansökningsblanketten fylls i på nätet. Räkningen för eftermiddagsverksamheten skickas till den vårdnadshavare vars nätbankskoder använts för att fylla i blanketten.\n\n3. Fyll i blanketten noggrant. Om blanketten saknar obligatorisk information kan den inte sändas.\n\n4. För att sända blanketten måste du identifiera dig med nätbankskoder, Mobil ID eller med ett identitetskort med chip. Identifieringen fungerar som underskrift för blanketten.\n\n5. Utanför ansökningstiden ska ansökan till skolornas eftermiddagsverksamhet lämnas in på adressen Sektorn för fostran och utbildning, eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad.",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -38036,8 +38050,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Elektronisk ansökningsblankett",
-                            "url": "https:\/\/lomake.hel.fi\/eftisverksamhet"
+                            "title": "Fyll i ansökan i Wilma",
+                            "url": "https:\/\/helsinki.inschool.fi\/?langid=2"
                         }
                     ],
                     "availabilities": [
@@ -38049,7 +38063,7 @@
                     "type_string": "Utskrivbar blankett",
                     "name": "Utskrivbar ansökningsblankett för eftermiddagsverksamhet inom den grundläggande utbildningen",
                     "information": "Om du inte har möjlighet att fylla i webblanketten kan du också ansöka med en pappersblankett.",
-                    "process_description": "Du kan skicka pappersblanketten till: Fostrans- och utbildningssektorn, Eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad eller lägga den i postlådan på adressen Töysägatan 2 D, 00510 Helsingfors.",
+                    "process_description": "Du kan skicka pappersblanketten till: Fostrans- och utbildningssektorn, Eftermiddagsverksamhet, PB 51300, 00099 Helsingfors stad eller lägga den i postlådan på adressen Verkstadsgatan 8, 00580 Helsingfors.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -57170,7 +57184,7 @@
             "service_id": 10891,
             "type": "PERMISSION",
             "name": "Ympäristölupa",
-            "description": "Tarvitset toiminnalle ympäristöluvan, jos toiminta voi aiheuttaa terveyshaittaa, merkittävää ympäristön pilaantumista tai sen vaaraa. Tällaista toimintaa ovat esimerkiksi ammattimainen jätteenkäsittely ja monet elintarviketeollisuuslaitokset.\n\nYmpäristöluvassa voidaan antaa määräyksiä muun muassa toiminnan laajuudesta, päästöistä ja niiden vähentämisestä. Luvanvaraisen toiminnan saa pääsääntöisesti aloittaa vasta, kun lupa on lainvoimainen.\n\nHelsingissä ympäristöluvat myöntää toiminnan luonteesta ja laajuudesta riippuen Etelä-Suomen aluehallintovirasto tai Helsingin kaupunkiympäristölautakunnan ympäristö- ja lupajaosto. \n",
+            "description": "Tarvitset toiminnalle ympäristöluvan, jos toiminta voi aiheuttaa terveyshaittaa, merkittävää ympäristön pilaantumista tai sen vaaraa. Tällaista toimintaa ovat esimerkiksi ammattimainen jätteenkäsittely ja monet elintarviketeollisuuslaitokset. Ympäristölupaa edellyttävät toiminnot on lueteltu ympäristönsuojelulaissa (527\/2014).\n\nYmpäristöluvassa voidaan antaa määräyksiä muun muassa toiminnan laajuudesta, päästöistä ja niiden vähentämisestä. Luvanvaraisen toiminnan saa pääsääntöisesti aloittaa vasta, kun lupa on lainvoimainen.\n\nHelsingissä ympäristöluvat myöntää toiminnan luonteesta ja laajuudesta riippuen Etelä-Suomen aluehallintovirasto tai Helsingin kaupunkiympäristölautakunnan ympäristö- ja lupajaosto. Ympäristöpalvelut valmistelee lupa-asian ympäristö- ja lupajaoston käsittelyyn.\n",
             "costs": "Perimme hakemuksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
@@ -57558,7 +57572,7 @@
             "service_id": 10891,
             "type": "NOTICE",
             "name": "Ympäristönsuojelulain mukainen ilmoitusmenettely",
-            "description": "Tietyt toiminnot, jotka aiheuttavat vähäisiä  ympäristövaikutuksia, eivät vaadi ympäristölupaa, vaan sinun tulee tehdä tällaisesta toiminnasta ympäristönsuojelulain mukainen yleinen ilmoitus. Tällaisia toimintoja ovat esimerkiksi ajoneuvo- ja työkonevarikot.\n\nIlmoitus tulee tehdä 120 vuorokautta ennen toiminnan aloittamista. Päätöksessä voimme  antaa toimintaa koskevia määräyksiä.\n \nLähetä ilmoitus Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
+            "description": "Tietyt toiminnot, jotka aiheuttavat vähäisiä  ympäristövaikutuksia, eivät vaadi ympäristölupaa, vaan sinun tulee tehdä tällaisesta toiminnasta ympäristönsuojelulain mukainen yleinen ilmoitus. Ilmoitusta edellyttävät toiminnot on lueteltu ympäristönsuojelulaissa (527\/2014). \n\nIlmoitus tulee tehdä 120 vuorokautta ennen toiminnan aloittamista. Päätöksessä voimme  antaa toimintaa koskevia määräyksiä.\n \nLähetä ilmoitus Helsingin ympäristöpalveluille Lupapiste-palvelun kautta.\n",
             "costs": "Perimme ilmoituksen käsittelystä ympäristönsuojeluviranomaisen taksan mukaisen maksun.",
             "provided_languages": [
                 "fi",
