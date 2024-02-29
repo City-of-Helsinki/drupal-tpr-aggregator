@@ -11216,7 +11216,7 @@
                     "id": 3130,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Sähköposti",
+                    "name": "Hae yrityspysäköintitunnusta",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -11275,7 +11275,7 @@
                     "id": 3130,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "E-mail",
+                    "name": "Apply for a business parking permit",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -11334,7 +11334,7 @@
                     "id": 3130,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "E-post",
+                    "name": "Ansök om tillstånd för företagsparkering",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -17277,7 +17277,7 @@
                     "id": 3121,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tulostettava lomake",
+                    "name": "Tee virka-apupyyntö",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17290,7 +17290,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Virka-apupyyntö ajoneuvon siirtämiseksi yksityisalueelta ",
+                            "title": "Virka-apupyyntö ajoneuvon siirtämiseksi yksityisalueelta (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/pysakointi\/siirtolomake.pdf",
                             "file_format": "PDF"
                         }
@@ -17415,7 +17415,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to the feedback service",
+                            "title": "Go to feedback service",
                             "url": "https:\/\/palautteet.hel.fi\/en\/"
                         }
                     ],
@@ -17426,7 +17426,7 @@
                     "id": 3121,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Form",
+                    "name": "Make a request",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17575,7 +17575,7 @@
                     "id": 3121,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Blanketten",
+                    "name": "Gör en begäran on handräcking",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17588,7 +17588,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Begäran om handräckning för flyttning av fordon från privat område (på finska)",
+                            "title": "Begäran om handräckning för flyttning av fordon från privat område (pdf, på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/pysakointi\/siirtolomake.pdf",
                             "file_format": "PDF"
                         }
@@ -20027,7 +20027,7 @@
                     "id": 3226,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Sähköposti",
+                    "name": "Irtisano yrityspysäköintitunnus",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -20081,7 +20081,7 @@
                     "id": 3226,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "E-mail",
+                    "name": "Terminate a business parking permit",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -20135,7 +20135,7 @@
                     "id": 3226,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "E-post",
+                    "name": "Säg upp tillstånd för företagsparkering",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -20501,7 +20501,7 @@
                     "id": 3548,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Sähköposti",
+                    "name": "Jatka yrityspysäköintitunnuksen voimassaoloa",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -20553,7 +20553,7 @@
                     "id": 3548,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "E-mail",
+                    "name": "Extend the validity of a business parking permit",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -20605,7 +20605,7 @@
                     "id": 3548,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "E-post",
+                    "name": "Förläng giltighetstiden för företagsparkeringstillståndet",
                     "prerequisites": "test 1",
                     "information": "test 2",
                     "process_description": "test 3",
@@ -41296,7 +41296,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun",
+                            "title": "Siirrä eräpäivää asiointipalvelussa",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
                         }
@@ -41361,7 +41361,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-services",
+                            "title": "Extend the due date in e-services",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
                         }
@@ -41421,7 +41421,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten",
+                            "title": "Flytta förfallodagen i e-tjänsten",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
                         }
@@ -47729,7 +47729,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry asiointipalveluun",
+                            "title": "Tee oikaisuvaatimus asiointipalveluun",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
                         },
@@ -47803,7 +47803,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-services",
+                            "title": "Make a rectification claim in e-services",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
                         },
@@ -47877,7 +47877,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gå till e-tjänsten",
+                            "title": "Gör rättelseyrkan i e-tjänsten",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
                         },
