@@ -14654,7 +14654,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Hevossairaalan päivystys ympäri vuorokauden",
                     "phone": "0600 97412​",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "arkisin klo 8-16 1,52 eur\/min+pvm; arkisin klo 16-22 ja viikonloppuisin klo 8-22 2,00 eur\/min+pvm; klo 22-8 3,85 eur\/min+pvm",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -14744,7 +14744,7 @@
                     "type_string": "Telephone",
                     "name": "Equine Hospital 24\/7 emergency services",
                     "phone": "0600 97412​",
-                    "call_charge_info": "toll free",
+                    "call_charge_info": "€1.53 per minute + standard call rate (8.00-16.00 mon-fri); €2.00 per minute + standard call rate (16-22 mon-fri and weekends 8-22); €3.85 per minute + standard call rate (22.00-8.00).",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -14834,7 +14834,7 @@
                     "type_string": "Telefon",
                     "name": "Hästsjukhusets jourmottagning dygnet runt",
                     "phone": "0600 97412​",
-                    "call_charge_info": "gratis",
+                    "call_charge_info": "mån-fre kl. 8-16 1,52 eur\/min+lna; mån-fre kl. 8-22 och veckoslut kl. 8-22 2,00 eur\/min+lna; kl. 22-8 3,85 eur\/min+lna ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -38311,7 +38311,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Pieneläinsairaalan päivystys virka-ajan ulkopuolella",
                     "phone": "0600 97411​ ​",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "8.00 - 22.00 2,00 eur\/min+pvm ja 22.00 - 8.00 3,85 eur\/min+pvm, jonotus on maksullista",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -38400,7 +38400,7 @@
                     "type_string": "Telephone",
                     "name": "Small Animal Hospital emergency services outside the office hours",
                     "phone": "0600 97411​ ​",
-                    "call_charge_info": "toll free",
+                    "call_charge_info": "8.00 - 22.00 €2.00 and 22.00 - 8.00 €3.85 per minute + standard call rate",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -38489,7 +38489,7 @@
                     "type_string": "Telefon",
                     "name": "Smådjurssjukhusets jourmottagning utanför tjänstetid",
                     "phone": "0600 97411​ ​",
-                    "call_charge_info": "gratis",
+                    "call_charge_info": "8.00 - 22.00 2,00 eur\/min.+lna och 22.00 - 8.00 3,85 eur\/min.+lna, det är avgiftsbelagt att köa",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -38528,6 +38528,255 @@
                 }
             ]
         }
+    },
+    {
+        "id": 4803,
+        "fi": {
+            "id": 4803,
+            "exact_descriptions": [
+                8502
+            ],
+            "service_id": 10255,
+            "type": "ADVICE",
+            "name": "PTV Testiasiointipalvelu - neuvonta",
+            "description": "asiointipalvelun lyhyt kuvaus: Tämä on suomi.fi palvelua varten tehty asiointipalvelun testi tietojen siirtymisestä (neuvonta).",
+            "process_description": "asian käsittelyn eteneminen: ei etenemistä",
+            "processing_time": "Käsittelyaika: ei käsittelyaikaa",
+            "expiration_time": "Voimassaoloaika: ei voimassaoloaikaa",
+            "costs": "Maksut: ei maksuja",
+            "information": "Lisätietoja: ei lisätietoja",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin kaupungin sivut",
+                    "url": "https:\/\/www.hel.fi\/helsinki\/fi",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 3112,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "PTV Testipalvelukanava - puhelinpalvelu",
+                    "prerequisites": "Puhelinpalvelu: Kanavan käytön edellytykset:",
+                    "information": "Puhelinpalvelu: Palvelukanavaa koskevia lisätietoja:",
+                    "availability_summary": "Avoinna ma-pe 08:15-08:30",
+                    "process_description": "Puhelinpalvelu: Palvelukanavan prosessin kuvaus",
+                    "phone": "0931036208",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-08:30"
+                        }
+                    ]
+                },
+                {
+                    "id": 3113,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "PTV Testipalvelukanava - chat",
+                    "prerequisites": "PTV Testipalvelukanava - chat: Käytön edellytykset",
+                    "information": "PTV Testipalvelukanava - chat: Lisätietoja",
+                    "availability_summary": "Avoinna ma-pe 09-09:15",
+                    "process_description": "PTV Testipalvelukanava - chat: Prosessin kuvaus",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Avaa chat",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-09:15"
+                        }
+                    ]
+                },
+                {
+                    "id": 3114,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "PTV Testipalvelukanava - sähköposti",
+                    "prerequisites": "PTV Testipalvelukanava - sähköposti: edellytykset",
+                    "information": "PTV Testipalvelukanava - sähköposti: lisätiedot",
+                    "process_description": "PTV Testipalvelukanava - sähköposti: prosessin kuvaus",
+                    "email": "henna.niemi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 3115,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "PTV Testipalvelukanava - verkkoasiointi",
+                    "prerequisites": "PTV Testipalvelukanava - verkkoasiointi: edellytykset",
+                    "information": "PTV Testipalvelukanava - verkkoasiointi: lisätiedot",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "process_description": "PTV Testipalvelukanava - verkkoasiointi: kuvaus",
+                    "authorization_code": "valtuuskoodi x",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": true,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry asiointiin",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                },
+                {
+                    "id": 3116,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "PTV Testipalvelukanava - verkkosivu",
+                    "prerequisites": "PTV Testipalvelukanava - verkkosivu: edellytykset",
+                    "information": "PTV Testipalvelukanava - verkkosivu: lisätiedot",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "process_description": "PTV Testipalvelukanava - verkkosivu: kuvaus",
+                    "provided_languages": [
+                        "en",
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": true,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Avaa sivu",
+                            "url": "https:\/\/www.hel.fi\/helsinki\/fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                },
+                {
+                    "id": 3117,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "PTV Testipalvelukanava - tulostettava lomake",
+                    "prerequisites": "PTV Testipalvelukanava - tulostettava lomake: edellytykset",
+                    "information": "PTV Testipalvelukanava - tulostettava lomake: lisätiedot",
+                    "process_description": "PTV Testipalvelukanava - tulostettava lomake: kuvaus",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Avaa lomake (.pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/helsinki\/organisaatio\/hki-organisaatiokaavio_fi.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4052,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Tulostettava hakulomake perusopetuksen iltapäivätoimintaan",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2023-2024, PDF",
+                            "url": "https:\/\/stplattaprod.blob.core.windows.net\/kasvatuskoulutus76e5cprod\/perusopetuksen_iltap%C3%A4iv%C3%A4toiminta.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5138,
@@ -55803,7 +56052,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Varhaiskasvatushakemus paperilomakkeella",
-            "description": "Paperilomakkeella voit hakea varhaiskasvatuksen palveluihin, mikäli sinulla\/perheelläsi ei ole suomalaisia henkilötunnuksia, sinulla\/perheelläsi ei ole suomalaisia pankkitunnuksia, sähköinen hakeminen ei ole muuten sinulle\/perheellesi mahdollista tai jollain perheessäsi on turvakielto. \n\nPalauta paperihakemus turvasähköpostilla tai postitse osoitteeseen Varhaiskasvatuksen palveluohjaus, Työpajankatu 8, PL 58300, 00099 Helsingin kaupunki. Myös leikkipuistot ottavat paperihakemuksia vastaan (poislukien leikkipuisto Loru, Seppä ja Santahamina).\n\nKun hakemus tehdään paperilomakkeella, paikka voidaan myöntää aikaisintaan neljän kuukauden kuluttua siitä, kun paperihakemus on saapunut varhaiskasvatuksen palveluohjaukseen.\n",
+            "description": "Paperilomakkeella voit hakea varhaiskasvatuksen palveluihin, mikäli sinulla\/perheelläsi ei ole suomalaisia henkilötunnuksia, sinulla\/perheelläsi ei ole suomalaisia pankkitunnuksia, sähköinen hakeminen ei ole muuten sinulle\/perheellesi mahdollista tai jollain perheessäsi on turvakielto. \n\nPalauta paperihakemus postitse osoitteeseen Varhaiskasvatuksen palveluohjaus, Työpajankatu 8, PL 58300, 00099 Helsingin kaupunki. Myös leikkipuistot ottavat paperihakemuksia vastaan (poislukien leikkipuisto Loru, Seppä ja Santahamina).\n\nVoit lähettää paperilomakkeen myös turvasähköpostilla mikäli sinulla on suomalaiset henkilötunnukset. Tällöin henkilötunnuksesi myös välittyy vastaanottajalle.\n\nKun hakemus tehdään paperilomakkeella, paikka voidaan myöntää aikaisintaan neljän kuukauden kuluttua siitä, kun paperihakemus on saapunut varhaiskasvatuksen palveluohjaukseen.\n",
             "process_description": "Kansainvälinen\/ulkopaikkakuntalainen hakija: jos olet muuttamassa Helsinkiin, on varhaiskasvatuspaikkaa hyvä hakea jo ulkomailta tai toisesta kaupungista ennen muuttoa. Et tarvitse paperihakemukseen suomalaista henkilötunnusta tai osoitetta Helsingissä - tietosi voidaan päivittää myöhemmin.",
             "provided_languages": [
                 "en",
@@ -55867,7 +56116,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Applying for early childhood education with paper application",
-            "description": "You can use the paper form to apply for early childhood education if you or your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply online for other reasons, or a member of your family has a non-disclosure for personal safety reasons.\n\nReturn the paper application by secure e-mail or by post to the following address: Service guidance for early childhood education, Työpajankatu 8, PO Box 58300, 00099 City of Helsinki. We also accept paper applications at playgrounds (except playgrounds Seppä, Loru and Santahamina).\n\nWhen you apply by paper form, a place can be granted at the earliest four months from the date the paper application is received by the Service guidance for early childhood education.",
+            "description": "You can use the paper form to apply for early childhood education if you or your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply online for other reasons, or a member of your family has a non-disclosure for personal safety reasons.\n\nReturn the paper application by post to the following address: Service guidance for early childhood education, Työpajankatu 8, PO Box 58300, 00099 City of Helsinki. We also accept paper applications at playgrounds (except playgrounds Seppä, Loru and Santahamina).\n\nYou can also send the paper application via secure mail if you have Finnish personal identity codes. In this case the Finnish personal identity code is also sent to the recipient. \n\nWhen you apply by paper form, a place can be granted at the earliest four months from the date the paper application is received by the Service guidance for early childhood education.",
             "process_description": "Families moving to Helsinki from abroad or another city: We recommend you apply for a place in early childhood education before you move to Helsinki. You can apply from abroad or from another city with the paper application, even if you do not yet have an address in Helsinki or a Finnish personal identity code. Your personal details can be edited later.\n",
             "provided_languages": [
                 "en",
@@ -55931,7 +56180,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Ansökan om plats inom småbarnspedagogik med pappersblankett",
-            "description": "Om du\/din familj inte har finsk personbeteckning, du\/din familj inte har finska bankkoder, någon i din familj har spärrmarkering eller om du\/din familj på grund av andra skäl inte har möjlighet att ansöka elektroniskt kan du ansöka om plats inom småbarnspedagogikens tjänster med en pappersblankett. \n\nSkicka pappersansökan med säker e-post eller per post till adressen Småbarnspedagogikens servicehandledning, Verkstadsgatan 8, PB 58300, 00099 Helsingfors stad. Lekparkerna tar också emot pappersansökningar (förutom lekparkerna Seppä, Loru och Santahamina).\n\nDå du söker med pappersblankett kan en plats beviljas tidigast fyra månader från det datum pappersansökan anländer till småbarnspedagogikens servicehandledning.\n",
+            "description": "Om du\/din familj inte har finsk personbeteckning, du\/din familj inte har finska bankkoder, någon i din familj har spärrmarkering eller om du\/din familj på grund av andra skäl inte har möjlighet att ansöka elektroniskt kan du ansöka om plats inom småbarnspedagogikens tjänster med en pappersblankett. \n\nSkicka pappersansökan per post till adressen Småbarnspedagogikens servicehandledning, Verkstadsgatan 8, PB 58300, 00099 Helsingfors stad. Lekparkerna tar också emot pappersansökningar (förutom lekparkerna Seppä, Loru och Santahamina).\n\nDu kan också skicka in pappersblanketten med säker e-post om du har finsk personbeteckning. Då förmedlas personbeteckningen även till mottagaren. \n\nDå du söker med pappersblankett kan en plats beviljas tidigast fyra månader från det datum pappersansökan anländer till småbarnspedagogikens servicehandledning.\n",
             "process_description": "Internationella sökanden\/sökanden från andra kommuner: Om du håller på att flytta till Helsingfors är det bra att ansöka om en plats inom småbarnspedagogiken redan från utlandet eller från en annan kommun. Du behöver inget finsk personnummer eller adress i Helsingfors - dina uppgifter kan uppdateras senare.",
             "provided_languages": [
                 "en",
