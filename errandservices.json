@@ -34943,7 +34943,7 @@
             ],
             "service_id": 10090,
             "type": "APPLICATION",
-            "name": "Osta asukaspysäköintitunnus",
+            "name": "Osta asukaspysäköintitunnus tai jatka sen voimassaoloa",
             "description": "Voit hankkia asukaspysäköintitunnuksen tai jatkaa sen voimassaoloa verkossa tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa.\n\nJos tarvitset kimppatunnuksen tai haluat jatkaa sen voimassaoloa, joudut asioimaan toistaiseksi paikan päällä kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi tai valita jatkuvan veloituksen, jolloin veloitamme maksun kuukausittain, kunnes irtisanot tunnuksen tai oikeutesi tunnukseen päättyy esimerkiksi muuton takia.\n\n\nVerkossa voit maksaa uuden kauden aikaisintaan kahta viikkoa etukäteen.",
             "process_description": "",
             "processing_time": "Tunnus tulee voimaan heti, kun olet maksanut sen.",
@@ -34974,7 +34974,7 @@
                     "id": 2740,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Osta asukaspysäköintitunnus",
+                    "name": "Osta asukaspysäköintitunnus tai jatka sen voimassaoloa",
                     "prerequisites": "",
                     "provided_languages": [
                         "en",
@@ -35008,7 +35008,7 @@
             ],
             "service_id": 10090,
             "type": "APPLICATION",
-            "name": "Buy a resident parking permit",
+            "name": "Buy a resident parking permit or extend the validity",
             "description": "You can apply for a resident parking permit or extend it online or by visiting the Urban Environment Division's customer service point in person.\n\nIf you need a shared permit or you wish to extend an existing shared permit, currently you must visit the customer service point in person. \n\nYou can purchase permits for periods of 1-12 months or select rolling charging, whereby we will charge you a monthly fee each month until you terminate your permit or your right to a permit ends, due to you moving, for example. \n\nYou can pay for a new period no more than two weeks in advance online.\n",
             "processing_time": "A permit will become valid as soon as you have paid for it.",
             "costs": "You can pay for your resident parking permit with cash or by card at our customer service point. Online, you can pay for a permit using your online banking service or with a debit card or a MasterCard or Visa credit card (Diners Club and American Express cards are not accepted).",
@@ -35037,7 +35037,7 @@
                     "id": 2740,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Buy a permit",
+                    "name": "Buy a permit or extend the validity",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -35070,7 +35070,7 @@
             ],
             "service_id": 10090,
             "type": "APPLICATION",
-            "name": "Köp tillstånd för boendeparkering",
+            "name": "Köp tillstånd för boendeparkering eller förläng dess giltighetstid",
             "description": "Du kan skaffa tillstånd för boendeparkering eller förlänga dess giltighetstid via nätet eller personligen hos stadsmiljösektorns kundtjänst.\n\nOm du behöver ett grupptillstånd eller vill förlänga dess giltighetstid, måste du tills vidare besöka stadsmiljösektorns kundtjänst.\n\nDu kan köpa tillståndet för 1-12 månader eller välja kontinuerlig debitering, så att vi debiterar avgiften månadsvis tills du säger upp tillståndet eller din rätt till det upphör exempelvis på grund av att du flyttar.\n\nDu kan betala för en ny period via nätet tidigast två veckor i förväg.\n",
             "processing_time": "Tillståndet träder i kraft direkt när du har betalat för det.",
             "costs": "Om du ansöker om tillståndet i vår kundtjänst, betalas tillståndet genast. Du kan betala med kontanter och kort. Om du betalar via nätet kan du betala för tillståndet via nätbanken, med debitkort samt med MasterCard- och Visa-kreditkort (Diners Club- och American Express-kort fungerar inte).",
@@ -35099,7 +35099,7 @@
                     "id": 2740,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Köp tillstånd",
+                    "name": "Köp tillstånd eller förläng dess giltighetstid",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -37997,6 +37997,11 @@
                             "type": "INTERNET",
                             "title": "Siirry Wilman kirjautumissivulle",
                             "url": "https:\/\/helsinki.inschool.fi\/"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry yksityisten ja valtion koulujen Wilman kirjautumissivulle",
+                            "url": "https:\/\/yvkoulut.inschool.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -38093,7 +38098,12 @@
                         {
                             "type": "INTERNET",
                             "title": "Go to Wilma's login page",
-                            "url": "https:\/\/helsinki.inschool.fi\/?langid=3"
+                            "url": "https:\/\/yvkoulut.inschool.fi\/?langid=3"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Wilma's login page for private and state schools",
+                            "url": "https:\/\/yvkoulut.inschool.fi\/?langid=3"
                         }
                     ],
                     "availabilities": [
@@ -38188,6 +38198,11 @@
                             "type": "INTERNET",
                             "title": "Till Wilmas inloggningssida",
                             "url": "https:\/\/helsinki.inschool.fi\/?langid=2"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Till Wilmas inloggningssida för privata och statliga grundskolor",
+                            "url": "https:\/\/yvkoulut.inschool.fi\/?langid=2"
                         }
                     ],
                     "availabilities": [
