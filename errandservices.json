@@ -31290,6 +31290,85 @@
         ]
     },
     {
+        "id": 5501,
+        "fi": {
+            "id": 5501,
+            "exact_descriptions": [
+                7611,
+                9729
+            ],
+            "service_id": 10634,
+            "type": "ADVICE",
+            "name": "Maalämpölupien ennakkoasiointi (ennakkotiedustelut ja rakennettavuusselvitykset)",
+            "description": "Ota yhteyttä maalämpölupien ennakkatiedusteluita ja rakennettavuusselvityksiä koskien.",
+            "process_description": "Ennakkotiedustelu on matalan kynnyksen ensimmäinen yhteydenotto. Rakennettavuuselvityksen avulla saat tiedon siitö, onko maalämmön rakentaminen mahdollista tontillasi.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4057,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Soita",
+                    "availability_summary": "Avoinna ma-pe 09-11",
+                    "phone": "09 310 34176 ",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 4058,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä sähköpostia",
+                    "email": "kymp.maalampo@hel.fi ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5076,
         "fi": {
             "id": 5076,
@@ -52349,6 +52428,7 @@
         "fi": {
             "id": 5500,
             "exact_descriptions": [
+                9733
             ],
             "service_id": 10634,
             "type": "ADVICE",
