@@ -4752,7 +4752,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry lomakkeeseen (pdf)",
+                            "title": "Hakemus rakennustyön aloittamiseksi ennen luvan lainvoimaisuutta (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf",
                             "file_format": "PDF"
                         }
@@ -5920,7 +5920,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry lomakkeeseen (pdf)",
+                            "title": "Kiinteistötoimitushakemus (pdf)",
                             "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
                         }
                     ],
@@ -6016,7 +6016,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Go to the form (in Finnish, PDF)",
+                            "title": "Cadastral survey application (in Finnish, PDF)",
                             "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
                         }
                     ],
@@ -6112,7 +6112,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gå till blanketten (på finska, pdf)",
+                            "title": "Ansökan om fastighetsförrättning (på finska, pdf)",
                             "url": "https:\/\/kartta.hel.fi\/avoindata\/dokumentit\/HKI_kiinteistotoimitushakemus.pdf"
                         }
                     ],
@@ -6987,7 +6987,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Siirry lomakkeeseen (pdf)",
+                            "title": "Naapurin kuuleminen\/naapurin suostumus (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Naapurinkuuleminen.pdf",
                             "file_format": "PDF"
                         }
@@ -7039,7 +7039,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Go to Form (In Finnish, pdf)",
+                            "title": "Hearing or consent of a neighbour (In Finnish, pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Naapurinkuuleminen.pdf",
                             "file_format": "PDF"
                         }
@@ -7091,7 +7091,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gå till blanketten (pdf)",
+                            "title": "Hörande av granne\/grannens samtycke  (pdf, på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/sv\/Horande_av_granne.pdf"
                         }
                     ],
@@ -56382,8 +56382,8 @@
             ],
             "service_id": 10441,
             "type": "ADVICE",
-            "name": "Vastaanottoperhetoiminnan tukipuhelin",
-            "description": "Vastaanottoperhetoiminnan tukipuhelin on tarkoitettu lapsille, vanhemmille, läheisille ja perhehoitajille. Tukipuhelimeen vastaa päivystävä sosiaaliohjaaja.",
+            "name": "Vastaanottoperhehoidon tukipuhelin",
+            "description": "Vastaanottoperhehoidon tukipuhelin on tarkoitettu lapsille, vanhemmille, läheisille ja perhehoitajille. Tukipuhelimeen vastaa päivystävä sosiaaliohjaaja.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -56404,9 +56404,9 @@
                     "id": 3683,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vastaanottoperhetoiminnan tukipuhelin",
-                    "prerequisites": "Palvelemme joka päivä klo 8-21",
-                    "availability_summary": "Avoinna joka päivä 08-21",
+                    "name": "Vastaanottoperhehoidon tukipuhelin",
+                    "prerequisites": "Palvelemme arkisin klo 8-18 ja viikonloppuisin klo 10-18.",
+                    "availability_summary": "Avoinna ma-pe 08-18, la-su 10-18",
                     "phone": "09 310 52581",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -56422,7 +56422,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna joka päivä 08-21"
+                            "availability_string": "Avoinna ma-pe 08-18"
+                        },
+                        {
+                            "availability_string": "Avoinna la-su 10-18"
                         }
                     ]
                 }
@@ -56458,7 +56461,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Helpline",
-                    "availability_summary": "Open every day 08-21",
+                    "availability_summary": "Open Mon-Fri 08-18, Sat-Sun 10-18",
                     "phone": "09 310 52581",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -56474,7 +56477,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open every day 08-21"
+                            "availability_string": "Open Mon-Fri 08-18"
+                        },
+                        {
+                            "availability_string": "Open Sat-Sun 10-18"
                         }
                     ]
                 }
@@ -56510,7 +56516,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Hjälplinje",
-                    "availability_summary": "Öppet varje dag 08-21",
+                    "availability_summary": "Öppet mån-fre 08-18, lör-sön 10-18",
                     "phone": "09 310 52581",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -56526,7 +56532,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet varje dag 08-21"
+                            "availability_string": "Öppet mån-fre 08-18"
+                        },
+                        {
+                            "availability_string": "Öppet lör-sön 10-18"
                         }
                     ]
                 }
@@ -56542,7 +56551,7 @@
             ],
             "service_id": 11075,
             "type": "OTHER_ESERVICE",
-            "name": "Vastaanottoperhetoiminnan tukipuhelin",
+            "name": "Vastaanottoperhehoidon tukipuhelin",
             "description": "Saat meiltä tukea ja apua vastaanottoperhetoimintaan liittyvissä asioissa.",
             "provided_languages": [
                 "fi",
@@ -56564,8 +56573,8 @@
                     "id": 3721,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vastaanottoperhetoiminnan tukipuhelin",
-                    "availability_summary": "Avoinna joka päivä 08-21",
+                    "name": "Vastaanottoperhehoidon tukipuhelin",
+                    "availability_summary": "Avoinna ma-pe 08-18, la-su 10-18",
                     "phone": "+358 931052581",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -56581,7 +56590,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna joka päivä 08-21"
+                            "availability_string": "Avoinna ma-pe 08-18"
+                        },
+                        {
+                            "availability_string": "Avoinna la-su 10-18"
                         }
                     ]
                 }
@@ -56618,7 +56630,7 @@
                     "type_string": "Telephone",
                     "name": "Helpline for host family",
                     "prerequisites": "Helpline for host family",
-                    "availability_summary": "Open every day 08-21",
+                    "availability_summary": "Open Mon-Fri 08-18, Sat-Sun 10-18",
                     "phone": "+358 931052581",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -56634,7 +56646,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open every day 08-21"
+                            "availability_string": "Open Mon-Fri 08-18"
+                        },
+                        {
+                            "availability_string": "Open Sat-Sun 10-18"
                         }
                     ]
                 }
@@ -56670,7 +56685,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Stödtelefon dör mottagningsfamilj",
-                    "availability_summary": "Öppet varje dag 08-21",
+                    "availability_summary": "Öppet mån-fre 08-18, lör-sön 10-18",
                     "phone": "+358 931052581",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -56686,7 +56701,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet varje dag 08-21"
+                            "availability_string": "Öppet mån-fre 08-18"
+                        },
+                        {
+                            "availability_string": "Öppet lör-sön 10-18"
                         }
                     ]
                 }
