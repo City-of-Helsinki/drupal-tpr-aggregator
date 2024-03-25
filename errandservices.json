@@ -34785,8 +34785,12 @@
             "type": "OTHER_ESERVICE",
             "name": "OmaKanta",
             "provided_languages": [
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -34799,8 +34803,8 @@
                     "id": 4059,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Uusi reseptisi ja tarkastele terveystietojasi OmaKannassa",
-                    "information": "Voit pyytää säännöllisen lääkityksesi reseptin uusimista OmaKannassa, jos resepti on määrätty sinulle terveysasemalta. Kun uusit reseptin OmaKannassa, sinun ei tarvitse olla enää yhteydessä terveysasemalle. Huomaa, että uusimispyynnön käsittely voi kestää kahdeksan vuorokautta. Jos uusimispyyntösi on kiireellinen, ole puhelimitse yhteydessä terveysasemallesi.\n\nOmaKannassa voit myös tarkastella omia terveystietojasi, esimerkiksi laboratoriotuloksia tai käyntitekstejä.",
+                    "name": "Uusi reseptisi OmaKannassa",
+                    "information": "Voit pyytää säännöllisen lääkityksesi reseptin uusimista OmaKannassa, jos resepti on määrätty sinulle terveysasemalta. Kun uusit reseptin OmaKannassa, sinun ei tarvitse olla enää yhteydessä terveysasemalle. Huomaa, että uusimispyynnön käsittely voi kestää kahdeksan vuorokautta. Jos uusimispyyntösi on kiireellinen, ole puhelimitse yhteydessä terveysasemallesi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -34907,7 +34911,7 @@
             "service_id": 10090,
             "type": "APPLICATION",
             "name": "Osta asukaspysäköintitunnus tai jatka sen voimassaoloa",
-            "description": "Voit hankkia asukaspysäköintitunnuksen tai jatkaa sen voimassaoloa verkossa tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa.\n\nJos tarvitset kimppatunnuksen tai haluat jatkaa sen voimassaoloa, joudut asioimaan toistaiseksi paikan päällä kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi tai valita jatkuvan veloituksen, jolloin veloitamme maksun kuukausittain, kunnes irtisanot tunnuksen tai oikeutesi tunnukseen päättyy esimerkiksi muuton takia.\n\n\nVerkossa voit maksaa uuden kauden aikaisintaan kahta viikkoa etukäteen.",
+            "description": "Voit hankkia asukaspysäköintitunnuksen tai jatkaa sen voimassaoloa verkossa tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa.\n\nJos sinulla on ulkomainen tai ahvenanmaalainen ajokortti, joudut käymään kaupunkiympäristön asiakaspalvelussa, kun ostat tunnuksen ensimmäisen kerran. Tämän jälkeen voit ostaa jatkoa tunnukseesi verkossa.\n\nJos tarvitset kimppatunnuksen tai haluat jatkaa sen voimassaoloa, joudut asioimaan toistaiseksi paikan päällä kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi tai valita jatkuvan veloituksen, jolloin veloitamme maksun kuukausittain, kunnes irtisanot tunnuksen tai oikeutesi tunnukseen päättyy esimerkiksi muuton takia.\n\nVerkossa voit maksaa uuden kauden aikaisintaan kahta viikkoa etukäteen.",
             "process_description": "",
             "processing_time": "Tunnus tulee voimaan heti, kun olet maksanut sen.",
             "costs": "Asiakaspalvelussa asioidessasi tunnus maksetaan heti. Maksutavat ovat käteinen raha ja korttimaksu. Verkossa asioidessasi voit maksaa tunnuksen verkkopankissa, debit-korteilla sekä MasterCard ja Visa -luottokorteilla (Diners Club ja American Express -kortit eivät kelpaa).",
@@ -34972,7 +34976,7 @@
             "service_id": 10090,
             "type": "APPLICATION",
             "name": "Buy a resident parking permit or extend the validity",
-            "description": "You can apply for a resident parking permit or extend it online or by visiting the Urban Environment Division's customer service point in person.\n\nIf you need a shared permit or you wish to extend an existing shared permit, currently you must visit the customer service point in person. \n\nYou can purchase permits for periods of 1-12 months or select rolling charging, whereby we will charge you a monthly fee each month until you terminate your permit or your right to a permit ends, due to you moving, for example. \n\nYou can pay for a new period no more than two weeks in advance online.\n",
+            "description": "You can apply for a resident parking permit or extend it online or by visiting the Urban Environment Division's customer service point in person.\n\nIf you have a foreign or Åland driving licence, you will need to visit the customer service point to purchase your licence for the first time. You can then extend it online.\n\nIf you need a shared permit or you wish to extend an existing shared permit, currently you must visit the customer service point in person. \n\nYou can purchase permits for periods of 1-12 months or select rolling charging, whereby we will charge you a monthly fee each month until you terminate your permit or your right to a permit ends, due to you moving, for example. \n\nYou can pay for a new period no more than two weeks in advance online.\n",
             "processing_time": "A permit will become valid as soon as you have paid for it.",
             "costs": "You can pay for your resident parking permit with cash or by card at our customer service point. Online, you can pay for a permit using your online banking service or with a debit card or a MasterCard or Visa credit card (Diners Club and American Express cards are not accepted).",
             "provided_languages": [
@@ -35034,7 +35038,7 @@
             "service_id": 10090,
             "type": "APPLICATION",
             "name": "Köp tillstånd för boendeparkering eller förläng dess giltighetstid",
-            "description": "Du kan skaffa tillstånd för boendeparkering eller förlänga dess giltighetstid via nätet eller personligen hos stadsmiljösektorns kundtjänst.\n\nOm du behöver ett grupptillstånd eller vill förlänga dess giltighetstid, måste du tills vidare besöka stadsmiljösektorns kundtjänst.\n\nDu kan köpa tillståndet för 1-12 månader eller välja kontinuerlig debitering, så att vi debiterar avgiften månadsvis tills du säger upp tillståndet eller din rätt till det upphör exempelvis på grund av att du flyttar.\n\nDu kan betala för en ny period via nätet tidigast två veckor i förväg.\n",
+            "description": "Du kan skaffa tillstånd för boendeparkering eller förlänga dess giltighetstid via nätet eller personligen hos stadsmiljösektorns kundtjänst.\n\nOm du har ett utländskt eller åländskt körkort måste du besöka stadsmiljösektorns kundtjänst för att köpa ditt boendeparkeringstillståndet för första gången. Du kan sedan förlänga dess giltighetstid via nätet.\n\nOm du behöver ett grupptillstånd eller vill förlänga dess giltighetstid, måste du tills vidare besöka stadsmiljösektorns kundtjänst.\n\nDu kan köpa tillståndet för 1-12 månader eller välja kontinuerlig debitering, så att vi debiterar avgiften månadsvis tills du säger upp tillståndet eller din rätt till det upphör exempelvis på grund av att du flyttar.\n\nDu kan betala för en ny period via nätet tidigast två veckor i förväg.\n",
             "processing_time": "Tillståndet träder i kraft direkt när du har betalat för det.",
             "costs": "Om du ansöker om tillståndet i vår kundtjänst, betalas tillståndet genast. Du kan betala med kontanter och kort. Om du betalar via nätet kan du betala för tillståndet via nätbanken, med debitkort samt med MasterCard- och Visa-kreditkort (Diners Club- och American Express-kort fungerar inte).",
             "provided_languages": [
@@ -42803,6 +42807,65 @@
         }
     },
     {
+        "id": 5504,
+        "fi": {
+            "id": 5504,
+            "exact_descriptions": [
+                4956
+            ],
+            "service_id": 10771,
+            "type": "ADVICE",
+            "name": "Sotebotti Hester",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4060,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Kysy Sotebotti Hesteriltä",
+                    "information": "Saat hoito- ja toimintaohjeita ja neuvontaa Helsingin sosiaali- ja terveyspalveluista vuorokauden ympäri. Sotebotti Hester on sivun oikeassa alakulmassa.\n",
+                    "availability_summary": "Avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 2226,
         "fi": {
             "id": 2226,
@@ -49048,6 +49111,57 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5505,
+        "fi": {
+            "id": 5505,
+            "exact_descriptions": [
+            ],
+            "service_id": 10771,
+            "type": "ADVICE",
+            "name": "Terveysasemien chat",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4061,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Keskustele chatissä ammattilaisen kanssa",
+                    "information": "Voit keskustella chatissä ammattilaisen kanssa arkisin klo 7.45-14.00, kun pyydät sitä Sotebotti Hesterin viestikentässä sivun oikeassa alakulmassa.",
+                    "availability_summary": "Avoinna ma-pe 07:45-14",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 07:45-14"
+                        }
                     ]
                 }
             ]
