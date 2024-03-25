@@ -1913,7 +1913,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Asiakaspalvelun sähköposti",
-                    "email": "sote.apuvalinepalvelut@hel.fi",
+                    "email": "sotepe.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -1990,7 +1990,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Customer service email",
-                    "email": "sote.apuvalinepalvelut@hel.fi",
+                    "email": "sotepe.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -2067,7 +2067,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Kundservice e-post",
-                    "email": "sote.apuvalinepalvelut@hel.fi",
+                    "email": "sotepe.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -34763,6 +34763,60 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5503,
+        "fi": {
+            "id": 5503,
+            "exact_descriptions": [
+                4397
+            ],
+            "service_id": 10771,
+            "type": "OTHER_ESERVICE",
+            "name": "OmaKanta",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4059,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Uusi reseptisi ja tarkastele terveystietojasi OmaKannassa",
+                    "information": "Voit pyytää säännöllisen lääkityksesi reseptin uusimista OmaKannassa, jos resepti on määrätty sinulle terveysasemalta. Kun uusit reseptin OmaKannassa, sinun ei tarvitse olla enää yhteydessä terveysasemalle. Huomaa, että uusimispyynnön käsittely voi kestää kahdeksan vuorokautta. Jos uusimispyyntösi on kiireellinen, ole puhelimitse yhteydessä terveysasemallesi.\n\nOmaKannassa voit myös tarkastella omia terveystietojasi, esimerkiksi laboratoriotuloksia tai käyntitekstejä.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry OmaKantaan",
+                            "url": "https:\/\/www.kanta.fi\/omakanta",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
