@@ -49567,11 +49567,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Liikkuvasta toiminnasta tiedottaminen",
-                    "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/yritykset-ja-yrittajat\/yritysten-luvat-ja-tilat\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/ketteran-kioskin-rekisterointi-ja-tiedotusvelvollisuus"
-                }
             ],
             "channels": [
                 {
@@ -49579,7 +49574,6 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Tiedottaminen tilapäisestä elintarvikemyynnistä sähköisesti",
-                    "prerequisites": "Käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.",
                     "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "authorization_code": "Ympäristöterveydenhuollon ilmoitukset",
                     "provided_languages": [
@@ -49587,7 +49581,7 @@
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": true,
+                    "requires_authentication": false,
                     "saved_to_customer_folder": true,
                     "e_processing": false,
                     "e_decision": false,
@@ -49602,9 +49596,9 @@
                             "file_format": "HTML"
                         },
                         {
-                            "type": "FEEDBACK",
-                            "title": "Palaute kaupunkiympäristön toimialalle",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/fi\/yhteystiedot\/Anna+palautetta\/",
+                            "type": "INTERNET",
+                            "title": "Tietoa liikkuville elintarvikehuoneistoille",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/yritykset-ja-yrittajat\/yritysten-luvat-ja-tilat\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/ketteran-kioskin-rekisterointi-ja-tiedotusvelvollisuus",
                             "file_format": "HTML"
                         }
                     ],
@@ -49684,11 +49678,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Outdoor food sales and mobile food facilities",
-                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/businesses-and-entrepreneurs\/permits-and-facilities-for-businesses\/mobile-sales-operations-food-trucks-and-mopeds-sales-carts-and-bicycle-cafes\/registering-and-notification-obligation-of-food-trucks"
-                }
             ],
             "channels": [
                 {
@@ -49696,8 +49685,6 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Notification of temporary food sales, e-service",
-                    "prerequisites": "Using the eService requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "information": "For more information call (09) 310 14000 or go to the Environment Centre's web-page.",
                     "availability_summary": "Service available every day around the clock",
                     "authorization_code": "Ympäristöterveydenhuollon ilmoitukset",
                     "provided_languages": [
@@ -49705,7 +49692,7 @@
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": true,
+                    "requires_authentication": false,
                     "saved_to_customer_folder": true,
                     "e_processing": false,
                     "e_decision": false,
@@ -49720,9 +49707,9 @@
                             "file_format": "HTML"
                         },
                         {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Urban Environment Division",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/en\/feedback\/feedback\/",
+                            "type": "INTERNET",
+                            "title": "Information for mobile food establishments",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/businesses-and-entrepreneurs\/permits-and-facilities-for-businesses\/mobile-sales-operations-food-trucks-and-mopeds-sales-carts-and-bicycle-cafes\/registering-and-notification-obligation-of-food-trucks",
                             "file_format": "HTML"
                         }
                     ],
@@ -49789,11 +49776,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Utomhusförsäljning och mobila livsmedelslokaler",
-                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/foretag-och-foretagare\/foretagens-tillstand-och-lokaler\/mobil-forsaljningsverksamhet-food-trucks-forsaljningskarror-grillmopeder-och-cafecyklar\/registering-av-en-smidig-kiosk-och-anmalningsskyldighet"
-                }
             ],
             "channels": [
                 {
@@ -49801,8 +49783,6 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Underrättelse om tillfällig försäljning, e-tjänst",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "information": "I frågor gällande anmälan kan du kontakta rådgivningen tfn (09) 310 14000.",
                     "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "authorization_code": "Ympäristöterveydenhuollon ilmoitukset",
                     "provided_languages": [
@@ -49810,7 +49790,7 @@
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": true,
+                    "requires_authentication": false,
                     "saved_to_customer_folder": true,
                     "e_processing": false,
                     "e_decision": false,
@@ -49825,9 +49805,9 @@
                             "file_format": "HTML"
                         },
                         {
-                            "type": "FEEDBACK",
-                            "title": "Respons till stadsmiljösektorn",
-                            "url": "https:\/\/www.hel.fi\/kaupunkiymparisto\/sv\/kontaktuppgifter-och-respons\/Respons\/",
+                            "type": "INTERNET",
+                            "title": "Information för mobila livsmedelslokaler",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/foretag-och-foretagare\/foretagens-tillstand-och-lokaler\/mobil-forsaljningsverksamhet-food-trucks-forsaljningskarror-grillmopeder-och-cafecyklar\/registering-av-en-smidig-kiosk-och-anmalningsskyldighet",
                             "file_format": "HTML"
                         }
                     ],
