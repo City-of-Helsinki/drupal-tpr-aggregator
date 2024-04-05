@@ -41842,7 +41842,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Lähetä viesti",
-                            "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiavastaava@hel.fi"
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=sotepe.potilasasiavastaava@hel.fi"
                         }
                     ],
                     "availabilities": [
@@ -41953,7 +41953,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Send a message",
-                            "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiavastaava@hel.fi"
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=sotepe.potilasasiavastaava@hel.fi"
                         }
                     ],
                     "availabilities": [
@@ -42064,7 +42064,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Skicka ett meddelande",
-                            "url": "https:\/\/securemail.hel.fi\/?recipient=sosiaali.potilasasiavastaava@hel.fi"
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=sotepe.potilasasiavastaava@hel.fi"
                         }
                     ],
                     "availabilities": [
@@ -56268,7 +56268,7 @@
             "process_description": "Hakemuslomakkeessa on ohjeet lomakkeen täyttämisestä. Puuttuvat tai virheelliset tiedot näkyvät punaisella sivukohtaisesti.  \n\nHakemuksella pääsee siirtymään eteen päin kun kaikki pakolliset kentät on täytetty. Hakemuksen voi tallentaa luonnoksena ja luonnosta voi myöhemmin muokata. Luonnos poistuu, kun hakemus lähetetään. Lähettämisen jälkeen lomake on muokattavissa, kunnes se lukitaan, 3 kk ennen tarpeen alkua ja kiireellisessä tilanteessa nopeammin. \n \nLähetetty hakemus tallentuu Asti-asiointipalveluun. Palvelu ilmoittaa lähetyksen onnistumisesta. Hakija voi seurata hakemuksen tilaa järjestelmässä. Lähetetyn, käsittelyä odottavan hakemuksen tila on Lähetetty. Hakemusta voi muokata, kunnes hakemus lukitaan. Kun hakemus otetaan käsittelyyn, hakemuksen tilaksi muuttuu Käsittelyssä. \n \nVarhaiskasvatushakemukseen tehdään aina päätös tarpeen alkamispäivästä lähtien ja mahdollisuuksien mukaan perheen esittämistä vaihtoehdoista. \n \nPäätös varhaiskasvatuspaikasta on nähtävissä sähköisesti lapsen huoltajille Astissa.\n \nHakemus voidaan poistaa ennen päätöksen tekemistä. Poistetun hakemuksen tila on Poistettu. Se on silloin poistettu järjestelmästä.  \n \nKäsittelyaikana hakemukseen tulevista muutoksista ilmoitetaan soittamalla palveluohjaukseen.\n",
             "processing_time": "Hakemuksen käsittelyaika on enintään neljä kuukautta, ellei hakija ilmoita hoidon alkamiselle myöhäisempää alkamispäivää. Hakemuksen käsittely alkaa noin kolme kuukautta ennen toivottua aloituspäivää.",
             "expiration_time": "Hakemus on voimassa yhden vuoden lähetyspäivästä lukien.",
-            "costs": "Huomioi maksupäätöksen kansio \n\nMaksupäätökset toimitetaan toiseen Helsingin kaupungin sähköiseen asiointikansioon osoitteessa asiointi.hel.fi sille huoltajalle, joka on tehnyt hakemuksen. Tämä on siis eri järjestelmä, kun mihin varhaiskasvatuspäätös tulee ja huoltajan tulee katsoa asiakasmaksupäätöksiä sieltä.    \n",
+            "costs": "Huomioi maksupäätöksen kansio \n\nMaksupäätökset toimitetaan toiseen Helsingin kaupungin sähköiseen asiointikansioon osoitteessa asiointi.hel.fi sille huoltajalle, joka on tehnyt hakemuksen. Tämä on siis eri järjestelmä, kun mihin varhaiskasvatuspäätös tulee ja huoltajan tulee katsoa asiakasmaksupäätöksiä sieltä.\n\n8.4.2024 alkaen varhaiskasvatuksen ja esiopetuksen maksupäätökset ja palvelunaikaiset päätökset näkyvät sähköisessä asiointipalvelu Edlevossa.     \n",
             "information": "Varhaiskasvatushakemuksen voi tehdä aikaisintaan vuotta ennen toivottua alkamispäivää.  \n  \nVarhaiskasvatuspaikkaa voi hakea myös Helsingin ulkopuolella asuvat. Paikan saamisen edellytyksenä on, että perheellä on varhaiskasvatuksen alkaessa kotipaikkana Helsinki. ",
             "provided_languages": [
                 "en",
@@ -56293,6 +56293,11 @@
                     "type": "INTERNET",
                     "title": "Varhaiskasvatuksen palveluohjaus",
                     "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/varhaiskasvatus\/varhaiskasvatuksen-ja-esiopetuksen-yhteystiedot#Kysymyksi%C3%A4-hakemisesta?-%E2%80%93-Ota-yhteytt%C3%A4-palveluohjaukseen"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Sähköinen asiointi Edlevo",
+                    "url": "https:\/\/www.hel.fi\/vakapalvelu"
                 }
             ],
             "channels": [
@@ -56344,7 +56349,7 @@
             "process_description": "The application form includes instructions on how to fill in the form. Missing or incorrect information is marked in red on each page.  \n\nThe application form lets you move forward once all required fields are filled in. You can save the application as a draft and edit it later. The draft will be deleted when you submit the application. After submitting the application, you can edit it until it will be locked three months before the need for the service, or sooner if your case is urgent. \n \nThe submitted application is saved in the Asti online service. The service will notify you if it is sent successfully. You can monitor the application status in the system. The status of a submitted application that is awaiting processing is Submitted. Submitted applications can be edited until the application is locked. When the processing of the application starts, the status of the application changes to In Process. \n \nAn official decision is always made regarding an application for early childhood starting from the start date of the service and, where possible, from the options proposed by the family. \n \nThe decision on the early childhood education place can be viewed electronically by the child's guardians on Asti.\n \nYou can delete your application before a decision is made. The status of a deleted application is Deleted. It is then removed from the system.  \n \nIf you wish to make changes to the application during the processing time, please call the Service guidance for early childhood education.\n",
             "processing_time": "The processing time of an application is up to 4 months, unless you indicate a later start date for the service. Applications are taken into processing about 2 months before the desired start date.",
             "expiration_time": "The application is valid for 12 months from the date it was submitted.",
-            "costs": "Note the fee decision folder.\n\nDecisions on fees are delivered to another online service folder of City of Helsinki at asiointi.hel.fi to the guardian who submitted the application. They are delivered to a different system than the early childhood education decision, and you should check for the client fee decisions there.   \n",
+            "costs": "Note the fee decision folder.\n\nDecisions on fees are delivered to another online service folder of City of Helsinki at asiointi.hel.fi to the guardian who submitted the application. They are delivered to a different system than the early childhood education decision, and you should check for the client fee decisions there.  \n \nPayment and other decisions concerning early childhood education in Helsinki can be accessed via the new Edlevo e-service from 8 April 2024 onwards.",
             "information": "An application for early childhood education can be submitted 12 months before the desired start date. \n \nPeople living outside Helsinki can also apply for an early childhood education place, on the condition that the family must officially live in Helsinki by the beginning of the early childhood education. \n",
             "provided_languages": [
                 "en",
@@ -56369,6 +56374,11 @@
                     "type": "INTERNET",
                     "title": "Early childhood education service guidance",
                     "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/contact-information-of-early-childhood-and-pre-primary-education"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Edlevo e-service",
+                    "url": "https:\/\/www.hel.fi\/vakapalvelu"
                 }
             ],
             "channels": [
@@ -56419,7 +56429,7 @@
             "process_description": "I ansökningsformuläret finns instruktioner om hur du ska fylla i formuläret. Uppgifter som saknas eller är felaktiga visas i röd text på den sida där informationen fattas.  \n\nDu kan gå vidare i ansökningsprocessen när alla fält i formuläret är ifyllda. Ansökan kan sparas som utkast och utkastet går att redigera senare. Utkastet försvinner när ansökan skickas in. Efter att ansökan skickas in kan den redigeras tills den är låst, tre månader innan behovet börjar och snabbare i en brådskande situation. \n \nDen inskickade ansökan sparas automatiskt i e-tjänsten Asti. Du får en avisering när ansökan kommit fram. Den sökande kan följa med ansökningens status i Asti. Status för en inskickad ansökan som väntar på behandling är Skickad. Ansökan kan redigeras tills den är låst. När behandlingen av ansökan börjar ändras status till I behandling.  \n \nBeslut om ansökan om småbarnspedagogik fattas från och med det datum man önskar att småbarnspedagogiken ska inledas och i mån av möjlighet enligt familjens önskemål. \n \nBarnets vårdnadshavare kan se beslutet om en plats inom småbarnspedagogiken i Asti.\n \nDu kan radera ansökan innan beslutet har fattats. Status för en raderad ansökan är Annullerad. Då finns ansökan inte längre i systemet.  \n \nUnder behandlingstiden kan du meddela om ändringar i ansökan genom att ringa till servicehandledningen.\n",
             "processing_time": "Behandlingstiden för ansökan är högst fyra mån, om du inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen av ansökan börjar ungefär tre månader före önskat startdatum.",
             "expiration_time": "Ansökan är i kraft ett år efter det att den skickats in.",
-            "costs": "Notera ärendemappen för kundavgiftsbeslutet.\n\nAvgiftsbeslut skickas till en annan ärendemapp i Helsingfors stads e-tjänster på adressen asiointi.hel.fi till den vårdnadshavare som har lämnat in ansökan. Kundavgiftsbeslutet och beslutet om småbarnspedagogik skickas alltså till olika e-tjänster.   \n\n",
+            "costs": "Notera ärendemappen för kundavgiftsbeslutet.\n\nAvgiftsbeslut skickas till en annan ärendemapp i Helsingfors stads e-tjänster på adressen asiointi.hel.fi till den vårdnadshavare som har lämnat in ansökan. Kundavgiftsbeslutet och beslutet om småbarnspedagogik skickas alltså till olika e-tjänster.  \n\nFrån och med den 8.4.2024 syns småbarnspedagogikens och förskoleundervisningens klientavgiftsbeslut och beslut som fattats efter att barnet börjat småbarnspedagogiken i e-tjänsten Edlevo. \n\n",
             "information": "Ansökan om småbarnspedagogik kan göras tidigast ett år före det önskade startdatumet. \n \nOckså personer som bor utanför Helsingfors kan ansöka om en plats inom småbarnspedagogik. För att få en plats i småbarnpedagogiken måste familjen ändå bo i Helsingfors när barnet inleder småbarnspedagogiken. \n",
             "provided_languages": [
                 "en",
@@ -56444,6 +56454,11 @@
                     "type": "INTERNET",
                     "title": "Småbarnspedagogikens servicehandledning",
                     "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/smabarnspedagogikens-och-forskoleundervisningens-kontaktuppgifter"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "E-tjänsten Edlevo",
+                    "url": "https:\/\/www.hel.fi\/vakapalvelu"
                 }
             ],
             "channels": [
