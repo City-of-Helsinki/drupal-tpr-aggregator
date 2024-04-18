@@ -32413,7 +32413,7 @@
                     "id": 3710,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Rådgivningsbyråernas centraliserade betjänining och tidsbokning (Återuppringningstjänsten betjänar dig kl. 8-16)",
+                    "name": "Rådgivningsbyråernas centraliserade betjäning och tidsbokning (Återuppringningstjänsten betjänar dig kl. 8-16)",
                     "availability_summary": "Öppet mån-fre 08-14",
                     "phone": "09 3105 5530",
                     "call_charge_info": "msa\/lna",
@@ -37572,7 +37572,7 @@
             ],
             "service_id": 10322,
             "type": "ADVICE",
-            "name": "Perhehoidon sosiaalityöntekijät",
+            "name": "Perhehoidon työntekijöiden yhteystiedot",
             "description": "Perhehoidon sosiaalityöntekijät",
             "provided_languages": [
                 "fi",
@@ -37593,8 +37593,8 @@
                     "id": 3909,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Sosiaalityöntekijän puhelinnumero, 09 3104 3821",
-                    "phone": "+358 9 3104 3821",
+                    "name": "Toimistosihteeri",
+                    "phone": "+358 9 310 43170",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -37614,8 +37614,29 @@
                     "id": 3910,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Sosiaalityöntekijän puhelinnumero, 09 3106 9845 ",
-                    "phone": "+358 9 3106 9845 ",
+                    "name": "Sosiaaliohjaaja",
+                    "phone": "+358 9 310 69845",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4074,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Sosiaalityöntekijä",
+                    "phone": "+358 9 310 43821",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -37640,7 +37661,7 @@
             ],
             "service_id": 10322,
             "type": "ADVICE",
-            "name": "Family care in family homes",
+            "name": "Family care contact details",
             "description": "Family care in family homes",
             "provided_languages": [
                 "fi",
@@ -37661,8 +37682,8 @@
                     "id": 3909,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
-                    "name": "Social worker tel. 09 3104 3821",
-                    "phone": "+358 9 3104 3821",
+                    "name": "Office secretary",
+                    "phone": "+358 9 310 43170",
                     "call_charge_info": "toll free",
                     "provided_languages": [
                     ],
@@ -37682,8 +37703,29 @@
                     "id": 3910,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
+                    "name": "Social instructor",
+                    "phone": "+358 9 310 69845",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4074,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
                     "name": "Social worker",
-                    "phone": "+358 9 3106 9845 ",
+                    "phone": "+358 9 310 43821",
                     "call_charge_info": "toll free",
                     "provided_languages": [
                     ],
@@ -37708,7 +37750,7 @@
             ],
             "service_id": 10322,
             "type": "ADVICE",
-            "name": "Socialarbetare",
+            "name": "Kontaktuppgifter till familjevårdspersonalen",
             "description": "Socialarbetare inom familjevården.",
             "provided_languages": [
                 "fi",
@@ -37729,8 +37771,8 @@
                     "id": 3909,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Socialarbetare tel. 09 3104 3821",
-                    "phone": "+358 9 3104 3821",
+                    "name": "Byråsekreterare",
+                    "phone": "+358 9 310 43170",
                     "call_charge_info": "gratis",
                     "provided_languages": [
                     ],
@@ -37750,8 +37792,29 @@
                     "id": 3910,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
+                    "name": "Socialhandledare",
+                    "phone": "+358 9 310 69845",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4074,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
                     "name": "Socialarbetare",
-                    "phone": "+358 9 3106 9845 ",
+                    "phone": "+358 9 310 43821",
                     "call_charge_info": "gratis",
                     "provided_languages": [
                     ],
