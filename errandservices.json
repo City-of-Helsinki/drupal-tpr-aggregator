@@ -14099,7 +14099,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry henkilötietojen korjausvaatimukseen",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/korjauspyynto",
+                            "url": "https:\/\/lomake.hel.fi\/henkilotietojen_korjausvaatimus",
                             "file_format": "HTML"
                         }
                     ],
@@ -14192,7 +14192,7 @@
                         {
                             "type": "FORM",
                             "title": "Go to the Demand for rectification of personal data",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/korjauspyynto",
+                            "url": "https:\/\/lomake.hel.fi\/henkilotietojen_korjausvaatimus",
                             "file_format": "HTML"
                         }
                     ],
@@ -14285,7 +14285,7 @@
                         {
                             "type": "FORM",
                             "title": "Gå till begäran om rättelse av personuppgifter",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/korjauspyynto",
+                            "url": "https:\/\/lomake.hel.fi\/henkilotietojen_korjausvaatimus",
                             "file_format": "HTML"
                         }
                     ],
@@ -41707,6 +41707,65 @@
         }
     },
     {
+        "id": 5538,
+        "fi": {
+            "id": 5538,
+            "exact_descriptions": [
+                8949
+            ],
+            "service_id": 10686,
+            "type": "APPOINTMENT",
+            "name": "Sisätautien poliklinikoiden ajanvaraus",
+            "name_synonyms": "puhelinpalvelu ajanvarausnumero",
+            "description": "Ajanvaraus sisätautien poliklinikalle Laakon ja Malmin sairaaloihin sekä Malmin poliklinikan silmänpohjakuvaukseen.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4100,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "availability_summary": "Avoinna ma-to 08-14, pe 08-",
+                    "phone": "+358 9 310 47692",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 08-14"
+                        },
+                        [
+                        ]
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4494,
         "fi": {
             "id": 4494,
@@ -56794,7 +56853,6 @@
             "id": 5236,
             "exact_descriptions": [
                 7562,
-                9554,
                 9573
             ],
             "service_id": 10441,
