@@ -41736,7 +41736,9 @@
                     "id": 4100,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ma-to 08-14, pe 08-",
+                    "name": "Sisätautien poliklinikoiden ajanvaraus",
+                    "information": "Voit varata tästä numerosta ajan Laakson ja Malmin sisätautien poliklinikoille sekä silmänpohjakuvaukseen Malmin poliklinikalle. Tarvitset ajanvaraukseen yleislääkärin lähetteen. \n\nPuhelinpalvelussamme on käytössä takaisinsoittopalvelu. Soitamme sinulle takaisin enintään kolmesti.",
+                    "availability_summary": "Avoinna ma-to 08-14, pe 08-13",
                     "phone": "+358 9 310 47692",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -41754,8 +41756,9 @@
                         {
                             "availability_string": "Avoinna ma-to 08-14"
                         },
-                        [
-                        ]
+                        {
+                            "availability_string": "Avoinna pe 08-13"
+                        }
                     ]
                 }
             ]
