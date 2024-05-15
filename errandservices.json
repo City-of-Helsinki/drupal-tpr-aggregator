@@ -37475,6 +37475,7 @@
             "service_id": 10578,
             "type": "APPOINTMENT",
             "name": "Counseling and scheduling appointments for mediation of family matters",
+            "description": "Advice and appointment booking in matters related to the mediation of family matters.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -37526,6 +37527,7 @@
             "service_id": 10578,
             "type": "APPOINTMENT",
             "name": "Medling i familjefrågor",
+            "description": "Rådgivning och tidsbokning i ärenden som gäller medling i familjefrågor.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -41973,7 +41975,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Lähetä viesti",
+                            "title": "Lähetä suojattu sähköposti",
                             "url": "https:\/\/securemail.hel.fi\/?recipient=sotepe.potilasasiavastaava@hel.fi"
                         }
                     ],
@@ -43080,8 +43082,7 @@
         "fi": {
             "id": 5504,
             "exact_descriptions": [
-                4956,
-                9722
+                4956
             ],
             "service_id": 10771,
             "type": "ADVICE",
