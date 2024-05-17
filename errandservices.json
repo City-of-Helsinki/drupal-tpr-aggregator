@@ -12178,6 +12178,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -12188,7 +12189,7 @@
                     "id": 3310,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hakemus Hekan vuokra-asuntoon",
+                    "name": "Hae Hekan vuokra-asuntoa",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -12199,7 +12200,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -12215,7 +12216,7 @@
                     "id": 4024,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Vuokra-asunnon haun neuvonta",
+                    "name": "Vuokra-asunnon haun neuvonnan sähköposti",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -12224,7 +12225,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -12235,7 +12236,7 @@
                     "id": 4037,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Puhelinpalvelu",
+                    "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
                     "availability_summary": "Avoinna ma, to 09-12, ti-ke 12:30-15:30, pe 12-15",
                     "phone": "0931013030",
                     "call_charge_info": "pvm\/mpm",
@@ -12246,7 +12247,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -12284,6 +12285,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -12294,7 +12296,7 @@
                     "id": 3310,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Application for a Heka rental apartment",
+                    "name": "Apply for a Heka rental apartment",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -12305,7 +12307,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -12321,6 +12323,7 @@
                     "id": 4024,
                     "type": "EMAIL",
                     "type_string": "E-mail",
+                    "name": "Rental apartment search customer service email",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -12329,7 +12332,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -12340,6 +12343,7 @@
                     "id": 4037,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
+                    "name": "Rental apartment search telephone service",
                     "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 12:30-15:30, Fri 12-15",
                     "phone": "0931013030",
                     "call_charge_info": "mobile call charge \/ local network charge",
@@ -12350,7 +12354,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -12375,7 +12379,7 @@
             ],
             "service_id": 10311,
             "type": "APPLICATION",
-            "name": "Ansök om en Heka-hyresbostad",
+            "name": "Ansökan om en Heka-hyresbostad",
             "description": "Ansök om en Heka-hyresbostad genom att fylla i en bostadsansökan. Observera att du måste bekräfta din ansökan genom att identifiera dig antingen med nätbankskoder eller ett mobilcertifikat så att din ansökan kan iakttas i valet av boende.\n \nDu kan även ansöka om en bostad med en medsökande. I så fall måste även den medsökande bekräfta ansökan genom att identifiera sig med nätbankskoder eller ett mobilcertifikat. Systemet klassificerar ansökan på grundval av hur brådskande behovet av bostad är. \n\nOm du inte har nätbankskoder eller ett mobilcertifikat, kan du besöka kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att bevisa din identitet med ett officiellt identitetsbevis (pass eller identitetskort). \n",
             "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
             "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
@@ -12388,6 +12392,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -12398,7 +12403,7 @@
                     "id": 3310,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om en Heka-hyrestostad",
+                    "name": "Ansök om en Heka-hyrestostad",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -12409,7 +12414,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -12425,6 +12430,7 @@
                     "id": 4024,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "Rådgivning om ansökan om hyresbostad, e-post",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -12433,7 +12439,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -12444,6 +12450,7 @@
                     "id": 4037,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
+                    "name": "Rådgivning om ansökan om hyresbostad, telefontjänst",
                     "availability_summary": "Öppet mån, tor 09-12, tis-ons 12:30-15:30, fre 12-15",
                     "phone": "0931013030",
                     "call_charge_info": "msa\/lna",
@@ -12454,7 +12461,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -15193,7 +15200,7 @@
                     "id": 3302,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Asumisen palvelut, Hitas-asiat puhelinpalvelu",
+                    "name": "Hitas-asioiden puhelinpalvelu",
                     "availability_summary": "Avoinna ma-to 09-11",
                     "phone": "09 310 13033",
                     "call_charge_info": "pvm\/mpm",
@@ -15218,7 +15225,7 @@
                     "id": 3303,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Asumisen palvelut, Hitas-asiat sähköposti",
+                    "name": "Hitas-asioiden sähköposti",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15265,6 +15272,7 @@
                     "id": 3302,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
+                    "name": "Hitas housing telephone service",
                     "availability_summary": "Open Mon-Thu 09-11",
                     "phone": "09 310 13033",
                     "call_charge_info": "mobile call charge \/ local network charge",
@@ -15289,6 +15297,7 @@
                     "id": 3303,
                     "type": "EMAIL",
                     "type_string": "E-mail",
+                    "name": "Hitas housing, email",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15335,6 +15344,7 @@
                     "id": 3302,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
+                    "name": "Telefontjänst för Hitas-ärenden",
                     "availability_summary": "Öppet mån-tor 09-11",
                     "phone": "09 310 13033",
                     "call_charge_info": "msa\/lna",
@@ -15359,6 +15369,7 @@
                     "id": 3303,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "E-post för Hitas-ärenden",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -30684,7 +30695,7 @@
                     "id": 3314,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hakemus lyhytaikaiseen vuokra-asuntoon",
+                    "name": "Hae lyhytaikaista vuokra-asuntoa",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -30755,7 +30766,7 @@
                     "id": 3314,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Application for short-term apartment",
+                    "name": "Apply for a short-term apartment",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -30826,7 +30837,7 @@
                     "id": 3314,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om en kortvarig bostad",
+                    "name": "Ansök om en kortvarig bostad",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -33672,7 +33683,7 @@
                     "id": 3304,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Asukasvalinnat, sähköposti",
+                    "name": "Asukkaiden valinnan valvonnan sähköposti",
                     "process_description": "Lähetä tiedot asukasvalinnoista sähköpostitse.",
                     "email": "asvalvonta@hel.fi",
                     "provided_languages": [
@@ -33741,7 +33752,7 @@
                     "id": 3304,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "Tenant selection, e-mail",
+                    "name": "Tenant selection supervision, email",
                     "process_description": "Send the tenant selection information via secure e-mail.",
                     "email": "asvalvonta@hel.fi",
                     "provided_languages": [
@@ -33815,7 +33826,7 @@
                     "id": 3304,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "Valet av boende, e-post",
+                    "name": "Tillsyn över valet av boende, e-post",
                     "process_description": "Skicka in uppgifterna om valen av boende exempelvis per krypterad e-post.",
                     "email": "asvalvonta@hel.fi",
                     "provided_languages": [
@@ -35511,7 +35522,7 @@
                     "id": 3568,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Asumisterveysneuvonnan sähköpostiosoite",
+                    "name": "Asumisterveysneuvonnan sähköposti",
                     "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
@@ -35586,7 +35597,7 @@
                     "id": 3568,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "Housing health advisory service, email address",
+                    "name": "Housing health advisory service, email",
                     "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
@@ -35661,7 +35672,7 @@
                     "id": 3568,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "E-postadress för rådgivning om boendehälsa",
+                    "name": "Rådgivning om boendehälsa, e-post",
                     "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
@@ -52544,7 +52555,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Lataa tupakointikieltohakemus (pdf)",
+                            "title": "Tupakointikieltohakemus viranomaiselle (pdf)",
                             "url": "https:\/\/hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asuntoyhteisojen-tupakointikieltohakemus.pdf",
                             "file_format": "PDF"
                         }
@@ -52580,6 +52591,25 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 3816,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a smoking ban",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -52625,7 +52655,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gå till ansöksningsblanketten",
+                            "title": "Ansökan om rökförbud till myndigheter (pdf)",
                             "url": "https:\/\/hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/ansokan-om-rokforbud.pdf",
                             "file_format": "PDF"
                         }
@@ -55621,7 +55651,7 @@
                     "id": 3259,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Vapaarahoitteisen asunnon hakemus",
+                    "name": "Hae vapaarahoitteista vuokra-asuntoa",
                     "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
                     "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
                     "provided_languages": [
@@ -55684,7 +55714,7 @@
                     "id": 3259,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Application for non-subsidised apartment",
+                    "name": "Apply for a non-subsidised rental apartment",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -55745,7 +55775,7 @@
                     "id": 3259,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om en fritt-finansierad bostad",
+                    "name": "Ansök om en fritt-finansierad bostad",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -57263,7 +57293,7 @@
             "type": "APPLICATION",
             "name": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
             "description": "Tee ilmoitus vähintään 7 vuorokautta ennen suunniteltua työn aloittamista. Lähetä ilmoitus liitteineen: luvat@hel.fi",
-            "processing_time": "6 vrk",
+            "processing_time": "2 vrk",
             "information": "Ilmoitukseen liitteet:\n\n- Suunnitelma tilapäisistä liikennejärjestelyistä, jos työskentely vaikuttaa jalankulun, pyöräilyn tai moottoriajoneuvoliikenteen järjestelyihin tai pysäköintipaikkoja varataan muuhun käyttöön siirtokehotuskyltillä.\n- Valtakirja, jos ilmoituksen tekee joku muu kuin työstä vastaava. Ilmoituksen voi tehdä urakoitsija, jos se on työteknisistä syistä tarkoituksenmukaista. \n\nAlueen vuokraus on maksullinen. Katso hinnat kohdasta maksut.\n",
             "provided_languages": [
                 "en",
@@ -57316,7 +57346,7 @@
             "type": "APPLICATION",
             "name": "Rent a street or park area as a temporary work area",
             "description": "Submit the notification at least seven days before you plan to start work. Send the notification and its attachments to luvat@hel.fi.",
-            "processing_time": "6 days",
+            "processing_time": "2 days",
             "information": "Notification attachments:\n\n- A plan for temporary traffic arrangements if the work will affect the arrangements for pedestrian, bicycle or motor vehicle traffic, or if you reserve parking spaces for other use with street signs urging vehicle owners to move their parked vehicles.\n- A power of attorney if the notification is submitted by someone other than the person responsible for the work. The contractor may submit the notification if it is appropriate for practical reasons relating to the work. \n\nThe area rental is subject to a fee. See the prices in the fees section.\n",
             "provided_languages": [
                 "en",
@@ -57368,7 +57398,7 @@
             "type": "APPLICATION",
             "name": "Hyr ett gatu- eller parkområde som tillfälligt arbetsområde",
             "description": "Gör anmälan minst sju dygn innan det planerade arbetet inleds. Skicka anmälan med bilagor till luvat@hel.fi",
-            "processing_time": "6 dygn",
+            "processing_time": "2 dygn",
             "information": "Bilagor till anmälan\n\n- Plan för tillfälliga trafikarrangemang, om arbetet inverkar på arrangemangen för gång, cykling eller motorfordonstrafik eller om parkeringsplatser reserveras för annan användning med en skylt om flyttningsuppmaning.\n- Fullmakt, om någon annan än den som ansvarar för arbetet gör anmälan. Entreprenören kan göra anmälan om det är ändamålsenligt av arbetstekniska skäl. \n\nDet är avgiftsbelagt att hyra ett område. Se priserna i punkten avgifter.\n",
             "provided_languages": [
                 "en",
