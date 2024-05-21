@@ -27540,6 +27540,7 @@
         "fi": {
             "id": 5476,
             "exact_descriptions": [
+                7667
             ],
             "service_id": 10428,
             "type": "APPOINTMENT",
@@ -27563,42 +27564,11 @@
             ],
             "channels": [
                 {
-                    "id": 4039,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tarvitsen apua verkkolomake ja Maisa-palvelu",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry Maisaan",
-                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Avaa verkkolomake",
-                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 4040,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Suomenkielinen puhelinpalvelu",
+                    "information": "Lapsiperheiden kotipalvelun asiakasohjaus ja tilauspalvelun ajanvaraus on avoinna arkisin klo 8-13, takaisinsoitto klo 8-16.\n\nLapsiperheiden kotipalvelun asiakasohjaus ja tilauspalvelun peruutus on avoinna arkisin klo 7-13, takaisinsoitto klo 7-16.\n\nPalvelua saa ruotsiksi ajanvarauksessa sekä peruutuksessa maanantaisin edellä mainittuina kellon aikoina.",
                     "availability_summary": "Avoinna ma-pe 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "maksuton",
@@ -27643,12 +27613,62 @@
                             "availability_string": "Avoinna ma 08-13"
                         }
                     ]
+                },
+                {
+                    "id": 4117,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Maisa-asiointipalvelu",
+                    "information": "1. Klikkaa Maisan etusivulle ja kirjaudu palveluun Suomi.fi-tunnistuspalvelussa. Jos olet ladannut sovelluksen, voit mennä Maisaan myös sieltä.\n\n2. Valitse ylävalikosta Valikko ja sivuvalikosta Sosiaalihuolto.\n\n3. Valitse Hakemus\/yhteydenotto lapsiperheiden palveluihin.\n\n4. Klikkaa Tee hakemus ja seuraa ohjeita.\n\nVastaamme sinulle kolmen arkipäivän kuluessa. Jos emme tavoita sinua puhelimitse, vastaamme sinulle Maisassa.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4118,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tarvitsen apua -verkkolomake",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "\tSiirry verkkolomakkeelle",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
         "en": {
             "id": 5476,
             "exact_descriptions": [
+                7667
             ],
             "service_id": 10428,
             "type": "APPOINTMENT",
@@ -27672,42 +27692,11 @@
             ],
             "channels": [
                 {
-                    "id": 4039,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "I need help-online form and Maisa oneline service",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to Maisa",
-                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login?lang=britishenglish"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to the oneline form",
-                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 4040,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Telephone service in Finnish",
+                    "information": "Customer guidance for home services for families with children and appointment booking for the service are open Mon-Fri 8.00-13.00 and call-back service, 8.00-16.00.\n\nCustomer guidance and cancellation of the home services for families with children are open Mon-Fri 7.00-13.00, and call-back service 7.00-16.00.\n\nThe phone services are available in Swedish on Mondays during the aforementioned times.",
                     "availability_summary": "Open Mon-Fri 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "toll free",
@@ -27752,12 +27741,62 @@
                             "availability_string": "Open Mon 08-13"
                         }
                     ]
+                },
+                {
+                    "id": 4117,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Maisa online service",
+                    "information": "1. Go to Maisa's front page and log in by using the Suomi.fi identification service. If you have downloaded the app on your phone, you can also log into Maisa from there.\n\n2. Select Menu and Social Services from the dropdown menu.\n\n3. Select Application\/contact services for families with children.  \n\n4. Click Make an application and follow the instructions.  \n\nWe will respond to you within three working days. If we cannot reach you by phone, we will message you in Maisa.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "\tGo to Maisa",
+                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login?lang=britishenglish"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4118,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "I need help-online form",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": " I need help-online form",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
         "sv": {
             "id": 5476,
             "exact_descriptions": [
+                7667
             ],
             "service_id": 10428,
             "type": "APPOINTMENT",
@@ -27781,42 +27820,11 @@
             ],
             "channels": [
                 {
-                    "id": 4039,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Jag behöver hjälp -onlineformulär och Maisa onelinetjänst",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till Maisa",
-                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=swedish"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till onelineformuläret",
-                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 4040,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänst på finska",
+                    "information": "Kundrådgivningen och tidsbokningen för barnfamiljernas hemservice är öppen vardagar kl. 8-13, återuppringning kl. 8-16.\n\nKundrådgivningen och avbokningen för barnfamiljernas hemservicen och avbokningen är öppen vardagar kl. 7-13, återuppringning kl. 7-16.\n\nBetjäning på svenska vid beställning och avbokning på måndagar de tider som anges ovan.",
                     "availability_summary": "Öppet mån-fre 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "gratis",
@@ -27860,6 +27868,55 @@
                         {
                             "availability_string": "Öppet mån 08-13"
                         }
+                    ]
+                },
+                {
+                    "id": 4117,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Maisa onlinetjänst",
+                    "information": "1. Öppna Maisas framsida och logga in i tjänsten med Suomi.fi-identifikation. Om du har laddat ned Maisa-appen kan du också logga in i Maisa i den. \n\n2. Välj i den övre menyn Meny och i sidomenyn Socialvård. \n\n4. Välj Ansökan\/kontakt med tjänsterna för barnfamiljer. \n\n3. Klicka på Gör ansökan och följ anvisningarna. \n\nVi svarar inom tre vardagar. Om vi inte kan nå dig per telefon, svarar vi dig i Maisa.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Maisa",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=swedish"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4118,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Jag behöver hjälp -onlineformulär",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Jag behöver hjälp -onlineformulär",
+                            "url": "https:\/\/turvalomake.hel.fi\/tarvitsenapua"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -28108,7 +28165,6 @@
             "exact_descriptions": [
                 2926,
                 7636,
-                7667,
                 9195,
                 9408,
                 9512,
@@ -28242,7 +28298,6 @@
             "exact_descriptions": [
                 2926,
                 7636,
-                7667,
                 9195,
                 9408,
                 9512,
@@ -28299,6 +28354,7 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Maisa online service",
+                    "information": "1. Go to Maisa's front page and log in by using the Suomi.fi identification service. If you have downloaded the app on your phone, you can also log into Maisa from there.\n\n2. Select Menu and Social Services from the dropdown menu.\n\n3. Select Application\/contact services for families with children.  \n\n4. Click Make an application and follow the instructions.  \n\nWe will respond to you within three working days. If we cannot reach you by phone, we will message you in Maisa.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -28375,7 +28431,6 @@
             "exact_descriptions": [
                 2926,
                 7636,
-                7667,
                 9195,
                 9408,
                 9512,
@@ -28432,6 +28487,7 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Maisa onlinetjänst",
+                    "information": "1. Öppna Maisas framsida och logga in i tjänsten med Suomi.fi-identifikation. Om du har laddat ned Maisa-appen kan du också logga in i Maisa i den. \n\n2. Välj i den övre menyn Meny och i sidomenyn Socialvård. \n\n4. Välj Ansökan\/kontakt med tjänsterna för barnfamiljer. \n\n3. Klicka på Gör ansökan och följ anvisningarna. \n\nVi svarar inom tre vardagar. Om vi inte kan nå dig per telefon, svarar vi dig i Maisa.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
