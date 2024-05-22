@@ -52576,6 +52576,7 @@
             "name_synonyms": "asuntoyhteisö, talonyhtiö",
             "description": "Toimita tupakointikieltohakemus Helsingin kaupungin kirjaamoon sähköisesti helsinki.kirjaamo@hel.fi tai postitse osoitteeseen Kirjaamo, PL 10, 00099 Helsingin kaupunki.",
             "processing_time": "Käsittelemme hakemukset saapumisjärjestyksessä. Käsittelyaika on 4 kuukautta täydellisen hakemuksen saapumisesta päätökseen. ",
+            "information": "Jos sinulla on kysyttävää tupakointikieltohakemuksista, voit ottaa yhteyttä ympäristöpalveluihin sähköpostitse tai puhelimitse.\n\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -52589,12 +52590,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lisätietoja tupakointikiellon hakemisesta Valviran sivuilla",
-                    "url": "https:\/\/valvira.fi\/tupakka\/tupakointikiellot",
-                    "file_format": "HTML"
-                }
             ],
             "channels": [
                 {
@@ -52665,6 +52660,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Smoking ban application (pdf, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/asuntoyhteisojen-tupakointikieltohakemus.pdf",
+                            "file_format": "PDF"
+                        }
                     ],
                     "availabilities": [
                     ]
