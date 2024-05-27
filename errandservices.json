@@ -9955,6 +9955,7 @@
             "type": "APPLICATION",
             "name": "Hae tonttijakoa",
             "description": "Hae tonttijakoa sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nTonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.\n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla kiinteistötoimitushakemuksella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta. Ohjeita hakemuksen tekemiseksi Lupapisteessä löydät sivun alaosasta.",
+            "processing_time": "Tonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.",
             "information": "Liitä hakemukseen tarvittaessa:\n\n - valtakirja, jos hakija muu kuin kiinteistön omistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote nimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - liitekartta (esim. koelaskenta)\n\n - liitekartta vektorimuodossa (esim. dwg tai dgn)\n\n - laskutustiedot\n\n - tonttijaon hyväksyminen asianosaiselta\n\n - ote perukirjasta tai sukuselvityksestä, jos kuolinpesä kiinteistön omistajana tieto pesän osakkaista riittää\n\n - yhtiöoikeudellinen päätös haettavasta tonttijaosta.",
             "provided_languages": [
                 "en",
@@ -10052,7 +10053,8 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Apply for a plot division",
-            "description": "You can apply for a plot division electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit.\nThe plot division process will take roughly 1-2 months. If your case is urgent, you can expedite the process by acquiring the approval of all parties concerned in writing.\nThe service is subject to a fee.\n\nYou can apply for a plot division and plot parcelling through the same cadastral survey form. In the Lupapiste service, first apply for a plot division and then for real estate formation. You can find instructions for submitting an application in Lupapiste at the bottom of the page.\n",
+            "description": "You can apply for a plot division electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit.\n\nThe plot division process will take roughly 1-2 months. If your case is urgent, you can expedite the process by acquiring the approval of all parties concerned in writing.\n\nThe service is subject to a fee.\n\nYou can apply for a plot division and plot parcelling through the same cadastral survey form. In the Lupapiste service, first apply for a plot division and then for real estate formation. You can find instructions for submitting an application in Lupapiste at the bottom of the page.\n",
+            "processing_time": "The plot division process will take roughly 1-2 months. If your case is urgent, you can expedite the process by acquiring the approval of all parties concerned in writing.",
             "information": "Submit the following attachments when necessary:\n\n - a power of attorney if the applicant is not the owner or holder of the real estate\n \n - a trade register or register of associations registration certificate for verifying the right to sign\n\n - a reservation decision if the area in question is owned by the City\n\n - an attachment map (e.g. division estimate)\n\n - an attachment map in a vector format (e.g. DWG or DGN)\ninvoicing information\napproval of the plot division from the party concerned \n \n - a copy of the estate inventory or report on family \nrelationships if the real estate is owned by an estate; information of the heirs suffices\n \n - a company law decision on the plot division being applied for.\n",
             "provided_languages": [
                 "en",
@@ -10151,6 +10153,7 @@
             "type": "APPLICATION",
             "name": "Ansök om tomtindelning",
             "description": "Ansök elektroniskt om tomtindelning antingen via e-tjänsten Lupapiste eller genom att sända en undertecknad ansökan om fastighetsförrättning till fastighetsbildningsenheten per e-post.\n\nUppgörandet av tomtindelningen tar cirka 1-2 månader. I brådskande fall kan uppgörandet av tomtindelning snabbas upp genom att skaffa skriftliga godkännanden för den av alla delaktiga.\n\nTjänsten är avgiftsbelagd.\n\nDu kan ansöka om tomtindelning och styckning av tomt med samma ansökan om fastighetsförrättning. I Lupapiste ansöker man först om tomtindelning och därefter om fastighetsbildning. Anvisningar för ansökan via Lupapiste hittar du på sidans nedre del.\n",
+            "processing_time": "Uppgörandet av tomtindelningen tar cirka 1-2 månader. I brådskande fall kan uppgörandet av tomtindelning snabbas upp genom att skaffa skriftliga godkännanden för den av alla delaktiga.",
             "information": "Bifoga till ansökan vid behov:\n\n - fullmakt, om sökanden inte är fastighetens ägare eller innehavare\n\n - handelsregisterutdrag, förenings- eller stiftelseregisterutdrag för konstaterande av \nfirmateckningsrätt\n\n - förbehållsbeslut om det är fråga om ett område som ägs av staden\n\n - bifogad karta (t.ex. försöksberäkning)\n\n - bifogad karta i vektorform (t.ex. dwg eller dgn)\n\n - faktureringsuppgifter\n\n - partens godkännande av tomtindelning \n\n - ett utdrag ur bouppteckningen eller släktutredningen, om dödsboet som fastighetsägare har tillräckligt med information om boets delägare\n\n - bolagsrättsligt beslut om tomtindelningen som ansöks.\n",
             "provided_languages": [
                 "en",
@@ -51093,6 +51096,7 @@
             "service_id": 10634,
             "type": "ORDERING",
             "name": "Tilaa maalämpökaivon ennakkoselvitys",
+            "processing_time": "Ennakkotiedustelun käsittelyaika on yksi viikko ja vaativissa kohteissa kolme viikkoa.",
             "provided_languages": [
                 "fi"
             ],
@@ -51319,6 +51323,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Tilaa maastoonmerkintä ja sijaintikatselmus",
             "description": "Tilaa maastoonmerkintä ja sijaintikatselmus kaupunkimittauspalvelun asiakaspalvelusta. Kun tilaat maalämmön sijaintikatselmuksen, toimita samalla porausraportti osoitteeseen kymp.maalampo@hel.fi.\n\nLähetä tilaus sähköpostilla tai tule tekemään se paikan päälle. Asiakaspalvelu on auki ma-ti 8.15-12.00 ja ke-pe 12.00-15.00. Asiointi paikan päällä ainoastaan ajanvarauksella.",
+            "processing_time": "Käsittelyaika on 1-2 viikkoa.",
             "information": "Liitä tilaukseen seuraavat tiedot:\n\n - Kohteen osoite\n\n - Rakennuslupatunnus\n\n - Kiinteistötunnus\n\n - Lupapisteen tunnus\n\n - Tilaajan nimi ja yhteystiedot. \n\nLiitä tilaukseen myös seuraavat tiedot laskutusta varten:\n\n - Maksajan nimi (yrityksen nimi sekä yhteyshenkilön nimi, yksityishenkilön tilauksissa henkilön nimi riittää)\n\n - Maksajan osoite \n\n - Y-tunnus tai henkilötunnus \n\n - Sähköisen laskutuksen tiedot, mikäli laskutuksen toivotaan tapahtuvan sähköisesti.\n\n",
             "provided_languages": [
                 "fi",
@@ -52028,7 +52033,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Etsi koulua",
-                    "url": "http:\/\/kore.hel.ninja\/#\/etsi-koulua"
+                    "url": "https:\/\/koulurekisteri.hel.fi\/#\/etsi-koulua"
                 },
                 {
                     "type": "INTERNET",
