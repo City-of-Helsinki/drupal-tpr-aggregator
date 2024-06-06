@@ -42809,31 +42809,6 @@
                             "availability_string": "Avoinna ma-pe 08:15-16"
                         }
                     ]
-                },
-                {
-                    "id": 3963,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Suojatun sähköpostin lähettäminen",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Suojatun sähköpostin lähettäminen",
-                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=fi&recipient=sotepe.sosiaalineuvonta.aikuissosiaalityo@hel.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -42887,31 +42862,6 @@
                             "availability_string": "Open Mon-Fri 08:15-16"
                         }
                     ]
-                },
-                {
-                    "id": 3963,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Confidential message",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Confidential message",
-                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=en&recipient=sotepe.sosiaalineuvonta.aikuissosiaalityo@hel.fi#",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -42964,31 +42914,6 @@
                         {
                             "availability_string": "Öppet mån-fre 08:15-16"
                         }
-                    ]
-                },
-                {
-                    "id": 3963,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Skicka ett kryptera e-postmeddelande",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Skicka ett krypterat e-postmeddelande",
-                            "url": "https:\/\/securemail.hel.fi\/index.cgi?lang=sv&recipient=sotepe.sosiaalineuvonta.aikuissosiaalityo@hel.fi#",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
