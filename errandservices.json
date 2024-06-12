@@ -33754,11 +33754,6 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Helsingin, Espoon ja Vantaan lyhyen korkotuen asuntojen asukasvalintaa täydentävät ohjeet",
-                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-lyhyen-korkotuen-asukasvalintaohje.pdf"
-                },
-                {
-                    "type": "INTERNET",
                     "title": "Helsingin, Espoon ja Vantaan ARA-vuokra-asuntojen asukasvalintaa täydentävät ohjeet",
                     "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje.pdf"
                 },
@@ -33776,6 +33771,11 @@
                     "type": "FORM",
                     "title": "Ilmoitus asukasvalinnoista",
                     "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_ilm_liite1.xlsx"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Aran asukasvalintaopas, lyhyen korkotuen asunnot",
+                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v1\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta"
                 }
             ],
             "channels": [
@@ -33830,20 +33830,14 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "ARA tenant selection guide",
-                    "url": "https:\/\/www.ara.fi\/fi-FI\/ARAasuntokanta\/Osaomistusasunnot\/Asukasvalintaopas(34134)",
+                    "title": "ARA tenant selection guide (in Finnish)",
+                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v1\/",
                     "file_format": "HTML"
                 },
                 {
                     "type": "INTERNET",
                     "title": "Supplementary instructions for ARA rental apartment tenant selection in Helsinki, Espoo and Vantaa (in Finnish)",
                     "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje_2021.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Supplementary instructions for short-term interest subsidy housing tenant selection in Helsinki, Espoo and Vantaa (in Finnish)",
-                    "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-lyhyen-korkotuen-asukasvalintaohje.pdf",
                     "file_format": "PDF"
                 }
             ],
@@ -33880,6 +33874,7 @@
             "type": "ADVICE",
             "name": "Så här meddelar du om valet av boende",
             "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till boendetjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta boendetjänster per e-post asvalvonta@hel.fi.\n",
+            "processing_time": "Vi gör beslut för tillfälliga undantagslov i valet av hyresgäster inom 14 dagar från det datum då ansökan inkommer.",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -33904,8 +33899,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "ARA:s riktlinjer för val av boende",
-                    "url": "https:\/\/www.ara.fi\/fi-FI\/ARAasuntokanta\/Osaomistusasunnot\/Asukasvalintaopas(34134)",
+                    "title": "ARA:s anvisningar för val av boende",
+                    "url": "https:\/\/www.ara.fi\/sv\/val-av-boende",
                     "file_format": "HTML"
                 },
                 {
@@ -43219,7 +43214,8 @@
         "fi": {
             "id": 5504,
             "exact_descriptions": [
-                4956
+                4956,
+                9722
             ],
             "service_id": 10771,
             "type": "ADVICE",
