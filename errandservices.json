@@ -23022,7 +23022,7 @@
             "service_id": 10336,
             "type": "APPLICATION",
             "name": "Kerhohakemus paperilomakkeella",
-            "process_description": "Kerhoon voi hakea paperilomakkeella seuraavissa tilanteissa: \n\n- lapsella ei ole suomalaista henkilötunnusta, \n- perheellä ei ole suomalaisia pankkitunnuksia tai\n- sähköinen hakeminen ei ole muuten mahdollista \n\nTäytetty lomake postitetaan tai jätetään ensisijaisesti haettavaan kerhopaikkaan tai mihin tahansa kunnalliseen leikkipuistoon.",
+            "process_description": "Sähköinen hakeminen kerhoihin ei toistaiseksi ole mahdollista. Jos haluat hakea kerhopaikkaa lapsellesi, täytä paperilomake ja postita se joko suoraan haettavaan kerhopaikkaan, mihin tahansa leikkipuistoon tai lähetä se turvasähköpostilla.\n\nKerhoon voi hakea paperilomakkeella myös seuraavissa tilanteissa: \n\n- lapsella ei ole suomalaista henkilötunnusta, \n- perheellä ei ole suomalaisia pankkitunnuksia\n\nTäytetty lomake postitetaan tai jätetään ensisijaisesti haettavaan kerhopaikkaan tai mihin tahansa kunnalliseen leikkipuistoon.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -33754,7 +33754,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Helsingin, Espoon ja Vantaan ARA-vuokra-asuntojen asukasvalintaa täydentävät ohjeet",
+                    "title": "Helsingin, Espoon ja Vantaan Ara-vuokra-asuntojen asukasvalintaa täydentävät ohjeet",
                     "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje.pdf"
                 },
                 {
@@ -33824,19 +33824,19 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Wealth limits for ARA rental apartments (in Finnish)",
+                    "title": "Wealth limits for Ara rental apartments (in Finnish)",
                     "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_varallisuus.pdf",
                     "file_format": "PDF"
                 },
                 {
                     "type": "INTERNET",
-                    "title": "ARA tenant selection guide (in Finnish)",
+                    "title": "Ara tenant selection guide (in Finnish)",
                     "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v1\/",
                     "file_format": "HTML"
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Supplementary instructions for ARA rental apartment tenant selection in Helsinki, Espoo and Vantaa (in Finnish)",
+                    "title": "Supplementary instructions for Ara rental apartment tenant selection in Helsinki, Espoo and Vantaa (in Finnish)",
                     "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje_2021.pdf",
                     "file_format": "PDF"
                 }
@@ -33887,25 +33887,19 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Kompletterande anvisningar om val av boende till ARA-hyresbostäder i Helsingfors, Esbo och Vanda ",
+                    "title": "Kompletterande anvisningar om val av boende till Ara-hyresbostäder i Helsingfors, Esbo och Vanda ",
                     "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-asukasvalintaohje_2021.pdf",
                     "file_format": "PDF"
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Kompletterande anvisningar om val av boende till bostäder med kortvarigt räntestöd i Helsingfors, Esbo och Vanda ",
-                    "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/pks-lyhyen-korkotuen-asukasvalintaohje.pdf",
-                    "file_format": "PDF"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "ARA:s anvisningar för val av boende",
+                    "title": "Aras anvisningar för val av boende",
                     "url": "https:\/\/www.ara.fi\/sv\/val-av-boende",
                     "file_format": "HTML"
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Förmögenhetsgränser för ARA-hyresbostäder ",
+                    "title": "Förmögenhetsgränser för Ara-hyresbostäder ",
                     "url": "http:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_varallisuus.pdf",
                     "file_format": "PDF"
                 },
@@ -33914,6 +33908,12 @@
                     "title": "Meddelande om val av boende",
                     "url": "https:\/\/www.hel.fi\/static\/kv\/asunto-osasto\/asval_ilm_liite1.xlsx",
                     "file_format": "EXCEL"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Aras anvisningar för val av hyresgäster för hyresbostäder med kort räntestöd",
+                    "url": "https:\/\/ohjeet.ara.fi\/sv\/asukasvalinta\/v1\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta",
+                    "file_format": "HTML"
                 }
             ],
             "channels": [
@@ -55183,8 +55183,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Download and fill in the disability service application form (PDF in Finnish) ",
-                            "url": "https:\/\/www.hel.fi\/static\/sote\/vamty\/lomakkeet\/303-210_vammaispalveluhakemus.pdf",
+                            "title": "Download and fill in the disability service application form ",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/vamty\/lomakkeet\/303-210_Vammaispalveluhakemus_EN.pdf",
                             "file_format": "PDF"
                         }
                     ],
