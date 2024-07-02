@@ -2588,6 +2588,87 @@
         }
     },
     {
+        "id": 5574,
+        "fi": {
+            "id": 5574,
+            "exact_descriptions": [
+                3452
+            ],
+            "service_id": 10533,
+            "type": "APPLICATION",
+            "name": "Asiointi paperipostilla",
+            "description": "Mikäli sinulla ei ole mahdollisuutta Oma asiointi -palvelun tai sähköpostin käyttöön, voit lähettää meille myös paperipostia tai tuoda paperit suoraan toimipisteellemme.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4138,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Paperipostin lähettäminen",
+                    "prerequisites": "",
+                    "information": "Varmista, että nimesi ja henkilöturvatunnuksesi löytyvät papereista mahdollisimman selkeästi. Tämä nopeuttaa postin ohjausta työllisyyspalveluissa.",
+                    "process_description": "Mikäli sinulla ei ole mahdollisuutta Oma asiointi -palvelun tai sähköpostin käyttöön, voit lähettää meille myös paperipostia.",
+                    "personal_service_street_addr": "PL 50 ",
+                    "personal_service_postal_code": "00099 ",
+                    "personal_service_city": "Helsingin kaupunki ",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4139,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Papereiden toimittaminen toimipisteisiin",
+                    "information": "Varmista, että nimesi ja henkilöturvatunnuksesi löytyvät papereista mahdollisimman selkeästi. Tämä nopeuttaa postin ohjausta työllisyyspalveluissa.",
+                    "process_description": "Jos haluat toimittaa tärkeät paperit meille henkilökohtaisesti, voit tulla käymään toimipisteissämme. Osa toimipisteistämme tarjoaa asiakkaiden käyttöön tietokoneita ja tulostimia.\n\nVoit myös jättää postia toimipisteiden ulkopuolella oleviin postilaatikoihin. Kopio alkuperäisestä asiakirjasta riittää.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5143,
         "fi": {
             "id": 5143,
@@ -12908,6 +12989,109 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5575,
+        "fi": {
+            "id": 5575,
+            "exact_descriptions": [
+                9794
+            ],
+            "service_id": 10533,
+            "type": "ADVICE",
+            "name": "Helsingin työllisyyspalveluiden tapahtumat",
+            "description": "Helsingin työllisyyspalvelut järjestää erilaisia tapahtumia. Lisätietoja tapahtumista saat klikkaamalla auki sinua kiinnostavan tapahtuman.\n\nOsa tapahtumista järjestetään etänä.\n\nTervetuloa!",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015",
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin työllisyyspalveluiden tapahtumat",
+                    "url": "https:\/\/tyollisyyspalvelut.hel.fi\/ajankohtaista\/tapahtumat"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5571,
+        "fi": {
+            "id": 5571,
+            "exact_descriptions": [
+                3452
+            ],
+            "service_id": 10533,
+            "type": "ADVICE",
+            "name": "Helsingin työllisyyspalvelut puhelinneuvonta",
+            "description": "Helsingin työllisyyspalvelujen neuvonta \np.09 310 36107\n\nVoit soittaa meille, kun tarvitset tietoa Helsingin työllisyyspalveluista, tukea työpaikan hakemiseen tai tietoa koulutusmahdollisuuksista.\n\nJos asiasi koskee saamaasi lausuntoa tai työnhakuvelvoitettasi, ole yhteydessä suoraan omaan vastuuasiantuntijaasi.\n\nPalvelemme sinua tässä numerossa maanantaista perjantaihin kello 9-15 välisenä aikana.\n",
+            "costs": "Kun olet meihin yhteydessä puhelimitse tai tekstiviestillä, hinta määräytyy oman liittymäsopimuksesi mukaan (matkapuhelinmaksu\/paikallisverkkomaksu\/tekstiviestin hinta). \n\nJos käytät puhepakettia, tarkista operaattoriltasi, sisältyvätkö yritys- ja palvelunumeroiden puhelut siihen. Operaattorin veloitus alkaa siitä, kun yhteys aukeaa.\n\nJoskus lähetämme viestejä 1600fi-palvelun teknisestä numerosta, joka ei voi vastaanottaa viestejä. Numeroon vastatut viestit eivät tule meille perille, mutta vastausyritykset ovat maksullisia. Lähetä vastauksesi aina asiantuntijan omaan puhelinnumeroon (0295 tai 040-alkuinen) tai muulla yhteydenottotavalla.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4135,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Helsingin työllisyyspalvelut puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "process_description": "Voit soittaa meille, kun tarvitset tietoa Helsingin työllisyyspalveluista, tukea työpaikan hakemiseen tai tietoa koulutusmahdollisuuksista.\n\nJos asiasi koskee saamaasi lausuntoa tai työnhakuvelvoitettasi, ole yhteydessä suoraan omaan vastuuasiantuntijaasi.\n\nPalvelemme sinua tässä numerossa arkipäivisin kello 9-15 välisenä aikana.",
+                    "phone": "09 310 36107",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
                     ]
                 }
             ]
@@ -34059,11 +34243,6 @@
                             "title": "Siirry asiointipalveluun",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Katso ennen 14.6.2023 tekemäsi oikaisuvaatimuksen päätös",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1"
                         }
                     ],
                     "availabilities": [
@@ -34130,12 +34309,6 @@
                             "type": "INTERNET",
                             "title": "Go to e-services",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to e-services (examine decisions on claims submitted before 14th June 2023)",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1",
                             "file_format": "HTML"
                         }
                     ],
@@ -34204,11 +34377,6 @@
                             "title": "Gå till e-tjänsten",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Klicka här för beslutet om omprövning som lämnats in före 14.6.2023 ",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasi_transfer_correction_request?new=1"
                         }
                     ],
                     "availabilities": [
@@ -34364,6 +34532,77 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5570,
+        "fi": {
+            "id": 5570,
+            "exact_descriptions": [
+                3452
+            ],
+            "service_id": 10533,
+            "type": "ENROLLMENT",
+            "name": "Oma asiointi (TE-palvelut)",
+            "description": "Oma asiointi on henkilöasiakkaiden verkkopalvelut yhteen kokoava sivusto. Kirjauduttuasi sisään näet ajankohtaiset tiedot tilanteestasi palvelun etusivulla.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin työllisyyspalvelut",
+                    "url": "https:\/\/tyollisyyspalvelut.hel.fi\/asiointi\/tervetuloa-asiakkaaksi"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "TE-palvelut Oma asiointi",
+                    "url": "https:\/\/asiointi.mol.fi\/omaasiointi\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4134,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Te-palvelut Oma-asiointi",
+                    "information": "Oma asiointi on henkilöasiakkaiden verkkopalvelut yhteen kokoava sivusto. Kirjauduttuasi sisään näet ajankohtaiset tiedot tilanteestasi palvelun etusivulla. Lue asiointiohjeet ja vastaanottoilmoitukset tarkasti ja toimi niiden mukaisesti.\n\nOma asiointi -palvelussa ilmoittamasi tiedot tallennetaan asiakastietojärjestelmään.",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "TE-palvelut Oma asiointi",
+                            "url": "https:\/\/asiointi.mol.fi\/omaasiointi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 3038,
@@ -36138,6 +36377,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Ota yhteyttä sähköpostilla",
+                    "prerequisites": "Lähetä sähköpostia kaupunkitiedon kirjastoon, jotta pääset varaaman ajan kirjastokäynnille.",
                     "email": "kaupunkitieto@hel.fi",
                     "provided_languages": [
                     ],
@@ -48084,11 +48324,6 @@
                             "title": "Tee oikaisuvaatimus asiointipalveluun",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Katso ennen 14.6.2023 tekemäsi oikaisuvaatimuksen päätös",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1"
                         }
                     ],
                     "availabilities": [
@@ -48158,11 +48393,6 @@
                             "title": "Make a rectification claim in e-services",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to e-services (examine decisions on claims submitted before 14th June 2023)",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1"
                         }
                     ],
                     "availabilities": [
@@ -48232,11 +48462,6 @@
                             "title": "Gör rättelseyrkan i e-tjänsten",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Klicka här för beslutet om omprövning som lämnats in före 14.6.2023 ",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/pasioikaisuvaatimus?new=1"
                         }
                     ],
                     "availabilities": [
@@ -49338,6 +49563,115 @@
                             "url": "https:\/\/kymp.keyuv.keypro.fi\/fi\/",
                             "file_format": "HTML"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5572,
+        "fi": {
+            "id": 5572,
+            "exact_descriptions": [
+                3452
+            ],
+            "service_id": 10533,
+            "type": "ADVICE",
+            "name": "TE-palvelujen yleinen neuvontapalvelu",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4136,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "TE-palvelujen yleinen neuvontapalvelu",
+                    "phone": "0295 025 500",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
+        "id": 5573,
+        "fi": {
+            "id": 5573,
+            "exact_descriptions": [
+                3452
+            ],
+            "service_id": 10533,
+            "type": "ADVICE",
+            "name": "TE-palvelut työttömyysturvaneuvonta",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4137,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "TE-palvelut työttömyysturvaneuvonta",
+                    "information": "Tästä numerosta saat neuvoja työttömyysturvaan liittyvissä asioissa:\n\nMissä tilanteessa voit saada työttömyysetuutta?\nMiten esimerkiksi opiskelut, osa-aikatyöt tai yrittäjyys vaikuttavat työttömyysetuuteen?\nMiten selvityspyyntöön vastaaminen hoidetaan?\nMiten voit hakea muutosta saamaasi lausuntoon?\nTyöttömyysturvaneuvonta palvelee sinua arkipäivisin kello 9-16.15 välisenä aikana.\n\nTarkemmat tiedot palvelusta ja jonotusajasta löydät Työmarkkinatorin sivulta.\n",
+                    "phone": "0295 020 701",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
