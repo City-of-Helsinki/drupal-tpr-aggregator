@@ -15414,6 +15414,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Hitas-asioiden sähköposti",
+                    "information": "Ota yhteyttä sähköpostilla.",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15425,6 +15426,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää Helsingin sivuilta",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/omistusasunnot"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -15486,6 +15492,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Hitas housing, email",
+                    "information": "Contact us by email.",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15558,6 +15565,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-post för Hitas-ärenden",
+                    "information": "Kontakta oss via e-post.",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15569,6 +15577,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Läs mer på Helsingfors hemsida",
+                            "url": "https:\/\/www.hel.fi\/sv\/boende\/agarbostader"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -35646,6 +35659,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Asumisterveysneuvonnan sähköposti",
+                    "information": "Ota yhteyttä sähköpostilla asumisterveysneuvontaan.",
                     "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
@@ -35657,6 +35671,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää asumisterveydestä Helsingin sivuilta",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/asuminen-ja-terveys\/asumisterveysneuvonta",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -36377,7 +36397,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Ota yhteyttä sähköpostilla",
-                    "prerequisites": "Lähetä sähköpostia kaupunkitiedon kirjastoon, jotta pääset varaaman ajan kirjastokäynnille.",
+                    "information": "Lähetä sähköpostia kaupunkitiedon kirjastoon, jotta pääset varaaman ajan kirjastokäynnille.",
                     "email": "kaupunkitieto@hel.fi",
                     "provided_languages": [
                     ],
