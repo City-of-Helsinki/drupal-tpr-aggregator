@@ -2280,7 +2280,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry asianosaisen tietopyyntöön",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/tietopyynto_asianosainen",
+                            "url": "https:\/\/lomake.hel.fi\/asianosaisen_tietopyynto",
                             "file_format": "HTML"
                         }
                     ],
@@ -2311,7 +2311,6 @@
                 4397,
                 4956,
                 5541,
-                7439,
                 7449,
                 7697,
                 8504,
@@ -2412,7 +2411,6 @@
                 4397,
                 4956,
                 5541,
-                7439,
                 7449,
                 7697,
                 8504,
@@ -2505,7 +2503,6 @@
                 4397,
                 4956,
                 5541,
-                7439,
                 7449,
                 7697,
                 8504,
@@ -8619,7 +8616,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/asolomake",
+                            "url": "https:\/\/asiointi.helhttps:\/\/www.hel.fi\/fi\/asuminen\/asumisoikeusasunnot",
                             "file_format": "HTML"
                         }
                     ],
@@ -8752,7 +8749,7 @@
                         {
                             "type": "FORM",
                             "title": "Go to the e-service",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/asolomake",
+                            "url": "https:\/\/www.hel.fi\/en\/housing\/right-of-occupancy-housing",
                             "file_format": "HTML"
                         }
                     ],
@@ -8883,7 +8880,7 @@
                         {
                             "type": "FORM",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/asolomake",
+                            "url": "https:\/\/www.hel.fi\/sv\/boende\/bostadsrattsbostader",
                             "file_format": "HTML"
                         }
                     ],
@@ -11515,7 +11512,7 @@
                     "id": 3225,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Täytä hakemus sähköisessä asioinnissa",
+                    "name": "Täytä päivähoitohakemus sähköisessä asioinnissa",
                     "prerequisites": "Edellyttää tunnistamista joko henkilökohtaisilla verkkopankkitunnuksilla tai mobiilivarmenteella.\nPalvelu saatavilla joka päivä ympäri vuorokauden.\n",
                     "availability_summary": "Avoinna joka päivä",
                     "process_description": "Asian käsittelyn tilaa voi seurata asiointikansiossa. Hakemuksen tilan muuttumisesta ja uudesta palvelu- tai maksupäätöstapahtumasta asiointikansion omistaja saa herätteen sähköpostilla tai tekstiviestinä. Herätteen toimitustavan voi valita asiointikansiossa Omat tiedot -sivulla.",
@@ -11536,7 +11533,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry hakemukseen",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/lomakkeet\/paivahoito?COHESServiceCase=DAYCAREAPPLICATION",
+                            "url": "https:\/\/asti.hel.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -11626,7 +11623,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Go to E-services",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0wwkpiAJKG-AAjgb6wcVlQDOiCCkryI2o8HRUVAQAzeN45g!!\/dz\/d5\/L0lHSkovd0RNQUprQUVnQSEhLzROVkUvZW4!\/"
+                            "url": "https:\/\/asti.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -11715,7 +11712,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/login-etusivu\/!ut\/p\/z1\/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziQy0tPEzcPIwM_C3MDQwcA9ydndwMLY0MDMz0wwkpiAJKG-AAjgb6wWmZQDOiCCkryI2o8HRUVAQA6JeR1Q!!\/dz\/d5\/L0lHSkovd0RNQUprQUVnQSEhLzROVkUvc3Y!\/"
+                            "url": "https:\/\/asti.hel.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -13003,6 +13000,7 @@
         "fi": {
             "id": 5575,
             "exact_descriptions": [
+                8970,
                 9794
             ],
             "service_id": 10533,
@@ -13044,7 +13042,8 @@
         "fi": {
             "id": 5571,
             "exact_descriptions": [
-                3452
+                3452,
+                8970
             ],
             "service_id": 10533,
             "type": "ADVICE",
@@ -13057,7 +13056,7 @@
                 "sv"
             ],
             "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -21468,7 +21467,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/asiointi.hel.fi\/karttakori\/",
+                            "url": "https:\/\/karttakori.hel.fi\/",
                             "file_format": "HTML"
                         },
                         {
@@ -30273,7 +30272,8 @@
                         {
                             "type": "FORM",
                             "title": "Siirry palveluun",
-                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-suunnistuskartta-avustus"
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset\/liikunnan-suunnistuskartta-avustus",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -34551,7 +34551,8 @@
         "fi": {
             "id": 5570,
             "exact_descriptions": [
-                3452
+                3452,
+                8970
             ],
             "service_id": 10533,
             "type": "ENROLLMENT",
@@ -34562,7 +34563,7 @@
                 "sv"
             ],
             "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -35177,7 +35178,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry omia henkilötietoja koskevaan tietopyyntöön",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/myportal\/static_forms\/tietopyynto_oma",
+                            "url": "https:\/\/lomake.hel.fi\/omia_henkilotietoja_koskeva_tietopyynto",
                             "file_format": "HTML"
                         }
                     ],
@@ -43400,74 +43401,6 @@
         ]
     },
     {
-        "id": 4513,
-        "fi": {
-            "id": 4513,
-            "exact_descriptions": [
-            ],
-            "service_id": 10253,
-            "type": "ADVICE",
-            "name": "Sähköisen asioinnin tukipalvelut",
-            "description": "Sähköiseen asiointiin saa teknistä tukea kaupungin sähköisen asioinnin tuesta.",
-            "information": "Tietoturvan vuoksi älä kirjoita henkilötunnustasi chatiin.\nChatissä annetaan opastusta kuntalaisille, mistä kukin hakemus\/lomake löytyy hel.fi sivuilta.\nPalvelukielemme on ensisijaisesti suomi. Pyrimme palvelemaan myös ruotsiksi ja englanniksi.\nAsiointikansiossa näkyy päätöksen tila. Jos päätös ei näy asiointikansiossa, se tulee postitse kotiin. Päätöksen toimitustavan näkee Asiointipalvelujen tiedoista: https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/haku\/",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2872,
-                    "type": "CHAT",
-                    "type_string": "Chat",
-                    "name": "Sähköisen asionnin tuen Chat",
-                    "prerequisites": "Ei edellytyksiä",
-                    "information": "Chat painike löytyy sähköisen asioinnin sivujen oikeasta alanurkasta\nTietoturvan vuoksi älä kirjoita henkilötunnustasi chatiin.\nChatissä annetaan opastusta kuntalaisille, mistä kukin hakemus\/lomake löytyy hel.fi sivuilta.\nPalvelukielemme on ensisijaisesti suomi. Pyrimme palvelemaan myös ruotsiksi ja englanniksi.\nAsiointikansiossa näkyy päätöksen tila. Jos päätös ei näy asiointikansiossa, se tulee postitse kotiin. Päätöksen toimitustavan näkee Asiointipalvelujen tiedoista: https:\/\/asiointi.hel.fi\/wps\/myportal\/sahkoinen-asiointi\/haku\/\n",
-                    "availability_summary": "Palvelu saatavilla ma-pe 08-18",
-                    "process_description": "Kuvaus tulossa.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Avaa sähköisen asioinnin sivut",
-                            "url": "https:\/\/asiointi.hel.fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla ma-pe 08-18"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5337,
         "fi": {
             "id": 5337,
@@ -49609,7 +49542,7 @@
                 "sv"
             ],
             "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "INDIVIDUALS"
@@ -50576,7 +50509,7 @@
                         {
                             "type": "FORM",
                             "title": "Siirry tietopyyntöön viranomaisen henkilörekisteristä",
-                            "url": "https:\/\/asiointi.hel.fi\/wps\/portal\/static_forms\/tietopyynto_yleinen",
+                            "url": "https:\/\/lomake.hel.fi\/tietopyynto_viranomaisen_henkilorekisterista",
                             "file_format": "HTML"
                         }
                     ],
