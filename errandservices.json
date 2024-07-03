@@ -3879,6 +3879,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää Helsingin sivuilta",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/yritykset-ja-yrittajat\/yritysten-luvat-ja-tilat\/elintarviketoiminta\/elintarvikkeiden-vienti-ja-tuonti",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -11280,8 +11286,8 @@
             "type": "APPLICATION",
             "name": "Hae yrityspysäköintitunnusta",
             "description": "Voit hakea yrityspysäköintitunnusta tai jatkaa tunnuksen voimassaoloa sähköpostitse tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi kerrallaan. Paikan päällä asioidessa tunnuksen saa voimaan heti ja sähköpostitse käsittelyjonosta riippuen 2-4 arkipäivän kuluttua.\n\n",
-            "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa (1-12kk)\n\nJos auto ei ole yrityksen omistuksessa tai hallinnassa, toimita lisäksi viimeisin palkkalaskelma tai ote tulorekisterin kilometrikorvauksista, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti. Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi.",
-            "processing_time": "Hakemuksen käsittelyaika on noin kaksi vuorokautta. Tunnus tulee voimaan, kun maksu on saapunut.",
+            "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- jos kyseessä on toiminimi, eikä yrityksen nimestä käy ilmi, kenen toiminimi on kyseessä, tulee toimittaa isännöitsijäntodistuksen lisäksi kaupparekisteriote josta näkyy elinkeinonharjoittajan nimi\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa (1-12kk)\n\nJos auto ei ole yrityksen omistuksessa tai hallinnassa, toimita lisäksi viimeisin palkkalaskelma tai ote tulorekisterin kilometrikorvauksista, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti. Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi.",
+            "processing_time": "Hakemuksen käsittelyaika on noin kaksi vuorokautta. Tunnus astuu voimaan noin kahden arkipäivän kuluttua maksusta.",
             "costs": "Sähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Tunnus astuu voimaan n. kahden arkipäivän kuluttua maksusta. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
             "information": "Voit käyttää tietojesi lähettämiseen kaupungin tarjoamaa suojattua sähköpostia.",
             "provided_languages": [
@@ -19956,7 +19962,7 @@
             "name": "Irtisano asukaspysäköintitunnus",
             "name_synonyms": "asukaspysäköintitunnus,pysäköintilupa, irtisanominen",
             "description": "Tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden ilmoittamalla irtisanomisesta kaupunkiympäristön asiakaspalveluun tai verkossa.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, tunnus irtisanotaan toimittamalla se asiakaspalveluun postitse tai henkilökohtaisesti.",
-            "processing_time": "Tunnuksen voimassaolo päättyy sinä päivänä, kun ilmoitat irtisanomisesta tai palautat tunnuksen asiakaspalveluun.",
+            "processing_time": "Tunnuksen voimassaolo päättyy sinä päivänä, kun ilmoitat irtisanomisesta kirjallisesti lomakkeella tai sähköpostitse tai irtisanomalla tunnuksen itse verkossa.",
             "information": "Palautamme rahat etukäteen maksetuista täysistä kuukausista. Jos haluat palautuksen, muista ilmoittaa myös tilinumerosi.",
             "provided_languages": [
                 "en",
@@ -20248,7 +20254,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Turvasähköpostiin kirjautuminen",
-                    "url": "https:\/\/securemail.hel.fi\/Kuntalaiset"
+                    "url": "https:\/\/securemail.hel.fi\/"
                 }
             ],
             "channels": [
@@ -20696,7 +20702,7 @@
             "service_id": 10900,
             "type": "APPLICATION",
             "name": "Jatka yrityspysäköintitunnuksen voimassaoloa",
-            "description": "Kun haet tunnusta, toimita meille\n\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus\n- tieto, mille ajalle tunnus halutaan ostaa (1-12kk).\n\nJos auto ei ole yrityksen omistuksessa tai hallinnassa, toimita vuosittain viimeisin palkkalaskelma tai ote tulorekisterin kilometrikorvauksista, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti.\n\nLähetäthän pysäköintiluvan uusimispyynnön hyvissä ajoin, noin viikkoa ennen edellisen kauden päättymistä.\n\nTunnus tulee voimaan, kun maksu on saapunut.\n\n",
+            "description": "Kun haet tunnusta, toimita meille\n\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus\n- tieto, mille ajalle tunnus halutaan ostaa (1-12kk).\n\nJos auto ei ole yrityksen omistuksessa tai hallinnassa, toimita vuosittain viimeisin palkkalaskelma tai ote tulorekisterin kilometrikorvauksista, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti.\n\nLähetäthän pysäköintiluvan uusimispyynnön hyvissä ajoin, noin viikkoa ennen edellisen kauden päättymistä.\n\nTunnus astuu voimaan noin kahden arkipäivän kuluttua maksusta.\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -27781,8 +27787,8 @@
                     "id": 4040,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Suomenkielinen puhelinpalvelu",
-                    "information": "Lapsiperheiden kotipalvelun asiakasohjaus ja tilauspalvelun ajanvaraus on avoinna arkisin klo 8-13, takaisinsoitto klo 8-16.\n\nLapsiperheiden kotipalvelun asiakasohjaus ja tilauspalvelun peruutus on avoinna arkisin klo 7-13, takaisinsoitto klo 7-16.\n\nPalvelua saa ruotsiksi ajanvarauksessa sekä peruutuksessa maanantaisin edellä mainittuina kellon aikoina.",
+                    "name": "Yhteydenotto puhelimitse",
+                    "information": "Mikäli perheesi tarvitsee kotipalvelua, olemme tavoitettavissa puhelimitse arkisin kello 8-13. \n \nJos aiot perua aiemmin varaamasi kotikäynnin, ole hyvä ja soita meille aikavälillä 7-13. \n \nMeillä on käytössä takaisinsoittopalvelu klo 16:00 asti. \n \nSaat ruotsinkielistä palvelua meiltä parhaiten maanantaisin.",
                     "availability_summary": "Avoinna ma-pe 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "maksuton",
@@ -27800,31 +27806,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 08-13"
-                        }
-                    ]
-                },
-                {
-                    "id": 4041,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Puhelinpalvelu ruotsiksi",
-                    "availability_summary": "Avoinna ma 08-13",
-                    "phone": "+358931015454 ",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma 08-13"
                         }
                     ]
                 },
@@ -27909,8 +27890,8 @@
                     "id": 4040,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
-                    "name": "Telephone service in Finnish",
-                    "information": "Customer guidance for home services for families with children and appointment booking for the service are open Mon-Fri 8.00-13.00 and call-back service, 8.00-16.00.\n\nCustomer guidance and cancellation of the home services for families with children are open Mon-Fri 7.00-13.00, and call-back service 7.00-16.00.\n\nThe phone services are available in Swedish on Mondays during the aforementioned times.",
+                    "name": "Contacting us by phone",
+                    "information": "o request home services for your family, you can call us on weekdays between 8.00 and 13.00.\n \nTo cancel a previously booked home visit, please call us between 7.00 and 13.00.\n \nWe use a callback service. The service is open until 16.00.\n \nService in Swedish is best available on Mondays.",
                     "availability_summary": "Open Mon-Fri 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "toll free",
@@ -27928,31 +27909,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Mon-Fri 08-13"
-                        }
-                    ]
-                },
-                {
-                    "id": 4041,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Telephone service in Swedish",
-                    "availability_summary": "Open Mon 08-13",
-                    "phone": "+358931015454 ",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon 08-13"
                         }
                     ]
                 },
@@ -28037,8 +27993,8 @@
                     "id": 4040,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
-                    "name": "Telefontjänst på finska",
-                    "information": "Kundrådgivningen och tidsbokningen för barnfamiljernas hemservice är öppen vardagar kl. 8-13, återuppringning kl. 8-16.\n\nKundrådgivningen och avbokningen för barnfamiljernas hemservicen och avbokningen är öppen vardagar kl. 7-13, återuppringning kl. 7-16.\n\nBetjäning på svenska vid beställning och avbokning på måndagar de tider som anges ovan.",
+                    "name": "Kontakt per telefon",
+                    "information": "Om din familj behöver hemservice kan vi nås på telefon vardagar kl. 8-13.\n \nOm du planerar att avboka ett hembesök, vänligen ring oss mellan kl. 7 och 13.\n \nVår återuppringningstjänst fungerar fram till kl. 16. \n \nSvenskspråkig betjäning kan erbjudas på måndagar.",
                     "availability_summary": "Öppet mån-fre 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "gratis",
@@ -28056,31 +28012,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån-fre 08-13"
-                        }
-                    ]
-                },
-                {
-                    "id": 4041,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Telefontjänst på svenska",
-                    "availability_summary": "Öppet mån 08-13",
-                    "phone": "+358931015454 ",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån 08-13"
                         }
                     ]
                 },
@@ -39729,7 +39660,7 @@
             "name": "Päivitä uusi rekisterinumero asukaspysäköintitunnukseen",
             "name_synonyms": "rekisteritunnuksen muutos",
             "description": "Voit muuttaa tunnukseen merkityn ajoneuvon rekisterinumeroa verkossa tai ilmoittamalla uuden rekisterinumeron kaupunkiympäristön asiakaspalveluun.\n\nJos aiemmin hankittuun tunnukseen on merkitty kahden ajoneuvon tiedot, voit muuttaa rekisterinumeron vain asioimalla asiakaspalvelussa. \n\nSaat ilmoituksen, kun muutos on päivittynyt ja pysäköintiä voi jatkaa uudella ajoneuvolla.\n\n",
-            "processing_time": "Rekisterinumeron muutos tulee voimaan heti, kun olet ilmoittanut muutoksesta. Jos tunnus on ostettu ennen 17.1.2024 ja ilmoitat muutoksesta verkossa, käsittelyaika on noin kaksi arkipäivää.",
+            "processing_time": "Rekisterinumeron muutos tulee voimaan heti, kun olet tehnyt muutoksen asiointipalvelussa. Jos tunnus on ostettu ennen 17.1.2024 ja ilmoitat muutoksesta verkossa, käsittelyaika on n. kaksi arkipäivää.",
             "information": "Jos tunnuksen hinta kallistuu ajoneuvon vaihdon vuoksi, palautamme rahat etukäteen maksetuista täysistä kuukausista ja teemme sinulle uuden tunnuksen. Jos hinta halpenee, palautamme sinulle vanhan ja uuden hinnan erotuksen etukäteen maksuista kuukausista.",
             "provided_languages": [
                 "en",
