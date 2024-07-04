@@ -27891,7 +27891,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Contacting us by phone",
-                    "information": "o request home services for your family, you can call us on weekdays between 8.00 and 13.00.\n \nTo cancel a previously booked home visit, please call us between 7.00 and 13.00.\n \nWe use a callback service. The service is open until 16.00.\n \nService in Swedish is best available on Mondays.",
+                    "information": "To request home services for your family, you can call us on weekdays between 8.00 and 13.00.\n \nTo cancel a previously booked home visit, please call us between 7.00 and 13.00.\n \nWe use a callback service. The service is open until 16.00.\n \nService in Swedish is best available on Mondays.",
                     "availability_summary": "Open Mon-Fri 08-13",
                     "phone": "+358931015454",
                     "call_charge_info": "toll free",
@@ -33704,7 +33704,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Aran asukasvalintaopas, lyhyen korkotuen asunnot",
-                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v1\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta"
+                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v2\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta"
                 }
             ],
             "channels": [
@@ -33760,7 +33760,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Ara tenant selection guide (in Finnish)",
-                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v1\/",
+                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v2\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta",
                     "file_format": "HTML"
                 },
                 {
@@ -33841,7 +33841,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Aras anvisningar för val av hyresgäster för hyresbostäder med kort räntestöd",
-                    "url": "https:\/\/ohjeet.ara.fi\/sv\/asukasvalinta\/v1\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta",
+                    "url": "https:\/\/ohjeet.ara.fi\/fi\/asukasvalinta\/v2\/lyhyen-korkotuen-vuokra-asuntojen-asukasvalinta",
                     "file_format": "HTML"
                 }
             ],
@@ -35056,6 +35056,168 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5576,
+        "fi": {
+            "id": 5576,
+            "exact_descriptions": [
+                7439
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Omaolo, suun alueen oirearvio",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4141,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee arvio hampaiden tai suun alueen oireesta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Omaolon suun oirearvioon.",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot\/1172"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5576,
+            "exact_descriptions": [
+                7439
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Omaolo, oral symptom",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4141,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Start the survey for dental or oral symptom or trauma",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Omaolo survey",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot\/1172"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5576,
+            "exact_descriptions": [
+                7439
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Omaolo, symtom i mun",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4141,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör bedömningen av symtom eller skada i tänder eller mun",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Omaolo",
+                            "url": "https:\/\/www.omaolo.fi\/palvelut\/oirearviot\/1172"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4462,
@@ -36329,7 +36491,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Ota yhteyttä sähköpostilla",
-                    "information": "Lähetä sähköpostia kaupunkitiedon kirjastoon, jotta pääset varaaman ajan kirjastokäynnille.",
+                    "information": "Lähetä kaupunkitiedon kirjastoon sähköpostia, jolla varaat ajan käynnille.",
                     "email": "kaupunkitieto@hel.fi",
                     "provided_languages": [
                     ],
