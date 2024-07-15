@@ -5978,7 +5978,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Hae kiinteistönmääritystä",
-            "description": "Hae kiinteistönmääritystä, esimerkiksi rajankäyntiä, sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nLiitä hakemukseen kartta, josta ilmenee määritettävä kiinteistöraja ja kohde sekä laskutustiedot.\n\nKiinteistömääritys vie aikaa noin 1-4 kuukautta. ​\n\nPalvelu on maksullinen.",
+            "description": "Hae kiinteistönmääritystä, esimerkiksi rajankäyntiä, sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nLiitä hakemukseen kartta, josta ilmenee määritettävä kiinteistöraja ja kohde sekä laskutustiedot.\n\nKiinteistömääritys vie noin 1-4 kuukautta. ​\n\nPalvelu on maksullinen.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -6170,7 +6170,7 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Ansök om fastighetsbestämning",
-            "description": "Ansök elektroniskt om fastighetsbestämning, t.ex. råbestämning, antingen vid Lupapiste eller genom att sända en undertecknad ansökan om fastighetsförrättning per e-post till fastighetsbildningsenheten. \n\nBifoga en karta som anger rået för fastigheten och objektet samt faktureringsuppgifterna till ansökan.\nFastighetsbestämningen tar cirka 1-4 månader. \n\nTjänsten är avgiftsbelagd.\n",
+            "description": "Ansök elektroniskt om fastighetsbestämning, t.ex. råbestämning, antingen vid Lupapiste eller genom att sända en undertecknad ansökan om fastighetsförrättning per e-post till fastighetsbildningsenheten. \n\nBifoga en karta som anger rået för fastigheten och objektet samt faktureringsuppgifterna till ansökan.\n\nFastighetsbestämningen tar cirka 1-4 månader. \n\nTjänsten är avgiftsbelagd.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -7993,7 +7993,8 @@
             "service_id": 10352,
             "type": "APPLICATION",
             "name": "Ansök om servitutsförrättning",
-            "process_description": "Ansök om servitutsförrättning antingen elektroniskt via Lupapiste.\n\nEn servitutsförrättning tar 1-4 månader. \n\nFör att fastighetsservitut ska kunna inrättas förutsätts i allmänhet att tomtägarna tillsammans ingår ett skriftligt servitutsavtal.\n\nTjänsten är avgiftsbelagd.\n",
+            "description": "Ansök om servitutsförrättning antingen elektroniskt via Lupapiste.\n\nEn servitutsförrättning tar 1-4 månader. \n\nFör att fastighetsservitut ska kunna inrättas förutsätts i allmänhet att tomtägarna tillsammans ingår ett skriftligt servitutsavtal.\n\nTjänsten är avgiftsbelagd.",
+            "process_description": "",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -10043,7 +10044,6 @@
             "type": "APPLICATION",
             "name": "Hae tonttijakoa",
             "description": "Hae tonttijakoa sähköisesti joko Lupapisteessä tai lähettämällä allekirjoitettu kiinteistötoimitushakemus sähköpostilla Kiinteistönmuodostusyksikköön.\n\nTonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.\n\nPalvelu on maksullinen.\n\nVoit hakea tonttijakoa ja tontin lohkomista samalla kiinteistötoimitushakemuksella. Lupapisteessä haetaan ensin tonttijakoa ja sitten kiinteistönmuodostusta. Ohjeita hakemuksen tekemiseksi Lupapisteessä löydät sivun alaosasta.",
-            "processing_time": "Tonttijaon laadinta vie aikaa noin 1-2 kuukautta. Kiireellisissä tapauksissa tonttijaon laadintaa voi nopeuttaa hankkimalla sille kaikkien asianosaisten kirjallisen hyväksynnän.",
             "information": "Liitä hakemukseen tarvittaessa:\n\n - valtakirja, jos hakija muu kuin kiinteistön omistaja tai haltija\n\n - kauppa-, yhdistys- tai säätiörekisteriote nimenkirjoitusoikeuden toteamiseksi\n\n - varauspäätös, jos kyseessä on kaupungin omistama alue\n\n - liitekartta (esim. koelaskenta)\n\n - liitekartta vektorimuodossa (esim. dwg tai dgn)\n\n - laskutustiedot\n\n - tonttijaon hyväksyminen asianosaiselta\n\n - ote perukirjasta tai sukuselvityksestä, jos kuolinpesä kiinteistön omistajana tieto pesän osakkaista riittää\n\n - yhtiöoikeudellinen päätös haettavasta tonttijaosta.",
             "provided_languages": [
                 "en",
@@ -10142,7 +10142,6 @@
             "type": "APPLICATION",
             "name": "Apply for a plot division",
             "description": "You can apply for a plot division electronically via Lupapiste or by sending a signed cadastral survey application by email to the Real Estate Formation Unit.\n\nThe plot division process will take roughly 1-2 months. If your case is urgent, you can expedite the process by acquiring the approval of all parties concerned in writing.\n\nThe service is subject to a fee.\n\nYou can apply for a plot division and plot parcelling through the same cadastral survey form. In the Lupapiste service, first apply for a plot division and then for real estate formation. You can find instructions for submitting an application in Lupapiste at the bottom of the page.\n",
-            "processing_time": "The plot division process will take roughly 1-2 months. If your case is urgent, you can expedite the process by acquiring the approval of all parties concerned in writing.",
             "information": "Submit the following attachments when necessary:\n\n - a power of attorney if the applicant is not the owner or holder of the real estate\n \n - a trade register or register of associations registration certificate for verifying the right to sign\n\n - a reservation decision if the area in question is owned by the City\n\n - an attachment map (e.g. division estimate)\n\n - an attachment map in a vector format (e.g. DWG or DGN)\ninvoicing information\napproval of the plot division from the party concerned \n \n - a copy of the estate inventory or report on family \nrelationships if the real estate is owned by an estate; information of the heirs suffices\n \n - a company law decision on the plot division being applied for.\n",
             "provided_languages": [
                 "en",
@@ -10241,7 +10240,6 @@
             "type": "APPLICATION",
             "name": "Ansök om tomtindelning",
             "description": "Ansök elektroniskt om tomtindelning antingen via e-tjänsten Lupapiste eller genom att sända en undertecknad ansökan om fastighetsförrättning till fastighetsbildningsenheten per e-post.\n\nUppgörandet av tomtindelningen tar cirka 1-2 månader. I brådskande fall kan uppgörandet av tomtindelning snabbas upp genom att skaffa skriftliga godkännanden för den av alla delaktiga.\n\nTjänsten är avgiftsbelagd.\n\nDu kan ansöka om tomtindelning och styckning av tomt med samma ansökan om fastighetsförrättning. I Lupapiste ansöker man först om tomtindelning och därefter om fastighetsbildning. Anvisningar för ansökan via Lupapiste hittar du på sidans nedre del.\n",
-            "processing_time": "Uppgörandet av tomtindelningen tar cirka 1-2 månader. I brådskande fall kan uppgörandet av tomtindelning snabbas upp genom att skaffa skriftliga godkännanden för den av alla delaktiga.",
             "information": "Bifoga till ansökan vid behov:\n\n - fullmakt, om sökanden inte är fastighetens ägare eller innehavare\n\n - handelsregisterutdrag, förenings- eller stiftelseregisterutdrag för konstaterande av \nfirmateckningsrätt\n\n - förbehållsbeslut om det är fråga om ett område som ägs av staden\n\n - bifogad karta (t.ex. försöksberäkning)\n\n - bifogad karta i vektorform (t.ex. dwg eller dgn)\n\n - faktureringsuppgifter\n\n - partens godkännande av tomtindelning \n\n - ett utdrag ur bouppteckningen eller släktutredningen, om dödsboet som fastighetsägare har tillräckligt med information om boets delägare\n\n - bolagsrättsligt beslut om tomtindelningen som ansöks.\n",
             "provided_languages": [
                 "en",
@@ -36217,7 +36215,7 @@
                     "type_string": "Sähköposti",
                     "name": "sähköposti Itäinen suurpiiri ja Östersundom",
                     "information": "Lähetä sähköpostia Itäisen suurpiirin ja Östersundomin stadiluotsille tällä osoitteella.",
-                    "email": "marjaana.jaranne@hel.fi ",
+                    "email": "marjaana.jaranne@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36270,7 +36268,7 @@
                     "type_string": "E-mail",
                     "name": "Contact the Borough liaison of Eastern major district and Östersundom",
                     "information": "Send an email to the Eastern major district and Östersundom Borough liaison at this address.",
-                    "email": "marjaana.jaranne@hel.fi ",
+                    "email": "marjaana.jaranne@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36317,7 +36315,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Kontakta stadslotsen i östra stordistriktet och Östersundom",
                     "information": "Skicka ett e-postmeddelande till östra stordistriktet och Östersundom stadslots på denna adress.",
-                    "email": "marjaana.jaranne@hel.fi ",
+                    "email": "marjaana.jaranne@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36911,6 +36909,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää stadiluotseista",
+                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/osallistu-ja-vaikuta\/tukea-yhdessa-tekemiseen\/stadiluotsit",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -37153,7 +37157,7 @@
                     "type_string": "Sähköposti",
                     "name": "Sähköposti Läntinen suurpiiri",
                     "information": "Lähetä sähköpostia Läntisen suurpiirin stadiluotsille tällä osoitteella.",
-                    "email": "laura.paivapuro@hel.fi ",
+                    "email": "laura.paivapuro@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37206,7 +37210,7 @@
                     "type_string": "E-mail",
                     "name": "Contact the Borough liaison of Western major district",
                     "information": "Send an email to the Western major district Borough liaison at this address.",
-                    "email": "laura.paivapuro@hel.fi ",
+                    "email": "laura.paivapuro@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37253,7 +37257,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Kontakta stadslotsen i västra stordistriktet",
                     "information": "Skicka ett e-postmeddelande till västra stordistriktet stadslots på denna adress.",
-                    "email": "laura.paivapuro@hel.fi ",
+                    "email": "laura.paivapuro@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37303,7 +37307,7 @@
                     "type_string": "Sähköposti",
                     "name": "Sähköposti pohjoinen suurpiiri ja Kaarela",
                     "information": "Lähetä sähköpostia pohjoisen suurpiirin ja Kaarelan stadiluotsille tällä osoitteella.",
-                    "email": "elina.pentikainen@hel.fi ",
+                    "email": "elina.pentikainen@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37356,7 +37360,7 @@
                     "type_string": "E-mail",
                     "name": "Contact the Borough liaison of Northern major district and Kaarela",
                     "information": "Send an email to the Northern major district and Kaarela Borough liaison at this address.",
-                    "email": "elina.pentikainen@hel.fi ",
+                    "email": "elina.pentikainen@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -37403,7 +37407,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Kontakta stadslots i norra stordistriktet och Kårböle",
                     "information": "Skicka ett e-postmeddelande till norra stordistriktet och Kårböle stadslots på denna adress.",
-                    "email": "elina.pentikainen@hel.fi ",
+                    "email": "elina.pentikainen@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -51614,6 +51618,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Order a terrain marking or location inspection",
             "description": "Order a terrain marking or location inspection of a building by sending an email to kymp.kami.asiakaspalvelu@hel.fi. When ordering a geothermal location review, please submit a drilling report to kymp.maalampo@hel.fi. \n\nEmail or visit us to place your order. Our customer service is open Mon-Tue 8.15-12.00 and Wed-Fri 12.00-15.00. We provide service with a queueing number. If you want to place an order on the spot, please book an appointment with customer service in advance by calling",
+            "processing_time": "We will usually carry out the terrain marking and location inspection within 1-2 weeks.",
             "information": "Please include the following information with your order: \n\n - Address of the site\n\n - Building permit identification number\n\n - Property identifier\n\n - Lupapiste identification number \n\n - Customer name and contact information \n\nPlease attach the following information to your order for invoicing purposes: \n\n - Payer's name (company name and contact person's name, for private orders the payer's name is sufficient)\n \n- Payer's address \n\n - Business ID or personal identity number \n\n - E-invoicing details, if e-invoicing is desired.",
             "provided_languages": [
                 "fi",
@@ -51691,6 +51696,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Beställ utmärkning i terrängen och lägessyn",
             "description": "Beställ utmärkning i terrängen och lägessyn genom stadsmätningstjänsternas kundservice. \nSkicka samtidigt som du beställer lägessyn för jordvärme borrningsrapporten till adressen kymp.maalampo@hel.fi. \n\nSkicka beställningen per e-post eller kom och gör den på plats. Kundservice har öppet mån-tis 8.15- 12.00 och ons-fre 12.00-15.00. Betjäningen sker med könummer Om du bokar en tid på förhand, betjänas du på den avtalade tiden.",
+            "processing_time": "Vi gör utmärkningar i terrängen och lägessyner vanligtvis inom 1-2 veckor.",
             "information": "Bifoga beställningen följande uppgifter:\n\n - Objektets adress\n\n - Bygglovsbeteckning\n\n - Fastighetsbeteckning\n\n - Lupapiste-nummer\n\n - Beställarens namn och kontaktuppgifter. \n\nBifoga beställningen också följande uppgifter för fakturering:\n\n - Betalarens namn (företagets namn och kontaktpersonens namn, privatpersonens namn räcker vid privata beställningar)\n\n - Beställarens adress \n\n - FO-nummer eller personbeteckning \n\n - Uppgifter för elektronisk fakturering om faktureringen önskas ske elektroniskt.\n\n",
             "provided_languages": [
                 "fi",
