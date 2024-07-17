@@ -10481,7 +10481,7 @@
                         {
                             "type": "FORM",
                             "title": "Application form (PDF, In Finnish)",
-                            "url": "https:\/\/valvira.fi\/documents\/152634019\/171571797\/Kirjallinen-lupahakemus.pdf",
+                            "url": "https:\/\/valvira.fi\/documents\/152634019\/171571797\/Tupakkarekisteri-Hae-toistaiseksi-voimassa-olevaa-vahittaismyyntilupaa-tai-tee-tukkumyynti-ilmoitus.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -23384,209 +23384,6 @@
                         }
                     ],
                     "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 4926,
-        "fi": {
-            "id": 4926,
-            "exact_descriptions": [
-                7455
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Keskinäisen vaihdon hakeminen",
-            "description": "Sähköinen asiointipalvelu, jonka kautta voit hakea keskinäistä vaihtoa kun asut Helsingin kaupungin Ara-vuokra-asunnossa.",
-            "process_description": "Keskinäistä vaihtoa haetaan täyttämällä asuntohakemus. Hakemuksen täyttämisen jälkeen tunnistaudut pankki- tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta koko kotitaloudelle voidaan tehdä asukasvalinta vaihtoasuntoon. Kun olet lähettänyt hakemuksen, kanssahakija saa sähköpostiinsa linkin tunnistautumista varten. Kun molemmat hakijat ovat vahvistaneet hakemuksen, hakemus on vastaanotettu ja se tallentuu asukasvalintajärjestelmään.\n\nTunnistautuminen tarkoittaa henkilöllisyyden todistamista. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todistaa henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti). Tunnistautumisen jälkeen pääset luomaan käyttäjätunnuksen ja salasanan sähköpostiosoitteesi avulla. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen. Keskinäinen vaihto on mahdollista vasta tunnistumiskäynnin jälkeen.  \n\nHakijan ja kanssahakijan on mahdollista päivittää hakemustaan. Hakemusta voi muokata tai sen voi uudistaa ilman muokkauksia. Uusi tai päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan hakijan tulee tehdä uusi hakemus. Asuntohakemusta voivat päivittää vain hakijat itse.\n\nKullakin hakijalla voi olla vain yksi keskinäisen vaihdon hakemus voimassa kerrallaan. \n",
-            "expiration_time": "Hakemus on voimassa kolme (3) kuukautta sen jättämisestä tai muutosten tekemisestä. ",
-            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Keskinäisen vaihdon hakemus",
-                    "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 3261,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Keskinäisen asunnonvaihdon hakemus",
-                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin. Jos haet asuntoa kanssahakijan kanssa, myös kanssahakijan tulee tunnistautua ja vahvistaa asuntohakemus, jotta hakemus on voimassa ja mukana asukasvalinnoissa. Jos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, voit tunnistautua hakemuksen jättämisen jälkeen käymällä vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8.",
-                    "information": "Voit tarkastella, muokata ja vahvistaa asuntohakemuksia vuokra-asunnon haun palvelussa.",
-                    "availability_summary": "Avoinna joka päivä",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Keskinäisen vaihdon hakemus",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä "
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4926,
-            "exact_descriptions": [
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Applying for apartment with an exchange partner",
-            "description": "An electronic service through which you can apply for apartment exchange with an exchange partner when you live in an Ara rental apartment owned by the City of Helsinki.",
-            "process_description": "You can apply for mutual exchange by completing a housing application. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. If you are applying for housing with a co-applicant, the co-applicant must also authenticate themselves and confirm the housing application in order for your entire household to be included in the tenant selection for the exchange apartment. Once you have submitted the application, the co-applicant receives an email with a link for authentication. When both applicants have confirmed the application, it is considered received and is recorded in the tenant selection system.\n\nAuthentication means proving your identity. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8 and proving your identity with an official identity card (passport or identity card). After authentication, you can create a username and password using your email address. Your housing application will only be included in the tenant selection after the authentication visit. Mutual exchange is only possible after the authentication visit.  \n\nThe applicant and co-applicant may update their application. The application can be edited or renewed without editing. The new or updated application will replace the previously submitted application. An expired application cannot be updated or copied, but the applicant must submit a new application. The housing application can only be updated by the applicants themselves.\n\nEach applicant can only have one application for apartment eavalid at a time. \n",
-            "expiration_time": "Once you have submitted or changed your application, it will be valid for three months. ",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Application for a mutual apartment exchange",
-                    "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 3261,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Application when swapping apartments",
-                    "prerequisites": "You can apply for Ara rental housing by completing a housing application. After completing the application, you need to authenticate yourself with your online banking credentials or mobile certificate. If you are applying for housing with a co-applicant, the co-applicant must also authenticate themselves and confirm the housing application in order for the application to be valid and included in the tenant selection. If you do not have online banking credentials or a mobile certificate, you can authenticate yourself after submitting your application by visiting the rental apartment advice service at Työpajankatu 8.",
-                    "information": "You can view the progress of your application and modify it.",
-                    "availability_summary": "Open every day",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Application when swapping apartments",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open every day "
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4926,
-            "exact_descriptions": [
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Ansökan om bostadsbyte med en motpart",
-            "description": "En ärendehanteringstjänst där du kan ansöka om ett bostadsbyte med en motpart när du bor i en ARA-hyresbostad av Helsingfors stad.",
-            "process_description": "Du ansöker om ett inbördes bostadsbyte genom att fylla i en bostadsansökan. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. Om du ansöker om en bostad med en medsökande, måste medsökanden också identifiera sig och bekräfta bostadsansökan så att ett val för boende till en bytesbostad kan göras för hela hushållet. När du har skickat in ansökan, får medsökanden ett e-postmeddelande med en länk för identifiering. När båda sökanden har bekräftat ansökan, har ansökan tagits emot och registreras i systemet för val av boende.\n\nIdentifieringen innebär styrkande av identiteten. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8 och styrka din identitet med ett officiellt identitetsbevis (pass eller identitetskort). Efter identifieringen kan du skapa ett användarnamn och lösenord med hjälp av din e-postadress. Bostadsansökan ingår valen av boende först efter identifieringsbesöket. Inbördes bostadsbyte är möjligt först efter identifieringsbesöket.\n  \nSökanden och medsökanden kan redigera sin ansökan. Ansökan kan redigeras eller förnyas utan redigeringar. En ny eller förnyad ansökan ersätter ansökan som tidigare skickats in. En föråldrad ansökan kan inte redigeras eller kopieras, utan sökanden måste lämna in en ny ansökan. Endast de sökande själva kan redigera bostadsansökan.\n\nVarje sökande får endast ha en gällande ansökan om ett inbördes bostadsbyte i taget. \n",
-            "expiration_time": "Ansökan är giltig tre månader från inlämnandet eller redigeringen. ",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ansökan om bostadsbyte med en motpart",
-                    "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 3261,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om bostadsbyte med en motpart",
-                    "prerequisites": "Du kan ansöka om en ARA-hyresbostad genom att fylla i en bostadsansökan. När du har fyllt i ansökan, identifiera dig med bankoder eller mobil ID. Om du ansöker om en bostad med en medsökande, måste medsökanden också identifiera sig och bekräfta bostadsansökan så att ansökan är giltig och ingår i valen av boende. Om du inte har bankkoder eller ett mobilcertifikat till ditt förfogande, kan du identifiera dig efter att ha lämnat in ansökan genom att besöka kundtjänsten för ansökning om hyresbostad på adressen Verkstadsgatan 8.",
-                    "information": "Du kan följa vad som händer med din ansökan eller göra ändringar i den.",
-                    "availability_summary": "Öppet varje dag",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Ansökan om bostadsbyte med en motpart",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-keskinainenvaihto\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag "
-                        }
                     ]
                 }
             ]
@@ -54013,7 +53810,6 @@
         "fi": {
             "id": 4279,
             "exact_descriptions": [
-                3332,
                 7455
             ],
             "service_id": 10309,
@@ -54078,7 +53874,6 @@
         "en": {
             "id": 4279,
             "exact_descriptions": [
-                3332
             ],
             "service_id": 10309,
             "type": "APPLICATION",
@@ -54139,7 +53934,6 @@
         "sv": {
             "id": 4279,
             "exact_descriptions": [
-                3332
             ],
             "service_id": 10309,
             "type": "APPLICATION",
