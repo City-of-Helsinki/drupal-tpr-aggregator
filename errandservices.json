@@ -35765,7 +35765,7 @@
                     "id": 4049,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Sähköposti",
+                    "name": "HRI Sähköposti",
                     "information": "Avoimen datan tiimiin saat yhteyden sähköpostilla.",
                     "email": "hri@hel.fi",
                     "provided_languages": [
@@ -35816,7 +35816,8 @@
                     "id": 4049,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "Email",
+                    "name": "Email HRI",
+                    "information": "You can contact the Open Data team by email.",
                     "email": "hri@hel.fi",
                     "provided_languages": [
                     ],
@@ -35828,6 +35829,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Read more about Helsinki Region Infoshare",
+                            "url": "https:\/\/hri.fi\/en_gb\/",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
