@@ -31186,6 +31186,148 @@
         }
     },
     {
+        "id": 5581,
+        "fi": {
+            "id": 5581,
+            "exact_descriptions": [
+                3566
+            ],
+            "service_id": 10744,
+            "type": "ADVICE",
+            "name": "Maksukaton neuvonta",
+            "description": "Sosiaali- ja terveydenhuollon lakisääteisten asiakasmaksujen laskutus sekä maksukattoon liittyvä neuvonta",
+            "process_description": "Taloushallintopalveluliikelaitoksen (Talpa) asiakaspalvelussa annetaan maksukattoon liittyvää neuvontaa puhelimitse sekä sähköpostitse.\n\nMaksukaton laskenta aloitetaan aina yhteydenoton perusteella.\n\nMikäli maksukatto, 762 euroa, täyttyy Talpan lähettämien sosiaali- ja terveydenhuollon laskujen kohdalla, ota yhteyttä Talpan asiakaspalveluun.\n\nJos maksukatto täyttyy HUS:n laskun kohdalla, voit ottaa yhteyttä laskussa olevaan HUS:n puhelinnumeroon. HUS-sairaaloiden potilaslaskutus vastaa arkisin klo 9-15 palvelunumerossa 09 471 785 50, sähköposti potilaslaskutus(at)hus.fi\n\n\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "8f584c26-f6bc-4c92-8c1b-ca28cb6373cb"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Sosiaali- ja terveystoimialan asiakasmaksut ja maksukatto",
+                    "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/asiakkaan-tiedot-ja-oikeudet\/maksut\/maksukatto"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4159,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Neuvontaa puhelimella",
+                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "phone": "09 310 25300",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4160,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Neuvontaa sähköpostilla",
+                    "information": "Jos viestissäsi on henkilötietoja tai muita arkaluontoisia ja salassa pidettäviä tietoja, käytäthän aina suojattua sähköpostia. Securemail.hel.fi -osoitteeseen kirjaudutaan verkkopankkitunnuksilla.",
+                    "email": "talpa.asiakaspalvelu@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Taloushallintopalvelut yhteystietoja",
+                            "url": "https:\/\/taloushallintopalvelu.hel.fi\/yhteystiedot-ja-palaute\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4161,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Suojattu sähköposti",
+                    "information": "Jos sähköpostiviestissäsi on henkilötietoja tai muita arkaluontoisia ja salassa pidettäviä tietoja, käytä aina suojattua sähköpostia. Suojattuun sähköpostiin kirjaudutaan verkkopankkitunnuksilla.",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail.hel.fi",
+                            "url": "https:\/\/securemail.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4162,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae todistustusta maksukaton täyttymisestä",
+                    "information": "Jos maksukatto ylittyy Helsingin kaupungin taloushallintopalvelun lähettämän laskun kohdalla, ota todistuksen saamiseksi yhteyttä taloushallintopalveluun tai hae todistusta lomakkeella",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lomake todistuksen hakemiseen",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/Te-323.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5076,
         "fi": {
             "id": 5076,
