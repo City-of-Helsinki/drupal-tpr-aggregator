@@ -5470,6 +5470,330 @@
         }
     },
     {
+        "id": 4964,
+        "fi": {
+            "id": 4964,
+            "exact_descriptions": [
+                8749
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Hae Hekan vuokra-asuntoa",
+            "description": "Hae Hekan vuokra-asuntoa täyttämällä asuntohakemus. Huomaa, että sinun pitää vahvistaa hakemuksesi tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella, jotta hakemuksesi on mukana asukasvalinnoissa. \n\nVoit hakea asuntoa myös kanssahakijan kanssa. Silloin myös kanssahakijan pitää vahvistaa hakemus tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.  \n\nJos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, käy tunnistautumassa vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todista henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti).",
+            "expiration_time": "Hakemus on voimassa kolme kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä.",
+            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3310,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae Hekan vuokra-asuntoa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Täytä hakemus Hekan vuokra-asuntoon",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4024,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Vuokra-asunnon haun neuvonnan sähköposti",
+                    "email": "asunnonhaku@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4037,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
+                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 12:30-15:30, pe 12-15",
+                    "phone": "0931013030",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, to 09-12"
+                        },
+                        {
+                            "availability_string": "Avoinna ti-ke 12:30-15:30"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 4964,
+            "exact_descriptions": [
+                8749
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Apply for a Heka rental apartment",
+            "description": "Apply for a Heka rental apartment by filling in a housing application. Please note that you have to confirm your application through authentication with online banking credentials or Mobile ID before your application will be included in the tenant selection process. \n\nYou can also apply for an apartment with a co-applicant. In this case, the co-applicant must also confirm the application through authentication with online banking credentials or Mobile ID. The system classifies the application based on the urgency of the need for housing. \n\nIf you do not have online banking credentials or Mobile ID, you can visit the rental apartment search customer service at Työpajankatu 8 and prove your identity using and official personal identity document (passport or personal ID card). \n",
+            "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
+            "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3310,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a Heka rental apartment",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fill out an application for a Heka rental apartment",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4024,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Rental apartment search customer service email",
+                    "email": "asunnonhaku@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4037,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Rental apartment search telephone service",
+                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 12:30-15:30, Fri 12-15",
+                    "phone": "0931013030",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon, Thu 09-12"
+                        },
+                        {
+                            "availability_string": "Open Tue-Wed 12:30-15:30"
+                        },
+                        {
+                            "availability_string": "Open Fri 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4964,
+            "exact_descriptions": [
+                8749
+            ],
+            "service_id": 10311,
+            "type": "APPLICATION",
+            "name": "Ansökan om en Heka-hyresbostad",
+            "description": "Ansök om en Heka-hyresbostad genom att fylla i en bostadsansökan. Observera att du måste bekräfta din ansökan genom att identifiera dig antingen med nätbankskoder eller ett mobilcertifikat så att din ansökan kan iakttas i valet av boende.\n \nDu kan även ansöka om en bostad med en medsökande. I så fall måste även den medsökande bekräfta ansökan genom att identifiera sig med nätbankskoder eller ett mobilcertifikat. Systemet klassificerar ansökan på grundval av hur brådskande behovet av bostad är. \n\nOm du inte har nätbankskoder eller ett mobilcertifikat, kan du besöka kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att bevisa din identitet med ett officiellt identitetsbevis (pass eller identitetskort). \n",
+            "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
+            "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3310,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om en Heka-hyrestostad",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fyll i ansökan om en Heka-hyresbostad",
+                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4024,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Rådgivning om ansökan om hyresbostad, e-post",
+                    "email": "asunnonhaku@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4037,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Rådgivning om ansökan om hyresbostad, telefontjänst",
+                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 12:30-15:30, fre 12-15",
+                    "phone": "0931013030",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån, tor 09-12"
+                        },
+                        {
+                            "availability_string": "Öppet tis-ons 12:30-15:30"
+                        },
+                        {
+                            "availability_string": "Öppet fre 12-15"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 899,
         "fi": {
             "id": 899,
@@ -12248,330 +12572,6 @@
                         }
                     ],
                     "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 4964,
-        "fi": {
-            "id": 4964,
-            "exact_descriptions": [
-                8749
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Hekan vuokra-asunnon hakeminen",
-            "description": "Hae Hekan vuokra-asuntoa täyttämällä asuntohakemus. Huomaa, että sinun pitää vahvistaa hakemuksesi tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella, jotta hakemuksesi on mukana asukasvalinnoissa. \n\nVoit hakea asuntoa myös kanssahakijan kanssa. Silloin myös kanssahakijan pitää vahvistaa hakemus tunnistautumalla verkkopankkitunnuksin tai mobiilivarmenteella. Järjestelmä luokittelee hakemuksen asunnontarpeen kiireellisyyden perusteella.  \n\nJos sinulla ei ole pankkitunnuksia tai mobiilivarmennetta käytössäsi, käy tunnistautumassa vuokra-asuntojen neuvonnassa osoitteessa Työpajankatu 8, ja todista henkilöllisyytesi virallisella henkilöllisyystodistuksella (passi tai henkilökortti).",
-            "expiration_time": "Hakemus on voimassa kolme kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä.",
-            "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3310,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae Hekan vuokra-asuntoa",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Täytä hakemus Hekan vuokra-asuntoon",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4024,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Vuokra-asunnon haun neuvonnan sähköposti",
-                    "email": "asunnonhaku@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4037,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 12:30-15:30, pe 12-15",
-                    "phone": "0931013030",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma, to 09-12"
-                        },
-                        {
-                            "availability_string": "Avoinna ti-ke 12:30-15:30"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4964,
-            "exact_descriptions": [
-                8749
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Applying for a Heka rental apartment",
-            "description": "Apply for a Heka rental apartment by filling in a housing application. Please note that you have to confirm your application through authentication with online banking credentials or Mobile ID before your application will be included in the tenant selection process. \n\nYou can also apply for an apartment with a co-applicant. In this case, the co-applicant must also confirm the application through authentication with online banking credentials or Mobile ID. The system classifies the application based on the urgency of the need for housing. \n\nIf you do not have online banking credentials or Mobile ID, you can visit the rental apartment search customer service at Työpajankatu 8 and prove your identity using and official personal identity document (passport or personal ID card). \n",
-            "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
-            "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3310,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Apply for a Heka rental apartment",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Fill out an application for a Heka rental apartment",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4024,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Rental apartment search customer service email",
-                    "email": "asunnonhaku@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4037,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Rental apartment search telephone service",
-                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 12:30-15:30, Fri 12-15",
-                    "phone": "0931013030",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon, Thu 09-12"
-                        },
-                        {
-                            "availability_string": "Open Tue-Wed 12:30-15:30"
-                        },
-                        {
-                            "availability_string": "Open Fri 12-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4964,
-            "exact_descriptions": [
-                8749
-            ],
-            "service_id": 10311,
-            "type": "APPLICATION",
-            "name": "Ansökan om en Heka-hyresbostad",
-            "description": "Ansök om en Heka-hyresbostad genom att fylla i en bostadsansökan. Observera att du måste bekräfta din ansökan genom att identifiera dig antingen med nätbankskoder eller ett mobilcertifikat så att din ansökan kan iakttas i valet av boende.\n \nDu kan även ansöka om en bostad med en medsökande. I så fall måste även den medsökande bekräfta ansökan genom att identifiera sig med nätbankskoder eller ett mobilcertifikat. Systemet klassificerar ansökan på grundval av hur brådskande behovet av bostad är. \n\nOm du inte har nätbankskoder eller ett mobilcertifikat, kan du besöka kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att bevisa din identitet med ett officiellt identitetsbevis (pass eller identitetskort). \n",
-            "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
-            "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3310,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansök om en Heka-hyrestostad",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Fyll i ansökan om en Heka-hyresbostad",
-                            "url": "https:\/\/hakemus.etampuuri.fi\/kymp-ara\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4024,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Rådgivning om ansökan om hyresbostad, e-post",
-                    "email": "asunnonhaku@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4037,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Rådgivning om ansökan om hyresbostad, telefontjänst",
-                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 12:30-15:30, fre 12-15",
-                    "phone": "0931013030",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån, tor 09-12"
-                        },
-                        {
-                            "availability_string": "Öppet tis-ons 12:30-15:30"
-                        },
-                        {
-                            "availability_string": "Öppet fre 12-15"
-                        }
                     ]
                 }
             ]
