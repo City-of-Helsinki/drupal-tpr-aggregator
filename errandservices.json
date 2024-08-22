@@ -5535,6 +5535,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Vuokra-asunnon haun neuvonnan sähköposti",
+                    "information": "Neuvomme kaupungin vuokra-asunnon hakuun liittyvissä asioissa. Saat meiltä neuvontaa Hekan vuokra-asunnon ja kaupungin vapaarahoitteisen vuokra-asunnon hakemiseen.\n\nNeuvontamme painottuu asuntohakemuksen täyttämisen ohjeistamiseen.",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -5647,6 +5648,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Rental apartment search customer service email",
+                    "information": "We can advise you on matters related to apartment search for city-owned rental homes. You will receive guidance on applying for Heka rental housing and non-subsidised rental housing.\n\nOur advice focuses on instructions for filling in housing applications.",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -5658,6 +5660,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Rental apartment search advisory service",
+                            "url": "https:\/\/www.hel.fi\/en\/decision-making\/rental-apartment-search-advisory-service"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -5754,6 +5761,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Rådgivning om ansökan om hyresbostad, e-post",
+                    "information": "Vi ger dig råd i frågor som rör ansökan om stadens hyresbostäder. Vi ger dig råd i hur du ansöker om Hekas hyresbostäder och fritt finansierade hyresbostäder.\n\nI rådgivningen ligger fokus på att ge anvisningar om att fylla i bostadsansökan.",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
                     ],
@@ -5765,6 +5773,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Rådgivning om ansökan om hyresbostad",
+                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/radgivning-om-ansokan-om-hyresbostad"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -13027,7 +13040,8 @@
             "exact_descriptions": [
                 8970,
                 9794,
-                9805
+                9805,
+                9808
             ],
             "service_id": 10533,
             "type": "ADVICE",
