@@ -1240,7 +1240,8 @@
                     "id": 3517,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Stadin ammattiopiston sähköpostineuvonta",
+                    "name": "Stadin ammattiopisto sähköpostineuvonta",
+                    "information": "Stadin ammattiopiston eli Stadin AO:n hakutoimisto sekä Kasvatuksen ja koulutuksen neuvontapalvelut tarjoavat neuvontaa ammatillisiin opintoihin liittyvissä asioissa.\n",
                     "email": "hakutoimisto@edu.hel.fi",
                     "provided_languages": [
                     ],
@@ -1355,6 +1356,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Helsinki Vocational College and Adult Institute Admissions Office, advisory services by email",
+                    "information": "Helsinki Vocational College and Adult institute's (Stadin AO) admissions office and Education Division's advisory services team can help you with your enquiries on vocational studies and training.\n",
                     "email": "hakutoimisto@edu.hel.fi",
                     "provided_languages": [
                     ],
@@ -1459,7 +1461,8 @@
                     "id": 3517,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "Stadin ammattiopistos e-postservice",
+                    "name": "Stadin AO:s e-postservice",
+                    "information": "Rådgivningstjänsterna för fostran och utbildning samt det finskspråkiga yrkesinstitutet Stadin AO:s kundtjänst erbjuder rådgivning som berör yrkesinriktade studier.",
                     "email": "hakutoimisto@edu.hel.fi",
                     "provided_languages": [
                     ],
@@ -1471,6 +1474,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Informationen för yrkesutbildningen",
+                            "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/informationen-for-yrkesutbildningen"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -5534,7 +5542,7 @@
                     "id": 4024,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Vuokra-asunnon haun neuvonnan sähköposti",
+                    "name": "Vuokra-asunnon haun neuvonta sähköposti",
                     "information": "Neuvomme kaupungin vuokra-asunnon hakuun liittyvissä asioissa. Saat meiltä neuvontaa Hekan vuokra-asunnon ja kaupungin vapaarahoitteisen vuokra-asunnon hakemiseen.\n\nNeuvontamme painottuu asuntohakemuksen täyttämisen ohjeistamiseen.",
                     "email": "asunnonhaku@hel.fi",
                     "provided_languages": [
