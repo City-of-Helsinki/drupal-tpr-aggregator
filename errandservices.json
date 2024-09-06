@@ -10764,14 +10764,15 @@
                 },
                 {
                     "id": 3852,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
                     "name": "Tee vähittäismyyntilupahakemus Valviran sähköisessä palvelussa",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": true,
+                    "requires_authentication": false,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -10781,8 +10782,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry Valviran palveluun",
-                            "url": "https:\/\/tupakkarekisteri.fi",
+                            "title": "Siirry Valviran verkkosivuille",
+                            "url": "https:\/\/valvira.fi\/tupakka\/vahittaismyynti",
                             "file_format": "HTML"
                         }
                     ],
@@ -10867,14 +10868,15 @@
                 },
                 {
                     "id": 3852,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
                     "name": "Online services",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": true,
+                    "requires_authentication": false,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -10884,8 +10886,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to Valvira’s service (in Finnish)",
-                            "url": "https:\/\/tupakkarekisteri.fi",
+                            "title": "Go to Valvira’s website",
+                            "url": "https:\/\/valvira.fi\/en\/tobacco\/retail-sales",
                             "file_format": "HTML"
                         }
                     ],
@@ -10970,14 +10972,15 @@
                 },
                 {
                     "id": 3852,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
                     "name": "Elektronisk ärendehantering",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": true,
+                    "requires_authentication": false,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -10987,8 +10990,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Till Valviras tjänst",
-                            "url": "https:\/\/tupakkarekisteri.fi",
+                            "title": "Till Valviras webbsida",
+                            "url": "https:\/\/valvira.fi\/sv\/tobak\/detaljhandel",
                             "file_format": "HTML"
                         }
                     ],
