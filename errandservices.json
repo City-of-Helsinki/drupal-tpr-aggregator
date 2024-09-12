@@ -13060,6 +13060,162 @@
         ]
     },
     {
+        "id": 5164,
+        "fi": {
+            "id": 5164,
+            "exact_descriptions": [
+                9207
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Helsingin sosiaalipäivystyksen puhelin",
+            "description": "Sosiaalipäivystys on päivystävä sosiaaliviranomainen virka-ajan ulkopuolella. Palvelemme kaikkia Helsingissä asuvia sekä kaupungissa oleskelevia.Soita sosiaalipäivystykseen, jos on kiireellinen huoli esimerkiksi lapsen, nuoren tai iäkkään henkilön ososuhteista.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3591,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Helsingin sosiaalipäivystys",
+                    "information": "Arkipäiväisin ole ensisijaisesti yhteydessä virka-aikaisiin palveluihin.",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "phone": "0206 96006",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5164,
+            "exact_descriptions": [
+                9207
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Emergency social services phone",
+            "description": "Emergency social services is an on-call social welfare authority outside office hours. We serve everyone living in Helsinki as well as those staying in the city. Call us in case you have urgent concern about the circumstances of a child, a young person, an elderly or a disabled person.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3591,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Helsinki emergency social services",
+                    "information": "On weekdays, you should primarily contact services available during office hours.",
+                    "availability_summary": "Open every day around the clock",
+                    "phone": "0206 96006",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5164,
+            "exact_descriptions": [
+                9207
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Ring Helsingfors socialjour",
+            "description": "Socialjouren är en social myndighet som har jour utanför tjänstetid. Vi betjänar alla som bor och vistas i Helsingfors.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3591,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Helsingfors socialjour",
+                    "information": "På vardagar ska du i första hand vända dig tjänster som betjänar under tjänstetid.",
+                    "availability_summary": "Öppet dygnet runt varje dag",
+                    "phone": "0206 96006",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5575,
         "fi": {
             "id": 5575,
@@ -24797,159 +24953,6 @@
         ],
         "sv": [
         ]
-    },
-    {
-        "id": 5165,
-        "fi": {
-            "id": 5165,
-            "exact_descriptions": [
-                9208
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Kriisipäivystys",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3007"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3592,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Kriisipäivystyksen puhelinpalvelu",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "phone": "09 310 44222",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5165,
-            "exact_descriptions": [
-                9208
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Crisis emergency services",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3007"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3592,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Telephone service for Crisis emergency services",
-                    "availability_summary": "Open every day around the clock",
-                    "phone": "09 310 44222",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5165,
-            "exact_descriptions": [
-                9208
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Krisjour",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3007"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3592,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Krisjourens telefontjänst",
-                    "availability_summary": "Öppet dygnet runt varje dag",
-                    "phone": "09 310 44222",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
     },
     {
         "id": 5389,
@@ -42206,6 +42209,162 @@
         ]
     },
     {
+        "id": 5165,
+        "fi": {
+            "id": 5165,
+            "exact_descriptions": [
+                9208
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Soita kriisipäivystyksen puhelimeen",
+            "description": "Kriisipäivystys antaa kriisiapua helsinkiläisille ja Helsingissä oleskeleville esimerkiksi onnettomuudessa, väkivaltatilanteessa tai läheisen kuoltua äkillisesti.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3007"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3592,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Kriisipäivystyksen puhelinpalvelu",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "phone": "09 310 44222",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5165,
+            "exact_descriptions": [
+                9208
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Crisis emergency services phone",
+            "description": "Crisis emergency services provides emergency assistance to Helsinki residents and people staying in Helsinki. Assistance can be provided for example, in the case of an accident, violence or the sudden death of a loved one.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3007"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3592,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Telephone service for Crisis emergency services",
+                    "availability_summary": "Open every day around the clock",
+                    "phone": "09 310 44222",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5165,
+            "exact_descriptions": [
+                9208
+            ],
+            "service_id": 10087,
+            "type": "ADVICE",
+            "name": "Krisjourens telefontjänst",
+            "description": "Krisjouren ger krishjälp till helsingforsare och personer som vistas i Helsingfors t.ex. i en olycka, i en våldssituation eller när en närstående har avlidit plötsligt.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3007"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3592,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Krisjourens telefontjänst",
+                    "availability_summary": "Öppet dygnet runt varje dag",
+                    "phone": "09 310 44222",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4933,
         "fi": {
             "id": 4933,
@@ -43003,159 +43162,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån-fre 08:15-16"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5164,
-        "fi": {
-            "id": 5164,
-            "exact_descriptions": [
-                9207
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Sosiaalipäivystys",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3591,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Helsingin sosiaalipäivystys",
-                    "information": "Arkipäiväisin ole ensisijaisesti yhteydessä virka-aikaisiin palveluihin.",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "phone": "0206 96006",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5164,
-            "exact_descriptions": [
-                9207
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Emergency social services",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3591,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Helsinki emergency social services",
-                    "information": "On weekdays, you should primarily contact services available during office hours.",
-                    "availability_summary": "Open every day around the clock",
-                    "phone": "0206 96006",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5164,
-            "exact_descriptions": [
-                9207
-            ],
-            "service_id": 10087,
-            "type": "ADVICE",
-            "name": "Socialjour",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3591,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Helsingfors socialjour",
-                    "information": "På vardagar ska du i första hand vända dig tjänster som betjänar under tjänstetid.",
-                    "availability_summary": "Öppet dygnet runt varje dag",
-                    "phone": "0206 96006",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet dygnet runt varje dag"
                         }
                     ]
                 }
