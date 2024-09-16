@@ -19370,8 +19370,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5416,
+            "exact_descriptions": [
+                4277
+            ],
+            "service_id": 10891,
+            "type": "NOTICE",
+            "name": "Notification of an exceptional situation",
+            "description": "Submit a notification of an exceptional situation whene.g. an accident, disruption in production or a demolition of a structure or equipment generates emissions or waste that may cause an immediate and apparent risk of environmental contamination. You must also submit a notification when non-standard waste management measures are needed due to the volume or type of waste generated. Submit a notification of the exceptional situation to the Helsinki Environmental Services via Lupapiste.\n",
+            "costs": "We will charge a fee for processing the application in accordance with the environmental protection authority's valid price list.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3958,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of an exceptional situation",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste (In Finnish)",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5416,
             "exact_descriptions": [
