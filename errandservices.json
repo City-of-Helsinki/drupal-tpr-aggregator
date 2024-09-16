@@ -8430,7 +8430,7 @@
             "type": "PERMISSION",
             "name": "Hae raskaan liikenteen erityislupaa",
             "description": "Lähetä lupahakemus sähköpostitse osoitteeseen ksv.liikenne@hel.fi.",
-            "information": "Eija Huhtala, p. 09 310 38372\nRaija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 040 653 5361\nRiitta Malmivaara, puh. 040 860 7628\n",
+            "information": "Raija Jussilainen, p. 09 310 24693\nTanja Etelälahti, p. 09 310 52185\nRiitta Malmivaara, p. 09 310 23633\nHeli Öflund-Kiminkinen, p. 09 310 52193\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8488,7 +8488,7 @@
             "type": "PERMISSION",
             "name": "Apply for a special heavy traffic permit",
             "description": "Submit your permit application by e-mail to ksv.liikenne@hel.fi.",
-            "information": "Eija Huhtala, tel. 09 310 38372\nRaija Jussilainen, tel. 09 310 24693\nTanja Etelälahti, tel. 040 653 5361\nRiitta Malmivaara, tel. 040 860 7628\n",
+            "information": "Raija Jussilainen, tel. 09 310 24693\nTanja Etelälahti, tel. 09 310 52185\nRiitta Malmivaara, tel. 09 310 23633\nHeli Öflund-Kiminkinen, tel. 09 310 52193\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -8547,7 +8547,7 @@
             "name": "Ansök om specialtillstånd för tung trafik",
             "description": "Skicka ansökan om tillstånd per e-post till ksv.liikenne@hel.fi.",
             "process_description": " \n",
-            "information": "Eija Huhtala, tfn 09 310 38372\nRaija Jussilainen, tfn 09 310 24693\nTanja Etelälahti, tfn 040 653 5361\nRiitta Malmivaara, tfn 040 860 7628\n",
+            "information": "Raija Jussilainen, tfn 09 310 24693\nTanja Etelälahti, tfn 09 310 52185\nRiitta Malmivaara, tfn 09 310 23633\nHeli Öflund-Kiminkinen, tfn 09 310 52193\n\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -20182,8 +20182,8 @@
             "type": "NOTICE",
             "name": "Irtisano asukaspysäköintitunnus",
             "name_synonyms": "asukaspysäköintitunnus,pysäköintilupa, irtisanominen",
-            "description": "Tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden ilmoittamalla irtisanomisesta kaupunkiympäristön asiakaspalveluun tai verkossa.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, tunnus irtisanotaan toimittamalla se asiakaspalveluun postitse tai henkilökohtaisesti.",
-            "processing_time": "Tunnuksen voimassaolo päättyy sinä päivänä, kun ilmoitat irtisanomisesta kirjallisesti lomakkeella tai sähköpostitse tai irtisanomalla tunnuksen itse verkossa.",
+            "description": "Määräaikaisen tunnuksen voimassaolo päättyy automaattisesti maksukauden päätyttyä. Voit halutessasi irtisanoa tunnuksen kesken maksukauden ilmoittamalla irtisanomisesta kaupunkiympäristön asiakaspalveluun tai verkossa joko välittömästi tai nykyisen maksukauden loppuun.\n\nJos tunnukseen on merkitty kahden ajoneuvon tiedot, tunnus irtisanotaan toimittamalla se asiakaspalveluun postitse tai henkilökohtaisesti.\n\nJatkuvan veloituksen pysäköintitunnuksen voi päättää itse verkkopalvelussa joko heti tai nykyisen maksukauden loppuun.",
+            "processing_time": "Tunnuksen voimassaolo päättyy sinä päivänä, kun ilmoitat irtisanomisesta kirjallisesti lomakkeella, sähköpostitse osoitteeseen kymp.pysakointitunnus@hel.fi tai irtisanomalla tunnuksen itse verkossa.",
             "information": "Palautamme rahat etukäteen maksetuista täysistä kuukausista. Jos haluat palautuksen, muista ilmoittaa myös tilinumerosi.",
             "provided_languages": [
                 "en",
@@ -20206,33 +20206,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2763,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Irtisano tunnus, joka on ostettu viimeistään 16.1.2024",
-                    "prerequisites": "",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Irtisano tunnus, joka on ostettu viimeistään 16.1.2024 ",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 4043,
                     "type": "ESERVICE",
@@ -20296,32 +20269,6 @@
             ],
             "channels": [
                 {
-                    "id": 2763,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Terminate a permit purchased no later than 16 January 2024",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Terminate a permit purchased no later than 16 January 2024  (In Finnish)",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 4043,
                     "type": "ESERVICE",
                     "type_string": "E-services",
@@ -20382,32 +20329,6 @@
                 }
             ],
             "channels": [
-                {
-                    "id": 2763,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Säg upp tillstånd som är köpts senast 16.1.2024",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Säg upp tillstånd som är köpts senast 16.1.2024 (på finska)",
-                            "url": "https:\/\/lomake.hel.fi\/asukaspysakointitunnuksen-irtisanominen",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
                 {
                     "id": 4043,
                     "type": "ESERVICE",
