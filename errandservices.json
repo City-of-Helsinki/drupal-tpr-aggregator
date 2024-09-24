@@ -45000,7 +45000,7 @@
             "name": "Make an application to lease a parklet spot",
             "name_synonyms": "parklet spot",
             "description": "Submit an application to lease a parklet spot by using an electronic form and submitting it via the City's online services. Alternatively, you can also use a PDF form. You can identify yourself through suomi.fi in order to log in to the service, either with mobile ID or online banking credentials.",
-            "information": "If you are unable to use the electronic form, fill in the PDF form and send it together with the necessary appendices via email to ulkoilma@hel.fi. You can check which appendices are required for a parklet application from the list of appendices.",
+            "information": "If you are unable to use the electronic form, fill in the the terrace and parklet application (PDF) and send it together with the necessary appendices via email to ulkoilma@hel.fi. You can check which appendices are required for a parklet application from the list of appendices.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -45073,7 +45073,7 @@
             "name": "Fyll i ansökan för att hyra ett parklet-område",
             "name_synonyms": "parklet-område, ansökan för ett parklet-område",
             "description": "Ansök om hyrning av ett parklet-område genom att fylla i den elektroniska blanketten i stadens e-tjänster eller genom att fylla i en separat blankett. Du kan identifiera dig i tjänsten med Suomi.fi-autentisering med antingen mobilcertifikat eller nätbankskoder.",
-            "information": "Om du inte kan fylla i den elektroniska blanketten, fyll i PDF-blanketten och skicka den jämte bilagor till adressen ulkoilma@hel.fi. Du kan kontrollera de bilagor som behövs för ansökan på förteckningen över bilagor.",
+            "information": "Om du inte kan fylla i den elektroniska blanketten, fyll i ansökan om terrass och parklet (pdf) och skicka den jämte bilagor till adressen ulkoilma@hel.fi. Du kan kontrollera de bilagor som behövs för ansökan på förteckningen över bilagor.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -45134,6 +45134,18 @@
                             "type": "INTERNET",
                             "title": "Terassanvisning (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/terrassanvisning.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan om hyrning av ett terrass- och parkletområde (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_hakemus.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Förteckning över bilagor för ansökan om terrass- och parkletområde (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/2022_terassi_liiteluettelo.pdf",
                             "file_format": "PDF"
                         }
                     ],
