@@ -2681,6 +2681,126 @@
         ]
     },
     {
+        "id": 5600,
+        "fi": {
+            "id": 5600,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "ENROLLMENT",
+            "name": "Asioi verkossa",
+            "description": "Asiointi henkilöasiakkaille on TE-palveluiden verkkoasiointikanava.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Asiointi verkossa",
+                    "url": "https:\/\/asiointi.mol.fi\/omaasiointi\/?kieli=fi"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Asioinnin ohje",
+                    "url": "https:\/\/ohje.te-palvelut.fi\/hloasiakas\/fi\/omaasiointi"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "en": {
+            "id": 5600,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "ENROLLMENT",
+            "name": "Access services online",
+            "description": "E-service for individual customers is the TE office's online service.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Access services online (in Finnish)",
+                    "url": "https:\/\/asiointi.mol.fi\/omaasiointi\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Instructions for using the e-service (in Finnish)",
+                    "url": "https:\/\/ohje.te-palvelut.fi\/hloasiakas\/fi\/omaasiointi"
+                }
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5600,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "ENROLLMENT",
+            "name": "Uträtta ärenden på webben",
+            "description": "E-tjänster för personkunder samlar ihop arbets- och näringsbyråns e-tjänster.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Uträtta ärenden på webben",
+                    "url": "https:\/\/asiointi.mol.fi\/omaasiointi\/?kieli=sv"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Anvisningar för ärenden",
+                    "url": "https:\/\/ohje.te-palvelut.fi\/hloasiakas\/sv\/omaasiointi"
+                }
+            ],
+            "channels": [
+            ]
+        }
+    },
+    {
         "id": 5143,
         "fi": {
             "id": 5143,
@@ -14044,8 +14164,7 @@
         "fi": {
             "id": 4211,
             "exact_descriptions": [
-                8738,
-                9805
+                8738
             ],
             "service_id": 10115,
             "type": "APPLICATION",
@@ -14133,8 +14252,7 @@
         "en": {
             "id": 4211,
             "exact_descriptions": [
-                8738,
-                9805
+                8738
             ],
             "service_id": 10115,
             "type": "APPLICATION",
@@ -14221,8 +14339,7 @@
         "sv": {
             "id": 4211,
             "exact_descriptions": [
-                8738,
-                9805
+                8738
             ],
             "service_id": 10115,
             "type": "APPLICATION",
