@@ -13281,7 +13281,6 @@
             "id": 5571,
             "exact_descriptions": [
                 8970,
-                9805,
                 9816
             ],
             "service_id": 10533,
@@ -44268,7 +44267,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Tee aloittamisilmoitus",
-            "description": "Tee aloittamisilmoitus alueen rakennustyön työmaavalvonnasta vastaavalle tarkastusinsinöörille tai rakennusmestarille sähköpostilla tai soittamalla puhelinpalveluaikana ma klo 9-10 ja to klo 9-10. Yhteystiedot löydät karttapalvelusta.",
+            "description": "Tee aloittamisilmoitus alueen rakennustyön työmaavalvonnasta vastaavalle tarkastusinsinöörille tai rakennusmestarille sähköpostilla tai soittamalla puhelinpalveluaikana maanantaisin kello 9-10 ja keskiviikkoisin kello 9-10. Yhteystiedot löydät karttapalvelusta.",
             "information": "Aloittamisilmoituksen tekijän tulee varautua selvittämään seuraavat asiat:\n\n - rakennushankkeen tarkastusasiakirja vastuuhenkilöineen\n\n - hankkeen turvallisuuskoordinaattori\n\n - hankkeen valvojat\n\n - erityissuunnitelmien valmiusaste ja niiden rakennusvalvontaan toimittamisen ajankohta.",
             "provided_languages": [
                 "fi",
@@ -44323,7 +44322,7 @@
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
             "name": "Gör en inledningsanmälan",
-            "description": "Gör en inledningsanmälan till inspektionsingenjören eller byggmästaren som ansvarar för byggplatsinspektionen på området per e-post eller genom att ringa under telefonbetjäningstiden mån kl 9-10 och tor kl 9-10. Kontaktuppgifterna finner du i karttjänsten.",
+            "description": "Gör en inledningsanmälan till inspektionsingenjören eller byggmästaren som ansvarar för byggplatsinspektionen på området per e-post eller genom att ringa under telefonbetjäningstiden på måndagar kl. 9-10 och onsdagar kl 9-10. Kontaktuppgifterna finner du i karttjänsten.",
             "information": "Den som gör en inledningsanmälan måste vara beredd att tillhandahålla följande information:\n\n - byggprojektets inspektionsdokument med ansvarspersoner \n - projektets säkerhetskoordinator \n - projektets inspektörer\n - i vilket skedde färdigställandet av specialplanerna befinner sig och när dessa levereras till byggnadstillsynen.\n",
             "provided_languages": [
                 "fi",
@@ -56278,7 +56277,7 @@
             "service_id": 10634,
             "type": "APPOINTMENT",
             "name": "Varaa aloituskokous",
-            "description": "Varaa aloituskokous alueen rakennustyön työmaavalvonnasta vastaavalta tarkastusinsinööriltä tai rakennusmestarilta. Soita puhelinpalveluaikana ma klo 9-10 ja to klo 9-10. Yhteystiedot löydät karttapalvelusta.",
+            "description": "Varaa aloituskokous alueen rakennustyön työmaavalvonnasta vastaavalta tarkastusinsinööriltä tai rakennusmestarilta. Soita puhelinpalveluaikana maanantaisin kello 9-10 ja keskiviikkoisin kello 9-10. Yhteystiedot löydät karttapalvelusta.",
             "information": "Aloituskokouksessa\n\n - sovitaan rakennustyön tarkastusasiakirjamenettelystä\n\n - nimetään työvaiheita ja rakennusvaiheita tarkastavat henkilöt\n\n - kirjataan muut laadun varmistamiseen liittyvät asiat.\n\nVastuuhenkilöiden nimeämisestä vastaa rakennushankkeeseen ryhtyvä.\n\n Aloituskokouksessa tulee olla läsnä\n\n - rakennusvalvonnan edustaja\n\n - rakennushankkeeseen ryhtyvä tai tämän edustaja\n\n - rakennuksen pääsuunnittelija\n\n - vastaava työnjohtaja.",
             "provided_languages": [
                 "en",
@@ -56335,7 +56334,7 @@
             "service_id": 10634,
             "type": "APPOINTMENT",
             "name": "Book a commencement meeting",
-            "description": "Book a commencement meeting with the inspection engineer or master builder responsible for supervising construction sites in the area. Call during the telephone service hours, Mon 9-10 and Thu 9-10. You can find the contact information in the map service.",
+            "description": "Book a commencement meeting with the inspection engineer or master builder responsible for supervising construction sites in the area. Call during the telephone service hours on Mondays from 9 to 10 and Wednesdays from 9 to 10. You can find the contact information in the map service.",
             "information": "Content of the commencement meeting:\n\n - agreeing on the inspection document procedure for the construction work\n - appointing persons to inspect the work phases and construction phases\n - recording other matters relating to quality assurance.\n\nThe party starting the construction project is responsible for appointing the responsible persons.\n\nRequired attendees at the commencement meeting:\n\n - Building Control representative\n - party starting the construction project or the party's representative\n - principal designer of the building\n - site supervisor in charge.\n",
             "provided_languages": [
                 "en",
@@ -56392,7 +56391,7 @@
             "service_id": 10634,
             "type": "APPOINTMENT",
             "name": "Boka inledningsmöte",
-            "description": "Boka ett inledningsmöte hos inspektionsingenjören eller byggmästaren som ansvarar för byggarbetets arbetsplatsövervakning. Ring under telefonbetjäningstiden, mån kl. 9-10 och tor kl. 9-10. Kontaktuppgifterna finner du i karttjänsten.",
+            "description": "Boka ett inledningsmöte hos inspektionsingenjören eller byggmästaren som ansvarar för byggarbetets arbetsplatsövervakning. Ring under telefonbetjäningstiden på måndagar kl. 9-10 och onsdagar kl. 9-10. Kontaktuppgifterna finner du i karttjänsten.",
             "information": "Vid inledningsmötet\n\n - kommer man överens om byggarbetets inspektionsprotokollförfaranden\n - utnämns personerna som inspekterar arbets- och byggnadsskedena\n - registreras andra frågor som har att göra med kvalitetssäkringen.\n\nFör utnämnandet av ansvarspersonerna ansvarar den som inleder byggprojektet.\n\nDe som bör vara närvarande vid inledningsmötet är\n\n - en representant för byggnadstillsynen\n - den som inleder byggprojektet eller hens representant\n - byggnadens huvudarkitekt\n - den ansvarige arbetsledaren\n",
             "provided_languages": [
                 "en",
