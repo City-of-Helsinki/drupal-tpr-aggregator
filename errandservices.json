@@ -57872,6 +57872,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4197,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Irtisano maa- tai vesialueen vuokrasopimus",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Irtisanomisilmoitus (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/kaupunkiympariston-irtisanomislomake.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
