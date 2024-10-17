@@ -2604,7 +2604,6 @@
         "fi": {
             "id": 5574,
             "exact_descriptions": [
-                9816
             ],
             "service_id": 10533,
             "type": "APPLICATION",
@@ -13280,8 +13279,7 @@
         "fi": {
             "id": 5571,
             "exact_descriptions": [
-                8970,
-                9816
+                8970
             ],
             "service_id": 10533,
             "type": "ADVICE",
@@ -34405,8 +34403,7 @@
         "fi": {
             "id": 5570,
             "exact_descriptions": [
-                8970,
-                9816
+                8970
             ],
             "service_id": 10533,
             "type": "ENROLLMENT",
@@ -36115,6 +36112,7 @@
         "fi": {
             "id": 5600,
             "exact_descriptions": [
+                9816
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -36162,6 +36160,58 @@
                         {
                             "availability_string": "Avoinna ma-pe 09-15"
                         }
+                    ]
+                },
+                {
+                    "id": 4198,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Kirjaudu sisään ja asioi Työmarkkinatorin Asiointi-osiossa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Työmarkkinatorin henkilöasiakkaan Asiointi",
+                            "url": "https:\/\/tyomarkkinatori.fi\/henkiloasiakkaat\/asiointi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4199,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä viesti sähköpostilla",
+                    "email": " tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Asiointi sähköpostilla",
+                            "url": "https:\/\/tyollisyyspalvelut.hel.fi\/yhteystiedot\/sahkoposti"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -36226,6 +36276,25 @@
                             "availability_string": "Open Mon-Fri 09-15"
                         }
                     ]
+                },
+                {
+                    "id": 4199,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": " tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -36288,6 +36357,25 @@
                         {
                             "availability_string": "Öppet mån-fre 09-15"
                         }
+                    ]
+                },
+                {
+                    "id": 4199,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": " tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -49802,7 +49890,6 @@
         "fi": {
             "id": 5572,
             "exact_descriptions": [
-                9816
             ],
             "service_id": 10533,
             "type": "ADVICE",
@@ -49856,7 +49943,6 @@
         "fi": {
             "id": 5573,
             "exact_descriptions": [
-                9816
             ],
             "service_id": 10533,
             "type": "ADVICE",
