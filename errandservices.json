@@ -15184,7 +15184,7 @@
                     "type_string": "Telephone",
                     "name": "Equine Hospital 24\/7 emergency services",
                     "phone": "0600 97412​",
-                    "call_charge_info": "€1.53 per minute + standard call rate (8.00-16.00 mon-fri); €2.00 per minute + standard call rate (16-22 mon-fri and weekends 8-22); €3.85 per minute + standard call rate (22.00-8.00).",
+                    "call_charge_info": "€1.52 per minute + standard call rate (8.00-16.00 mon-fri); €2.00 per minute + standard call rate (16-22 mon-fri and weekends 8-22); €3.85 per minute + standard call rate (22.00-8.00).",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -15656,11 +15656,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Lue lisää Helsingin sivuilta",
-                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/omistusasunnot"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -15807,11 +15802,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Läs mer på Helsingfors hemsida",
-                            "url": "https:\/\/www.hel.fi\/sv\/boende\/agarbostader"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -39035,7 +39025,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Pieneläinsairaalan ajanvaraus",
-                    "availability_summary": "Avoinna ma-pe 08:15-15:30",
+                    "availability_summary": "Avoinna ma-pe 08-15:30",
                     "phone": "029 41 57201​",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -39051,7 +39041,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe 08:15-15:30"
+                            "availability_string": "Avoinna ma-pe 08-15:30"
                         }
                     ]
                 },
@@ -39124,7 +39114,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Small Animal Hospital appointment reservations",
-                    "availability_summary": "Open Mon-Fri 08:15-15:30",
+                    "availability_summary": "Open Mon-Fri 08-15:30",
                     "phone": "029 41 57201​",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -39140,7 +39130,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Fri 08:15-15:30"
+                            "availability_string": "Open Mon-Fri 08-15:30"
                         }
                     ]
                 },
@@ -39213,7 +39203,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Smådjurssjukhusets tidsbokning",
-                    "availability_summary": "Öppet mån-fre 08:15-15:30",
+                    "availability_summary": "Öppet mån-fre 08-15:30",
                     "phone": "029 41 57201​",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -39229,7 +39219,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-fre 08:15-15:30"
+                            "availability_string": "Öppet mån-fre 08-15:30"
                         }
                     ]
                 },
@@ -44668,7 +44658,7 @@
             "service_id": 10139,
             "type": "NOTICE",
             "name": "Tee eläinsuojeluilmoitus valvontaeläinlääkäreille",
-            "description": "Puhelinajan ulkopuolella virka-aikaan voit olla myös yhteydessä valvontaeläinlääkäreihin puhelimitse kiireisissä tapauksissa numeroon 09 310 32076, 09 310 37761 tai 09 310 20943.​\n\nIlmoituksen tulee sisältää ainakin seuraavat asiat: ​\nkohteen tarkka osoite, kohteen nimi ja puhelinnumero (jos ovat tiedossa) ja lyhyt kuvaus tilanteesta (millä tavoin eläintä on kohdeltu kaltoin).​\n\nVirka-ajan ulkopuolella kiireellisissä tapauksissa ota yhteys poliisiin.",
+            "description": "Puhelinajan ulkopuolella virka-aikaan voit olla myös yhteydessä valvontaeläinlääkäreihin puhelimitse kiireisissä tapauksissa numeroon 09 310 20943, 09 310 37761, 09 310 32076, 09 310 52720 tai 09 310 52434.​\n\nIlmoituksen tulee sisältää ainakin seuraavat asiat: ​\nkohteen tarkka osoite, kohteen nimi ja puhelinnumero (jos ovat tiedossa) ja lyhyt kuvaus tilanteesta (millä tavoin eläintä on kohdeltu kaltoin).​\n\nVirka-ajan ulkopuolella kiireellisissä tapauksissa ota yhteys poliisiin.",
             "provided_languages": [
                 "fi"
             ],
@@ -44736,7 +44726,7 @@
             "service_id": 10139,
             "type": "NOTICE",
             "name": "How to file an animal welfare notification",
-            "description": "You can also contact the supervising veterinarians in urgent cases outside the phone service hours by calling the number +358 (0)9 310 32076, +358 (0)9 310 37761 or +358 (0)9 310 20943.\n\nYour notification must contain at least the following information: \nthe exact address of the subject, the name and phone number of the subject (if known) and a short description of the situation (how the animal has been abused).\n\nIn urgent cases outside office hours, please contact the police.\n",
+            "description": "You can also contact the supervising veterinarians in urgent cases outside the phone service hours by calling the number 09 310 20943, 09 310 37761, 09 310 32076, 09 310 52720 or 09 310 52434.\n\nYour notification must contain at least the following information: \nthe exact address of the subject, the name and phone number of the subject (if known) and a short description of the situation (how the animal has been abused).\n\nIn urgent cases outside office hours, please contact the police.\n",
             "provided_languages": [
                 "fi"
             ],
@@ -44804,7 +44794,7 @@
             "service_id": 10139,
             "type": "NOTICE",
             "name": "Så här gör du en djurskyddsanmälan",
-            "description": "Utanför telefontiden kan du vid brådskande fall under tjänstetid även kontakta tillsynsveterinärerna per telefon på telefonnummer 09 310 32076, 09 310 37761 eller 09 310 20943.\n\nAnmälan ska innehålla åtminstone följande: \nexakt adress till objektet, objektets namn och telefonnummer (om dessa är kända) samt en kort beskrivning av situationen (hur djuret vanvårdas).\n\nVid brådskande fall utanför tjänstetid ber vi dig kontakta polisen.\n",
+            "description": "Utanför telefontiden kan du vid brådskande fall under tjänstetid även kontakta tillsynsveterinärerna per telefon på telefonnummer 09 310 20943, 09 310 37761, 09 310 32076, 09 310 52720 eller 09 310 52434.\n\nAnmälan ska innehålla åtminstone följande: \nexakt adress till objektet, objektets namn och telefonnummer (om dessa är kända) samt en kort beskrivning av situationen (hur djuret vanvårdas).\n\nVid brådskande fall utanför tjänstetid ber vi dig kontakta polisen.\n",
             "provided_languages": [
                 "fi"
             ],
