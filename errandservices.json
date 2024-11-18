@@ -5244,6 +5244,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Pyydä lisätietoa kunnan lausunnoista sähköpostitse",
+                    "information": "Sähköpostia kunnalle lausunnoista.",
                     "email": "asuntoas@hel.fi",
                     "provided_languages": [
                     ],
@@ -5255,6 +5256,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/tontit-ja-rakentamisen-luvat\/kaavat-kartat-ja-avustukset-rakentamiseen",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -36193,6 +36200,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Lähetä viesti sähköpostilla",
+                    "information": "Työllisyyspalveluiden sähköposti.",
                     "email": " tyollisyyspalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -36207,7 +36215,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Asiointi sähköpostilla",
-                            "url": "https:\/\/tyollisyyspalvelut.hel.fi\/yhteystiedot\/sahkoposti"
+                            "url": "https:\/\/tyollisyyspalvelut.hel.fi\/yhteystiedot\/sahkoposti",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -44639,6 +44648,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Tee eläinsuojeluilmoitus sähköpostitse",
+                    "information": "Eläinsuojalun sähköposti.",
                     "email": " kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
@@ -44650,6 +44660,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/elainten-suojelu-ja-terveys",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -51179,6 +51195,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Tilaa kaupanvahvistaja sähköpostilla",
+                    "information": "Sähköpostia kiinteistörekisteriasioissa",
                     "email": "kiinteistorekisteri@hel.fi",
                     "provided_languages": [
                     ],
@@ -51190,6 +51207,12 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/tontit-ja-rakentamisen-luvat\/yhteystiedot-tontti-ja-lupa-asioissa",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
