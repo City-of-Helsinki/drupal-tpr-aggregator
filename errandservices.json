@@ -37853,6 +37853,143 @@
         }
     },
     {
+        "id": 5624,
+        "fi": {
+            "id": 5624,
+            "exact_descriptions": [
+                9818,
+                9830,
+                9831,
+                9833,
+                9834,
+                9858
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä työnantaja- ja yritysneuvontaan",
+            "description": "Työnantajana saat yhteyden Helsingin työllisyyspalveluihin verkkoasioinnin kautta, puhelimitse ja sähköpostitse.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4222,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Asioi verkossa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Yrityksen ja työnantajan Oma asiointi",
+                            "url": "https:\/\/asiointi.mol.fi\/tomas\/aloitussivu.jsf?kieli=fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4225,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Työnantaja- ja yritysasiakkaat (31.12.2024 asti)",
+                    "availability_summary": "Avoinna 27.12.2024 saakka ma-pe 09-15",
+                    "phone": "0295 040 002",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 27.12.2024 saakka klo 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4226,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "EURES ja rekrytointi ulkomailta",
+                    "email": "kvrekrytointi.uusimaa@te-toimisto.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4229,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa työnantajapalveluista",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Työnantajat-sivusto",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5625,
         "fi": {
             "id": 5625,
