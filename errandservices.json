@@ -36221,6 +36221,28 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4232,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Postiosoite Helsingin työllisyyspalvelut",
+                    "personal_service_street_addr": "PL 310",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": "Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -36304,6 +36326,24 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4232,
+                    "type": "MAIL",
+                    "type_string": "Mailing address",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -36374,6 +36414,24 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "email": " tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4232,
+                    "type": "MAIL",
+                    "type_string": "Postadress",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
