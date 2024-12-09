@@ -59897,9 +59897,8 @@
                     "id": 901,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Ympäristötoimi, yleisavustushakemus.",
+                    "name": "Ympäristötoimi, yleisavustushakemus",
                     "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista joko pankkitunnuksilla tai mobiilitunnuksilla.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
                     "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata asiointikansiosta Tapahtumat -kohdasta.\nHakemuksen tietoja voi muuttaa niin kauan kun hakemus on \"Vastaanotettu\"-tilassa. Hakemuksen siirryttyä \"Käsittely\" -tilaan, siihen ei enää voi tehdä muutoksia. Päivitetty hakemus korvaa aikaisemmin lähetetyn hakemuksen. Liitteitä voi lähettää viesti-ominaisuutta käyttäen annettuun määräaikaan mennessä. Tapahtumat -kohdasta näkee käsittelijän yhteystiedot.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -59923,9 +59922,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
                     ]
                 }
             ]
@@ -59968,7 +59964,6 @@
                     "type_string": "E-services",
                     "name": "Environmental affairs, general grant application",
                     "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.\n",
-                    "availability_summary": "Service available every day around the clock",
                     "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -59992,9 +59987,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
                     ]
                 }
             ]
@@ -60037,7 +60029,6 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Miljöväsendet, ansökan om allmänt understöd",
                     "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
                     "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
                     "authorization_code": "Avustushakemuksen tekeminen",
                     "provided_languages": [
@@ -60061,9 +60052,6 @@
                         }
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
                     ]
                 }
             ]
