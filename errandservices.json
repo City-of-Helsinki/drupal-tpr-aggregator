@@ -37971,6 +37971,155 @@
         }
     },
     {
+        "id": 5604,
+        "fi": {
+            "id": 5604,
+            "exact_descriptions": [
+                9830,
+                9834
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä työnantaja- ja yritysasiakkaan neuvontaan",
+            "description": "Neuvomme työntanaja- ja yritysasiakkaita uuden työntekijän rekrytoinnissa, taloudellisista tuista, henkilöstön kouluttamisessa, muutostilanteissa ja muista palveluistamme.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Työnantaja- ja yritysasiakkaan neuvonta",
+                    "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4191,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Soita työnantaja- ja yritysasiakkaan neuvontaan",
+                    "availability_summary": "Avoinna alkaen 2.1.2025 ma-pe 09-16",
+                    "phone": "+358931036300",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe alkaen 2.1.2025 klo 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4192,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ota yhteyttä verkossa",
+                    "availability_summary": "Avoinna alkaen 15.10.2024 joka päivä 00-",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Työmarkkinatorin Asiointi",
+                            "url": "https:\/\/asiointi.mol.fi\/tomas\/aloitussivu.jsf?kieli=fi"
+                        }
+                    ],
+                    "availabilities": [
+                        [
+                        ]
+                    ]
+                },
+                {
+                    "id": 4193,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä viesti sähköpostitse",
+                    "email": "neuvonta.tyonantajat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ota yhteyttä työnantaja- ja yritysasiakkaan neuvontaan",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat\/rekrytointi-kotimaasta-ja-ulkomailta\/tyonvalityspalvelut-tyonantajalle"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4195,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lue lisää",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Helsingin kaupungin Työnantaja-sivusto",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5624,
         "fi": {
             "id": 5624,
