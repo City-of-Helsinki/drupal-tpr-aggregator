@@ -28764,7 +28764,6 @@
         "en": {
             "id": 5267,
             "exact_descriptions": [
-                7582,
                 9767
             ],
             "service_id": 10442,
@@ -28817,7 +28816,6 @@
         "sv": {
             "id": 5267,
             "exact_descriptions": [
-                7582,
                 9767
             ],
             "service_id": 10442,
@@ -33636,6 +33634,8 @@
             "description": "Asukasvalinnoista ilmoitetaan pääasiassa jälkikäteen. Lähetä tällöin tiedot asukasvalinnoista asumisen palveluille (myös asunnonvaihtajista) kootusti excel-taulukossa kerran kuukaudessa.\n\nPoikkeuksen muodostavat yritykset ja yhteisöt, joilla ei ennestään ole Ara-vuokra-asuntoja Helsingissä. Niiden pitää toimittaa ensimmäisen kohteensa asukasvalinnat hakemuksineen ja liitteineen hyväksyttäväksi etukäteen, ennen kohteen valmistumista.\n\nJoissain tilanteissa asukasvalintaohjeista on tarpeen poiketa. Tällaisessa tapauksessa ota yhteyttä asumisen palveluihin sähköpostilla osoitteeseen asvalvonta@hel.fi.\n",
             "processing_time": "Teemme päätökset poikkeusluvista 14 vuorokauden sisällä hakemuksen jättämisestä.",
             "provided_languages": [
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -33664,6 +33664,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ohjeita asukasvalintaan",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/vuokra-asunnot\/asukkaiden-valinnan-valvonta#ohjeita-asukasvalintaan"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -33681,6 +33686,8 @@
             "description": "Tenant selection is mainly reported afterwards. In this case, send the information on tenant selection to the Housing Services (including apartment changers) in an aggregated Excel table once a month.\n\nThe exception is companies and associations that do not already have ARA rental apartments in Helsinki. They must submit their first location's tenant selections with their applications and attachments for approval in advance, before the location is completed.\n\nIn some situations, it may be necessary to deviate from the tenant selection guidelines. In this case, contact Housing Services by e-mail asvalvonta@hel.fi.\n",
             "processing_time": "We make decisions on exemptions within 14 days of submitting an application.",
             "provided_languages": [
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -33709,6 +33716,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Instructions for tenant selection",
+                            "url": "https:\/\/www.hel.fi\/en\/housing\/rental-housing\/supervision-of-tenant-selection#instructions-for-tenant-selection"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -33726,6 +33738,8 @@
             "description": "Valet av boende meddelas i regel på efterhand. Skicka i så fall uppgifterna om valda hyresgäster (inklusive hyresgäster som byter bostad) samlade i en Excel-tabell en gång i månaden till boendetjänster.\n\nFöretag och samfund som inte har haft ARA-hyresbostäder i Helsingfors tidigare utgör ett undantag. De måste skicka in informationen om sina val av boende inklusive bilagorna och ansökningarna för godkännande på förhand innan objektet färdigställs.\n\nI vissa situationer är det nödvändigt att frångå anvisningarna om val av boende. Om det är fallet, kontakta boendetjänster per e-post asvalvonta@hel.fi.\n",
             "processing_time": "Vi gör beslut för tillfälliga undantagslov i valet av hyresgäster inom 14 dagar från det datum då ansökan inkommer.",
             "provided_languages": [
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -33754,6 +33768,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anvisningar för valet av boende",
+                            "url": "https:\/\/www.hel.fi\/sv\/boende\/hyresbostader\/tillsyn-over-valet-av-boende#anvisningar-for-valet-av-boende"
+                        }
                     ],
                     "availabilities": [
                     ]
