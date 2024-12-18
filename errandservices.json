@@ -36276,9 +36276,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Asiointi sähköpostilla",
-                            "url": "https:\/\/tyollisyyspalvelut.hel.fi\/yhteystiedot\/sahkoposti",
-                            "file_format": "HTML"
+                            "title": "Helsingin työllisyyspalveluiden yhteystiedot",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
                         }
                     ],
                     "availabilities": [
@@ -36302,6 +36301,33 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4265,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Helsingin työllisyyspalvelut henkilöasiakkaalle",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Työnhakijalle",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -36365,6 +36391,7 @@
                     "id": 4199,
                     "type": "EMAIL",
                     "type_string": "E-mail",
+                    "name": "Send a message by email",
                     "information": "Employment services email.",
                     "email": "tyollisyyspalvelut@hel.fi",
                     "provided_languages": [
@@ -36395,6 +36422,33 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4265,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Helsingfors arbetsförmedlingstjänster för enskilda kunder",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Jobseekers",
+                            "url": "https:\/\/tyomarkkinatori.fi\/en\/regional-pages\/helsinki-employment-area\/frontpage"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -36458,6 +36512,7 @@
                     "id": 4199,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "Skicka ett meddelande via e-post",
                     "information": "e-post för sysselsättningstjänster.",
                     "email": "tyollisyyspalvelut@hel.fi",
                     "provided_languages": [
@@ -36488,6 +36543,33 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4265,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Helsingfors arbetsförmedlingstjänster för enskilda kunder",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Jobbsökande",
+                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/regionala-sidor\/helsingfors-sysselsattningsomrade\/framsida"
+                        }
                     ],
                     "availabilities": [
                     ]
