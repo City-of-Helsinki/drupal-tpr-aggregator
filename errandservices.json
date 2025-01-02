@@ -58637,12 +58637,14 @@
             "description": "Täytä hakulomake ja lähetä se tapauksesta riippuen sähköpostilla joko alueiden käyttö ja valvonta -yksikölle osoitteeseen ulkoilma@hel.fi tai liikuntapalveluille: Lähetä vapaamuotoiset tiedustelut liikuntapalveluiden vuokraamista alueista, kuvauslupahakemukset, maanhaltian käyttöoikeushakemukset osoitteeseen liikunta-alueet@hel.fi. Jos kyse on pidempiaikaisesta maanvuokrauksesta liikuntapalveluilta, lähetä hakemus osoitteeseen helsinki.kirjaamo@hel.fi.",
             "processing_time": "Hakemuksen käsittelyaika on 3-4 viikkoa.",
             "provided_languages": [
-                "fi"
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -58662,7 +58664,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
@@ -58693,7 +58695,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
@@ -58715,15 +58717,17 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Rent land or water areas",
-            "description": "Fill in an application form and send it by email, depending in the case, either to the Land Use and Monitoring unit at ulkoilma@hel.fi or the Sports Services at liikunta-alueet@hel.fi.",
-            "processing_time": "6 days",
+            "description": "Fill in the application form and, depending on the area, send it by email either to the Land Use and Monitoring unit at ulkoilma@hel.fi or to Sports Services: Informal enquiries about areas rented by Sports Services, applications for permits and land holder's applications for rights of use can be sent toliikunta-alueet@hel.fi. If you want to rent land from Sports Services for a longer period of time, please send your application to helsinki.kirjaamo@hel.fi.",
+            "processing_time": "3-4 weeks",
             "provided_languages": [
-                "fi"
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -58743,7 +58747,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
@@ -58770,15 +58774,17 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Hyra ett mark- eller vattenområde",
-            "description": "Fyll i ansökningsblanketten och skicka den per e-post, beroende på fallet, antigen till enheten för områdesanvändning och -övervakning på adressen ulkoilma@hel.fi eller till motonstjänsterna på adressen liikunta-alueet@hel.fi.",
-            "processing_time": "6 dygn",
+            "description": "Fyll i ansökningsformuläret och, beroende på fallet, skicka det per e-post till enheten för områdesanvändning och -övervakning till ulkoilma@hel.fi eller till idrottstjänsterna: Fritt formulerade förfrågningar om områden som idrottstjänsterna hyr ut, ansökningar om fotograferingstillstånd, markinnehavarens ansökningar om nyttjanderätt kan även skickas till liikunta-alueet@hel.fi. För uthyrning av markområden av idrottstjänsterna för en längre tid, skicka ansökan till helsinki.kirjaamo@hel.fi.",
+            "processing_time": "3-4 veckor",
             "provided_languages": [
-                "fi"
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -58798,7 +58804,7 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "INTERNET",
