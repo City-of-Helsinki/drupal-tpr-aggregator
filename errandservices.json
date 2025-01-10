@@ -35714,7 +35714,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Asumisterveysneuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma 10-14, ti, pe 12-14, ke-to 10-12",
+                    "availability_summary": "Avoinna ma 10-14, ti, pe 12-14, ke-to 10-12, Suljettu poikkeuksellisesti 13.1.2025 ma 00:15-23:45",
                     "phone": "+358 9 310 15000",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -35731,6 +35731,9 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma 10-14"
+                        },
+                        {
+                            "availability_string": "Suljettu poikkeuksellisesti ma 13.1.2025 klo 00:15-23:45"
                         },
                         {
                             "availability_string": "Avoinna ti, pe 12-14"
@@ -35799,7 +35802,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Housing health advisory service, telephone service",
-                    "availability_summary": "Open Mon 10-14, Tue, Fri 12-14, Wed-Thu 10-12",
+                    "availability_summary": "Open Mon 10-14, Tue, Fri 12-14, Wed-Thu 10-12, Closed exceptinally 13 Jan 2025 Mon 00:15-23:45",
                     "phone": "+358 9 310 15000",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -35816,6 +35819,9 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Mon 10-14"
+                        },
+                        {
+                            "availability_string": "Closed exceptinally Mon 13 Jan 2025 at 00:15-23:45"
                         },
                         {
                             "availability_string": "Open Tue, Fri 12-14"
@@ -35877,7 +35883,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänst för rådgivning om boendehälsa",
-                    "availability_summary": "Öppet mån 10-14, tis, fre 12-14, ons-tor 10-12",
+                    "availability_summary": "Öppet mån 10-14, tis, fre 12-14, ons-tor 10-12, Stängt undantagsvis 13.1.2025 mån 00:15-23:45",
                     "phone": "+358 9 310 15000",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -35894,6 +35900,9 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån 10-14"
+                        },
+                        {
+                            "availability_string": "Stängt undantagsvis mån 13.1.2025 kl. 00:15-23:45"
                         },
                         {
                             "availability_string": "Öppet tis, fre 12-14"
