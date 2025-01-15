@@ -36389,7 +36389,7 @@
             "service_id": 11111,
             "type": "ADVICE",
             "name": "Contact Helsinki Employment Services",
-            "description": "You can contact the Helsinki Employment Services via the online application, by phone and by e-mail.",
+            "description": "You can contact Helsinki Employment Services through e-services, by phone and by email.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -36413,6 +36413,7 @@
                     "id": 4190,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
+                    "name": "Call Helsinki Employment Services",
                     "availability_summary": "Open Mon-Fri 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "mobile call charge \/ local network charge",
@@ -36434,11 +36435,38 @@
                     ]
                 },
                 {
+                    "id": 4198,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Sign in and visit Job Market Finland's E-services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "JobMarket Finland’s E-services for individuals",
+                            "url": "https:\/\/tyomarkkinatori.fi\/en\/personal-customers\/official-matters"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
                     "id": 4199,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "Send a message by email",
-                    "information": "Employment services email.",
+                    "name": "Send an email",
+                    "information": "Helsinki Employment Services' email address.",
                     "email": "tyollisyyspalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -36450,6 +36478,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Helsinki Employment Services’ contact information",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -36458,6 +36491,10 @@
                     "id": 4232,
                     "type": "MAIL",
                     "type_string": "Mailing address",
+                    "name": "Contact us by post",
+                    "personal_service_street_addr": "PO Box 310",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": "City of Helsinki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36476,7 +36513,7 @@
                     "id": 4265,
                     "type": "WEBPAGE",
                     "type_string": "Webpage",
-                    "name": "Helsingfors arbetsförmedlingstjänster för enskilda kunder",
+                    "name": "Helsinki Employment Services for personal customers",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -36492,8 +36529,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Jobseekers",
-                            "url": "https:\/\/tyomarkkinatori.fi\/en\/regional-pages\/helsinki-employment-area\/frontpage"
+                            "title": "For jobseekers",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers"
                         }
                     ],
                     "availabilities": [
@@ -36503,7 +36540,7 @@
                     "id": 4266,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Forms for the Helsinki Employment Service",
+                    "name": "Helsinki Employment Services' forms",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36516,7 +36553,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Forms for the Helsinki Employment Service",
+                            "title": "Helsinki Employment Services’ forms",
                             "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet-ja-palautekanava"
                         }
                     ],
@@ -36533,8 +36570,8 @@
             ],
             "service_id": 11111,
             "type": "ADVICE",
-            "name": "Kontakta Helsingfors arbetsförmedling",
-            "description": "Du kan kontakta Helsingfors arbetsförmedling via webbansökan, per telefon och per e-post.",
+            "name": "Kontakta Helsingfors sysselsättningstjänster",
+            "description": "Du kan kontakta Helsingfors sysselsättningstjänster via e-tjänsten, per telefon och e-post.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -36558,6 +36595,7 @@
                     "id": 4190,
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
+                    "name": "Ring till Sysselsättningstjänsterna",
                     "availability_summary": "Öppet mån-fre 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "msa\/lna",
@@ -36579,11 +36617,38 @@
                     ]
                 },
                 {
+                    "id": 4198,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Logga in och uträtta ärenden i avsnittet E-tjänster på Jobbmarknaden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ärendehantering för personkunder på Jobbmarknaden",
+                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/personkunder\/arendehantering"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
                     "id": 4199,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "Skicka ett meddelande via e-post",
-                    "information": "e-post för sysselsättningstjänster.",
+                    "name": "Skicka e-post",
+                    "information": "Sysselsättningstjänsternas e-post",
                     "email": "tyollisyyspalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -36595,6 +36660,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kontaktuppgifterna för Helsingfors sysselsättningstjänster",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -36603,6 +36673,10 @@
                     "id": 4232,
                     "type": "MAIL",
                     "type_string": "Postadress",
+                    "name": "Postadress Helsingfors sysselsättningstjänster",
+                    "personal_service_street_addr": "PB 310",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": " Helsingfors stad",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36648,7 +36722,7 @@
                     "id": 4266,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Blanketter för Helsingfors sysselsättningstjänster",
+                    "name": "Helsingfors sysselsättningstjänsters blanketter",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -36661,7 +36735,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Blanketter för Helsingfors sysselsättningstjänster",
+                            "title": "Helsingfors sysselsättningstjänsters blanketter",
                             "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet-ja-palautekanava"
                         }
                     ],
@@ -38217,8 +38291,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Työmarkkinatorin Asiointi",
-                            "url": "https:\/\/asiointi.mol.fi\/tomas\/aloitussivu.jsf?kieli=fi"
+                            "title": "Yrityksen ja työnantajan Oma asiointi",
+                            "url": "https:\/\/tyomarkkinatori.fi\/tyonantajat-ja-yrittajat"
                         }
                     ],
                     "availabilities": [
@@ -38228,7 +38302,7 @@
                     "id": 4193,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lähetä viesti sähköpostitse",
+                    "name": "Lähetä sähköposti yritys- ja työnantaja-asiakkaan palveluille",
                     "email": "neuvonta.tyonantajat@hel.fi",
                     "provided_languages": [
                     ],
@@ -38242,8 +38316,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Ota yhteyttä työnantaja- ja yritysasiakkaan neuvontaan",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat\/rekrytointi-kotimaasta-ja-ulkomailta\/tyonvalityspalvelut-tyonantajalle"
+                            "title": "Ota yhteyttä työnantajapalveluihin",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat\/rekrytointi-kotimaasta-ja-ulkomailta\/tyonvalityspalvelut-tyonantajallehttps:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
                         }
                     ],
                     "availabilities": [
