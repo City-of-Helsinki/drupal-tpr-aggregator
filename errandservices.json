@@ -37688,6 +37688,116 @@
         }
     },
     {
+        "id": 5641,
+        "fi": {
+            "id": 5641,
+            "exact_descriptions": [
+                9910
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä (kotoutumisen palvelut muille kuin työnhakijoille)",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4256,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Soita",
+                    "availability_summary": "Avoinna alkaen 7.1.2025 ti, pe 09-11",
+                    "phone": "+358 9 310 36130",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ti, pe alkaen 7.1.2025 klo 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 4257,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Lähetä viesti",
+                    "email": "tvu-kotoutujat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lähetä sähköposti",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4259,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Asioi toimipisteessä",
+                    "availability_summary": "Avoinna alkaen 9.1.2025 to 09-15",
+                    "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs. (Työllisyyspalvelut)",
+                    "personal_service_postal_code": "00930",
+                    "personal_service_city": "Helsinki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna to alkaen 9.1.2025 klo 09-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5158,
         "fi": {
             "id": 5158,
