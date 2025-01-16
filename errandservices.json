@@ -2695,220 +2695,6 @@
         ]
     },
     {
-        "id": 5143,
-        "fi": {
-            "id": 5143,
-            "exact_descriptions": [
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Asumisoikeusasioiden neuvonta",
-            "name_synonyms": "asumisoikeus, asumisoikeusasunnot",
-            "description": "Tietoa asumisoikeusasunnoista, niiden hakemisesta ja järjestysnumeroista puhelimitse ja sähköpostitse.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3561,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Asumisoikeusasioiden neuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma-to 09-11",
-                    "phone": "+358 9 310 13032",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-to 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3562,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Asumisoikeusasuntojen neuvonnan sähköpostiosoite",
-                    "email": "asumisoikeus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5143,
-            "exact_descriptions": [
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Right-of-occupancy housing advisory service",
-            "description": "Information on right-of-occupancy housing, how to apply and queue numbers by telephone and email.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3561,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Right-of-occupancy housing advisory service, telephone service",
-                    "availability_summary": "Open Mon-Thu 09-11",
-                    "phone": "+358 9 310 13032",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Thu 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3562,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Right-of-occupancy housing advisory service, email address",
-                    "email": "asumisoikeus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5143,
-            "exact_descriptions": [
-            ],
-            "service_id": 10876,
-            "type": "ADVICE",
-            "name": "Rådgivning om bostadsrättsärenden",
-            "description": "Information om bostadsrättsbostäder, ansökan om dem och ordningsnummer per telefon och via e-post.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3561,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Telefontjänst för bostadsrättsärenden",
-                    "availability_summary": "Öppet mån-tor 09-11",
-                    "phone": "+358 9 310 13032",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-tor 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3562,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "E-postadress för rådgivning om bostadsrättsärenden",
-                    "email": "asumisoikeus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5073,
         "fi": {
             "id": 5073,
@@ -8986,404 +8772,6 @@
                             "title": "Gå till Lupapiste",
                             "url": "https:\/\/www.lupapiste.fi\/login\/sv"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 1141,
-        "fi": {
-            "id": 1141,
-            "exact_descriptions": [
-                3174
-            ],
-            "service_id": 10095,
-            "type": "ADVICE",
-            "name": "Hae tai tarkista järjestysnumero",
-            "description": "Asumisoikeusasunnon hakemiseen tarvitset järjestysnumeron. Voit hakea järjestysnumeroa kolmella eri tavalla: sähköisessä asiointipalvelussa, verkkolomakkeella tai tulostettavalla lomakkeella.\n\nSähköisessä asiointipalvelussa voit hakea uutta järjestysnumeroa tai tarkastella voimassa olevia järjestysnumeroitasi. Saat asiointikansion tapahtumista ilmoituksen sähköpostiisi. Huomaa, että sähköposti-ilmoituksessa ja hakemuksen otsikon perässä oleva numero on asiointikansion asianumero, ei asumisoikeuden järjestysnumero.\n\nKun avaat asiointikansiossa hakemuksesi tiedot, saat näkyviin kaikki voimassa olevat järjestysnumerosi.\n\nVerkkolomakkeella voit hakea järjestysnumeroa ilman vahvaa tunnistautumista. Muistathan ilmoittaa lomakkeella sähköpostiosoitteesi, niin saat numeron seuraavana arkipäivänä sähköpostiisi. \n\nVoit tarkistaa voimassa olevat numerosi verkkolomakkeella vahvasti tunnistautumalla.\n\nVoit tarkistaa numerosi myös ottamalla yhteyttä asumisoikeusasioiden neuvontaan.",
-            "processing_time": "Saat järjestysnumeron seuraavana arkipäivänä.",
-            "expiration_time": "Järjestysnumero on voimassa 31.12.2023 saakka, jos numeroa ei ole sitä ennen käytetty.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1347,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Asumisoikeuden järjestysnumerot, verkkolomake",
-                    "prerequisites": "Ei vaadi tunnistautumista pankki- tai mobiilitunnuksilla.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Verkkolomake, ei tunnistautumista",
-                            "url": "https:\/\/asumisoikeushakemus.net\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1605,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Asumisoikeuden järjestysnumerot, sähköinen asiointipalvelu",
-                    "prerequisites": "Palvelun käyttö edellyttää tunnistautumista pankkitunnuksin tai mobiilitunnuksin.\nHakijan tulee olla vähintään 18-vuotias.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "authorization_code": "Asumisoikeuden järjestysnumeron hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/hakija.aso.fi\/kirjaudu",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
-                    "id": 3427,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ma-to 09-11",
-                    "phone": "09 310 13032",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-to 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3428,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Sähköposti",
-                    "email": "asumisoikeus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 1141,
-            "exact_descriptions": [
-                3174
-            ],
-            "service_id": 10095,
-            "type": "ADVICE",
-            "name": "Apply for or check your queue number",
-            "description": "You will need a queue number to apply for a right-of-occupancy dwelling. You can apply for a queue number in three different ways: in our electronic service, with an online form or with a printed form.\n\nIn the electronic service, you can apply for a new queue number. You will receive notice of the receipt of your application to your e-services folder as well as a notification when your new queue number is sent to your folder.\n\nYou will receive an e-mail notification about the activity in your e-services folder. Please note that the number in the e-mail notification and in the end of the application title is the case number of the e-services folder, not the queue number for the right-of-occupancy.\n\nYou can view your queue numbers in the e-services folder by opening your application details. This will display all your valid queue numbers.\n\nYou can also view your queue numbers via the electronic form (requires authentication) or by or contacting our customer service.",
-            "processing_time": "You will receive your queue number the next working day. ",
-            "expiration_time": "Your queue number is valid until 31 December 2023, if the number has not been used before that.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1347,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Queue number application, electronic form",
-                    "prerequisites": "Using online bank access codes is not required.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Queue number application, electronic form",
-                            "url": "https:\/\/asumisoikeushakemus.net\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1605,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Queue number application for right-of-occupancy apartments, e-service",
-                    "prerequisites": "The use of this service requires identification using online banking identification or mobile id.",
-                    "availability_summary": "Service available every day around the clock",
-                    "authorization_code": "Asumisoikeuden järjestysnumeron hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/hakija.aso.fi\/kirjaudu",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                },
-                {
-                    "id": 3427,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "availability_summary": "Open Mon-Thu 09-11",
-                    "phone": "09 310 13032",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Thu 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3428,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "email": "asumisoikeus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 1141,
-            "exact_descriptions": [
-                3174
-            ],
-            "service_id": 10095,
-            "type": "ADVICE",
-            "name": "Ansök om eller kontrollera ordningsnummer",
-            "description": "Du behöver ett ordningsnummer för att ansöka om bostadsrättsbostad. Du kan ansöka om ett ordningsnummer på tre olika sätt: i e-tjänsten, med ett webbformulär eller med en utskrivbar blankett.\n\nI e-tjänsten kan du ansöka om ett nytt ordningsnummer eller kontrollera dina gällande ordningsnummer. Du får ett meddelande till din mapp om att ansökningen har mottagits i bostadsrättssystemet och ett meddelande om när det nya ordningsnumret skickas till mappen.\n\nHändelser i mappen meddelas till dig via e-post. Observera att numret i e-postmeddelandet och efter rubriken i ansökan är ärendemappens ärendenummer, inte bostadsrättens ordningsnummer.\n\nDu kan granska dina ordningsnummer i ärendemappen genom att öppna uppgifterna för din ansökan. Då visas samtliga giltiga ordningsnummer.\n\nDu kan också granska dina ordningsnummer i webbformuläret (du behöver webbankkoder) eller genom att kontakta vår rådgivning.",
-            "processing_time": "Du får ett ordningsnummer nästa vardag. ",
-            "expiration_time": "Ordningsnumret är giltigt fram till den 31 december 2023 om numret inte tidigare har använts.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1347,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om ordningsnummer till bostadsrätt, webblankett",
-                    "prerequisites": "Kräver inte identifiering med bankkoder.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ordningsnummeransökan, webblankett",
-                            "url": "https:\/\/asumisoikeushakemus.net\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1605,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Elektronisk ansökan om ordningsnummer till bostadsrätt, e-tjänst",
-                    "prerequisites": "För att använda tjänsten krävs identifikation med bankkoder eller mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Asumisoikeuden järjestysnumeron hakeminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/hakija.aso.fi\/kirjaudu",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                },
-                {
-                    "id": 3427,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "availability_summary": "Öppet mån-tor 09-11",
-                    "phone": "09 310 13032",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-tor 09-11"
-                        }
-                    ]
-                },
-                {
-                    "id": 3428,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "email": "asumisoikeus@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -38734,6 +38122,7 @@
         "sv": {
             "id": 5625,
             "exact_descriptions": [
+                9833
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -50761,7 +50150,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Ympäristöterveydenhuollon hinnasto",
+                    "title": "Ympäristöterveydenhuollon hinnasto (pdf)",
                     "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf",
                     "file_format": "PDF"
                 }
@@ -50793,6 +50182,12 @@
                             "title": "Vesihuoltolaitoshakemus (PDF)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.pdf",
                             "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoitus yleisötapahtuman vesijärjestelyistä (Word)",
+                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Tapahtuman_vesijarjestelyt.docx",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
@@ -50935,7 +50330,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Prislistan",
+                    "title": "Prislistan (pdf, på finska)",
                     "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf",
                     "file_format": "PDF"
                 }
@@ -50958,15 +50353,21 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Ansökan om vattentjänstverk (pdf)",
+                            "title": "Ansökan om vattentjänstverk (pdf. på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Ansökan om vattentjänstverk (Word)",
+                            "title": "Ansökan om vattentjänstverk (Word, på finska)",
                             "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
-                            "file_format": "EXCEL"
+                            "file_format": "WORD"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälan om vattendistribution vid evenemang (word, på finska)",
+                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Tapahtuman_vesijarjestelyt.docx",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
