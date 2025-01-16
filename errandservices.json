@@ -1932,6 +1932,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Asiakaspalvelun sähköposti",
+                    "information": "Ota yhteyttä asiakaspalveluun, kun kaipaat ohjausta ja neuvontaa apuvälineasioissa.",
                     "email": "sotepe.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -1943,6 +1944,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Konalan apuvälinepalvelut",
+                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/terveydenhoito\/kuntoutus-ja-terapiat\/apuvalinepalvelut\/konalan-apuvalinepalvelu",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -2009,6 +2016,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Customer service email",
+                    "information": "Contact customer service when you need guidance and advice regarding assistive devices.",
                     "email": "sotepe.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -2086,6 +2094,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Kundservice e-post",
+                    "information": "Ta kontakt med kundtjänsten när du behöver handledning och rådgivning i hjälpmedelärenden.",
                     "email": "sotepe.apuvalinepalvelut@hel.fi",
                     "provided_languages": [
                     ],
@@ -2097,6 +2106,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kånalas hjälpmedelstjänst",
+                            "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/halsovard\/rehabilitering-och-terapi\/hjalpmedelstjanster\/kanalas-hjalpmedelstjanst",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -3658,7 +3673,7 @@
             "type": "ADVICE",
             "name": "Elintarvikeneuvonta",
             "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
-            "description": "Tietoa ja neuvontaa elintarvikkeisiin liittyvissä asioissa sähköpostitse kymp.elintarviketurvallisuus@hel.fi.\n",
+            "description": "Neuvomme ja opastamme elintarvikkeisiin liittyvissä asioissa ja annamme ohjeita elintarviketoimintaa koskien\nsähköpostitse kymp.elintarviketurvallisuus@hel.fi.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3672,6 +3687,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Elintarvikeneuvonta",
+                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/elintarvikeneuvonta-0"
+                }
             ],
             "channels": [
                 {
@@ -3704,7 +3724,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Advisory service on food issues",
-            "description": "Information and advice on food-related issues by email kymp.elintarviketurvallisuus@hel.fi.",
+            "description": "We provide information and advice on matters related to food and provide instructions on food business by email kymp.elintarviketurvallisuus@hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3718,6 +3738,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Advisory service on food issues",
+                    "url": "https:\/\/www.hel.fi\/en\/decision-making\/advisory-service-on-food-issues"
+                }
             ],
             "channels": [
                 {
@@ -3750,7 +3775,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Livsmedelsrådgivning",
-            "description": "Information och rådgivning om livsmedelsärenden via e-post kymp.elintarviketurvallisuus@hel.fi.",
+            "description": "Vi ger råd och vägledning i ärenden kring livsmedel och om livsmedelsverksamhet via e-post kymp.elintarviketurvallisuus@hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3764,6 +3789,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Livsmedelsrådgivning",
+                    "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/livsmedelsradgivning"
+                }
             ],
             "channels": [
                 {
@@ -3801,7 +3831,7 @@
             "type": "ADVICE",
             "name": "Elintarvikeneuvonta",
             "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
-            "description": "Elintarvikkeisiin liittyvää neuvontaa sähköpostitse.",
+            "description": "Neuvomme ja opastamme elintarvikkeisiin liittyvissä asioissa ja annamme ohjeita elintarviketoimintaa koskien",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3815,6 +3845,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "elintarvikeneuvonta",
+                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/elintarvikeneuvonta-0"
+                }
             ],
             "channels": [
                 {
