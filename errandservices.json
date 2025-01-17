@@ -14906,11 +14906,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Lisätietoa Hitas-asunnon myymisestä",
-                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/omistusasunnot\/hitas-asunnon-myyminen"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -15065,11 +15060,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Försäljning av en Hitas-bostad",
-                            "url": "https:\/\/www.hel.fi\/sv\/boende\/agarbostader\/forsaljning-av-en-hitas-bostad"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -15151,6 +15141,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää Hitas asuntojen myymisestä",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/omistusasunnot\/hitas-asunnon-myyminen",
+                            "file_format": "HTML"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -30180,6 +30176,165 @@
         }
     },
     {
+        "id": 5653,
+        "fi": {
+            "id": 5653,
+            "exact_descriptions": [
+                9818
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Lähetä sähköposti starttirahasta Helsingin työllisyyspalveluille",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4274,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Jos sinulla on kysyttävää starttirahahakemuksen tekemiseen, ota yhteyttä",
+                    "email": " starttiraha@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Starttiraha",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat\/taloudellista-tukea-tyonantajalle\/starttiraha"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5653,
+            "exact_descriptions": [
+                9818
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Please, contact Helsinki Employment Services by email about a start-up grant",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4274,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "If you have any questions about a start-up grant application, please contact us",
+                    "email": " starttiraha@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Startup Grand",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers\/financial-support-for-the-employer\/startup-grant"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5653,
+            "exact_descriptions": [
+                9818
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Kontakta Helsingfors sysselsättningstjänst per e-post om startpeng",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4274,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Om du har frågor eller behöver hjälp med att ansöka om startpeng, kontakta oss",
+                    "email": " starttiraha@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Startpeng",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare\/ekonomiska-stod-till-arbetsgivaren\/startpeng"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5553,
         "fi": {
             "id": 5553,
@@ -37929,10 +38084,292 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5604,
+            "exact_descriptions": [
+                9805,
+                9818,
+                9830,
+                9831,
+                9834,
+                9858
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Contact our advisory service for companies and employers",
+            "description": "We advise employer and business clients on recruitment, financial support, staff training, change management and other our services.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Advisory service for companies and employers",
+                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4191,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Call our advisory service for companies and employers",
+                    "availability_summary": "Open from 2 Jan 2025 Mon-Fri 09-16",
+                    "phone": "+358931036300",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri from 2 Jan 2025 at 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4192,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Contact us online",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-services for companies and employers",
+                            "url": "https:\/\/tyomarkkinatori.fi\/en\/employers-and-entrepreneurs"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4193,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Send email to our advisory service for companies and employers",
+                    "email": "neuvonta.tyonantajat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Contact Employment Services",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4195,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Read more",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "City of Helsinki site for employers",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5604,
+            "exact_descriptions": [
+                9805,
+                9818,
+                9830,
+                9831,
+                9834,
+                9858
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Kontakta rådgivningen för företags- och arbetsgivarkunder",
+            "description": "Vi ger råd till arbetsgivare och företagskunder gällande rekrytering, ekonomiskt stöd, personalutbildning, omställning och våra övriga tjänster.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Rådgivning för företags- och arbetsgivarkunder",
+                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4191,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Ring rådgivningen för företags- och arbetsgivarkunder",
+                    "availability_summary": "Öppet från 2.1.2025 mån-fre 09-16",
+                    "phone": "+358931036300",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre från 2.1.2025 kl. 09-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4192,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Kontakta oss online",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-tjänster för företags- och arbetsgivarkunder",
+                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/arbetsgivare-och-foretagare"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4193,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Skicka e-post till tjänsten för företags- och arbetsgivarkunder",
+                    "email": "neuvonta.tyonantajat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kontakta Helsingfors sysselsättningstjänsterna",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4195,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Läs mera",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Helsingfors stads sidor för arbetsgivare",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5625,
@@ -38034,8 +38471,96 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5625,
+            "exact_descriptions": [
+                9833
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Contact transition security (muutosturva) specialists",
+            "description": "Helsinki Employment Services advises companies and employers on transition protection and adjustment measures.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4228,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "muutosturva@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4242,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4245,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "availability_summary": "Open from 2 Jan 2025 Mon-Fri 09-16",
+                    "phone": "+358 9 310 36300",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri from 2 Jan 2025 at 09-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5625,
             "exact_descriptions": [
