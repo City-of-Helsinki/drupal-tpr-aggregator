@@ -58878,6 +58878,1068 @@
         }
     },
     {
+        "id": 5665,
+        "fi": {
+            "id": 5665,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Veneiden talvisäilytyspaikat",
+            "description": "Asiakas voi hakea ruutupaikkaa veneen talvisäilytykseen tai viedä veneen haluamalleen nostojärjestysalueelle talvisäilytykseen. \n",
+            "process_description": "Helsingin kaupunki tarjoaa veneiden talvisäilyttämiseen kaksi vaihtoehtoa. Asiakas voi hakea ruutupaikkaa veneen talvisäilytykseen tai viedä veneen haluamalleen nostojärjestysalueelle talvisäilytykseen. \n\nTalvisäilytysruudun hakeminen aloitetaan täyttämällä sähköinen talvisäilytyksen hakulomake. Hakulomake on tarkoitettu uusille ruutupaikan hakijoille. Niille asiakkaille, joilla on ollut ruutupaikka viime kaudella, lähetetään lasku nykyisestä ruudusta. Vapautuneet ruudut jaetaan hakujärjestyksessä. Lähetämme paikasta tarjouksen sähköpostilla ja tekstiviestillä. \n\nNostojärjestysalueille ei tarvitse täyttää hakulomaketta. Asiakas voi viedä veneen haluamalleen nostojärjestysalueelle 15.9. alkaen. Sen jälkeen asiakkaan tulee täyttää sähköinen nostojärjestysilmoitus. Nostojärjestysilmoitus tulee tehdä vuosittain, mikäli asiakas nostaa veneen nostojärjestysalueelle talveksi.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4293,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Talvisäilytyspaikan hakeminen veneelle",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Talvisäilytyspaikan hakeminen veneelle ",
+                            "url": "https:\/\/venepaikat.hel.fi\/fi\/winter-storage"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4294,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Nostojärjestysilmoitus",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Nostojärjestysilmoitus",
+                            "url": "https:\/\/venepaikat.hel.fi\/fi\/unmarked-winter-storage"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5665,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Winter storage facilities for boats",
+            "description": "Customers can apply for a marked space for winter storage or take their boat to their preferred unmarked winter storage area. \n",
+            "process_description": "The City of Helsinki offers two options for winter storage of boats. Customers can apply for a marked space for winter storage or take their boat to their preferred unmarked winter storage area. \n\nTo apply for a marked winter storage space, start by filling in the online winter storage application form. The application form is intended for new applicants for a marked spot. Customers who had a marked space last season will be sent an invoice for the current space. Spaces that become available will be assigned based on the order of received applications. We will send you an offer for a space by email and SMS. \n\nThere is no need to complete an application form for unmarked winter storage areas. Customers can take their boat to their preferred unmarked winter storage area starting from 15 September. The customer must then complete an electronic unmarked winter storage notification. Customers must submit an unmarked winter storage notification annually if they move their boat to an unmarked storage area for the winter.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4293,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Applying for winter storage for your boat",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Applying for winter storage for your boat",
+                            "url": "https:\/\/venepaikat.hel.fi\/en\/winter-storage"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4294,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Unmarked winter storage notice",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Unmarked winter storage notice",
+                            "url": "https:\/\/venepaikat.hel.fi\/en\/unmarked-winter-storage"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5665,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Vinteruppläggningsplatser för båtar",
+            "description": "Kunden kan antingen ansöka om en rutplats för vinteruppläggning av båten eller ta båten till ett områden för vinteruppläggning som fylls i upptagningsordning. \n",
+            "process_description": "Helsingfors stad erbjuder två alternativ i fråga om vinteruppläggning av båtar. Kunden kan antingen ansöka om en rutplats för vinteruppläggning av båten eller ta båten till ett områden för vinteruppläggning som fylls i upptagningsordning. \n\nFör att inleda en ansökning om en vinteruppläggningsruta, fyll i det elektriska ansökningsformuläret för vinteruppläggning. Ansökningsformuläret är avsett för dem som ansöker om en ny rutplats. De kunder som har haft en rutplats under den föregående säsongen får en faktura för den nuvarande rutan. Rutor som blir lediga delas ut i ansökningsordning. Vi skickar en offert för platsen per e-post och sms. \n\nInga ansökningsformulär behöver fyllas i för platser i områden för vinteruppläggning som fylls i upptagningsordning. Kunden kan ta båten till vilket som helst område för vinteruppläggning som fylls i upptagningsordning från och med 15.9. Efter det måste kunden fylla i en elektronisk anmälan för upplagsområde som fylls i upptagningsordning. Anmälningen måste göras varje år, om kunden lyfter båten till ett område för vinteruppläggning som fylls i upptagningsordning för vintern.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4293,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om vinteruppläggningsplats för båt",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansök om vinteruppläggningsplats för båt",
+                            "url": "https:\/\/venepaikat.hel.fi\/sv\/winter-storage"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4294,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Anmälan för upplagsområde som fylls i upptagningsordning",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälan för upplagsområde som fylls i upptagningsordning",
+                            "url": "https:\/\/venepaikat.hel.fi\/sv\/unmarked-winter-storage"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5666,
+        "fi": {
+            "id": 5666,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Veneily",
+            "description": "Merellinen Helsinki tarjoaa hyvät mahdollisuudet veneilyyn. Tutustu kaikille veneilijöille avoimiin satamiin ja muihin palveluihin.\n",
+            "process_description": "Merellinen Helsinki tarjoaa hyvät mahdollisuudet veneilyyn. Tutustu kaikille veneilijöille avoimiin satamiin ja muihin palveluihin.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4295,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lue lisää veneilystä Helsingissä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää veneilystä Helsingissä",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/veneily"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4296,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Palvelut veneilijöille",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Palvelut veneilijöille",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/veneily\/palvelut-veneilijoille"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4297,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Septitankkien tyhjentäminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Septitankkien tyhjentäminen",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/veneily\/palvelut-veneilijoille#septitankit-kaikille-helsingin-veneilijoille"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5666,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Boating",
+            "description": "Maritime Helsinki offers excellent opportunities for boating. Explore the marinas and other services available to all boaters.\n",
+            "process_description": "Maritime Helsinki offers excellent opportunities for boating. Explore the marinas and other services available to all boaters.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4295,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Read more about boating in Helsinki",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Read more about boating in Helsinki",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/boating"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4296,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Services for boaters",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Services for boaters",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/boating\/services-for-boaters"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4297,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Emptying septic tanks",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Emptying septic tanks",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/boating\/services-for-boaters#septic-tanks-for-all-boaters-in-Helsinki"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5666,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Båtliv",
+            "description": "Det havsnära Helsingfors erbjuder bra möjligheter för båtliv. Bekanta dig med hamnar som är öppna för alla båtförare och med andra tjänster.\n",
+            "process_description": "Det havsnära Helsingfors erbjuder bra möjligheter för båtliv. Bekanta dig med hamnar som är öppna för alla båtförare och med andra tjänster.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4295,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Läs mer om båtliv i Helsingfors",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Läs mer om båtliv i Helsingfors",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/batliv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4296,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Tjänster för båtförare",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tjänster för båtförare",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/batliv\/tjanster-for-batforare"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4297,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Uttömning av septiktankar",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Uttömning av septiktankar",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/batliv\/tjanster-for-batforare#septiktankar-for-alla-batforare-i-helsingfors"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5663,
+        "fi": {
+            "id": 5663,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Venepaikkavaraukset",
+            "description": "Venepaikkoja haetaan sähköisellä hakemuksella. Veneilijä, jolla on jo venepaikka, voi hakea venepaikanvaihtoa. \n",
+            "process_description": "Helsingin kaupungilla on kymmeniä venesatamia, joista veneilijät voivat hakea omaa venepaikkaa sekä säilytystilaa veneelle talveksi. Venepaikkoja ja talvisäilytysruutuja voi hakea sähköisellä hakemuksella. Veneilijä, jolla on jo venepaikka, voi hakea venepaikanvaihtoa. Katso ohesta myös tarkemmat ohjeet venepaikan hakuun tai vaihtoon.\n\nVenepaikalla olevalla veneellä tarkoitetaan kaiken tyyppisiä lihas-, tuuli- tai konevoimalla kulkevia veneitä, joiden pääasiallisia käyttäjiä ovat niiden omistajat tai haltijat ja joita pääasiallisesti käytetään urheiluun ja vapaa-ajanviettoon. \n\nVeneilijät, joilla on jo kaupungilta vuokrattu venepaikka, voivat halutessaan jättää venepaikanvaihtohakemuksen. Vaihtohakemukset käsitellään ennen uusia hakijoita. Venepaikkavaraukset käsittelevät hakemukset niiden saapumisjärjestyksessä. \n\nVenepaikan hakeminen aloitetaan täyttämällä sähköinen hakulomake. Hakemukseen voi laittaa enintään 10 satamatoivetta. Venepaikkavaraukset käsittelevät venepaikkahakemuksia pääsääntöisesti maaliskuusta kesäkuun loppuun saakka. Sopivan venepaikan löytyessä hakijalle lähetetään venepaikkatarjous sähköpostilla ja tekstiviestillä. Tarjoukset lähetetään kesäkuun loppuun mennessä. \n",
+            "information": "Käytön edellytykset: Venepaikanhaltijana voi toimia oikeustoimikelpoinen helsinkiläinen tai ulkopaikkakuntalainen henkilö, yritys tai yhteisö, jolle liikuntapalvelu on myöntänyt Helsingin kaupungin venesataman venepaikan vuokralle. Oikeustoimikelpoisen henkilön on oltava veneen haltija. Venepaikkoja tarjotaan ensisijaisesti helsinkiläisille ja toissijaisesti ulkopaikkakuntalaisille.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4289,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Venepaikan hakeminen tai vaihtaminen hakulomakkeella",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Venepaikan hakeminen tai vaihtaminen hakulomakkeella",
+                            "url": "https:\/\/venepaikat.hel.fi\/fi\/berths"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4290,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Ohjeet venepaikan hakuun tai vaihtoon",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ohjeet venepaikan hakuun tai vaihtoon ",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/veneily\/vuokrattavat-venepaikat#ohjeet-venepaikan-hakuun-tai-vaihtoon"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5663,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Boat berth reservations",
+            "description": "Boat berth applications are submitted electronically. A boater with an existing boat berth can submit an application to exchange it. \n",
+            "process_description": "The City of Helsinki has dozens of marinas where boaters can apply for their own berth and boat storage space for the winter. You can apply for boat berths and marked winter storage spaces by submitting an online application. A boater with an existing boat berth can submit an application to exchange it. Also see the more detailed instructions below on how to apply for or exchange a berth.\n\nA berthed boat refers to any type of boat propelled by muscle power, wind or mechanical power, whose main users are its owners or operators and which is used primarily for sport and recreation. \n\nBoaters who have already rented a boat berth from the city can submit an application to exchange their berth. Exchange applications are processed before new applications. The boat berth reservations office will process applications in the order in which they are received. \n\nTo apply for a boat berth, start by filling in the online application form. You can include a maximum of 10 preferred marinas in your application. The boat berth reservations office typically processes applications for berths from March until the end of June. When a suitable berth becomes available, a berth offer email and text message will be sent to the applicant. Offers will be sent by the end of June. \n",
+            "information": "Conditions for use: The holder of a boat berth can be a person, company or organisation with legal capacity in Helsinki or abroad to whom Sports Services has granted a rental berth in a marina operated by the City of Helsinki. The legally competent person must be the holder of the boat. Boat berths are offered primarily to Helsinki residents and secondarily to non-residents.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4289,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Applying for or changing a boat berth using an application form",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Applying for or changing a boat berth using an application form",
+                            "url": "https:\/\/venepaikat.hel.fi\/en\/berths"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4290,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Instructions for applying for or changing a boat berth",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Instructions for applying for or changing a boat berth ",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/boating\/berths-for-rent#instructions-for-applying-for-or-changing-a-berth"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5663,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Båtplatsbokningen",
+            "description": "Båtplatser ansöks med ett elektroniskt formulär. En båtförare som redan har båtplats kan ansöka om byte av båtplats. \n",
+            "process_description": "Helsingfors stad har tiotals båthamnar där båtförare kan ansöka om en egen båtplats samt förvaringsutrymme för båten för vintern. Båtplatser och vinteruppläggningsrutor kan ansökas med en elektrisk ansökan. En båtförare som redan har båtplats kan ansöka om byte av båtplats. Se nedan för närmare anvisningar om ansökning eller byte av båtplats.\n\nMed en båt i båtplatsen avses alla slags båtar som fungerar med muskel-, vind- eller maskinkraft och som huvudsakligen används av sina ägare eller innehavare och som huvudsakligen används till sport och fritid. \n\nBåtförare som redan hyr en båtplats av staden kan lämna in en ansökan om byte av båtplats om de vill. Bytesansökningarna handläggs före nya sökanden. Båtplatsreserveringen handlägger ansökningarna i den ordning de anländer i. \n\nInleda ansökningen om en båtplats genom att fylla i ett elektriskt ansökningsformulär. Du kan anteckna högst 10 hamnönskemål i en ansökning. Båtplatsreserveringen handlägger ansökningar om båtplatser i regel från mars till slutet av juni. När en lämplig båtplats hittas, skickar den en båtplatsoffert till sökanden per e-post och sms. Offerterna skickas före slutet av juni. \n",
+            "information": "Förutsättningarna för användningen: Som innehavare av båtplats kan fungera en person, ett företag eller ett samfund från Helsingfors eller en annan ort som har rättshandlingsförmåga och som av idrottsservicen beviljats en hyrd båtplats i en av Helsingfors stads båthamnar. Personen med rättshandlingsförmåga måste vara innehavaren av båten. Båtplatser erbjuds i första hand till Helsingforsbor och i andra hand till utsocknes personer.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4289,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om båtplats eller byt båtplats med ansökningsformulär",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansök om båtplats eller byt båtplats med ansökningsformulär",
+                            "url": "https:\/\/venepaikat.hel.fi\/sv\/berths"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4290,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Anvisningar om ansökning och byte av båtplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anvisningar om ansökning och byte av båtplats ",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/batliv\/batplatser-som-kan-hyras#anvisningar-for-ansokan-om-eller-byte-av-batplats"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5664,
+        "fi": {
+            "id": 5664,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Venepaikkavarausten neuvonta",
+            "description": "Neuvontaa venepaikkavarauksiin liittyen annetaan puhelimitse ja sähköpostitse. Venepaikkoja haetaan sähköisellä hakemuksella.\n",
+            "process_description": "Jos haluat lisätietoja venepaikan vuokraamisesta kaupungilta, ota yhteyttä. Palvelemme asiakkaita sähköpostitse tai puhelimitse, eikä meillä ole fyysistä asiakaspalvelupistettä. Tarvittaessa voit myös sopia tapaamisesta (toimiston sijainti Konepajankuja 1, Helsinki).",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4291,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköpostineuvonta",
+                    "email": "venepaikkavaraukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4292,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelinneuvonta",
+                    "availability_summary": "Palvelu saatavilla ma, ke, pe 09-12, ti, to 12-15",
+                    "phone": "09 310 87900",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla ma, ke, pe 09-12"
+                        },
+                        {
+                            "availability_string": "Palvelu saatavilla ti, to 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5664,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Advisory service for boat berth reservations",
+            "description": "Assistance with reserving boat berths is available via telephone and email. Boat berth applications are submitted electronically.\n",
+            "process_description": "If you would like more information about renting a boat berth from the city, please contact us. We assist customers by email or phone and do not have a physical customer service point. If necessary, you can also make an appointment (office location: Konepajankuja 1, Helsinki). \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4291,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail helpdesk",
+                    "email": "venepaikkavaraukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4292,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Phone helpline",
+                    "availability_summary": "Service available Mon, Wed, Fri 09-12, Tue, Thu 12-15",
+                    "phone": "09 310 87900",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available Mon, Wed, Fri 09-12"
+                        },
+                        {
+                            "availability_string": "Service available Tue, Thu 12-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5664,
+            "exact_descriptions": [
+                4153
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Rådgivning om bokningar av båtplatser",
+            "description": "Rådgivning angående reservationer av båtplatser ges per telefon och e-post. Båtplatser ansöks med ett elektroniskt formulär.\n",
+            "process_description": "Om du vill få mer information om att hyra en båtplats av staden, kontakta oss. Vi betjänar kunder per e-post och per telefon och har inget fysiskt kundtjänstställe. Vid behov kan du även komma överens om ett möte (kontorets adress är Maskinverkstadsgränden 1, Helsingfors).",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4291,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postrådgivning",
+                    "email": "venepaikkavaraukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4292,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefonrådgivning",
+                    "availability_summary": "Tjänsten tillgänglig mån, ons, fre 09-12, tis, tor 12-15",
+                    "phone": "09 310 87900",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig mån, ons, fre 09-12"
+                        },
+                        {
+                            "availability_string": "Tjänsten tillgänglig tis, tor 12-15"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5402,
         "fi": {
             "id": 5402,
