@@ -3349,8 +3349,7 @@
             "type": "ADVICE",
             "name": "Digitukea etänä",
             "name_synonyms": "etädigituki",
-            "description": "Digitukea saa myös etäpalveluna. \n\nEtätukea saa tietokoneen, tabletin ja älypuhelimen käytössä. Tukea saa myös sähköisen asioinnin, verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nTukipyynnön jälkeen digituen antaja ottaa asiakkaaseen yhteyttä soittamalla parin arkipäivän sisällä ja sopii digituen antamisesta tarkemmin. \nEtädigitukea annetaan arkisin klo 9 -19 välillä. \n\n",
-            "costs": "Palvelu on maksuton.",
+            "description": "Digitukea saa myös etäpalveluna. \n\nEtätukea saa tietokoneen, tabletin ja älypuhelimen käytössä. Tukea saa myös sähköisen asioinnin, verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nTukipyynnön jälkeen digituen antaja ottaa asiakkaaseen yhteyttä soittamalla parin arkipäivän sisällä ja sopii digituen antamisesta tarkemmin. Etädigitukea annetaan arkisin klo 9 -19 välillä.\n\nKatso alta digituen puhelin- ja chat-palvelun yhteystiedot. \n\n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -3364,11 +3363,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Tee etädigitukipyyntö digituen verkkosivulta",
-                    "url": "https:\/\/digituki.hel.fi\/mita-digituki-on\/#etadigituki"
-                }
             ],
             "channels": [
                 {
@@ -3376,8 +3370,9 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Etädigituki puhelimitse",
-                    "availability_summary": "Palvelu saatavilla ma-to 09-16, pe 10-15",
-                    "phone": "09 310 11111 ",
+                    "information": "Jos tarvitset apua tietokoneen, tabletin, puhelimen tai asiointipalveluiden käyttöön, autamme sinua Helsingin kaupungin digituen puhelinpalvelussa maksuttomasti joka arkipäivä. Tukea saa myös muiden verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nVoit myös varata puhelimesta itsellesi ajan digituen palvelupisteelle. Lisäksi voimme täyttää puhelimessa tarvittaessa kotidigitukipyynnön.",
+                    "availability_summary": "Palvelu saatavilla ma-pe 09-12",
+                    "phone": "09 310 10011",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
@@ -3392,10 +3387,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla ma-to 09-16"
-                        },
-                        {
-                            "availability_string": "Palvelu saatavilla pe 10-15"
+                            "availability_string": "Palvelu saatavilla ma-pe 09-12"
                         }
                     ]
                 },
@@ -3404,8 +3396,8 @@
                     "type": "CHAT",
                     "type_string": "Chat",
                     "name": "Etädigitukea Chatissä",
-                    "information": "Voit tehdä digitukipyynnön myös Chatillä. Digituen antaja ottaa tukipyynnön lähettämisen jälkeen yhteyttä puhelimitse ja sopii tarkemmin digituen antamisesta.\n",
-                    "availability_summary": "Palvelu saatavilla ma-to 09-16, pe 10-15",
+                    "information": "Voit pyytää digiopastusta myös chatin kautta, joka löytyy osoitteesta digituki.hel.fi, etusivun oikeasta alakulmasta. \n",
+                    "availability_summary": "Palvelu saatavilla ma-pe 09-12",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -3422,7 +3414,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Chattiin",
-                            "url": "https:\/\/neuvonta.hel.fi",
+                            "url": "https:\/\/digituki.hel.fi\/",
                             "file_format": "HTML"
                         },
                         {
@@ -3434,10 +3426,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla ma-to 09-16"
-                        },
-                        {
-                            "availability_string": "Palvelu saatavilla pe 10-15"
+                            "availability_string": "Palvelu saatavilla ma-pe 09-12"
                         }
                     ]
                 }
