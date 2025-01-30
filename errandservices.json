@@ -19218,7 +19218,8 @@
         "fi": {
             "id": 4282,
             "exact_descriptions": [
-                3138
+                3138,
+                9910
             ],
             "service_id": 10876,
             "type": "ADVICE",
@@ -19327,7 +19328,8 @@
         "en": {
             "id": 4282,
             "exact_descriptions": [
-                3138
+                3138,
+                9910
             ],
             "service_id": 10876,
             "type": "ADVICE",
@@ -19435,7 +19437,8 @@
         "sv": {
             "id": 4282,
             "exact_descriptions": [
-                3138
+                3138,
+                9910
             ],
             "service_id": 10876,
             "type": "ADVICE",
@@ -37567,10 +37570,192 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5641,
+            "exact_descriptions": [
+                9910
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Integration services for the other groups",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4256,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Call",
+                    "availability_summary": "Open Tue, Fri 09-11",
+                    "phone": "+358 9 310 36130",
+                    "call_charge_info": "toll free",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Tue, Fri 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 4257,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "tvu-kotoutujat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4259,
+                    "type": "LOCAL",
+                    "type_string": "Local services",
+                    "availability_summary": "Open Thu 09-15",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Thu 09-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5641,
+            "exact_descriptions": [
+                9910
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Integrationstjänster för de andra grupperna",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3015"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4256,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Ring",
+                    "availability_summary": "Öppet tis, fre 09-11",
+                    "phone": "+358 9 310 36130",
+                    "call_charge_info": "gratis",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet tis, fre 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 4257,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "tvu-kotoutujat@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4259,
+                    "type": "LOCAL",
+                    "type_string": "Lokal service",
+                    "availability_summary": "Öppet tor 09-15",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet tor 09-15"
+                        }
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5158,
