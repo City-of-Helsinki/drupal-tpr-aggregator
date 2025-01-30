@@ -12664,7 +12664,6 @@
         "fi": {
             "id": 5575,
             "exact_descriptions": [
-                8970,
                 9820
             ],
             "service_id": 10533,
@@ -12706,7 +12705,6 @@
         "fi": {
             "id": 5571,
             "exact_descriptions": [
-                8970
             ],
             "service_id": 10533,
             "type": "ADVICE",
@@ -34171,7 +34169,6 @@
         "fi": {
             "id": 5570,
             "exact_descriptions": [
-                8970
             ],
             "service_id": 10533,
             "type": "ENROLLMENT",
@@ -35955,6 +35952,7 @@
         "fi": {
             "id": 5600,
             "exact_descriptions": [
+                8970,
                 9789,
                 9808,
                 9810,
@@ -36149,6 +36147,7 @@
         "en": {
             "id": 5600,
             "exact_descriptions": [
+                8970,
                 9810,
                 9814,
                 9815,
@@ -36338,6 +36337,7 @@
         "sv": {
             "id": 5600,
             "exact_descriptions": [
+                8970,
                 9810,
                 9814,
                 9815,
@@ -38096,6 +38096,7 @@
         "fi": {
             "id": 5604,
             "exact_descriptions": [
+                8970,
                 9805,
                 9818,
                 9830,
@@ -38239,6 +38240,7 @@
         "en": {
             "id": 5604,
             "exact_descriptions": [
+                8970,
                 9805,
                 9818,
                 9830,
@@ -38381,6 +38383,7 @@
         "sv": {
             "id": 5604,
             "exact_descriptions": [
+                8970,
                 9805,
                 9818,
                 9830,
@@ -39705,7 +39708,7 @@
             "name_synonyms": "Hakulomake iltapäivätoimintaan",
             "process_description": "Hakeminen perusopetuksen iltapäivätoimintaan\n\n1 - Haku iltapäivätoimintaan on keväällä. Toiminta on maksullista.\n\n2 - Iltapäivätoimintapaikkoja voi etsiä ja niihin tutustua sivulla hel.fi\/iltapaivatoimintapaikat tai Palvelukartalla hakusanalla iltapäivätoiminta.\n\n3 - Iltapäivätoimintaan haetaan ensisijaisesti Wilmassa. Jos huoltajalla ei ole vielä Wilma-tunnusta, ohjeet tunnuksen tekemiseen löytyvät: hel.fi\/wilma. \nHakeminen Wilmassa: Hakulomake on kohdassa \"Hakemukset ja päätökset\". Valitse \"Tee uusi hakemus\". Valitse \"Iltapäivätoimintaan hakeminen\". Täytä hakemuksen tiedot ja tallenna tiedot. \n\nJos ei ole mahdollisuutta täyttää hakulomaketta Wilmassa, toimintaan voi hakea myös paperilomakkeella. \n\n4 - Hakuaikana hakeneille postitetaan päätökset heinäkuussa. \n\n5 - Hakuajan jälkeen tulleet hakemukset käsitellään toimintakauden aikana paikkatilanne huomioiden. Paikoista ei anneta väliaikatietoja. Huoltajaan ollaan yhteydessä, jos lapselle järjestyy paikka alueen iltapäivätoiminnasta.",
             "costs": "Maksut\nIltapäivätoiminnan maksu määräytyy sen mukaan, osallistuuko lapsesi toimintaan klo 16 vai klo 17 saakka. Maksuun sisältyy välipala sekä vakuutus.\n\nJos lapsesi on toiminnassa klo 16.00 saakka, maksu on 100 euroa \/ kuukausi.\nJos lapsesi on toiminnassa klo 17.00 saakka, maksu on 120 euroa \/ kuukausi.",
-            "information": "Hakuaika lukuvuoden 2024-2025 iltapäivätoimintaan oli 11.3.-17.4.2024.\n\nVaikka hakuaika on päättynyt, voit tehdä hakemuksen. Hakemuksesi käsitellään syksyllä, lukuvuoden jo alettua. Jos haet hakuajan ulkopuolella, paikan saaminen ei ole varmaa.",
+            "information": "iltapaivatoiminta@hel.fi",
             "provided_languages": [
                 "en",
                 "fi",
@@ -39722,13 +39725,13 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Iltapäivätoimintapaikat palvelukartalla",
-                    "url": "https:\/\/palvelukartta.hel.fi\/fi\/search?q=iltap%C3%A4iv%C3%A4toiminta"
+                    "title": "Iltapäivätoimintapaikat",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/aamu-ja-iltapaivatoiminta-kerhot-ja-harrastukset\/iltapaivatoiminta\/iltapaivatoimintapaikat"
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Iltapäivätoimintapaikat",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/aamu-ja-iltapaivatoiminta-kerhot-ja-harrastukset\/iltapaivatoiminta\/iltapaivatoimintapaikat"
+                    "title": "Iltapäivätoimintapaikat palvelukartalla",
+                    "url": "https:\/\/palvelukartta.hel.fi\/fi\/search?q=iltap%C3%A4iv%C3%A4toiminta"
                 }
             ],
             "channels": [
@@ -39803,7 +39806,7 @@
             "name": "Applying for basic education after-school activities",
             "process_description": "1 - The application period for the after-school activities is in the spring. The activities are subject to a fee.\n\n2 - After-school activity locations can be searched for and viewed at hel.fi\/afterschoollocations or on the Service map with the search term after-school activities.\n\n3 - Applications for after-school activities are primarily made in Wilma. If the guardian does not yet have Wilma credentials, instructions can be found at hel.fi\/wilma. \nApplying on Wilma: The application form can be found under 'Applications and decisions'. Choose 'New application', then 'Application for after-school activities'. Fill in the form with the necessary details and save it.\n\nIf you are unable to fill in the form on Wilma, you can also apply with a paper form. \n\n4 - If you apply during the application period, we will post the decision in July. \n\n5 - Applications arriving after the application period will be processed depending on the available places during the school year. We do not answer status inquiries regarding your application during the process.",
             "costs": "After-school activity fee depends on whether the child attends until at 16.00 or activities or at 17.00. A snack and insurance are included in the fee.\t\n\t\nIf your child attends until 16.00, the fee is EUR 100 per month.\t\nIf your child attends until 17.00, the fee is EUR 120 per month.",
-            "information": "The application period for after-school activities for the 2024-2025 school year was 11 March-17 April 2024.\n\nYou can still apply even after the application period. Your application will be processed in the autumn when the school year has started. If you apply outside the application period, we cannot guarantee a place for you.",
+            "information": "iltapaivatoiminta@hel.fi",
             "provided_languages": [
                 "en",
                 "fi",
@@ -39900,7 +39903,7 @@
             "name": "Ansökan till skolornas eftermiddagsverksamhet",
             "process_description": "Ansökan till eftermiddagsverksamhet inom den grundläggande utbildningen\n\n1 - Ansökan till eftermiddagsverksamhet är öppen på våren. Verksamheten är avgiftsbelagd.\n\n2 - Du kan söka efter och bekanta dig med platser som ordnar eftermiddagsverksamhet på sidan hel.fi\/eftisplatser eller på Servicekartan med sökordet \"eftermiddagsverksamhet\".\n\n3 - Du ansöker i första hand om eftermiddagsverksamhet i Wilma. Om du som vårdnadshavare ännu inte har ett Wilma-konto hittar du anvisningar för hur du skapar ett konto på adressen hel.fi\/wilma-sv. Ansökan i Wilma: Ansökningsblanketten finns under rubriken \"Ansökningar och beslut\". Välj \"Gör en ny ansökan\" Välj \"Eftermiddagsverksamhet\". Fyll i uppgifterna i ansökan och spara uppgifterna.\n\nOm du inte har möjlighet att ansöka via Wilma kan du söka till verksamheten med en pappersblankett.\n\n4 - Om du ansökt om plats under ansökningstiden skickar vi beslutet per post i juli. \n\n5 - Ansökningar som kommit in efter ansökningstiden behandlas under läsåret med beaktande av platssituationen. Staden ger inga preliminära uppgifter om beslutet. Vi kontaktar vårdnadshavaren om det finns en plats åt barnet.",
             "costs": "Avgifterna för eftermiddagsverksamheten är:\n\nOm ditt barn deltar i verksamheten fram till kl. 16.00 är avgiften 100 euro per månad. \nOm ditt barn deltar i verksamheten fram till kl. 17.00 är avgiften 120 euro per månad.",
-            "information": "Ansökningstiden för eftermiddagsverksamheten läsåret 2024-2025 var 11.3-17.4.2024.\n\nÄven om ansökningstiden har gått ut kan du lämna in en ansökan. Din ansökan behandlas på hösten efter att läsåret har börjat. Om du ansöker utanför ansökningstiden, är det inte säkert att du får en plats.",
+            "information": "iltapaivatoiminta@hel.fi",
             "provided_languages": [
                 "en",
                 "fi",
@@ -54991,7 +54994,6 @@
         "fi": {
             "id": 5077,
             "exact_descriptions": [
-                8970
             ],
             "service_id": 10876,
             "type": "ADVICE",
@@ -55043,7 +55045,6 @@
         "en": {
             "id": 5077,
             "exact_descriptions": [
-                8970
             ],
             "service_id": 10876,
             "type": "ADVICE",
@@ -55095,7 +55096,6 @@
         "sv": {
             "id": 5077,
             "exact_descriptions": [
-                8970
             ],
             "service_id": 10876,
             "type": "ADVICE",
