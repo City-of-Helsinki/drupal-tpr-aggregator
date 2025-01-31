@@ -50963,7 +50963,7 @@
                         {
                             "type": "FORM",
                             "title": "Vesihuoltolaitoshakemus (Word)",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
                             "file_format": "WORD"
                         },
                         {
@@ -50975,7 +50975,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Ilmoitus yleisötapahtuman vesijärjestelyistä (Word)",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Tapahtuman_vesijarjestelyt.docx",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Tapahtuman_vesijarjestelyt.docx",
                             "file_format": "WORD"
                         }
                     ],
@@ -51149,13 +51149,13 @@
                         {
                             "type": "INTERNET",
                             "title": "Ansökan om vattentjänstverk (Word, på finska)",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Vesihuoltolaitoshakemus.doc",
                             "file_format": "WORD"
                         },
                         {
                             "type": "INTERNET",
                             "title": "Anmälan om vattendistribution vid evenemang (word, på finska)",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Tapahtuman_vesijarjestelyt.docx",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/Tapahtuman_vesijarjestelyt.docx",
                             "file_format": "WORD"
                         }
                     ],
@@ -60424,7 +60424,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 12:30-15:30, pe 12-15",
+                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 13-15:30, pe 12-15",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -60443,7 +60443,7 @@
                             "availability_string": "Avoinna ma, to 09-12"
                         },
                         {
-                            "availability_string": "Avoinna ti-ke 12:30-15:30"
+                            "availability_string": "Avoinna ti-ke 13-15:30"
                         },
                         {
                             "availability_string": "Avoinna pe 12-15"
@@ -60474,35 +60474,6 @@
                         }
                     ],
                     "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3560,
-                    "type": "CHAT",
-                    "type_string": "Chat",
-                    "name": "Vuokra-asunnon haun neuvonnan chat-palvelu",
-                    "availability_summary": "Avoinna ma-to 09-15, pe 12-15",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-to 09-15"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-15"
-                        }
                     ]
                 },
                 {
@@ -60562,7 +60533,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Rental apartment search advisory service, telephone service",
-                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 12:30-15:30, Fri 12-15",
+                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 13-15:30, Fri 12-15",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -60581,7 +60552,7 @@
                             "availability_string": "Open Mon, Thu 09-12"
                         },
                         {
-                            "availability_string": "Open Tue-Wed 12:30-15:30"
+                            "availability_string": "Open Tue-Wed 13-15:30"
                         },
                         {
                             "availability_string": "Open Fri 12-15"
@@ -60607,35 +60578,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3560,
-                    "type": "CHAT",
-                    "type_string": "Chat",
-                    "name": "Rental apartment search advisory service, chat service",
-                    "availability_summary": "Open Mon-Thu 09-15, Fri 12-15",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Thu 09-15"
-                        },
-                        {
-                            "availability_string": "Open Fri 12-15"
-                        }
                     ]
                 },
                 {
@@ -60694,7 +60636,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Rådgivningstelefon för ansökan om hyresbostad",
-                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 12:30-15:30, fre 12-15",
+                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 13-15:30, fre 12-15",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -60713,7 +60655,7 @@
                             "availability_string": "Öppet mån, tor 09-12"
                         },
                         {
-                            "availability_string": "Öppet tis-ons 12:30-15:30"
+                            "availability_string": "Öppet tis-ons 13-15:30"
                         },
                         {
                             "availability_string": "Öppet fre 12-15"
@@ -60744,35 +60686,6 @@
                         }
                     ],
                     "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3560,
-                    "type": "CHAT",
-                    "type_string": "Chatt",
-                    "name": "Rådgivningschatt för ansökan om hyresbostad",
-                    "availability_summary": "Öppet mån-tor 09-15, fre 12-15",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-tor 09-15"
-                        },
-                        {
-                            "availability_string": "Öppet fre 12-15"
-                        }
                     ]
                 },
                 {
