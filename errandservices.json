@@ -5416,7 +5416,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 12:30-15:30, pe 12-15",
+                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 13-15:30, pe 12-15",
                     "phone": "0931013030",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -5435,7 +5435,7 @@
                             "availability_string": "Avoinna ma, to 09-12"
                         },
                         {
-                            "availability_string": "Avoinna ti-ke 12:30-15:30"
+                            "availability_string": "Avoinna ti-ke 13-15:30"
                         },
                         {
                             "availability_string": "Avoinna pe 12-15"
@@ -5534,7 +5534,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Rental apartment search telephone service",
-                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 12:30-15:30, Fri 12-15",
+                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 13-15:30, Fri 12-15",
                     "phone": "0931013030",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -5553,7 +5553,7 @@
                             "availability_string": "Open Mon, Thu 09-12"
                         },
                         {
-                            "availability_string": "Open Tue-Wed 12:30-15:30"
+                            "availability_string": "Open Tue-Wed 13-15:30"
                         },
                         {
                             "availability_string": "Open Fri 12-15"
@@ -5652,7 +5652,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Rådgivning om ansökan om hyresbostad, telefontjänst",
-                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 12:30-15:30, fre 12-15",
+                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 13-15:30, fre 12-15",
                     "phone": "0931013030",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -5671,7 +5671,7 @@
                             "availability_string": "Öppet mån, tor 09-12"
                         },
                         {
-                            "availability_string": "Öppet tis-ons 12:30-15:30"
+                            "availability_string": "Öppet tis-ons 13-15:30"
                         },
                         {
                             "availability_string": "Öppet fre 12-15"
@@ -9457,12 +9457,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Hakemus asuntotontin lyhytaikaisesta vuokrauksesta (pdf, 2,6 Mt)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf",
-                            "file_format": "PDF"
-                        },
                         {
                             "type": "FORM",
                             "title": "Hakemus asuntotontin lyhytaikaisesta vuokrauksesta (docx)",
@@ -35992,6 +35986,11 @@
                 "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Työllisyyspalveluiden neuvonta",
+                    "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-neuvonta"
+                }
             ],
             "channels": [
                 {
@@ -36139,7 +36138,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Helsingin työllisyyspalveluiden lomakkeet",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet-ja-palautekanava"
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet"
                         }
                     ],
                     "availabilities": [
@@ -36182,6 +36181,11 @@
                 "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Employment Services’ advisory service",
+                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers\/contact-helsinki-employment-services\/employment-services-advisory-service"
+                }
             ],
             "channels": [
                 {
@@ -36329,7 +36333,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Helsinki Employment Services’ forms",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet-ja-palautekanava"
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers\/contact-helsinki-employment-services\/employment-services-forms"
                         }
                     ],
                     "availabilities": [
@@ -36372,6 +36376,11 @@
                 "http:\/\/urn.fi\/URN:NBN:fi:au:ptvl:v3018"
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Sysselsättningstjänsternas rådgivning",
+                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/kontakta-sysselsattningstjanster\/sysselsattningstjansternas-radgivning"
+                }
             ],
             "channels": [
                 {
@@ -36519,7 +36528,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Helsingfors sysselsättningstjänsters blanketter",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet-ja-palautekanava"
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/kontakta-sysselsattningstjanster\/sysselsattningstjansternas-blanketter"
                         }
                     ],
                     "availabilities": [
@@ -57304,7 +57313,7 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Vapaarahoitteisen vuokra-asunnon hakeminen",
-            "description": "Hae vapaarahoitteista vuokra-asuntoa Oikotien kautta. Asuntoilmoituksessa on linkki asuntohakemukseen. Hakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nPäähakijana sinun tulee olla täysi-ikäinen ja sinulla pitää olla suomalainen henkilötunnus. \n\nVoit päivittää hakemustasi halutessasi, jolloin se korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan silloin sinun on tehtävä uusi hakemus.",
+            "description": "Hae vapaarahoitteista vuokra-asuntoa Oikotie.fi-palvelun kautta. Asuntoilmoituksessa on linkki asuntohakemukseen.\n \nHakemuksen täyttämisen jälkeen tunnistaudu pankki- tai mobiilitunnuksin. Myös mahdollisen kanssahakijasi pitää tunnistautua ja vahvistaa asuntohakemus.\n\nJos sinulla ei ole mahdollisuutta vahvaan tunnistautumiseen, käy tunnistautumassa vuokra-asunnon haun neuvonnassa osoitteessa Työpajankatu 8. Tarvitset mukaan passin tai henkilökortin. Asuntohakemus on mukana asukasvalinnoissa vasta tunnistumiskäynnin jälkeen.\n\nPäähakijana sinun tulee olla täysi-ikäinen ja sinulla pitää olla suomalainen henkilötunnus. \n\nVoit päivittää hakemustasi halutessasi, jolloin se korvaa aikaisemmin lähetetyn hakemuksen. Vanhentunutta hakemusta ei voi päivittää tai kopioida, vaan silloin sinun on tehtävä uusi hakemus.",
             "expiration_time": "Hakemus on voimassa 3 kuukautta (90 päivää) sen jättämisestä tai muutosten tekemisestä.",
             "costs": "Asuntojen hakeminen ja välitys on maksutonta, eikä asunnon vastaanottajalta peritä vuokravakuuksia tai muita takuumaksuja.",
             "provided_languages": [
@@ -57350,7 +57359,7 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Tutustu vapaisiin vapaarahoitteisiin asuntoihin Oikotiellä",
+                            "title": "Tutustu vapaisiin vapaarahoitteisiin asuntoihin Oikotie.fi-palvelussa",
                             "url": "https:\/\/asunnot.oikotie.fi\/vuokra-asunnot?brokerCompanyId=9512820"
                         }
                     ],
@@ -57367,7 +57376,7 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Applying for non-subsidised housing",
-            "description": "Apply for a non-subsidised rental apartment through Oikotie. The apartment advertisement will contain a link to the application. After completing the application, prove your identity with online banking credentials or Mobile ID. Your co-applicant, if you have one, must also prove their identity through authentication and confirm the housing application.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n\nAs the main applicant, you must be of legal age and have a Finnish personal identity code. \n\nIf you wish, you can update your application, after which it will replace your previously submitted application. An expired application cannot be updated or copied - you must submit a new application.\n",
+            "description": "Apply for a non-subsidised rental apartment through Oikotie.fi. The apartment advertisement will contain a link to the application. \n\nAfter completing the application, prove your identity with online banking credentials or Mobile ID. Your co-applicant, if you have one, must also prove their identity through authentication and confirm the housing application.\n\nIf you cannot use strong authentication, please visit the rental apartment search customer service at Työpajankatu 8. Bring your passport or identity card with you. Your apartment application will not be included in the tenant selection process until after you have confirmed your identity.\n\nAs the main applicant, you must be at least 18 years old and have a Finnish personal identity code. \n\nIf you wish, you can update your application, which will replace your previously submitted application. An expired application cannot be updated or copied - you must submit a new application.\n",
             "expiration_time": "The application is valid for three months (90 days) after its submission or most recent changes.",
             "costs": "There are no application or brokerage charges, and the recipient of an apartment is not charged any rent security deposit or other deposit.",
             "provided_languages": [
@@ -57411,7 +57420,7 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Browse available apartments in Oikotie",
+                            "title": "Browse available apartments in Oikotie.fi",
                             "url": "https:\/\/asunnot.oikotie.fi\/vuokra-asunnot?brokerCompanyId=9512820"
                         }
                     ],
@@ -57428,7 +57437,7 @@
             "service_id": 10311,
             "type": "APPLICATION",
             "name": "Ansök om en fritt finansierad hyresbostad",
-            "description": "Ansök om en fritt finansierad hyresbostad via Oikotie. Bostadsannonsen innehåller en länk till ansökan. När du har fyllt i ansökan, identifiera dig med nätbankskoder eller ett mobilcertifikat. Din eventuella medsökande måste också identifiera sig och bekräfta bostadsansökan.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att identifiera dig. Ta med dig ditt pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n\nSom huvudsökande ska du vara myndig och ha en finsk personbeteckning. \n\nOm du vill, kan du uppdatera din ansökan. Den uppdaterade ansökan ersätter din tidigare ansökan. Du kan inte redigera eller kopiera en ansökan som gått ut, utan du måste göra en ansökan.\n",
+            "description": "Ansök om en fritt finansierad hyresbostad via Oikotie.fi. Bostadsannonsen innehåller en länk till ansökan. När du har fyllt i ansökan, identifiera dig med nätbankskoder eller ett mobilcertifikat. Din eventuella medsökande måste också identifiera sig och bekräfta bostadsansökan.\n\nOm du inte har möjlighet till stark autentisering, vänligen besök kundtjänsten för ansökning om hyresbostad på Verkstadsgatan 8 för att identifiera dig. Ta med dig ditt pass eller identitetsbevis. Bostadsansökan iakttas i valet av boende först efter identifieringen.\n\nSom huvudsökande ska du vara myndig och ha en finsk personbeteckning. \n\nOm du vill, kan du uppdatera din ansökan. Den uppdaterade ansökan ersätter din tidigare ansökan. Du kan inte redigera eller kopiera en ansökan som gått ut, utan du måste göra en ansökan.\n",
             "expiration_time": "Ansökan är giltig tre månader (90 dagar) från inlämnandet eller redigeringen.",
             "costs": "Ansökan om och förmedling av bostäder är avgiftsfritt, och av mottagaren av bostaden debiteras ingen hyresgaranti eller övriga garantiavgifter.",
             "provided_languages": [
@@ -57472,7 +57481,7 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Bläddra lediga bostäder (på finska)",
+                            "title": "Bläddra lediga bostäder i Oikotie.fi (på finska)",
                             "url": "https:\/\/asunnot.oikotie.fi\/vuokra-asunnot?brokerCompanyId=9512820"
                         }
                     ],
