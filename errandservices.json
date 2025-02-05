@@ -33814,6 +33814,65 @@
         }
     },
     {
+        "id": 5688,
+        "fi": {
+            "id": 5688,
+            "exact_descriptions": [
+                9990
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Ohjaamon walk in -yrittäjyysneuvonta",
+            "description": "Voit tulla kysymään ja keskustelemaan yrittäjyydestä paikan päälle ilman ajanvarausta.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4331,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Nuorten yrittäjyysneuvonta Kampissa",
+                    "availability_summary": "Avoinna pe 12-16",
+                    "personal_service_street_addr": "Fredrikinkatu 48",
+                    "personal_service_city": "Helsinki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna pe 12-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 4815,
         "fi": {
             "id": 4815,
