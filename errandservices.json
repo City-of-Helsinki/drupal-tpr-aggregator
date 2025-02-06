@@ -33847,6 +33847,7 @@
                     "name": "Nuorten yrittäjyysneuvonta Kampissa",
                     "availability_summary": "Avoinna pe 12-16",
                     "personal_service_street_addr": "Fredrikinkatu 48",
+                    "personal_service_postal_code": "001000",
                     "personal_service_city": "Helsinki",
                     "provided_languages": [
                     ],
@@ -33867,8 +33868,58 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5688,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Walk-in entrepreneurship counseling in Ohjaamo",
+            "description": "You can come and ask questions and discuss entrepreneurship on-site without an appointment.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4331,
+                    "type": "LOCAL",
+                    "type_string": "Local services",
+                    "name": "Youth Entrepreneurship Counseling in Kamppi",
+                    "availability_summary": "Open Fri 12-16",
+                    "personal_service_street_addr": "Fredrikinkatu 48",
+                    "personal_service_postal_code": "00100",
+                    "personal_service_city": "Helsinki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Fri 12-16"
+                        }
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -37552,6 +37603,7 @@
             "service_id": 11111,
             "type": "ADVICE",
             "name": "Ota yhteyttä (kotoutumisen palvelut työvoiman ulkopuolella oleville kotoutujille)",
+            "costs": "Maksuton",
             "provided_languages": [
                 "en",
                 "fi",
@@ -37650,6 +37702,7 @@
             "service_id": 11111,
             "type": "ADVICE",
             "name": "Integration services for the other groups",
+            "costs": "Free of charge",
             "provided_languages": [
                 "en",
                 "fi",
@@ -37743,6 +37796,7 @@
             "service_id": 11111,
             "type": "ADVICE",
             "name": "Integrationstjänster för de andra grupperna",
+            "costs": "Avgiftsfri",
             "provided_languages": [
                 "en",
                 "fi",
@@ -38444,7 +38498,7 @@
                     "id": 4193,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lähetä sähköposti yritys- ja työnantaja-asiakkaan palveluille",
+                    "name": "Lähetä viesti yritys- ja työnantaja-asiakkaan palveluille",
                     "email": "neuvonta.tyonantajat@hel.fi",
                     "provided_languages": [
                     ],
@@ -38458,8 +38512,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Ota yhteyttä työnantajapalveluihin",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat\/rekrytointi-kotimaasta-ja-ulkomailta\/tyonvalityspalvelut-tyonantajallehttps:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
+                            "title": "Helsingin kaupunki",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
                         }
                     ],
                     "availabilities": [
@@ -38601,7 +38655,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Contact Employment Services",
+                            "title": "City of Helsinki",
                             "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers"
                         }
                     ],
@@ -38744,7 +38798,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Kontakta Helsingfors sysselsättningstjänsterna",
+                            "title": "Helsingfors stad",
                             "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare"
                         }
                     ],
