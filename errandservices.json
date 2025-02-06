@@ -3474,6 +3474,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Elintarvikeneuvonnan sähköpostiosoite",
+                    "information": "Ole yhteydessä elintarvikeneuvontaan.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -3485,6 +3486,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää elintarvikeneuvonnasta",
+                            "url": "https:\/\/www.hel.fi\/elintarviketoiminta"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16592,12 +16598,14 @@
             "service_id": 10138,
             "type": "NOTICE",
             "name": "Ilmoita kuolleesta luonnonvaraisesta eläimestä tai lemmikin laittomasta maahantuonnista",
+            "description": "Ilmoita kuolleesta luonnonvaraisesta eläimestä tai lemmikin laittomasta maahantuonnista Helsingin kaupungin valvontaeläinlääkärille.",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
             ],
@@ -16661,12 +16669,14 @@
             "service_id": 10138,
             "type": "NOTICE",
             "name": "Report deceased wild animals or illegal pet import",
+            "description": "Report deceased wild animals or illegal pet import to the City of Helsinki's supervising veterinarians.",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
             ],
@@ -16730,12 +16740,14 @@
             "service_id": 10138,
             "type": "NOTICE",
             "name": "Anmäl om du hittar döda vilda djur eller misstänker olaglig import av sällskapsdjur",
+            "description": "Om du hittar döda vilda djur eller misstänker olaglig import av sällskapsdjur anmäl till tillsynsveterinärerna i Helsingfors.",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
             ],
@@ -33871,6 +33883,7 @@
         "en": {
             "id": 5688,
             "exact_descriptions": [
+                9990
             ],
             "service_id": 11111,
             "type": "ADVICE",
