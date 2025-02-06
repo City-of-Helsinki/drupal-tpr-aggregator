@@ -3474,7 +3474,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Elintarvikeneuvonnan sähköpostiosoite",
-                    "information": "Ole yhteydessä elintarvikeneuvontaan.",
+                    "information": "Lähetä sähköpostia Helsingin elintarvikeneuvonnalle.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -3489,7 +3489,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Lue lisää elintarvikeneuvonnasta",
-                            "url": "https:\/\/www.hel.fi\/elintarviketoiminta"
+                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/elintarvikeneuvonta-0"
                         }
                     ],
                     "availabilities": [
@@ -3531,6 +3531,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Advisory service on food issues, email address",
+                    "information": "Send e-mail to Helsinki City´s advisory service on food issues.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -3542,6 +3543,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Read more about advisory service on food issues",
+                            "url": "https:\/\/www.hel.fi\/en\/decision-making\/advisory-service-on-food-issues"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -3582,6 +3588,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Livsmedelsrådgivningens e-postadress",
+                    "information": "Skicka ett mejl till Helsingfors livsmedelsrådgivning.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -3593,6 +3600,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Läs mer om livsmedelsrådgivning",
+                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/livsmedelsradgivning"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -3638,7 +3650,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Elintarvikeneuvonnan sähköpostiosoite",
-                    "information": "Elintarvikeneuvonnan sähköpostiosoite",
+                    "information": "Lähetä sähköpostia Helsingin elintarvikeneuvonnalle.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -3650,6 +3662,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää elintarvikeneuvonnasta",
+                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/elintarvikeneuvonta-0"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -3699,7 +3716,8 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Vientitodistukset elintarvikkeiden vientiä varten",
-                    "email": "elintarviketurvallisuus@hel.fi",
+                    "information": "Jos tarvitset vientitodistuksen, lähetä sähköpostia.",
+                    "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -3712,7 +3730,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Lue lisää Helsingin sivuilta",
+                            "title": "Lue lisää elintarvikkeiden vientitodistuksista",
                             "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/yritykset-ja-yrittajat\/yritysten-luvat-ja-tilat\/elintarviketoiminta\/elintarvikkeiden-vienti-ja-tuonti",
                             "file_format": "HTML"
                         }
