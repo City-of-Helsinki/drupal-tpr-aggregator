@@ -29346,6 +29346,7 @@
         "fi": {
             "id": 5117,
             "exact_descriptions": [
+                4200,
                 9024
             ],
             "service_id": 10876,
@@ -29402,10 +29403,8 @@
             "id": 1958,
             "exact_descriptions": [
                 4199,
-                4200,
                 4201,
-                4202,
-                4204
+                4202
             ],
             "service_id": 10030,
             "type": "ENROLLMENT",
@@ -29466,10 +29465,8 @@
             "id": 1958,
             "exact_descriptions": [
                 4199,
-                4200,
                 4201,
-                4202,
-                4204
+                4202
             ],
             "service_id": 10030,
             "type": "ENROLLMENT",
@@ -29526,10 +29523,8 @@
             "id": 1958,
             "exact_descriptions": [
                 4199,
-                4200,
                 4201,
-                4202,
-                4204
+                4202
             ],
             "service_id": 10030,
             "type": "ENROLLMENT",
@@ -54624,8 +54619,8 @@
             "type": "PERMISSION",
             "name": "Tutkimuslupahakemus, asiointipalvelu",
             "description": "Tutkimuslupaa haetaan sähköisellä lomakkeella.",
-            "process_description": "Täytä sähköinen hakulomake ja lähetä se. \n\nHelsingin kaupungin kirjaamo vastaanottaa tutkimuslupahakemukset, minkä jälkeen ne ohjautuvat \nkasvatuksen ja koulutuksen toimialan tutkimuslupavalmistelijalle. \n\nSaat tutkimuslupapäätöksen sähköpostitse, postitse tai Suomi.fi-palveluun.\n",
-            "processing_time": "Tutkimuslupahakemuksen käsittelyaika on pääsääntöisesti 2 viikkoa - 4 viikkoa. ",
+            "process_description": "Täytä sähköinen hakulomake ja lähetä se. \n\nHelsingin kaupungin kirjaamo vastaanottaa tutkimuslupahakemukset, minkä jälkeen ne ohjautuvat kasvatuksen ja koulutuksen toimialan tutkimuslupavalmistelijalle. \n\nSaat tutkimuslupapäätöksen sähköpostitse, postitse tai Suomi.fi-palveluun.\n",
+            "processing_time": "Tutkimuslupahakemuksen käsittelyaika on pääsääntöisesti 2 viikkoa - 4 viikkoa. Puutteellisesti täytetyt hakemukset viivästyttävät käsittelyä.",
             "expiration_time": "Hakemus on voimassa kunnes päätös on tehty.",
             "information": "Tiedustelut puh. 09 310 78018",
             "provided_languages": [
@@ -54658,6 +54653,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tutkimuslupahakemus, sähköinen palvelu",
+                    "prerequisites": "Sähköinen tunnistautuminen",
                     "information": "Lomaketta ei voi tallentaa keskeneräisenä, vaan se tulee täyttää kokonaan kerralla.",
                     "provided_languages": [
                     ],
@@ -54674,6 +54670,11 @@
                             "title": "Tutkimuslupahakemus",
                             "url": "https:\/\/lomake.hel.fi\/tutkimuslupahakemus_kasko",
                             "file_format": "HTML"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Tutkimusluvan hakuohje (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kasko\/yhteiset\/tutkimusluvan_hakuohje_kasko_2025.pdf"
                         }
                     ],
                     "availabilities": [
@@ -54718,7 +54719,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
                     "name": "Research permit application, forms",
-                    "prerequisites": "The study must be of use to the City of Helsinki Education Sector. The targeted organisation and the subjects must be willing to participate in the study. If schools are studied, the schools in question and their principals must be consulted regarding the cooperation before applying for the research permit.\nResearch permits are, as a rule, not granted for commercial studies. Commercial studies that offer obvious benefits for the school or the administrative authority form an exception to this rule. The requirements of the Act on the Openness of Government Activities are followed for commercial register studies. Personal information may be given out from registers maintained by authorities for commercial studies only if the person in question has given consent to do so (Section 16.3 of the Act on the Openness of Government Activities).\nThe study must be approved by the principal of the school in advance. If the permit application applies to a large number of schools, the body responsible for the permits may take a stand in the matter. After this, the principals of each school can estimate the possibility of the school to participate.\nIf the study involves children under the age of 15, their guardians must be notified and their consent requested for participation in the study performed at the school. The consent must be explicit. The notification to the homes must state clearly what kind of study is being performed. The guardians can then decide whether to consent to their child participating. If the guardian denies consent, the child in question cannot participate in the study.\nStudents that have turned 15 can participate in studies performed at their school without consent from their guardian. Children of 15 years of age or older can decide themselves whether to participate. In this case, the guardians only need to be informed of the study in advance.",
+                    "prerequisites": "To submit the application, you are asked to identify with online banking credentials, Mobile ID or an ID card with a chip. Identification will be your online signature on the application.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -54750,8 +54751,8 @@
             "type": "PERMISSION",
             "name": "Ansökan om forskningstillstånd, e-tjänst",
             "description": "En tjänst där man kan ansöka om tillstånd för en forskning som gäller fostrans- och utbildningssektorn.",
-            "process_description": "1. Fostrans- och utbildningssektorn tar emot ansökan. \n2. Man går igenom ansökan och gör ett beslutsförslag. Om forskningen gäller två eller flera avdelningar vid fostrans- och utbildningssektorn, ska även beslutsfattaren vid avdelningen i fråga fylla i fältet för förordnande. Därefter tar sektorchefen ställning till huruvida han eller hon godkänner ansökan. \n3. Beslutsfattaren vid fostrans- och utbildningssektorn fattar beslut om huruvida tillstånd beviljas eller inte. \n4. Den sökande får besked om beslutet till ärendehanteringsmappen i stadens e-tjänster (asiointi.hel.fi).",
-            "processing_time": "Behandlingen av tillståndet kan ta upp till en månad. Om ansökan har fyllts i bristfälligt eller om alla nödvändiga bilagor inte har lämnats in kan behandlingen fördröjas. ",
+            "process_description": "Fylla i och skicka ansökningsblanketten. Skicka ansökan jämte bilagor till Helsingfors stads registratorskontor elektroniskt eller i pappersform:\n\nHelsingfors stad, Registratorskontor, sektorn för fostran och utbildning\nPB 10, 00099 Helsingfors stad\nBesöksadress: Stadshuset, Norra Esplanaden 11-13, 00170 Helsingfors\nhelsinki.kirjaamo@hel.fi\nDu kan skicka säker e-post till helsinki.kirjaamo@hel.fi på adressen https:\/\/securemail.hel.fi\/ \n\nBeslutet om forskningstillstånd skickas till den sökande via e-post eller per post. Beslut utan bilagor publiceras på stadens webbplats \n.",
+            "processing_time": "Ansökningarna behandlas i ankomstordning, vanligtvis inom 2-4 veckor efter att ansökan inkommit. Om ansökan är bristfällig eller bilagor saknas kommer handläggningen att bli fördröjd. ",
             "expiration_time": "Ansökan gäller tills beslutet har fattats.",
             "provided_languages": [
                 "fi",
@@ -54778,7 +54779,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
                     "name": "Ansökan om forskningstillstånd, blanketter",
-                    "prerequisites": "Forskningen ska vara till nytta för sektorn för fostran och utbildning i Helsingfors stad. Förutsättningen är att målorganisationen och målpersonerna ger sitt samtycke till forskningen. Om forskningen gäller en skola\/skolor, ska man preliminärt förhandla och komma överens om forskningssamarbetet med skolans eller läroanstaltens rektor redan innan man ansöker om forskningstillstånd.\nForskningstillstånd beviljas i regel inte för kommersiella forskningar. Ett undantag utgör de kommersiella forskningar som är till uppenbar nytta för läroanstalten eller den administrerande myndigheten. I fråga om kommersiella registerforskningar går man tillväga på det sätt som förutsätts i offentlighetslagen. Ur en myndighets personregister kan personuppgifter lämnas ut för kommersiella forskningar endast med den registrerades samtycke (OffL 16.3 §).\nMan ska komma överens om forskningen med rektorn eller motsvarande innan man ansöker om forskningstillstånd. Om tillståndsansökan gäller ett stort antal skolor kan aktören som fattar beslut om tillståndet direkt ta ställning till ansökan. Därefter bedömer rektorn huruvida skolan har möjlighet att delta i forskningen.\nVårdnadshavare till elever under 15 år ska ge sitt samtycke till deltagande i en forskning i skolan. Samtycket ska vara uttryckligt. Av ett meddelande om forskningen ska tillräckligt tydligt framgå en hurdan forskning det är fråga om. Utifrån detta kan vårdnadshavaren avgöra om han eller hon ger sitt samtycke eller inte. Om vårdnadshavaren inte ger sitt samtycke, kan eleven i fråga inte delta i forskningen.\nEfter att eleven har fyllt 15 år kan han eller hon delta i en forskning i skolan utan vårdnadshavarens samtycke. Elever som fyllt 15 år får själv avgöra om de vill delta i en forskning eller inte. Då räcker det att vårdnadshavarna informeras om forskningen på förhand.",
+                    "prerequisites": "För att sända blanketten måste du identifiera dig med nätbankskoder, Mobil ID eller med ett identitetskort med chip. Identifieringen fungerar som underskrift för blanketten.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
