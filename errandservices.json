@@ -16222,6 +16222,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Ota yhteyttä Viikin löytöeläintaloon sähköpostitse",
+                    "information": "Jos olet kadottanut tai löytänyt lemmikkieläimen ilman omistajaa​, ota yhteyttä Viikin löytöeläintaloon.​",
                     "email": " viikki@hesy.fi ",
                     "provided_languages": [
                     ],
@@ -16233,6 +16234,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lisätietoa löytöeläimistä",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/elainten-suojelu-ja-terveys\/loytoelaimet"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16310,6 +16316,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Contact the Viikki Animal Shelter by email",
+                    "information": "If you have lost a pet found a pet without an owner, contact the Viikki Animal Shelter.",
                     "email": " viikki@hesy.fi ",
                     "provided_languages": [
                     ],
@@ -16321,6 +16328,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "More information about lost and found animals",
+                            "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/tpr-service\/9674"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16398,6 +16410,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Kontakta hittedjurshuset i Vik per e-post",
+                    "information": "Om du har tappat bort eller hittat ett sällskapsdjur utan ägare, kontakta hittedjurshuset i Vik.",
                     "email": " viikki@hesy.fi ",
                     "provided_languages": [
                     ],
@@ -16409,6 +16422,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Mer information om hittedjur",
+                            "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/tpr-service\/9674"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16662,6 +16680,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Lähetä valvontaeläinlääkärille sähköpostia",
+                    "information": "Ilmoita kuolleesta luonnonvaraisesta eläimestä tai lemmikin laittomasta maahantuonnista Helsingin kaupungin valvontaeläinlääkärille.",
                     "email": " kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
@@ -16673,6 +16692,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää eläintautivalvonnasta",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/elainten-suojelu-ja-terveys\/elaintautivalvonta"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16733,6 +16757,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Inform the supervising veterinarians by email",
+                    "information": "Report deceased wild animals or illegal pet import to the City of Helsinki's supervising veterinarians.",
                     "email": " kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
@@ -16744,6 +16769,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Read more about animal dicease control",
+                            "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/tpr-service\/9675"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16804,6 +16834,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Anmäl till tillsynsveterinärerna per e-post",
+                    "information": "Om du hittar döda vilda djur eller misstänker olaglig import av sällskapsdjur anmäl till tillsynsveterinärerna i Helsingfors.",
                     "email": " kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
@@ -16815,6 +16846,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Läs mer om tillsyn över djursjukdomar",
+                            "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/tpr-service\/9675"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -52155,8 +52191,9 @@
                     "id": 4014,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Sähköpostitse",
-                    "email": "kymp.terveydensuojelu@hel.fi",
+                    "name": "Asumisterveyden neuvonnan sähköposti",
+                    "information": "Ympäristöpalveluiden asumisterveystiimi neuvoo sinua kodin tuholaisiin liittyen.",
+                    "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -52167,6 +52204,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää asumisterveyden neuvonnasta",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/asuminen-ja-terveys\/asumisterveysneuvonta"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -52229,8 +52271,9 @@
                     "id": 4014,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "By email",
-                    "email": "kymp.terveydensuojelu@hel.fi",
+                    "name": "Housing health advisory service, email",
+                    "information": "The Housing Health Team of Environmental Services advises you on matters related to household pests.",
+                    "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -52241,6 +52284,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Link to housing health advisory service",
+                            "url": "https:\/\/www.hel.fi\/en\/housing\/housing-and-health\/housing-health-advisory-service"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -52303,8 +52351,9 @@
                     "id": 4014,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
-                    "name": "Per e-post",
-                    "email": "kymp.terveydensuojelu@hel.fi",
+                    "name": "Rådgivning om boendehälsa, e-post",
+                    "information": "Miljötjänsternas team för boendehälsa ger dig råd kring problem med skadedjur i hemmet.",
+                    "email": "kymp.asumisterveys@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -52315,6 +52364,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Länk till rådgivning om boendehälsa",
+                            "url": "https:\/\/www.hel.fi\/sv\/boende\/boende-och-halsa\/radgivning-om-boendehalsa"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -54569,9 +54623,9 @@
             "service_id": 10195,
             "type": "PERMISSION",
             "name": "Tutkimuslupahakemus, asiointipalvelu",
-            "description": "Kasvatuksen ja koulutuksen toimialalla ei ole käytössä sähköistä asiointipalvelua tutkimuslupahakemuksissa. Lisätietoja tutkimusluvan hakemisesta saa kasvatuksen ja koulutuksen toimialan verkkosivuilta (linkki ohessa).",
-            "process_description": "1. Kasvatuksen ja koulutuksen toimiala vastaanottaa hakemuksen.\n2. Hakemus käydään läpi ja tehdään päätösesitys. Jos tutkimus koskee kahta tai useampia kasvatuksen ja koulutuksen toimialan osastoa, puoltokohdan täyttää myös ao. osaston päätöksentekijä, minkä jälkeen toimialajohtaja ottaa kantaa siihen, hyväksyykö hän hakemuksen.\n3. Kasvatuksen ja koulutuksen toimialan päätöksentekijä tekee päätöksen luvan myöntämisestä.\n4. Päätöksestä ilmoitetaan hakijalle sähköpostitse tai postitse.",
-            "processing_time": "Tutkimusluvan käsittely kestää enimmillään kuukauden. Jos hakemus on puutteellisesti täytetty tai kaikkia tarpeellisia liitteitä ei ole toimitettu, voi käsittely viivästyä.",
+            "description": "Tutkimuslupaa haetaan sähköisellä lomakkeella.",
+            "process_description": "Täytä sähköinen hakulomake ja lähetä se. \n\nHelsingin kaupungin kirjaamo vastaanottaa tutkimuslupahakemukset, minkä jälkeen ne ohjautuvat \nkasvatuksen ja koulutuksen toimialan tutkimuslupavalmistelijalle. \n\nSaat tutkimuslupapäätöksen sähköpostitse, postitse tai Suomi.fi-palveluun.\n",
+            "processing_time": "Tutkimuslupahakemuksen käsittelyaika on pääsääntöisesti 2 viikkoa - 4 viikkoa. ",
             "expiration_time": "Hakemus on voimassa kunnes päätös on tehty.",
             "information": "Tiedustelut puh. 09 310 78018",
             "provided_languages": [
@@ -54591,6 +54645,11 @@
                     "type": "INTERNET",
                     "title": "Tutkimusluvat kasvatuksen ja koulutuksen toimialalla",
                     "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/tietoa-helsingista\/tutkimusluvat\/kasvatuksen-ja-koulutuksen-toimialaan-liittyvat-tutkimukset"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Tutkimusluvan hakuohje (pdf)",
+                    "url": "https:\/\/www.hel.fi\/static\/kasko\/yhteiset\/tutkimusluvan_hakuohje_kasko_2025.pdf"
                 }
             ],
             "channels": [
@@ -54598,8 +54657,8 @@
                     "id": 1667,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tutkimuslupahakemus, lomakkeet",
-                    "prerequisites": "Tutkimuksen tulee hyödyttää Helsingin kaupungin kasvatuksen ja koulutuksen toimialaa. Edellytyksenä on, että kohdeorganisaatio ja kohdehenkilöt suostuvat tutkimukseen. Jos tutkimus koskee jotakin\/joitakin kouluja, tutkimusyhteistyöstä tulee alustavasti neuvotella ja sopia ensin koulun tai oppilaitoksen rehtorin kanssa jo ennen tutkimusluvan anomista.\nPääsääntöisesti kaupallisiin tutkimuksiin ei myönnetä tutkimuslupaa. Poikkeuksena kaupalliset tutkimukset, joista hyöty on ilmeinen oppilaitokselle tai hallinnoivalle viranomaiselle. Kaupallisten rekisteritutkimusten kanssa toimitaan julkisuuslain edellyttämällä tavalla. Viranomaisten henkilörekisteristä voidaan luovuttaa henkilötietoja kaupallisiin tutkimuksiin ainoastaan henkilön suostumuksella (JulkL 16.3 §).\nTutkimuksen tekemisestä on sovittava ennen tutkimuslupahakemusta rehtorin tai vastaavan kanssa. Jos lupahakemus koskee suurta määrää kouluja, kannan voi ottaa suoraan luvasta päättävä taho, jonka jälkeen rehtori arvioi oman koulunsa mahdollisuuden osallistua tutkimukseen.\nAlle 15-vuotiaiden oppilaiden huoltajilta pyydetään suostumus koulussa tapahtuvaan tutkimukseen osallistumiseen. Suostumuksen tulee olla nimenomainen. Tutkimusta koskevasta tiedotteesta tulee riittävän selvästi ilmetä, millaisesta tutkimuksesta on kysymys. Tämän perusteella huoltaja voi ratkaista, antaako hän luvan vai ei. Jos huoltaja ei anna lupaa, kyseinen oppilas ei voi osallistua tutkimukseen.\nTäytettyään 15 vuotta oppilas voi osallistua koulussa tehtävään tutkimukseen ilman huoltajan suostumusta. Viisitoista vuotta täyttänyt oppilas ratkaisee itse, osallistuuko hän tutkimukseen. Tällöin riittää, että huoltajia tiedotetaan etukäteen tutkimuksesta.",
+                    "name": "Tutkimuslupahakemus, sähköinen palvelu",
+                    "information": "Lomaketta ei voi tallentaa keskeneräisenä, vaan se tulee täyttää kokonaan kerralla.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -54613,8 +54672,8 @@
                         {
                             "type": "FORM",
                             "title": "Tutkimuslupahakemus",
-                            "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/tutkimuslupahakemus.pdf",
-                            "file_format": "PDF"
+                            "url": "https:\/\/lomake.hel.fi\/tutkimuslupahakemus_kasko",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -58198,6 +58257,7 @@
             "service_id": 10138,
             "type": "APPOINTMENT",
             "name": "Varaa eläimen vientitarkastus",
+            "description": "Virkaeläinlääkäri myöntää lemmikille terveystodistuksen maahan tuloa varten, jos todistus tarvitaan EU:n ulkopuolelle matkustettaessa. Meiltä saat neuvontaa vaatimusten toteuttamiseksi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -58242,6 +58302,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Kysy vientitarkastuksesta sähköpostitse",
+                    "information": "Kysy eläinten vientitarkastuksesta sähköpostitse.",
                     "email": "kymp.elaintenvienti@hel.fi",
                     "provided_languages": [
                     ],
@@ -58253,6 +58314,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue lisää eläinten viestitodistuksista",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/elainten-suojelu-ja-terveys\/elainten-vientitodistukset"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -58267,6 +58333,7 @@
             "service_id": 10138,
             "type": "APPOINTMENT",
             "name": "Book an appointment for an animal's export examination",
+            "description": "An official veterinarian can grant a health certificate for an animal entering another country if a certificate is needed when travelling outside the EU. We can provide you with advice for fulfilling those requirements.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -58311,6 +58378,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Ask about export examination by email",
+                    "information": "Ask about export examination for animals by email.",
                     "email": "kymp.elaintenvienti@hel.fi",
                     "provided_languages": [
                     ],
@@ -58322,6 +58390,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Read more about export certifications for animals",
+                            "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/import-and-export-of-animals"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -58336,6 +58409,7 @@
             "service_id": 10138,
             "type": "APPOINTMENT",
             "name": "Boka en tid för exportintyg för djur",
+            "description": "En officiell veterinär beviljar ett djurhälsointyg för sällskapsdjur för införsel i ett land, om intyget behövs vid resa utanför EU. Vi ger dig råd om hur du uppfyller kraven. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -58380,6 +58454,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Fråga om exportintyg per e-post",
+                    "information": "Fråga om exportintyg för djur per e-post.",
                     "email": "kymp.elaintenvienti@hel.fi",
                     "provided_languages": [
                     ],
@@ -58391,6 +58466,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Läs mer om exportintyg för djur",
+                            "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/import-och-export-av-djur-frantill-utlandet"
+                        }
                     ],
                     "availabilities": [
                     ]
