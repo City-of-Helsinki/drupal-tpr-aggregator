@@ -3473,7 +3473,7 @@
                     "id": 3542,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Elintarvikeneuvonnan sähköpostiosoite",
+                    "name": "Elintarvikeneuvonnan sähköposti",
                     "information": "Lähetä sähköpostia Helsingin elintarvikeneuvonnalle.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
@@ -14901,6 +14901,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Hitas-asioiden neuvonnan sähköpostiosoite",
+                    "information": "Lähetä sähköpostia Hitas asioiden neuvontaan.",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -14912,6 +14913,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Hitas asioiden neuvonta",
+                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/hitas-asioiden-neuvonta"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -16223,7 +16229,7 @@
                     "type_string": "Sähköposti",
                     "name": "Ota yhteyttä Viikin löytöeläintaloon sähköpostitse",
                     "information": "Jos olet kadottanut tai löytänyt lemmikkieläimen ilman omistajaa​, ota yhteyttä Viikin löytöeläintaloon.​",
-                    "email": " viikki@hesy.fi ",
+                    "email": "viikki@hesy.fi ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -16317,7 +16323,7 @@
                     "type_string": "E-mail",
                     "name": "Contact the Viikki Animal Shelter by email",
                     "information": "If you have lost a pet found a pet without an owner, contact the Viikki Animal Shelter.",
-                    "email": " viikki@hesy.fi ",
+                    "email": "viikki@hesy.fi ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -16411,7 +16417,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Kontakta hittedjurshuset i Vik per e-post",
                     "information": "Om du har tappat bort eller hittat ett sällskapsdjur utan ägare, kontakta hittedjurshuset i Vik.",
-                    "email": " viikki@hesy.fi ",
+                    "email": "viikki@hesy.fi ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -16681,7 +16687,7 @@
                     "type_string": "Sähköposti",
                     "name": "Lähetä valvontaeläinlääkärille sähköpostia",
                     "information": "Ilmoita kuolleesta luonnonvaraisesta eläimestä tai lemmikin laittomasta maahantuonnista Helsingin kaupungin valvontaeläinlääkärille.",
-                    "email": " kymp.elainsuojelu@hel.fi",
+                    "email": "kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -16758,7 +16764,7 @@
                     "type_string": "E-mail",
                     "name": "Inform the supervising veterinarians by email",
                     "information": "Report deceased wild animals or illegal pet import to the City of Helsinki's supervising veterinarians.",
-                    "email": " kymp.elainsuojelu@hel.fi",
+                    "email": "kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -16835,7 +16841,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Anmäl till tillsynsveterinärerna per e-post",
                     "information": "Om du hittar döda vilda djur eller misstänker olaglig import av sällskapsdjur anmäl till tillsynsveterinärerna i Helsingfors.",
-                    "email": " kymp.elainsuojelu@hel.fi",
+                    "email": "kymp.elainsuojelu@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -21178,6 +21184,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Lähetä viesti kansainvälisen rekrytoinnin työnantajaneuvontaan",
+                    "information": "Lähetä sähöpostia kansainvälisen rekrytoinnin työnantajaneuvontaan.",
                     "email": "tyollisyyspalvelut.kvrekry@hel.fi",
                     "provided_languages": [
                     ],
@@ -35439,7 +35446,7 @@
                     "id": 3967,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Puhelinnumero",
+                    "name": "Asiantuntijan puhelinnumero",
                     "phone": "+358 9 310 60699",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -38606,6 +38613,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Lähetä viesti yritys- ja työnantaja-asiakkaan palveluille",
+                    "information": "Lähetä sähköpostia yritys- ja työnantaja-asiakkaan palveluille.",
                     "email": "neuvonta.tyonantajat@hel.fi",
                     "provided_languages": [
                     ],
@@ -38976,6 +38984,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Lähetä sähköposti muutosturva-asiantuntijalle",
+                    "information": "Helsingin työllisyyspalveluiden muutosturva-asiantuntijat neuvovat työnantajia ja yrityksiä.",
                     "email": "muutosturva@hel.fi",
                     "provided_languages": [
                     ],
@@ -38987,6 +38996,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Neuvonta ja tuki muutos-​ ja irtisanomistilanteissa",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat\/irtisanomis-ja-lomautustilanteet-tyopaikalla\/neuvonta-ja-tuki-muutos-ja-irtisanomistilanteissa"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -49364,6 +49378,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköposti",
+                    "information": "Lähetä sähköpostia alueiden käytön tarkastajalle.",
                     "email": "ulkoilma@hel.fi",
                     "provided_languages": [
                     ],
@@ -49375,6 +49390,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ketterän kioskin perustaminen ja käyttöoikeudet",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/ketteran-kioskin-perustaminen-ja-kayttooikeudet"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -60273,6 +60293,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköpostineuvonta",
+                    "information": "Lähetä sähköpostia venepaikojen neuvontaan.",
                     "email": "venepaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -60284,6 +60305,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Venepaikkojen yhteystiedot ja vikailmoitukset",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/veneily\/yhteystiedot-ja-vikailmoitukset"
+                        }
                     ],
                     "availabilities": [
                     ]
