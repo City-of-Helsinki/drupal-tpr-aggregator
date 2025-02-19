@@ -45267,7 +45267,7 @@
                     "id": 3813,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Ajanvaraus ja neuvonta",
+                    "name": "Asiakaspalvelu ja neuvonta",
                     "availability_summary": "Avoinna ma-ti, to-pe 09-11, ma-ti, to-pe 12-14",
                     "phone": "09 3104 3929",
                     "call_charge_info": "maksuton",
@@ -46392,13 +46392,13 @@
                         {
                             "type": "INTERNET",
                             "title": "Hakemus toiminnan hyväksymiseksi (PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL11Laitos.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/laitoshakemus.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
                             "title": "Hakemus toiminnan hyväksymiseksi (Word)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL11Laitos.doc",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/laitoshakemus.docx",
                             "file_format": "WORD"
                         }
                     ],
@@ -46524,13 +46524,13 @@
                         {
                             "type": "INTERNET",
                             "title": "Ansökan om godkännande av verksamhet (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL11Laitos_sv.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/laitoshakemus_sv.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
                             "title": "Ansökan om godkännande av verksamhet (Word)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymkEL11Laitos_sv.doc",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/laitoshakemus_sv.docx",
                             "file_format": "WORD"
                         }
                     ],
@@ -47535,6 +47535,12 @@
                             "title": "Ilmoitus alkutuotannosta (PDF)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_ilmoitus_alkutuotantopaikasta.pdf",
                             "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoitus alkutuotannosta (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/alkutuotantopaikkailmoitus.docx",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
@@ -47683,6 +47689,12 @@
                             "title": "Anmälan om primärproduktion (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_alkutuotantopaikka_ilm_sv.pdf",
                             "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmälan om primärproduktion (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/alkutuotantopaikkailmoitus_sv.docx",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
