@@ -36196,7 +36196,8 @@
                 9835,
                 9854,
                 9870,
-                9879
+                9879,
+                10006
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -36391,7 +36392,8 @@
                 9826,
                 9835,
                 9854,
-                9879
+                9879,
+                10006
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -36586,7 +36588,8 @@
                 9826,
                 9835,
                 9854,
-                9879
+                9879,
+                10006
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -56009,267 +56012,6 @@
                             "title": "Bläddra lediga bostäder (på finska)",
                             "url": "https:\/\/kymp-markkinointihaku.etampuuri.fi\/?asumismuoto=tyosuhde"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 2358,
-        "fi": {
-            "id": 2358,
-            "exact_descriptions": [
-                6361
-            ],
-            "service_id": 10732,
-            "type": "ENROLLMENT",
-            "name": "Työväenopiston kurssi-ilmoittautuminen",
-            "description": "Ilmonet, sähköinen kurssihaku ja ilmoittautuminen pääkaupunkiseudun kansalais- ja työväenopistoihin.",
-            "process_description": "Ilmonetin kautta voit hakea kursseja ainealan, opetuspaikan tai vaikka hakusanan avulla. Näet ajantasaiset tiedot kursseista sekä kurssipaikkatilanteen.\n\nKurssille ilmoittautuminen edellyttää ensimmäisellä kerralla tunnistautumista pankkitunnuksilla ja rekisteröitymistä. Sen jälkeen asiakas saa käyttäjätunnuksen ja salasanan, joilla voi kirjautua palveluun ilman pankkitunnuksia.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Tietoa ilmoittautumisesta",
-                    "url": "https:\/\/tyovaenopisto.hel.fi\/kurssit-ja-ilmoittautuminen\/ilmoittautuminen\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1465,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Ilmonet, sähköinen kurssihaku ja ilmoittautuminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/ilmonet.fi\/#fi",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Palaute työväenopistolle",
-                            "url": "https:\/\/palautteet.hel.fi\/fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1628,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Työväenopiston ilmoittautuminen",
-                    "phone": "09 310 88610",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 2358,
-            "exact_descriptions": [
-                6361
-            ],
-            "service_id": 10732,
-            "type": "ENROLLMENT",
-            "name": "Adult Education Institutes, online enrolment",
-            "description": "Ilmonet, course listings and online enrolment to the Finnish Adult Education Institute.",
-            "process_description": "To be able to enrol to courses please register as an Ilmonet user by using your personal online banking ID. After that you can create your own username and password for Ilmonet service.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Information about registration",
-                    "url": "https:\/\/tyovaenopisto.hel.fi\/en\/courses-and-registration\/registration\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1465,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Ilmonet, course listings and online enrolment",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Go to the e-service",
-                            "url": "https:\/\/ilmonet.fi\/#en",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Feedback to the Finnish Adult Education Centre",
-                            "url": "https:\/\/palautteet.hel.fi\/en\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1628,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Enrolment",
-                    "phone": "09 310 88610",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 2358,
-            "exact_descriptions": [
-                6361
-            ],
-            "service_id": 10732,
-            "type": "ENROLLMENT",
-            "name": "Finska arbetarinstitutets kursanmälning",
-            "description": "Ilmonet, elektronisk kurssökning och anmälning till huvudstadsregionens medborgar- och arbetarinstitut.",
-            "process_description": "Ilmonet, elektronisk kurssökning och anmälning till huvudstadsregionens medborgar- och arbetarinstitut.\n\nFör att anmäla dig till kurser via Ilmonet måste du först registrera dig som användare med dina nätbankskoder. Då får du användarnamn och lösenord så att du sedan kan anmäla dig till kurser.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Information on anmälan",
-                    "url": "https:\/\/tyovaenopisto.hel.fi\/sv\/kurser-och-anmalningar\/anmalan\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 1465,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ilmonet, elektronisk kurssökning och anmälning",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gå till e-tjänsten",
-                            "url": "https:\/\/ilmonet.fi\/#sv\/search\/com=4",
-                            "file_format": "HTML"
-                        },
-                        {
-                            "type": "FEEDBACK",
-                            "title": "Respons till finska arbetarinstitutet",
-                            "url": "https:\/\/palautteet.hel.fi\/sv\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 1628,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Finska arbetarinstitutet, anmälning",
-                    "phone": "09 310 88610",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
