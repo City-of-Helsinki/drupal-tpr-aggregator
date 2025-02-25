@@ -44624,35 +44624,11 @@
             ],
             "channels": [
                 {
-                    "id": 3814,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Sosiaalisen luoton hakulomake",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Avaa ja täytä tulostettava lomake",
-                            "url": "https:\/\/www.hel.fi\/static\/sote\/velka\/303-860_soluhakemus.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 3815,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sosiaalisen luototuksen sähköpostiosoite",
+                    "information": "Emme ota vastaa hakemuksia sähköpostilla. Ethän lähetä salassa pidettäviä tietoja suojaamattomassa sähköpostissa.",
                     "email": "sosiaalinen.luototus@hel.fi   ",
                     "provided_languages": [
                     ],
@@ -44664,6 +44640,30 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4336,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Sähköinen yhteydenottopyyntö Maisan kautta",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/maisa.fi\/maisa\/Authentication\/Login?"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -44697,10 +44697,11 @@
             ],
             "channels": [
                 {
-                    "id": 3814,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Ansökningsblankett för social kredit",
+                    "id": 3815,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postadress för social kreditgivning",
+                    "email": "sosiaalinen.luototus@hel.fi   ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -44711,25 +44712,17 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Öppna och fyll i det utskrivbara formuläret",
-                            "url": "https:\/\/www.hel.fi\/static\/sote\/velka\/303-860_soluhakemus.pdf",
-                            "file_format": "PDF"
-                        }
                     ],
                     "availabilities": [
                     ]
                 },
                 {
-                    "id": 3815,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "E-postadress för social kreditgivning",
-                    "email": "sosiaalinen.luototus@hel.fi   ",
+                    "id": 4336,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
                     "provided_languages": [
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
