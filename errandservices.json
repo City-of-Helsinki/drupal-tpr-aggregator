@@ -27446,6 +27446,7 @@
             "id": 5668,
             "exact_descriptions": [
                 4215,
+                9934,
                 9951
             ],
             "service_id": 10030,
@@ -27502,6 +27503,7 @@
             "id": 5668,
             "exact_descriptions": [
                 4215,
+                9934,
                 9947,
                 9951
             ],
@@ -27559,6 +27561,7 @@
             "id": 5668,
             "exact_descriptions": [
                 4215,
+                9934,
                 9947,
                 9951
             ],
@@ -29576,6 +29579,174 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5667,
+        "fi": {
+            "id": 5667,
+            "exact_descriptions": [
+                9934
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikuntapaikkojen järjestyssäännöt ja ohjeet",
+            "description": "Löydät kaupungin liikuntapaikkoja koskevat järjestyssäännöt ja ohjeet oheiselta verkkosivulta.\n\n",
+            "process_description": "Löydät kaupungin liikuntapaikkoja koskevat järjestyssäännöt ja ohjeet oheiselta verkkosivulta:\n- Liikuntapaikkojen yleiset järjestyssäännöt\n- Liikuntasalien yleiset järjestyssäännöt\n- Ulkoilualueiden yleiset järjestyssäännöt\n- Uimarantojen ulkoiluohje\n- Uimahallien ja uimaloiden yleiset järjestyssäännöt\n- Uimapukuohjeistus Helsingin kaupungin uimahalleissa\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4298,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tutustu sääntöihin ja ohjeisiin verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tutustu sääntöihin ja ohjeisiin verkkosivuilla",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/maaraykset-ja-ohjeet"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5667,
+            "exact_descriptions": [
+                9934
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "General rules and guidelines for sports facilities",
+            "description": "You can find the general rules and guidelines for the city's sports facilities on the website below.\n\n",
+            "process_description": "You can find the general rules and guidelines for the city's sports facilities on the website below:\n- General rules for sports facilities\n- General rules for gymnasiums\n- General rules for outdoor recreation areas\n- Outdoor activities guide for beaches\n- General rules for swimming halls (indoor swimming pools) and outdoor swimming pools\n- Swimsuit guidelines for the City of Helsinki's swimming halls (indoor swimming pools)\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4298,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "View the rules and guidelines on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "View the rules and guidelines on the website",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/regulations-and-instructions"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5667,
+            "exact_descriptions": [
+                9934
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Ordningsreglerna och anvisningarna för idrottsplatser",
+            "description": "Ordningsreglerna och anvisningarna för stadens idrottsplatser hittar du på den länkade webbplatsen.\n\n",
+            "process_description": "Ordningsreglerna och anvisningarna för stadens idrottsplatser hittar du på webbplatsen:\n- Allmänna ordningsregler för idrottsplatser\n- Allmänna ordningsregler för gymnastiksalar\n- Allmänna ordningsregler för friluftsområden\n- Friluftslivsanvisningar för badstränder\n- Allmänna ordningsregler för simhallar och friluftsbad\n- Anvisningar om baddräkter i Helsingfors stads simhallar\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4298,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bekanta dig med reglerna och anvisningarna på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bekanta dig med reglerna och anvisningarna på webbplatsen",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bestammelser-och-anvisningar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 1958,
@@ -44801,7 +44972,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sosiaalisen luototuksen sähköpostiosoite",
-                    "information": "Emme ota vastaa hakemuksia sähköpostilla. Ethän lähetä salassa pidettäviä tietoja suojaamattomassa sähköpostissa.",
+                    "information": "Emme ota vastaan hakemuksia sähköpostilla. Ethän lähetä salassa pidettäviä tietoja suojaamattomassa sähköpostissa.",
                     "email": "sosiaalinen.luototus@hel.fi   ",
                     "provided_languages": [
                     ],
