@@ -27441,6 +27441,179 @@
         }
     },
     {
+        "id": 5668,
+        "fi": {
+            "id": 5668,
+            "exact_descriptions": [
+                4215,
+                9951
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Lainaa liikuntavälineitä kirjastosta",
+            "description": "Monista kirjastoista voi lainata liikuntavälineitä, kuten palloja, mailoja, kävelysauvoja ja luistimia.\n",
+            "process_description": "Monista kirjastoista voi lainata liikuntavälineitä, kuten palloja, mailoja, kävelysauvoja ja luistimia. Tarkista välineiden saatavuus Helmet-kirjastojen verkkopalvelusta. Suuntaa lähimpään kirjastoon, jossa välineitä on saatavilla!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4299,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Liikuntavälineiden saatavuus Helmet-kirjastoissa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Liikuntavälineiden saatavuus Helmet-kirjastoissa",
+                            "url": "https:\/\/helmet.finna.fi\/Search\/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FPhysicalObject%2F%22&filter%5B%5D=%7Ebuilding%3A%221%2FHelmet%2Fh%2F%22&lookfor=Liikuntav%C3%A4lineet&type=AllFields"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5668,
+            "exact_descriptions": [
+                4215,
+                9947,
+                9951
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Borrow sports equipment from libraries",
+            "description": "You can borrow sports equipment such as balls, bats, walking poles and ice skates from many libraries.\n",
+            "process_description": "You can borrow sports equipment such as balls, bats, walking poles and ice skates from many libraries. Check the availability of equipment on the online service for Helmet libraries. Head to the nearest library where the equipment is available!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4299,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Availability of sports equipment at Helmet libraries",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Availability of sports equipment at Helmet libraries",
+                            "url": "https:\/\/helmet.finna.fi\/Search\/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FPhysicalObject%2F%22&filter%5B%5D=%7Ebuilding%3A%221%2FHelmet%2Fh%2F%22&lookfor=Liikuntav%C3%A4lineet&type=AllFields"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5668,
+            "exact_descriptions": [
+                4215,
+                9947,
+                9951
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Låna motionsutrustning i biblioteket",
+            "description": "Många bibliotek har motionsredskap som bollar, klubbor, gångstavar och skridskor.\n",
+            "process_description": "Många bibliotek har motionsredskap som bollar, klubbor, gångstavar och skridskor. Kontrollera tillgängligheten av redskap i nättjänsten för Helmetbiblioteken. Gå på det närmaste biblioteket där redskap finns tillgängligt!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4299,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Tillgängligheten av motionsredskap i Helmetbiblioteken",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tillgängligheten av motionsredskap i Helmetbiblioteken",
+                            "url": "https:\/\/helmet.finna.fi\/Search\/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FPhysicalObject%2F%22&filter%5B%5D=%7Ebuilding%3A%221%2FHelmet%2Fh%2F%22&lookfor=Liikuntav%C3%A4lineet&type=AllFields"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4187,
         "fi": {
             "id": 4187,
