@@ -35285,6 +35285,9 @@
                     "name": "Uusi reseptisi OmaKannassa",
                     "information": "Voit pyytää säännöllisen lääkityksesi reseptin uusimista OmaKannassa, jos resepti on määrätty sinulle terveysasemalta. Kun uusit reseptin OmaKannassa, sinun ei tarvitse olla enää yhteydessä terveysasemalle. Huomaa, että uusimispyynnön käsittely voi kestää kahdeksan vuorokautta. Jos uusimispyyntösi on kiireellinen, ole puhelimitse yhteydessä terveysasemallesi.",
                     "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -35306,10 +35309,114 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5503,
+            "exact_descriptions": [
+                4397
+            ],
+            "service_id": 10771,
+            "type": "OTHER_ESERVICE",
+            "name": "MyKanta",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4059,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Request a renewal of your prescription in MyKanta",
+                    "information": "You can request a prescription renewal for your regular medication in MyKanta if it was prescribed to you by a health station. When you renew your prescription in MyKanta, you do not need to contact your health station separately. Please note that processing your renewal request may take up to eight days. If your request is urgent, please contact your health station by phone.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Log in to MyKanta",
+                            "url": "https:\/\/kansalainen.kanta.fi\/?lg=en",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5503,
+            "exact_descriptions": [
+                4397
+            ],
+            "service_id": 10771,
+            "type": "OTHER_ESERVICE",
+            "name": "MittKanta",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4059,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Förnya ditt recept i MittKanta",
+                    "information": "Du kan be om att förnya receptet för din regelbundna medicinering i MittKanta, om receptet har ordinerats dig på hälsostationen. När du ber om att förnya receptet i MittKanta behöver du inte längre kontakta hälsostationen. Observera att det kan ta upp till åtta dygn att handlägga din förfrågan om att förnya recept. Om du akut behöver få ditt recept förnyat, kontakta din hälsostation per telefon.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Logga in i MittKanta",
+                            "url": "https:\/\/kansalainen.kanta.fi\/?lg=sv",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5576,
@@ -57220,7 +57327,9 @@
                 9658,
                 10007,
                 10008,
-                10009
+                10009,
+                10010,
+                10012
             ],
             "service_id": 10821,
             "type": "APPLICATION",
@@ -57348,7 +57457,9 @@
                 9658,
                 10007,
                 10008,
-                10009
+                10009,
+                10010,
+                10012
             ],
             "service_id": 10821,
             "type": "APPLICATION",
@@ -57469,7 +57580,9 @@
                 9658,
                 10007,
                 10008,
-                10009
+                10009,
+                10010,
+                10012
             ],
             "service_id": 10821,
             "type": "APPLICATION",
