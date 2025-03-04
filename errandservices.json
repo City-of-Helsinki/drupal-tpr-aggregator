@@ -60432,7 +60432,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköpostineuvonta",
-                    "information": "Lähetä sähköpostia venepaikojen neuvontaan.",
+                    "information": "Lähetä sähköpostia venepaikkojen neuvontaan.",
                     "email": "venepaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -60514,6 +60514,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "E-mail helpdesk",
+                    "information": "Send an email to the helpdesk of the Boat Reservation Service.",
                     "email": "venepaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -60525,6 +60526,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Contact information",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/boating\/contact-information"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -60590,6 +60596,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-postrådgivning",
+                    "information": "Skicka e-post till rådgivningstjänsten för bokning av båtplatser.",
                     "email": "venepaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -60601,6 +60608,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kontaktuppgifter och fel- och underhållsmeddelanden",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/batliv\/kontaktuppgifter-och-fel-och-underhallsmeddelanden"
+                        }
                     ],
                     "availabilities": [
                     ]
