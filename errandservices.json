@@ -335,6 +335,260 @@
         }
     },
     {
+        "id": 5677,
+        "fi": {
+            "id": 5677,
+            "exact_descriptions": [
+                4200,
+                10004,
+                10005
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Aikuisten liikunta",
+            "description": "Helsinki on mainio paikka monipuoliseen liikkumiseen. Löydä oma tapasi liikkua.\n",
+            "process_description": "Helsinki on mainio paikka monipuoliseen liikkumiseen. Löydä oma tapasi liikkua.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4311,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa aikuisten liikuntapalveluista",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa aikuisten liikuntapalveluista ",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/kohderyhmat\/aikuiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4312,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Kuntosaliohjelmien laadinta ja kuntosaliopastus",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kuntosaliohjelmien laadinta ja kuntosaliopastus",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/tukea-liikkumiseen\/kuntosaliohjelmien-laadinta-ja-opastus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5677,
+            "exact_descriptions": [
+                4200,
+                10004,
+                10005
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Exercise for adults",
+            "description": "Helsinki is a great place for a wide variety of physical activities. Discover your own way to get active!\n",
+            "process_description": "Helsinki is a great place for a wide variety of physical activities. Discover your own way to get active!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4311,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about sports services for adults",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about sports services for adults ",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/target-groups\/adults"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4312,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Preparing gym programmes and gym guidance",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Preparing gym programmes and gym guidance",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/support-for-physical-activity\/personal-fitness-programmes-and-guidance-at-gyms"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5677,
+            "exact_descriptions": [
+                4200,
+                10004,
+                10005
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Motion för vuxna",
+            "description": "Helsingfors är en utmärkt plats för mångsidig motion. Hitta ditt sätt att motionera.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4311,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om motionstjänster för vuxna",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om motionstjänster för vuxna ",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/malgrupper\/vuxna"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4312,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Gymprogram och gymhandledning",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gymprogram och gymhandledning",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/stod-for-motion\/handledning-och-utarbetande-av-ett-gymprogram"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5057,
         "fi": {
             "id": 5057,
@@ -1137,6 +1391,261 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5683,
+        "fi": {
+            "id": 5683,
+            "exact_descriptions": [
+                4200,
+                9996,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Alueliikunta",
+            "description": "Alueliikunta on Helsingin liikuntapalveluiden hyvinvointia tukeva palvelu, jonka tavoitteena on lisätä yhteisöllisyyttä ja asukkaiden aktiivisuutta.\n",
+            "process_description": "Alueliikunta on Helsingin liikuntapalveluiden hyvinvointia tukeva palvelu, jonka tavoitteena on lisätä yhteisöllisyyttä ja asukkaiden aktiivisuutta.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4320,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa alueliikunnasta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa alueliikunnasta",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/sivut\/ohjattu-liikunta\/alueliikunta"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4321,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lainaa alueliikuntapassi kirjastosta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lainaa alueliikuntapassi kirjastosta",
+                            "url": "https:\/\/helmet.finna.fi\/Record\/helmet.2522912?sid=4758370850"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5683,
+            "exact_descriptions": [
+                4200,
+                9996,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Regional exercise services",
+            "description": "Regional exercise services is a wellbeing support service provided by the City of Helsinki's Sports Services, which aims to increase the sense of community and level of activity among residents.\n",
+            "process_description": "Regional exercise services is a wellbeing support service provided by the City of Helsinki's Sports Services, which aims to increase the sense of community and level of activity among residents.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4320,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about regional exercise services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about regional exercise services",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/guided-exercise\/regional-exercise-services"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4321,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Borrow a regional exercise service pass from the library",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Borrow a regional exercise service pass from the library",
+                            "url": "https:\/\/helmet.finna.fi\/Record\/helmet.2522912?sid=4758370850"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5683,
+            "exact_descriptions": [
+                4200,
+                9996,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Förortsmotion",
+            "description": "Förortsmotion är Helsingfors idrottsservices tjänst som stödjer välbefinnandet och har som mål att öka gemenskapsandan och invånarnas aktivitet.\n",
+            "process_description": "Förortsmotion är Helsingfors idrottsservices tjänst som stödjer välbefinnandet och har som mål att öka gemenskapsandan och invånarnas aktivitet.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4320,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om förortsmotion",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om förortsmotion",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/forortsmotion"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4321,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Låna ett förortsmotionspass i biblioteket",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Låna ett förortsmotionspass i biblioteket",
+                            "url": "https:\/\/helmet.finna.fi\/Record\/helmet.2522912?sid=4758370850"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5114,
@@ -11782,6 +12291,183 @@
         }
     },
     {
+        "id": 5684,
+        "fi": {
+            "id": 5684,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9998,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Harrastukset",
+            "description": "Tutustu Helsingin monipuolisiin harrastusmahdollisuuksiin harrastusten verkkosivuilla. Kokeile esimerkiksi keramiikkaa, kiipeilyä tai koodaamista!\n",
+            "process_description": "Tutustu Helsingin monipuolisiin harrastusmahdollisuuksiin harrastusten verkkosivuilla. Kokeile esimerkiksi keramiikkaa, kiipeilyä tai koodaamista!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4322,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tutustu Helsingin harrastusmahdollisuuksiin",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tutustu Helsingin harrastusmahdollisuuksiin",
+                            "url": "https:\/\/harrastukset.hel.fi\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5684,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9998,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Hobbies",
+            "description": "Explore the wide range of hobbies available in Helsinki on the hobbies website. Try your hand at ceramics, climbing, or coding - just to name a few!\n",
+            "process_description": "Explore the wide range of hobbies available in Helsinki on the hobbies website. Try your hand at ceramics, climbing, or coding - just to name a few!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4322,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Discover the hobbies available in Helsinki",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Discover the hobbies available in Helsinki",
+                            "url": "https:\/\/harrastukset.hel.fi\/en"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5684,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9998,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Hobbyer",
+            "description": "Bekanta dig med de mångsidiga hobbymöjligheterna i Helsingfors på webbplatserna för hobbyerna. Pröva till exempel på keramik, klättring eller kodning!\n",
+            "process_description": "Bekanta dig med de mångsidiga hobbymöjligheterna i Helsingfors på webbplatserna för hobbyerna. Pröva till exempel på keramik, klättring eller kodning!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4322,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bekanta dig med hobbymöjligheterna i Helsingfors",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bekanta dig med hobbymöjligheterna i Helsingfors",
+                            "url": "https:\/\/harrastukset.hel.fi\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5279,
         "fi": {
             "id": 5279,
@@ -15930,6 +16616,258 @@
                         {
                             "availability_string": "Öppet mån-fre 09-16"
                         }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5681,
+        "fi": {
+            "id": 5681,
+            "exact_descriptions": [
+                4204,
+                9997
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Ikääntyneiden liikunta",
+            "description": "Helsingistä löytyy lukuisia liikkumisen mahdollisuuksia, jotka sopivat ikäihmisille. \n",
+            "process_description": "Helsingistä löytyy lukuisia liikkumisen mahdollisuuksia, jotka sopivat ikäihmisille. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4317,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa ikääntyneiden liikuntapalveluista",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa ikääntyneiden liikuntapalveluista",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/kohderyhmat\/ikaantyneet"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4318,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Seniorijumppavideot",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Seniorijumppavideot",
+                            "url": "https:\/\/www.helsinkikanava.fi\/fi_FI\/web\/helsinkikanava\/folder?groupItemId=85552590"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5681,
+            "exact_descriptions": [
+                4204,
+                9997
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Exercise for older adults",
+            "description": "Helsinki offers a wide range of exercise options suitable for older adults. \n",
+            "process_description": "Helsinki offers a wide range of exercise options suitable for older adults. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4317,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about sports services for older adults",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about sports services for older adults",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/target-groups\/seniors"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4318,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Keep-fit videos for seniors",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Keep-fit videos for seniors",
+                            "url": "https:\/\/www.helsinkikanava.fi\/en\/series\/85552590"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5681,
+            "exact_descriptions": [
+                4204,
+                9997
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Motion för äldre",
+            "description": "Helsingfors erbjuder talrika möjligheter till motion som lämpar sig för äldre. \n",
+            "process_description": "Helsingfors erbjuder talrika möjligheter till motion som lämpar sig för äldre. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4317,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om motionstjänster för äldre",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om motionstjänster för äldre",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/malgrupper\/aldre"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4318,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Seniorgympavideor",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Seniorgympavideor",
+                            "url": "https:\/\/www.helsinkikanava.fi\/sv\/series\/85552590"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -27361,16 +28299,23 @@
         "fi": {
             "id": 5668,
             "exact_descriptions": [
+                4201,
                 4212,
                 4213,
                 4215,
+                4216,
                 4217,
                 9934,
                 9947,
                 9951,
                 9952,
                 9953,
-                9983
+                9954,
+                9955,
+                9957,
+                9966,
+                9983,
+                9998
             ],
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
@@ -27425,16 +28370,23 @@
         "en": {
             "id": 5668,
             "exact_descriptions": [
+                4201,
                 4212,
                 4213,
                 4215,
+                4216,
                 4217,
                 9934,
                 9947,
                 9951,
                 9952,
                 9953,
-                9983
+                9954,
+                9955,
+                9957,
+                9966,
+                9983,
+                9998
             ],
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
@@ -27489,16 +28441,23 @@
         "sv": {
             "id": 5668,
             "exact_descriptions": [
+                4201,
                 4212,
                 4213,
                 4215,
+                4216,
                 4217,
                 9934,
                 9947,
                 9951,
                 9952,
                 9953,
-                9983
+                9954,
+                9955,
+                9957,
+                9966,
+                9983,
+                9998
             ],
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
@@ -28746,6 +29705,174 @@
         ]
     },
     {
+        "id": 5682,
+        "fi": {
+            "id": 5682,
+            "exact_descriptions": [
+                9998
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Lasten ja perheiden liikunta",
+            "description": "Helsingistä löytyy lukuisia lapsille ja perheille sopivia liikkumisen mahdollisuuksia.\n",
+            "process_description": "Helsingistä löytyy lukuisia lapsille ja perheille sopivia liikkumisen mahdollisuuksia.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4319,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa lasten ja perheiden liikunnasta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa lasten ja perheiden liikunnasta",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/kohderyhmat\/lapset-ja-perheet"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5682,
+            "exact_descriptions": [
+                9998
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Physical activity for children and families",
+            "description": "Helsinki offers a wide range of physical activities for children and families.\n",
+            "process_description": "Helsinki offers a wide range of physical activities for children and families.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4319,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about physical activity for children and families",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about physical activity for children and families",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/target-groups\/children-and-families"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5682,
+            "exact_descriptions": [
+                9998
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Motion för barn och familjer",
+            "description": "Helsingfors har många möjligheter till motion för barn och familjer.\n",
+            "process_description": "Helsingfors har många möjligheter till motion för barn och familjer.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4319,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om motion för barn och familjer",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om motion för barn och familjer",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/malgrupper\/barn-och-familjer"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5267,
         "fi": {
             "id": 5267,
@@ -29460,12 +30587,192 @@
         }
     },
     {
+        "id": 5669,
+        "fi": {
+            "id": 5669,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9998,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikunta.hel.fi",
+            "description": "Löydä oma tapasi liikkua! Helsinki tarjoaa monipuoliset mahdollisuudet harrastaa liikuntaa. \n\n",
+            "process_description": "Löydä oma tapasi liikkua! Helsinki tarjoaa monipuoliset mahdollisuudet harrastaa liikuntaa. \n\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4300,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Liikunnan verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Liikunnan verkkosivut",
+                            "url": "https:\/\/liikunta.hel.fi\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5669,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9998,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikunta.hel.fi",
+            "description": "Discover your own way to get active! Helsinki offers a wide range of options for physical activity. \n\n",
+            "process_description": "Discover your own way to get active! Helsinki offers a wide range of options for physical activity. \n\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4300,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Sports and recreation website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sports and recreation website",
+                            "url": "https:\/\/liikunta.hel.fi\/en"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5669,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9998,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikunta.hel.fi",
+            "description": "Hitta ditt sätt att motionera! Helsingfors erbjuder mångsidiga möjligheter att utöva motion. \n\n",
+            "process_description": "Hitta ditt sätt att motionera! Helsingfors erbjuder mångsidiga möjligheter att utöva motion. \n\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4300,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats för motion",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats för motion",
+                            "url": "https:\/\/liikunta.hel.fi\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5117,
         "fi": {
             "id": 5117,
             "exact_descriptions": [
                 4200,
-                9024
+                4201,
+                4204,
+                9024,
+                10004
             ],
             "service_id": 10876,
             "type": "ADVICE",
@@ -29520,10 +30827,32 @@
         "fi": {
             "id": 5667,
             "exact_descriptions": [
+                4148,
+                4151,
+                4152,
+                4157,
+                4206,
                 4212,
+                4216,
+                8744,
+                9780,
                 9934,
                 9946,
                 9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9980,
                 9983
             ],
             "service_id": 10030,
@@ -29579,10 +30908,32 @@
         "en": {
             "id": 5667,
             "exact_descriptions": [
+                4148,
+                4151,
+                4152,
+                4157,
+                4206,
                 4212,
+                4216,
+                8744,
+                9780,
                 9934,
                 9946,
                 9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9980,
                 9983
             ],
             "service_id": 10030,
@@ -29638,10 +30989,32 @@
         "sv": {
             "id": 5667,
             "exact_descriptions": [
+                4148,
+                4151,
+                4152,
+                4157,
+                4206,
                 4212,
+                4216,
+                8744,
+                9780,
                 9934,
                 9946,
                 9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9980,
                 9983
             ],
             "service_id": 10030,
@@ -29700,7 +31073,9 @@
         "fi": {
             "id": 1958,
             "exact_descriptions": [
-                4199
+                4199,
+                4201,
+                4204
             ],
             "service_id": 10030,
             "type": "ENROLLMENT",
@@ -29760,7 +31135,9 @@
         "en": {
             "id": 1958,
             "exact_descriptions": [
-                4199
+                4199,
+                4201,
+                4204
             ],
             "service_id": 10030,
             "type": "ENROLLMENT",
@@ -29816,7 +31193,9 @@
         "sv": {
             "id": 1958,
             "exact_descriptions": [
-                4199
+                4199,
+                4201,
+                4204
             ],
             "service_id": 10030,
             "type": "ENROLLMENT",
