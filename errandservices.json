@@ -30764,6 +30764,570 @@
         }
     },
     {
+        "id": 5687,
+        "fi": {
+            "id": 5687,
+            "exact_descriptions": [
+                4200,
+                9999,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "ENROLLMENT",
+            "name": "Liikuntakursseille ilmoittautuminen",
+            "description": "Helsingin kaupungin liikuntakurssien valikoiman löydät sähköisen asioinnin palvelusta. Ilmoittautua voit sähköisessä asioinnissa tai puhelimitse.\n",
+            "process_description": "Löydä oma tapasi liikkua! Helsingin kaupungin liikuntakurssien valikoiman löydät sähköisen asioinnin palvelusta. Selaa valikoimaa ja ilmoittaudu kursseille. Palvelun käyttö vaatii vahvan tunnistautumisen. Ilmoittautua voit sähköisessä asioinnissa tai puhelimitse. Puhelinpalvelussa ilmoittautuminen toteutuu samassa aikataulussa kun verkkoasioinnissa.\n\nIlmoittautuminen kursseille tapahtuu kausittain ja ajantasaisen tiedon ilmoittautumisista löydät Liikuntapalveluiden verkkosivuilta sekä liikuntapalveluiden verkkokaupasta eli sähköisen asioinnin palvelusta kurssitarjonnan yhteydestä.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4327,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoittaudu sähköisen asioinnin palvelussa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoittaudu sähköisen asioinnin palvelussa ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/home"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4328,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Ilmoittaudu puhelimitse",
+                    "availability_summary": "Avoinna ma-pe 09-13",
+                    "phone": "09 310 87501 ",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-13"
+                        }
+                    ]
+                },
+                {
+                    "id": 4329,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Liikuntakurssien tuntikuvaukset",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Liikuntakurssien tuntikuvaukset",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/ohjattu-liikunta\/liikuntakurssien-tuntikuvaukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4330,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lisätietoa liikuntakursseille ilmoittautumisesta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lisätietoa liikuntakursseille ilmoittautumisesta ",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/ohjattu-liikunta\/ilmoittautuminen-liikuntakursseille"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5687,
+            "exact_descriptions": [
+                4200,
+                9999,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "ENROLLMENT",
+            "name": "Registering for sports and exercise courses",
+            "description": "You can find the selection of sports and exercise courses offered by the City of Helsinki on the city's e-services. You can register using e-services or by phone.\n",
+            "process_description": "Discover your own way to get active! You can find the selection of sports and exercise courses offered by the City of Helsinki on the city's e-services. Browse the selection and register for courses. Using the service requires strong authentication. You can register using e-services or by phone. Registrations by phone will be processed in the same timeframe as online registrations.\n\nCourse registration is seasonal, and up-to-date information on registrations can be found on the Sports Services website and the Sports Services online store, i.e., in the e-service course catalogue.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4327,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Register with e-services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Register with e-services ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/home"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4328,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Register by phone",
+                    "availability_summary": "Open Mon-Fri 09-13",
+                    "phone": "09 310 87501 ",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-13"
+                        }
+                    ]
+                },
+                {
+                    "id": 4329,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Sports and exercise course descriptions",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sports and exercise course descriptions",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/guided-exercise\/exercise-course-class-descriptions"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4330,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "More information about registering for sports and exercise courses",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "More information about registering for sports and exercise courses ",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/guided-exercise\/enrolment-instructions"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5687,
+            "exact_descriptions": [
+                4200,
+                9999,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "ENROLLMENT",
+            "name": "Anmälningar till motionskurser",
+            "description": "Helsingfors stads utbud av motionskurser hittar du i e-tjänsten. Du kan anmäla dig i e-tjänsten eller per telefon.\n",
+            "process_description": "Hitta ditt sätt att motionera! Helsingfors stads utbud av motionskurser hittar du i e-tjänsten. Bläddra i sortimentet och anmäl dig till kurserna. För att använda tjänsten måste du identifiera dig starkt. Du kan anmäla dig i e-tjänsten eller per telefon. Anmälning i telefontjänsten sker i samma tidtabell som i nättjänsten.\n\nAnmälningen till kurserna sker per säsong, och aktuell information om anmälningarna finns på idrottsservicens webbplats samt i webbutiken för idrottsservicen, dvs. e-tjänsten, i samband med kursutbudet.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4327,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Anmäl dig i e-tjänsten",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anmäl dig i e-tjänsten ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/home"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4328,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Anmäl dig per telefon",
+                    "availability_summary": "Öppet mån-fre 09-13",
+                    "phone": "09 310 87501 ",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 09-13"
+                        }
+                    ]
+                },
+                {
+                    "id": 4329,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Timbeskrivningar för motionskurserna",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Timbeskrivningar för motionskurserna",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/motionskursernas-timbeskrivningar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4330,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Mer information om anmälningar till motionskurser",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Mer information om anmälningar till motionskurser ",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/anmalning-till-instruerad-motion"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5686,
+        "fi": {
+            "id": 5686,
+            "exact_descriptions": [
+                4200,
+                9999,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Liikuntakursseille ilmoittautumisen neuvonta",
+            "description": "Jos kaipaat neuvontaa liikuntakursseihin liittyen, voit ottaa yhteyttä sähköpostitse. \n",
+            "process_description": "Jos kaipaat neuvontaa liikuntakursseihin liittyen, voit ottaa yhteyttä sähköpostitse. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4326,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköpostineuvonta",
+                    "email": "liikuntakurssit@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5686,
+            "exact_descriptions": [
+                4200,
+                9999,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Advisory service for registering for sports and exercise courses",
+            "description": "If you need advice on sports and exercise courses, you can contact us by email. \n",
+            "process_description": "If you need advice on sports and exercise courses, you can contact us by email. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4326,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail helpdesk",
+                    "email": "liikuntakurssit@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5686,
+            "exact_descriptions": [
+                4200,
+                9999,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Rådgivning om anmälningar till motionskurser",
+            "description": "Om du behöver råd med motionskurserna, kan du kontakta oss per e-post. \n",
+            "process_description": "Om du behöver råd med motionskurserna, kan du kontakta oss per e-post. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4326,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postrådgivning",
+                    "email": "liikuntakurssit@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5117,
         "fi": {
             "id": 5117,
