@@ -811,6 +811,61 @@
         }
     },
     {
+        "id": 5694,
+        "fi": {
+            "id": 5694,
+            "exact_descriptions": [
+            ],
+            "service_id": 10686,
+            "type": "APPOINTMENT",
+            "name": "Ajanvaraus silmänpohjakuvaukseen",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4338,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Ajanvaraus silmänpohjakuvaukseen",
+                    "availability_summary": "Avoinna ma-pe 08-10",
+                    "phone": "+358931047692",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5368,
         "fi": {
             "id": 5368,
@@ -2869,6 +2924,7 @@
                 8683,
                 8946,
                 8947,
+                8949,
                 9370,
                 9574,
                 9721
@@ -2969,6 +3025,7 @@
                 8683,
                 8946,
                 8947,
+                8949,
                 9370,
                 9574,
                 9721
@@ -3061,6 +3118,7 @@
                 8683,
                 8946,
                 8947,
+                8949,
                 9370,
                 9574,
                 9721
@@ -31552,6 +31610,1101 @@
         ]
     },
     {
+        "id": 5678,
+        "fi": {
+            "id": 5678,
+            "exact_descriptions": [
+                4200,
+                9995,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikuntaneuvonta aikuisille (30-63-vuotiaat)",
+            "description": "Jos liikkumisen määrä on vähäinen ja haluaisit saada tukea sen lisäämiseen, apu voi löytyä henkilökohtaisesta liikuntaneuvonnasta.\n",
+            "process_description": "Aikuisten liikuntaneuvonta on suunnattu 30-63-vuotiaille henkilöille, joilla on todettu tyypin 2 diabetes tai diabetesriskipisteet ovat yli 12 tai on selkeä ylipaino ja BMI on yli 30. Henkilökohtainen liikuntaneuvonta kestää kuusi kuukautta. Jos liikkumisen määrä on vähäinen ja haluaisit saada tukea sen lisäämiseen, apu voi löytyä henkilökohtaisesta liikuntaneuvonnasta.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4313,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa aikuisten liikuntaneuvonnasta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa aikuisten liikuntaneuvonnasta",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/tukea-liikkumiseen\/liikuntaneuvonta\/liikuntaneuvonta-aikuisille-30-63-vuotiaat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5678,
+            "exact_descriptions": [
+                4200,
+                9995,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Physical activity counselling for adults (aged 30-63)",
+            "description": "If the amount of physical activity you engage in is low and you would like support in increasing it, personalised physical activity counselling can help.\n",
+            "process_description": "Physical activity counselling for adults is aimed at people aged 30-63 with diagnosed Type 2 diabetes or a diabetes risk score of more than 12 or who are significantly overweight and have a BMI of more than 30. Personalised physical activity counselling lasts for six months. If the amount of physical activity you engage in is low and you would like support in increasing it, personalised physical activity counselling can help.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4313,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about physical activity counselling for adults",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about physical activity counselling for adults",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/support-for-physical-activity\/physical-activity-counselling\/physical-activity-counselling-for-adults-aged-30-63"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5678,
+            "exact_descriptions": [
+                4200,
+                9995,
+                10004
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Motionsrådgivning för vuxna (30-63-åriga)",
+            "description": "Om du inte motionerar mycket och skulle vilja få stöd för att öka motionen, kan du få hjälp av personlig motionsrådgivning.\n",
+            "process_description": "Motionsrådgivning för vuxna är avsedd för personer mellan 30 och 63 år som har fått diagnosen diabetes typ 2 eller diabetesriskpoängen är över 12 eller har tydlig övervikt och BMI över 30. Personlig motionsrådgivning varar i sex månader. Om du inte motionerar mycket och skulle vilja få stöd för att öka motionen, kan du få hjälp av personlig motionsrådgivning.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4313,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om motionrådgivning för vuxna",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om motionrådgivning för vuxna",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/stod-for-motion\/motionsradgivning\/motionsradgivning-for-vuxna-30-63-aringar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5660,
+        "fi": {
+            "id": 5660,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "Liikuntapaikkavaraukset",
+            "description": "Liikuntapaikoille voi varata vuoroja sähköisen asioinnin kautta. Vuoroja ei ole mahdollista varata puhelimitse tai sähköpostitse.\n",
+            "process_description": "Liikuntapaikoille voi varata vuoroja sähköisen asioinnin kautta. Vuoroja ei ole mahdollista varata puhelimitse tai sähköpostitse. Yksittäisen vuoron voi varata kalenterin varaustilanteen mukaan. Vakiovuorot haetaan kausittain. Vakiovuorojen hakuajat löytyvät verkkosivuiltamme. Vapaita vakiovuoroja voi tiedustella myös kausittaisten hakuaikojen ulkopuolella. \n\nTurnaukset ja ottelut haetaan erillisellä hakemuksella, vaikka ne järjestettäisiin joukkueelle myönnetyllä vakiovuorolla. Ottelu- ja turnaushakemuksessa on kerrottava, onko kyseessä pääsymaksullinen vai pääsymaksuton tapahtuma. \n\nKäyttövuoroja tulee hakea vain todellisen tarpeen mukaan. Haettuun vuoroon tulee sisällyttää valmistelu-, lämmittely-, rakennus- ja purkuajat sekä varsinainen harjoittelu- ja kilpailuaika. Vuorot tulee hakea koko kaudelle (talvi- tai kesäkausi) yhdellä hakemuksella. Huom! Talvikausi käsittää syksyn ja kevään. Liikuntatilojen vuorojen jaossa noudatetaan lautakunnan päättämiä vuorojenjakokriteerejä.\n\nSeuraavat ohjeet pätevät hakuaikojen ulkopuolella, eivätkä koske erikoistiloja (esim. jäähallit ja uimahallit). Kun varaat liikuntatilan liikuntaa varten (yksittäinen vuoro), varaushakemus suositellaan jätettäväksi vähintään 7 arkipäivää ennen tilatarvetta. Kun haluat varata liikuntatilan ei-liikunnalliseen toimintaan tai liikuntatapahtumaa varten, suositellaan hakemus jätettäväksi vähintään kuukausi ennen tilatarvetta. Ruuhkatilanteissa hakemuksen käsittely voi viivästyä. \n\nMyönnetystä vuorosta lähetetään varausvahvistus, kun varaushakemus on käsitelty. Sopimusehdot löydät verkkosivuiltamme. Vuoroja koskevat reklamaatiot ja muutospyynnöt tulee lähettää osoitteeseen liikuntapaikkavaraukset@hel.fi. \n\nTilavuoron varaaja hyväksyy, että hänen edustamansa yhteisön nimi tai varaajan omat nimitiedot (etunimi, sukunimi) näkyvät liikuntapalvelun verkkosivuilla esillä olevassa julkisessa liikuntatilakalenterissa. \n\nHinta: Vuorojen hinta määrittyy varattavan tilan, vuoron pituuden sekä varauksen hintaryhmän mukaan. Tarkemmat tiedot Liikuntapaikkavarausten hinnastosta. \n\nLasku varatuista vuoroista lähetetään jälkikäteen postitse asiakkaan ilmoittamaan laskutus- tai verkkolaskutusosoitteeseen seuraavan kuukauden aikana. E-laskun tilaaminen yksityishenkilönä verkkopankin kautta on myös mahdollista. Laskuja ei lähetetä sähköpostitse. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4280,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Liikuntapaikkavarausten sähköinen asiointi",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Liikuntapaikkavarausten sähköinen asiointi  ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/reservation-application"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4282,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Ohjeet liikuntapaikkavarausten sähköiseen asiointiin",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ohjeet liikuntapaikkavarausten sähköiseen asiointiin ",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/sivut\/liikuntatilojen-varaaminen\/ohjeet-vuorojen-hakemiseen\/sahkoisen-asioinnin-ohjeet"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4283,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lisätietoa liikuntatilojen varaamisesta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lisätietoa liikuntatilojen varaamisesta",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/liikuntatilojen-varaaminen"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4284,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lisätietoa koulujen liikuntasalien varaamisesta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lisätietoa koulujen liikuntasalien varaamisesta",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/liikuntatilojen-varaaminen\/helsingin-kaupungin-koulujen-liikuntasalien-vapaa-ajan-kaytto"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4285,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Sopimusehdot",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sopimusehdot",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/liikuntatilojen-varaaminen\/ohjeet-vuorojen-hakemiseen\/liikuntapalvelun-tilojen-ja-koulujen-liikuntasalien-sopimusehdot"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4287,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Vuorojenjakokriteerit",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vuorojenjakokriteerit",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/liikuntatilojen-varaaminen\/vuorojenjakokriteerit"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5660,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "E-service for sports facility reservations",
+            "description": "You can reserve time slots at sports facilities via e-services. It is not possible to reserve time slots by phone or email.\n",
+            "process_description": "You can reserve time slots at sports facilities via e-services. It is not possible to reserve time slots by phone or email. You can reserve an individual time slot based on the availability in the calendar. Regular time slots are requested seasonally. You can find the application periods for regular time slots on our website. You can also enquire about available regular time slots outside the seasonal application periods. \n\nTournaments and matches must be requested with a separate application, even if they take place during the regular time slot allocated to a team. The match and tournament application must indicate whether the event will have an admission fee or not. \n\nYou should only apply for slots based on actual need. The requested time slot must include preparation, warm-up, set-up and dismantling times, as well as the actual training or competition time. You must apply for time slots for the whole season (winter or summer) using a single application. Please note: the winter season includes autumn and spring. The allocation of time slots at sports facilities is based on the allocation criteria decided by the committee.\n\nThe following guidelines apply outside the application periods and do not apply to special facilities (e.g. indoor ice rinks and indoor swimming pools). When reserving a sports facility for sports (single time slot), we recommend submitting your reservation application at least seven working days before you need the space. When reserving a sports facility for a non-sporting activity or a sports event, we recommend submitting your reservation application at least one month before you need the facility. During busy periods, the processing of your application may be delayed. \n\nA reservation confirmation will be sent once your reservation application has been processed. You can find the terms and conditions on our website. Complaints and requests for changes to reservations should be sent to liikuntapaikkavaraukset@hel.fi. \n\nThe person reserving a facility consents to the name of the association they represent or their name (first name, surname) appearing on the public sports facilities calendar on the Sports Services website. \n\nPrice: The price of time slots is determined by the space you are reserving, the length of the session and the price group of the reservation. For more information, see the Price list for sports facility reservations. \n\nInvoices for reserved time slots will be sent by post to the billing or e-invoicing address provided by the customer during the following month. Private individuals can also order an e-invoice through their online bank. Invoices will not be sent by email. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4280,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "E-service for sports facility reservations",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-service for sports facility reservations ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/reservation-application"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4282,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Instructions for the sports facility reservation e-service",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Instructions for the sports facility reservation e-service ",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/reservation-of-sports-facilities\/instructions-for-applying-for-reservations\/instructions-for-eservices"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4283,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "More information on reserving sports facilities",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "More information on reserving sports facilities",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/reservation-of-sports-facilities"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4284,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "More information on reserving school gymnasiums",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "More information on reserving school gymnasiums",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/reservation-of-sports-facilities\/free-time-use-of-school-gyms-in-the-city-of-helsinki"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4285,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Terms and conditions",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Terms and conditions",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/reservation-of-sports-facilities\/instructions-for-applying-for-reservations\/terms-of-contract-for-the-sports-services-facilities-and-school-gyms"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4287,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Criteria for allocating time slots",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Criteria for allocating time slots",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/reservation-of-sports-facilities\/allocation-criteria"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5660,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "APPLICATION",
+            "name": "E-tjänsten för bokning av idrottsplatser",
+            "description": "Du kan boka turer i idrottsplatser genom e-tjänsten. Det går inte att boka turer per telefon eller e-post.\n",
+            "process_description": "Du kan boka turer i idrottsplatser genom e-tjänsten. Det går inte att boka turer per telefon eller e-post. Du kan boka en enskild tur om bokningssituationen i kalendern tillåter. Regelbundna reservationer ansöks om per säsong. Ansökningstiderna för regelbundna reservationer finns på vår webbplats. Du kan även fråga om lediga regelbundna turer utanför ansökningstiderna. \n\nAnsök om turneringar och matcher genom en separat ansökan, även om de ska arrangeras under de regelbundna turer som har beviljats till laget. I ansökan om match eller turnering ska du berätta om det handlar om ett evenemang med eller utan inträdesavgift. \n\nAnsök om turer endast enligt verkliga behov. Den tid du ansöker om ska innehålla tiden för beredningar, uppvärmning, bygge och nedmontering samt den egentliga tränings- eller tävlingstiden. Ansök om turer för hela säsongen (vinter- eller sommarsäsongen) med en ansökan. Obs! Vintersäsongen omfattar även hösten och våren. När vi delar ut turer i motionslokalerna, följer vi de kriterier som nämnden har fastställt för utdelningen av turer.\n\nFöljande anvisningar gäller utanför ansökningstiderna, och de gäller inte speciallokalerna (till exempel ishallar och simhallar). När du bokar en motionslokal för motion (en enskild tur), rekommenderar vi att du ska lämna in ansökningen minst 7 dagar innan du behöver lokalen. När du vill boka en motionslokal för annan verksamhet än motion eller för ett motionsevenemang, rekommenderar vi att du ska lämna in ansökningen minst en månad innan du behöver lokalen. Om vi får många ansökningar, kan handläggningen ta länge. \n\nEn bokningsbekräftelse skickas för beviljade turer, när bokningsansökningen har handlagts. Avtalsvillkoren finns på vår webbplats. Vill du reklamera eller ändra turer ska du kontakta liikuntapaikkavaraukset@hel.fi. \n\nDen som bokar lokalen godkänner att namnet på den grupp hen företräder eller hens egna namnuppgifter (förnamn, efternamn) visas i den offentliga kalendern för idrottslokaler på idrottsservicens webbplats. \n\nPris: Priset på en tur bestäms enligt den lokal som reserveras, turens längd och prisgruppen för reserveringen. Närmare information finns i prislistan för bokningar av idrottsplatser. \n\nFakturor för bokade turer skickas efteråt per post till den fakturerings- eller nätfaktureringsadress som kunden har meddelat under den följande månaden. Det går även att beställa en e-faktura genom nätbanken som privatperson. Fakturor skickas inte per e-post. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4280,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "E-tjänsten för bokning av idrottsplatser",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-tjänsten för bokning av idrottsplatser  ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/reservation-application"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4282,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Anvisning om e-tjänsten för bokning av idrottsplatser",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anvisning om e-tjänsten för bokning av idrottsplatser",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bokning-av-idrottsutrymmen\/anvisningar-for-ansokan-om-turer\/anvisningar-for-e-tjansten"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4283,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Mer information om att boka idrottsplatser",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Mer information om att boka idrottsplatser",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bokning-av-idrottsutrymmen"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4284,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Mer information om att reservera gymnastiksalar i skolor",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Mer information om att reservera gymnastiksalar i skolor",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bokning-av-idrottsutrymmen\/fritidsanvandning-av-helsingfors-stads-skolors-gymnastiksalar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4285,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Avtalsvillkor",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Avtalsvillkor",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bokning-av-idrottsutrymmen\/anvisningar-for-ansokan-om-turer\/avtalsvillkor-for-idrottsservicens-lokaler-och-skolornas-gymnastiksalar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4287,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Kriterier för att dela turer",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kriterier för att dela turer",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bokning-av-idrottsutrymmen\/kriterier-for-fordelning-av-turer"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5659,
+        "fi": {
+            "id": 5659,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Liikuntapaikkavarausten neuvonta",
+            "description": "Neuvontaa vuorojen varaamiseen liittyen annetaan puhelimitse ja sähköpostitse, mutta vuorojen varaaminen tapahtuu vain sähköisen asioinnin kautta.\n",
+            "process_description": "Neuvontaa vuorojen varaamiseen liittyen annetaan puhelimitse ja sähköpostitse, mutta vuorojen varaaminen tapahtuu vain sähköisen asioinnin kautta. Soittamalla meille voit myös varata tapaamisajan neuvontaan paikan päällä Kulttuuri ja vapaa-ajan toimialan Fredriksbergin toimistolla (Konepajankuja 3). \n\nPuhelinpalvelu ma-pe 8-16. Soittopyyntöihin vastataan ma, ke ja pe 10-12 sekä ti ja to 12-14.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4278,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelinneuvonta",
+                    "availability_summary": "Palvelu saatavilla ma-pe 08-16",
+                    "phone": "09 310 87 800",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla ma-pe 08-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4279,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköpostineuvonta",
+                    "email": "liikuntapaikkavaraukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5659,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Advisory service for sports facility reservations",
+            "description": "Assistance with reserving time slots is available by phone and email, but actual reservations can only be made via the e-service.\n",
+            "process_description": "Assistance with reserving time slots is available by phone and email, but actual reservations can only be made via the e-service. You can also call us to schedule an appointment for an on-site consultation at the Culture and Leisure Division's Fredriksberg office (Konepajankuja 3). \n\nPhone service: Mon-Fri, 8:00-16:00. We respond to call-back requests on Mon, Wed and Fri, 10:00-12:00, and Tues and Thurs, 12-14.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4278,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Phone helpline",
+                    "availability_summary": "Service available Mon-Fri 08-16",
+                    "phone": "09 310 87 800",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available Mon-Fri 08-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4279,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail helpdesk",
+                    "email": "liikuntapaikkavaraukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5659,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "ADVICE",
+            "name": "Rådgivning om bokningar av idrottsplatser",
+            "description": "Rådgivning om att boka turer ges per telefon och e-post, men bokningen kan endast göras genom e-tjänsten.\n",
+            "process_description": "Rådgivning om att boka turer ges per telefon och e-post, men bokningen kan endast göras genom e-tjänsten. Du kan även ringa oss för att boka en mötestid på plats i rådgivningen i kultur- och fritidssektorns kontor i Fredriksberg (Maskinverkstadsgränden 3). \n\nTelefontjänst mån-fre 8-16. Begäran om återuppringning besvaras mån, ons och fre kl. 10-12 samt tis och tor kl. 12-14.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4278,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Telefonrådgivning",
+                    "availability_summary": "Tjänsten tillgänglig mån-fre 08-16",
+                    "phone": "09 310 87 800",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig mån-fre 08-16"
+                        }
+                    ]
+                },
+                {
+                    "id": 4279,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-postrådgivning",
+                    "email": "liikuntapaikkavaraukset@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5667,
         "fi": {
             "id": 5667,
@@ -32430,6 +33583,237 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5662,
+        "fi": {
+            "id": 5662,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikuntatilojen varaustilanteen tarkistaminen",
+            "description": "Liikuntatilakalenterista löydät tiedot varauksista ja yleisövuoroista.\n",
+            "process_description": "Tarkista liikuntatilojen varaustilanne Helsingin kaupungin liikuntatilakalenterista. Kalenterissa tarkastellaan vuoroja lajien ja tilojen perusteella. Tilojen varaaminen tapahtuu liikuntapaikkavarausten sähköisessä asioinnissa.\n\nLöydät kalenterista myös tiedot yleisövuoroista liikuntapaikkakohtaisesti. Liikuntapalveluiden tilat on luokiteltu kalenterissa lajikohtaisesti. Koulujen liikuntasalit saa näkyviin valitsemalla lajivalikosta \"muu toiminta\". \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4288,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Liikuntatilakalenteri",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Liikuntatilakalenteri ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/public-calendar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5662,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Checking the reservation status of sports facilities",
+            "description": "More information about reservations and public sessions is available in the sports facilities calendar.\n",
+            "process_description": "Check the availability of sports facilities in the City of Helsinki's sports facilities calendar. The calendar shows time slots according to the sport and facility. Facilities are reserved using the sports facility reservation e-service.\n\nYou can also find information on public sessions in the calendar for each sports facility. The facilities of Sports Services are listed in the calendar by sport. To see the school gymnasiums, select \"other activities\" from the sport menu. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4288,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Sports facilities calendar",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sports facilities calendar ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/public-calendar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5662,
+            "exact_descriptions": [
+                4151,
+                4206,
+                4212,
+                4216,
+                8744,
+                9780,
+                9946,
+                9953,
+                9956,
+                9959,
+                9960,
+                9961,
+                9962,
+                9964,
+                9965,
+                9966,
+                9967,
+                9968,
+                9969,
+                9970,
+                9971,
+                9983
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Kontrollerna bokningssituationen för idrottsplatser",
+            "description": "Kalendern för idrottslokaler har information om bokningar och turer för allmänheten.\n",
+            "process_description": "Kontrollera bokningssituationen för idrottslokaler i Helsingfors stads kalender för idrottslokaler. Kalendern visar turerna enligt gren och lokal. Du kan boka turer i e-tjänsten för bokning av idrottsplatser.\n\nKalendern visar även information om turer för allmänheten i varje idrottsplats. Idrottsservicens lokaler har klassificerats enligt gren i kalendern. Skolornas gymnastiksalar visas när du väljer \"övrig verksamhet\" i grenmenyn. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4288,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Kalendern för idrottslokaler",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kalendern för idrottslokaler ",
+                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/public-calendar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4302,
@@ -35669,6 +37053,174 @@
                             "type": "INTERNET",
                             "title": "Kontakta din egen socialarbetare i Maisa.",
                             "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5679,
+        "fi": {
+            "id": 5679,
+            "exact_descriptions": [
+                4201
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten liikunta",
+            "description": "Helsinki on nuorelle mainio paikka monipuoliseen liikkumiseen. Löydä oma tapasi liikkua.\n",
+            "process_description": "Helsinki on nuorelle mainio paikka monipuoliseen liikkumiseen. Löydä oma tapasi liikkua.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4314,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa nuorten liikuntapalveluista",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa nuorten liikuntapalveluista",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/kohderyhmat\/nuoret"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5679,
+            "exact_descriptions": [
+                4201
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Exercise for young people",
+            "description": "Helsinki is a great place for a wide variety of physical activities for young people. Discover your own way to get active!\n",
+            "process_description": "Helsinki is a great place for a wide variety of physical activities for young people. Discover your own way to get active!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4314,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about sports services for young people",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about sports services for young people",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/target-groups\/youth"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5679,
+            "exact_descriptions": [
+                4201
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Motion för unga",
+            "description": "Helsingfors är en bra plats för unga att motionera mångsidigt. Hitta ditt sätt att motionera.\n",
+            "process_description": "Helsingfors är en bra plats för unga att motionera mångsidigt. Hitta ditt sätt att motionera.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4314,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om motionstjänster för unga",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om motionstjänster för unga",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/malgrupper\/unga"
                         }
                     ],
                     "availabilities": [
@@ -45012,6 +46564,591 @@
         }
     },
     {
+        "id": 5676,
+        "fi": {
+            "id": 5676,
+            "exact_descriptions": [
+                3812
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Rastila Camping",
+            "description": "Rastila Camping on viihtyisä leirintäalue itäisessä Helsingissä. Tutustu alueeseen ja varaa mökki tai leirintäpaikka.\n",
+            "process_description": "Rastila Camping on viihtyisä leirintäalue itäisessä Helsingissä. Tutustu alueeseen ja varaa mökki tai leirintäpaikka.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4309,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/rastilacamping.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4310,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Varaukset ja majoitusehdot",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Varaukset ja majoitusehdot",
+                            "url": "https:\/\/rastilacamping.hel.fi\/varaukset\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5676,
+            "exact_descriptions": [
+                3812
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Rastila Camping",
+            "description": "Rastila Camping is a pleasant campsite in eastern Helsinki. Explore the area and reserve a cabin or campsite.\n",
+            "process_description": "Rastila Camping is a pleasant campsite in eastern Helsinki. Explore the area and reserve a cabin or campsite.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4309,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/rastilacamping.hel.fi\/en\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4310,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Reservations and accommodation terms",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Reservations and accommodation terms",
+                            "url": "https:\/\/rastilacamping.hel.fi\/en\/reservations\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5676,
+            "exact_descriptions": [
+                3812
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Rastila Camping",
+            "description": "Rastila Camping är ett trivsamt campingområde i östra Helsingfors. Bekanta dig med området och boka en stuga eller en campingplats.\n",
+            "process_description": "Rastila Camping är ett trivsamt campingområde i östra Helsingfors. Bekanta dig med området och boka en stuga eller en campingplats.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4309,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/rastilacamping.hel.fi\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4310,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bokningar och inkvarteringsvillkor",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bokningar och inkvarteringsvillkor",
+                            "url": "https:\/\/rastilacamping.hel.fi\/sv\/bokningar\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5675,
+        "fi": {
+            "id": 5675,
+            "exact_descriptions": [
+                4157,
+                9218,
+                9980
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Retkeily",
+            "description": "Helsingissä on helppo lähteä retkeilemään luontopoluille tai vaikka telttailemaan. Retkeillään jälkiä jättämättä!\n",
+            "process_description": "Helsingissä on helppo lähteä retkeilemään luontopoluille tai vaikka telttailemaan. Retkeillään jälkiä jättämättä!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4306,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Pysy polulla - retkeile vastuullisesti",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Pysy polulla - retkeile vastuullisesti",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/retkeily\/pysy-polulla-retkeile-vastuullisesti"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4307,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Retkeilyn palvelut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Retkeilyn palvelut",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/retkeily\/retkeilyn-palvelut"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4308,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Telttailu",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Telttailu",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/retkeily\/telttailu"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5675,
+            "exact_descriptions": [
+                4157,
+                9218,
+                9980
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Hiking",
+            "description": "In Helsinki, it's easy to go hiking on nature trails or camping. Let's hike without leaving a trace!\n",
+            "process_description": "In Helsinki, it's easy to go hiking on nature trails or camping. Let's hike without leaving a trace!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4306,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Stay on the trail - enjoy the outdoors responsibly",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Stay on the trail – enjoy the outdoors responsibly",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/hiking\/stay-on-the-trail-enjoy-the-outdoors-responsibly"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4307,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Outdoor recreation services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Outdoor recreation services",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/hiking\/outdoor-recreation-services"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4308,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Camping",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Camping",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/hiking\/camping"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5675,
+            "exact_descriptions": [
+                4157,
+                9218,
+                9980
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Utflykter",
+            "description": "Det är enkelt att göra utflykter till naturstigar i Helsingfors eller till exempel gå och tälta. Vi ska vandra utan att lämna spår!\n",
+            "process_description": "Det är enkelt att göra utflykter till naturstigar i Helsingfors eller till exempel gå och tälta. Vi ska vandra utan att lämna spår!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4306,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Håll dig på stigen - vandra hållbart",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Håll dig på stigen – vandra hållbart",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/vandring\/hall-dig-pa-stigen-gor-utflykter-ansvarsfullt"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4307,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Tjänster för friluftsliv",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tjänster för friluftsliv",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/vandring\/vandringstjanster"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4308,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Tältning",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tältning",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/vandring\/taltning"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4944,
         "fi": {
             "id": 4944,
@@ -45092,6 +47229,174 @@
             "links": [
             ],
             "channels": [
+            ]
+        }
+    },
+    {
+        "id": 5674,
+        "fi": {
+            "id": 5674,
+            "exact_descriptions": [
+                9979
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Saaret",
+            "description": "Saarista osaan vie silta, toisiin pääset yhteysaluksella, veneellä tai vaikka meloen. Tutustu täällä suosituimpiin saariin ja niiden palveluihin.\n",
+            "process_description": "Saarista osaan vie silta, toisiin pääset yhteysaluksella, veneellä tai vaikka meloen. Tutustu täällä suosituimpiin saariin ja niiden palveluihin.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4305,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tutustu Helsingin saariin",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tutustu Helsingin saariin",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/saaret"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5674,
+            "exact_descriptions": [
+                9979
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Islands",
+            "description": "Some islands are accessible by bridge, while others can be reached by ferry, boat, or kayak. Learn more about the most popular islands and their services here.\n",
+            "process_description": "Some islands are accessible by bridge, while others can be reached by ferry, boat, or kayak. Learn more about the most popular islands and their services here.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4305,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Explore Helsinki's islands",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Explore Helsinki’s islands",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/islands"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5674,
+            "exact_descriptions": [
+                9979
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Öar",
+            "description": "En del av öarna kan nås via broar och en del med förbindelsebåt, båt eller till exempel genom att paddla. Här kan du bekanta dig med de populäraste öarna och tjänsterna på dem.\n",
+            "process_description": "En del av öarna kan nås via broar och en del med förbindelsebåt, båt eller till exempel genom att paddla. Här kan du bekanta dig med de populäraste öarna och tjänsterna på dem.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4305,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bekanta dig med Helsingfors öar",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bekanta dig med Helsingfors öar",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/oar"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -45999,7 +48304,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Sisätautien poliklinikan puhelinpalvelu",
-                    "information": "Jos haluat lisätietoja sisätautien poliklinikan tai silmänpohjakuvauksen ajanvarauksesta tai haluat perua aikasi, voit soittaa puhelinpalveluumme numerossa +358 9 310 47692.\n\nPuhelinpalvelussamme on käytössä takaisinsoittopalvelu. Soitamme sinulle takaisin enintään kolmesti.",
+                    "information": "Jos haluat lisätietoja sisätautien poliklinikan tai silmänpohjakuvauksen ajanvarauksesta tai haluat perua aikasi, voit soittaa puhelinpalveluumme numerossa +358 9 310 47692.\n\nPuhelinpalvelussamme on käytössä takaisinsoittopalvelu. Soitamme sinulle takaisin enintään kolmesti.\n\nAjanvaraus silmänpohjakuvaukseen ma- pe klo 8 - 10.",
                     "availability_summary": "Avoinna ma-to 08-14, pe 08-13",
                     "phone": "+358 9 310 47692",
                     "call_charge_info": "pvm\/mpm",
@@ -46054,7 +48359,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Phone service to the Internal Medicine Outpatient Clinic",
-                    "information": "If you would like more information about your existing appointment or would like to cancel the appointment, please call our phone service.\n\nWe use a call-back system. We will try to reach you by phone up to three times.",
+                    "information": "If you would like more information about your existing appointment or would like to cancel the appointment, please call our phone service.\n\nWe use a call-back system. We will try to reach you by phone up to three times.\n\nAppointment booking for retinal imaging Mon - Fri 8:00 - 10:00.",
                     "availability_summary": "Open Mon-Thu 08-14, Fri 08-13",
                     "phone": "+358 9 310 47692",
                     "call_charge_info": "mobile call charge \/ local network charge",
@@ -46109,7 +48414,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefonservice till internmedicinska polikliniken",
-                    "information": "För mer information om din befintliga tid eller för att avboka en tid, vänligen ring vår kundtjänst.\n\nVi använder en återuppringningstjänst. Vi kommer att ringa upp dig upp till tre gånger.",
+                    "information": "För mer information om din befintliga tid eller för att avboka en tid, vänligen ring vår kundtjänst.\n\nVi använder en återuppringningstjänst. Vi kommer att ringa upp dig upp till tre gånger.\n\nTidesbeställning för ögonbottenfotografering mån - fre kl- 8 - 10.",
                     "availability_summary": "Öppet mån-tor 08-14, fre 08-13",
                     "phone": "+358 9 310 47692",
                     "call_charge_info": "msa\/lna",
@@ -47499,6 +49804,174 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5685,
+        "fi": {
+            "id": 5685,
+            "exact_descriptions": [
+                10000
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Soveltava liikunta",
+            "description": "Soveltavan liikunnan kursseilla liikuntaa sovelletaan erilaisten vammojen ja sairauksien ehdoilla.\n",
+            "process_description": "Soveltavan liikunnan kursseilla liikuntaa sovelletaan erilaisten vammojen ja sairauksien ehdoilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4323,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lasten soveltavan liikunnan kurssit",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lasten soveltavan liikunnan kurssit",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/ohjattu-liikunta\/lasten-soveltavat-liikuntakurssit"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5685,
+            "exact_descriptions": [
+                10000
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Adaptive physical activity",
+            "description": "Adaptive physical activity courses tailor exercises to meet the needs of people with different injuries and disabilities.\n",
+            "process_description": "Adaptive physical activity courses tailor exercises to meet the needs of people with different injuries and disabilities.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4323,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Adaptive physical activity courses for children",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Adaptive physical activity courses for children",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/guided-exercise\/applied-sports-courses-for-children"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5685,
+            "exact_descriptions": [
+                10000
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Anpassad motion",
+            "description": "På kurserna för anpassad motion anpassar man motionen för olika handikapp och sjukdomar.\n",
+            "process_description": "På kurserna för anpassad motion anpassar man motionen för olika handikapp och sjukdomar.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4323,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Kurser i anpassad motion för barn",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kurser i anpassad motion för barn",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/anpassade-motionskurser-for-barn"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2226,
@@ -58606,6 +61079,621 @@
                             "type": "INTERNET",
                             "title": "Ansök elektroniskt i Maisa. ",
                             "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5671,
+        "fi": {
+            "id": 5671,
+            "exact_descriptions": [
+                4148,
+                4149,
+                4152
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Uimarannat",
+            "description": "Tutustu Helsingin uimarantoihin, maauimaloihin ja talviuintipaikkoihin. Löydät tietoa myös uimavesien laadusta ja sinilevästä.\n",
+            "process_description": "Tutustu Helsingin uimarantoihin, maauimaloihin ja talviuintipaikkoihin. Löydät tietoa myös uimavesien laadusta ja sinilevästä.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4302,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa Helsingin uimapaikoista",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa Helsingin uimapaikoista",
+                            "url": "https:\/\/hel.fi\/uimarannat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5671,
+            "exact_descriptions": [
+                4148,
+                4149,
+                4152
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Beaches",
+            "description": "Explore Helsinki's beaches, outdoor swimming pools and winter swimming spots. You can also find information on water quality and blue-green algae.\n",
+            "process_description": "Explore Helsinki's beaches, outdoor swimming pools and winter swimming spots. You can also find information on water quality and blue-green algae.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4302,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about swimming areas in Helsinki",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about swimming areas in Helsinki",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/public-beaches"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5671,
+            "exact_descriptions": [
+                4148,
+                4149,
+                4152
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Badstränder",
+            "description": "Bekanta sig med badstränderna, friluftsbaden och vinterbadplatserna i Helsingfors. Du hittar även information om badvattnets kvalitet och blågröna alger.\n",
+            "process_description": "Bekanta sig med badstränderna, friluftsbaden och vinterbadplatserna i Helsingfors. Du hittar även information om badvattnets kvalitet och blågröna alger.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4302,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om badplatserna i Helsingfors",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om badplatserna i Helsingfors",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/badstrander"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5672,
+        "fi": {
+            "id": 5672,
+            "exact_descriptions": [
+                4157,
+                9974,
+                9975,
+                9976
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Ulkoilualueet",
+            "description": "Täältä löydät tarkempaa tietoa Helsingin lähiluonnosta ja ulkoilualueista. Tutustu ja lähde ulkoilemaan!\n",
+            "process_description": "Täältä löydät tarkempaa tietoa Helsingin lähiluonnosta ja ulkoilualueista. Tutustu ja lähde ulkoilemaan!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4303,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tutustu Helsingin ulkoilualueisiin",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tutustu Helsingin ulkoilualueisiin",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/ulkoilualueet"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4304,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Keskuspuiston maastopyöräreitti",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Keskuspuiston maastopyöräreitti",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/ulkoilu-puistot-ja-luontokohteet\/ulkoilualueet\/keskuspuisto\/keskuspuiston-maastopyorareitti"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5672,
+            "exact_descriptions": [
+                4157,
+                9974,
+                9975,
+                9976
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Outdoor recreation areas",
+            "description": "You can find more detailed information about Helsinki's local nature and outdoor recreation areas here. Explore them and head outdoors!\n",
+            "process_description": "You can find more detailed information about Helsinki's local nature and outdoor recreation areas here. Explore them and head outdoors!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4303,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Explore Helsinki's outdoor recreation areas",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Explore Helsinki’s outdoor recreation areas",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/outdoor-recreation-areas"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4304,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Mountain bike trail in Central Park",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Mountain bike trail in Central Park",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/outdoor-activities-parks-and-nature-destinations\/outdoor-recreation-areas\/central-park\/central-park-mountain-bike-trail"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5672,
+            "exact_descriptions": [
+                4157,
+                9974,
+                9975,
+                9976
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Friluftsområden",
+            "description": "Här hittar du närmare information om närnaturen och friluftsområdena i Helsingfors. Läs mer och gör utflykter!\n",
+            "process_description": "Här hittar du närmare information om närnaturen och friluftsområdena i Helsingfors. Läs mer och gör utflykter!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4303,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bekanta dig med friluftsområdena i Helsingfors",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bekanta dig med friluftsområdena i Helsingfors",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/friluftsomraden"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4304,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Terrängcykelleden i Centralparken",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Terrängcykelleden i Centralparken",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/friluftsliv-parker-och-naturomraden\/friluftsomraden\/centralparken\/centralparkens-terrangcyklingsrutt"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5670,
+        "fi": {
+            "id": 5670,
+            "exact_descriptions": [
+                4216,
+                9955,
+                9956,
+                9957,
+                9978,
+                9986
+            ],
+            "service_id": 10030,
+            "type": "INFORMATION_SERVICE",
+            "name": "Ulkoliikunta.fi",
+            "description": "Täältä löydät ajantasaista tietoa kaupungin ylläpitämistä ulkoliikuntapalveluista, kuten luistelukenttien ja hiihtolatujen kunto sekä sinilevätilanne.\n",
+            "process_description": "Täältä löydät ajantasaista tietoa kaupungin ylläpitämistä ulkoliikuntapalveluista, kuten luistelukenttien ja hiihtolatujen kunto sekä sinilevätilanne.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4301,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa ulkoliikuntapalveluiden kunnosta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa ulkoliikuntapalveluiden kunnosta",
+                            "url": "https:\/\/ulkoliikunta.fi\/fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5670,
+            "exact_descriptions": [
+                4216,
+                9955,
+                9956,
+                9957,
+                9978,
+                9986
+            ],
+            "service_id": 10030,
+            "type": "INFORMATION_SERVICE",
+            "name": "Ulkoliikunta.fi",
+            "description": "Here, you can find up-to-date information on the outdoor exercise services maintained by the city, such as the condition of the ice skating areas and ski trails and the blue-green algae conditions.\n",
+            "process_description": "Here, you can find up-to-date information on the outdoor exercise services maintained by the city, such as the condition of the ice skating areas and ski trails and the blue-green algae conditions.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4301,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information on the condition of outdoor exercise services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information on the condition of outdoor exercise services",
+                            "url": "https:\/\/ulkoliikunta.fi\/en\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5670,
+            "exact_descriptions": [
+                4216,
+                9955,
+                9956,
+                9957,
+                9978,
+                9986
+            ],
+            "service_id": 10030,
+            "type": "INFORMATION_SERVICE",
+            "name": "Ulkoliikunta.fi",
+            "description": "Här hittar du aktuell information om utomhusmotionstjänster som upprätthålls av staden, som skridskoplanernas och skidspårens skick och blåalgsläget.\n",
+            "process_description": "Här hittar du aktuell information om utomhusmotionstjänster som upprätthålls av staden, som skridskoplanernas och skidspårens skick och blåalgsläget.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4301,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om utomhusmotionstjänsternas skick",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om utomhusmotionstjänsternas skick",
+                            "url": "https:\/\/ulkoliikunta.fi\/sv\/"
                         }
                     ],
                     "availabilities": [
