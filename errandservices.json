@@ -30769,6 +30769,8 @@
             "id": 5687,
             "exact_descriptions": [
                 4200,
+                4201,
+                4204,
                 9999,
                 10004
             ],
@@ -30905,6 +30907,8 @@
             "id": 5687,
             "exact_descriptions": [
                 4200,
+                4201,
+                4204,
                 9999,
                 10004
             ],
@@ -31041,6 +31045,8 @@
             "id": 5687,
             "exact_descriptions": [
                 4200,
+                4201,
+                4204,
                 9999,
                 10004
             ],
@@ -31180,6 +31186,7 @@
             "id": 5686,
             "exact_descriptions": [
                 4200,
+                4204,
                 9999,
                 10004
             ],
@@ -31230,6 +31237,7 @@
             "id": 5686,
             "exact_descriptions": [
                 4200,
+                4204,
                 9999,
                 10004
             ],
@@ -31280,6 +31288,7 @@
             "id": 5686,
             "exact_descriptions": [
                 4200,
+                4204,
                 9999,
                 10004
             ],
@@ -31627,188 +31636,6 @@
                         }
                     ],
                     "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 1958,
-        "fi": {
-            "id": 1958,
-            "exact_descriptions": [
-                4199,
-                4201,
-                4204
-            ],
-            "service_id": 10030,
-            "type": "ENROLLMENT",
-            "name": "Liikuntapalveluiden kurssi-ilmoittautuminen",
-            "description": "Verkkoasiointipalvelu, jonka avulla voitte ilmoittautua tai ilmoittaa huollettavanne liikuntapalvelun järjestämille liikuntakursseille.",
-            "process_description": "Verkkoasiointipalvelu, jonka avulla voitte ilmoittautua tai ilmoittaa huollettavanne liikuntapalvelun järjestämille liikuntakursseille.\n\n1. Valitse kurssi, jolle haluat ilmoittautua.\n2. Tunnistaudu palveluun verkkotunnusten avulla. Tunnistautumisen voi suorittaa verkkopankkien kautta tai mobiilitunnisteilla.\n3. Täytä osallistujan ja tarvittaessa maksajan tiedot (lasten ja nuorten toiminta).\n4. Maksa kurssi verkkopankissa\n5. Halutessasi tulosta itsellesi vahvistus.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1305,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Liikuntapalveluiden kurssi-ilmoittautuminen verkossa",
-                    "prerequisites": "Palvelun käyttäminen edellyttää vahvaa tunnistautumista verkkopankkitunnuksin tai mobiilitunnuksin.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "authorization_code": "Kurssi-ilmoittautuminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": true,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Siirry palveluun",
-                            "url": "https:\/\/liikuntakauppa.hel.fi\/helsinginkaupunki\/ng\/shop\/home"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 1958,
-            "exact_descriptions": [
-                4199,
-                4201,
-                4204
-            ],
-            "service_id": 10030,
-            "type": "ENROLLMENT",
-            "name": "Enrolment for the Sports Department's courses",
-            "description": "Enrolment to supervised sport courses arranged by Sports Services.",
-            "information": "Please note! This e-service is only in Finnish.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1305,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Enrolment for the Sports Department's courses, e-service",
-                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
-                    "information": "Please note! This e-service is only in Finnish.",
-                    "availability_summary": "Service available every day around the clock",
-                    "authorization_code": "Kurssi-ilmoittautuminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": true,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 1958,
-            "exact_descriptions": [
-                4199,
-                4201,
-                4204
-            ],
-            "service_id": 10030,
-            "type": "ENROLLMENT",
-            "name": "Idrottsservicens kursanmälning",
-            "description": "En e-tjänst, som du kan använda för att anmäla dig själv eller de som du är vårdnadshavare för till motionskurser som ordnas av stadens idrottstjänster.",
-            "process_description": "Anmäl dig själv eller den du är du är vårdnadshavare för till stadens motionskurser. (På finska)\n\n1) Välj den kurs som du vill anmäla dig till.\n2) Identifiera dig i tjänsten med nätkoder, antingen med nätbankernas bankkoder eller med mobilcertifikat.\n3) Fyll i kursdeltagarens och vid behov också betalarens uppgifter (krävs då verksamheten är för barn och unga).\n4) Betala för kursen i din nätbank.\n5) Skriv ut bekräftelsen om du så önskar.",
-            "costs": "Klienter som bor utanför Helsingfors skall betala dubbel kursavgift.",
-            "information": "Obs! Tjänsten finns enbart på finska.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 1305,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Idrottsverkets kursanmälning, e-tjänst",
-                    "prerequisites": "Att använda tjänsten kräver autentisering antigen med personliga bankkoder eller med mobil id.",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "authorization_code": "Kurssi-ilmoittautuminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": true,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
                     ]
                 }
             ]
