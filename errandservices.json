@@ -4762,6 +4762,168 @@
         }
     },
     {
+        "id": 5693,
+        "fi": {
+            "id": 5693,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9997
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Etäliikuntavideot",
+            "description": "Helsinki-kanavalta löytyy useita itsenäisesti katsottavia liikuntavideoita.\n",
+            "process_description": "Helsinki-kanavalta löytyy useita itsenäisesti katsottavia liikuntavideoita.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4337,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Harjoittele itsenäisesti omien aikataulujen mukaisesti",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Harjoittele itsenäisesti omien aikataulujen mukaisesti",
+                            "url": "https:\/\/www.helsinkikanava.fi\/fi\/series\/all\/51233376"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5693,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9997
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Exercise video series",
+            "description": "The Helsinki Channel offers several exercise videos.\n",
+            "process_description": "The Helsinki Channel offers several exercise videos.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4337,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Train independently according to your own schedule",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Train independently according to your own schedule",
+                            "url": "https:\/\/www.helsinkikanava.fi\/en\/series\/all\/51233376"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5693,
+            "exact_descriptions": [
+                4200,
+                4201,
+                9997
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Träningsvideoserier",
+            "description": "På Helsingforskanalen finns flera träningsvideor som du kan titta på självständigt.\n",
+            "process_description": "På Helsingforskanalen finns flera träningsvideor som du kan titta på självständigt.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4337,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Träna självständigt enligt din egen tidtabell",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Träna självständigt enligt din egen tidtabell",
+                            "url": "https:\/\/www.helsinkikanava.fi\/sv\/series\/all\/51233376"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5034,
         "fi": {
             "id": 5034,
@@ -16626,8 +16788,7 @@
         "fi": {
             "id": 5681,
             "exact_descriptions": [
-                4204,
-                9997
+                4204
             ],
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
@@ -16709,8 +16870,7 @@
         "en": {
             "id": 5681,
             "exact_descriptions": [
-                4204,
-                9997
+                4204
             ],
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
@@ -16792,8 +16952,7 @@
         "sv": {
             "id": 5681,
             "exact_descriptions": [
-                4204,
-                9997
+                4204
             ],
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
@@ -29715,7 +29874,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Lasten ja perheiden liikunta",
             "description": "Helsingistä löytyy lukuisia lapsille ja perheille sopivia liikkumisen mahdollisuuksia.\n",
-            "process_description": "Helsingistä löytyy lukuisia lapsille ja perheille sopivia liikkumisen mahdollisuuksia.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -29770,7 +29928,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Physical activity for children and families",
             "description": "Helsinki offers a wide range of physical activities for children and families.\n",
-            "process_description": "Helsinki offers a wide range of physical activities for children and families.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -29825,7 +29982,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Motion för barn och familjer",
             "description": "Helsingfors har många möjligheter till motion för barn och familjer.\n",
-            "process_description": "Helsingfors har många möjligheter till motion för barn och familjer.\n",
             "provided_languages": [
                 "en",
                 "fi",
