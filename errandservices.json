@@ -31790,9 +31790,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -32001,9 +32001,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -32212,9 +32212,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -32426,9 +32426,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -32520,9 +32520,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -32614,9 +32614,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -32714,9 +32714,9 @@
                 4152,
                 4157,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9934,
                 9946,
@@ -32795,9 +32795,9 @@
                 4152,
                 4157,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9934,
                 9946,
@@ -32876,9 +32876,9 @@
                 4152,
                 4157,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9934,
                 9946,
@@ -33591,9 +33591,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -33667,9 +33667,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -33743,9 +33743,9 @@
             "exact_descriptions": [
                 4151,
                 4206,
+                4208,
                 4212,
                 4216,
-                8744,
                 9780,
                 9946,
                 9953,
@@ -49859,6 +49859,33 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4339,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Aikuisten ja ikääntyneiden soveltavan liikunnan kurssit",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Aikuisten ja ikääntyneiden soveltavan liikunnan kurssit",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/ohjattu-liikunta\/soveltavat-ryhmat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -49914,6 +49941,33 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4339,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Adaptive physical activity courses for adults and older adults",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Adaptive physical activity courses for adults and older adults",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/guided-exercise\/applied-sports-courses-for-adults-and-senior-citizens"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -49965,6 +50019,33 @@
                             "type": "INTERNET",
                             "title": "Kurser i anpassad motion för barn",
                             "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/anpassade-motionskurser-for-barn"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4339,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Kurser i anpassad motion för vuxna och äldre",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kurser i anpassad motion för vuxna och äldre",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/anpassade-motionskurser-for-vuxna-och-aldre"
                         }
                     ],
                     "availabilities": [
