@@ -1460,7 +1460,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Alueliikunta Helsingissä",
             "description": "Alueliikunta on Helsingin liikuntapalveluiden hyvinvointia tukeva palvelu, jonka tavoitteena on lisätä yhteisöllisyyttä ja asukkaiden aktiivisuutta.\n",
-            "process_description": "Alueliikunta on Helsingin liikuntapalveluiden hyvinvointia tukeva palvelu, jonka tavoitteena on lisätä yhteisöllisyyttä ja asukkaiden aktiivisuutta.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32498,6 +32497,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköpostineuvonta",
+                    "information": "Sähköpostineuvonta",
                     "email": "liikuntapaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -32509,6 +32509,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sähköpostineuvonta ",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/sivut\/liikuntatilojen-varaaminen"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -32592,6 +32597,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "E-mail helpdesk",
+                    "information": "E-mail helpdesk",
                     "email": "liikuntapaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -32603,6 +32609,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-mail helpdesk ",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/reservation-of-sports-facilities"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -32686,6 +32697,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-postrådgivning",
+                    "information": "E-postrådgivning",
                     "email": "liikuntapaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -32697,6 +32709,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-postrådgivning ",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/bokning-av-idrottsutrymmen"
+                        }
                     ],
                     "availabilities": [
                     ]
