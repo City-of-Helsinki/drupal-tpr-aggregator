@@ -12521,7 +12521,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Harrastukset",
             "description": "Tutustu Helsingin monipuolisiin harrastusmahdollisuuksiin harrastusten verkkosivuilla. Kokeile esimerkiksi keramiikkaa, kiipeilyä tai koodaamista!\n",
-            "process_description": "Tutustu Helsingin monipuolisiin harrastusmahdollisuuksiin harrastusten verkkosivuilla. Kokeile esimerkiksi keramiikkaa, kiipeilyä tai koodaamista!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12579,7 +12578,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Hobbies",
             "description": "Explore the wide range of hobbies available in Helsinki on the hobbies website. Try your hand at ceramics, climbing, or coding - just to name a few!\n",
-            "process_description": "Explore the wide range of hobbies available in Helsinki on the hobbies website. Try your hand at ceramics, climbing, or coding - just to name a few!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12637,7 +12635,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Hobbyer",
             "description": "Bekanta dig med de mångsidiga hobbymöjligheterna i Helsingfors på webbplatserna för hobbyerna. Pröva till exempel på keramik, klättring eller kodning!\n",
-            "process_description": "Bekanta dig med de mångsidiga hobbymöjligheterna i Helsingfors på webbplatserna för hobbyerna. Pröva till exempel på keramik, klättring eller kodning!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -16849,7 +16846,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Ikääntyneiden liikunta Helsingissä",
             "description": "Helsingistä löytyy lukuisia liikkumisen mahdollisuuksia, jotka sopivat ikäihmisille. \n",
-            "process_description": "Helsingistä löytyy lukuisia liikkumisen mahdollisuuksia, jotka sopivat ikäihmisille. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -16931,7 +16927,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Exercise for older adults in Helsinki",
             "description": "Helsinki offers a wide range of exercise options suitable for older adults. \n",
-            "process_description": "Helsinki offers a wide range of exercise options suitable for older adults. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -17013,7 +17008,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Motion för äldre i Helsingfors",
             "description": "Helsingfors erbjuder talrika möjligheter till motion som lämpar sig för äldre. \n",
-            "process_description": "Helsingfors erbjuder talrika möjligheter till motion som lämpar sig för äldre. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -30811,7 +30805,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Liikunta.hel.fi",
             "description": "Löydä oma tapasi liikkua! Helsinki tarjoaa monipuoliset mahdollisuudet harrastaa liikuntaa. \n\n",
-            "process_description": "Löydä oma tapasi liikkua! Helsinki tarjoaa monipuoliset mahdollisuudet harrastaa liikuntaa. \n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -30869,7 +30862,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Liikunta.hel.fi",
             "description": "Discover your own way to get active! Helsinki offers a wide range of options for physical activity. \n\n",
-            "process_description": "Discover your own way to get active! Helsinki offers a wide range of options for physical activity. \n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -30927,7 +30919,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Liikunta.hel.fi",
             "description": "Hitta ditt sätt att motionera! Helsingfors erbjuder mångsidiga möjligheter att utöva motion. \n\n",
-            "process_description": "Hitta ditt sätt att motionera! Helsingfors erbjuder mångsidiga möjligheter att utöva motion. \n\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31405,7 +31396,6 @@
             "type": "ADVICE",
             "name": "Liikuntakursseille ilmoittautumisen neuvonta",
             "description": "Jos kaipaat neuvontaa liikuntakursseihin liittyen, voit ottaa yhteyttä sähköpostitse. \n",
-            "process_description": "Jos kaipaat neuvontaa liikuntakursseihin liittyen, voit ottaa yhteyttä sähköpostitse. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31427,6 +31417,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköpostineuvonta",
+                    "information": "Sähköpostineuvonta",
                     "email": "liikuntakurssit@hel.fi",
                     "provided_languages": [
                     ],
@@ -31438,6 +31429,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sähköpostineuvonta ",
+                            "url": "https:\/\/liikunta.hel.fi\/fi\/pages\/ohjattu-liikunta\/ilmoittautuminen-liikuntakursseille"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -31456,7 +31452,6 @@
             "type": "ADVICE",
             "name": "Advisory service for registering for sports and exercise courses",
             "description": "If you need advice on sports and exercise courses, you can contact us by email. \n",
-            "process_description": "If you need advice on sports and exercise courses, you can contact us by email. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31478,6 +31473,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "E-mail helpdesk",
+                    "information": "E-mail helpdesk",
                     "email": "liikuntakurssit@hel.fi",
                     "provided_languages": [
                     ],
@@ -31489,6 +31485,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-mail helpdesk ",
+                            "url": "https:\/\/liikunta.hel.fi\/en\/pages\/guided-exercise\/enrolment-instructions"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -31507,7 +31508,6 @@
             "type": "ADVICE",
             "name": "Rådgivning om anmälningar till motionskurser",
             "description": "Om du behöver råd med motionskurserna, kan du kontakta oss per e-post. \n",
-            "process_description": "Om du behöver råd med motionskurserna, kan du kontakta oss per e-post. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31529,6 +31529,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-postrådgivning",
+                    "information": "E-postrådgivning",
                     "email": "liikuntakurssit@hel.fi",
                     "provided_languages": [
                     ],
@@ -31540,6 +31541,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "E-postrådgivning ",
+                            "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/handledd-motion\/anmalning-till-instruerad-motion"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -31618,8 +31624,8 @@
             "service_id": 10030,
             "type": "OTHER_ESERVICE",
             "name": "Liikuntaneuvonta aikuisille (30-63-vuotiaat)",
-            "description": "Jos liikkumisen määrä on vähäinen ja haluaisit saada tukea sen lisäämiseen, apu voi löytyä henkilökohtaisesta liikuntaneuvonnasta.\n",
-            "process_description": "Aikuisten liikuntaneuvonta on suunnattu 30-63-vuotiaille henkilöille, joilla on todettu tyypin 2 diabetes tai diabetesriskipisteet ovat yli 12 tai on selkeä ylipaino ja BMI on yli 30. Henkilökohtainen liikuntaneuvonta kestää kuusi kuukautta. Jos liikkumisen määrä on vähäinen ja haluaisit saada tukea sen lisäämiseen, apu voi löytyä henkilökohtaisesta liikuntaneuvonnasta.\n",
+            "description": "Jos liikkumisesi määrä on vähäinen ja haluaisit saada tukea sen lisäämiseen, apu voi löytyä henkilökohtaisesta liikuntaneuvonnasta.\n",
+            "process_description": "Aikuisten liikuntaneuvonta on suunnattu 30-63-vuotiaille henkilöille, joilla on todettu tyypin 2 diabetes tai diabetesriskipisteet ovat yli 12 tai on selkeä ylipaino ja BMI on yli 30. Henkilökohtainen liikuntaneuvonta kestää kuusi kuukautta.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31676,7 +31682,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Physical activity counselling for adults (aged 30-63)",
             "description": "If the amount of physical activity you engage in is low and you would like support in increasing it, personalised physical activity counselling can help.\n",
-            "process_description": "Physical activity counselling for adults is aimed at people aged 30-63 with diagnosed Type 2 diabetes or a diabetes risk score of more than 12 or who are significantly overweight and have a BMI of more than 30. Personalised physical activity counselling lasts for six months. If the amount of physical activity you engage in is low and you would like support in increasing it, personalised physical activity counselling can help.\n",
+            "process_description": "Physical activity counselling for adults is aimed at people aged 30-63 with diagnosed Type 2 diabetes or a diabetes risk score of more than 12 or who are significantly overweight and have a BMI of more than 30. Personalised physical activity counselling lasts for six months. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31733,7 +31739,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Motionsrådgivning för vuxna (30-63-åriga)",
             "description": "Om du inte motionerar mycket och skulle vilja få stöd för att öka motionen, kan du få hjälp av personlig motionsrådgivning.\n",
-            "process_description": "Motionsrådgivning för vuxna är avsedd för personer mellan 30 och 63 år som har fått diagnosen diabetes typ 2 eller diabetesriskpoängen är över 12 eller har tydlig övervikt och BMI över 30. Personlig motionsrådgivning varar i sex månader. Om du inte motionerar mycket och skulle vilja få stöd för att öka motionen, kan du få hjälp av personlig motionsrådgivning.\n",
+            "process_description": "Motionsrådgivning för vuxna är avsedd för personer mellan 30 och 63 år som har fått diagnosen diabetes typ 2 eller diabetesriskpoängen är över 12 eller har tydlig övervikt och BMI över 30. Personlig motionsrådgivning varar i sex månader.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -31812,7 +31818,7 @@
             "type": "APPLICATION",
             "name": "Liikuntapaikkavaraukset",
             "description": "Liikuntapaikoille voi varata vuoroja sähköisen asioinnin kautta. Vuoroja ei ole mahdollista varata puhelimitse tai sähköpostitse.\n",
-            "process_description": "Liikuntapaikoille voi varata vuoroja sähköisen asioinnin kautta. Vuoroja ei ole mahdollista varata puhelimitse tai sähköpostitse. Yksittäisen vuoron voi varata kalenterin varaustilanteen mukaan. Vakiovuorot haetaan kausittain. Vakiovuorojen hakuajat löytyvät verkkosivuiltamme. Vapaita vakiovuoroja voi tiedustella myös kausittaisten hakuaikojen ulkopuolella. \n\nTurnaukset ja ottelut haetaan erillisellä hakemuksella, vaikka ne järjestettäisiin joukkueelle myönnetyllä vakiovuorolla. Ottelu- ja turnaushakemuksessa on kerrottava, onko kyseessä pääsymaksullinen vai pääsymaksuton tapahtuma. \n\nKäyttövuoroja tulee hakea vain todellisen tarpeen mukaan. Haettuun vuoroon tulee sisällyttää valmistelu-, lämmittely-, rakennus- ja purkuajat sekä varsinainen harjoittelu- ja kilpailuaika. Vuorot tulee hakea koko kaudelle (talvi- tai kesäkausi) yhdellä hakemuksella. Huom! Talvikausi käsittää syksyn ja kevään. Liikuntatilojen vuorojen jaossa noudatetaan lautakunnan päättämiä vuorojenjakokriteerejä.\n\nSeuraavat ohjeet pätevät hakuaikojen ulkopuolella, eivätkä koske erikoistiloja (esim. jäähallit ja uimahallit). Kun varaat liikuntatilan liikuntaa varten (yksittäinen vuoro), varaushakemus suositellaan jätettäväksi vähintään 7 arkipäivää ennen tilatarvetta. Kun haluat varata liikuntatilan ei-liikunnalliseen toimintaan tai liikuntatapahtumaa varten, suositellaan hakemus jätettäväksi vähintään kuukausi ennen tilatarvetta. Ruuhkatilanteissa hakemuksen käsittely voi viivästyä. \n\nMyönnetystä vuorosta lähetetään varausvahvistus, kun varaushakemus on käsitelty. Sopimusehdot löydät verkkosivuiltamme. Vuoroja koskevat reklamaatiot ja muutospyynnöt tulee lähettää osoitteeseen liikuntapaikkavaraukset@hel.fi. \n\nTilavuoron varaaja hyväksyy, että hänen edustamansa yhteisön nimi tai varaajan omat nimitiedot (etunimi, sukunimi) näkyvät liikuntapalvelun verkkosivuilla esillä olevassa julkisessa liikuntatilakalenterissa. \n\nHinta: Vuorojen hinta määrittyy varattavan tilan, vuoron pituuden sekä varauksen hintaryhmän mukaan. Tarkemmat tiedot Liikuntapaikkavarausten hinnastosta. \n\nLasku varatuista vuoroista lähetetään jälkikäteen postitse asiakkaan ilmoittamaan laskutus- tai verkkolaskutusosoitteeseen seuraavan kuukauden aikana. E-laskun tilaaminen yksityishenkilönä verkkopankin kautta on myös mahdollista. Laskuja ei lähetetä sähköpostitse. \n",
+            "process_description": "Yksittäisen vuoron voi varata kalenterin varaustilanteen mukaan. Vakiovuorot haetaan kausittain. Vakiovuorojen hakuajat löytyvät verkkosivuiltamme. Vapaita vakiovuoroja voi tiedustella myös kausittaisten hakuaikojen ulkopuolella. \n\nTurnaukset ja ottelut haetaan erillisellä hakemuksella, vaikka ne järjestettäisiin joukkueelle myönnetyllä vakiovuorolla. Ottelu- ja turnaushakemuksessa on kerrottava, onko kyseessä pääsymaksullinen vai pääsymaksuton tapahtuma. \n\nKäyttövuoroja tulee hakea vain todellisen tarpeen mukaan. Haettuun vuoroon tulee sisällyttää valmistelu-, lämmittely-, rakennus- ja purkuajat sekä varsinainen harjoittelu- ja kilpailuaika. Vuorot tulee hakea koko kaudelle (talvi- tai kesäkausi) yhdellä hakemuksella. Huom! Talvikausi käsittää syksyn ja kevään. Liikuntatilojen vuorojen jaossa noudatetaan lautakunnan päättämiä vuorojenjakokriteerejä.\n\nSeuraavat ohjeet pätevät hakuaikojen ulkopuolella, eivätkä koske erikoistiloja (esim. jäähallit ja uimahallit). Kun varaat liikuntatilan liikuntaa varten (yksittäinen vuoro), varaushakemus suositellaan jätettäväksi vähintään 7 arkipäivää ennen tilatarvetta. Kun haluat varata liikuntatilan ei-liikunnalliseen toimintaan tai liikuntatapahtumaa varten, suositellaan hakemus jätettäväksi vähintään kuukausi ennen tilatarvetta. Ruuhkatilanteissa hakemuksen käsittely voi viivästyä. \n\nMyönnetystä vuorosta lähetetään varausvahvistus, kun varaushakemus on käsitelty. Sopimusehdot löydät verkkosivuiltamme. Vuoroja koskevat reklamaatiot ja muutospyynnöt tulee lähettää osoitteeseen liikuntapaikkavaraukset@hel.fi. \n\nTilavuoron varaaja hyväksyy, että hänen edustamansa yhteisön nimi tai varaajan omat nimitiedot (etunimi, sukunimi) näkyvät liikuntapalvelun verkkosivuilla esillä olevassa julkisessa liikuntatilakalenterissa. \n\nHinta: Vuorojen hinta määrittyy varattavan tilan, vuoron pituuden sekä varauksen hintaryhmän mukaan. Tarkemmat tiedot Liikuntapaikkavarausten hinnastosta. \n\nLasku varatuista vuoroista lähetetään jälkikäteen postitse asiakkaan ilmoittamaan laskutus- tai verkkolaskutusosoitteeseen seuraavan kuukauden aikana. E-laskun tilaaminen yksityishenkilönä verkkopankin kautta on myös mahdollista. Laskuja ei lähetetä sähköpostitse. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32023,7 +32029,7 @@
             "type": "APPLICATION",
             "name": "E-service for sports facility reservations",
             "description": "You can reserve time slots at sports facilities via e-services. It is not possible to reserve time slots by phone or email.\n",
-            "process_description": "You can reserve time slots at sports facilities via e-services. It is not possible to reserve time slots by phone or email. You can reserve an individual time slot based on the availability in the calendar. Regular time slots are requested seasonally. You can find the application periods for regular time slots on our website. You can also enquire about available regular time slots outside the seasonal application periods. \n\nTournaments and matches must be requested with a separate application, even if they take place during the regular time slot allocated to a team. The match and tournament application must indicate whether the event will have an admission fee or not. \n\nYou should only apply for slots based on actual need. The requested time slot must include preparation, warm-up, set-up and dismantling times, as well as the actual training or competition time. You must apply for time slots for the whole season (winter or summer) using a single application. Please note: the winter season includes autumn and spring. The allocation of time slots at sports facilities is based on the allocation criteria decided by the committee.\n\nThe following guidelines apply outside the application periods and do not apply to special facilities (e.g. indoor ice rinks and indoor swimming pools). When reserving a sports facility for sports (single time slot), we recommend submitting your reservation application at least seven working days before you need the space. When reserving a sports facility for a non-sporting activity or a sports event, we recommend submitting your reservation application at least one month before you need the facility. During busy periods, the processing of your application may be delayed. \n\nA reservation confirmation will be sent once your reservation application has been processed. You can find the terms and conditions on our website. Complaints and requests for changes to reservations should be sent to liikuntapaikkavaraukset@hel.fi. \n\nThe person reserving a facility consents to the name of the association they represent or their name (first name, surname) appearing on the public sports facilities calendar on the Sports Services website. \n\nPrice: The price of time slots is determined by the space you are reserving, the length of the session and the price group of the reservation. For more information, see the Price list for sports facility reservations. \n\nInvoices for reserved time slots will be sent by post to the billing or e-invoicing address provided by the customer during the following month. Private individuals can also order an e-invoice through their online bank. Invoices will not be sent by email. \n",
+            "process_description": "You can reserve an individual time slot based on the availability in the calendar. Regular time slots are requested seasonally. You can find the application periods for regular time slots on our website. You can also enquire about available regular time slots outside the seasonal application periods. \n\nTournaments and matches must be requested with a separate application, even if they take place during the regular time slot allocated to a team. The match and tournament application must indicate whether the event will have an admission fee or not. \n\nYou should only apply for slots based on actual need. The requested time slot must include preparation, warm-up, set-up and dismantling times, as well as the actual training or competition time. You must apply for time slots for the whole season (winter or summer) using a single application. Please note: the winter season includes autumn and spring. The allocation of time slots at sports facilities is based on the allocation criteria decided by the committee.\n\nThe following guidelines apply outside the application periods and do not apply to special facilities (e.g. indoor ice rinks and indoor swimming pools). When reserving a sports facility for sports (single time slot), we recommend submitting your reservation application at least seven working days before you need the space. When reserving a sports facility for a non-sporting activity or a sports event, we recommend submitting your reservation application at least one month before you need the facility. During busy periods, the processing of your application may be delayed. \n\nA reservation confirmation will be sent once your reservation application has been processed. You can find the terms and conditions on our website. Complaints and requests for changes to reservations should be sent to liikuntapaikkavaraukset@hel.fi. \n\nThe person reserving a facility consents to the name of the association they represent or their name (first name, surname) appearing on the public sports facilities calendar on the Sports Services website. \n\nPrice: The price of time slots is determined by the space you are reserving, the length of the session and the price group of the reservation. For more information, see the Price list for sports facility reservations. \n\nInvoices for reserved time slots will be sent by post to the billing or e-invoicing address provided by the customer during the following month. Private individuals can also order an e-invoice through their online bank. Invoices will not be sent by email. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32234,7 +32240,7 @@
             "type": "APPLICATION",
             "name": "E-tjänsten för bokning av idrottsplatser",
             "description": "Du kan boka turer i idrottsplatser genom e-tjänsten. Det går inte att boka turer per telefon eller e-post.\n",
-            "process_description": "Du kan boka turer i idrottsplatser genom e-tjänsten. Det går inte att boka turer per telefon eller e-post. Du kan boka en enskild tur om bokningssituationen i kalendern tillåter. Regelbundna reservationer ansöks om per säsong. Ansökningstiderna för regelbundna reservationer finns på vår webbplats. Du kan även fråga om lediga regelbundna turer utanför ansökningstiderna. \n\nAnsök om turneringar och matcher genom en separat ansökan, även om de ska arrangeras under de regelbundna turer som har beviljats till laget. I ansökan om match eller turnering ska du berätta om det handlar om ett evenemang med eller utan inträdesavgift. \n\nAnsök om turer endast enligt verkliga behov. Den tid du ansöker om ska innehålla tiden för beredningar, uppvärmning, bygge och nedmontering samt den egentliga tränings- eller tävlingstiden. Ansök om turer för hela säsongen (vinter- eller sommarsäsongen) med en ansökan. Obs! Vintersäsongen omfattar även hösten och våren. När vi delar ut turer i motionslokalerna, följer vi de kriterier som nämnden har fastställt för utdelningen av turer.\n\nFöljande anvisningar gäller utanför ansökningstiderna, och de gäller inte speciallokalerna (till exempel ishallar och simhallar). När du bokar en motionslokal för motion (en enskild tur), rekommenderar vi att du ska lämna in ansökningen minst 7 dagar innan du behöver lokalen. När du vill boka en motionslokal för annan verksamhet än motion eller för ett motionsevenemang, rekommenderar vi att du ska lämna in ansökningen minst en månad innan du behöver lokalen. Om vi får många ansökningar, kan handläggningen ta länge. \n\nEn bokningsbekräftelse skickas för beviljade turer, när bokningsansökningen har handlagts. Avtalsvillkoren finns på vår webbplats. Vill du reklamera eller ändra turer ska du kontakta liikuntapaikkavaraukset@hel.fi. \n\nDen som bokar lokalen godkänner att namnet på den grupp hen företräder eller hens egna namnuppgifter (förnamn, efternamn) visas i den offentliga kalendern för idrottslokaler på idrottsservicens webbplats. \n\nPris: Priset på en tur bestäms enligt den lokal som reserveras, turens längd och prisgruppen för reserveringen. Närmare information finns i prislistan för bokningar av idrottsplatser. \n\nFakturor för bokade turer skickas efteråt per post till den fakturerings- eller nätfaktureringsadress som kunden har meddelat under den följande månaden. Det går även att beställa en e-faktura genom nätbanken som privatperson. Fakturor skickas inte per e-post. \n",
+            "process_description": "Du kan boka en enskild tur om bokningssituationen i kalendern tillåter. Regelbundna reservationer ansöks om per säsong. Ansökningstiderna för regelbundna reservationer finns på vår webbplats. Du kan även fråga om lediga regelbundna turer utanför ansökningstiderna. \n\nAnsök om turneringar och matcher genom en separat ansökan, även om de ska arrangeras under de regelbundna turer som har beviljats till laget. I ansökan om match eller turnering ska du berätta om det handlar om ett evenemang med eller utan inträdesavgift. \n\nAnsök om turer endast enligt verkliga behov. Den tid du ansöker om ska innehålla tiden för beredningar, uppvärmning, bygge och nedmontering samt den egentliga tränings- eller tävlingstiden. Ansök om turer för hela säsongen (vinter- eller sommarsäsongen) med en ansökan. Obs! Vintersäsongen omfattar även hösten och våren. När vi delar ut turer i motionslokalerna, följer vi de kriterier som nämnden har fastställt för utdelningen av turer.\n\nFöljande anvisningar gäller utanför ansökningstiderna, och de gäller inte speciallokalerna (till exempel ishallar och simhallar). När du bokar en motionslokal för motion (en enskild tur), rekommenderar vi att du ska lämna in ansökningen minst 7 dagar innan du behöver lokalen. När du vill boka en motionslokal för annan verksamhet än motion eller för ett motionsevenemang, rekommenderar vi att du ska lämna in ansökningen minst en månad innan du behöver lokalen. Om vi får många ansökningar, kan handläggningen ta länge. \n\nEn bokningsbekräftelse skickas för beviljade turer, när bokningsansökningen har handlagts. Avtalsvillkoren finns på vår webbplats. Vill du reklamera eller ändra turer ska du kontakta liikuntapaikkavaraukset@hel.fi. \n\nDen som bokar lokalen godkänner att namnet på den grupp hen företräder eller hens egna namnuppgifter (förnamn, efternamn) visas i den offentliga kalendern för idrottslokaler på idrottsservicens webbplats. \n\nPris: Priset på en tur bestäms enligt den lokal som reserveras, turens längd och prisgruppen för reserveringen. Närmare information finns i prislistan för bokningar av idrottsplatser. \n\nFakturor för bokade turer skickas efteråt per post till den fakturerings- eller nätfaktureringsadress som kunden har meddelat under den följande månaden. Det går även att beställa en e-faktura genom nätbanken som privatperson. Fakturor skickas inte per e-post. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32756,7 +32762,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Liikuntapaikkojen järjestyssäännöt ja ohjeet",
             "description": "Löydät kaupungin liikuntapaikkoja koskevat järjestyssäännöt ja ohjeet oheiselta verkkosivulta.\n\n",
-            "process_description": "Löydät kaupungin liikuntapaikkoja koskevat järjestyssäännöt ja ohjeet oheiselta verkkosivulta:\n- Liikuntapaikkojen yleiset järjestyssäännöt\n- Liikuntasalien yleiset järjestyssäännöt\n- Ulkoilualueiden yleiset järjestyssäännöt\n- Uimarantojen ulkoiluohje\n- Uimahallien ja uimaloiden yleiset järjestyssäännöt\n- Uimapukuohjeistus Helsingin kaupungin uimahalleissa\n",
+            "process_description": "- Liikuntapaikkojen yleiset järjestyssäännöt\n- Liikuntasalien yleiset järjestyssäännöt\n- Ulkoilualueiden yleiset järjestyssäännöt\n- Uimarantojen ulkoiluohje\n- Uimahallien ja uimaloiden yleiset järjestyssäännöt\n- Uimapukuohjeistus Helsingin kaupungin uimahalleissa\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32837,7 +32843,7 @@
             "type": "OTHER_ESERVICE",
             "name": "General rules and guidelines for sports facilities",
             "description": "You can find the general rules and guidelines for the city's sports facilities on the website below.\n\n",
-            "process_description": "You can find the general rules and guidelines for the city's sports facilities on the website below:\n- General rules for sports facilities\n- General rules for gymnasiums\n- General rules for outdoor recreation areas\n- Outdoor activities guide for beaches\n- General rules for swimming halls (indoor swimming pools) and outdoor swimming pools\n- Swimsuit guidelines for the City of Helsinki's swimming halls (indoor swimming pools)\n",
+            "process_description": "- General rules for sports facilities\n- General rules for gymnasiums\n- General rules for outdoor recreation areas\n- Outdoor activities guide for beaches\n- General rules for swimming halls (indoor swimming pools) and outdoor swimming pools\n- Swimsuit guidelines for the City of Helsinki's swimming halls (indoor swimming pools)\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -32918,7 +32924,7 @@
             "type": "OTHER_ESERVICE",
             "name": "Ordningsreglerna och anvisningarna för idrottsplatser",
             "description": "Ordningsreglerna och anvisningarna för stadens idrottsplatser hittar du på den länkade webbplatsen.\n\n",
-            "process_description": "Ordningsreglerna och anvisningarna för stadens idrottsplatser hittar du på webbplatsen:\n- Allmänna ordningsregler för idrottsplatser\n- Allmänna ordningsregler för gymnastiksalar\n- Allmänna ordningsregler för friluftsområden\n- Friluftslivsanvisningar för badstränder\n- Allmänna ordningsregler för simhallar och friluftsbad\n- Anvisningar om baddräkter i Helsingfors stads simhallar\n",
+            "process_description": "- Allmänna ordningsregler för idrottsplatser\n- Allmänna ordningsregler för gymnastiksalar\n- Allmänna ordningsregler för friluftsområden\n- Friluftslivsanvisningar för badstränder\n- Allmänna ordningsregler för simhallar och friluftsbad\n- Anvisningar om baddräkter i Helsingfors stads simhallar\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -37087,7 +37093,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Nuorten liikunta Helsingissä",
             "description": "Helsinki on nuorelle mainio paikka monipuoliseen liikkumiseen. Löydä oma tapasi liikkua.\n",
-            "process_description": "Helsinki on nuorelle mainio paikka monipuoliseen liikkumiseen. Löydä oma tapasi liikkua.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -37142,7 +37147,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Exercise for young people in Helsinki",
             "description": "Helsinki is a great place for a wide variety of physical activities for young people. Discover your own way to get active!\n",
-            "process_description": "Helsinki is a great place for a wide variety of physical activities for young people. Discover your own way to get active!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -37197,7 +37201,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Motion för unga i Helsingfors",
             "description": "Helsingfors är en bra plats för unga att motionera mångsidigt. Hitta ditt sätt att motionera.\n",
-            "process_description": "Helsingfors är en bra plats för unga att motionera mångsidigt. Hitta ditt sätt att motionera.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -46589,7 +46592,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Rastila Camping Helsinki",
             "description": "Rastila Camping on viihtyisä leirintäalue itäisessä Helsingissä. Tutustu alueeseen ja varaa mökki tai leirintäpaikka.\n",
-            "process_description": "Rastila Camping on viihtyisä leirintäalue itäisessä Helsingissä. Tutustu alueeseen ja varaa mökki tai leirintäpaikka.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -46671,7 +46673,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Rastila Camping Helsinki",
             "description": "Rastila Camping is a pleasant campsite in eastern Helsinki. Explore the area and reserve a cabin or campsite.\n",
-            "process_description": "Rastila Camping is a pleasant campsite in eastern Helsinki. Explore the area and reserve a cabin or campsite.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -46753,7 +46754,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Rastila Camping Helsingfors",
             "description": "Rastila Camping är ett trivsamt campingområde i östra Helsingfors. Bekanta dig med området och boka en stuga eller en campingplats.\n",
-            "process_description": "Rastila Camping är ett trivsamt campingområde i östra Helsingfors. Bekanta dig med området och boka en stuga eller en campingplats.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -46840,7 +46840,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Retkeily",
             "description": "Helsingissä on helppo lähteä retkeilemään luontopoluille tai vaikka telttailemaan. Retkeillään jälkiä jättämättä!\n",
-            "process_description": "Helsingissä on helppo lähteä retkeilemään luontopoluille tai vaikka telttailemaan. Retkeillään jälkiä jättämättä!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -46951,7 +46950,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Hiking",
             "description": "In Helsinki, it's easy to go hiking on nature trails or camping. Let's hike without leaving a trace!\n",
-            "process_description": "In Helsinki, it's easy to go hiking on nature trails or camping. Let's hike without leaving a trace!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -47062,7 +47060,6 @@
             "type": "OTHER_ESERVICE",
             "name": "Utflykter",
             "description": "Det är enkelt att göra utflykter till naturstigar i Helsingfors eller till exempel gå och tälta. Vi ska vandra utan att lämna spår!\n",
-            "process_description": "Det är enkelt att göra utflykter till naturstigar i Helsingfors eller till exempel gå och tälta. Vi ska vandra utan att lämna spår!\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -49251,7 +49248,7 @@
             "service_id": 10717,
             "type": "APPLICATION",
             "name": "Sosiaalinen luotto",
-            "description": "Sosiaalisen luototuksen hakemus ja sähköpostiosoite",
+            "description": "Sosiaalisen luototuksen sähköpostiosoite",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -49327,7 +49324,7 @@
             "service_id": 10717,
             "type": "APPLICATION",
             "name": "Social kredit",
-            "description": "Ansökan om social kreditgivning och e-postadress",
+            "description": "E-postadress för social kreditgivning",
             "provided_languages": [
                 "fi",
                 "sv"
