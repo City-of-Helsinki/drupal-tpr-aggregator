@@ -15953,6 +15953,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-postadress för rådgivning om Hitasärenden",
+                    "information": "Skicka ett e-postmeddelande till Hitas.",
                     "email": "hitas@hel.fi",
                     "provided_languages": [
                     ],
@@ -15964,6 +15965,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Rådgivning om Hitasärenden",
+                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/radgivning-om-hitasarenden"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -17367,7 +17373,7 @@
                     "type_string": "Sähköposti",
                     "name": "Ota yhteyttä Viikin löytöeläintaloon sähköpostitse",
                     "information": "Jos olet kadottanut tai löytänyt lemmikkieläimen ilman omistajaa​, ota yhteyttä Viikin löytöeläintaloon.​",
-                    "email": "viikki@hesy.fi ",
+                    "email": "viikki@hesy.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17461,7 +17467,7 @@
                     "type_string": "E-mail",
                     "name": "Contact the Viikki Animal Shelter by email",
                     "information": "If you have lost a pet found a pet without an owner, contact the Viikki Animal Shelter.",
-                    "email": "viikki@hesy.fi ",
+                    "email": "viikki@hesy.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17555,7 +17561,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Kontakta hittedjurshuset i Vik per e-post",
                     "information": "Om du har tappat bort eller hittat ett sällskapsdjur utan ägare, kontakta hittedjurshuset i Vik.",
-                    "email": "viikki@hesy.fi ",
+                    "email": "viikki@hesy.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -22484,6 +22490,8 @@
                     "id": 4286,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "Skicka ett meddelande till arbetsgivarrådgivningen för internationell rekrytering",
+                    "information": "Skicka e-post till arbetsgivarrådgivningen för internationell rekrytering.",
                     "email": "tyollisyyspalvelut.kvrekry@hel.fi",
                     "provided_languages": [
                     ],
@@ -22495,6 +22503,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Rekrytering av internationella experter och Eures",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare\/rekrytering-i-finland-och-utomlands\/rekrytering-av-internationella-experter-och-eures"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -31418,7 +31431,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköpostineuvonta",
-                    "information": "Sähköpostineuvonta",
+                    "information": "Ota yhteyttä sähköpostilla.",
                     "email": "liikuntakurssit@hel.fi",
                     "provided_languages": [
                     ],
@@ -32502,7 +32515,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Sähköpostineuvonta",
-                    "information": "Sähköpostineuvonta",
+                    "information": "Ota yhteyttä sähköpostilla.",
                     "email": "liikuntapaikkavaraukset@hel.fi",
                     "provided_languages": [
                     ],
@@ -32756,6 +32769,7 @@
                 9969,
                 9970,
                 9971,
+                9972,
                 9980,
                 9983
             ],
@@ -32837,6 +32851,7 @@
                 9969,
                 9970,
                 9971,
+                9972,
                 9980,
                 9983
             ],
@@ -32918,6 +32933,7 @@
                 9969,
                 9970,
                 9971,
+                9972,
                 9980,
                 9983
             ],
@@ -37279,6 +37295,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Asukkaiden valinnan valvonnan sähköposti",
+                    "information": "Sähköposti asukkaiden valinnan valvontaan.",
                     "process_description": "Lähetä tiedot asukasvalinnoista sähköpostitse.",
                     "email": "asvalvonta@hel.fi",
                     "provided_languages": [
@@ -39507,6 +39524,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-post",
+                    "information": "Skicka e-post till en expert.",
                     "email": "tiina.lappalainen@hel.fi",
                     "provided_languages": [
                     ],
@@ -39518,6 +39536,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sakkunnig på delaktighet hos personer med funktionsnedsättning i Helsingfors",
+                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/delta-och-paverka\/stod-till-gemensamma-aktiviteter\/sakkunnig-pa-delaktighet-hos-personer-med-funktionsnedsattning-i-helsingfors"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -42803,6 +42826,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Skicka e-post till tjänsten för företags- och arbetsgivarkunder",
+                    "information": "Skicka e-post till företags- och arbetsgivarkundernas tjänster.",
                     "email": "neuvonta.tyonantajat@hel.fi",
                     "provided_languages": [
                     ],
@@ -49268,7 +49292,7 @@
                     "type_string": "Sähköposti",
                     "name": "Sosiaalisen luototuksen sähköpostiosoite",
                     "information": "Emme ota vastaan hakemuksia sähköpostilla. Ethän lähetä salassa pidettäviä tietoja suojaamattomassa sähköpostissa.",
-                    "email": "sosiaalinen.luototus@hel.fi   ",
+                    "email": "sosiaalinen.luototus@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -49279,6 +49303,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sosiaalinen luotto",
+                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/sosiaalinen-ja-taloudellinen-tuki\/talous-tyokyky-ja-toimeentulo\/sosiaalinen-luotto"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -49344,7 +49373,7 @@
                     "type_string": "Elektronisk post",
                     "name": "E-postadress för social kreditgivning",
                     "information": "Vi tar inte emot ansökningar via e-post. Du skickar väl inte konfidentiella uppgifter i öppen mejl.",
-                    "email": "sosiaalinen.luototus@hel.fi   ",
+                    "email": "sosiaalinen.luototus@hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -54445,6 +54474,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "E-post",
+                    "information": "Skicka e-post till områdesinspektören.",
                     "email": "ulkoilma@hel.fi",
                     "provided_languages": [
                     ],
@@ -54456,6 +54486,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Grundande av en smidig kiosk och användningsrättigheter",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/ansok-tillstand-och-lokaler\/mobil-forsaljningsverksamhet-food-trucks-forsaljningskarror-grillmopeder-och-cafecyklar\/grundande-av-en-smidig-kiosk-och-anvandningsrattigheter"
+                        }
                     ],
                     "availabilities": [
                     ]
