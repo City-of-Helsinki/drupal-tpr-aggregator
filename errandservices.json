@@ -49357,8 +49357,85 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5338,
+            "exact_descriptions": [
+                2937
+            ],
+            "service_id": 10717,
+            "type": "APPLICATION",
+            "name": "Social loans",
+            "description": "Social lending email address",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3815,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Social lending email address",
+                    "information": "We do not accept applications via email. Please do not send confidential information via unsecured email.",
+                    "email": "sosiaalinen.luototus@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Social loans",
+                            "url": "https:\/\/www.hel.fi\/en\/health-and-social-services\/social-support-and-financial-assistance\/finances-work-ability-and-livelihood\/social-loans"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4336,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Send an electronic contact request via Maisa",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Maisa ",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=en-GB"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5338,
             "exact_descriptions": [
@@ -49400,6 +49477,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Social kredit",
+                            "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/socialt-och-ekonomiskt-stod\/ekonomi-arbetsformaga-och-utkomst\/social-kredit"
+                        }
                     ],
                     "availabilities": [
                     ]
