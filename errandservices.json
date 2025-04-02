@@ -25259,6 +25259,7 @@
             "service_id": 10195,
             "type": "APPLICATION",
             "name": "School classrooms, dining rooms and assembly halls are booked through the Timmi system",
+            "description": "Some of the facilities are reserved electronically via the Timmi system.",
             "process_description": "1. Register as a Timmi user electronically with your Business ID. \n2. Send a facility booking request in Timmi.\n3. You will receive a confirmation if your request is confirmed.\n4. We will send you an invoice by post for the use of the facility.\n",
             "costs": "We send invoices out once a month, and you will receive yours after the use of facilities.",
             "information": "The premises of Kankarepuisto Comprehensive School and Kankarepuisto playground can be booked online via the Varaamo booking system at varaamo.hel.fi.",
@@ -25328,6 +25329,7 @@
             "service_id": 10195,
             "type": "APPLICATION",
             "name": "Skolornas klassrum, matsalar och festsalar bokas via systemet Timmi",
+            "description": "En del lokaler bokas elektroniskt via systemet Timmi.",
             "process_description": "1. Registrera dig som användare i Timmi elektroniskt med FO-nummer. \n2. Gör en ansökan om en lokal på Timmi.\n3. Om ansökan godkänns, får du en bekräftelse.\n4. Du får en faktura för användningen av lokalen per post.\n",
             "costs": "Användningen av lokalen faktureras månatligen efter användningen.",
             "information": "Grundskolan Kankarepuiston peruskoulus lokaler och lekparken Kankarepuistos lokaler kan bokas via Varaamo: varaamo.hel.fi",
@@ -34272,6 +34274,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4353,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tietoturvallinen Securemail-palvelu",
+                    "prerequisites": "Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -34324,6 +34351,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4353,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Go to the Securemail service",
+                    "prerequisites": "Using the service requires strong authentication.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -34372,6 +34424,31 @@
                             "type": "INTERNET",
                             "title": "Startpeng",
                             "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare\/ekonomiska-stod-till-arbetsgivaren\/startpeng"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4353,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Informationssäkra tjänsten Securemail",
+                    "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
                         }
                     ],
                     "availabilities": [
@@ -40491,7 +40568,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Go to the Securemail service",
-                    "prerequisites": "Using the service requires strong authentication",
+                    "prerequisites": "Using the service requires strong authentication.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -41775,6 +41852,31 @@
                             "availability_string": "Avoinna to 09-15"
                         }
                     ]
+                },
+                {
+                    "id": 4352,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tietoturvallinen Securemail-palvelu",
+                    "prerequisites": "Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -41869,6 +41971,31 @@
                             "availability_string": "Open Thu 09-15"
                         }
                     ]
+                },
+                {
+                    "id": 4352,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Go to the Securemail service",
+                    "prerequisites": "Using the service requires strong authentication.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -41962,6 +42089,31 @@
                         {
                             "availability_string": "Öppet tor 09-15"
                         }
+                    ]
+                },
+                {
+                    "id": 4352,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Informationssäkra tjänsten Securemail",
+                    "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -42630,6 +42782,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4350,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tietoturvallinen Securemail-palvelu",
+                    "prerequisites": "Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -42769,6 +42946,31 @@
                             "type": "INTERNET",
                             "title": "City of Helsinki site for employers",
                             "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4350,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Go to the Securemail service",
+                    "prerequisites": "Using the service requires strong authentication.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
                         }
                     ],
                     "availabilities": [
@@ -42917,6 +43119,31 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4350,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Informationssäkra tjänsten Securemail",
+                    "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         }
@@ -43024,6 +43251,31 @@
                             "availability_string": "Avoinna ma-pe alkaen 2.1.2025 klo 09-16"
                         }
                     ]
+                },
+                {
+                    "id": 4351,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tietoturvallinen Securemail-palvelu",
+                    "prerequisites": "Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -43114,6 +43366,31 @@
                             "availability_string": "Open Mon-Fri from 2 Jan 2025 at 09-16"
                         }
                     ]
+                },
+                {
+                    "id": 4351,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Go to the Securemail service",
+                    "prerequisites": "Using the service requires strong authentication.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -43203,6 +43480,31 @@
                         {
                             "availability_string": "Öppet mån-fre från 2.1.2025 kl. 09-16"
                         }
+                    ]
+                },
+                {
+                    "id": 4351,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Informationssäkra tjänsten Securemail",
+                    "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
