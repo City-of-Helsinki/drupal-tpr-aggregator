@@ -1363,86 +1363,6 @@
         ]
     },
     {
-        "id": 4140,
-        "fi": {
-            "id": 4140,
-            "exact_descriptions": [
-            ],
-            "service_id": 10458,
-            "type": "NOTICE",
-            "name": "Aloitteet liittyen liikennevaloihin",
-            "description": "Liikennevaloihin liittyvät aloitteet käsitellään Helsingin kirjaamossa.",
-            "process_description": "Liikennevaloihin liittyvät aloitteet käsitellään Helsingin kirjaamossa.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kaupungin kirjaamo",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/hallinto\/kirjaamo",
-                    "file_format": "HTML"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2532,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "email": "helsinki.kirjaamo@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 2533,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ma-pe 08:15-16",
-                    "phone": "+3589 310 13700",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 08:15-16"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5683,
         "fi": {
             "id": 5683,
@@ -25741,8 +25661,8 @@
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Ladda ner ansökningsblanketten för färdtjänst (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/sote\/lomakkeet\/303-451-ansokan-fardtjanst.pdf"
+                            "title": "Ladda ner ansökningsblanketten för stöd för rörlighetent (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/sote\/vamty\/lomakkeet\/303-450_Ansokan_om_stod_for_rorligheten.pdf"
                         }
                     ],
                     "availabilities": [
@@ -40257,7 +40177,8 @@
                 9879,
                 9922,
                 10006,
-                10068
+                10068,
+                10097
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -40483,7 +40404,8 @@
                 9879,
                 9922,
                 10006,
-                10068
+                10068,
+                10097
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -45545,60 +45467,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 4139,
-        "fi": {
-            "id": 4139,
-            "exact_descriptions": [
-            ],
-            "service_id": 10458,
-            "type": "NOTICE",
-            "name": "Pääkaupunkiseudun liikennevalojen vikailmoitukset",
-            "description": "Pääkaupunkiseudun (Helsinki, Espoo ja Vantaa) viallisista liikennevaloista ilmoitetaan puhelimitse numeroon 09 310 37555.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2531,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "phone": "+3589 310 37555",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5079,
