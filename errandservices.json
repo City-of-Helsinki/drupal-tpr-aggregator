@@ -18272,7 +18272,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Ilmoita muutoksista, toiminnallisesta tilasta ja valmistumisesta",
-            "description": "Ilmoita työn kestoon liittyvistä muutoksista ja talvikauden toiminnallisesta kunnosta viimeistään hyväksytyn työajan kuluessa. Ilmoita työalueen laajuuteen liittyvistä muutoksista ennen muutosten toteuttamista. \n\nLähetä ilmoitus liitteineen: luvat@hel.fi",
+            "description": "Ilmoita työn kestoon liittyvistä muutoksista ja talvikauden toiminnallisesta kunnosta viimeistään hyväksytyn työajan kuluessa. Ilmoita työalueen laajuuteen liittyvistä muutoksista ennen muutosten toteuttamista. \n\nJos olet tehnyt kaivuilmoituksen Haitaton-järjestelmässä, käytä Haitatonta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen.  \n\nJos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -18282,6 +18282,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -18301,12 +18302,23 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
                             "title": "Ilmoitus muutoksista, toiminnallisesta tilasta ja valmistumisesta (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf"
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
+                            "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Haitaton-palveluun",
+                            "url": "https:\/\/haitaton.hel.fi"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoita työalueen vuokraukseen liittyvistä muutoksista asiointipalvelussa",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
                     "availabilities": [
@@ -18322,7 +18334,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Report changes, functional status and completion",
-            "description": "Report any changes to the duration of the work and the functional status of the area during the winter season within the approved work period at the latest. Report any changes to the size of the work area before implementing the changes. \n\nSend the notification and its attachments to luvat@hel.fi.\n",
+            "description": "Report any changes to the duration of the work and the functional status of the area during the winter season within the approved work period at the latest. Report any changes to the size of the work area before implementing the changes. \n\nIf you have submitted an excavation notification through the Haitaton system, use Haitaton also for reporting changes, operational condition and completion. \n\nIf you have submitted an excavation notification with a PDF form, please use the PDF form below for reporting changes, operational condition and completion. Send the notification and its attachments to luvat@hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -18332,6 +18344,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -18351,13 +18364,18 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
                             "title": "Notification of changes, functional status and completion (PDF, in Finnish) ",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
                             "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the Haitaton service",
+                            "url": "https:\/\/haitaton.hel.fi\/en\/"
                         }
                     ],
                     "availabilities": [
@@ -18373,7 +18391,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Anmäl ändringar, funktionsstatus och färdigställande",
-            "description": "Anmäl ändringar i arbetets längd och det funktionella skicket under vintern senast inom den godkända arbetstiden. Anmäl ändringar i arbetsområdets omfattning innan du gör ändringarna. \n\nSkicka anmälan med bilagor till luvat@hel.fi.\n",
+            "description": "Anmäl ändringar i arbetets längd och det funktionella skicket under vintern senast inom den godkända arbetstiden. Anmäl ändringar i arbetsområdets omfattning innan du gör ändringarna. \n\nOm du har gjort en grävanmälan i Haitaton-systemet, använd Haitaton för att anmäla förändringar, funktionell status och arbetet klart. \n\nOm du har gjort en grävanmälan med en pdf-blankett, använd pdf-blanketten nedan för att anmäla förändringar, funktionell status och arbetet klart. Skicka meddelandet med bilagor till adressen luvat@hel.fi. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -18383,6 +18401,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -18402,13 +18421,23 @@
                     "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": false,
-                    "for_corporate_customer": false,
+                    "for_corporate_customer": true,
                     "links": [
                         {
                             "type": "FORM",
                             "title": "Anmäl ändringar, funktionsstatus och färdigställande (på finska, pdf) ",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
                             "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Haitaton-service",
+                            "url": "https:\/\/haitaton.hel.fi\/sv\/"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Meddela ändringar i anslutning till hyrning av arbetsområdet (på finska)",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
                     "availabilities": [
@@ -65516,8 +65545,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
-            "description": "Tee ilmoitus 1.5.2025 alkaen verkossa. \n\nJos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
-            "process_description": "Jos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
+            "description": "Tee ilmoitus 1.5.2025 alkaen verkossa.",
             "processing_time": "Keskimääräinen käsittelyaika on seitsemän vuorokautta.",
             "information": "Ilmoitukseen liitteet:\n\n- Suunnitelma tilapäisistä liikennejärjestelyistä, jos työskentely vaikuttaa jalankulun, pyöräilyn tai moottoriajoneuvoliikenteen järjestelyihin tai pysäköintipaikkoja varataan muuhun käyttöön siirtokehotusmerkillä.\n- Valtakirja, jos ilmoituksen tekee joku muu kuin työstä vastaava. Ilmoituksen voi tehdä urakoitsija, jos se on työteknisistä syistä tarkoituksenmukaista. \n\nAlueen vuokraus on maksullinen. Katso hinnat kohdasta maksut.\n",
             "provided_languages": [
@@ -65553,7 +65581,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
+                            "title": "Siirry asiointipalveluun",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus",
                             "file_format": "HTML"
                         }
@@ -65584,32 +65612,6 @@
                     ],
                     "availabilities": [
                     ]
-                },
-                {
-                    "id": 4360,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
-                    "prerequisites": "Jos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ilmoitus muutoksista, toiminnallisesta tilasta ja valmistumisesta (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
-                            "file_format": "PDF"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
                 }
             ]
         },
@@ -65621,8 +65623,8 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Rent a street or park area as a temporary work area",
-            "description": "Submit the notification at least seven days before you plan to start work. Send the notification and its attachments to luvat@hel.fi.",
-            "processing_time": "The average processing time is five days.",
+            "description": "Submit the notification online starting from 1 May 2025.\n",
+            "processing_time": "The average processing time is seven days.",
             "information": "Notification attachments:\n\n- A plan for temporary traffic arrangements if the work will affect the arrangements for pedestrian, bicycle or motor vehicle traffic, or if you reserve parking spaces for other use with street signs urging vehicle owners to move their parked vehicles.\n- A power of attorney if the notification is submitted by someone other than the person responsible for the work. The contractor may submit the notification if it is appropriate for practical reasons relating to the work. \n\nThe area rental is subject to a fee. See the prices in the fees section.\n",
             "provided_languages": [
                 "en",
@@ -65657,8 +65659,32 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Rent a street or park area as a temporary work area (PDF, in Finnish) ",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf"
+                            "title": "Go to e-service (in Finnish)",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4359,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Power of attorney",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Power of attorney for the notification procedure of a public area (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
                         }
                     ],
                     "availabilities": [
@@ -65674,8 +65700,8 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Hyr ett gatu- eller parkområde som tillfälligt arbetsområde",
-            "description": "Gör anmälan minst sju dygn innan det planerade arbetet inleds. Skicka anmälan med bilagor till luvat@hel.fi",
-            "processing_time": "Genomsnittlig handläggningstid är fem dagar.",
+            "description": "Gör anmälan i nätet fr.o.m. 1.5.2025.",
+            "processing_time": "Genomsnittlig handläggningstid är sju dagar.",
             "information": "Bilagor till anmälan\n\n- Plan för tillfälliga trafikarrangemang, om arbetet inverkar på arrangemangen för gång, cykling eller motorfordonstrafik eller om parkeringsplatser reserveras för annan användning med en skylt om flyttningsuppmaning.\n- Fullmakt, om någon annan än den som ansvarar för arbetet gör anmälan. Entreprenören kan göra anmälan om det är ändamålsenligt av arbetstekniska skäl. \n\nDet är avgiftsbelagt att hyra ett område. Se priserna i punkten avgifter.\n",
             "provided_languages": [
                 "en",
@@ -65710,9 +65736,33 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Hyr ett gatu- eller parkområde som tillfälligt arbetsområde (på finska) ",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
-                            "file_format": "PDF"
+                            "title": "Gå till e-service (på finska)",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4359,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Fullmakt",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fullmakt för anmälningsförfarandet vid användning av allmänt område (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
                         }
                     ],
                     "availabilities": [
