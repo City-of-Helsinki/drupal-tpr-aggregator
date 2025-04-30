@@ -17774,15 +17774,16 @@
             "service_id": 10290,
             "type": "PERMISSION",
             "name": "Ilmoita kaivutöistä katu- tai puistoalueella",
-            "description": "Tee ilmoitus vähintään 7 vuorokautta ennen suunniteltua työn aloittamista. Lähetä ilmoitus: luvat@hel.fi",
+            "description": "Tee ilmoitus kaivutöistä 1.5.2025 alkaen Haitaton-järjestelmässä.\n\nVoit tarvittaessa hakea kaivuilmoituksen yhteydessä myös johtoselvitystä Haitattomassa. \n\nHaitattomassa kaivuilmoitukset luodaan aina hankkeen alle. Hanke on hyvä perustaa Haitattomaan mahdollisimman aikaisessa vaiheessa, jotta se näkyy muille samaan aikaan hankettaan suunnitteleville. \n\nHankkeelle tulee aina luoda haittojenhallintasuunnitelma. Kaivuilmoituksella haittojenhallintasuunnitelmaa tarkennetaan toimenpiteiksi.",
             "processing_time": "Keskimääräinen käsittelyaika on seitsemän vuorokautta.",
-            "information": "Palvelu on maksullinen. Katso hinnat kohdasta maksut.",
+            "information": "Palvelu on maksullinen. Katso hinnat kohdasta maksut.\n\nTutustu Haitattoman käyttöohjeisiin oheisesta linkistä.\n\nOhjevideot koostetaan tälle sivulle toukokuun 2025 aikana.",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -17792,13 +17793,45 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Haitattoman käyttöohjeet Haitaton-palvelussa.",
+                    "url": "https:\/\/haitaton.hel.fi\/fi\/kaytto-ohjeet"
+                }
             ],
             "channels": [
                 {
-                    "id": 3936,
+                    "id": 4356,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee kaivuilmoitus",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Haitaton-palveluun",
+                            "url": "https:\/\/haitaton.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4358,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Ilmoita kadun tai puiston vuokraamisesta työalueeksi",
+                    "name": "Valtakirja",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17810,10 +17843,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "lmoitus yleisellä alueella tehtävästä työstä (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
-                            "file_format": "PDF"
+                            "type": "INTERNET",
+                            "title": "Valtakirja yleisen alueen käytön ilmoitusmenettelyä varten",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
                         }
                     ],
                     "availabilities": [
@@ -17829,15 +17861,16 @@
             "service_id": 10290,
             "type": "PERMISSION",
             "name": "Report excavation work in a street or park area",
-            "description": "Submit the notification at least seven days before you plan to start work. Send the notification to luvat@hel.fi.",
+            "description": "Submit excavation notifications through the Haitaton system starting from 1 May 2025.\n\nWhen necessary, you can also apply for a cable report through Haitaton in connection to your excavation notification. \n\nExcavation notifications in Haitaton are always created for a certain project. This project should be created in Haitaton as early on as possible so that everyone planning their project at the same time can see it. \n\nA nuisance management plan must always be created for a project. An excavation notification specifies the nuisance management plan into measures. \n",
             "processing_time": "The average processing time is seven days.",
-            "information": "The service is subject to a fee. See the prices in the fees section.",
+            "information": "The service is subject to a fee. See the prices in the fees section.\n\nLearn more about how to use Haitaton in the Haitaton service.\n \nThe instruction videos will be collected to this website in May 2025.\n",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -17847,13 +17880,45 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Instructions for using Haitaton",
+                    "url": "https:\/\/haitaton.hel.fi\/en\/manual"
+                }
             ],
             "channels": [
                 {
-                    "id": 3936,
+                    "id": 4356,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit an excavation notification",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the Haitaton service",
+                            "url": "https:\/\/haitaton.hel.fi\/en\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4358,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Report the rental of a street or park as a work area",
+                    "name": "Power of attorney",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17865,10 +17930,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Notification about work in a public area (PDF, in Finnish) ",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
-                            "file_format": "PDF"
+                            "type": "INTERNET",
+                            "title": "Power of attorney for the notification procedure of a public area (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
                         }
                     ],
                     "availabilities": [
@@ -17884,15 +17948,16 @@
             "service_id": 10290,
             "type": "PERMISSION",
             "name": "Anmäl grävarbeten i ett gatu- eller parkområde",
-            "description": "Gör anmälan minst sju dygn innan det planerade arbetet inleds. Skicka anmälan till luvat@hel.fi",
+            "description": "Gör en anmälan om grävarbeten i Haitaton-systemet fr.o.m. 1.5.2025.\n\nDu kan vid behov i samband med grävanmälan också ansöka om en ledningsutredning i Haitaton.\n \nI Haitaton skapas grävanmälningar alltid för ett projekt. Det är bra att grunda projektet så tidigt som möjligt i Haitaton, så att det syns för andra som samtidigt planerar sina projekt. \n\nFör projektet ska det alltid utarbetas en plan över hantering av olägenheter. På grävanmälan preciseras planen över hantering av olägenheter till åtgärder. \n",
             "processing_time": "Genomsnittlig handläggningstid är sju dagar.",
-            "information": "Tjänsten är avgiftsbelagd. Se priserna i punkten avgifter.",
+            "information": "Tjänsten är avgiftsbelagd. Se priserna i punkten avgifter.\n\nBekanta dig med Haitatons bruksanvisningar i Haitaton-tjänsten.\n \nAnvisningsvideorna kommer att sammanställas på den här sidan under maj 2025.\n",
             "provided_languages": [
                 "en",
                 "fi",
                 "sv"
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -17902,13 +17967,45 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Anvisningar för användning av Haitaton",
+                    "url": "https:\/\/haitaton.hel.fi\/sv\/bruksanvisning"
+                }
             ],
             "channels": [
                 {
-                    "id": 3936,
+                    "id": 4356,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör grävanmälan",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Haitaton-tjänsten",
+                            "url": "https:\/\/haitaton.hel.fi\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4358,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Anmäl hyrning av gata eller park som arbetsområde",
+                    "name": "Fullmakt",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -17920,10 +18017,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Anmälan om arbete på allmänna områden (på finska, pdf) ",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
-                            "file_format": "PDF"
+                            "type": "INTERNET",
+                            "title": "Fullmakt för anmälningsförfarandet vid användning av allmänt område (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
                         }
                     ],
                     "availabilities": [
@@ -57032,7 +57128,7 @@
             "service_id": 10232,
             "type": "INFORMATION_SERVICE",
             "name": "Tilaa johtoselvitys",
-            "description": "Tilaa johtoselvitys Haitaton-palvelussa tai tule tekemään se paikan päälle. Asiointi paikan päällä ainoastaan ajanvarauksella.",
+            "description": "Tilaa johtoselvitys Haitaton-järjestelmässä tai tule tekemään se paikan päälle. Asiointi paikan päällä ainoastaan ajanvarauksella.\n\nHaitattomassa voit tehdä yksittäisen johtoselvityksen yksityiselle alueelle tai useita johtoselvityksiä hankkeen alle.",
             "processing_time": "Hakemukset käsitellään saapumisjärjestyksessä. Käsittelyn tavoiteaika on kolme arkipäivää. Voit seurata asian etenemistä asiointipalvelussa. Saat johtoselvityksen liitteineen sinne asiointikansioon.",
             "expiration_time": "Lähetetty hakemus on voimassa, kunnes johtoselvitys on tehty. Johtoselvitys on voimassa kuukauden. ",
             "costs": "Kaivu-, kairaus- ja louhintatöitä tekeville johtoselvitys on maksuton.\n\nSuunnittelua varten johtokartat ja muut kartta-aineistot tilataan sähköisesti maksullisesta Karttakori-palvelusta.",
@@ -57091,7 +57187,7 @@
             "service_id": 10232,
             "type": "INFORMATION_SERVICE",
             "name": "Order a cable report",
-            "description": "Order a cable report in the e-service or in person. In-person visits only by appointment.",
+            "description": "Order a cable report in the e-service or in person. In-person visits only by appointment.\n\nYou can apply for a cable report also in connection to an excavation notification via the Haitaton system.",
             "processing_time": "Applications are processed on a first come, first served basis. We aim to process applications in 3 business days. You can track the process in the e-service. You will receive the cable report with a",
             "expiration_time": "The submitted application is valid until the cable report is complete. The cable report is valid for one month.",
             "costs": "If you are carrying out excavation, drilling or quarrying works, the report is free of charge.\nCable maps and other map materials are ordered electronically from the Karttakori service. \n",
@@ -57150,7 +57246,7 @@
             "service_id": 10232,
             "type": "INFORMATION_SERVICE",
             "name": "Beställ en ledningsutredning",
-            "description": "Beställ en ledningsutredning i e-tjänsten eller på plats hos oss. Uträttande av ärenden på plats endast med tidsbeställning.",
+            "description": "Beställ en ledningsutredning i e-tjänsten eller på plats hos oss. Uträttande av ärenden på plats endast med tidsbeställning.\n\nI Haitaton kan du lämna in en enskild ledningsutredning för ett privat område eller flera ledningsutredningar för projektet.\n\n",
             "process_description": "E-tjänst där det är möjligt att beställa en utredning om ledningar för gräv-, borrnings- och brytningsarbeten från stadsmätningsavdelningens ledningsdatatjänst. Användning av tjänsten förutsätter identifiering.\n\n1. Den sökande fyller i blanketten för en elektronisk utredning om ledningar. \n2. Ansökningen om en utredning om ledningar kommer till ledningsdatatjänsten för behandling. \n3. Ledningsdatatjänsten behandlar ansökningen och skickar till kunden en ledningskarta med bilagor till den elektroniska ärendemappen.",
             "processing_time": "Behandlingstiden för ansökningen för en utredning om ledningar är 3 vardagar.",
             "expiration_time": "Ansökan som du skickat gäller tills ledningsutredningen är färdig. Ledningsutredningen gäller 1 månad.",
@@ -65420,8 +65516,9 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
-            "description": "Tee ilmoitus vähintään 7 vuorokautta ennen suunniteltua työn aloittamista. Lähetä ilmoitus liitteineen: luvat@hel.fi",
-            "processing_time": "Keskimääräinen käsittelyaika on viisi vuorokautta.",
+            "description": "Tee ilmoitus 1.5.2025 alkaen verkossa. \n\nJos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
+            "process_description": "Jos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
+            "processing_time": "Keskimääräinen käsittelyaika on seitsemän vuorokautta.",
             "information": "Ilmoitukseen liitteet:\n\n- Suunnitelma tilapäisistä liikennejärjestelyistä, jos työskentely vaikuttaa jalankulun, pyöräilyn tai moottoriajoneuvoliikenteen järjestelyihin tai pysäköintipaikkoja varataan muuhun käyttöön siirtokehotusmerkillä.\n- Valtakirja, jos ilmoituksen tekee joku muu kuin työstä vastaava. Ilmoituksen voi tehdä urakoitsija, jos se on työteknisistä syistä tarkoituksenmukaista. \n\nAlueen vuokraus on maksullinen. Katso hinnat kohdasta maksut.\n",
             "provided_languages": [
                 "en",
@@ -65440,9 +65537,35 @@
             "channels": [
                 {
                     "id": 3937,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita kadun tai puiston vuokraamisesta työalueeksi",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4359,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Ilmoita kadun tai puiston vuokraamisesta työalueeksi",
+                    "name": "Valtakirja",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -65454,9 +65577,34 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Vuokraa katu- tai puistoalue tilapäisesti työalueeksi",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoitus_tyosta_yleisella_alueella.pdf",
+                            "type": "INTERNET",
+                            "title": "Valtakirja yleisen alueen käytön ilmoitusmenettelyä varten",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4360,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
+                    "prerequisites": "Jos olet tehnyt kaivuilmoituksen pdf-lomakkeella, käytä alla olevaa pdf-lomaketta muutosten, toiminnallisen tilan ja valmistumisen ilmoittamiseen. Lähetä ilmoitus liitteineen osoitteeseen luvat@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmoitus muutoksista, toiminnallisesta tilasta ja valmistumisesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -65493,12 +65641,13 @@
             "channels": [
                 {
                     "id": 3937,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
                     "name": "Report the rental of a street or park as a work area",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -65545,12 +65694,13 @@
             "channels": [
                 {
                     "id": 3937,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
                     "name": "Anmäl hyrning av gata eller park som arbetsområde",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
