@@ -17786,9 +17786,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -17815,7 +17813,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
@@ -17839,13 +17837,14 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "INTERNET",
-                            "title": "Valtakirja yleisen alueen käytön ilmoitusmenettelyä varten",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
+                            "type": "FORM",
+                            "title": "Valtakirja yleisen alueen käytön ilmoitusmenettelyä varten (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -17873,9 +17872,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -17902,7 +17899,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
@@ -17926,13 +17923,14 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "INTERNET",
+                            "type": "FORM",
                             "title": "Power of attorney for the notification procedure of a public area (PDF, in Finnish)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -17960,9 +17958,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
+                "ENTERPRISES"
             ],
             "life_events": [
             ],
@@ -17989,7 +17985,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
@@ -18013,13 +18009,14 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": true,
+                    "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "INTERNET",
+                            "type": "FORM",
                             "title": "Fullmakt för anmälningsförfarandet vid användning av allmänt område (pdf, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf"
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/valtakirja-yleisen-alueen-kayton-ilmoitukseen.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -18291,9 +18288,36 @@
             "channels": [
                 {
                     "id": 3938,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Haitaton-palveluun",
+                            "url": "https:\/\/haitaton.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4361,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
+                    "name": "Ilmoituslomake tapauksiin, jossa kaivuilmoitus on tehty pdf-lomakkeella",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -18309,15 +18333,30 @@
                             "title": "Ilmoitus muutoksista, toiminnallisesta tilasta ja valmistumisesta (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
                             "file_format": "PDF"
-                        },
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4362,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita työalueen vuokraukseen liittyvistä muutoksista asiointipalvelussa",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry Haitaton-palveluun",
-                            "url": "https:\/\/haitaton.hel.fi"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Ilmoita työalueen vuokraukseen liittyvistä muutoksista asiointipalvelussa",
+                            "title": "Siirry asiointipalveluun",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
@@ -18353,12 +18392,15 @@
             "channels": [
                 {
                     "id": 3938,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
                     "name": "Request an extension and report changes, functional status and completion",
                     "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -18376,6 +18418,31 @@
                             "type": "INTERNET",
                             "title": "Go to the Haitaton service",
                             "url": "https:\/\/haitaton.hel.fi\/en\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4362,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Report changes related to renting the work area",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to e-service (in Finnish)",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
                     "availabilities": [
@@ -18410,12 +18477,15 @@
             "channels": [
                 {
                     "id": 3938,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
                     "name": "Ansök om tilläggstid och anmäl ändringar, funktionsstatus och färdigställande",
                     "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -18437,6 +18507,31 @@
                         {
                             "type": "INTERNET",
                             "title": "Meddela ändringar i anslutning till hyrning av arbetsområdet (på finska)",
+                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4362,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Meddela ändringar i anslutning till hyrning av arbetsområdet",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till e-tjänsten (på finska)",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
