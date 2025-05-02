@@ -30715,6 +30715,168 @@
         }
     },
     {
+        "id": 5725,
+        "fi": {
+            "id": 5725,
+            "exact_descriptions": [
+                10001
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Liikunnan avustukset",
+            "description": "Kaupunki tukee helsinkiläisiä liikuntaseuroja sekä muita liikuntaa järjestäviä yhdistyksiä jakamalla avustuksia. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4363,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tietoa kaupungin jakamista liikunnan avustuksista",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tietoa kaupungin jakamista liikunnan avustuksista",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/liikunnan-avustukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5725,
+            "exact_descriptions": [
+                10001
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Grants for sports in Helsinki",
+            "description": "The City of Helsinki supports sports clubs and other associations organising sports activities by distributing grants. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4363,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Information about the city's grants for sports",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information about the city’s grants for sports",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-sports"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5725,
+            "exact_descriptions": [
+                10001
+            ],
+            "service_id": 10030,
+            "type": "OTHER_ESERVICE",
+            "name": "Understöd för idrott i Helsingfors",
+            "description": "Staden stöder idrottsföreningarna i Helsingfors samt andra föreningar som arrangerar motion genom att dela ut bidrag. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4363,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Information om understöd för idrott som delas av staden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Information om understöd för idrott som delas av staden",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-idrott"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5669,
         "fi": {
             "id": 5669,
