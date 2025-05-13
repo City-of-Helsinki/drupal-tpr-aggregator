@@ -2986,86 +2986,6 @@
         }
     },
     {
-        "id": 5574,
-        "fi": {
-            "id": 5574,
-            "exact_descriptions": [
-            ],
-            "service_id": 10533,
-            "type": "APPLICATION",
-            "name": "Asiointi paperipostilla",
-            "description": "Mikäli sinulla ei ole mahdollisuutta Oma asiointi -palvelun tai sähköpostin käyttöön, voit lähettää meille myös paperipostia tai tuoda paperit suoraan toimipisteellemme.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4138,
-                    "type": "MAIL",
-                    "type_string": "Posti",
-                    "name": "Paperipostin lähettäminen",
-                    "prerequisites": "",
-                    "information": "Varmista, että nimesi ja henkilöturvatunnuksesi löytyvät papereista mahdollisimman selkeästi. Tämä nopeuttaa postin ohjausta työllisyyspalveluissa.",
-                    "process_description": "Mikäli sinulla ei ole mahdollisuutta Oma asiointi -palvelun tai sähköpostin käyttöön, voit lähettää meille myös paperipostia.",
-                    "personal_service_street_addr": "PL 50 ",
-                    "personal_service_postal_code": "00099 ",
-                    "personal_service_city": "Helsingin kaupunki ",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4139,
-                    "type": "LOCAL",
-                    "type_string": "Henkilökohtainen palvelu",
-                    "name": "Papereiden toimittaminen toimipisteisiin",
-                    "information": "Varmista, että nimesi ja henkilöturvatunnuksesi löytyvät papereista mahdollisimman selkeästi. Tämä nopeuttaa postin ohjausta työllisyyspalveluissa.",
-                    "process_description": "Jos haluat toimittaa tärkeät paperit meille henkilökohtaisesti, voit tulla käymään toimipisteissämme. Osa toimipisteistämme tarjoaa asiakkaiden käyttöön tietokoneita ja tulostimia.\n\nVoit myös jättää postia toimipisteiden ulkopuolella oleviin postilaatikoihin. Kopio alkuperäisestä asiakirjasta riittää.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 4198,
         "fi": {
             "id": 4198,
@@ -13757,108 +13677,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5575,
-        "fi": {
-            "id": 5575,
-            "exact_descriptions": [
-                9820
-            ],
-            "service_id": 10533,
-            "type": "ADVICE",
-            "name": "Helsingin työllisyyspalveluiden tapahtumat",
-            "description": "Helsingin työllisyyspalvelut järjestää erilaisia tapahtumia. Lisätietoja tapahtumista saat klikkaamalla auki sinua kiinnostavan tapahtuman.\n\nOsa tapahtumista järjestetään etänä.\n\nTervetuloa!",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND",
-                "LOSING_JOB"
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Helsingin työllisyyspalveluiden tapahtumat",
-                    "url": "https:\/\/tyollisyyspalvelut.hel.fi\/ajankohtaista\/tapahtumat"
-                }
-            ],
-            "channels": [
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 5571,
-        "fi": {
-            "id": 5571,
-            "exact_descriptions": [
-            ],
-            "service_id": 10533,
-            "type": "ADVICE",
-            "name": "Helsingin työllisyyspalvelut puhelinneuvonta",
-            "description": "Helsingin työllisyyspalvelujen neuvonta \np.09 310 36107\n\nVoit soittaa meille, kun tarvitset tietoa Helsingin työllisyyspalveluista, tukea työpaikan hakemiseen tai tietoa koulutusmahdollisuuksista.\n\nJos asiasi koskee saamaasi lausuntoa tai työnhakuvelvoitettasi, ole yhteydessä suoraan omaan vastuuasiantuntijaasi.\n\nPalvelemme sinua tässä numerossa maanantaista perjantaihin kello 9-15 välisenä aikana.\n",
-            "costs": "Kun olet meihin yhteydessä puhelimitse tai tekstiviestillä, hinta määräytyy oman liittymäsopimuksesi mukaan (matkapuhelinmaksu\/paikallisverkkomaksu\/tekstiviestin hinta). \n\nJos käytät puhepakettia, tarkista operaattoriltasi, sisältyvätkö yritys- ja palvelunumeroiden puhelut siihen. Operaattorin veloitus alkaa siitä, kun yhteys aukeaa.\n\nJoskus lähetämme viestejä 1600fi-palvelun teknisestä numerosta, joka ei voi vastaanottaa viestejä. Numeroon vastatut viestit eivät tule meille perille, mutta vastausyritykset ovat maksullisia. Lähetä vastauksesi aina asiantuntijan omaan puhelinnumeroon (0295 tai 040-alkuinen) tai muulla yhteydenottotavalla.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4135,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Helsingin työllisyyspalvelut puhelinneuvonta",
-                    "availability_summary": "Avoinna ma-pe 09-15",
-                    "process_description": "Voit soittaa meille, kun tarvitset tietoa Helsingin työllisyyspalveluista, tukea työpaikan hakemiseen tai tietoa koulutusmahdollisuuksista.\n\nJos asiasi koskee saamaasi lausuntoa tai työnhakuvelvoitettasi, ole yhteydessä suoraan omaan vastuuasiantuntijaasi.\n\nPalvelemme sinua tässä numerossa arkipäivisin kello 9-15 välisenä aikana.",
-                    "phone": "09 310 36107",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-15"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5115,
@@ -39636,6 +39454,543 @@
         }
     },
     {
+        "id": 5600,
+        "fi": {
+            "id": 5600,
+            "exact_descriptions": [
+                8970,
+                9789,
+                9808,
+                9810,
+                9813,
+                9814,
+                9815,
+                9816,
+                9817,
+                9819,
+                9820,
+                9826,
+                9835,
+                9854,
+                9870,
+                9879,
+                9922,
+                10006,
+                10068,
+                10069,
+                10090,
+                10091,
+                10092,
+                10093,
+                10097
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Ota yhteyttä",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+                "LOSING_JOB"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4190,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Helsingin työllisyyspalveluiden puhelinneuvonta",
+                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "phone": "+358931036107",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4198,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Työmarkkinatorin Asiointi-palvelu",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kirjaudu sisään Asiointi-palveluun",
+                            "url": "https:\/\/tyomarkkinatori.fi\/henkiloasiakkaat\/asiointi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4199,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Helsingin työllisyyspalveluiden sähköposti",
+                    "email": "tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4232,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Helsingin työllisyyspalveluiden osoite",
+                    "personal_service_street_addr": "PL 310",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": "Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4347,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tietoturvallinen Securemail-palvelu",
+                    "information": "Henkilökohtaiset tiedot ja liitetiedostot tulee lähettää Securemail-palvelun kautta. Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5600,
+            "exact_descriptions": [
+                8970,
+                9810,
+                9814,
+                9815,
+                9816,
+                9817,
+                9819,
+                9820,
+                9826,
+                9835,
+                9854,
+                9870,
+                9879,
+                9922,
+                10006,
+                10068,
+                10069,
+                10090,
+                10091,
+                10092,
+                10093,
+                10097
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Contact Helsinki Employment Services",
+            "description": "You can contact Helsinki Employment Services through e-services, by phone and by email.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+                "LOSING_JOB"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Employment Services’ advisory service",
+                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers\/contact-helsinki-employment-services\/employment-services-advisory-service"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4190,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Call Helsinki Employment Services",
+                    "availability_summary": "Open Mon-Fri 09-15",
+                    "phone": "+358931036107",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon-Fri 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4198,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Sign in and visit Job Market Finland's E-services",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "JobMarket Finland’s E-services for individuals",
+                            "url": "https:\/\/tyomarkkinatori.fi\/en\/personal-customers\/official-matters"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4199,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Send an email",
+                    "information": "Helsinki Employment Services' email address.",
+                    "email": "tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Helsinki Employment Services’ contact information",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4232,
+                    "type": "MAIL",
+                    "type_string": "Mailing address",
+                    "name": "Contact us by post",
+                    "personal_service_street_addr": "PO Box 310",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": "City of Helsinki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4347,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Go to the Securemail service",
+                    "prerequisites": "Using the service requires strong authentication.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5600,
+            "exact_descriptions": [
+                8970,
+                9810,
+                9814,
+                9815,
+                9816,
+                9817,
+                9819,
+                9820,
+                9826,
+                9835,
+                9854,
+                9870,
+                9879,
+                9922,
+                10006,
+                10068,
+                10069,
+                10090,
+                10091,
+                10092,
+                10093,
+                10097
+            ],
+            "service_id": 11111,
+            "type": "ADVICE",
+            "name": "Kontakta Helsingfors sysselsättningstjänster",
+            "description": "Du kan kontakta Helsingfors sysselsättningstjänster via e-tjänsten, per telefon eller med e-post.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+                "LOSING_JOB"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Sysselsättningstjänsternas rådgivning",
+                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/kontakta-sysselsattningstjanster\/sysselsattningstjansternas-radgivning"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4190,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Ring till Helsingfors sysselsättningstjänster",
+                    "availability_summary": "Öppet mån-fre 09-15",
+                    "phone": "+358931036107",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån-fre 09-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4198,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Logga in och uträtta ärenden i e-tjänsterna på Jobbmarknaden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ärendehantering för personkunder på Jobbmarknaden",
+                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/personkunder\/arendehantering"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4199,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Skicka e-post",
+                    "information": "E-post till Helsingfors sysselsättningstjänster.",
+                    "email": "tyollisyyspalvelut@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kontaktuppgifter för Helsingfors sysselsättningstjänster",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4232,
+                    "type": "MAIL",
+                    "type_string": "Postadress",
+                    "name": "Postadress Helsingfors sysselsättningstjänster",
+                    "personal_service_street_addr": "PB 310",
+                    "personal_service_postal_code": "00099",
+                    "personal_service_city": " Helsingfors stad",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4347,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Informationssäkra tjänsten Securemail",
+                    "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Securemail",
+                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5147,
         "fi": {
             "id": 5147,
@@ -40132,708 +40487,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5600,
-        "fi": {
-            "id": 5600,
-            "exact_descriptions": [
-                8970,
-                9789,
-                9808,
-                9810,
-                9813,
-                9814,
-                9815,
-                9816,
-                9817,
-                9819,
-                9820,
-                9826,
-                9835,
-                9854,
-                9870,
-                9879,
-                9922,
-                10006,
-                10068,
-                10069,
-                10090,
-                10091,
-                10092,
-                10093,
-                10097
-            ],
-            "service_id": 11111,
-            "type": "ADVICE",
-            "name": "Ota yhteyttä Helsingin työllisyyspalveluihin",
-            "description": "Saat yhteyden Helsingin työllisyyspalveluihin verkkoasioinnin kautta, puhelimitse ja sähköpostitse.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Työllisyyspalveluiden neuvonta",
-                    "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-neuvonta"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 4190,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Soita Helsingin työllisyyspalveluihin",
-                    "availability_summary": "Avoinna ma-pe 09-15",
-                    "phone": "+358931036107",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma-pe 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 4198,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Kirjaudu sisään ja asioi Työmarkkinatorin Asiointi-osiossa",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Työmarkkinatorin henkilöasiakkaan Asiointi",
-                            "url": "https:\/\/tyomarkkinatori.fi\/henkiloasiakkaat\/asiointi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4199,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Lähetä viesti sähköpostilla",
-                    "information": "Työllisyyspalveluiden sähköposti.",
-                    "email": "tyollisyyspalvelut@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsingin työllisyyspalveluiden yhteystiedot",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4232,
-                    "type": "MAIL",
-                    "type_string": "Posti",
-                    "name": "Postiosoite Helsingin työllisyyspalvelut",
-                    "personal_service_street_addr": "PL 310",
-                    "personal_service_postal_code": "00099",
-                    "personal_service_city": "Helsingin kaupunki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4265,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Helsingin työllisyyspalvelut henkilöasiakkaalle",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Työnhakijalle",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4266,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Helsingin työllisyyspalveluiden lomakkeet",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsingin työllisyyspalveluiden lomakkeet",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin\/tyollisyyspalveluiden-lomakkeet"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4347,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Tietoturvallinen Securemail-palvelu",
-                    "prerequisites": "Palvelun käyttö vaatii vahvan tunnistautumisen.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Securemail",
-                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5600,
-            "exact_descriptions": [
-                8970,
-                9810,
-                9814,
-                9815,
-                9816,
-                9817,
-                9819,
-                9820,
-                9826,
-                9835,
-                9854,
-                9870,
-                9879,
-                9922,
-                10006,
-                10068,
-                10069,
-                10090,
-                10091,
-                10092,
-                10093,
-                10097
-            ],
-            "service_id": 11111,
-            "type": "ADVICE",
-            "name": "Contact Helsinki Employment Services",
-            "description": "You can contact Helsinki Employment Services through e-services, by phone and by email.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Employment Services’ advisory service",
-                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers\/contact-helsinki-employment-services\/employment-services-advisory-service"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 4190,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Call Helsinki Employment Services",
-                    "availability_summary": "Open Mon-Fri 09-15",
-                    "phone": "+358931036107",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon-Fri 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 4198,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Sign in and visit Job Market Finland's E-services",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "JobMarket Finland’s E-services for individuals",
-                            "url": "https:\/\/tyomarkkinatori.fi\/en\/personal-customers\/official-matters"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4199,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Send an email",
-                    "information": "Helsinki Employment Services' email address.",
-                    "email": "tyollisyyspalvelut@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsinki Employment Services’ contact information",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4232,
-                    "type": "MAIL",
-                    "type_string": "Mailing address",
-                    "name": "Contact us by post",
-                    "personal_service_street_addr": "PO Box 310",
-                    "personal_service_postal_code": "00099",
-                    "personal_service_city": "City of Helsinki",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4265,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Helsinki Employment Services for personal customers",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "For jobseekers",
-                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4266,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
-                    "name": "Helsinki Employment Services' forms",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsinki Employment Services’ forms",
-                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers\/contact-helsinki-employment-services\/employment-services-forms"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4347,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Go to the Securemail service",
-                    "prerequisites": "Using the service requires strong authentication.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Securemail",
-                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5600,
-            "exact_descriptions": [
-                8970,
-                9810,
-                9814,
-                9815,
-                9816,
-                9817,
-                9819,
-                9820,
-                9826,
-                9835,
-                9854,
-                9870,
-                9879,
-                9922,
-                10006,
-                10068,
-                10069,
-                10090,
-                10091,
-                10092,
-                10093,
-                10097
-            ],
-            "service_id": 11111,
-            "type": "ADVICE",
-            "name": "Kontakta Helsingfors sysselsättningstjänster",
-            "description": "Du kan kontakta Helsingfors sysselsättningstjänster via e-tjänsten, per telefon eller med e-post.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Sysselsättningstjänsternas rådgivning",
-                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/kontakta-sysselsattningstjanster\/sysselsattningstjansternas-radgivning"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 4190,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Ring till Helsingfors sysselsättningstjänster",
-                    "availability_summary": "Öppet mån-fre 09-15",
-                    "phone": "+358931036107",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån-fre 09-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 4198,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Logga in och uträtta ärenden i e-tjänsterna på Jobbmarknaden",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ärendehantering för personkunder på Jobbmarknaden",
-                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/personkunder\/arendehantering"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4199,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Skicka e-post",
-                    "information": "E-post till Helsingfors sysselsättningstjänster.",
-                    "email": "tyollisyyspalvelut@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Kontaktuppgifter för Helsingfors sysselsättningstjänster",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/ota-yhteytta-tyollisyyspalveluihin"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4232,
-                    "type": "MAIL",
-                    "type_string": "Postadress",
-                    "name": "Postadress Helsingfors sysselsättningstjänster",
-                    "personal_service_street_addr": "PB 310",
-                    "personal_service_postal_code": "00099",
-                    "personal_service_city": " Helsingfors stad",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4265,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Helsingfors sysselsättningstjänster för personkunder",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Jobbsökande",
-                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/regionala-sidor\/helsingfors-sysselsattningsomrade\/framsida"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4266,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
-                    "name": "Helsingfors sysselsättningstjänsters blanketter",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsingfors sysselsättningstjänsters blanketter",
-                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/kontakta-sysselsattningstjanster\/sysselsattningstjansternas-blanketter"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4347,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Informationssäkra tjänsten Securemail",
-                    "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Securemail",
-                            "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
-                        }
                     ],
                     "availabilities": [
                     ]
@@ -41814,7 +41467,7 @@
                     "id": 4256,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Soita",
+                    "name": "Puhelinpalvelu",
                     "availability_summary": "Avoinna ti 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "maksuton",
@@ -41839,7 +41492,6 @@
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lähetä viesti",
                     "email": "tvu-kotoutujat@hel.fi",
                     "provided_languages": [
                     ],
@@ -41859,9 +41511,9 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
-                    "name": "Asioi toimipisteessä",
+                    "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
                     "availability_summary": "Avoinna to 09-15",
-                    "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs. (Työllisyyspalvelut)",
+                    "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs.",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
                     "provided_languages": [
@@ -41886,7 +41538,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Tietoturvallinen Securemail-palvelu",
-                    "prerequisites": "Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "information": "Henkilökohtaiset tiedot ja liitetiedostot tulee lähettää Securemail-palvelun kautta. Palvelun käyttö vaatii vahvan tunnistautumisen.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -41916,7 +41568,6 @@
             "service_id": 11111,
             "type": "ADVICE",
             "name": "Integration services for the other groups",
-            "costs": "Free of charge",
             "provided_languages": [
                 "en",
                 "fi",
@@ -42035,7 +41686,6 @@
             "service_id": 11111,
             "type": "ADVICE",
             "name": "Integrationstjänster för de andra grupperna",
-            "costs": "Avgiftsfri",
             "provided_languages": [
                 "en",
                 "fi",
@@ -56406,113 +56056,6 @@
         }
     },
     {
-        "id": 5572,
-        "fi": {
-            "id": 5572,
-            "exact_descriptions": [
-            ],
-            "service_id": 10533,
-            "type": "ADVICE",
-            "name": "TE-palvelujen yleinen neuvontapalvelu",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4136,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "TE-palvelujen yleinen neuvontapalvelu",
-                    "phone": "0295 025 500",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
-        "id": 5573,
-        "fi": {
-            "id": 5573,
-            "exact_descriptions": [
-            ],
-            "service_id": 10533,
-            "type": "ADVICE",
-            "name": "TE-palvelut työttömyysturvaneuvonta",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4137,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "TE-palvelut työttömyysturvaneuvonta",
-                    "information": "Tästä numerosta saat neuvoja työttömyysturvaan liittyvissä asioissa:\n\nMissä tilanteessa voit saada työttömyysetuutta?\nMiten esimerkiksi opiskelut, osa-aikatyöt tai yrittäjyys vaikuttavat työttömyysetuuteen?\nMiten selvityspyyntöön vastaaminen hoidetaan?\nMiten voit hakea muutosta saamaasi lausuntoon?\nTyöttömyysturvaneuvonta palvelee sinua arkipäivisin kello 9-16.15 välisenä aikana.\n\nTarkemmat tiedot palvelusta ja jonotusajasta löydät Työmarkkinatorin sivulta.\n",
-                    "phone": "0295 020 701",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5505,
         "fi": {
             "id": 5505,
@@ -60580,202 +60123,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5689,
-        "fi": {
-            "id": 5689,
-            "exact_descriptions": [
-            ],
-            "service_id": 11111,
-            "type": "OTHER_ESERVICE",
-            "name": "Työmarkkinatorin Asiointi-osio henkilöasiakkaille",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4332,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Verkkoasiointi vaatii tunnistautumisen.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Asiointi",
-                            "url": "https:\/\/tyomarkkinatori.fi\/henkiloasiakkaat\/asiointi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5689,
-            "exact_descriptions": [
-            ],
-            "service_id": 11111,
-            "type": "OTHER_ESERVICE",
-            "name": "Job Market Finland's \"E-services\" section for personal customers",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4332,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Authentication is required to use this e-services.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "E-services",
-                            "url": "https:\/\/tyomarkkinatori.fi\/en\/personal-customers\/official-matters"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5689,
-            "exact_descriptions": [
-            ],
-            "service_id": 11111,
-            "type": "OTHER_ESERVICE",
-            "name": "Jobbmarknadens sektion \"e-tjänster\" för personkunder",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4332,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "E-tjänsten kräver identifiering.",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "E-tjänster",
-                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/personkunder\/arendehantering"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 4516,
-        "fi": {
-            "id": 4516,
-            "exact_descriptions": [
-            ],
-            "service_id": 10533,
-            "type": "ADVICE",
-            "name": "Työrasti-palvelu",
-            "description": "Palvelu sopii työnhakijoille, jotka hyötyvät lyhyistä koulutuksista, osaamisen kehittämisestä sekä välityömarkkinamahdollisuuksista.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 4279,
