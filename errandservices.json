@@ -11995,6 +11995,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Hae yrityspysäköintitunnusta",
+                    "information": "Voit olla yhteydessä pysäköintitunnukseen liittyen sähköpostitse.",
                     "email": "kymp.pysakointitunnus@hel.fi",
                     "provided_languages": [
                     ],
@@ -12006,6 +12007,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Pysäköinti",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/pysakointi"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -39512,6 +39518,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Helsingin työllisyyspalveluiden puhelinneuvonta",
+                    "information": "Voit olla yhteydessä työllisyyspalveluihin puhelimitse.",
                     "availability_summary": "Avoinna ma-pe 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "pvm\/mpm",
