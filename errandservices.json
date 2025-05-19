@@ -5892,7 +5892,7 @@
             "service_id": 10384,
             "type": "APPLICATION",
             "name": "Hae avustusta ja kunnan lausuntoa",
-            "description": "Tarvitset kunnan lausunnon rakennus- tai peruskorjaushankkeeseen, johon olet hakenut ARAlta valtion tukea tai avustusta.\n\nKun kohteen hankesuunnitelma on valmistunut, jätä hakemusasiakirjat ARAn sähköisessä asioinnissa. ARA pyytää kunnalta lausuntoa, jonka kunta toimittaa suoraan ARAan. Hakija näkee lausunnon ARAn sähköisestä asioinnista.",
+            "description": "Tarvitset kunnan lausunnon rakennus- tai peruskorjaushankkeeseen, johon olet hakenut Valtion tukeman asuntorakentamisen keskukselta valtion tukea tai avustusta.\n\nKun kohteen hankesuunnitelma on valmistunut, jätä hakemusasiakirjat Valtion tukeman asuntorakentamisen keskuksen sähköisessä asioinnissa. Valtion tukeman asuntorakentamisen keskus pyytää kunnalta lausuntoa, jonka kunta toimittaa suoraan keskukselle. Hakija näkee lausunnon keskuksen sähköisestä asioinnista.",
             "process_description": "",
             "processing_time": "Toimitamme lausunnon kahden viikon kuluessa tarvittavien asiakirjojen vastaanottamisesta.",
             "provided_languages": [
@@ -5962,7 +5962,7 @@
                     "id": 3749,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae avustusta ARAn sivuilla",
+                    "name": "Hae avustusta Valtion tukeman asuntorakentamisen keskuksen sivuilla",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -5975,7 +5975,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry ARAn verkkoasiointiin",
+                            "title": "Siirry Valtion tukeman asuntorakentamisen keskuksen verkkoasiointiin",
                             "url": "https:\/\/www.ara.fi\/fi-FI\/Verkkoasiointi",
                             "file_format": "HTML"
                         }
@@ -11960,10 +11960,9 @@
             "service_id": 10900,
             "type": "APPLICATION",
             "name": "Hae yrityspysäköintitunnusta",
-            "description": "Voit hakea yrityspysäköintitunnusta tai jatkaa tunnuksen voimassaoloa sähköpostitse tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa. \n\nVoit ostaa tunnuksen 1-12 kuukaudeksi kerrallaan. Paikan päällä asioidessa tunnuksen saa voimaan heti ja sähköpostitse käsittelyjonosta riippuen 2-4 arkipäivän kuluttua.\n\n",
+            "description": "Voit hakea yrityspysäköintitunnusta tai jatkaa tunnuksen voimassaoloa sähköpostitse tai asioimalla henkilökohtaisesti kaupunkiympäristön asiakaspalvelussa. Voit ostaa tunnuksen 1-12 kuukaudeksi kerrallaan. \n\nPaikan päällä asioidessasi tunnus tulee voimaan heti. Sähköpostitse lähetettyjen hakemustan käsittelyaika on noin kaksi vuorokautta. Tunnus tulee voimaan noin kahden arkipäivän kuluttua maksusta.\n",
             "process_description": "Kun haet tunnusta, toimita meille:\n- alle kuukauden vanha isännöitsijän tai kiinteistöyhtiön antama todistus, jossa kerrotaan yrityksen osoite. Vuokrasopimus ei ole riittävä todistus\n- jos kyseessä on toiminimi, eikä yrityksen nimestä käy ilmi, kenen toiminimi on kyseessä, tulee toimittaa isännöitsijäntodistuksen lisäksi kaupparekisteriote, josta näkyy elinkeinonharjoittajan nimi\n- ajoneuvon rekisterinumero ja yrityksen Y-tunnus​\n- tieto, haetaanko tunnus yhdelle vai kaikille alueille​\n- tieto, mille ajalle tunnus halutaan ostaa (1-12kk)\n\nJos auto ei ole yrityksen omistuksessa tai hallinnassa, toimita lisäksi viimeisin palkkalaskelma tai ote tulorekisterin kilometrikorvauksista, jossa eritellään kilometrikorvaus auton käytöstä työajossa. Huomaa, että matkalaskut eivät ole riittävä dokumentti. Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi.",
-            "processing_time": "Hakemuksen käsittelyaika on noin kaksi vuorokautta. Tunnus astuu voimaan noin kahden arkipäivän kuluttua maksusta.",
-            "costs": "Sähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Tunnus astuu voimaan n. kahden arkipäivän kuluttua maksusta. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
+            "costs": "Sähköpostitse haettu tunnus maksetaan laskulla, jonka lähetämme sähköpostiisi. Asiakaspalvelussa haettu tunnus maksetaan käteisellä tai pankki- tai luottokortilla.",
             "information": "Voit käyttää tietojesi lähettämiseen kaupungin tarjoamaa suojattua sähköpostia.",
             "provided_languages": [
                 "en",
@@ -12027,10 +12026,9 @@
             "service_id": 10900,
             "type": "APPLICATION",
             "name": "Apply for a business parking permit",
-            "description": "You can apply for a business parking permit or extend the validity of your buseinss parking permit by email to kymp.pysakointitunnus@hel.fi, or by visiting the Urban Environment Division's customer service point in person. \n\nYou can buy a permit for 1-12 months at a time.",
+            "description": "You can apply for a business parking permit or extend the validity of your buseinss parking permit by email to kymp.pysakointitunnus@hel.fi, or by visiting the Urban Environment Division's customer service point in person. \n\nYou can purchase a business parking permit for 1-12 months at a time. If you buy the permit at the customer service desk, it becomes valid immediately. Applications sent by email are processed in about two working days. The permit becomes valid approximately two business days after payment.",
             "process_description": "When applying for a business parking permit, please provide us with the following information:\n- a certificate stating the company's address, issued within the last month by the property manager or real estate company (a rental agreement is not a sufficient certificate)\n- in case of a sole entrepreneurship where the name of the company does not indicate the business owner, in addition to the certificate of the property manager, an extract from the trade register showing the name of the entrepreneur is required\n- the vehicle license plate numbers and the company's business ID\n- information on whether the company would like a permit for one region or all zones\n- the time period for which the company would like to buy a permit \n\nIf the car is owned by or in the possession of a company employee, also provide the most recent payslip or an extract from the Finnish Incomes Register, showing the kilometre allowance paid for use of the car for work. Please always use secure email when sending personal data.\n",
-            "processing_time": "The application processing time is about two days. The permit takes effect approximately two business days after payment.",
-            "costs": "If you apply for a permit by email, we will email you the permit invoice. The permit will come into effect once we have received the payment. If you apply for a permit in person at the customer service point, you can pay with cash or a debit or credit card.",
+            "costs": "If you apply for a permit by email, we will email you the permit invoice. If you apply for a permit in person at the customer service point, you can pay with cash or a debit or credit card.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -12087,10 +12085,9 @@
             "service_id": 10900,
             "type": "APPLICATION",
             "name": "Ansök om tillstånd för företagsparkering",
-            "description": "Du kan ansöka om tillstånd för företagsparkering eller förlänga tillståndets giltighet per e-post (kymp.pysakointitunnus@hel.fi) eller genom att personligen besöka stadsmiljösektorns kundtjänst. \n\nDu kan köpa tillståndet för 1-12 månader.\n\n",
+            "description": "Du kan ansöka om tillstånd för företagsparkering eller förlänga tillståndets giltighet per e-post (kymp.pysakointitunnus@hel.fi) eller genom att personligen besöka stadsmiljösektorns kundtjänst. \n\nDu kan köpa tillståndet för 1-12 månader. Om du köper tillståndet hos kundtjänsten börjar det gälla genast. Om du skickar ansökan per e-post behandlas den på ungefär två dagar. Tillståndet träder i kraft ungefär två vardagar efter att du betalat. \n\n",
             "process_description": "När du ansöker om parkeringstillstånd ber vi dig lämna in\n- ett mindre än en månad gammalt intyg från disponent eller fastighetsbolag med företagets adress. Hyresavtal räcker inte.\n- om det är fråga om ett firmanamn och det inte framgår av företagsnamnet vems firmanamn det är fråga om, ska man lämna in utöver disponentintyget ett handelsregisterutdrag med näringsidkarens namn\n- fordonets registernummer och företagets FO-nummer\n- information om tillståndet söks för ett eller alla områden\n- information om vilken tidsperiod tillståndet söks för. \n\nOm fordonet ägs eller innehas av en företagsanställd, ska du dessutom lämna in den senaste lönespecifikationen eller inkomstregisterutdraget där kilometerersättningen för användning av bilen specificeras. Vänligen använd alltid skyddad e-post när du skickar personuppgifter.",
-            "processing_time": "Handläggningstiden för ansökan är cirka två dagar. Tillståndet träder i kraft cirka två vardagar efter betalningen.",
-            "costs": "Tillstånd som ansöks per e-post betalas via faktura som skickas till din e-post. Tillståndet träder i kraft när betalningen har kommit in. Tillstånd som hämtas hos kundtjänsten betalas kontant eller med bank- eller kreditkort.",
+            "costs": "Tillstånd som ansöks per e-post betalas via faktura som skickas till din e-post. Tillstånd som hämtas hos kundtjänsten betalas kontant eller med bank- eller kreditkort.",
             "provided_languages": [
                 "en",
                 "fi",
