@@ -63155,6 +63155,171 @@
         }
     },
     {
+        "id": 5729,
+        "fi": {
+            "id": 5729,
+            "exact_descriptions": [
+                4217
+            ],
+            "service_id": 10030,
+            "type": "APPOINTMENT",
+            "name": "Varaamo",
+            "description": "Varaamosta voit varata julkisia tiloja ja laitteita satunnaiseen tai säännölliseen käyttöön.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4367,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Varaa tiloja ja laitteita",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Varaamo",
+                            "url": "https:\/\/varaamo.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5729,
+            "exact_descriptions": [
+                4217
+            ],
+            "service_id": 10030,
+            "type": "APPOINTMENT",
+            "name": "Varaamo",
+            "description": "Via Varaamo you can book public premises or equipment for temporary or regular use.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4367,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Book spaces and equipment",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Book spaces and equipment",
+                            "url": "https:\/\/varaamo.hel.fi\/en"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5729,
+            "exact_descriptions": [
+                4217
+            ],
+            "service_id": 10030,
+            "type": "APPOINTMENT",
+            "name": "Varaamo",
+            "description": "Via Varaamo kan du boka offentliga lokaler eller utrustning för tillfällig eller regelbunden bruk.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4367,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Boka lokaler och utrustning",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Boka lokaler och utrustning",
+                            "url": "https:\/\/varaamo.hel.fi\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5109,
         "fi": {
             "id": 5109,
