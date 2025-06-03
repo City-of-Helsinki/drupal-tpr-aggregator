@@ -30242,7 +30242,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Lastenvalvojien puhelinneuvonta (neuvonnasta ei voi varata aikoja)",
-                    "availability_summary": "Avoinna ma-pe 09-11, ke 15:30-18",
+                    "availability_summary": "Avoinna ma-pe 09-11",
                     "phone": "+358 9 310 43447",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -30259,9 +30259,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 09-11"
-                        },
-                        {
-                            "availability_string": "Avoinna ke 15:30-18"
                         }
                     ]
                 }
@@ -30297,7 +30294,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Child welfare supervisors' telephone counselling (no appointments can be booked here)",
-                    "availability_summary": "Open Mon-Fri 09-11, Wed 15:30-18",
+                    "availability_summary": "Open Mon-Fri 09-11",
                     "phone": "+358 9 310 43447",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -30314,9 +30311,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Mon-Fri 09-11"
-                        },
-                        {
-                            "availability_string": "Open Wed 15:30-18"
                         }
                     ]
                 }
@@ -30352,7 +30346,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Barntillsynens telefonrådgivning (du kan inte boka tid här)",
-                    "availability_summary": "Öppet mån-fre 09-11, ons 15:30-18",
+                    "availability_summary": "Öppet mån-fre 09-11",
                     "phone": "+358 9 310 43447",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -30369,9 +30363,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån-fre 09-11"
-                        },
-                        {
-                            "availability_string": "Öppet ons 15:30-18"
                         }
                     ]
                 }
@@ -61190,7 +61181,6 @@
         "fi": {
             "id": 5360,
             "exact_descriptions": [
-                9630
             ],
             "service_id": 10814,
             "type": "ADVICE",
@@ -61362,7 +61352,6 @@
         "en": {
             "id": 5360,
             "exact_descriptions": [
-                9630
             ],
             "service_id": 10814,
             "type": "ADVICE",
@@ -61534,7 +61523,6 @@
         "sv": {
             "id": 5360,
             "exact_descriptions": [
-                9630
             ],
             "service_id": 10814,
             "type": "ADVICE",
