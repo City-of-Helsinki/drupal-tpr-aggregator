@@ -61181,6 +61181,7 @@
         "fi": {
             "id": 5360,
             "exact_descriptions": [
+                9630
             ],
             "service_id": 10814,
             "type": "ADVICE",
@@ -61352,6 +61353,7 @@
         "en": {
             "id": 5360,
             "exact_descriptions": [
+                9630
             ],
             "service_id": 10814,
             "type": "ADVICE",
@@ -61523,6 +61525,7 @@
         "sv": {
             "id": 5360,
             "exact_descriptions": [
+                9630
             ],
             "service_id": 10814,
             "type": "ADVICE",
@@ -62130,7 +62133,6 @@
         "fi": {
             "id": 5100,
             "exact_descriptions": [
-                9002
             ],
             "service_id": 10087,
             "type": "ADVICE",
@@ -62153,7 +62155,7 @@
                     "id": 3485,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Vammaispalvelujen neuvonnan puhelinpalvelu",
+                    "name": "Vammaispalvelujen neuvonnan puhelinpalvelu (suomi)",
                     "availability_summary": "Avoinna ma-pe 09-11, ti, to 12-14",
                     "phone": "+358 9 310 32889",
                     "call_charge_info": "maksuton",
@@ -62182,6 +62184,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Vammaispalvelujen neuvonnan sähköposti",
+                    "prerequisites": "Vammaispalvelujen neuvonnan sähköposti",
                     "email": "sotepe.vammaisneuvonta@hel.fi",
                     "provided_languages": [
                     ],
@@ -62201,7 +62204,7 @@
                     "id": 3527,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Kuljetuspalvelujen neuvonnan puhelinpalvelu",
+                    "name": "Matkakortti- ja palveluseteliasiat suomeksi",
                     "availability_summary": "Avoinna ma-pe 08:15-15",
                     "phone": "+358 9 231 23001",
                     "call_charge_info": "maksuton",
@@ -62219,6 +62222,56 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 08:15-15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4368,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Vammaisneuvonnan puhelinpalvelu ruotsiksi",
+                    "availability_summary": "Avoinna ke 09-11",
+                    "phone": "+358 9310 35154",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ke 09-11"
+                        }
+                    ]
+                },
+                {
+                    "id": 4369,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Matkakortti- ja palveluseteliasiat ruotsiksi",
+                    "availability_summary": "Avoinna ma-pe 08:15-16",
+                    "phone": "+358 9 3104 4817",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:15-16"
                         }
                     ]
                 }
