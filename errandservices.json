@@ -3056,9 +3056,9 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "City Board, Recident participation small grants",
+            "name": "Recident participation small grants",
             "description": "The City Board grants annually grants resident participation grants.\n\nTypes of grants:\n1. General grant for the maintenance and coordination of activities in residential houses.\n2. Operating grant for the development of structures and methods to improve resident participation.\n3. Small grants for new and start-up projects. Small grant applications are processed in order of arrival.",
-            "process_description": "Grants can be applied for by registered associations such as residents'\/neighbourhood associations, other associations, foundations, cooperatives, social enterprises, parking companies managing residents' houses and other enterprises, as long as the activities to be supported are of general interest and target the residents of the city of Helsinki. For applicants in the form of a company, the general instructions of the city apply.\n\nA small grant can be used to support unregistered organisations and associations.\n\nGrants can be applied year-round or until they are all granted. The maximum amount of small grants awarded is €3,000.\n\nHow to apply\n- Log into the city's e-services at avustukset.hel.fi\/en.\n- Confirm your identity with a form of strong identification (online banking codes, Mobile ID, or a certificate card).\n- Fill in the online application form for the City Board general grant.\n- Submit the completed application or save it as a draft. Note that attachments will not be saved along with the draft application.\n- You can track the processing of your application in the 'Latest events' section of the e-services folder.\n\nApplication processing\n- The City Board will make a decision on the grant.\n- The City of Helsinki pays the grant to the selected applicant organisation's bank account.\n- Selected applicants must draw up a report explaining how the grant was used and send it to the city. The grant can only be used for the purpose stated in the application.\n- Inform the city immediately via email (kanslia.avustukset[at]hel.fi) if any significant changes arise that affect the grant or its use.\n",
+            "process_description": "Grants can be applied for by registered associations such as residents'\/neighbourhood associations, other associations, foundations, cooperatives, social enterprises, parking companies managing residents' houses and other enterprises, as long as the activities to be supported are of general interest and target the residents of the city of Helsinki. For applicants in the form of a company, the general instructions of the city apply.\n\nA small grant can be used to support unregistered organisations and associations.\n\nGrants can be applied year-round or until they are all granted. The maximum amount of small grants awarded is €3,000.\n\nHow to apply\n- Log into the city's e-services at avustukset.hel.fi\/en.\n- Confirm your identity with a form of strong identification (online banking codes, Mobile ID, or a certificate card).\n- Fill in the online application form for the City Board general grant.\n- Submit the completed application or save it as a draft. Note that attachments will not be saved along with the draft application.\n- You can track the processing of your application in the 'Latest events' section of the e-services folder.\n\nApplication processing\n- The Communications Director makes grant decisions in the order in which applications are received.\n- The City of Helsinki pays the grant to the selected applicant organisation's bank account.\n- Selected applicants must draw up a report explaining how the grant was used and send it to the city. The grant can only be used for the purpose stated in the application.\n- Inform the city immediately via email (kanslia.avustukset[at]hel.fi) if any significant changes arise that affect the grant or its use.\n",
             "expiration_time": "The application is valid until a decision has been made. A new application submitted for the same purpose will replace any older versions in the system.",
             "information": "Apply for City of Helsinki grants through the city's e-services. If this is not possible, you can also mail the application to the City Register Office at the following address: City of Helsinki Register Office, P.O. Box 10, 00099 CITY OF HELSINKI\n\nAnni Raitaniemi\n040 358 8793\nanni.raitaniemi@hel.fi",
             "provided_languages": [
@@ -3118,7 +3118,7 @@
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Stadsstyrelsen, ansökan om understöd för invånardelaktighet - Små understöd",
+            "name": "Invånardelaktighet - Små understöd",
             "description": "Understöd för invånardelaktighet beviljas för underhåll av invånarhus och samordning av deras verksamhet samt för utveckling av strukturer och metoder som förbättrar invånardeltagandet.\n\nUnderstödskategorier är:\n1. Allmänt understöd för underhåll av invånarhus och samordning av verksamhet\n2. Verksamhetsunderstöd för utveckling av strukturer och metoder som förbättrar invånardeltagandet\n3. Små understöd för nya och begynnande projekt. Små understödsansökningar behandlas i ankomstordning.\n",
             "process_description": "Understöd kan sökas av registrerade sammanslutningar, såsom invånar- eller stadsdelsföreningar, andra föreningar, stiftelser, andelslag, sociala företag, parkeringsbolag som förvaltar invånarhus och andra företag, såvida den verksamhet som understödet beviljas för är allmännyttig och riktar sig till Helsingfors stads invånare.\n\nStadens allmänna anvisningar tillämpas på sökande som är företag. Små understöd kan också sökas av oregistrerade aktörer såsom stadsdelsrörelser och olika slags verksamhets- och arbetsgrupper.\n\nAnsökningar om små understöd tas emot året runt eller så länge det finns tillräckligt med understöd. Små understöd som beviljas är högst 3 000 euro.\n\nSå här ansöker du om bidrag\n- Börja med e-tjänsten avustukset.hel.fi\/sv\n- Logga in i tjänsten.\n- Fyll i elektronisk bidragsansökan.\n- Skicka ansökan eller spara formuläret som ett utkast. Observera att bilagorna inte lagras tillsammans med utkastet.\n- Du kan följa med behandlingen av ansökan i ärendemappen.\n\nHur ärendet framskrider\n- Beslut om beviljande av små understöd fattas av kommunikationsdirektören.\n- Staden betalar bidraget till den sökandes bankkonto.\n- Understödet får användas endast för ett beviljat ändamål och man ska lämna en redogörelse om användningen till staden.\n- Meddela staden utan dröjsmål om betydande förändringar som påverkar användningen av understödet (kanslia.avustukset[at]hel.fi)\n",
             "expiration_time": "En ansökan som skickats in gäller tills beslutet har fattats. En ny ansökan som gjorts för samma ändamål ersätter den gamla.",
@@ -16401,6 +16401,78 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5730,
+        "fi": {
+            "id": 5730,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Hyvinvoinnin ja terveyden edistämisen pienavustus",
+            "description": "Avustuksia myönnetään toimintaan, joka tukee voimassa olevan kaupunkistrategian ja hyvinvoinnin ja terveyden edistämisen suunnitelman tavoitteiden toteutumista.\n",
+            "process_description": "Avustusten hakijoina voivat olla rekisteröidyt yhteisöt, kuten yhdistykset ja säätiöt. Pienavustuksella on mahdollisuus tukea myös rekisteröimättömiä toimijoita ja yhteenliittymiä. Pienavustusta voidaan kohdentaa myös uusien, alkavien tai kertaluonteisten hankkeiden avustamiseen.\n\nPienavustuksia voi hakea ympäri vuoden tai niin kauan kuin avustusmäärärahaa riittää.\n\nMyönnettävät pienavustukset ovat enintään 3 000 euroa.\n\nNäin haet avustusta\n- Aloita asiointi avustukset.hel.fi-palvelusta.\n- Tunnistaudu palveluun.\n- Täytä sähköinen avustushakemus.\n- Lähetä valmis hakemus tai tallenna lomake luonnoksena. Huomaa, että liitteet eivät tallennu hakemusluonnoksen mukana.\n- Voit seurata hakemuksen käsittelyä asiointikansion Tapahtumat-kohdasta.\n\nAsian eteneminen:\n\n- Pienavustusten myöntämisestä päättää ensisijaisesti viestintäjohtaja viranhaltijapäätöksenä. \n- Myönnetty avustus maksetaan hakijayhteisön pankkitilille.\n- Avustusta saa käyttää vain myönnettyyn tarkoitukseen, ja sen käytöstä on annettava selvitys kaupungille.\n- Ilmoita kaupungille viipymättä avustuksen käyttöön vaikuttavista merkittävistä muutoksista (kanslia.avustukset[at]hel.fi)\n\n",
+            "expiration_time": "Lähetetty hakemus on voimassa, kunnes päätös on tehty. Uusi samaan tarkoitukseen tehty hakemus korvaa vanhan.",
+            "information": "Helsingin kaupungin avustuksia haetaan sähköisen palvelun kautta. Poikkeuksellisesti hakemuksen voi toimittaa kirjaamoon. Kuoreen merkitään vastaanottajaksi Helsingin kaupungin kirjaamo, PL 10, 00099 Helsingin kaupunki.\n\nAnni Raitaniemi, projektisuunnittelija\n040 358 8793\nanni.raitaniemi@hel.fi",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoa Helsingin kaupungin avustuksista",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/avustukset"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4370,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hyvinvoinnin ja terveyden edistämisen pienavustus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää tunnistautumista järjestön\/yhdistyksen Suomi.fi-valtuuksilla.\n\nHuomioittehan, että Suomi.fi-valtuuden myöntämiseen saattaa mennä jopa kaksi kuukautta. \nLisätietoja suomi.fi-valtuudesta: https:\/\/www.suomi.fi\/valtuudet",
+                    "information": "Palvelu saatavilla hakuaikana joka päivä ympäri vuorokauden.",
+                    "process_description": "Kun hakija on täyttänyt avustushakemuksen, hän voi tallentaa sen asiointikansioonsa luonnoksena tai lähettää hakemuksen käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyä voi seurata Asiointikansiosta.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Siirry lomakkeeseen",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/avustukset",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 934,
