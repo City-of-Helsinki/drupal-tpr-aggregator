@@ -39682,33 +39682,6 @@
                     ]
                 },
                 {
-                    "id": 4198,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Työmarkkinatorin Asiointi-palvelu",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Kirjaudu sisään Asiointi-palveluun",
-                            "url": "https:\/\/tyomarkkinatori.fi\/henkiloasiakkaat\/asiointi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 4199,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
@@ -39869,33 +39842,6 @@
                     ]
                 },
                 {
-                    "id": 4198,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Sign in and visit Job Market Finland's E-services",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "JobMarket Finland’s E-services for individuals",
-                            "url": "https:\/\/tyomarkkinatori.fi\/en\/personal-customers\/official-matters"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
                     "id": 4199,
                     "type": "EMAIL",
                     "type_string": "E-mail",
@@ -40053,33 +39999,6 @@
                         {
                             "availability_string": "Öppet mån-fre 09-15"
                         }
-                    ]
-                },
-                {
-                    "id": 4198,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Logga in och uträtta ärenden i e-tjänsterna på Jobbmarknaden",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Ärendehantering för personkunder på Jobbmarknaden",
-                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/personkunder\/arendehantering"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 },
                 {
