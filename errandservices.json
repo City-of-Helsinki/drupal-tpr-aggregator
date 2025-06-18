@@ -24087,8 +24087,40 @@
             "channels": [
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5732,
+            "exact_descriptions": [
+                3158
+            ],
+            "service_id": 10336,
+            "type": "APPLICATION",
+            "name": "Club application via e-services",
+            "description": "Apply for a club place for your child via the Edlevo e-service.",
+            "process_description": "You can sign in to Edlevo via the mobile app or on your browser at hel.fi\/vakapalvelu. You can download the app from Google Play or Apple App Store. Edlevo uses suomi.fi e-Identification. \n\nBy signing in to the e-service, you give consent for the e-service and for the electronic transmission of decisions. To open PDF files on a mobile device, you will need a PDF reader application. If you are unable to use strong identification, you can apply to the club by using a paper form. \n",
+            "information": "1.Applying for a place \nComplete the club application in the Edlevo e-service. \n2.Decision on club placement \nYou will be informed of the decision via Edlevo. The decision will be visible to the child's official guardians and parents. \n3.Cancellation or termination of a club place \nIf you do not accept a place offered or wish to cancel an assigned place, cancel or remove the place in Edlevo or notify the senior playground instructor in writing. \n \nYou can apply for playground clubs by using a paper form in the following situations: \n- your child does not have a Finnish personal identity code \n- the family do not have Finnish online banking credentials. \n \nSend the form by post, secure email or give it to a playground instructor at a playground. If the parent or guardian of a child who has applied by using a paper application does not have a Finnish personal identity code, the decision will be sent either via secure email or on paper to the home address.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Edlevo e-service",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/e-service-and-contact-information\/e-service"
+                }
+            ],
+            "channels": [
+            ]
+        },
         "sv": {
             "id": 5732,
             "exact_descriptions": [
@@ -39661,7 +39693,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Helsingin työllisyyspalveluiden puhelinneuvonta",
                     "information": "Voit olla yhteydessä työllisyyspalveluihin puhelimitse.",
-                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "availability_summary": "Avoinna 5.7.2025 saakka ma-pe 09-15, 7.7. - 1.8.2025 ma-pe 09-12",
                     "phone": "+358931036107",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -39677,7 +39709,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe 09-15"
+                            "availability_string": "Avoinna ma-pe 5.7.2025 saakka klo 09-15"
+                        },
+                        {
+                            "availability_string": "Avoinna ma-pe 7.7. - 1.8.2025 klo 09-12"
                         }
                     ]
                 },
@@ -39821,7 +39856,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call Helsinki Employment Services",
-                    "availability_summary": "Open Mon-Fri 09-15",
+                    "availability_summary": "Open until 5 Jul 2025 Mon-Fri 09-15, 7 Jul - 1 Aug 2025 Mon-Fri 09-12",
                     "phone": "+358931036107",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -39837,7 +39872,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Fri 09-15"
+                            "availability_string": "Open Mon-Fri until 5 Jul 2025 at 09-15"
+                        },
+                        {
+                            "availability_string": "Open Mon-Fri 7 Jul - 1 Aug 2025 at 09-12"
                         }
                     ]
                 },
@@ -39981,7 +40019,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring till Helsingfors sysselsättningstjänster",
-                    "availability_summary": "Öppet mån-fre 09-15",
+                    "availability_summary": "Öppet tills 5.7.2025 mån-fre 09-15, 7.7. - 1.8.2025 mån-fre 09-12",
                     "phone": "+358931036107",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -39997,7 +40035,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-fre 09-15"
+                            "availability_string": "Öppet mån-fre tills 5.7.2025 kl. 09-15"
+                        },
+                        {
+                            "availability_string": "Öppet mån-fre 7.7. - 1.8.2025 kl. 09-12"
                         }
                     ]
                 },
@@ -40626,7 +40667,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Työnantaja- ja yritysasiakkaan neuvonta",
-                    "availability_summary": "Avoinna ma-pe 09-12",
+                    "availability_summary": "Avoinna 17.6. - 15.8.2025 ma-pe 09-12, alkaen 18.8.2025 ma-pe 09-16",
                     "phone": "+358931036300",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -40642,7 +40683,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe 09-12"
+                            "availability_string": "Avoinna ma-pe 17.6. - 15.8.2025 klo 09-12"
+                        },
+                        {
+                            "availability_string": "Avoinna ma-pe alkaen 18.8.2025 klo 09-16"
                         }
                     ]
                 },
@@ -40795,7 +40839,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Advisory service for companies and employers",
-                    "availability_summary": "Open Mon-Fri 09-12",
+                    "availability_summary": "Open 17 Jun - 15 Aug 2025 Mon-Fri 09-12, from 18 Aug 2025 Mon-Fri 09-16",
                     "phone": "+358931036300",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -40811,7 +40855,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Fri 09-12"
+                            "availability_string": "Open Mon-Fri 17 Jun - 15 Aug 2025 at 09-12"
+                        },
+                        {
+                            "availability_string": "Open Mon-Fri from 18 Aug 2025 at 09-16"
                         }
                     ]
                 },
@@ -40963,7 +41010,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Rådgivningen för företags- och arbetsgivarkunder",
-                    "availability_summary": "Öppet mån-fre 09-12",
+                    "availability_summary": "Öppet 17.6. - 15.8.2025 mån-fre 09-12, från 18.8.2025 mån-fre 09-16",
                     "phone": "+358931036300",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -40979,7 +41026,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-fre 09-12"
+                            "availability_string": "Öppet mån-fre 17.6. - 15.8.2025 kl. 09-12"
+                        },
+                        {
+                            "availability_string": "Öppet mån-fre från 18.8.2025 kl. 09-16"
                         }
                     ]
                 },
@@ -42065,7 +42115,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ti 09-11",
+                    "availability_summary": "Avoinna ti 09-11, Suljettu 14-18.7.2025 ",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -42082,6 +42132,9 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ti 09-11"
+                        },
+                        {
+                            "availability_string": "Suljettu 14-18.7.2025"
                         }
                     ]
                 },
@@ -42109,7 +42162,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "availability_summary": "Avoinna to 09-15",
+                    "availability_summary": "Avoinna to 09-15, 7-11.7.2025 to 12-15, 21.7. - 1.8.2025 to 12-15, Suljettu 14-18.7.2025 ",
                     "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs.",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -42127,6 +42180,15 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna to 09-15"
+                        },
+                        {
+                            "availability_string": "Avoinna to 21.7. - 1.8.2025 klo 12-15"
+                        },
+                        {
+                            "availability_string": "Avoinna to 7-11.7.2025 klo 12-15"
+                        },
+                        {
+                            "availability_string": "Suljettu 14-18.7.2025"
                         }
                     ]
                 },
@@ -42187,7 +42249,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call",
-                    "availability_summary": "Open Tue 09-11",
+                    "availability_summary": "Open Tue 09-11, Closed 14-18 Jul 2025 ",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "toll free",
                     "provided_languages": [
@@ -42204,6 +42266,9 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Tue 09-11"
+                        },
+                        {
+                            "availability_string": "Closed 14-18 Jul 2025"
                         }
                     ]
                 },
@@ -42230,7 +42295,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Local services",
-                    "availability_summary": "Open Thu 09-15",
+                    "availability_summary": "Open Thu 09-15, 7-11 Jul 2025 Thu 12-15, 21 Jul - 1 Aug 2025 Thu 12-15, Closed 14-18 Jul 2025 ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42245,6 +42310,15 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Thu 09-15"
+                        },
+                        {
+                            "availability_string": "Open Thu 21 Jul - 1 Aug 2025 at 12-15"
+                        },
+                        {
+                            "availability_string": "Open Thu 7-11 Jul 2025 at 12-15"
+                        },
+                        {
+                            "availability_string": "Closed 14-18 Jul 2025"
                         }
                     ]
                 },
@@ -42305,7 +42379,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring",
-                    "availability_summary": "Öppet tis 09-11",
+                    "availability_summary": "Öppet tis 09-11, Stängt 14-18.7.2025 ",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -42322,6 +42396,9 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet tis 09-11"
+                        },
+                        {
+                            "availability_string": "Stängt 14-18.7.2025"
                         }
                     ]
                 },
@@ -42348,7 +42425,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Lokal service",
-                    "availability_summary": "Öppet tor 09-15",
+                    "availability_summary": "Öppet tor 09-15, 7-11.7.2025 tor 12-15, 21.7. - 1.8.2025 tor 12-15, Stängt 14-18.7.2025 ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42363,6 +42440,15 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet tor 09-15"
+                        },
+                        {
+                            "availability_string": "Öppet tor 21.7. - 1.8.2025 kl. 12-15"
+                        },
+                        {
+                            "availability_string": "Öppet tor 7-11.7.2025 kl. 12-15"
+                        },
+                        {
+                            "availability_string": "Stängt 14-18.7.2025"
                         }
                     ]
                 },
