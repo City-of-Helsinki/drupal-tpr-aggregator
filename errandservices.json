@@ -24157,6 +24157,160 @@
         }
     },
     {
+        "id": 5739,
+        "fi": {
+            "id": 5739,
+            "exact_descriptions": [
+                10127
+            ],
+            "service_id": 10578,
+            "type": "ADVICE",
+            "name": "Keskusteluavun puhelin",
+            "description": "Keskusteluavun puhelin",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+                "DIVORCE"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4374,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Puhelinpalvelu",
+                    "availability_summary": "Avoinna ma, ke 13-15",
+                    "phone": "040 686 5293",
+                    "call_charge_info": "pvm\/mpm",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma, ke 13-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5739,
+            "exact_descriptions": [
+            ],
+            "service_id": 10578,
+            "type": "ADVICE",
+            "name": "Keskusteluavun puhelinneuvonta",
+            "description": "Keskusteluavun puhelin",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+                "DIVORCE"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4374,
+                    "type": "TELEPHONE",
+                    "type_string": "Telephone",
+                    "name": "Puhelinpalvelu",
+                    "availability_summary": "Open Mon, Wed 13-15",
+                    "phone": "040 686 5293",
+                    "call_charge_info": "mobile call charge \/ local network charge",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open Mon, Wed 13-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5739,
+            "exact_descriptions": [
+            ],
+            "service_id": 10578,
+            "type": "ADVICE",
+            "name": "Keskusteluavun puhelinneuvonta",
+            "description": "Keskusteluavun puhelin",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+                "DIVORCE"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4374,
+                    "type": "TELEPHONE",
+                    "type_string": "Telefon",
+                    "name": "Puhelinpalvelu",
+                    "availability_summary": "Öppet mån, ons 13-15",
+                    "phone": "040 686 5293",
+                    "call_charge_info": "msa\/lna",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet mån, ons 13-15"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4338,
         "fi": {
             "id": 4338,
@@ -62061,7 +62215,8 @@
                 10009,
                 10010,
                 10012,
-                10112
+                10112,
+                10113
             ],
             "service_id": 10821,
             "type": "APPLICATION",
