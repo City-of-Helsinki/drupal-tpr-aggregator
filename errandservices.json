@@ -42269,9 +42269,9 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ti 09-11, Suljettu poikkeuksellisesti 14-18.7.2025 ",
+                    "availability_summary": "Avoinna alkaen 26.6.2025 ti 09-11, Suljettu poikkeuksellisesti 14-18.7.2025 ",
                     "phone": "+358 9 310 36130",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42285,7 +42285,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ti 09-11"
+                            "availability_string": "Avoinna ti alkaen 26.6.2025 klo 09-11"
                         },
                         {
                             "availability_string": "Suljettu poikkeuksellisesti 14-18.7.2025"
@@ -42296,6 +42296,7 @@
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
+                    "name": "Sähköpostineuvonta",
                     "email": "tvu-kotoutujat@hel.fi",
                     "provided_languages": [
                     ],
@@ -42307,6 +42308,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kotoutumisen palvelut muille kuin työnhakijoille",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/jos-jaat-tyottomaksi\/kun-olet-muuttanut-suomeen\/kotoutumisen-palvelut-muille-kuin-tyonhakijoille"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -42316,7 +42322,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "availability_summary": "Avoinna to 09-15, 7-11.7.2025 to 12-15, 21.7. - 1.8.2025 to 12-15, Suljettu 14-18.7.2025 ",
+                    "availability_summary": "Avoinna alkaen 26.6.2025 to 09-15, 10.7.2025 to 12-15, 21.7. - 1.8.2025 to 12-15, Suljettu 14-18.7.2025 ",
                     "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs.",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -42333,13 +42339,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna to 09-15"
+                            "availability_string": "Avoinna to alkaen 26.6.2025 klo 09-15"
                         },
                         {
                             "availability_string": "Avoinna to 21.7. - 1.8.2025 klo 12-15"
                         },
                         {
-                            "availability_string": "Avoinna to 7-11.7.2025 klo 12-15"
+                            "availability_string": "Avoinna to 10.7.2025 klo 12-15"
                         },
                         {
                             "availability_string": "Suljettu 14-18.7.2025"
@@ -42403,9 +42409,9 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call",
-                    "availability_summary": "Open Tue 09-11, Closed exceptinally 14-18 Jul 2025 ",
+                    "availability_summary": "Open from 26 Jun 2025 Tue 09-11, Closed exceptinally 14-18 Jul 2025 ",
                     "phone": "+358 9 310 36130",
-                    "call_charge_info": "toll free",
+                    "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42419,7 +42425,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Tue 09-11"
+                            "availability_string": "Open Tue from 26 Jun 2025 at 09-11"
                         },
                         {
                             "availability_string": "Closed exceptinally 14-18 Jul 2025"
@@ -42430,6 +42436,7 @@
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "E-mail",
+                    "name": "Email advisory service",
                     "email": "tvu-kotoutujat@hel.fi",
                     "provided_languages": [
                     ],
@@ -42449,7 +42456,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Local services",
-                    "availability_summary": "Open Thu 09-15, 7-11 Jul 2025 Thu 12-15, 21 Jul - 1 Aug 2025 Thu 12-15, Closed 14-18 Jul 2025 ",
+                    "availability_summary": "Open from 26 Jun 2025 Thu 09-15, 10 Jul 2025 Thu 12-15, 21 Jul - 1 Aug 2025 Thu 12-15, Closed 14-18 Jul 2025 ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42463,13 +42470,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Thu 09-15"
+                            "availability_string": "Open Thu from 26 Jun 2025 at 09-15"
                         },
                         {
                             "availability_string": "Open Thu 21 Jul - 1 Aug 2025 at 12-15"
                         },
                         {
-                            "availability_string": "Open Thu 7-11 Jul 2025 at 12-15"
+                            "availability_string": "Open Thu 10 Jul 2025 at 12-15"
                         },
                         {
                             "availability_string": "Closed 14-18 Jul 2025"
@@ -42533,9 +42540,9 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring",
-                    "availability_summary": "Öppet tis 09-11, Stängt undantagsvis 14-18.7.2025 ",
+                    "availability_summary": "Öppet från 26.6.2025 tis 09-11, Stängt undantagsvis 14-18.7.2025 ",
                     "phone": "+358 9 310 36130",
-                    "call_charge_info": "gratis",
+                    "call_charge_info": "msa\/lna",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42549,7 +42556,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet tis 09-11"
+                            "availability_string": "Öppet tis från 26.6.2025 kl. 09-11"
                         },
                         {
                             "availability_string": "Stängt undantagsvis 14-18.7.2025"
@@ -42560,6 +42567,7 @@
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
+                    "name": "E-postrådgivning",
                     "email": "tvu-kotoutujat@hel.fi",
                     "provided_languages": [
                     ],
@@ -42571,6 +42579,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Integrationstjänster för andra än arbetssökande",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/om-du-blir-arbetslos\/nar-du-har-flyttat-till-finland\/integrationstjanster-for-andra-an-arbetssokande"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -42579,7 +42592,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Lokal service",
-                    "availability_summary": "Öppet tor 09-15, 7-11.7.2025 tor 12-15, 21.7. - 1.8.2025 tor 12-15, Stängt 14-18.7.2025 ",
+                    "availability_summary": "Öppet från 26.6.2025 tor 09-15, 10.7.2025 tor 12-15, 21.7. - 1.8.2025 tor 12-15, Stängt 14-18.7.2025 ",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42593,13 +42606,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet tor 09-15"
+                            "availability_string": "Öppet tor från 26.6.2025 kl. 09-15"
                         },
                         {
                             "availability_string": "Öppet tor 21.7. - 1.8.2025 kl. 12-15"
                         },
                         {
-                            "availability_string": "Öppet tor 7-11.7.2025 kl. 12-15"
+                            "availability_string": "Öppet tor 10.7.2025 kl. 12-15"
                         },
                         {
                             "availability_string": "Stängt 14-18.7.2025"
