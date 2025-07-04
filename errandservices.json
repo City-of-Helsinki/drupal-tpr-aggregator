@@ -13527,6 +13527,169 @@
         ]
     },
     {
+        "id": 569,
+        "fi": {
+            "id": 569,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Helsingin kaupungin työllisyysavustus",
+            "name_synonyms": "Työllistämisen tuki, Työllisyyden edistämisrahoitus, Työllisyystoiminnan avustus, Työllistämisavustus, Työllisyysrahoitus, Työllisyysjärjestöjen tuki, Työllisyyspalveluiden avustus, Työllistymistä tukeva rahoitus, Työllisyyden kehittämisavustus, Työllisyysprojektien rahoitus, Nuorten työllistämisen tuki, Maahanmuuttajien työllistämisavustus, Pitkäaikaistyöttömien tukitoimet, Yhdistysten työllisyysrahoitus, Säätiöiden työllistämisavustus, Työkokeilujen rahoitus, Koulutustoiminnan avustus, Ryhmäto",
+            "description": "Helsingin kaupungin työllisyysavustukset tukevat toimintaa, joka edistää helsinkiläisten työllistymistä ja työkykyä.\nVuoden 2026 avustushaku on avoinna 8.-31.12.2025.\n\nTyöllisyysavustusta voivat hakea vähintään vuoden toimineet rekisteröidyt yhdistykset ja säätiöt, joiden toiminta edistää työttömien helsinkiläisten työllistymismahdollisuuksia.",
+            "process_description": "Työllisyysavustuksen hakeminen tapahtuu Helsingin kaupungin sähköisessä asiointipalvelussa. Hakuprosessi on selkeä ja voit seurata hakemuksesi etenemistä reaaliaikaisesti.\n\n1. Siirry asiointipalveluun\nAloita asiointi osoitteessa avustukset.hel.fi\n\n2. Tunnistaudu\nKirjaudu palveluun vahvalla tunnistautumisella (esim. pankkitunnukset tai mobiilivarmenne).\n\n3. Täytä sähköinen hakemus\nTäytä huolellisesti kaikki hakemuksen kohdat. Muista lisätä tarvittavat liitteet.\n\nHuom! Jos tallennat hakemuksen luonnoksena, liitteet eivät tallennu luonnoksen mukana. Lisää liitteet vasta, kun olet valmis lähettämään hakemuksen.\n\n4. Lähetä tai tallenna\n- Lähetä valmis hakemus käsittelyyn.\n- Tai tallenna hakemus luonnoksena, jos haluat palata siihen myöhemmin.\n\n5. Seuraa hakemuksen etenemistä\nVoit seurata hakemuksesi tilaa asiointikansion Tapahtumat-kohdassa. Hakemuksen tila näkyy kolmivaiheisena:\n- Vastaanotettu\n- Käsittelyssä\n- Suljettu (päätös tehty)\n\nMilloin avustuksia haetaan?\n\nTyöllisyysavustuksia yhteisöjen seuraavalle toimintavuodelle haetaan joulukuussa 2025\nPäätökset tehdään alkuvuodesta 2026, kaupungin talousarvion hyväksymisen jälkeen.\n\nHakemukset säilyvät asiointipalvelussa kuusi (6) vuotta. Sen jälkeen lähetetyt hakemustiedot saa pyytämällä toimialalta. Säilytämme hakemuksen liitteineen 10 vuotta.\n\n",
+            "information": "Avustuskyselyt:\ntyollisyys.avustukset@hel.fi \n(hakemuksia ei oteta vastaan sähköpostitse)\n\nYhteyshenkilöt:\nUlla Juhanko, johtava asiantuntija\nulla.juhanko@hel.fi | 040 162 7194\n \nJaana Halin, hankepäällikkö\njaana.halin@hel.fi | 050 417 8835\n\nSuomi.fi-valtuudet:\nhttps:\/\/www.suomi.fi\/valtuudet\n\nTarvitsetko apua?\n\nJos sinulla on kysyttävää hakemuksen tekemisestä, voit olla yhteydessä sähköpostitse:\ntyollisyys.avustukset(at)hel.fi \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308",
+                "a3856963-ad62-4f4a-97e3-0eadd81b16bc",
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoja suomi.fi-valtuuksista",
+                    "url": "https:\/\/www.suomi.fi\/valtuudet",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingin kaupungin yleisiä ohjeita hakijoille",
+                    "url": "https:\/\/avustukset.hel.fi\/fi\/ohjeita-hakijalle",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Työvoimapalvelut yrityksille ja työnantajille",
+                    "url": "https:\/\/tyomarkkinatori.fi\/selkosuomi\/tepalvelutselko",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Työkokeilu, työnhakijat",
+                    "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonhakijat\/aloita-tyonhaku\/vaihtoehtoja-tyollistymiseen\/tyokokeilu",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 843,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Kaupunginkanslia, työllisyysavustushakemus",
+                    "prerequisites": "Palvelun käyttäminen edellyttää rekisteröitymistä sekä vahvaa tunnistautumista.\nPalvelu saatavilla hakuaikana.",
+                    "process_description": "Avustushakemus lähetetään käsiteltäväksi avustusten käsittelyjärjestelmään. Asian käsittelyn etenemistä voi seurata asiointikansiosta. Hakemuksen voi myös tallentaa luonnoksena ja lähettää myöhemmin. Hakemuksen tietoja voi muuttaa hakuaikana. Päivitetty tai uusi samaan tarkoitukseen tehty hakemus korvaa aikaisemman.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Palaute kaupunginkanslialle",
+                            "url": "https:\/\/www.hel.fi\/kanslia\/fi\/palaute\/Anna+palautetta\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Siirry palveluun",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/avustukset\/tyollisyysavustus",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 569,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Stadskansliet, ansökan om sysselsättningsunderstöd",
+            "description": "Sysselsättningsunderstöd beviljas föreningar och stiftelser för verksamhet som främjar helsingforsarnas sysselsättningsmöjligheter.",
+            "process_description": "Verksamhetsunderstöd beviljas som ett allmänt understöd för organisationsverksamhet. Då understödet tar man primärt hänsyn till de dagar under ett år som arbetsprövning har ordnats. Med arbetsprövning avses en arbetsprövning som godkänts av TE-byrån\/Kommunförsöket och som utförs på en arbetsplats. Dessutom beaktas kurser för arbetslösa, övrig gruppverksamhet för arbetslösa, verksamhet som riktas till de prioriterade grupperna för stadens sysselsättningsåtgärder (långtidsarbetslösa, ungdomar och invandrare), målmedveten inriktning mot den öppna arbetsmarknaden eller utbildningen samt faktorer som anges i stadens allmänna understödsanvisningar, särskilt verksamhetens resultat och omfattning samt samarbetets expertis. Då understödet beviljas tar man hänsyn till verksamhetens kostnader, till exempel anställnings- och hyreskostnaderna, i förhållande till verksamhetens omfattning. När understödsbeloppet för följande år bestäms tar man i beaktande hur väl målsättningarna för föregående år har nåtts.\n\nUnderstöd för verksamhetsutveckling beviljas för utveckling av organisationsverksamhet för arbetslösa, för en förbättring av organisationens egen kompetens, för effektivisering av kommunikationen, för utveckling och ökning av tjänster och för att öppna nya vägar för samarbete.\nEn grupp organisationer kan beviljas utvecklingsunderstöd utifrån en gemensam ansökan. Utvecklingsunderstöd kan beviljas också för andra kostnader för sysselsättningsfrämjande projekt, enligt samma förutsättningar som gäller verksamhetsunderstödet.\n\nEn ansökan som gäller följande år ska lämnas in det föregående året. Sysselsättningsbidrag för 2024 ska ansökas\nunder tiden 17.11.-14.12.2023 och att ansökningstiden går ut 14.12.2023 kl. 16.00.\n\n",
+            "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan med samma syfte ersätter den gamla om den lämnats in inom utsatt tid.",
+            "information": "Användningen av tjänsten kräver autentisering med organisationens \/ föreningens Suomi.fi -referenser samt att man registrerar sig som användare i tjänsten. \n\nDe bidragsanvisningar som stadsstyrelsen har godkänt samt tilläggsvillkoren för Helsingfors sysselsättning iakttas då understöden beviljas. Den som beviljar understöd har rätt att granska den sökandes eller bidragstagarens bokföring och förvaltning samt vid behov också göra andra inspektioner av verksamheten.\n\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308",
+                "a3856963-ad62-4f4a-97e3-0eadd81b16bc",
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 843,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Stadskansliet, ansökan om sysselsättningsunderstöd",
+                    "prerequisites": "Användning av e-tjänsten förutsätter registrering och stark identifiering.\n",
+                    "process_description": "Då sökanden fyllt i understödsansökan kan den sparas som utkast i ärendemappen eller skickas för behandling till systemet för behandling av understöd. Behandlingen kan följas i ärendemappen under Händelser.\n\nUppgifterna i ansökan kan ändras så länge statusen är Mottagen. Då ärendet har statusen Behandling kan ändringar inte längre göras. En uppdaterad ansökan ersätter en tidigare skickad ansökan. Bilagor kan skickas med hjälp av meddelandeegenskapen inom den utsatta tiden. Under Händelser finns kontaktuppgifter till handläggaren.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FEEDBACK",
+                            "title": "Respons till stadskansliet",
+                            "url": "https:\/\/www.hel.fi\/kanslia\/sv\/yhteystiedot-ja-palaute_sv\/Respons\/",
+                            "file_format": "HTML"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Gå till e-tjänsten",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understoden\/sysselsattningsunderstod",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5164,
         "fi": {
             "id": 5164,
