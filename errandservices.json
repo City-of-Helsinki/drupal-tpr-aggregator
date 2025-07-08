@@ -13613,19 +13613,16 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": {
+        "en": {
             "id": 569,
             "exact_descriptions": [
             ],
             "service_id": 10115,
             "type": "APPLICATION",
-            "name": "Stadskansliet, ansökan om sysselsättningsunderstöd",
-            "description": "Sysselsättningsunderstöd beviljas föreningar och stiftelser för verksamhet som främjar helsingforsarnas sysselsättningsmöjligheter.",
-            "process_description": "Verksamhetsunderstöd beviljas som ett allmänt understöd för organisationsverksamhet. Då understödet tar man primärt hänsyn till de dagar under ett år som arbetsprövning har ordnats. Med arbetsprövning avses en arbetsprövning som godkänts av TE-byrån\/Kommunförsöket och som utförs på en arbetsplats. Dessutom beaktas kurser för arbetslösa, övrig gruppverksamhet för arbetslösa, verksamhet som riktas till de prioriterade grupperna för stadens sysselsättningsåtgärder (långtidsarbetslösa, ungdomar och invandrare), målmedveten inriktning mot den öppna arbetsmarknaden eller utbildningen samt faktorer som anges i stadens allmänna understödsanvisningar, särskilt verksamhetens resultat och omfattning samt samarbetets expertis. Då understödet beviljas tar man hänsyn till verksamhetens kostnader, till exempel anställnings- och hyreskostnaderna, i förhållande till verksamhetens omfattning. När understödsbeloppet för följande år bestäms tar man i beaktande hur väl målsättningarna för föregående år har nåtts.\n\nUnderstöd för verksamhetsutveckling beviljas för utveckling av organisationsverksamhet för arbetslösa, för en förbättring av organisationens egen kompetens, för effektivisering av kommunikationen, för utveckling och ökning av tjänster och för att öppna nya vägar för samarbete.\nEn grupp organisationer kan beviljas utvecklingsunderstöd utifrån en gemensam ansökan. Utvecklingsunderstöd kan beviljas också för andra kostnader för sysselsättningsfrämjande projekt, enligt samma förutsättningar som gäller verksamhetsunderstödet.\n\nEn ansökan som gäller följande år ska lämnas in det föregående året. Sysselsättningsbidrag för 2024 ska ansökas\nunder tiden 17.11.-14.12.2023 och att ansökningstiden går ut 14.12.2023 kl. 16.00.\n\n",
-            "expiration_time": "En inskickad ansökan är i kraft tills ett beslut fattats. En ny ansökan med samma syfte ersätter den gamla om den lämnats in inom utsatt tid.",
-            "information": "Användningen av tjänsten kräver autentisering med organisationens \/ föreningens Suomi.fi -referenser samt att man registrerar sig som användare i tjänsten. \n\nDe bidragsanvisningar som stadsstyrelsen har godkänt samt tilläggsvillkoren för Helsingfors sysselsättning iakttas då understöden beviljas. Den som beviljar understöd har rätt att granska den sökandes eller bidragstagarens bokföring och förvaltning samt vid behov också göra andra inspektioner av verksamheten.\n\n",
+            "name": "Employment grants in Helsinki",
+            "description": "The City of Helsinki's employment grants support activities that promote the employment and occupational capacity of Helsinki residents. \n\nThe 2026 grant application procedure is open from 8 to 31 December 2025.",
+            "process_description": "Application process:\nThe application for the employment grant is made through the City of Helsinki's e-service. The application process is clear and you can follow the progress of your application in real time.\n1. Go to e-services\nGet started by visiting avustukset.hel.fi\/en\/avustukset\n2. Log in\nLog in with strong authentication (e.g. online banking credentials or mobile authentication).\n3. Fill in the online application\nPlease fill in all sections of the application carefully. Be sure to include the necessary attachments.\nPlease note! If you save the application as a draft, the appendices will not be saved with the draft. Only add attachments when you are ready to submit your application.\n4. Submit or save\n-\tSubmit the completed application for processing.\n-\tOr save your application as a draft if you want to come back to it later.\n5. Follow the progress of your application\nYou can track the status of your application in the Events section of your e-services folder. The status of the application is displayed in three stages:\n- Received\n- In processing\n- Closed (decision made)\nWhen to apply for grants?\nApplications for employment grants for the organisation's next year of operation can be submitted in December 2025\nDecisions will be made in early 2026, after the City's budget has been approved.\nThe applications will be stored in the e-services for six (6) years. After that, you can obtain the applicationd data submitted by requesting it from the division. We will store the application and its attachments for 10 years.\n",
+            "information": "Further information \nGrant enquiries:\ntyollisyys.avustukset@hel.fi (applications are not accepted by email)\n\nContact persons:\nUlla Juhanko, Chief Specialist, ulla.juhanko@hel.fi | +358 (0)40 162 7194\nJaana Halin, Project Manager, jaana.halin@hel.fi | +358 (0)50 417 8835\n \nNeed help?\nIf you have any questions about how to apply, please contact us by email:\ntyollisyys.avustukset(at)hel.fi  \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -13642,6 +13639,78 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Suomi.fi authorisation:",
+                    "url": "https:\/\/www.suomi.fi\/valtuudet",
+                    "file_format": "HTML"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 843,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "City Executive Office, employment grant application",
+                    "prerequisites": "Using the e-service requires you to sign in either with your bank access codes or with mobile certificate.",
+                    "process_description": "When the applicant has filled in a grant application, he or she may save it in a personal e-services folder or send the application to the grant processing system for processing. The processing of the matter may be traced under Development.\n\nThe information in the application may be changed as long as the application has the status \"Received\". When the application has the status \"Processed\", it can no longer be changed. An updated application replaces an earlier application. Appendices may be sent before the given deadline using the message feature. The contact information of the person in charge can be found under Development.",
+                    "authorization_code": "Avustushakemuksen tekeminen",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to the e-service",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants\/employment-grant",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 569,
+            "exact_descriptions": [
+            ],
+            "service_id": 10115,
+            "type": "APPLICATION",
+            "name": "Sysselsättningsstöden i Helsingfors",
+            "description": "Helsingfors stads sysselsättningsstöd stöder verksamhet som främjar sysselsättningen och arbetsförmågan hos Helsingforsbor. \n\nUnderstödsansökan 2026 är öppen 8-31.12.2025.",
+            "process_description": "Fortskridande av behandlingsprocessen av ärendet\nAnsökan om sysselsättningsstöd görs via Helsingfors stads e-tjänst. Ansökningsprocessen är tydlig och du kan följa hur din ansökan fortskrider i realtid.\n1. Gå till e-tjänster\nBörja uträtta ärenden på avustukset.hel.fi\/sv\/avustukset\n2. Identifiera dig\nLogga in med stark autentisering (t.ex. bankkoder eller mobilcertifikat).\n3. Fyll i ansökan elektroniskt\nVänligen fyll i alla delar av ansökan noggrant. Kom ihåg att bifoga alla nödvändiga bilagor.\nObs! Om du sparar ansökan som ett utkast kommer bilagorna inte att sparas tillsammans med utkastet. Lägg till bilagor först när du är redo att skicka din ansökan.\n4. Skicka eller spara\n-\tSkicka den färdiga ansökan för handläggning.\n-\tEller spara ansökan som ett utkast om du vill återkomma till den senare.\n5. Följ hur din ansökan framskrider\nDu kan följa statusen på din ansökan i punkten Händelser i din ärendemapp. Ansökans status visas i tre faser:\n- Mottagen\n- Under handläggning\n- Avslutad (beslut fattat)\nNär ansöker man om understöd?\nSysselsättningsstöd för samfundens följande verksamhetsår ansöks i december 2025\nBesluten kommer att fattas i början av 2026, efter antagandet av stadens budget.\nAnsökningarna sparas i e-tjänsten i sex (6) år. Ansökningsuppgifter som skickats efter det kan erhållas genom att begära dem från sektorn. Vi sparar ansökan och dess bilagor i 10 år.\n\n",
+            "information": "Mer information \nFrågor i anslutning till understöd:\ntyollisyys.avustukset@hel.fi (ansökningar tas inte emot per e-post)\n\nKontaktpersoner:\nUlla Juhanko, ledande expert, ulla.juhanko@hel.fi | 040 162 71 94\nJaana Halin, projektchef,jaana.halin@hel.fi | 050 417 88 35\n\n \nBehöver du hjälp?\nOm du har frågor gällande hur man gör en ansökan kan du kontakta oss per e-post:\ntyollisyys.avustukset(at)hel.fi",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308",
+                "a3856963-ad62-4f4a-97e3-0eadd81b16bc",
+                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Suomi.fi-fullmakter:",
+                    "url": "https:\/\/www.suomi.fi\/fullmakter",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
