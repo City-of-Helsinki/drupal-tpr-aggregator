@@ -13621,7 +13621,7 @@
             "type": "APPLICATION",
             "name": "Employment grants in Helsinki",
             "description": "The City of Helsinki's employment grants support activities that promote the employment and occupational capacity of Helsinki residents. \n\nThe 2026 grant application procedure is open from 8 to 31 December 2025.",
-            "process_description": "Application process:\nThe application for the employment grant is made through the City of Helsinki's e-service. The application process is clear and you can follow the progress of your application in real time.\n1. Go to e-services\nGet started by visiting avustukset.hel.fi\/en\/avustukset\n2. Log in\nLog in with strong authentication (e.g. online banking credentials or mobile authentication).\n3. Fill in the online application\nPlease fill in all sections of the application carefully. Be sure to include the necessary attachments.\nPlease note! If you save the application as a draft, the appendices will not be saved with the draft. Only add attachments when you are ready to submit your application.\n4. Submit or save\n-\tSubmit the completed application for processing.\n-\tOr save your application as a draft if you want to come back to it later.\n5. Follow the progress of your application\nYou can track the status of your application in the Events section of your e-services folder. The status of the application is displayed in three stages:\n- Received\n- In processing\n- Closed (decision made)\nWhen to apply for grants?\nApplications for employment grants for the organisation's next year of operation can be submitted in December 2025\nDecisions will be made in early 2026, after the City's budget has been approved.\nThe applications will be stored in the e-services for six (6) years. After that, you can obtain the applicationd data submitted by requesting it from the division. We will store the application and its attachments for 10 years.\n",
+            "process_description": "Application process:\nThe application for the employment grant is made through the City of Helsinki's e-service. The application process is clear and you can follow the progress of your application in real time.\n\n1. Go to e-services\nGet started by visiting avustukset.hel.fi\/en\/avustukset\n\n2. Log in\nLog in with strong authentication (e.g. online banking credentials or mobile authentication).\n\n3. Fill in the online application\nPlease fill in all sections of the application carefully. Be sure to include the necessary attachments.\n\nPlease note! If you save the application as a draft, the appendices will not be saved with the draft. Only add attachments when you are ready to submit your application.\n\n4. Submit or save\n- Submit the completed application for processing.\n- Or save your application as a draft if you want to come back to it later.\n\n5. Follow the progress of your application\nYou can track the status of your application in the Events section of your e-services folder. The status of the application is displayed in three stages:\n- Received\n- In processing\n- Closed (decision made)\n\nWhen to apply for grants?\nApplications for employment grants for the organisation's next year of operation can be submitted in December 2025\nDecisions will be made in early 2026, after the City's budget has been approved.\n\nThe applications will be stored in the e-services for six (6) years. After that, you can obtain the applicationd data submitted by requesting it from the division. We will store the application and its attachments for 10 years.\n",
             "information": "Further information \nGrant enquiries:\ntyollisyys.avustukset@hel.fi (applications are not accepted by email)\n\nContact persons:\nUlla Juhanko, Chief Specialist, ulla.juhanko@hel.fi | +358 (0)40 162 7194\nJaana Halin, Project Manager, jaana.halin@hel.fi | +358 (0)50 417 8835\n \nNeed help?\nIf you have any questions about how to apply, please contact us by email:\ntyollisyys.avustukset(at)hel.fi  \n",
             "provided_languages": [
                 "en",
@@ -13642,7 +13642,13 @@
                 {
                     "type": "INTERNET",
                     "title": "Suomi.fi authorisation:",
-                    "url": "https:\/\/www.suomi.fi\/valtuudet",
+                    "url": "https:\/\/www.suomi.fi\/e-authorizations",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Work try-out",
+                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/jobseekers\/start-your-job-search\/employment-options\/work-try-out",
                     "file_format": "HTML"
                 }
             ],
@@ -13686,8 +13692,9 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Sysselsättningsstöden i Helsingfors",
+            "name_synonyms": "Sysselsättningsbidrag",
             "description": "Helsingfors stads sysselsättningsstöd stöder verksamhet som främjar sysselsättningen och arbetsförmågan hos Helsingforsbor. \n\nUnderstödsansökan 2026 är öppen 8-31.12.2025.",
-            "process_description": "Fortskridande av behandlingsprocessen av ärendet\nAnsökan om sysselsättningsstöd görs via Helsingfors stads e-tjänst. Ansökningsprocessen är tydlig och du kan följa hur din ansökan fortskrider i realtid.\n1. Gå till e-tjänster\nBörja uträtta ärenden på avustukset.hel.fi\/sv\/avustukset\n2. Identifiera dig\nLogga in med stark autentisering (t.ex. bankkoder eller mobilcertifikat).\n3. Fyll i ansökan elektroniskt\nVänligen fyll i alla delar av ansökan noggrant. Kom ihåg att bifoga alla nödvändiga bilagor.\nObs! Om du sparar ansökan som ett utkast kommer bilagorna inte att sparas tillsammans med utkastet. Lägg till bilagor först när du är redo att skicka din ansökan.\n4. Skicka eller spara\n-\tSkicka den färdiga ansökan för handläggning.\n-\tEller spara ansökan som ett utkast om du vill återkomma till den senare.\n5. Följ hur din ansökan framskrider\nDu kan följa statusen på din ansökan i punkten Händelser i din ärendemapp. Ansökans status visas i tre faser:\n- Mottagen\n- Under handläggning\n- Avslutad (beslut fattat)\nNär ansöker man om understöd?\nSysselsättningsstöd för samfundens följande verksamhetsår ansöks i december 2025\nBesluten kommer att fattas i början av 2026, efter antagandet av stadens budget.\nAnsökningarna sparas i e-tjänsten i sex (6) år. Ansökningsuppgifter som skickats efter det kan erhållas genom att begära dem från sektorn. Vi sparar ansökan och dess bilagor i 10 år.\n\n",
+            "process_description": "Fortskridande av behandlingsprocessen av ärendet\nAnsökan om sysselsättningsstöd görs via Helsingfors stads e-tjänst. Ansökningsprocessen är tydlig och du kan följa hur din ansökan fortskrider i realtid.\n\n1. Gå till e-tjänster\nBörja uträtta ärenden på avustukset.hel.fi\/sv\/avustukset\n\n2. Identifiera dig\nLogga in med stark autentisering (t.ex. bankkoder eller mobilcertifikat).\n\n3. Fyll i ansökan elektroniskt\nVänligen fyll i alla delar av ansökan noggrant. Kom ihåg att bifoga alla nödvändiga bilagor.\n\nObs! Om du sparar ansökan som ett utkast kommer bilagorna inte att sparas tillsammans med utkastet. Lägg till bilagor först när du är redo att skicka din ansökan.\n\n4. Skicka eller spara\n- Skicka den färdiga ansökan för handläggning.\n- Eller spara ansökan som ett utkast om du vill återkomma till den senare.\n\n5. Följ hur din ansökan framskrider\nDu kan följa statusen på din ansökan i punkten Händelser i din ärendemapp. Ansökans status visas i tre faser:\n- Mottagen\n- Under handläggning\n- Avslutad (beslut fattat)\n\nNär ansöker man om understöd?\n\nSysselsättningsstöd för samfundens följande verksamhetsår ansöks i december 2025\nBesluten kommer att fattas i början av 2026, efter antagandet av stadens budget.\n\nAnsökningarna sparas i e-tjänsten i sex (6) år. Ansökningsuppgifter som skickats efter det kan erhållas genom att begära dem från sektorn. Vi sparar ansökan och dess bilagor i 10 år.\n\n",
             "information": "Mer information \nFrågor i anslutning till understöd:\ntyollisyys.avustukset@hel.fi (ansökningar tas inte emot per e-post)\n\nKontaktpersoner:\nUlla Juhanko, ledande expert, ulla.juhanko@hel.fi | 040 162 71 94\nJaana Halin, projektchef,jaana.halin@hel.fi | 050 417 88 35\n\n \nBehöver du hjälp?\nOm du har frågor gällande hur man gör en ansökan kan du kontakta oss per e-post:\ntyollisyys.avustukset(at)hel.fi",
             "provided_languages": [
                 "en",
@@ -13709,6 +13716,12 @@
                     "type": "INTERNET",
                     "title": "Suomi.fi-fullmakter:",
                     "url": "https:\/\/www.suomi.fi\/fullmakter",
+                    "file_format": "HTML"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Arbetsprövning",
+                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetssokande\/borja-soka-jobb\/alternativ-for-sysselsattning\/arbetsprovning",
                     "file_format": "HTML"
                 }
             ],
