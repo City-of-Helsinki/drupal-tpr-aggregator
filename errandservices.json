@@ -1261,6 +1261,181 @@
         }
     },
     {
+        "id": 5218,
+        "fi": {
+            "id": 5218,
+            "exact_descriptions": [
+                6221
+            ],
+            "service_id": 10634,
+            "type": "APPOINTMENT",
+            "name": "Aloituskokous",
+            "description": "Rakentamishankkeeseen ryhtyvän on yhdessä vastaavan työnjohtajan ja taloteknisten töiden työnjohtajien kanssa huolehdittava siitä, että aloituskokous pidetään ennen rakennustyön aloittamista.\n\nAloituskokouksessa on oltava läsnä rakennusvalvontaviranomaisen edustajan lisäksi rakentamishankkeeseen ryhtyvä tai tämän edustaja, rakennuksen pääsuunnittelija sekä vastaava työnjohtaja. Aloituskokoukseen voi osallistua myös erityisalan työnjohtaja(t) ja suunnittelijat, jos heidän asiantuntemustaan tarvitaan aloituskokouksessa liittyvän asian selvittämiseksi. Varmista aloituskokoukseen osallistuvat henkilöt hankkeen tarkastusinsinööriltä aloituskokouksen varaamisen yhteydessä. \n",
+            "process_description": "Rakentamishankkeen vaativuudesta johtuen voi olla tarpeen pyytää rakennusvalvontaviranomaiselta myös taloteknisten töiden aloituskokouksen järjestämistä. Taloteknisten töiden aloituskokouksessa on oltava läsnä rakentamishankkeeseen ryhtyvä tai tämän edustaja, rakennuksen pääsuunnittelija, vastaava työnjohtaja, vastuullinen LVI-suunnittelija sekä LVI-valvoja(t).",
+            "information": "Aloituskokouksessa sovittuja menettelyjä on noudatettava rakennustyössä. Tarvittaessa rakennushankkeen aikana rakennusvalvontaviranomainen voi määrätä laadittavaksi ja toimitettavaksi tarpeellisia selvityksiä ja suunnitelmia. \n\nAloituskokouksessa sovitaan mm. tarkastusasiakirjamenettelystä sekä todetaan ja merkitään aloituskokouspöytäkirjaan \n- suunnittelun, työvaiheiden ja rakennusvaiheiden tarkastuksen keskeiset toimijat ja heidän tarkastustehtävänsä \n- laadunvarmistamiseen liittyvät selvitykset ja toimenpiteet \n- hankkeeseen ryhtyvää koskevat velvoitteet \n- hankkeessa toimitettavat viranomaiskatselmukset ja -tarkastukset.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3658,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Hae yhteystiedot",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Siirry karttapalveluun",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5218,
+            "exact_descriptions": [
+                6221
+            ],
+            "service_id": 10634,
+            "type": "APPOINTMENT",
+            "name": "Book a commencement meeting",
+            "description": "Book a commencement meeting with the inspection engineer or master builder responsible for supervising construction sites in the area. Call during the telephone service hours on Mondays from 9 to 10 and Wednesdays from 9 to 10. You can find the contact information in the map service.",
+            "information": "Content of the commencement meeting:\n\n - agreeing on the inspection document procedure for the construction work\n - appointing persons to inspect the work phases and construction phases\n - recording other matters relating to quality assurance.\n\nThe party starting the construction project is responsible for appointing the responsible persons.\n\nRequired attendees at the commencement meeting:\n\n - Building Control representative\n - party starting the construction project or the party's representative\n - principal designer of the building\n - site supervisor in charge.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3658,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Find contact information",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Go to the map service",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5218,
+            "exact_descriptions": [
+                6221
+            ],
+            "service_id": 10634,
+            "type": "APPOINTMENT",
+            "name": "Boka inledningsmöte",
+            "description": "Boka ett inledningsmöte hos inspektionsingenjören eller byggmästaren som ansvarar för byggarbetets arbetsplatsövervakning. Ring under telefonbetjäningstiden på måndagar kl. 9-10 och onsdagar kl. 9-10. Kontaktuppgifterna finner du i karttjänsten.",
+            "information": "Vid inledningsmötet\n\n - kommer man överens om byggarbetets inspektionsprotokollförfaranden\n - utnämns personerna som inspekterar arbets- och byggnadsskedena\n - registreras andra frågor som har att göra med kvalitetssäkringen.\n\nFör utnämnandet av ansvarspersonerna ansvarar den som inleder byggprojektet.\n\nDe som bör vara närvarande vid inledningsmötet är\n\n - en representant för byggnadstillsynen\n - den som inleder byggprojektet eller hens representant\n - byggnadens huvudarkitekt\n - den ansvarige arbetsledaren\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3658,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Sök kontaktuppgifter",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "MAP",
+                            "title": "Gå till karttjänsten",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5683,
         "fi": {
             "id": 5683,
@@ -63348,180 +63523,6 @@
                         {
                             "availability_string": "Öppet mån-fre 08:30-16"
                         }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5218,
-        "fi": {
-            "id": 5218,
-            "exact_descriptions": [
-                6221
-            ],
-            "service_id": 10634,
-            "type": "APPOINTMENT",
-            "name": "Varaa aloituskokous",
-            "description": "Varaa aloituskokous alueen rakennustyön työmaavalvonnasta vastaavalta tarkastusinsinööriltä tai rakennusmestarilta. Soita puhelinpalveluaikana maanantaisin kello 9-10 ja keskiviikkoisin kello 9-10. Yhteystiedot löydät karttapalvelusta.",
-            "information": "Aloituskokouksessa\n\n - sovitaan rakennustyön tarkastusasiakirjamenettelystä\n\n - nimetään työvaiheita ja rakennusvaiheita tarkastavat henkilöt\n\n - kirjataan muut laadun varmistamiseen liittyvät asiat.\n\nVastuuhenkilöiden nimeämisestä vastaa rakennushankkeeseen ryhtyvä.\n\n Aloituskokouksessa tulee olla läsnä\n\n - rakennusvalvonnan edustaja\n\n - rakennushankkeeseen ryhtyvä tai tämän edustaja\n\n - rakennuksen pääsuunnittelija\n\n - vastaava työnjohtaja.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3658,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Hae yhteystiedot",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Siirry karttapalveluun",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5218,
-            "exact_descriptions": [
-                6221
-            ],
-            "service_id": 10634,
-            "type": "APPOINTMENT",
-            "name": "Book a commencement meeting",
-            "description": "Book a commencement meeting with the inspection engineer or master builder responsible for supervising construction sites in the area. Call during the telephone service hours on Mondays from 9 to 10 and Wednesdays from 9 to 10. You can find the contact information in the map service.",
-            "information": "Content of the commencement meeting:\n\n - agreeing on the inspection document procedure for the construction work\n - appointing persons to inspect the work phases and construction phases\n - recording other matters relating to quality assurance.\n\nThe party starting the construction project is responsible for appointing the responsible persons.\n\nRequired attendees at the commencement meeting:\n\n - Building Control representative\n - party starting the construction project or the party's representative\n - principal designer of the building\n - site supervisor in charge.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3658,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Find contact information",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Go to the map service",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5218,
-            "exact_descriptions": [
-                6221
-            ],
-            "service_id": 10634,
-            "type": "APPOINTMENT",
-            "name": "Boka inledningsmöte",
-            "description": "Boka ett inledningsmöte hos inspektionsingenjören eller byggmästaren som ansvarar för byggarbetets arbetsplatsövervakning. Ring under telefonbetjäningstiden på måndagar kl. 9-10 och onsdagar kl. 9-10. Kontaktuppgifterna finner du i karttjänsten.",
-            "information": "Vid inledningsmötet\n\n - kommer man överens om byggarbetets inspektionsprotokollförfaranden\n - utnämns personerna som inspekterar arbets- och byggnadsskedena\n - registreras andra frågor som har att göra med kvalitetssäkringen.\n\nFör utnämnandet av ansvarspersonerna ansvarar den som inleder byggprojektet.\n\nDe som bör vara närvarande vid inledningsmötet är\n\n - en representant för byggnadstillsynen\n - den som inleder byggprojektet eller hens representant\n - byggnadens huvudarkitekt\n - den ansvarige arbetsledaren\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3658,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Sök kontaktuppgifter",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Gå till karttjänsten",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
