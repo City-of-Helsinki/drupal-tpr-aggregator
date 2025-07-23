@@ -4292,9 +4292,9 @@
             ],
             "service_id": 10876,
             "type": "ADVICE",
-            "name": "Elintarvikeneuvonta",
+            "name": "Elintarvikeneuvonta.",
             "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
-            "description": "Neuvomme ja opastamme elintarvikkeisiin liittyvissä asioissa ja annamme ohjeita elintarviketoimintaa koskien\nsähköpostitse kymp.elintarviketurvallisuus@hel.fi.\n",
+            "description": "Neuvomme ja opastamme elintarvikkeisiin liittyvissä asioissa ja annamme ohjeita elintarviketoimintaa koskien sähköpostitse.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -4308,11 +4308,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Elintarvikeneuvonta",
-                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/elintarvikeneuvonta-0"
-                }
             ],
             "channels": [
                 {
@@ -4320,7 +4315,6 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Elintarvikeneuvonnan sähköposti",
-                    "information": "Lähetä sähköpostia Helsingin elintarvikeneuvonnalle.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -4334,8 +4328,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Lue lisää elintarvikeneuvonnasta",
-                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/elintarvikeneuvonta-0"
+                            "title": "Lisätietoa elintarviketoiminnan luvista ja ilmoituksista",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/elintarviketoiminta\/elintarviketoiminnan-rekisterointi"
                         }
                     ],
                     "availabilities": [
@@ -42533,7 +42527,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna alkaen 26.6.2025 ti 09-11, Suljettu poikkeuksellisesti 14-18.7.2025 ",
+                    "availability_summary": "Avoinna alkaen 26.6.2025 ti 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -42550,9 +42544,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ti alkaen 26.6.2025 klo 09-11"
-                        },
-                        {
-                            "availability_string": "Suljettu poikkeuksellisesti 14-18.7.2025"
                         }
                     ]
                 },
@@ -42586,7 +42577,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "availability_summary": "Avoinna alkaen 26.6.2025 to 09-15, 21.7. - 1.8.2025 to 12-15, Suljettu 14-18.7.2025 ",
+                    "availability_summary": "Avoinna alkaen 26.6.2025 to 09-15, 21.7. - 1.8.2025 to 12-15",
                     "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs.",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -42607,9 +42598,6 @@
                         },
                         {
                             "availability_string": "Avoinna to 21.7. - 1.8.2025 klo 12-15"
-                        },
-                        {
-                            "availability_string": "Suljettu 14-18.7.2025"
                         }
                     ]
                 },
@@ -42670,7 +42658,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call",
-                    "availability_summary": "Open from 26 Jun 2025 Tue 09-11, Closed exceptinally 14-18 Jul 2025 ",
+                    "availability_summary": "Open from 26 Jun 2025 Tue 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -42687,9 +42675,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Tue from 26 Jun 2025 at 09-11"
-                        },
-                        {
-                            "availability_string": "Closed exceptinally 14-18 Jul 2025"
                         }
                     ]
                 },
@@ -42717,7 +42702,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Local services",
-                    "availability_summary": "Open from 26 Jun 2025 Thu 09-15, 21 Jul - 1 Aug 2025 Thu 12-15, Closed 14-18 Jul 2025 ",
+                    "availability_summary": "Open from 26 Jun 2025 Thu 09-15, 21 Jul - 1 Aug 2025 Thu 12-15",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42735,9 +42720,6 @@
                         },
                         {
                             "availability_string": "Open Thu 21 Jul - 1 Aug 2025 at 12-15"
-                        },
-                        {
-                            "availability_string": "Closed 14-18 Jul 2025"
                         }
                     ]
                 },
@@ -42798,7 +42780,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring",
-                    "availability_summary": "Öppet från 26.6.2025 tis 09-11, Stängt undantagsvis 14-18.7.2025 ",
+                    "availability_summary": "Öppet från 26.6.2025 tis 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -42815,9 +42797,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet tis från 26.6.2025 kl. 09-11"
-                        },
-                        {
-                            "availability_string": "Stängt undantagsvis 14-18.7.2025"
                         }
                     ]
                 },
@@ -42850,7 +42829,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Lokal service",
-                    "availability_summary": "Öppet från 26.6.2025 tor 09-15, 21.7. - 1.8.2025 tor 12-15, Stängt 14-18.7.2025 ",
+                    "availability_summary": "Öppet från 26.6.2025 tor 09-15, 21.7. - 1.8.2025 tor 12-15",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42868,9 +42847,6 @@
                         },
                         {
                             "availability_string": "Öppet tor 21.7. - 1.8.2025 kl. 12-15"
-                        },
-                        {
-                            "availability_string": "Stängt 14-18.7.2025"
                         }
                     ]
                 },
@@ -61742,7 +61718,8 @@
                 9956,
                 9957,
                 9978,
-                9986
+                9986,
+                10044
             ],
             "service_id": 10030,
             "type": "INFORMATION_SERVICE",
@@ -61801,7 +61778,8 @@
                 9956,
                 9957,
                 9978,
-                9986
+                9986,
+                10044
             ],
             "service_id": 10030,
             "type": "INFORMATION_SERVICE",
@@ -61860,7 +61838,8 @@
                 9956,
                 9957,
                 9978,
-                9986
+                9986,
+                10044
             ],
             "service_id": 10030,
             "type": "INFORMATION_SERVICE",
@@ -64744,8 +64723,8 @@
             ],
             "service_id": 10634,
             "type": "PERMISSION",
-            "name": "Vastaavan työnjohtajan hyväksyminen",
-            "description": "Hankkeeseen ryhtyvä tai hänen valtuuttama asiamies nimeää työnjohtajan Lupapisteessä, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa. Työnjohtaja vie omat tietonsa ja tallettaa tarvittavat liitteet ja jättää hakemuksen tai tekee ilmoituksen. Rakennusvalvonta hyväksyy hakemuksen tai pyytää tarvittavat lisätiedot.\n",
+            "name": "Vastaavan työnjohtajan ilmoittaminen",
+            "description": "Vastaavan työnjohtajan ilmoitus on jätettävä rakennusvalvontaviranomaiselle ennen kuin aloitetaan rakennustyö tai valmistelevat työt, kuten maankaivu, louhinta, paalutus tai puiden kaato. Rakennuksen korjaus- ja muutostyössä ilmoitus vastaavasta työnjohtajasta on toimitettava ennen kuin ryhdytään rakenteiden tai rakennusosien purkamiseen tai rakentamiseen.",
             "provided_languages": [
                 "fi",
                 "sv"
