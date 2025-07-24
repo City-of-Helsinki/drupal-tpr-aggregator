@@ -59268,6 +59268,66 @@
         }
     },
     {
+        "id": 5744,
+        "fi": {
+            "id": 5744,
+            "exact_descriptions": [
+                10330
+            ],
+            "service_id": 10636,
+            "type": "NOTICE",
+            "name": "Toimita aloittamisilmoitus",
+            "description": "Toimita aloittamisilmoitus työmaan valvonnasta vastaavalle tarkastusinsinöörille tai rakennusmestarille sähköpostilla tai soittamalla puhelinpalveluaikana. Löydät yhteystiedot ja puhelinajat karttapalvelusta.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4377,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Katso yhteystiedot karttapalvelusta",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry karttapalveluun",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5222,
         "fi": {
             "id": 5222,
@@ -63490,6 +63550,66 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5743,
+        "fi": {
+            "id": 5743,
+            "exact_descriptions": [
+                10329
+            ],
+            "service_id": 10636,
+            "type": "APPOINTMENT",
+            "name": "Varaa aloituskokous",
+            "description": "Varaa aloituskokous työmaan valvonnasta vastaavalle tarkastusinsinöörille tai rakennusmestarille sähköpostilla tai soittamalla puhelinpalveluaikana. Löydät yhteystiedot ja puhelinajat karttapalvelusta.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4376,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Katso yhteystiedot karttapalvelusta",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry karttapalveluun",
+                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5439,
