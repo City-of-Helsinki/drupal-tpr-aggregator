@@ -54181,7 +54181,7 @@
             "type": "NOTICE",
             "name": "Tee ilmoitus ruokamyrkytysepäilystä elintarviketoiminnan harjoittajana",
             "name_synonyms": "ruokamyrkytysilmoitus",
-            "description": "Tee ilmoitus Ympäristöterveydenhuollon sähköisessa Ilppa-asiointipalvelussa, josta se ohjautuu ainoastaan elintarvikehuoneiston valvojalle. Valvoja pyytää tarvittaessa sinulta lisätietoja ja antaa toimintaohjeita.",
+            "description": "Tee ilmoitus Ympäristöterveydenhuollon sähköisessa Ilppa-ilmoituspalvelussa. Ilmoitus ohjautuu ainoastaan elintarvikehuoneiston valvojalle. Valvoja pyytää tarvittaessa sinulta lisätietoja ja antaa toimintaohjeita.",
             "provided_languages": [
                 "fi"
             ],
@@ -54325,6 +54325,67 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5746,
+        "fi": {
+            "id": 5746,
+            "exact_descriptions": [
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus ruokamyrkytysepäilystä tai haitasta asiakkaana",
+            "description": "Jos olet asioinut Helsingissä elintarvikkeita myyvässä tai tarjoilevassa yrityksessä ja epäilet, että syömäsi ruoka tai juoma on aiheuttanut ruokamyrkytysoireita, allergisen reaktion tai muun haitan, tee kuluttajan ilmoitus ympäristöterveydenhuollon sähköisessä Ilppa-ilmoituspalvelussa. Suosittelemme antamaan palautetta myös suoraan yritykselle.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4378,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita ruokamyrkytysepäilystä asiakkaana",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ilppa.fi-palveluun",
+                            "url": "https:\/\/ilppa.fi\/kuluttajan-ilmoitukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4042,
