@@ -7794,7 +7794,7 @@
             "service_id": 10786,
             "type": "APPLICATION",
             "name": "Hae lääkelain mukaista nikotiinivalmisteiden vähittäismyyntilupaa",
-            "description": "Tarvitset luvan lääkelain mukaisten nikotiinivalmisteiden vähittäismyyntiin. Voimme myöntää luvan vain sellaisiin helsinkiläisiin vähittäismyymälöihin, kioskeihin, huoltoasemille ja ravitsemisliikkeisiin, joilla on vähittäismyyntilupa tupakkatuotteiden myyntiin.",
+            "description": "Tarvitset luvan lääkelain mukaisten nikotiinivalmisteiden vähittäismyyntiin. Voimme myöntää luvan vain sellaisiin helsinkiläisiin vähittäismyymälöihin, kioskeihin, huoltoasemille ja ravitsemisliikkeisiin, joilla on vähittäismyyntilupa tupakkatuotteiden myyntiin. \n\nLähetä hakemus osoitteeseen helsinki.kirjaamo@hel.fi tai Helsingin kaupunki, Kirjaamo\/Ympäristöpalvelut, PL 10, 00099 HELSINGIN KAUPUNKI.",
             "processing_time": "Käsittelyaika on 14 vuorokautta. Käsittelemme myyntilupahakemuksesi sen kiireellisyyden huomioiden ennen toimintasi aloittamista. ",
             "costs": "Perimme hakemuksesi käsittelystä 210 euron maksun, jonka lisäksi maksat vuosittain valvontamaksua.",
             "provided_languages": [
@@ -7817,7 +7817,6 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Hae lääkelain mukaista nikotiinivalmisteiden vähittäismyyntilupaa",
-                    "information": "Lähetä hakemus osoitteeseen helsinki.kirjaamo@hel.fi tai Helsingin kaupunki, Kirjaamo \/ Ympäristöpalvelut, PL 10, 00099 HELSINGIN KAUPUNKI.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -18915,7 +18914,7 @@
                     "id": 4383,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Imoita muutoksista tai myynnin lopettamisesta",
+                    "name": "Ilmoita muutoksista tai myynnin lopettamisesta",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -18942,7 +18941,6 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Ilmoita muutoksista tai myynnin lopettamisesta",
-                    "information": "Sähköpostitse lähetetyssä ilmoituksessa tulee olla seuraavat tiedot: myyntiluvan haltija, myyntipaikka, lupanumero sekä muutoksen tai myynnin lopettamisen voimaantulon päivämäärä.",
                     "email": "kymp.tupakkalupa@hel.fi",
                     "provided_languages": [
                     ],
