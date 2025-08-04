@@ -11223,8 +11223,9 @@
             "type": "PERMISSION",
             "name": "Hae tupakkalain mukaista myyntilupaa tai tee tukkumyynti-ilmoitus",
             "name_synonyms": "tupakka, tupakkatuotteet, nikotiininesteet, myyntilupa, tukkumyynti",
-            "description": "Tee tupakkatuotteiden, nikotiininesteiden ja savuttomien nikotiinituotteiden myyntilupahakemus sekä tukkumyynti-ilmoitus sähköisesti Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) verkkosivuilla. \n\nJos et pysty tekemään myyntilupahakemusta Valviran sähköisessä palvelussa, täytä pdf-lomake ja lähetä se ympäristöpalveluille sähköpostitse tai postitse.\n",
+            "description": "Tee tupakkatuotteiden, nikotiininesteiden ja savuttomien nikotiinituotteiden myyntilupahakemus sekä tukkumyynti-ilmoitus sähköisesti Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) ylläpitämän tupakkarekisterin asiointipalvelussa. \n\nJos et pysty tekemään myyntilupahakemusta Valviran sähköisessä palvelussa, täytä pdf-lomake ja lähetä se ympäristöpalveluille osoitteeseen kymp.tupakkalupa@hel.fi tai Helsingin kaupunki\/Ympäristöpalvelut, PL 58235, 00099 Helsingin kaupunki.\n",
             "processing_time": "Käsittelyaika on 14 vuorokautta.",
+            "costs": "Hakemuksen käsittelymaksu on 210 euroa ja ilmoituksen käsittelymaksu 105 euroa.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -11246,7 +11247,6 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Hae tupakkalain mukaista myyntilupaa tai tee tukkumyynti-ilmoitus",
-                    "information": "Lähetä hakemus osoitteeseen kymp.tupakkalupa@hel.fi tai Helsingin kaupunki\/Ympäristöpalvelut, PL 58235, 00099 Helsingin kaupunki.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -11269,15 +11269,14 @@
                 },
                 {
                     "id": 3852,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
                     "name": "Hae tupakkalain mukaista myyntilupaa tai tee tukkumyynti-ilmoitus Valviran sähköisessä palvelussa",
                     "provided_languages": [
-                        "en",
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -11287,8 +11286,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry Valviran verkkosivuille",
-                            "url": "https:\/\/valvira.fi\/tupakka\/vahittaismyynti",
+                            "title": "Siirry tupakkarekisterin asiointipalveluun",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -11351,15 +11350,14 @@
                 },
                 {
                     "id": 3852,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
                     "name": "Online services",
                     "provided_languages": [
-                        "en",
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -11433,15 +11431,14 @@
                 },
                 {
                     "id": 3852,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
                     "name": "Elektronisk ärendehantering",
                     "provided_languages": [
-                        "en",
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -18826,6 +18823,68 @@
         }
     },
     {
+        "id": 5749,
+        "fi": {
+            "id": 5749,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Ilmoita myynnin laajentamisesta nikotiininesteisiin tai savuttomiin nikotiinituotteisiin",
+            "description": "Jos sinulla on jo tupakkalain mukainen vähittäismyyntilupa ja haluat myydä myös nikotiininesteitä ja\/tai savuttomia nikotiinituotteita (mm. nikotiinipusseja), tee muutosilmoitus myynnin laajentamisesta uuteen tuoteryhmään.\n\nTee muutosilmoitus tupakkarekisterin sähköisen asiointipalvelun kautta tai lähettämällä ilmoituslomake sähköpostitse. Suosittelemme sähköisen asioinnin käyttämistä.\n\nMuutosilmoitusta varten tarvitset myyntipaikkasi myyntitunnuksen (entinen lupanumero), joka löytyy vähittäismyyntilupapäätöksestä tai myyntilupa-asiakirjasta. Jos lupasi on myönnetty ennen 15.8.2016, tarvitset ilmoitusta varten myös päivitetyn omavalvontasuunnitelman sekä selvityksen myyntipisteiden lukumäärästä ja sijainnista.",
+            "process_description": "Lähetämme vahvistuksen lupatietojen kirjaamisesta järjestelmiimme ja uuden esillä pidettävän myyntilupa-asiakirjan.",
+            "costs": "Perimme muutosilmoituksen käsittelystä 105 euron maksun.",
+            "information": "Nikotiininesteiden ja savuttomien nikotiinituotteiden ottaminen myyntiin voi nostaa vuosittaista valvontamaksua.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4382,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee muutosilmoitus myynnin laajentamisesta uuteen tuoteryhmään",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry tupakkarekisterin asiointipalveluun",
+                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5750,
         "fi": {
             "id": 5750,
@@ -18835,7 +18894,7 @@
             "service_id": 10786,
             "type": "NOTICE",
             "name": "Ilmoita tupakka- ja lääkelakien mukaisten myyntilupien muutoksista tai myynnin lopettamisesta",
-            "description": "Tupakka- ja lääkelain mukaisten lupien lupatietojen muuttumisesta sekä toiminnan lopettamisesta on ilmoitettava etukäteen. Jos Y-tunnuksesi tai myyntipaikkasi osoite muuttuu, sinun on haettava uutta lupaa.\n\nLupatietojen muutoksista ja toiminnan lopettamisesta voit ilmoittaa Tupakkarekisterin sähköisen asioinnin kautta tai sähköpostitse. Sähköpostitse lähetetyssä ilmoituksessa tulee olla seuraavat tiedot: myyntiluvan haltija, myyntipaikka, lupanumero sekä muutoksen tai myynnin lopettamisen voimaantulon päivämäärä.\n",
+            "description": "Tupakka- ja lääkelain mukaisten lupien lupatietojen muuttumisesta sekä toiminnan lopettamisesta on ilmoitettava etukäteen. Jos Y-tunnuksesi tai myyntipaikkasi osoite muuttuu, sinun on haettava uutta lupaa.\n\nLupatietojen muutoksista ja toiminnan lopettamisesta voit ilmoittaa tupakkarekisterin sähköisen asiointipalvelun kautta tai sähköpostitse. Sähköpostitse lähetetyssä ilmoituksessa tulee olla seuraavat tiedot: myyntiluvan haltija, myyntipaikka, lupanumero sekä muutoksen tai myynnin lopettamisen voimaantulon päivämäärä.\n",
             "information": "Myyntipisteiden lukumäärän ja myynnissä olevien tuoteryhmien muutokset vaikuttavat tupakkalain mukaisen myyntiluvan vuosittaiseen valvontamaksuun. Valvontamaksu määräytyy 1. tammikuuta tilanteen mukaan ja silloin sinulta laskutetaan kaikki voimassa olevat luvat. Maksuja ei palauteta tai suhteuteta toiminnan kestoon.",
             "provided_languages": [
                 "fi",
@@ -18861,7 +18920,7 @@
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -18871,7 +18930,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry Tupakkarekisterin asiointiin",
+                            "title": "Siirry tupakkarekisterin asiointipalveluun",
                             "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
                         }
                     ],
@@ -36622,85 +36681,6 @@
         }
     },
     {
-        "id": 4044,
-        "fi": {
-            "id": 4044,
-            "exact_descriptions": [
-            ],
-            "service_id": 10786,
-            "type": "PERMISSION",
-            "name": "Nikotiinivalmisteiden vähittäismyyntilupa",
-            "name_synonyms": "nikotiinivalmisteet, nikotiinipurkka, nikotiinilaastarit",
-            "description": "Nikotiinivalmisteiden vähittäismyynti edellyttää luvan. Lupa haetaan myyntipaikan sijaintikunnalta. Nikotiinivalmisteiden vähittäismyyntilupa voidaan myöntää vain sellaisiin myyntipaikkoihin, joihin on myönnetty tupakkatuotteiden ja nikotiininesteiden vähittäismyyntilupa.",
-            "process_description": "Helsingissä sijaitsevien myyntipaikkojen vähittäismyyntilupa haetaan oheisella lomakkeella. Lomake lähetetään Helsingin ympäristöterveysyksikölle. Yhteystiedot löytyvät oheisen linkin kautta.",
-            "processing_time": "Käsittelyaika on 14 vuorokautta.",
-            "costs": "Nikotiinivalmisteiden vähittäismyyntilupahakemuksen käsittelystä sekä vuotuisesta valvonnasta peritään ympäristöterveydenhuollon taksan mukainen maksu.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Ympäristöterveydenhuollon taksa",
-                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Lue lisää tupakkavalvonnasta ",
-                    "url": "https:\/\/www.hel.fi\/Helsinki\/fi\/asuminen-ja-ymparisto\/elintarvikevalvonta-ja-ymparistoterveys\/tupakka\/"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2864,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hakemuslomake nikotiinivalmisteiden vähittäismyyntiin",
-                    "information": "Hakemuslomake lähetetään osoitteeseen Helsingin kaupunki, Kirjaamo\/Ympäristöpalvelut, PL 10, 00099 HELSINGIN KAUPUNKI tai sähköpostitse osoitteeseen helsinki.kirjaamo@hel.fi.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Hakemuslomake nikotiinivalmisteiden vähittäismyyntiin",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/tsl_lomakkeet\/nikotiinivalm_hakemus.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Hakemuslomake nikotiinivalmisteiden vähittäismyyntiin ",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/tsl_lomakkeet\/nikotiinivalm_hakemus.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5094,
         "fi": {
             "id": 5094,
@@ -40184,7 +40164,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Helsingin työllisyyspalveluiden puhelinneuvonta",
                     "information": "Voit olla yhteydessä työllisyyspalveluihin puhelimitse.",
-                    "availability_summary": "Avoinna 7.7. - 1.8.2025 ma-pe 09-12",
+                    "availability_summary": "Avoinna ma-pe 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -40200,7 +40180,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe 7.7. - 1.8.2025 klo 09-12"
+                            "availability_string": "Avoinna ma-pe 09-15"
                         }
                     ]
                 },
@@ -40344,7 +40324,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call Helsinki Employment Services",
-                    "availability_summary": "Open 7 Jul - 1 Aug 2025 Mon-Fri 09-12",
+                    "availability_summary": "Open Mon-Fri 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -40360,7 +40340,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Fri 7 Jul - 1 Aug 2025 at 09-12"
+                            "availability_string": "Open Mon-Fri 09-15"
                         }
                     ]
                 },
@@ -40504,7 +40484,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring till Helsingfors sysselsättningstjänster",
-                    "availability_summary": "Öppet 7.7. - 1.8.2025 mån-fre 09-12",
+                    "availability_summary": "Öppet mån-fre 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -40520,7 +40500,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-fre 7.7. - 1.8.2025 kl. 09-12"
+                            "availability_string": "Öppet mån-fre 09-15"
                         }
                     ]
                 },
@@ -42597,7 +42577,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna alkaen 26.6.2025 ti 09-11",
+                    "availability_summary": "Avoinna ti 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -42613,7 +42593,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ti alkaen 26.6.2025 klo 09-11"
+                            "availability_string": "Avoinna ti 09-11"
                         }
                     ]
                 },
@@ -42647,7 +42627,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "availability_summary": "Avoinna alkaen 26.6.2025 to 09-15, 21.7. - 1.8.2025 to 12-15",
+                    "availability_summary": "Avoinna to 09-15",
                     "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs.",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -42664,10 +42644,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna to alkaen 26.6.2025 klo 09-15"
-                        },
-                        {
-                            "availability_string": "Avoinna to 21.7. - 1.8.2025 klo 12-15"
+                            "availability_string": "Avoinna to 09-15"
                         }
                     ]
                 },
@@ -42728,7 +42705,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call",
-                    "availability_summary": "Open from 26 Jun 2025 Tue 09-11",
+                    "availability_summary": "Open Tue 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -42744,7 +42721,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Tue from 26 Jun 2025 at 09-11"
+                            "availability_string": "Open Tue 09-11"
                         }
                     ]
                 },
@@ -42772,7 +42749,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Local services",
-                    "availability_summary": "Open from 26 Jun 2025 Thu 09-15, 21 Jul - 1 Aug 2025 Thu 12-15",
+                    "availability_summary": "Open Thu 09-15",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42786,10 +42763,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Thu from 26 Jun 2025 at 09-15"
-                        },
-                        {
-                            "availability_string": "Open Thu 21 Jul - 1 Aug 2025 at 12-15"
+                            "availability_string": "Open Thu 09-15"
                         }
                     ]
                 },
@@ -42850,7 +42824,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring",
-                    "availability_summary": "Öppet från 26.6.2025 tis 09-11",
+                    "availability_summary": "Öppet tis 09-11",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -42866,7 +42840,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet tis från 26.6.2025 kl. 09-11"
+                            "availability_string": "Öppet tis 09-11"
                         }
                     ]
                 },
@@ -42899,7 +42873,7 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Lokal service",
-                    "availability_summary": "Öppet från 26.6.2025 tor 09-15, 21.7. - 1.8.2025 tor 12-15",
+                    "availability_summary": "Öppet tor 09-15",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42913,10 +42887,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet tor från 26.6.2025 kl. 09-15"
-                        },
-                        {
-                            "availability_string": "Öppet tor 21.7. - 1.8.2025 kl. 12-15"
+                            "availability_string": "Öppet tor 09-15"
                         }
                     ]
                 },
@@ -55662,7 +55633,7 @@
                         "fi",
                         "sv"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -55672,29 +55643,9 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry Tupakkarekisterin asiointiin",
-                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
+                            "title": "Siirry tupakkarekisterin asiointipalveluun",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4380,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee muutosilmoitus savuttomien nikotiinituotteiden ottamisesta myyntiin",
-                    "information": "Lähetä muutosilmoitus osoitteeseen kymp.tupakkalupa@hel.fi.",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -59885,68 +59836,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 5749,
-        "fi": {
-            "id": 5749,
-            "exact_descriptions": [
-                9628
-            ],
-            "service_id": 10786,
-            "type": "NOTICE",
-            "name": "Tupakkalain mukaisen myyntiluvan laajentaminen uuteen tuoteryhmään",
-            "description": "Jos sinulla on jo tupakkalain mukainen vähittäismyyntilupa ja haluat myydä myös nikotiininesteitä ja\/tai savuttomia nikotiinituotteita (mm. nikotiinipusseja), tee muutosilmoitus myynnin laajentamisesta uuteen tuoteryhmään.\n\nTee muutosilmoitus Tupakkarekisterin sähköisen asioinnin kautta tai lähettämällä ilmoituslomake sähköpostitse. Suosittelemme sähköisen asioinnin käyttämistä.\n\nMuutosilmoitusta varten tarvitset myyntipaikkasi myyntitunnuksen (entinen lupanumero), joka löytyy vähittäismyyntilupapäätöksestä tai myyntilupa-asiakirjasta. Jos lupasi on myönnetty ennen 15.8.2016, tarvitset ilmoitusta varten myös päivitetyn omavalvontasuunnitelman sekä selvityksen myyntipisteiden lukumäärästä ja sijainnista.",
-            "process_description": "Lähetämme vahvistuksen lupatietojen kirjaamisesta järjestelmiimme ja uuden esillä pidettävän myyntilupa-asiakirjan.",
-            "costs": "Perimme muutosilmoituksen käsittelystä 105 euron maksun.",
-            "information": "Nikotiininesteiden ja savuttomien nikotiinituotteiden ottaminen myyntiin voi nostaa vuosittaista valvontamaksua.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4382,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tee muutosilmoitus myynnin laajentamisesta uuteen tuoteryhmään",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry Tupakkarekisterin asiointiin",
-                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5075,
