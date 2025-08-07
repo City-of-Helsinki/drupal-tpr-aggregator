@@ -7798,8 +7798,7 @@
             "processing_time": "Käsittelyaika on 14 vuorokautta. Käsittelemme myyntilupahakemuksesi sen kiireellisyyden huomioiden ennen toimintasi aloittamista. ",
             "costs": "Perimme hakemuksesi käsittelystä 210 euron maksun, jonka lisäksi maksat vuosittain valvontamaksua.",
             "provided_languages": [
-                "fi",
-                "sv"
+                "fi"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -7816,7 +7815,7 @@
                     "id": 4381,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Hae lääkelain mukaista nikotiinivalmisteiden vähittäismyyntilupaa",
+                    "name": "Hae nikotiinivalmisteiden vähittäismyyntilupaa",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -7839,10 +7838,109 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5748,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "APPLICATION",
+            "name": "Apply for a retail permit for nicotine preparations under the Medicines Act",
+            "description": "You need a permit in order to engage in the retail sale of nicotine preparations under the Medicines Act. We can only grant a permit to retail shops, kiosks, service stations and food businesses in Helsinki that have a retail permit to sell tobacco products.\n\nSend your application to helsinki.kirjaamo@hel.fi or City of Helsinki, Register office\/Environmental Services, PO Box 10, FI-00099 CITY OF HELSINKI.\n",
+            "processing_time": "The application processing time is 14 days. We will process your sales permit application before you start your sales activities, taking into account the urgency of the application.",
+            "costs": "We charge a fee of €210 for processing your application, plus an annual control fee.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4381,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Apply for a retail permit for nicotine preparations",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Application for retail sale of nicotine preparations under the Medicines Act (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/tsl_lomakkeet\/nikotiinivalm_hakemus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5748,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "APPLICATION",
+            "name": "Ansök om detaljhandelstillstånd för nikotinpreparat enligt läkemedelslagen",
+            "description": "Du behöver ett tillstånd för detaljförsäljning av nikotinpreparat enligt läkemedelslagen. Vi kan endast bevilja tillstånd till sådana detaljhandelsaffärer, kiosker, servicestationer och restauranger i Helsingfors som har detaljhandelstillstånd för försäljning av tobaksprodukter.\n\nSkicka ansökan till helsinki.kirjaamo@hel.fi eller Helsingfors stad, Registratorskontoret\/Miljötjänsterna, PB 10, 00099 HELSINGFORS STAD.\n",
+            "processing_time": "Handläggningstiden är 14 dagar. Vi behandlar din ansökan om försäljningstillstånd innan din verksamhet inleds, med hänsyn till hur brådskande den är.",
+            "costs": "Vi debiterar en avgift på 210 euro för behandlingen av din ansökan, och därtill betalar du en årlig tillsynsavgift.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4381,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Ansök om detaljhandelstillstånd för nikotinpreparat",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ansökan enligt läkemedelslagen om detaljförsäljning av nikotinpreparat (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/tsl_lomakkeet\/nikotiinivalm_hakemus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5134,
@@ -11226,7 +11324,6 @@
             "processing_time": "Käsittelyaika on 14 vuorokautta.",
             "costs": "Hakemuksen käsittelymaksu on 210 euroa ja ilmoituksen käsittelymaksu 105 euroa.",
             "provided_languages": [
-                "en",
                 "fi",
                 "sv"
             ],
@@ -11270,7 +11367,7 @@
                     "id": 3852,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae tupakkalain mukaista myyntilupaa tai tee tukkumyynti-ilmoitus Valviran sähköisessä palvelussa",
+                    "name": "Hae tupakkalain mukaista myyntilupaa tai tee tukkumyynti-ilmoitus",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -11302,12 +11399,11 @@
             ],
             "service_id": 10786,
             "type": "PERMISSION",
-            "name": "Apply for a sales licence under the Tobacco Act",
-            "description": "Apply for a sales licence for tobacco products and nicotine-containing liquids and submit a written notification of wholesale to the municipality. Apply online on the website of the Finnish National Supervisory Authority for Welfare and Health (Valvira). Notify the permit issuer of any changes to the permit information and the discontinuation of the sale. Changes to permit information and discontinuation of operations can be notified in free form either by e-mail to kymp.tupakkalupa@hel.fi or by post to the City of Helsinki Environmental Services, P.O. Box 58235, 00099 CITY OF HELSINKI. The notification must include the following information: the sales licence holder, the point of sale, the licence number and the date of the change\/discontinuation.",
+            "name": "Apply for a sales permit or submit a wholesale notification under the Tobacco Act",
+            "description": "Submit the application for a sales permit or wholesale notification for tobacco products, nicotine-containing liquids and non-combustible nicotine products electronically in the tobacco register e-service maintained by the National Supervisory Authority for Welfare and Health (Valvira).\n \nIf you are unable to submit an application for a sales permit in Valvira's online service, please fill in the PDF application form and submit it to Environmental Services at kymp.tupakkalupa@hel.fi or City of Helsinki\/Environmental Services, PO Box 58235, 00099 City of Helsinki.\n",
             "processing_time": "Processing time is 14 days.",
-            "information": "If you are unable to submit the notification in the Valvira service, fill in the PDF form and send it by e-mail to kymp.tupakkalupa@hel.fi.",
+            "costs": "The processing fee is €210 for the application and €105 for the notification.",
             "provided_languages": [
-                "en",
                 "fi",
                 "sv"
             ],
@@ -11326,7 +11422,7 @@
                     "id": 2865,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Forms",
+                    "name": "Apply for a sales permit or submit a wholesale notification",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -11351,7 +11447,7 @@
                     "id": 3852,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Online services",
+                    "name": "Apply for a sales permit or submit a wholesale notification",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -11366,8 +11462,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to Valvira’s website",
-                            "url": "https:\/\/valvira.fi\/en\/tobacco\/retail-sales",
+                            "title": "Go to tobacco register e-service (in Finnish)",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -11383,12 +11479,11 @@
             ],
             "service_id": 10786,
             "type": "PERMISSION",
-            "name": "Ansök om försäljningstillstånd enligt tobakslagen",
-            "description": "Ansök om försäljningstillstånd för tobaksprodukter och nikotinvätskor samt anmäl om partihandel skriftligt till kommunen. Lämna ansökan elektroniskt på Tillsynsmyndigheten för välfärd och hälsas (Valvira) webbplats. Anmäl om ändring i tillståndsuppgifterna och om upphörande av försäljningen till den som beviljat tillståndet. Ändringar i tillståndsuppgifterna och upphörande av verksamheten kan anmälas fritt formulerat antingen per e-post till kymp.tupakkalupa@hel.fi eller per post till Helsingfors stads miljötjänster, PB 58235, 00099 HELSINGFORS STAD. Anmälan ska innehålla följande uppgifter: innehavaren av försäljningstillståndet, försäljningsstället, tillståndsnumret och datum för ändringen\/upphörandet av försäljningen.",
-            "processing_time": "Tid för handläggningen är 14 dygn.",
-            "information": "Om du inte kan göra anmälan i Valviras tjänst, fyll i pdf-blanketten och skicka den per e-post till kymp.tupakkalupa@hel.fi.",
+            "name": "Ansök om försäljningstillstånd enligt tobakslagen eller gör en anmälan om partiförsäljning",
+            "description": "Lämna in ansökan om försäljningstillstånd för tobaksprodukter, nikotinvätskor och rökfria tobaksprodukter samt anmälan om partiförsäljning elektroniskt i e-tjänsten för det tobaksregister som upprätthålls av Tillstånds- och tillsynsverket för social- och hälsovården Valvira. \n\nOm du inte kan lämna in ansökan om försäljningstillstånd i Valviras e-tjänst, fyll i pdf-blanketten och skicka den till miljötjänsterna på kymp.tupakkalupa@hel.fi eller Helsingfors stad\/Miljötjänster, PB 58235, 00099 Helsingfors stad.\n",
+            "processing_time": "Handläggningstiden är 14 dagar.",
+            "costs": "Handläggningsavgiften är 210 euro för en ansökan och 105 euro för en anmälan.",
             "provided_languages": [
-                "en",
                 "fi",
                 "sv"
             ],
@@ -11407,7 +11502,7 @@
                     "id": 2865,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Blanketter",
+                    "name": "Ansök om försäljningstillstånd eller gör en anmälan om partiförsäljning",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -11420,7 +11515,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Ansökan om detaljhandelstillstånd (pdf, på finska)",
+                            "title": "Ansökan om detaljhandelstillstånd och anmälan om partiförsäljning (pdf, på finska)",
                             "url": "https:\/\/valvira.fi\/documents\/152634019\/171571797\/Tupakkarekisteri-Hae-toistaiseksi-voimassa-olevaa-vahittaismyyntilupaa-tai-tee-tukkumyynti-ilmoitus.pdf",
                             "file_format": "PDF"
                         }
@@ -11432,7 +11527,7 @@
                     "id": 3852,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Elektronisk ärendehantering",
+                    "name": "Ansök om försäljningstillstånd eller gör en anmälan om partiförsäljning",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -11447,8 +11542,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Till Valviras webbsida",
-                            "url": "https:\/\/valvira.fi\/sv\/tobak\/detaljhandel",
+                            "title": "Gå till tobaksregistrets e-tjänst",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/app\/sv\/",
                             "file_format": "HTML"
                         }
                     ],
@@ -18875,10 +18970,116 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5749,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Notification of the expansion of sales to nicotine-containing liquids or non-combustible nicotine products",
+            "description": "If you already have a retail permit under the Tobacco Act and you also want to sell nicotine-containing liquids and\/or non-combustible nicotine products (including nicotine pouches), please submit a notification of change for the expansion of sales to a new product group.\n\nSubmit the notification of change in the tobacco register e-service or by sending the notification form by email to kymp.tupakkalupa@hel.fi. We recommend that you use the e-\nservice. \n\nFor the notification of change, you will need the sales ID (formerly the permit number) of your point of sale, which can be found in the retail permit decision or the sales permit document. If your permit was issued before 15 August 2016, you will also need an updated in-house control plan and a description of the number and location of the points of sale.\n",
+            "process_description": "We will send you confirmation of the registration of the permit information in our systems and a new sales permit document to be displayed.",
+            "costs": "We charge a fee of €105 for processing the notification of change.",
+            "information": "Starting the sale of nicotine-containing liquids and non-combustible nicotine products may increase your annual control fee.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4382,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of change for expanding sales to a new product group",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to tobacco register e-service (in Finnish)",
+                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5749,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Anmäl en utvidgning av försäljningen till nikotinvätskor eller rökfria nikotinprodukter",
+            "description": "Om du redan har ett detaljhandelstillstånd enligt tobakslagen och också vill sälja nikotinvätskor och\/eller rökfria nikotinprodukter (bl.a. nikotinpåsar), ska du göra en ändringsanmälan för att utvidga försäljningen till en ny produktgrupp.\n\nGör ändringsanmälan via tobaksregistrets e-tjänst eller genom att skicka anmälningsblanketten per e-post till kymp.tupakkalupa@hel.fi. Vi rekommenderar att du använder de elektroniska tjänsterna. \n\nFör ändringsanmälan behöver du försäljningsplatsens försäljningskod (tidigare tillståndsnummer), som finns i beslutet om detaljhandelstillstånd eller i försäljningstillståndshandlingen. Om ditt tillstånd har beviljats före den 15 augusti 2016 behövs för anmälan också en aktuell egenkontrollplan och en redogörelse över försäljningsställenas antal och placering.\n",
+            "process_description": "Vi skickar en bekräftelse på att tillståndsuppgifterna har registrerats i våra system och en ny försäljningstillståndshandling att visa upp.",
+            "costs": "Vi debiterar en avgift på 105 euro för behandlingen av en ändringsanmälan.",
+            "information": "Om du tar in nikotinvätskor och rökfria nikotinprodukter till försäljning kan den årliga tillsynsavgiften höjas.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4382,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en ändringsanmälan för att utöka försäljningen till en ny produktgrupp",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till tobaksregistrets e-tjänst",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/app\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5750,
@@ -18955,10 +19156,150 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5750,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Notification of changes to sales permits under the Tobacco Act and Medicines Acts or the discontinuation of sales",
+            "description": "You must submit a notification in advance for any changes in the permit information of permits under the Tobacco Act and Medicines Acts and for the discontinuation of sales. If your business ID or the address of your point of sale changes, you will need to apply for a new permit.\n\n Notifications of changes to permit information and the discontinuation of sales can be submitted in the tobacco register e-service or by email. Notifications submitted by email must contain the following information: the sales permit holder, the point of sale, the permit number and the date on which the change or discontinuation of sales takes effect.\n\nChanges to the number of points of sale and product groups sold have an effect on the annual control fee for the sales permit under the Tobacco Act. The control fee is determined on 1 January and it covers all permits effective on that date. The fees will not be refunded or adjusted to reflect the duration of the operations.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4383,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Notification of changes or the discontinuation of sales",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to tobacco register e-service (in Finnish)",
+                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4384,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Notification of changes or the discontinuation of sales",
+                    "email": "kymp.tupakkalupa@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5750,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Meddela om förändringar i försäljningstillstånd enligt tobaks- och läkemedelslagstiftningen eller att försäljningen avslutas",
+            "description": "Du ska meddela i förväg om tillståndsuppgifterna för tillstånd enligt tobaks- och läkemedelslagstiftningen förändras eller om verksamheten avslutas. Om ditt FO-nummer eller adressen till din försäljningsplats ändras måste du ansöka om ett nytt tillstånd.\n\n Du kan meddela om förändringar i tillståndsuppgifterna eller att verksamheten upphör via tobaksregistrets e-tjänst eller per e-post. En anmälan som skickas per e-post ska innehålla följande uppgifter: innehavaren av försäljningstillståndet, försäljningsplats, tillståndsnummer samt datumet då förändringen eller avslutandet av försäljningen träder i kraft.\n\nÄndringar i antalet försäljningsställen eller produktgrupper som säljs påverkar den årliga tillsynsavgiften för försäljningstillståndet enligt tobakslagen. Tillsynsavgiften fastställs enligt läget den 1 januari, och du faktureras då för alla gällande tillstånd. Avgifterna returneras inte och ställs inte i relation till verksamhetens varaktighet.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4383,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Meddela om förändringar eller att försäljningen upphör",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till tobaksregistrets e-tjänst",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/app\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4384,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Meddela om förändringar eller att försäljningen upphör",
+                    "email": "kymp.tupakkalupa@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5396,
@@ -55609,6 +55950,7 @@
             "service_id": 10786,
             "type": "NOTICE",
             "name": "Tee muutosilmoitus savuttomien nikotiinituotteiden ottamisesta myyntiin",
+            "name_synonyms": "nikotiinipussien myyntilupa",
             "description": "Savuttomat nikotiinituotteet (mm. nikotiinipussit) ovat tulleet tupakkalakiin 1.8.2025 alkaen. Jos sinulla on jo tupakkalain mukainen vähittäismyyntilupa ja haluat myydä myös savuttomia nikotiinituotteita, tee muutosilmoitus myyntivalikoiman laajentumisesta.\n\nMuutosilmoitus pitää tehdä viimeistään 31.10.2025. Savuttomia nikotiinituotteita ei saa myydä ilman jätettyä muutosilmoitusta tai haettua vähittäismyyntilupaa 1.11.2025 alkaen. \n\nTee muutosilmoitus Tupakkarekisterin sähköisen asioinnin kautta tai lähettämällä ilmoituslomake sähköpostitse. Suosittelemme sähköisen asioinnin käyttämistä.\n\nMuutosilmoitusta varten tarvitset myyntipaikkasi myyntitunnuksen (entinen lupanumero), joka löytyy vähittäismyyntilupapäätöksestä tai myyntilupa-asiakirjasta. Jos lupasi on myönnetty ennen 15.8.2016, tarvitset ilmoitusta varten myös päivitetyn omavalvontasuunnitelman sekä selvityksen myyntipisteiden lukumäärästä ja sijainnista.",
             "processing_time": "Lähetämme vahvistuksen lupatietojen kirjaamisesta järjestelmiimme ja uuden esillä pidettävän myyntilupa-asiakirjan 1.8.2026 mennessä.",
             "costs": "Perimme muutosilmoituksen käsittelystä 105 euron maksun.",
@@ -55656,10 +55998,116 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5747,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Submit a notification of change for starting the sale of non-combustible nicotine products",
+            "description": "Non-combustible nicotine products (including nicotine pouches) were included in the Tobacco Act as of 1 August 2025. If you already have a sales permit under the Tobacco Act and you also want to sell non-combustible nicotine products, please submit a notification of change to expand your range of products.\n\nThe notification of change must be submitted by 31 October 2025. As of 1 November 2025, non-combustible nicotine products may not be sold without a submitted notification of change or application for a retail permit. \n\nSubmit a notification of change in the tobacco register e-service or by sending the notification form by email. We recommend that you use the e-service.",
+            "processing_time": "We will send you confirmation of the registration of the permit information in our systems and a new sales permit document to be displayed by 1 August 2026.",
+            "costs": "We charge a fee of €105 for processing the notification of change.",
+            "information": "For the notification of change, you will need the sales ID (formerly the permit number) of your point of sale, which can be found in the retail permit decision or the sales permit document. If your permit was issued before 15 August 2016, you will also need an updated in-house control plan and a description of the number and location of the points of sale.\n\nStarting the sale of non-combustible nicotine products may increase your annual control fee.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4379,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of change for starting the sale of non-combustible nicotine products",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to tobacco register e-service (in Finnish)",
+                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5747,
+            "exact_descriptions": [
+                9628
+            ],
+            "service_id": 10786,
+            "type": "NOTICE",
+            "name": "Gör en ändringsanmälan för att ta in rökfria nikotinprodukter till försäljning",
+            "description": "Rökfria nikotinprodukter (inklusive nikotinpåsar) har inkluderats i tobakslagen från och med den 1 augusti 2025. Om du redan har ett detaljhandelstillstånd enligt tobakslagen och du även vill sälja rökfria nikotinprodukter, gör en ändringsanmälan för att utöka ditt produktsortiment.\n\nÄndringsanmälan ska göras senast den 31 oktober 2025. Från och med den 1 november 2025 får man inte sälja rökfria nikotinprodukter om man inte lämnat in en ändringsanmälan eller ansökt om detaljhandelstillstånd. \n\nGör ändringsanmälan via tobaksregistrets e-tjänst eller genom att skicka anmälningsblanketten per e-post. Vi rekommenderar att du använder de elektroniska tjänsterna.",
+            "processing_time": "Vi skickar en bekräftelse på att tillståndsuppgifterna har registrerats i våra system och en ny försäljningstillståndshandling att visa upp senast den 1 augusti 2026.",
+            "costs": "Vi debiterar en avgift på 105 euro för behandlingen av en ändringsanmälan.",
+            "information": "För ändringsanmälan behöver du försäljningsplatsens försäljningskod (tidigare tillståndsnummer), som finns i beslutet om detaljhandelstillstånd eller i försäljningstillståndshandlingen. Om ditt tillstånd har beviljats före den 15 augusti 2016 behövs för anmälan också en aktuell egenkontrollplan och en redogörelse över försäljningsställenas antal och placering.\n\nOm rökfria nikotinprodukter tas in för försäljning kan den årliga tillsynsavgiften höjas.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4379,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en ändringsanmälan för att ta in rökfria nikotinprodukter till försäljning",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till tobaksregistrets e-tjänst",
+                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/app\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 520,
