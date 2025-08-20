@@ -42824,10 +42824,10 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
-                    "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "availability_summary": "Avoinna to 09-15",
-                    "personal_service_street_addr": "Asiakkaankatu 3 A, 4. krs.",
-                    "personal_service_postal_code": "00930",
+                    "name": "Helsingin työllisyyspalvelut, Kampin toimipiste",
+                    "availability_summary": "Suljettu poikkeuksellisesti 3.9.2025 saakka ",
+                    "personal_service_street_addr": "Malminkatu 34",
+                    "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsinki",
                     "provided_languages": [
                     ],
@@ -42842,7 +42842,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna to 09-15"
+                            "availability_string": "Suljettu poikkeuksellisesti 3.9.2025 saakka"
                         }
                     ]
                 },
@@ -42947,7 +42947,11 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Local services",
-                    "availability_summary": "Open Thu 09-15",
+                    "name": "Helsinki Employment Services, Kamppi office",
+                    "availability_summary": "Closed exceptinally until 3 Sep 2025 ",
+                    "personal_service_street_addr": "Malminkatu 34",
+                    "personal_service_postal_code": "00100",
+                    "personal_service_city": "Helsinki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -42961,7 +42965,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Thu 09-15"
+                            "availability_string": "Closed exceptinally until 3 Sep 2025"
                         }
                     ]
                 },
@@ -43071,7 +43075,11 @@
                     "id": 4259,
                     "type": "LOCAL",
                     "type_string": "Lokal service",
-                    "availability_summary": "Öppet tor 09-15",
+                    "name": "Helsingfors sysselsättningstjänster, Kampens verksamhetsställe",
+                    "availability_summary": "Stängt undantagsvis tills 3.9.2025 ",
+                    "personal_service_street_addr": "Malmgatan 34",
+                    "personal_service_postal_code": "00100",
+                    "personal_service_city": "Helsingfors",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -43085,7 +43093,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet tor 09-15"
+                            "availability_string": "Stängt undantagsvis tills 3.9.2025"
                         }
                     ]
                 },
