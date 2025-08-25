@@ -4185,6 +4185,168 @@
         }
     },
     {
+        "id": 5757,
+        "fi": {
+            "id": 5757,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Digiarkisto",
+            "description": "Tutustu saatavilla olevaan aineistoon verkkosivuilla. Arkistoon on kerätty muun muassa valokuvia, musiikkivideoita, lyhytelokuvia ja taltiointeja.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4390,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/tekemista-ja-paikkoja\/harrastuksia\/media\/arkisto\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5757,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Digital Archive",
+            "description": "See the available material on the website. The archive compiles photographs, music videos, short films and recordings, among other things.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4390,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/things-to-do-and-places\/hobbies\/media-activities\/digital-archive\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5757,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Digitalt arkiv",
+            "description": "Bekanta dig med materialet på webbplatsen. I arkivet har vi samlat bland annat fotografier, musikvideor, kortfilmer och inspelningar.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4390,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/digitalt-arkiv\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4422,
         "fi": {
             "id": 4422,
@@ -13998,6 +14160,241 @@
                             "title": "Gå till e-tjänsten",
                             "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understoden\/sysselsattningsunderstod",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5758,
+        "fi": {
+            "id": 5758,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsingin nuorisoneuvosto",
+            "description": "Lue lisää nuorisoneuvoston toiminnasta verkkosivuilta tai ota yhteyttä sähköpostilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4391,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Ota yhteyttä sähköpostilla",
+                    "information": "Ota yhteyttä sähköpostilla\n",
+                    "email": "nuorisoneuvosto@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ota yhteyttä sähköpostilla",
+                            "url": "https:\/\/nuorten.hel.fi\/osallistu-ja-vaikuta\/helsingin-nuorisoneuvosto\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4392,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/osallistu-ja-vaikuta\/helsingin-nuorisoneuvosto\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5758,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsinki Youth Council",
+            "description": "Read more about the Youth Council on the website or contact by email.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4391,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Contact by email",
+                    "information": "Contact by email",
+                    "email": "nuorisoneuvosto@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4392,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/take-part-and-make-a-difference\/helsinki-youth-council\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5758,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsingfors ungdomsråd",
+            "description": "Läs mer om ungdomsrådets aktiviteter på webbplatsen eller ta kontakt med oss per e-post.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4391,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Ta kontakt per e-post",
+                    "information": "Ta kontakt per e-post\n",
+                    "email": "nuorisoneuvosto@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ta kontakt per e-post",
+                            "url": "https:\/\/nuorten.hel.fi\/osallistu-ja-vaikuta\/helsingin-nuorisoneuvosto\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4392,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/delta-och-paverka\/hur-du-kan-paverka\/helsingfors-ungdomsrad\/"
                         }
                     ],
                     "availabilities": [
@@ -24078,6 +24475,168 @@
                             "title": "Blanketten, bilagor och mer information",
                             "url": "https:\/\/www.suomi.fi\/service\/blankett\/anmalan-om-eller-andring-av-produktion-av-privat-smabarnspedagogik-regionforvaltningsverket\/1c72f019-b5c8-43df-9706-eed8e13a81b0",
                             "file_format": "WORD"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5766,
+        "fi": {
+            "id": 5766,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Katutaidetta nuorille",
+            "description": "Tutustu katutaide- ja graffitipajoihin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4400,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/tekemista-ja-paikkoja\/harrastuksia\/taide\/katutaide\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5766,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Street art for young people",
+            "description": "Learn more about street art and graffiti workshops on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4400,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/things-to-do-and-places\/hobbies\/art-and-handicrafts\/street-art\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5766,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Gatukonst för ungdomar",
+            "description": "Läs mer om gatukonst- och graffitiverkstäder på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4400,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/platser-och-saker-att-gora\/hobbyer\/konst-och-handens-fardigheter\/gatukonst\/"
                         }
                     ],
                     "availabilities": [
@@ -35064,6 +35623,330 @@
         }
     },
     {
+        "id": 5763,
+        "fi": {
+            "id": 5763,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Luuppi Media - Mediatoimintaa nuorille",
+            "description": "Tutustu Luuppi Median toimintaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4397,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/luuppi-media\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5763,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Luuppi Media - Media activities for young people",
+            "description": "Learn more about Luuppi Media's activities on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4397,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/youth-centers\/luuppi-media\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5763,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Luuppi Media - Medieverksamhet för ungdomar",
+            "description": "Läs mer om Luuppi Medias verksamhet på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4397,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/ungdomsgardar\/luuppi-media\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5755,
+        "fi": {
+            "id": 5755,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Luuppi Skeittihalli",
+            "description": "Tutustu Luupin Skeittihalliin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4388,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivu",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivu",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/luuppi-skate\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5755,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Luuppi Indoor Skatepark",
+            "description": "Learn more on Luuppi Indoor Skatepark's website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4388,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/youth-centers\/luuppi-skate\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5755,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Gårdsbacka skatehall",
+            "description": "Bekanta dig med Gårdsbacka skatehall på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4388,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/luuppi-skate\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5653,
         "fi": {
             "id": 5653,
@@ -36685,7 +37568,6 @@
                     "type": "WEBPAGE",
                     "type_string": "Webbsida",
                     "name": "Boka scenen",
-                    "prerequisites": "https:\/\/varaamo.hel.fi\/reservation-unit\/17\n",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -37103,6 +37985,168 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5759,
+        "fi": {
+            "id": 5759,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorisoneuvoston vaalit",
+            "description": "Tutustu Nuorisoneuvoston vaaleihin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4393,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/osallistu-ja-vaikuta\/nuorisoneuvoston-vaalit\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5759,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Youth Council elections",
+            "description": "Learn more about the Youth Council elections on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4393,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/take-part-and-make-a-difference\/youth-council-election\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5759,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Valet av ungdomsrådet",
+            "description": "Läs mer om valet till ungdomsrådet på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4393,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/delta-och-paverka\/hur-du-kan-paverka\/valet-av-ungdomsradet\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5753,
@@ -38230,6 +39274,329 @@
         }
     },
     {
+        "id": 5762,
+        "fi": {
+            "id": 5762,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten aloitteet",
+            "description": "Voit tehdä aloitteen verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4396,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tee aloite verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tee aloite verkkosivuilla",
+                            "url": "https:\/\/nuorten.hel.fi\/tee-aloite\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5762,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Young people's initiatives",
+            "description": "You can submit an initiative on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4396,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Submit your initiative on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Submit your initiative on the website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/submit-an-initiative\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5762,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ungdomsinitiativ",
+            "description": "Du kan ge förslag på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4396,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Ta ett initiativ på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ta ett initiativ på webbplatsen",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/ta-initiativ\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5761,
+        "fi": {
+            "id": 5761,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten budjetti",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4395,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/osallistu-ja-vaikuta\/nuorten-budjetti\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5761,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Youth Budget",
+            "description": "Read more about the Youth Budget on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4395,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/take-part-and-make-a-difference\/youth-budget\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5761,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ungdomsbudgeten",
+            "description": "Läs mer om ungdomsbudgeten på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4395,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/delta-och-paverka\/ungdomsbudgeten\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5679,
         "fi": {
             "id": 5679,
@@ -38386,6 +39753,329 @@
                             "type": "INTERNET",
                             "title": "Information om motionstjänster för unga",
                             "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/malgrupper\/unga"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5760,
+        "fi": {
+            "id": 5760,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten vaikuttamisen mahdollisuudet Helsingissä",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4394,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/osallistu-ja-vaikuta\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5760,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Influencing opportunities for young people in Helsinki",
+            "description": "Learn how young people can make a difference on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4394,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/take-part-and-make-a-difference\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5760,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Möjligheter för unga att påverka i Helsingfors",
+            "description": "På webbplatsen kan du läsa mer om hur ungdomar kan påverka.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4394,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/delta-och-paverka\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5765,
+        "fi": {
+            "id": 5765,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten Ääni -toimitus",
+            "description": "Tutustu Nuorten Ääni -toimituksen toimintaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4399,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/nuorten-aani\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5765,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Voice of the Young editorial board",
+            "description": "Learn more about the Voice of the Young editorial board on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4399,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/nuorten-aani\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5765,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Redaktionen De ungas röst",
+            "description": "Läs mer om redaktionen De ungas rösts verksamhet på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4399,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/nuorten-aani\/"
                         }
                     ],
                     "availabilities": [
@@ -48958,6 +50648,168 @@
         }
     },
     {
+        "id": 5764,
+        "fi": {
+            "id": 5764,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Signaalimedia - Nuorten kulttuuritoimitus",
+            "description": "Tutustu Signaalimediaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4398,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/signaalimedia\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5764,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Signaalimedia - Youth culture editorial",
+            "description": "Learn more about Signaalimedia on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4398,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/youth-centers\/signaalimedia\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5764,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Signaalimedia - En ungdomskulturell redaktion",
+            "description": "Bekanta dig med Signaalmedias webbplats.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4398,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/ungdomsgardar\/signaalimedia\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4352,
         "fi": {
             "id": 4352,
@@ -51968,6 +53820,168 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5767,
+        "fi": {
+            "id": 5767,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Tattarisuon moottorihalli",
+            "description": "Tutustu Tattarisuon moottorihallin toimintaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4401,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/tattarisuo-engine-workshop\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5767,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Tattarisuo Engine Workshop",
+            "description": "Learn more about Tattarisuo Engine Workshop on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4401,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/youth-centers\/tattarisuo-engine-workshop\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5767,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Tattarmossens motorhall",
+            "description": "Bekanta dig med Tattarmossens motorhall och verksamheten där på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4401,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/tattarisuo-engine-workshop\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5219,
@@ -68994,5 +71008,160 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5756,
+        "fi": {
+            "id": 5756,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ärligt talat -chat",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4389,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Ilmainen keskustelukanava ruotsinkielisille nuorille",
+                    "provided_languages": [
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ilmainen keskustelukanava ruotsinkielisille nuorille",
+                            "url": "https:\/\/arligttalat.fi\/kontakt\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5756,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ärligt talat chat",
+            "description": "Chat anonymously with a professional about things that matter to you.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4389,
+                    "type": "CHAT",
+                    "type_string": "Chat",
+                    "name": "Free chat channel for Swedish-speaking young people",
+                    "provided_languages": [
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Free chat channel for Swedish-speaking young people",
+                            "url": "https:\/\/arligttalat.fi\/kontakt\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5756,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ärligt talat -chat",
+            "description": "Chatta anonymt med en yrkesutbildad om de saker som är viktiga för dig.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4389,
+                    "type": "CHAT",
+                    "type_string": "Chatt",
+                    "name": "Gratis chattkanal för svensktalande ungdomar",
+                    "provided_languages": [
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gratis chattkanal för svensktalande ungdomar",
+                            "url": "https:\/\/arligttalat.fi\/kontakt\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     }
 ]
