@@ -35222,6 +35222,256 @@
         }
     },
     {
+        "id": 5752,
+        "fi": {
+            "id": 5752,
+            "exact_descriptions": [
+                10335
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Lisätietoa Stadin yhteisötaloista",
+            "name_synonyms": "yhteisötalot, sähköpostiosoite",
+            "description": "Lisätietoa Stadin yhteisötalojen toiminnasta löydät verkkosivuilta tai voit kysyä lisätietoa sähköpostilla.",
+            "process_description": "Tutustu Stadin yhteisötalojen verkkosivuihin. Voit myös ottaa yhteyttä yhteisötalojen yhteiseen sähköpostiosoitteeseen. Jokaisella Stadin yhteisötalolla on myös omat yhteystiedot, jotka löydät toimipisteen tietojen yhteydestä.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4385,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Stadin yhteisötalojen sähköposti",
+                    "information": "Ota yhteyttä sähköpostilla Stadin yhteisötaloille.",
+                    "email": "yhteisotalot@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Stadin yhteisötalot",
+                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/osallistu-ja-vaikuta\/tukea-yhdessa-tekemiseen\/stadin-yhteisotalot"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4402,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Stadin yhteisötalojen verkkosivu",
+                    "information": "Lisätietoa Stadin yhteisötaloista löydät verkkosivuilta.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivu",
+                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/osallistu-ja-vaikuta\/tukea-yhdessa-tekemiseen\/stadin-yhteisotalot"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5752,
+            "exact_descriptions": [
+                10335
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "More information about Helsinki's community houses",
+            "description": "You can find more information about the activities of Helsinki's community houses on the website, or ask by email.",
+            "process_description": "Visit the website of Helsinki's community houses to learn more. You can also contact them via their shared email address. Each house has its own contact details, which you can find alongside the information for each location.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4385,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "E-mail to Helsinki's community houses",
+                    "information": "You can contact the Helsinki's community houses by email.",
+                    "email": "yhteisotalot@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Helsinki’s community houses",
+                            "url": "https:\/\/www.hel.fi\/en\/decision-making\/get-involved\/support-and-collaboration\/helsinkis-community-houses"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4402,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website of Helsinki's community houses",
+                    "information": "You can find more information about Helsinki's community houses on the website.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/en\/decision-making\/get-involved\/support-and-collaboration\/helsinkis-community-houses"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5752,
+            "exact_descriptions": [
+                10335
+            ],
+            "service_id": 11099,
+            "type": "ADVICE",
+            "name": "Mer information om Stadens gemenskapshus",
+            "description": "Mer information om verksamheten vid Stadens gemenskapshus finns på webbplatsen, eller så kan du fråga via e-post.",
+            "process_description": "Bekanta dig med Stadens gemenskapshus webbplats. Du kan också kontakta gemenskapshusen via deras gemensamma e-postadress. Varje gemenskapshus har dessutom egna kontaktuppgifter som du hittar i anslutning till informationen om respektive verksamhetsställe.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4385,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "E-post till Stadens gemenskapshus",
+                    "information": "Kontakta Stadens gemenskapshus via e-post.",
+                    "email": "yhteisotalot@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Stadens gemenskapshus",
+                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/delta-och-paverka\/stod-till-gemensamma-aktiviteter\/stadens-gemenskapshus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4402,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Stadens gemenskapshus webbplats",
+                    "information": "Mer information om Stadens gemenskapshus hittar du på webbplatsen.\n\n",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/delta-och-paverka\/stod-till-gemensamma-aktiviteter\/stadens-gemenskapshus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4302,
         "fi": {
             "id": 4302,
@@ -46013,172 +46263,6 @@
                             "type": "INTERNET",
                             "title": "Securemail",
                             "url": "https:\/\/securemail.hel.fi\/kuntalaiset"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5752,
-        "fi": {
-            "id": 5752,
-            "exact_descriptions": [
-                10335
-            ],
-            "service_id": 11099,
-            "type": "ADVICE",
-            "name": "Ota yhteyttä yhteisötaloille",
-            "name_synonyms": "yhteisötalot, sähköpostiosoite",
-            "description": "Voit kysyä lisätietoa Stadin yhteisötalojen toiminnasta.",
-            "process_description": "Voit ottaa yhteyttä yhteisötalojen yhteiseen sähköpostiosoitteeseen. Jokaisella Stadin yhteisötalolla on myös omat yhteystiedot, jotka löydät toimipisteen tietojen yhteydestä.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4385,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Stadin yhteisötalojen sähköposti",
-                    "information": "Ota yhteyttä sähköpostilla Stadin yhteisötaloille.",
-                    "email": "yhteisotalot@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Stadin yhteisötalot",
-                            "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/osallistu-ja-vaikuta\/tukea-yhdessa-tekemiseen\/stadin-yhteisotalot"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5752,
-            "exact_descriptions": [
-                10335
-            ],
-            "service_id": 11099,
-            "type": "ADVICE",
-            "name": "Contact Helsinki's community houses",
-            "description": "You can ask for more information about what Helsinki's community houses offer.",
-            "process_description": "You can contact Helsinki's community houses via their shared email address. Each house also has its own contact details, which you can find alongside the information for each location.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4385,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "E-mail to Helsinki's community houses",
-                    "information": "You can contact the Helsinki's community houses by email.",
-                    "email": "yhteisotalot@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsinki’s community houses",
-                            "url": "https:\/\/www.hel.fi\/en\/decision-making\/get-involved\/support-and-collaboration\/helsinkis-community-houses"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5752,
-            "exact_descriptions": [
-                10335
-            ],
-            "service_id": 11099,
-            "type": "ADVICE",
-            "name": "Kontakta gemenskapshusen",
-            "description": "Du kan be om mer information om verksamheten vid Stadens gemenskapshus.",
-            "process_description": "Du kan kontakta gemenskapshusen via deras gemensamma e-postadress. Varje Stadens gemenskapshus har också egna kontaktuppgifter som du hittar i anslutning till informationen om respektive verksamhetsställe.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "421399be-a090-4298-8745-ab4899873308"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4385,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "E-post till Stadens gemenskapshus",
-                    "information": "Kontakta Stadens gemenskapshus via e-post.",
-                    "email": "yhteisotalot@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Stadens gemenskapshus",
-                            "url": "https:\/\/www.hel.fi\/sv\/beslutsfattande-och-forvaltning\/delta-och-paverka\/stod-till-gemensamma-aktiviteter\/stadens-gemenskapshus"
                         }
                     ],
                     "availabilities": [
