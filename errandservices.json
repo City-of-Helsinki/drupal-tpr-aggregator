@@ -2666,6 +2666,168 @@
         }
     },
     {
+        "id": 5770,
+        "fi": {
+            "id": 5770,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Arabia Music House",
+            "description": "Tutustu Arabia Music Housen toimintaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4404,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/arabian-nuorisotalo\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5770,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Arabia Music House",
+            "description": "Learn more about the activities at Arabia Music House on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4404,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/youth-centers\/arabia-youth-centre\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5770,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Arabia ungdomsgård",
+            "description": "Läs mer om Arabia ungdomsgård och verksamheten på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4404,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/ungdomsgardar\/arabia-ungdomsgard\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4309,
         "fi": {
             "id": 4309,
@@ -8727,6 +8889,168 @@
                             "type": "FORM",
                             "title": "Hörande av granne\/grannens samtycke  (pdf, på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/sv\/Horande_av_granne.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5772,
+        "fi": {
+            "id": 5772,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Hae Narrin teatteriryhmiin",
+            "description": "Verkkosivuilta löytyy ohjeet Narrin teatteriryhmiin hakemiseen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4406,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Ohjeet verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ohjeet verkkosivuilla",
+                            "url": "https:\/\/nuorten.hel.fi\/tekemista-ja-paikkoja\/harrastuksia\/teatteri\/hae-narrin-teatteriryhmiin\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5772,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Apply to Narri's theatre groups",
+            "description": "You can find instructions on how to apply to Narri's theatre groups on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4406,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Instructions on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Instructions on the website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/things-to-do-and-places\/hobbies\/theatre\/register-for-the-theatre-group\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5772,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Sök till Narris teatergrupper",
+            "description": "Du hittar instruktioner om hur du söker till Narris teatergrupper.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4406,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Anvisningar på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anvisningar på webbplatsen",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/platser-och-saker-att-gora\/hobbyer\/drama\/ansok-om-narri-teatergrupper\/"
                         }
                     ],
                     "availabilities": [
@@ -17100,6 +17424,168 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5769,
+        "fi": {
+            "id": 5769,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "HUM - Helsinki Unity Music",
+            "description": "Kiinnostaako musiikin tekeminen? Tutustu HUMin toimintaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4403,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/tekemista-ja-paikkoja\/harrastuksia\/musiikkitoiminta\/hum\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5769,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "HUM - Helsinki Unity Music",
+            "description": "Are you interested in making music? Learn more about HUM's activities on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4403,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/things-to-do-and-places\/hobbies\/music-activities\/hum-helsinki-unity-music\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5769,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "HUM - Helsinki Unity Music",
+            "description": "Är du intresserad av att skapa musik? Läs mer om HUM:s aktiviteter på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4403,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/platser-och-saker-att-gora\/hobbyer\/musikverksamhet\/hum-helsinki-unity-music\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -28869,6 +29355,168 @@
         }
     },
     {
+        "id": 5774,
+        "fi": {
+            "id": 5774,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Kumpulan koulukasvitarha",
+            "description": "Tutustu Kumpulan koulukasvitarhan toimintaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4408,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/kumpulan-koulukasvitarha\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5774,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Kumpula School Garden",
+            "description": "Learn more about Kumpula School Garden on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4408,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/youth-centers\/kumpula-school-garden\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5774,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Skolträdgården i Gumtäkt",
+            "description": "Läs mer om skolträdgården i Gumtäkt på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4408,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/ungdomsgardar\/skoltradgarden-i-gumtakt\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 2165,
         "fi": {
             "id": 2165,
@@ -38399,6 +39047,168 @@
         }
     },
     {
+        "id": 5771,
+        "fi": {
+            "id": 5771,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorisotalot ja nuorisotilat",
+            "description": "Tutustu nuorisotaloihin ja -tiloihin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4405,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lista toimipisteistä verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lista toimipisteistä verkkosivuilla",
+                            "url": "https:\/\/nuorten.hel.fi\/tekemista-ja-paikkoja\/meidan-paikat\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5771,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Youth centres and youth facilities",
+            "description": "Learn more about youth centres and facilities on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4405,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "A list of service points on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "A list of service points on the website",
+                            "url": "https:\/\/nuorten.hel.fi\/en\/things-to-do-and-places\/our-places\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5771,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ungdomsgårdar och ungdomslokaler",
+            "description": "Läs mer om ungdomsgårdar och lokaler på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4405,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Lista över platser på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lista över platser på webbplatsen",
+                            "url": "https:\/\/nuorten.hel.fi\/sv\/platser-och-saker-att-gora\/vara-platser\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5753,
         "fi": {
             "id": 5753,
@@ -39847,6 +40657,86 @@
         }
     },
     {
+        "id": 5775,
+        "fi": {
+            "id": 5775,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten Fallkulla",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "en": {
+            "id": 5775,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Young people's Fallkulla",
+            "description": "Learn more about activities for young people at Fallkulla Domestic Animal Farm on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5775,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Ungdomarnas Fallkulla",
+            "description": "Läs mer om ungdomarnas aktiviteter på Fallkulla husdjursgård på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        }
+    },
+    {
         "id": 5679,
         "fi": {
             "id": 5679,
@@ -40003,6 +40893,168 @@
                             "type": "INTERNET",
                             "title": "Information om motionstjänster för unga",
                             "url": "https:\/\/liikunta.hel.fi\/sv\/sidor\/malgrupper\/unga"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5773,
+        "fi": {
+            "id": 5773,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Nuorten toimintatalo Silmu",
+            "description": "Tutustu Silmuun verkkosivuilla. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4407,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/silmu\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5773,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "Youth Activity Centre Silmu",
+            "description": "Learn more about Silmu on the website. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4407,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/silmu\/ (in Finnish)"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5773,
+            "exact_descriptions": [
+            ],
+            "service_id": 10050,
+            "type": "OTHER_ESERVICE",
+            "name": "De ungas ativitetshus Silmu",
+            "description": "Läs mer på Silmus webbplats. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4407,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/nuorten.hel.fi\/nuorisotalot\/silmu\/"
                         }
                     ],
                     "availabilities": [
