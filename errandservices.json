@@ -27179,6 +27179,60 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4444,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Kaunokirjallisuus",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Kaunokirjallisuus",
+                            "url": "https:\/\/helmet.finna.fi\/Feedback\/Form\/Kaunovinkit"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4445,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Genrekirjallisuus",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Genrekirjallisuus",
+                            "url": "https:\/\/helmet.finna.fi\/Feedback\/Form\/Genrevinkit"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -27232,6 +27286,60 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4444,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Fiction",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Fiction",
+                            "url": "https:\/\/helmet.finna.fi\/Feedback\/Form\/Kaunovinkit?lng=en-gb"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4445,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Genre fiction",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Genre fiction",
+                            "url": "https:\/\/helmet.finna.fi\/Feedback\/Form\/Genrevinkit?lng=en-gb"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -27281,6 +27389,60 @@
                             "type": "INTERNET",
                             "title": "Webbplats",
                             "url": "https:\/\/helmet.finna.fi\/Content\/kirjallisuus?_=1753380415218#pikavinkit"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4444,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Skönlitteratur",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Skönlitteratur",
+                            "url": "https:\/\/helmet.finna.fi\/Feedback\/Form\/Kaunovinkit"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4445,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Genrelitteratur",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Genrelitteratur",
+                            "url": "https:\/\/helmet.finna.fi\/Feedback\/Form\/Genrevinkit"
                         }
                     ],
                     "availabilities": [
