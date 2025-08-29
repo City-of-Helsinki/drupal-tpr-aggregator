@@ -27147,6 +27147,7 @@
         "fi": {
             "id": 5805,
             "exact_descriptions": [
+                10150
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -27254,6 +27255,7 @@
         "en": {
             "id": 5805,
             "exact_descriptions": [
+                10150
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -27361,6 +27363,7 @@
         "sv": {
             "id": 5805,
             "exact_descriptions": [
+                10150
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -37872,6 +37875,7 @@
         "fi": {
             "id": 5802,
             "exact_descriptions": [
+                10146
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -37977,6 +37981,7 @@
         "en": {
             "id": 5802,
             "exact_descriptions": [
+                10146
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38077,6 +38082,7 @@
         "sv": {
             "id": 5802,
             "exact_descriptions": [
+                10146
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38671,6 +38677,8 @@
         "fi": {
             "id": 5803,
             "exact_descriptions": [
+                7589,
+                10158
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38724,6 +38732,8 @@
         "en": {
             "id": 5803,
             "exact_descriptions": [
+                7589,
+                10158
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38777,6 +38787,8 @@
         "sv": {
             "id": 5803,
             "exact_descriptions": [
+                7589,
+                10158
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38833,6 +38845,7 @@
         "fi": {
             "id": 5804,
             "exact_descriptions": [
+                10149
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38912,6 +38925,7 @@
         "en": {
             "id": 5804,
             "exact_descriptions": [
+                10149
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -38986,6 +39000,7 @@
         "sv": {
             "id": 5804,
             "exact_descriptions": [
+                10149
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -39623,6 +39638,7 @@
         "fi": {
             "id": 5807,
             "exact_descriptions": [
+                10148
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -39703,6 +39719,7 @@
         "en": {
             "id": 5807,
             "exact_descriptions": [
+                10148
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -39783,6 +39800,7 @@
         "sv": {
             "id": 5807,
             "exact_descriptions": [
+                10148
             ],
             "service_id": 10161,
             "type": "OTHER_ESERVICE",
@@ -64056,10 +64074,114 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5746,
+            "exact_descriptions": [
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Submit a notification of suspected food poisoning or other harm as a customer",
+            "description": "If you have been a customer in a company selling or serving food in Helsinki and you suspect that the food or drink you have eaten has caused you symptoms of food poisoning, an allergic reaction or other harm, submit a consumer notification in the electronic Ilppa notification service of environmental health care. We also recommend giving feedback directly to the company.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4378,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of suspected food poisoning as a customer",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the consumer notifications section of the Ilppa.fi Service (available in Finnish and Swedish)",
+                            "url": "https:\/\/ilppa.fi\/kuluttajan-ilmoitukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5746,
+            "exact_descriptions": [
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Anmäl misstanke om matförgiftning eller olägenhet som kund",
+            "description": "Om du som kund har besökt ett företag som säljer eller serverar livsmedel i Helsingfors och du misstänker att den mat eller dryck du har intagit har orsakat dig matförgiftningssymtom, en allergisk reaktion eller någon annan olägenhet, ska du lämna in en konsumentanmälan i Miljöhälsovårdens e-tjänst Ilppa. Vi rekommenderar att också ge feedback direkt till företaget.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4378,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Anmäl misstanke om matförgiftning som kund",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Ilppa.fi för konsumentmeddelanden",
+                            "url": "https:\/\/ilppa.fi\/kuluttajan-ilmoitukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 4042,
@@ -74621,6 +74743,7 @@
                 10140,
                 10142,
                 10143,
+                10144,
                 10154,
                 10156,
                 10171,
@@ -74690,6 +74813,7 @@
                 10140,
                 10142,
                 10143,
+                10144,
                 10154,
                 10156,
                 10171,
@@ -74759,6 +74883,7 @@
                 10140,
                 10142,
                 10143,
+                10144,
                 10154,
                 10156,
                 10171,
