@@ -27452,6 +27452,330 @@
         }
     },
     {
+        "id": 5812,
+        "fi": {
+            "id": 5812,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Kirjaston tapahtumat",
+            "description": "Kirjaston tapahtumia voit selata verkkosivuilla. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4452,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tutustu tapahtumiin verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tutustu tapahtumiin verkkosivuilla",
+                            "url": "https:\/\/helmet.finna.fi\/Content\/tapahtumat"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5812,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Library events",
+            "description": "You can browse library events on the website. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4452,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Learn more about events on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Learn more about events on the website",
+                            "url": "https:\/\/helmet.finna.fi\/Content\/tapahtumat?lng=en-gb"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5812,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Bibliotekets evenemang",
+            "description": "Du kan bläddra bland bibliotekets evenemang på webbplatsen. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4452,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bekanta dig med evenemangen på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bekanta dig med evenemangen på webbplatsen.",
+                            "url": "https:\/\/helmet.finna.fi\/Content\/tapahtumat?lng=sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5806,
+        "fi": {
+            "id": 5806,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Kirjastot ja niiden aukioloajat",
+            "description": "Voit etsiä kirjastoja ja niiden aukioloaikoja verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4446,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/helmet.finna.fi\/OrganisationInfo\/Home#84911"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5806,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Libraries and their opening hours",
+            "description": "You can search for libraries and their opening hours on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4446,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/helmet.finna.fi\/OrganisationInfo\/Home?lng=en-gb#84911"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5806,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Biblioteken och deras öppettider",
+            "description": "På webbplatsen kan du söka efter bibliotek och deras öppettider.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4446,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/helmet.finna.fi\/OrganisationInfo\/Home#84911"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5088,
         "fi": {
             "id": 5088,
@@ -37833,6 +38157,492 @@
         }
     },
     {
+        "id": 5810,
+        "fi": {
+            "id": 5810,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa kirjaston palveluista kouluille",
+            "description": "Tutustu verkkosivuilla kirjaston palveluihin kouluille.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4450,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/helsingin-kaupunginkirjaston-palvelut-kouluille"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5810,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Information about library services for schools",
+            "description": "Visit the website to learn about library services for schools.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4450,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/helsinki-city-librarys-services-for-schools"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5810,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om bibliotekets tjänster för skolor",
+            "description": "Besök webbplatsen för att ta reda på mer om bibliotekets tjänster för skolor.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4450,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/helsingfors-stadsbiblioteks-tjanster-for-skolor"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5811,
+        "fi": {
+            "id": 5811,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa kirjaston palveluista toiselle asteelle",
+            "description": "Tutustu verkkosivuilla kirjaston palveluihin toiselle asteelle.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4451,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/helsingin-kaupunginkirjaston-palvelut-toiselle-asteelle"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5811,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Information about library services for upper secondary education",
+            "description": "Visit the website to learn about library services for upper secondary education.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4451,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/helsingin-kaupunginkirjaston-palvelut-toiselle-asteelle"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5811,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om bibliotekets tjänster för andra stadiet",
+            "description": "Besök webbplatsen för att få veta mer om bibliotekets tjänster för andra stadiet.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4451,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/helsingin-kaupunginkirjaston-palvelut-toiselle-asteelle"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5809,
+        "fi": {
+            "id": 5809,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa kirjaston palveluista varhaiskasvatukselle ja esiopetukselle",
+            "description": "Tutustu verkkosivuilla kirjaston palveluihin varhaiskasvatukselle ja esiopetukselle.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4449,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/helsingin-kaupunginkirjaston-palvelut-varhaiskasvatukselle-ja-esiopetukselle"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5809,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Information about library services for early childhood and pre-primary education",
+            "description": "Visit the website to learn about library services for early childhood and pre-primary education.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4449,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/helsinki-city-librarys-services-for-early-childhood-and-pre-primary-education"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5809,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om bibliotekets tjänster för småbarnspedagogiken och förskoleundervisningen",
+            "description": "Besök webbplatsen för att få veta mer om bibliotekets tjänster för småbarnspedagogiken och förskoleundervisningen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4449,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/helsingfors-stadsbiblioteks-tjanster-for-smabarnspedagogiken-och-forskoleundervisningen"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5803,
         "fi": {
             "id": 5803,
@@ -38221,6 +39031,87 @@
                     "availabilities": [
                     ]
                 }
+            ]
+        }
+    },
+    {
+        "id": 5808,
+        "fi": {
+            "id": 5808,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa saavutettavuuskirjasto Celian asiakkaaksi rekisteröitymisestä",
+            "description": "Lue lisää saavutettavuuskirjasto Celian asiakkaaksi rekisteröitymisestä.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "en": {
+            "id": 5808,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Information about registering as a customer of the Accessibility Library Celia",
+            "description": "Read more about registering as a customer of Accessibility Library Celia.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5808,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om hur du registrerar dig som kund hos tillgänglighetsbiblioteket Celia",
+            "description": "Läs mer om hur du registrerar dig som kund hos tillgänglighetsbiblioteket Celia.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
             ]
         }
     },
@@ -38699,6 +39590,249 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5807,
+        "fi": {
+            "id": 5807,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Lukuvalmentaja junior ja Kirjapaketit perheille",
+            "description": "Lue lisää lukuvalmentaja juniorista ja kirjapaketeista perheille.\n",
+            "process_description": "Valmentaja kokoaa toiveidesi pohjalta kirjalistan ja lähettää sen sinulle sähköpostilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4447,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4448,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Sähköpostivalmennus",
+                    "information": "Sähköpostivalmennus\n",
+                    "email": "lukuvalmentaja@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lukuvalmentaja junior ja Kirjapaketit perheille",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5807,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Reading Coach Junior and book packages for families",
+            "description": "Read more about the Reading Coach Junior and book packages for families.\n",
+            "process_description": "The Reading Coach will put together a list of books based on your requests and email it to you.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4447,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=en-gb"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4448,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "name": "Email verification",
+                    "information": "Email verification\n",
+                    "email": "lukuvalmentaja@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Reading Coach Junior and book packages for families",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=en-gb"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5807,
+            "exact_descriptions": [
+            ],
+            "service_id": 10161,
+            "type": "OTHER_ESERVICE",
+            "name": "Lukuvalmentaja Junior och bokpaketen Kirjapaketit perheille",
+            "description": "Läs mer om Lukuvalmentaja junior och bokpaket för familjer.\n",
+            "process_description": "Utifrån dina önskemål sammanställer inspiratören en boklista och skickar den till dig per e-post.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4447,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=en"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4448,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "name": "Inspiration per e-post",
+                    "information": "Inspiration per e-post\n",
+                    "email": "lukuvalmentaja@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lukuvalmentaja Junior och bokpaketen Kirjapaketit perheille",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5778,
