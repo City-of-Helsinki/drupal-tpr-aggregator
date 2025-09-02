@@ -27454,6 +27454,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4465,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/keski-uudenmaan-alueellinen-vastuumuseo\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": {
@@ -27480,6 +27507,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4465,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/central-uusimaa-regional-museum\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -27506,6 +27560,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4465,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/mellersta-nylands-regionala-ansvarsmuseum\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -52517,7 +52598,6 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Kampin toimipiste",
-                    "availability_summary": "Suljettu poikkeuksellisesti 3.9.2025 saakka ",
                     "personal_service_street_addr": "Malminkatu 34",
                     "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsinki",
@@ -52533,9 +52613,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Suljettu poikkeuksellisesti 3.9.2025 saakka"
-                        }
                     ]
                 },
                 {
@@ -52640,7 +52717,6 @@
                     "type": "LOCAL",
                     "type_string": "Local services",
                     "name": "Helsinki Employment Services, Kamppi office",
-                    "availability_summary": "Closed exceptinally until 3 Sep 2025 ",
                     "personal_service_street_addr": "Malminkatu 34",
                     "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsinki",
@@ -52656,9 +52732,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Closed exceptinally until 3 Sep 2025"
-                        }
                     ]
                 },
                 {
@@ -52768,7 +52841,6 @@
                     "type": "LOCAL",
                     "type_string": "Lokal service",
                     "name": "Helsingfors sysselsättningstjänster, Kampens verksamhetsställe",
-                    "availability_summary": "Stängt undantagsvis tills 3.9.2025 ",
                     "personal_service_street_addr": "Malmgatan 34",
                     "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsingfors",
@@ -52784,9 +52856,6 @@
                     "links": [
                     ],
                     "availabilities": [
-                        {
-                            "availability_string": "Stängt undantagsvis tills 3.9.2025"
-                        }
                     ]
                 },
                 {
@@ -69174,6 +69243,252 @@
                             "type": "INTERNET",
                             "title": "Länk till rådgivning om boendehälsa",
                             "url": "https:\/\/www.hel.fi\/sv\/boende\/boende-och-halsa\/radgivning-om-boendehalsa"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5825,
+        "fi": {
+            "id": 5825,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Tietoa kulttuurin avustuksista",
+            "description": "Lue lisää kulttuurin avustustoiminnasta verkkosivuilta.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4466,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/avustukset.hel.fi\/fi\/tietoa-avustuksista\/kulttuurin-avustukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4467,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Ajankohtaista",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Ajankohtaista",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/kulttuurin-kumppanuudet#ajankohtaista"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5825,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Information on cultural grants",
+            "description": "Read more about support for culture on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4466,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/avustukset.hel.fi\/en\/information-about-grants\/grants-for-culture"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4467,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Current news",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Current news",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/cultural-partnerships"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5825,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Information om understöd för kultur",
+            "description": "Läs mer om understöd för kultur på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4466,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/avustukset.hel.fi\/sv\/om-understoden\/understod-for-kultur"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4467,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Aktuellt",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Aktuellt",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/partnerskapsenheten-for-kultur#aktuellt"
                         }
                     ],
                     "availabilities": [
