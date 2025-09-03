@@ -35998,7 +35998,8 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Liikkuvan Symppiksen puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, ke 12-18, ti 09-14:30, to 10-15, pe 09-15",
+                    "information": "Tavoitat meidät puhelimitse tai tekstiviestillä. Toimimme Helsingin alueella arkipäivinä.",
+                    "availability_summary": "Avoinna ma-ke 09-18, to-pe 09-15, Suljettu la-su ympäri vuorokauden",
                     "phone": "0406657061",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -36014,16 +36015,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma, ke 12-18"
+                            "availability_string": "Avoinna ma-ke 09-18"
                         },
                         {
-                            "availability_string": "Avoinna ti 09-14:30"
+                            "availability_string": "Avoinna to-pe 09-15"
                         },
                         {
-                            "availability_string": "Avoinna to 10-15"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 09-15"
+                            "availability_string": "Suljettu la-su ympäri vuorokauden"
                         }
                     ]
                 }
@@ -36053,7 +36051,8 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Telephone service for Mobile Symppis health advice",
-                    "availability_summary": "Open Mon, Wed 12-18, Tue 09-14:30, Thu 10-15, Fri 09-15",
+                    "information": "You can reach us by phone or text message. We operate in the Helsinki area on weekdays.",
+                    "availability_summary": "Open Mon-Wed 09-18, Thu-Fri 09-15, Closed Sat-Sun around the clock",
                     "phone": "0406657061",
                     "call_charge_info": "toll free",
                     "provided_languages": [
@@ -36069,16 +36068,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon, Wed 12-18"
+                            "availability_string": "Open Mon-Wed 09-18"
                         },
                         {
-                            "availability_string": "Open Tue 09-14:30"
+                            "availability_string": "Open Thu-Fri 09-15"
                         },
                         {
-                            "availability_string": "Open Thu 10-15"
-                        },
-                        {
-                            "availability_string": "Open Fri 09-15"
+                            "availability_string": "Closed Sat-Sun around the clock"
                         }
                     ]
                 }
@@ -36108,7 +36104,8 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänst för Symppis mobila hälsorådgivning",
-                    "availability_summary": "Öppet mån, ons 12-18, tis 09-14:30, tor 10-15, fre 09-15",
+                    "information": "Du kan nå oss via telefon eller sms. Vi är verksamma i huvudstadsregionen på vardagar.",
+                    "availability_summary": "Öppet mån-ons 09-18, tor-fre 09-15, Stängt lör-sön dygnet runt",
                     "phone": "0406657061",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -36124,16 +36121,13 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån, ons 12-18"
+                            "availability_string": "Öppet mån-ons 09-18"
                         },
                         {
-                            "availability_string": "Öppet tis 09-14:30"
+                            "availability_string": "Öppet tor-fre 09-15"
                         },
                         {
-                            "availability_string": "Öppet tor 10-15"
-                        },
-                        {
-                            "availability_string": "Öppet fre 09-15"
+                            "availability_string": "Stängt lör-sön dygnet runt"
                         }
                     ]
                 }
