@@ -13603,6 +13603,168 @@
         }
     },
     {
+        "id": 5837,
+        "fi": {
+            "id": 5837,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Hakasalmen huvilan tapahtumat",
+            "description": "Tutustu Hakasalmen huvilan tapahtumiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4479,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Selaa tapahtumia verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Selaa tapahtumia verkkosivuilla",
+                            "url": "https:\/\/hakasalmenhuvila.fi\/tapahtumat\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5837,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Events at Villa Hakasalmi",
+            "description": "Learn more about events at Villa Hakasalmi on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4479,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Browse events on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Browse events on the website",
+                            "url": "https:\/\/hakasalmivilla.fi\/events\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5837,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Evenemang på Villa Hagasund",
+            "description": "Bekanta dig med evenemangen på Villa Hagasund på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4479,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bläddra bland evenemang på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bläddra bland evenemang på webbplatsen",
+                            "url": "https:\/\/villahagasund.fi\/evenemang\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4870,
         "fi": {
             "id": 4870,
@@ -14080,6 +14242,168 @@
                         {
                             "availability_string": "Öppet fre 07-15"
                         }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5836,
+        "fi": {
+            "id": 5836,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Harakan Taitelijatalon näyttelyt",
+            "description": "Tutustu Harakan Taiteilijatalon näyttelyihin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4478,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Selaa näyttelyitä verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Selaa näyttelyitä verkkosivuilla",
+                            "url": "https:\/\/harakka.fi\/nayttelyt\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5836,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Harakka Artists' House exhibitions",
+            "description": "Learn more about exhibitions at Harakka Artists' House on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4478,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Browse exhibitions on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Browse exhibitions on the website",
+                            "url": "https:\/\/harakka.fi\/briefly-in-english\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5836,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Utställningar i Konstnärshuset på Stora Räntan",
+            "description": "Läs mer om utställningarna i Konstnärshuset på Stora Räntan på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4478,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bläddra bland utställningarna på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bläddra bland utställningarna på webbplatsen",
+                            "url": "https:\/\/harakka.fi\/pa-svenska\/"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -15077,6 +15401,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4477,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/tietoa-museosta\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "en": {
@@ -15103,6 +15454,33 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4477,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/about-the-museum\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         },
         "sv": {
@@ -15129,6 +15507,195 @@
             "links": [
             ],
             "channels": [
+                {
+                    "id": 4477,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/om-museet\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5838,
+        "fi": {
+            "id": 5838,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsingin kaupunginmuseon tapahtumat",
+            "description": "Tutustu Helsingin kaupunginmuseon tapahtumiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4480,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Selaa tapahtumia verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Selaa tapahtumia verkkosivuilla",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/tapahtumat\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5838,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsinki City Museum's events",
+            "description": "Learn more about Helsinki City Museum's events on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4480,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Browse events on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Browse events on the website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/events\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5838,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsingfors stadsmuseums evenemang",
+            "description": "Bekanta dig med Helsingfors stadsmuseums evenemang på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4480,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bläddra bland evenemang på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bläddra bland evenemang på webbplatsen",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/evenemang\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -30734,6 +31301,168 @@
         }
     },
     {
+        "id": 5841,
+        "fi": {
+            "id": 5841,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Koulukinon oppimateriaalit",
+            "description": "Selaa oppimateriaaleja verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4483,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.koulukino.fi\/oppimateriaalit\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5841,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "School Cinema Association's learning materials",
+            "description": "Browse learning materials on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4483,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.koulukino.fi\/en\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5841,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Skolbios läromedel",
+            "description": "Bläddra bland läromedel på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4483,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.koulukino.fi\/oppimateriaalit\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5281,
         "fi": {
             "id": 5281,
@@ -31940,6 +32669,330 @@
                             "type": "INTERNET",
                             "title": "Helsingfors stads webbplats",
                             "url": "https:\/\/vapaaehtoistoiminta.hel.fi\/sv\/activities\/kulturkompisar\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5839,
+        "fi": {
+            "id": 5839,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kulttuurikeskus Caisan tapahtumat",
+            "description": "Tutustu Kulttuurikeskus Caisan tapahtumiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4481,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Selaa tapahtumia verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Selaa tapahtumia verkkosivuilla",
+                            "url": "https:\/\/www.caisa.fi\/fi\/tapahtumat\/?st=2025-04-09&et=2026-01-09&etype=732&el=47&show=20"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5839,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Events at Cultural Centre Caisa",
+            "description": "Learn more about events at Cultural Centre Caisa on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4481,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Browse events on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Browse events on the website",
+                            "url": "https:\/\/www.caisa.fi\/en\/events\/?el=47&st=2025-04-09&et=2026-01-09&etype=732"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5839,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Evenemang på kulturcentret Caisa",
+            "description": "Läs mer om evenemangen på kulturcentret Caisa på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4481,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Bläddra bland evenemang på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Bläddra bland evenemang på webbplatsen",
+                            "url": "https:\/\/www.caisa.fi\/sv\/evenemangen\/?el=47&st=2025-04-09&et=2026-01-09&etype=732"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5840,
+        "fi": {
+            "id": 5840,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kulttuurin verkkosivut",
+            "description": "Osallistu näyttelyihin, tapahtumiin, esityksiin ja konsertteihin ympäri kaupunkia!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4482,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/kulttuuri"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5840,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "The Culture website",
+            "description": "Visit exhibitions, events, performances and concerts around the city!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4482,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/culture"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5840,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kulturens webbplats",
+            "description": "Ta del av utställningar, evenemang, föreställningar och konserter runt om i staden!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4482,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/kultur"
                         }
                     ],
                     "availabilities": [
