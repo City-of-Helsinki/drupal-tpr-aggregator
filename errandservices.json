@@ -27777,6 +27777,249 @@
         }
     },
     {
+        "id": 5845,
+        "fi": {
+            "id": 5845,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kaupunginmuseon kokoelmat",
+            "description": "Tutustu kokoelman esineisiin, taideteoksiin, valokuviin ja muihin museo-objekteihin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4488,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/kokoelmat\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4489,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Etsi kokoelmia verkkosivuilla",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Etsi kokoelmia verkkosivuilla",
+                            "url": "https:\/\/hkm.finna.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5845,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "City Museum collections",
+            "description": "Explore the collection's objects, artworks, photographs and other museum artefacts on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4488,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/collections-collection-services\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4489,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Search collections on the website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Search collections on the website",
+                            "url": "https:\/\/hkm.finna.fi\/?lng=en-gb"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5845,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Stadsmuseets samlingar",
+            "description": "Bekanta dig med samlingarnas föremål, konstverk, fotografier och andra museiföremål på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4488,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/samlingar-och-samlingstjanster\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4489,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Leta bland samlingarna på webbplatsen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Leta bland samlingarna på webbplatsen",
+                            "url": "https:\/\/hkm.finna.fi\/?lng=sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5826,
         "fi": {
             "id": 5826,
