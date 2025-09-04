@@ -55415,6 +55415,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Kampin toimipiste",
+                    "availability_summary": "Suljettu 9.9.2025 saakka to",
                     "personal_service_street_addr": "Malminkatu 34",
                     "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsinki",
@@ -55430,6 +55431,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Suljettu to 9.9.2025 saakka"
+                        }
                     ]
                 },
                 {
@@ -55534,6 +55538,7 @@
                     "type": "LOCAL",
                     "type_string": "Local services",
                     "name": "Helsinki Employment Services, Kamppi office",
+                    "availability_summary": "Closed until 9 Sep 2025 Thu",
                     "personal_service_street_addr": "Malminkatu 34",
                     "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsinki",
@@ -55549,6 +55554,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Closed Thu until 9 Sep 2025"
+                        }
                     ]
                 },
                 {
@@ -55658,6 +55666,7 @@
                     "type": "LOCAL",
                     "type_string": "Lokal service",
                     "name": "Helsingfors sysselsättningstjänster, Kampens verksamhetsställe",
+                    "availability_summary": "Stängt tills 9.9.2025 tor",
                     "personal_service_street_addr": "Malmgatan 34",
                     "personal_service_postal_code": "00100",
                     "personal_service_city": "Helsingfors",
@@ -55673,6 +55682,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Stängt tor tills 9.9.2025"
+                        }
                     ]
                 },
                 {
@@ -80154,9 +80166,9 @@
                 10156,
                 10171,
                 10172,
-                10284,
                 10335,
-                10339
+                10339,
+                10345
             ],
             "service_id": 10030,
             "type": "APPOINTMENT",
@@ -80224,9 +80236,9 @@
                 10156,
                 10171,
                 10172,
-                10284,
                 10335,
-                10339
+                10339,
+                10345
             ],
             "service_id": 10030,
             "type": "APPOINTMENT",
@@ -80294,9 +80306,9 @@
                 10156,
                 10171,
                 10172,
-                10284,
                 10335,
-                10339
+                10339,
+                10345
             ],
             "service_id": 10030,
             "type": "APPOINTMENT",
