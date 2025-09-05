@@ -68725,163 +68725,6 @@
         }
     },
     {
-        "id": 5274,
-        "fi": {
-            "id": 5274,
-            "exact_descriptions": [
-                2766,
-                4906
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Tee ilmoitus ruokamyrkytysepäilystä elintarviketoiminnan harjoittajana",
-            "name_synonyms": "ruokamyrkytysilmoitus",
-            "description": "Tee ilmoitus Ympäristöterveydenhuollon sähköisessa Ilppa-ilmoituspalvelussa. Ilmoitus ohjautuu ainoastaan elintarvikehuoneiston valvojalle. Valvoja pyytää tarvittaessa sinulta lisätietoja ja antaa toimintaohjeita.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3727,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Ilmoita ruokamyrkytysepäilystä",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry Ilppa.fi-palveluun",
-                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5274,
-            "exact_descriptions": [
-                2766,
-                4906
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Submit a notification of suspected food poisoning as an enterpriser",
-            "description": "When you submit the notification in the electronic Ilppa service of environmental health care, your notification will be directed only to the supervisor of the food premises. If necessary, the supervisor will ask for additional information from you and give you instructions.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3727,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Online services",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to the Ilppa.fi service",
-                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5274,
-            "exact_descriptions": [
-                2766,
-                4906
-            ],
-            "service_id": 10133,
-            "type": "NOTICE",
-            "name": "Anmäl misstanke om matförgiftning som företagare",
-            "description": "Lämna in en anmälan i Miljöhälsovårdens e-tjänst Ilppa, varifrån den endast vidarebefordras till den som övervakar livsmedelslokalen. Vid behov begär tillsynsmyndigheten ytterligare information av dig och ger anvisningar.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3727,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Elektronisk ärendehantering",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Till Ilppa.fi-tjänsten",
-                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5746,
         "fi": {
             "id": 5746,
@@ -68912,7 +68755,7 @@
                     "id": 4378,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Ilmoita ruokamyrkytysepäilystä asiakkaana",
+                    "name": "Ilmoita ruokamyrkytysepäilystä tai haitasta asiakkaana",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -68966,7 +68809,7 @@
                     "id": 4378,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Submit a notification of suspected food poisoning as a customer",
+                    "name": "Submit a notification of suspected food poisoning or other harm as a customer",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -69020,7 +68863,7 @@
                     "id": 4378,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Anmäl misstanke om matförgiftning som kund",
+                    "name": "Anmäl misstanke om matförgiftning eller olägenhet som kund",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -69038,6 +68881,163 @@
                             "type": "INTERNET",
                             "title": "Gå till Ilppa.fi för konsumentmeddelanden",
                             "url": "https:\/\/ilppa.fi\/kuluttajan-ilmoitukset"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5274,
+        "fi": {
+            "id": 5274,
+            "exact_descriptions": [
+                2766,
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Tee ilmoitus ruokamyrkytysepäilystä tai haitasta elintarviketoiminnan harjoittajana",
+            "name_synonyms": "ruokamyrkytysilmoitus",
+            "description": "Tee ilmoitus ympäristöterveydenhuollon sähköisessä Ilppa-ilmoituspalvelussa. Ilmoitus ohjautuu ainoastaan elintarvikehuoneiston valvojalle. Valvoja pyytää tarvittaessa sinulta lisätietoja ja antaa toimintaohjeita.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3727,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Ilmoita ruokamyrkytysepäilystä tai haitasta elintarviketoiminnan harjoittajana",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Ilppa.fi-palveluun",
+                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5274,
+            "exact_descriptions": [
+                2766,
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Submit a notification of suspected food poisoning or other harm as an enterpriser",
+            "description": "When you submit the notification in the electronic Ilppa service of environmental health care, your notification will be directed only to the supervisor of the food premises. If necessary, the supervisor will ask for additional information from you and give you instructions.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3727,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Submit a notification of suspected food poisoning or other harm as an enterpriser",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the Ilppa.fi service",
+                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5274,
+            "exact_descriptions": [
+                2766,
+                4906
+            ],
+            "service_id": 10133,
+            "type": "NOTICE",
+            "name": "Anmäl misstanke om matförgiftning eller olägenhet som företagare",
+            "description": "Lämna in en anmälan i miljöhälsovårdens e-tjänst Ilppa, varifrån den endast vidarebefordras till den som övervakar livsmedelslokalen. Vid behov begär tillsynsmyndigheten ytterligare information av dig och ger anvisningar.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3727,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Anmäl misstanke om matförgiftning eller olägenhet som företagare",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Till Ilppa.fi-tjänsten",
+                            "url": "https:\/\/ilppa.fi\/toiminnanharjoittajan-ilmoitukset",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
