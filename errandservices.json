@@ -2327,6 +2327,168 @@
         }
     },
     {
+        "id": 5852,
+        "fi": {
+            "id": 5852,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Annantalon pedagogiset materiaalit",
+            "description": "Tutustu Annantalon vapaasti ladattaviin pedagogisiin materiaaleihin verkkosivuilla. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4497,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.annantalo.fi\/fi\/taidekasvatus#Taideteht%C3%A4v%C3%A4t"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5852,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Annantalo's pedagogical materials",
+            "description": "Browse Annantalo's free downloadable pedagogical materials on the website. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4497,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.annantalo.fi\/en\/arteducation"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5852,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Annegårdens pedagogiska material",
+            "description": "Kolla in Annegårdens fritt nedladdningsbara pedagogiska material på webbplatsen. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4497,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.annantalo.fi\/fi\/taidekasvatus#Taideteht%C3%A4v%C3%A4t"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5828,
         "fi": {
             "id": 5828,
@@ -3139,49 +3301,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 4309,
-        "fi": {
-            "id": 4309,
-            "exact_descriptions": [
-            ],
-            "service_id": 10951,
-            "type": "ADVICE",
-            "name": "Arbiksen neuvontapalvelut, asiointipalvelu",
-            "name_synonyms": "Arbis, arbetarinstitutet, neuvonta",
-            "description": "Annamme neuvontaa Arbiksessa opiskeluun liittyvissä asioissa.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Arbis kontaktinformation",
-                    "url": "https:\/\/arbis.hel.fi\/fi\/tietoja-arbiksesta\/yhteystiedot\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Kasvatuksen ja koulutuksen yhteystiedot ja palaute",
-                    "url": "https:\/\/palautteet.hel.fi\/"
-                }
-            ],
-            "channels": [
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5310,
@@ -18005,6 +18124,168 @@
         }
     },
     {
+        "id": 5853,
+        "fi": {
+            "id": 5853,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsinki-podcast",
+            "description": "Selaa ja kuuntele Helsinki-podcastin jaksoja verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4498,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/helsinkipodcast\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5853,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsinki podcast",
+            "description": "Browse and listen to the Helsinki podcast episodes on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4498,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/helsinkipodcast\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5853,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsinki-podcast",
+            "description": "Bläddra bland och lyssna på avsnitt av Helsinki-podcast på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4498,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/helsinkipodcast\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4265,
         "fi": {
             "id": 4265,
@@ -18902,6 +19183,168 @@
         ],
         "sv": [
         ]
+    },
+    {
+        "id": 5850,
+        "fi": {
+            "id": 5850,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Historia Helsinki",
+            "description": "Tutustu kaupungin historiaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4495,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/historia.hel.fi\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5850,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "History Helsinki",
+            "description": "Learn more about the city's history on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4495,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/historia.hel.fi\/en"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5850,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Historia Helsingfors",
+            "description": "Läs mer om stadens historia på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4495,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/historia.hel.fi\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5144,
@@ -28087,6 +28530,168 @@
         }
     },
     {
+        "id": 5847,
+        "fi": {
+            "id": 5847,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kaupunginmuseon kuvaselaamo",
+            "description": "Tutustu kuvakokoelmiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4491,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/kuva-arkisto\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5847,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "City Museum Picture Browsery",
+            "description": "Explore image collections on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4491,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/picture-browsery\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5847,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Stadsmuseets fotoapotek",
+            "description": "Bekanta dig med bildsamlingarna på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4491,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/fotoapoteket\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5818,
         "fi": {
             "id": 5818,
@@ -28249,6 +28854,168 @@
         }
     },
     {
+        "id": 5855,
+        "fi": {
+            "id": 5855,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kaupunginmuseon kävelykierrokset",
+            "description": "Tutustu Kaupunginmuseon kävelykierroksiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4500,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/kavelykierrokset\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5855,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "City Museum walking tours",
+            "description": "Learn more about the City Museum's walking tours on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4500,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/kavelykierrokset\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5855,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Rundvandringar på stadsmuseet",
+            "description": "Läs mer om stadsmuseets rundvandringar på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4500,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/rundvandringar\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5816,
         "fi": {
             "id": 5816,
@@ -28402,6 +29169,168 @@
                             "type": "INTERNET",
                             "title": "Webbplats",
                             "url": "https:\/\/vapaaehtoistoiminta.hel.fi\/sv\/tasks\/lasten-kaupungin-mummorinki-eli-museomummot-2\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5849,
+        "fi": {
+            "id": 5849,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Kaupunginmuseon toiminta opetusryhmille",
+            "description": "Tutustu Kaupunginmuseon toimintaan opetusryhmille verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4494,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/kouluille-ja-paivakodeille\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5849,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "City Museum activities for study groups",
+            "description": "Learn more about the City Museum's activities for study groups on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4494,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/schools-and-daycare\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5849,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Stadsmuseets aktiviteter för utbildningsgrupper",
+            "description": "Läs mer om Stadsmuseets aktiviteter för utbildningsgrupper på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4494,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/skolor-och-daghem\/"
                         }
                     ],
                     "availabilities": [
@@ -41901,6 +42830,168 @@
         }
     },
     {
+        "id": 5848,
+        "fi": {
+            "id": 5848,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Lippu.fi",
+            "description": "Voit ostaa lippuja kulttuurikeskusten tapahtumiin myös Lippu.fi:stä.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4492,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.lippu.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5848,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Lippu.fi",
+            "description": "You can buy tickets for events at cultural centres at lippu.fi as well.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4492,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.lippu.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5848,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Lippu.fi",
+            "description": "På Lippu.fi kan du också köpa biljetter till kulturcentrens evenemang.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4492,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.lippu.fi\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5802,
         "fi": {
             "id": 5802,
@@ -45901,6 +46992,168 @@
                 }
             ],
             "channels": [
+            ]
+        }
+    },
+    {
+        "id": 5846,
+        "fi": {
+            "id": 5846,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Muistojen matkalaukun lainaaminen",
+            "description": "Tutustu Muistojen matkalaukkuun verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4490,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Muistojen matkalaukun lainaaminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Muistojen matkalaukun lainaaminen",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/matkalaukku\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5846,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Borrowing the suitcase of memories",
+            "description": "Learn more about the Suitcase of Memories on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4490,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/suitcase-of-memories\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5846,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Låna Minnenas resväska",
+            "description": "Bekanta dig med Minnenas resväska på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4490,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/pa-gang\/minnenas-resvaska\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
             ]
         }
     },
@@ -52166,6 +53419,168 @@
                             "type": "INTERNET",
                             "title": "Webbplats",
                             "url": "https:\/\/nuorten.hel.fi\/sv\/platser-och-saker-att-gora\/operaatio-pulssi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5851,
+        "fi": {
+            "id": 5851,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Opi kuuntelemaan klassista!",
+            "description": "Kiinnostaako klassinen musiikki ja kaipaat avaimia kuuntelukokemuksesi avartamiseen? Tervetuloa musiikkimatkalle verkkosivujen kautta!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4496,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/helsinginkaupunginorkesteri.fi\/fi\/opi-kuuntelemaan-klassista"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5851,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Learn to listen to classical music!",
+            "description": "Are you interested in classical music and looking for ways to broaden your listening horizons? Join a musical journey through the website!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4496,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/helsinginkaupunginorkesteri.fi\/en\/content\/learn-how-listen-classical-music"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5851,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Lär dig att lyssna på klassisk musik!",
+            "description": "Är du intresserad av klassisk musik och letar efter nycklar som kan förbättra din lyssningsupplevelse? Välkommen med på en musikresa på webbplatsen!\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4496,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/helsinginkaupunginorkesteri.fi\/sv\/content\/lar-dig-att-lyssna-pa-klassisk-musik"
                         }
                     ],
                     "availabilities": [
@@ -80269,6 +81684,168 @@
         }
     },
     {
+        "id": 5854,
+        "fi": {
+            "id": 5854,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Varaa opastus kaupunginmuseon näyttelyihin",
+            "description": "Varaa opastus verkkosivujen kautta.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4499,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/opastukset\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5854,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Book a guided tour to City Museum exhibitions",
+            "description": "Book a guided tour on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4499,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/book-a-guided-tour\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5854,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Boka en guidad visning till stadsmuseets utställningar",
+            "description": "Boka en guidning via webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4499,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/sv\/guidningar\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5109,
         "fi": {
             "id": 5109,
@@ -82276,6 +83853,168 @@
                         {
                             "availability_string": "Tjänsten tillgänglig tis, tor 12-15"
                         }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5856,
+        "fi": {
+            "id": 5856,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtuaalivierailu Caisassa",
+            "description": "Vieraile kulttuurikeskus Caisassa virtuaalisesti verkkosivujen kautta.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4501,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/360.northmanvr.com\/F1ccXQxNVX\/10826018p&121.78h&73.59t"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5856,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtual visit to Caisa",
+            "description": "Visit Cultural Centre Caisa virtually through the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4501,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/360.northmanvr.com\/F1ccXQxNVX\/10826018p&121.78h&73.59t"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5856,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Ett virtuellt besök på Caisa",
+            "description": "Besök kulturcentret Caisa virtuellt via webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4501,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/360.northmanvr.com\/F1ccXQxNVX\/10826018p&121.78h&73.59t"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
