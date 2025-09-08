@@ -1858,7 +1858,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Ammatillisen koulutuksen neuvonta, asiointipalvelut",
-            "name_synonyms": "ammatillinen koulutus, Stadin AO, Stadin ammatti- ja aikuisopisto, neuvonta",
+            "name_synonyms": "ammatillinen koulutus, Stadin AO, Stadin ammattiopisto, neuvonta",
             "description": "Ammatillisen koulutuksen neuvontaa saa chatillä, sähköpostitse ja puhelimitse.",
             "provided_languages": [
                 "en",
@@ -1881,8 +1881,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Stadin ammatti- ja aikuisopiston hakutoimisto",
-                    "url": "https:\/\/stadinao.fi\/hae-opiskelijaksi\/hakutoimisto\/",
+                    "title": "Stadin ammattiopiston hakutoimisto",
+                    "url": "https:\/\/stadinao.hel.fi\/hakijapalvelut\/",
                     "file_format": "HTML"
                 }
             ],
@@ -1918,7 +1918,7 @@
                     "type_string": "Sähköposti",
                     "name": "Stadin ammattiopisto sähköpostineuvonta",
                     "information": "Stadin ammattiopiston eli Stadin AO:n hakutoimisto sekä Kasvatuksen ja koulutuksen neuvontapalvelut tarjoavat neuvontaa ammatillisiin opintoihin liittyvissä asioissa.\n",
-                    "email": "hakutoimisto@edu.hel.fi",
+                    "email": " hakijapalvelut@edu.hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -1967,7 +1967,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Education Division contact information",
-                    "url": "https:\/\/www.hel.fi\/en\/decision-making\/city-organization\/divisions\/education-division\/education-division-contact-information"
+                    "url": "https:\/\/www.hel.fi\/en\/decision-making\/city-organisation\/divisions\/education-division\/education-division-contact-information"
                 }
             ],
             "channels": [
@@ -1975,7 +1975,7 @@
                     "id": 3516,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
-                    "name": "Helsinki Vocational College and Adult Institute Admissions Office, advisory services by phone",
+                    "name": "Helsinki Vocational College Admissions Office, advisory services by phone",
                     "availability_summary": "Open Mon-Fri 10-14",
                     "phone": "+358 9 310 89318",
                     "call_charge_info": "mobile call charge \/ local network charge",
@@ -2000,9 +2000,9 @@
                     "id": 3517,
                     "type": "EMAIL",
                     "type_string": "E-mail",
-                    "name": "Helsinki Vocational College and Adult Institute Admissions Office, advisory services by email",
-                    "information": "Helsinki Vocational College and Adult institute's (Stadin AO) admissions office and Education Division's advisory services team can help you with your enquiries on vocational studies and training.\n",
-                    "email": "hakutoimisto@edu.hel.fi",
+                    "name": "Helsinki Vocational College Admissions Office, advisory services by email",
+                    "information": "Helsinki Vocational College's (Stadin AO) admissions office and Education Division's advisory services team can help you with your enquiries on vocational studies and training.\n",
+                    "email": " hakijapalvelut@edu.hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -2076,7 +2076,7 @@
                     "type_string": "Elektronisk post",
                     "name": "Stadin AO:s e-postservice",
                     "information": "Rådgivningstjänsterna för fostran och utbildning samt det finskspråkiga yrkesinstitutet Stadin AO:s kundtjänst erbjuder rådgivning som berör yrkesinriktade studier.",
-                    "email": "hakutoimisto@edu.hel.fi",
+                    "email": " hakijapalvelut@edu.hel.fi",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -5486,7 +5486,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Lue lisää elintarvikkeiden vientitodistuksista",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/yritykset-ja-yrittajat\/yritysten-luvat-ja-tilat\/elintarviketoiminta\/elintarvikkeiden-vienti-ja-tuonti",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/elintarviketoiminta\/elintarvikkeiden-vienti-ja-tuonti",
                             "file_format": "HTML"
                         }
                     ],
@@ -14060,6 +14060,168 @@
         }
     },
     {
+        "id": 5860,
+        "fi": {
+            "id": 5860,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "HAM Julkisen taiteen kokoelma",
+            "description": "Tutustu julkisen taiteen teoksiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4505,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hamhelsinki.fi\/julkinen-taide\/julkisen-taiteen-kokoelma\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5860,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "HAM public art collection",
+            "description": "Explore public art on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4505,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hamhelsinki.fi\/en\/public-art\/public-art-collection\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5860,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "HAM:s samling av offentlig konst",
+            "description": "Kolla in den offentliga konsten på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4505,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hamhelsinki.fi\/sv\/offentlig-konst\/samlingen-av-offentlig-konst\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 562,
         "fi": {
             "id": 562,
@@ -14266,6 +14428,168 @@
                         {
                             "availability_string": "Öppet fre 07-15"
                         }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5862,
+        "fi": {
+            "id": 5862,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Harakan saaren työtilat taiteiljoille",
+            "description": "Helsingin kaupunki vuokraa työhuoneita Harakan saaren taiteilijatalosta. Vapautuvista työhuoneista tiedotetaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4507,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hel.fi\/fi\/kulttuuri-ja-vapaa-aika\/harakan-saaren-tyotilat-taiteilijoille"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5862,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Artist Studios on Harakka Island",
+            "description": "The City of Helsinki rents studios in the Artists' House on Harakka Island. Information on vacant studios is posted on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4507,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/en\/culture-and-leisure\/artist-studios-at-harakka-island"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5862,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Arbetsutrymmen för konstnärer på Stora Räntan",
+            "description": "Helsingfors stad hyr ateljéer i Konstnärshuset på Stora Räntan. Information om lediga arbetsrum kommer att läggas ut på hemsidan.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4507,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/sv\/kultur-och-fritid\/arbetsrymmen-for-konstnarer-pa-stora-rantan"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -16798,6 +17122,168 @@
                         {
                             "availability_string": "Öppet dygnet runt varje dag"
                         }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5863,
+        "fi": {
+            "id": 5863,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsingin työväenopisto",
+            "description": "Työväenopisto tarjoaa tuhansia kursseja, luentoja sekä tapahtumia uuden oppijoille ja harrastajille. Tutustu kurssitarjontaan verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4508,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/tyovaenopisto.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5863,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Finnish Adult Education Centre",
+            "description": "The Adult Education Centre offers thousands of courses, lectures and events for learners and enthusiasts. Explore the course selection on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4508,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/tyovaenopisto.hel.fi\/en\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5863,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Helsingfors finska arbetarinstitut",
+            "description": "Arbetarinstitutet erbjuder tusentals kurser, föreläsningar och evenemang för de som vill lära sig något nytt eller utöva en hobby. Bekanta dig med kursutbudet på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4508,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/tyovaenopisto.hel.fi\/sv\/"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
@@ -26829,6 +27315,168 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5861,
+        "fi": {
+            "id": 5861,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Järjestä lasten synttärit Helsingin kaupunginmuseolla",
+            "description": "Lue lisää lasten synttärien järjestämisestä verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4506,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/lasten-synttarit\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5861,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Organise a children's birthday party at Helsinki City Museum",
+            "description": "Read more about arranging children's birthday parties on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4506,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/en\/childrens-birthdays\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5861,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Ordna ett barnkalas på Helsingfors stadsmuseum",
+            "description": "Läs mer om hur du ordnar födelsedagskalas för barn på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4506,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.helsinginkaupunginmuseo.fi\/lasten-synttarit\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -51326,6 +51974,168 @@
         }
     },
     {
+        "id": 5859,
+        "fi": {
+            "id": 5859,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Nähtävää ja koettavaa Helsingissä",
+            "description": "Tutustu Helsingin nähtävyyksiin verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4504,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.myhelsinki.fi\/fi\/vieraile-helsingissa\/nae-ja-koe\/helsingin-nahtavyydet\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5859,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Things to see and do in Helsinki",
+            "description": "Explore Helsinki's highlights on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4504,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.myhelsinki.fi\/visit-helsinki\/things-to-do\/attractions\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5859,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Saker att se och uppleva i Helsingfors",
+            "description": "Bekanta dig med Helsingfors sevärdheter på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4504,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.myhelsinki.fi\/sv\/besok\/se-och-upplev-helsingfors\/sevardheter-i-helsingfors\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4956,
         "fi": {
             "id": 4956,
@@ -53746,6 +54556,168 @@
                             "type": "INTERNET",
                             "title": "Webbplats",
                             "url": "https:\/\/nuorten.hel.fi\/sv\/studier-och-jobb\/navigatorn\/navigatorns-laropliktsteam\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5864,
+        "fi": {
+            "id": 5864,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Osallistu Maunula-talon toimintaan",
+            "description": "Tervetuloa mukaan suunnittelemaan Maunula-talon toimintaa. Lue lisää verkkosivuilla.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4509,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/maunulatalo.hel.fi\/tule-mukaan\/osallistu\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5864,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Participate in Maunula House activities",
+            "description": "Come and join us in planning the activities at Maunula House. Read more on the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4509,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/maunulatalo.hel.fi\/en\/join-us\/participate\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5864,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Delta i verksamheten på Månsasgården",
+            "description": "Välkommen att delta i planeringen av verksamheten på Månsasgården. Läs mer på webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4509,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/maunulatalo.hel.fi\/sv\/kom-med\/delta\/"
                         }
                     ],
                     "availabilities": [
@@ -63449,7 +64421,7 @@
                         {
                             "type": "FORM",
                             "title": "Sivutuoteasetuksen mukainen hakemus kunnaneläinlääkärille laitoksen rekisteröintiä ja hyväksyntää varten",
-                            "url": "https:\/\/www.ruokavirasto.fi\/globalassets\/tietoa-meista\/asiointi\/oppaat-ja-lomakkeet\/yritykset\/elainala\/sivutuotteiden-lomakkeet\/lomake_k_fi.docx",
+                            "url": "https:\/\/www.ruokavirasto.fi\/tietoa-meista\/asiointi\/oppaat-ja-lomakkeet\/elaimet\/sivutuotteiden-lomakkeet\/#:~:text=Sivutuotteiden%20lomakkeet%20ja%20ohjeet",
                             "file_format": "WORD"
                         }
                     ],
@@ -73470,7 +74442,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Tietoa liikkuville elintarvikehuoneistoille",
-                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/yritykset-ja-yrittajat\/yritysten-luvat-ja-tilat\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/ketteran-kioskin-rekisterointi-ja-tiedotusvelvollisuus",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/ketteran-kioskin-rekisterointi-ja-tiedotusvelvollisuus",
                             "file_format": "HTML"
                         }
                     ],
@@ -73582,7 +74554,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Information for mobile food establishments",
-                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/businesses-and-entrepreneurs\/permits-and-facilities-for-businesses\/mobile-sales-operations-food-trucks-and-mopeds-sales-carts-and-bicycle-cafes\/registering-and-notification-obligation-of-food-trucks",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/apply-for-permits-and-facilities\/mobile-sales-operations-food-trucks-and-mopeds-sales-carts-and-bicycle-cafes\/registering-and-notification-obligation-of-food-trucks",
                             "file_format": "HTML"
                         }
                     ],
@@ -73681,7 +74653,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Information för mobila livsmedelslokaler",
-                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/foretag-och-foretagare\/foretagens-tillstand-och-lokaler\/mobil-forsaljningsverksamhet-food-trucks-forsaljningskarror-grillmopeder-och-cafecyklar\/registering-av-en-smidig-kiosk-och-anmalningsskyldighet",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/ansok-tillstand-och-lokaler\/mobil-forsaljningsverksamhet-food-trucks-forsaljningskarror-grillmopeder-och-cafecyklar\/registering-av-en-smidig-kiosk-och-anmalningsskyldighet",
                             "file_format": "HTML"
                         }
                     ],
@@ -84012,6 +84984,330 @@
                             "type": "INTERNET",
                             "title": "Webbplats",
                             "url": "https:\/\/360.northmanvr.com\/F1ccXQxNVX\/10826018p&121.78h&73.59t"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5858,
+        "fi": {
+            "id": 5858,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtuaalivierailu Ruiskumestarintalossa",
+            "description": "Vieraile Ruiskumestarin talossa virtuaalisesti verkkosivujen kautta.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4503,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/ruiskumestarintalo.fi\/ruiskumestarin-talo-360\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5858,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtual visit to the Burgher's House Museum",
+            "description": "Visit the Burgher's House Museum virtually through the website.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4503,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/ruiskumestarintalo.fi\/en\/360-2\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5858,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtuellt besök på Sprutmästarens gård",
+            "description": "Besök Sprutmästarens gård virtuellt via webbplatsen.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4503,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/ruiskumestarintalo.fi\/sv\/sprutmastarens-gard-360\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5857,
+        "fi": {
+            "id": 5857,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtuaalivierailu Työväenmuseossa",
+            "description": "Vieraile Työväenasuntomuseossa virtuaalisesti verkkosivujen kautta. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4502,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Verkkosivut",
+                            "url": "https:\/\/www.hel.fi\/static\/hkm\/tyovaenasuntomuseo\/tyovaenasuntomuseo\/ulkokuva.html"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5857,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtual visit to the Workers' Museum",
+            "description": "Visit the Worker Housing Museum through the website. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4502,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Website",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Website",
+                            "url": "https:\/\/www.hel.fi\/static\/hkm\/tyovaenasuntomuseo\/tyovaenasuntomuseo\/ulkokuva.html"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5857,
+            "exact_descriptions": [
+            ],
+            "service_id": 10135,
+            "type": "OTHER_ESERVICE",
+            "name": "Virtuellt besök på Arbetarbostadsmuseet",
+            "description": "Besök Arbetarbostadsmuseet virtuellt via webbplatsen. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4502,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Webbplats",
+                            "url": "https:\/\/www.hel.fi\/static\/hkm\/tyovaenasuntomuseo\/tyovaenasuntomuseo\/ulkokuva.html"
                         }
                     ],
                     "availabilities": [
