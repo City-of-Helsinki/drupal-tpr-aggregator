@@ -1888,38 +1888,6 @@
             ],
             "channels": [
                 {
-                    "id": 3515,
-                    "type": "CHAT",
-                    "type_string": "Chat",
-                    "name": "Stadin ammattiopiston chatbot-palvelu",
-                    "information": "Valitse chatbotissa olevista aihealueista sinua kiinnostava aihe. Chatbot ohjaa sinut oikean tiedon ääreen. Voit myös kysyä chatbotilta kysymyksiä tai keskustella chatissa hakemiseen ja opintoihin liittyvistä asioista hakutoimiston asiantuntijan kanssa.",
-                    "availability_summary": "Avoinna joka päivä",
-                    "provided_languages": [
-                        "en",
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Hakutoimiston chatbot",
-                            "url": "https:\/\/stadinao.fi\/hae-opiskelijaksi\/hakutoimisto\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä "
-                        }
-                    ]
-                },
-                {
                     "id": 3516,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
@@ -2004,37 +1972,6 @@
             ],
             "channels": [
                 {
-                    "id": 3515,
-                    "type": "CHAT",
-                    "type_string": "Chat",
-                    "name": "Helsinki Vocational College and Adult Institute, chatbot service",
-                    "information": "Choose a topic that interests you in the chatbot. The chatbot will show you where to find more information about the topic. You can ask the chatbot a question or chat about applying and studying with one of our specialists at the admission office.",
-                    "availability_summary": "Open every day",
-                    "provided_languages": [
-                        "en",
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsinki Vocational College and Adult Institute chatbot (in Finnish)",
-                            "url": "https:\/\/stadinao.fi\/hae-opiskelijaksi\/hakutoimisto\/"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open every day "
-                        }
-                    ]
-                },
-                {
                     "id": 3516,
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
@@ -2108,38 +2045,6 @@
             "links": [
             ],
             "channels": [
-                {
-                    "id": 3515,
-                    "type": "CHAT",
-                    "type_string": "Chatt",
-                    "name": "Stadin ammattiopistos chatbot-tjänst",
-                    "information": "Välj ett ämne i chatbotten som intresserar dig. Chatbotten ger dig rätt information. Du kan även ställa frågor till chatbotten och diskutera frågor gällande ansökan och utbildning med en sakkunnig på kundtjänsten.",
-                    "availability_summary": "Öppet varje dag",
-                    "provided_languages": [
-                        "en",
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": true,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Kundtjänstens chatbot (på finska)",
-                            "url": "https:\/\/stadinao.fi\/hae-opiskelijaksi\/hakutoimisto\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet varje dag "
-                        }
-                    ]
-                },
                 {
                     "id": 3516,
                     "type": "TELEPHONE",
