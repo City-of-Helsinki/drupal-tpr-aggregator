@@ -1439,7 +1439,7 @@
             "type": "NOTICE",
             "name": "Aloittamisilmoitus",
             "description": "Jos rakentamishankkeen lupapäätöksessä ei edellytetä aloituskokousta, on rakennusvalvontaan toimitettava aloittamisilmoitus ennen rakennustyön aloittamista. Aloittamisilmoitus on toimitettava myös valmistelevista töistä ennen niiden aloittamista. Valmistelevia töitä ovat esimerkiksi kaivaminen, louhiminen, paaluttaminen tai rakennusalueella sijaitsevien puiden kaataminen.",
-            "information": "Varaudu selvittämään aloitusilmoituksessa seuraavat asiat:\n- rakentamishankkeen tarkastusasiakirja vastuuhenkilöineen\n- hankkeen turvallisuuskoordinaattori\n- hankkeen valvojat\n- erityissuunnitelmien valmiusaste ja niiden rakennusvalvontaan toimittamisen ajankohta\n- piiloon menevien rakenteiden tai asennusten tarkastusmenettelyt.",
+            "information": "Varaudu selvittämään aloitusilmoituksessa seuraavat asiat:\n\n- rakentamishankkeen tarkastusasiakirja vastuuhenkilöineen\n\n- hankkeen turvallisuuskoordinaattori\n\n- hankkeen valvojat\n\n- erityissuunnitelmien valmiusaste ja niiden rakennusvalvontaan toimittamisen ajankohta\n\n- piiloon menevien rakenteiden tai asennusten tarkastusmenettelyt.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -1678,7 +1678,7 @@
             "type": "INFORMATION_SERVICE",
             "name": "Aloituskokous",
             "description": "Jos hankkeesi lupapäätöksessä edellytetään aloituskokousta, huolehdi, että se pidetään ennen rakennustyön aloittamista.\n\nAloituskokoukseen osallistuvat rakennusvalvonnan lisäksi rakentamishankkeeseen ryhtyvä tai tämän edustaja, rakennuksen pääsuunnittelija ja vastaava työnjohtaja. Myös eritysalojen työnjohtajat ja suunnittelijat osallistuvat kokoukseen, jos heidän asiantuntemustaan tarvitaan käsiteltävien asioiden selvittämiseen. Varmista aloituskokoukseen osallistuvat henkilöt hankeen tarkastusinsinööriltä, kun varaat kokousta.\n\nVaativissa hankkeissa voi olla tarpeen pitää erillinen aloituskokous taloteknisistä töistä. Taloteknisten töiden aloituskokoukseen osallistuvat rakentamishankkeeseen ryhtyvä tai tämän edustaja, rakennuksen pääsuunnittelija, vastaava työnjohtaja, vastuullinen LVI-suunnittelija ja LVI-valvojat.\n\nAloituskokouksessa sovittuja menettelyjä on noudatettava rakennustyössä. Rakennusvalvonta voi rakennushankkeen aikana edellyttää lisäselvityksiä ja -suunnitelmia.",
-            "information": "Aloituskokouksessa sovitaan muun muassa rakennustyön tarkastusasiakirjamenettelystä sekä todetaan ja merkitään aloituskokouspöytäkirjaan \n- suunnittelun, työvaiheiden ja rakennusvaiheiden tarkastuksen keskeiset toimijat ja heidän tarkastustehtävänsä \n- laadunvarmistamiseen liittyvät selvitykset ja toimenpiteet\nrakentamishankkeeseen ryhtyvää koskevat velvoitteet\n- rakennushankkeessa toimitettavat viranomaiskatselmukset- ja tarkastukset.",
+            "information": "Aloituskokouksessa sovitaan muun muassa rakennustyön tarkastusasiakirjamenettelystä sekä todetaan ja merkitään aloituskokouspöytäkirjaan\n\n- suunnittelun, työvaiheiden ja rakennusvaiheiden tarkastuksen keskeiset toimijat ja heidän tarkastustehtävänsä\n\n- laadunvarmistamiseen liittyvät selvitykset ja toimenpiteet\nrakentamishankkeeseen ryhtyvää koskevat velvoitteet\n\n- rakennushankkeessa toimitettavat viranomaiskatselmukset- ja tarkastukset.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -5936,21 +5936,21 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Ympäristöministeriön ohje rakentamista koskevista suunnitelmista ja selvityksistä",
+                    "title": "Ympäristöministeriön ohje rakentamista koskevista suunnitelmista ja selvityksistä (pdf)",
                     "url": "https:\/\/www.edilex.fi\/data\/rakentamismaaraykset\/Ymparistoministerion_ohje_rakentamista_koskevista_suunnitelmista_ja_selvityksista.pdf"
                 }
             ],
             "channels": [
                 {
                     "id": 4511,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
                     "name": "Varaa aika suunnitelmien esittelyyn",
                     "information": "Varaa aika erityissuunnitelmien esittelyyn rakennusvalvonnan asiakaspalvelusta.",
+                    "availability_summary": "Avoinna ma-pe 08:30-16",
+                    "phone": "09 310 26300",
+                    "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
                     ],
                     "requires_authentication": false,
                     "saved_to_customer_folder": false,
@@ -5960,13 +5960,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Rakennusvalvonnan asiakaspalvelun yhteystiedot",
-                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/tontit-ja-rakentamisen-luvat\/yhteystiedot-rakennusvalvonta-tontit-ja-lupa-asiat"
-                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-pe 08:30-16"
+                        }
                     ]
                 },
                 {
