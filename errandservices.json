@@ -2145,6 +2145,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vocational education and training advisory services",
+                            "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/vocational-education-and-training-advisory-services"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -5375,6 +5380,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Elintarvikeneuvonnan sähköposti",
+                    "information": "Ota yhteyttä sähköpostilla.",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -5907,6 +5913,65 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5866,
+        "fi": {
+            "id": 5866,
+            "exact_descriptions": [
+                9520
+            ],
+            "service_id": 10634,
+            "type": "NOTICE",
+            "name": "Erityisalan työnjohtajan ilmoittaminen",
+            "description": "Erityisalan työnjohtaja on nimettävä hankkeelle lupapäätöksen mukaisesti. Rakennusvalvonta voi kuitenkin tarvittaessa määrätä rakennustyön aikana, että hankkeeseen tarvitaan erityisalan työnjohtaja. Erityisalan työnjohtajan ilmoitus on jätettävä rakennusvalvontaviranomaiselle ennen kyseisen erityisalan rakennustöiden aloittamista.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4514,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Hae työnjohtajaksi",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Lupapisteeseen",
+                            "url": "https:\/\/lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5865,
@@ -13060,7 +13125,6 @@
         "fi": {
             "id": 5223,
             "exact_descriptions": [
-                9520
             ],
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
@@ -13115,7 +13179,6 @@
         "en": {
             "id": 5223,
             "exact_descriptions": [
-                9520
             ],
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
@@ -13170,7 +13233,6 @@
         "sv": {
             "id": 5223,
             "exact_descriptions": [
-                9520
             ],
             "service_id": 10634,
             "type": "OTHER_ESERVICE",
@@ -23424,6 +23486,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Ilmoita muutoksista tai myynnin lopettamisesta",
+                    "information": "Ota yhteyttä sähköpostilla.",
                     "email": "kymp.tupakkalupa@hel.fi",
                     "provided_languages": [
                     ],
@@ -23435,6 +23498,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Tupakka-​ ja lääkelakien mukaiset myyntiluvat ja ilmoitukset",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/tupakka-ja-laakelakien-mukaiset-myyntiluvat-ja-ilmoitukset"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -23497,6 +23565,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Notify changes to sales permits or the discontinuation of sales",
+                    "information": "Contact by email",
                     "email": "kymp.tupakkalupa@hel.fi",
                     "provided_languages": [
                     ],
@@ -23508,6 +23577,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Sales permits and notifications under the Tobacco Act and the Medicines Act",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/apply-for-permits-and-facilities\/sales-permits-and-notifications-under-the-tobacco-act-and-the-medicines-act"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -23570,6 +23644,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Meddela om förändringar eller att försäljningen upphör",
+                    "information": "Kontakta via mail",
                     "email": "kymp.tupakkalupa@hel.fi",
                     "provided_languages": [
                     ],
@@ -23581,6 +23656,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Försäljningstillstånd och anmälningar enligt tobaks- och läkemedelslagstiftningen",
+                            "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/ansok-tillstand-och-lokaler\/forsaljningstillstand-och-anmalningar-enligt-tobaks-och-lakemedelslagstiftningen"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -45312,6 +45392,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vain suomeksi Lukuvalmentaja junior ja Kirjapaketit perheille",
+                            "url": "https:\/\/helmet-tukisivusto.hel.fi\/lapsen-kanssa-kirjastossa\/lukuvalmentaja-junior-ja-kirjapaketit-perheille\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -45387,6 +45472,11 @@
                     "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Vain suomeksi Lukuvalmentaja junior ja Kirjapaketit perheille",
+                            "url": "https:\/\/helmet.finna.fi\/FeedContent\/lapsen-kanssa-kirjastossa?element=https%3A%2F%2Fhelmet-tukisivusto.hel.fi%2F%3Fp%3D1758&lng=sv"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -84343,15 +84433,15 @@
                     "id": 2009,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Nimeä vastaava työnjohtaja",
+                    "name": "Hae työnjohtajaksi",
                     "provided_languages": [
                         "fi",
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
@@ -84411,9 +84501,9 @@
                         "sv"
                     ],
                     "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
                     "payment_enabled": false,
                     "for_personal_customer": true,
                     "for_corporate_customer": true,
