@@ -37898,7 +37898,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Puhelinpalvelu",
-                    "information": "Puhelinpalvelu on avoinna\nMa-la klo 9-16\nSu klo 9-12 ja 13.30-16\n\nTarkista mahdolliset poikkeusaikataulut:\nhttps:\/\/www.myhelsinki.fi\/fi\/nae-ja-koe\/helsingin-matkailuneuvonta\/",
+                    "information": "Puhelinpalvelu on avoinna\n\nMa-la klo 9-16\nSu suljettu\n\nTarkista mahdolliset poikkeusaikataulut: https:\/\/www.myhelsinki.fi\/fi\/vieraile\/helsingin-matkailuneuvonta\/",
                     "phone": "+358931013300",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -37946,7 +37946,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Telephone service",
-                    "information": "Telephohe service is open \nMon-Sat 9-16\nSun 9-12 and 13.30-16\n\nhttps:\/\/www.myhelsinki.fi\/visit\/helsinki-tourist-information\/",
+                    "information": "Telephohe service is open\n\nMon-Sat 9-16\nSun closed\n\nhttps:\/\/www.myhelsinki.fi\/visit\/helsinki-tourist-information\/",
                     "phone": "+358931013300",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -37994,7 +37994,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänst",
-                    "information": "Telefontjänst är öppen\nMån-lö kl. 9-16\nSö kl. 9-12 och 13.30-16\n\nSe möjliga undantag:\nhttps:\/\/www.myhelsinki.fi\/visit\/helsinki-tourist-information\/\n",
+                    "information": "Telefontjänst är öppen\n\nMån-lö kl. 9-16\nSö stängd\n\nSe möjliga undantag: https:\/\/www.myhelsinki.fi\/sv\/besok\/helsingfors-turistinformation\/",
                     "phone": "+358931013300",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -69317,14 +69317,14 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Application for the approval of operations (PDF)",
-                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.pdf",
+                            "title": "Application for the approval of operations (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/laitoshakemus.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Application for the approval of operations (Word)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.docx",
+                            "title": "Application for the approval of operations (Word, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/laitoshakemus.docx",
                             "file_format": "WORD"
                         }
                     ],
@@ -72071,9 +72071,9 @@
             "service_id": 10098,
             "type": "NOTICE",
             "name": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta",
-            "description": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta Ilppa-asiointipalvelussa. Samassa palvelussa voit ilmoittaa myös ruoan myynnistä tai tarjoilusta. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
+            "description": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta Ilppa-asiointipalvelussa, sähköpostilla tai postitse.",
             "processing_time": "Käsittelyaika on 7 vuorokautta.",
-            "information": "Jos et voi tehdä sähköistä ilmoitusta, täytä PDF tai Word -lomake ja lähetä se liitteineen sähköpostitse osoitteeseen kymp.terveydensuojelu@hel.fi. Voit myös tulostaa lomakkeen ja lähettää sen postitse.",
+            "information": "Jos et voi tehdä ilmoitusta sähköisessä palvelussa, täytä PDF- tai Word-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen kymp.terveydensuojelu@hel.fi. Voit myös tulostaa lomakkeen ja lähettää sen postitse.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -72126,6 +72126,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Tee ilmoitus sähköisessä palvelussa",
+                    "information": "Jos et voi tehdä ilmoitusta sähköisessä palvelussa, täytä PDF- tai Word-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen kymp.terveydensuojelu@hel.fi. Voit myös tulostaa lomakkeen ja lähettää sen postitse.",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -72153,6 +72154,7 @@
                     "type": "MAIL",
                     "type_string": "Posti",
                     "name": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta",
+                    "information": "Jos et voi tehdä ilmoitusta sähköisessä palvelussa tai sähköpostitse, voit tulostaa lomakkeen ja lähettää sen postitse.",
                     "personal_service_street_addr": "Ympäristöpalvelut\/ympäristöterveysyksikkö",
                     "personal_service_postal_code": "PL 58235, 00099",
                     "personal_service_city": "Helsingin kaupunki",
