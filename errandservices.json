@@ -48183,7 +48183,7 @@
             "name_synonyms": "Auto hukassa",
             "description": "Siirrämme ajoneuvon kadun toiselle puolelle, läheiselle kadulle tai Ajoneuvojen siirtokeskukseen. Jos et löydä autoasi, voit selvittää auton sijainnin soittamalla kaupunkiympäristön asiakaspalveluun, poliisille tai tekstiviestipalvelun avulla.\n\n",
             "costs": "Tekstiviestin hinta on 4,7 senttiä.",
-            "information": "Selvitä ajoneuvon sijainti tekstiviestillä - toimi näin:\n\nLähetä tekstiviesti AS (väli) rekisteritunnus numeroon 040 8481 857. Esimerkkiviesti: AS ABC-123\n\nPaluuviesti kertoo siirretyn auton sijainnin.",
+            "information": "Selvitä ajoneuvon sijainti tekstiviestillä - toimi näin:\n\nLähetä tekstiviesti AS (väli) rekisteritunnus numeroon 040 8481 857. Esimerkkiviesti: AS ABC-123\n\nPaluuviesti kertoo siirretyn auton sijainnin. Tekstiviestin hinta on 4,7 senttiä.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -71364,7 +71364,6 @@
             "type": "NOTICE",
             "name": "Register a mobile food establishment",
             "description": "Submit your registration through the Ilppa e-services or use a separate form. You can log in to the service with your Suomi.fi credentials by using either a mobile certificate or your online banking credentials.",
-            "information": "If you cannot use the Ilppa service to submit your notification, please fill in the form either as a PDF or as a Word file and send it with the relevant attachments via e-mail toelintarviketurvallisuus@hel.fi. You can also print the form and sent it to us by post.",
             "provided_languages": [
                 "fi"
             ],
@@ -71468,7 +71467,6 @@
             "type": "NOTICE",
             "name": "Gör en anmälan om en mobil livsmedelslokal",
             "description": "Gör registreringen på e-tjänsten Ilppa eller på en skild blankett. Du kan identifiera dig i tjänsten med Suomi.fi-identifikation genom att använda antingen mobilcertifikat eller nätbankskoder.",
-            "information": "Om du inte kan fylla i anmälan på tjänsten Ilppa, fyll då i PDF-blanketten eller Word-blanketten och skicka den med bilagor per e-post till adressen elintarviketurvallisuus@hel.fi. Du kan också skriva ut blanketten och skicka den per post.",
             "provided_languages": [
                 "fi"
             ],
@@ -78263,6 +78261,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristöterveydenhuollon taksa",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf",
+                    "file_format": "PDF"
+                }
             ],
             "channels": [
                 {
@@ -78316,6 +78320,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristöterveydenhuollon taksa (in Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf",
+                    "file_format": "PDF"
+                }
             ],
             "channels": [
                 {
@@ -78369,6 +78379,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Ympäristöterveydenhuollon taksa (på finska)",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistoterveydenhuollon-taksa.pdf",
+                    "file_format": "PDF"
+                }
             ],
             "channels": [
                 {
