@@ -4306,7 +4306,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Asunnottomien neuvonnan (Asumisen tuki) puhelinpalvelu asiakkaille ja yhteistyökumppaneille",
-                    "availability_summary": "Avoinna ma, ke, pe 09-15",
+                    "availability_summary": "Avoinna ma, ke, pe 09-11:30, ma, ke, pe 12-15",
                     "phone": "+358 9 310 22530",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -4322,7 +4322,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma, ke, pe 09-15"
+                            "availability_string": "Avoinna ma, ke, pe 09-11:30"
+                        },
+                        {
+                            "availability_string": "Avoinna ma, ke, pe 12-15"
                         }
                     ]
                 }
@@ -4358,7 +4361,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Telephone service for counselling for the unhoused (Housing Support) for clients and partners",
-                    "availability_summary": "Open Mon, Wed, Fri 09-15",
+                    "availability_summary": "Open Mon, Wed, Fri 09-11:30, Mon, Wed, Fri 12-15",
                     "phone": "+358 9 310 22530",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -4374,7 +4377,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon, Wed, Fri 09-15"
+                            "availability_string": "Open Mon, Wed, Fri 09-11:30"
+                        },
+                        {
+                            "availability_string": "Open Mon, Wed, Fri 12-15"
                         }
                     ]
                 }
@@ -4410,7 +4416,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänst för bostadslösa (Boendestöd) för kunder och samarbetspartner",
-                    "availability_summary": "Öppet mån, ons, fre 09-15",
+                    "availability_summary": "Öppet mån, ons, fre 09-11:30, mån, ons, fre 12-15",
                     "phone": "+358 9 310 22530",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -4426,7 +4432,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån, ons, fre 09-15"
+                            "availability_string": "Öppet mån, ons, fre 09-11:30"
+                        },
+                        {
+                            "availability_string": "Öppet mån, ons, fre 12-15"
                         }
                     ]
                 }
