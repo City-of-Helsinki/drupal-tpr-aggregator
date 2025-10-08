@@ -6454,7 +6454,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Poikkeuksia palveluissa",
-                    "information": "Sosiaalineuvonnan puhelin- ja chat-palvelu ovat poikkeuksellisesti kiinni syksyllä 2025 seuraavasti:\n\n- 21.10.2025 klo 9-10.30\n- 7.11.2025 koko päivän\n- 18.11.2025 klo 9-10.30\n- 16.12.2025 klo 9-10.30",
+                    "information": "Etuuskäsittelyn neuvonnan puhelinpalvelu on poikkeuksellisesti kiinni syksyllä 2025 seuraavasti:\n\n- 21.10.2025 klo 9-10.30\n- 7.11.2025 koko päivän\n- 18.11.2025 klo 9-10.30\n- 16.12.2025 klo 9-10.30",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -6552,7 +6552,7 @@
                     "type": "LOCAL",
                     "type_string": "Local services",
                     "name": "Exceptions in services",
-                    "information": "The social counselling telephone and chat service will be exceptionally closed in autumn 2025 as follows:\n\n- 21.10.2025 from 9 to 10.30\n- 7.11.2025 all day\n- 18.11.2025 from 9 to 10.30\n- 16.12.2025 from 9 to 10.30",
+                    "information": "Benefit handling counsellings telephone service will be exceptionally closed in autumn 2025 as follows:\n\n- 21.10.2025 from 9 to 10.30\n- 7.11.2025 all day\n- 18.11.2025 from 9 to 10.30\n- 16.12.2025 from 9 to 10.30",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -6650,7 +6650,7 @@
                     "type": "LOCAL",
                     "type_string": "Lokal service",
                     "name": "Undantag för tjänster",
-                    "information": "Socialrådgivningens telefon- och chattjänst är undantagsvis stängd hösten 2025 enligt följande:\n\n- 21.10.2025 kl. 9-10.30\n- 7.11.2025 hela dagen\n- 18.11.2025 kl. 9-10.30\n- 16.12.2025 kl. 9-10.30",
+                    "information": "Förmånshandläggningens rådgivnings telefontjänst är undantagsvis stängd hösten 2025 enligt följande:\n\n- 21.10.2025 kl. 9-10.30\n- 7.11.2025 hela dagen\n- 18.11.2025 kl. 9-10.30\n- 16.12.2025 kl. 9-10.30",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -24591,8 +24591,7 @@
             "service_id": 10891,
             "type": "NOTICE",
             "name": "Report environmental damage",
-            "description": "Report environmental damage using the feedback form.",
-            "information": "Please note that, as a rule, reports are public documents and the information of the person submitting the report is stored in the database of Environmental Services if the report is processed by Environmental Services.",
+            "description": "Please use the feedback form to report an environmental hazard. Please note that it may take a few days for feedback to reach the Environmental Monitoring and Supervision Unit. If the hazard requires a faster response, do not use the feedback form, but instead send an email to kymp.ymparistovalvonta@hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
