@@ -86772,6 +86772,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -86793,7 +86794,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -86823,13 +86824,18 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Neuvonta vuokra-asunnon hakuun",
-                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/vuokra-asunnot\/hekan-vuokra-asunnot"
+                            "title": "Ohjeet Hekan vuokra-asunnon hakuun",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/hekan-vuokra-asunnot\/hae-hekan-vuokra-asuntoa"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Ohjeet vapaarahoitteisen vuokra-asunnon hakuun",
+                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/vapaarahoitteiset-vuokra-asunnot\/hae-vapaarahoitteista-vuokra-asuntoa"
                         }
                     ],
                     "availabilities": [
@@ -86848,7 +86854,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -86881,6 +86887,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -86902,7 +86909,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -86932,7 +86939,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -86951,7 +86958,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -86984,6 +86991,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -87005,7 +87013,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
@@ -87035,7 +87043,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -87059,7 +87067,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                     ],
