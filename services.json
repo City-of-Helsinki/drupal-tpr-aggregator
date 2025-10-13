@@ -119068,70 +119068,6 @@
         }
     },
     {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -119280,6 +119216,70 @@
                 51342
             ]
         }
+    },
+    {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 10133,
@@ -122454,8 +122454,8 @@
             "service_id": 10891,
             "title": "Anmälan om buller eller andra miljöolägenheter",
             "name_synonyms": "Miljöolägenhet, begäran, åtgärder, åtgärdsbegäran, anmälning",
-            "description_short": "Om du upptäcker en verksamhet som orsakar miljöförstöring eller miljöföroreningar lönar det sig att vända dig direkt till den person eller aktör på vars område olägenheten inträffat. Till exempel lönar det sig att ge respons på en dammig eller bullrig arbetsplats direkt till arbetsplatsen eller på en nedskräpad gård till ifrågavarande bostadsaktiebolag.",
-            "description_long": "Om det inte hjälper att kontakta den som orsakar olägenheten kan du anmäla miljöolägenheten till staden via en responsblankett.\n \nAnmälan kan till exempel gälla\n- buller\n- utsläpp i vatten eller mark\n- rökföroreningar\n- damm på byggarbetsplats\n- nedskräpning.\n\nOm din anmälan kräver behandling av en miljöskyddsmyndighet hänvisar vi den till miljötillsynen. Om anmälan gäller stadens egen verksamhet hänvisar vi anmälan till den stadsenhet som ansvarar för verksamheten. \n\nI regel behandlar vi anmälningar som lämnas in till miljötillsynen i ankomstordning och bedömer behovet av behandling från fall till fall. Vid en uppenbart ogrundad anmälan kan vi ta ut en avgift i enlighet med miljöskyddsmyndighetens taxa.\n\nJu noggrannare du beskriver olägenheten, dess orsak och plats, desto större är chansen att vi kan lösa frågan. Om möjligt, bifoga gärna ett fotografi eller en ljudinspelning av olägenheten. Vänligen ange ditt namn och dina kontaktuppgifter, så att vi kan kontakta dig vid behov. Miljötillsynen behandlar vanligtvis inte anonyma anmälningar.\n",
+            "description_short": "Du kan anmäla om miljöolägenheter till Helsingfors miljötillsyn om det inte hjälper att kontakta den som orsakar olägenheten.",
+            "description_long": "Om du upptäcker en verksamhet som orsakar miljöförstöring eller miljöföroreningar lönar det sig att vända dig direkt till den person eller aktör på vars område olägenheten inträffat. Till exempel lönar det sig att ge respons på en dammig eller bullrig arbetsplats direkt till arbetsplatsen eller på en nedskräpad gård till ifrågavarande bostadsaktiebolag.\n\nOm det inte hjälper att kontakta den som orsakar olägenheten kan du anmäla miljöolägenheten till staden via en responsblankett.\n \nAnmälan kan till exempel gälla\n- buller\n- utsläpp i vatten eller mark\n- rökföroreningar\n- damm på byggarbetsplats\n- nedskräpning.\n\nSkriv följande uppgifter i anmälan om olägenheter:\n- ditt namn och dina kontaktuppgifter\n- platsen där olägenheten finns\n- beskriv olägenheten och dess eventuella orsak eller upphov\n- vilka åtgärder önskar eller begär du\n- vilka andra aktörer har olägenheten meddelats. \n\nJu noggrannare du beskriver olägenheten, dess orsak och plats, desto större är chansen att vi kan lösa frågan. Om möjligt, bifoga gärna ett fotografi eller en ljudinspelning av olägenheten. Miljötillsynen behandlar vanligtvis inte anonyma anmälningar. Om anmälan inte innehåller tillräckliga uppgifter och saknar avsändarens kontaktuppgifter, kan vi inte börja utreda ärendet eftersom vi inte kan be om mer information.\n\nOm din anmälan kräver behandling av en miljöskyddsmyndighet hänvisar vi den till miljötillsynen. Om anmälan gäller stadens egen verksamhet hänvisar vi anmälan till den stadsenhet som ansvarar för verksamheten. \n\nI regel behandlar vi anmälningar som lämnas in till miljötillsynen i ankomstordning och bedömer behovet av behandling från fall till fall. Vid en uppenbart ogrundad anmälan kan vi ta ut en avgift i enlighet med miljöskyddsmyndighetens taxa.",
             "provided_languages": [
                 "en",
                 "fi",
