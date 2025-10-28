@@ -55920,7 +55920,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Helsingin työllisyyspalveluiden puhelinneuvonta",
                     "information": "Voit olla yhteydessä työllisyyspalveluihin puhelimitse.",
-                    "availability_summary": "Avoinna ma-pe 09-15, Suljettu poikkeuksellisesti alkaen 31.10.2025 pe",
+                    "availability_summary": "Avoinna ma-pe 09-15, Suljettu poikkeuksellisesti 31.10.2025 klo 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -55939,7 +55939,7 @@
                             "availability_string": "Avoinna ma-pe 09-15"
                         },
                         {
-                            "availability_string": "Suljettu poikkeuksellisesti pe alkaen 31.10.2025"
+                            "availability_string": "Suljettu poikkeuksellisesti 31.10.2025 klo 09-15"
                         }
                     ]
                 },
@@ -56083,7 +56083,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call Helsinki Employment Services",
-                    "availability_summary": "Open Mon-Fri 09-15, Closed exceptinally from 31 Oct 2025 Fri",
+                    "availability_summary": "Open Mon-Fri 09-15, Closed exceptinally 31 Oct 2025 at 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -56102,7 +56102,7 @@
                             "availability_string": "Open Mon-Fri 09-15"
                         },
                         {
-                            "availability_string": "Closed exceptinally Fri from 31 Oct 2025"
+                            "availability_string": "Closed exceptinally 31 Oct 2025 at 09-15"
                         }
                     ]
                 },
@@ -56246,7 +56246,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring till Helsingfors sysselsättningstjänster",
-                    "availability_summary": "Öppet mån-fre 09-15, Stängt undantagsvis från 31.10.2025 fre",
+                    "availability_summary": "Öppet mån-fre 09-15, Stängt undantagsvis 31.10.2025 kl. 09-15",
                     "phone": "+358931036107",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -56265,7 +56265,7 @@
                             "availability_string": "Öppet mån-fre 09-15"
                         },
                         {
-                            "availability_string": "Stängt undantagsvis fre från 31.10.2025"
+                            "availability_string": "Stängt undantagsvis 31.10.2025 kl. 09-15"
                         }
                     ]
                 },
@@ -83267,7 +83267,8 @@
                 10339,
                 10340,
                 10345,
-                10347
+                10347,
+                10354
             ],
             "service_id": 10030,
             "type": "APPOINTMENT",
@@ -83342,7 +83343,8 @@
                 10339,
                 10340,
                 10345,
-                10347
+                10347,
+                10354
             ],
             "service_id": 10030,
             "type": "APPOINTMENT",
@@ -83417,7 +83419,8 @@
                 10339,
                 10340,
                 10345,
-                10347
+                10347,
+                10354
             ],
             "service_id": 10030,
             "type": "APPOINTMENT",
