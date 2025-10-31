@@ -13465,7 +13465,7 @@
             "service_id": 10891,
             "type": "PERMISSION",
             "name": "Hae vapautusta hulevesiviemäriin liittymisestä",
-            "description": "Hae vapautusta kaupungin ympäristöpalveluilta sähköisesti Lupapisteessä.",
+            "description": "Voit hakea vapautusta hulevesiviemäriin liittymisestä, jos kaikki vesihuoltolain 17 c §:n ehdot täyttyvät. Voit hakea vapautusta vasta sitten, kun alue on vahvistettu vesihuoltolaitoksen huleveden viemäröintialueeksi.\n\nLähetä hakemus liitteineen kaupungin ympäristöpalveluille sähköisesti Lupapiste-palvelussa.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -13478,6 +13478,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Vesihuoltolaki (Finlex)",
+                    "url": "https:\/\/www.finlex.fi\/fi\/lainsaadanto\/2001\/119#chp_3a__sec_17c",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -13620,10 +13626,9 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Hae vapautusta vesijohtoon ja viemäriverkkoon liittämisestä",
-            "description": "Hae vapautusta kaupungin ympäristöpalveluilta sähköisesti Lupapisteessä.",
+            "name": "Hae vapautusta vesijohtoon ja jätevesiviemäriin liittymisestä",
+            "description": "Voit hakea vapautusta vesijohtoon ja jätevesiviemäriin liittymisestä, jos kaikki vesihuoltolain 11 §:n ehdot täyttyvät. \n\nLähetä hakemus liitteineen kaupungin ympäristöpalveluille sähköisesti Lupapiste-palvelussa.",
             "provided_languages": [
-                "en",
                 "fi",
                 "sv"
             ],
@@ -13635,6 +13640,12 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Vesihuoltolaki (Finlex)",
+                    "url": "https:\/\/www.finlex.fi\/fi\/lainsaadanto\/2001\/119#chp_3__sec_11",
+                    "file_format": "HTML"
+                }
             ],
             "channels": [
                 {
@@ -13675,7 +13686,6 @@
             "name": "Apply for an exemption from connecting to the water main and sewer network.",
             "description": "Apply for an exemption electronically from the City of Helsinki's Environmental Services via Lupapiste.",
             "provided_languages": [
-                "en",
                 "fi",
                 "sv"
             ],
@@ -13727,7 +13737,6 @@
             "name": "Ansök om befrielse från anslutning till vattenledning och avloppsnät",
             "description": "Ansök om befrielse av stadens miljötjänster elektroniskt i Lupapiste.",
             "provided_languages": [
-                "en",
                 "fi",
                 "sv"
             ],
@@ -15799,8 +15808,8 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Arbis kontaktinformation",
-                    "url": "https:\/\/arbis.hel.fi\/om-arbis\/kontaktuppgifter\/",
+                    "title": "Arbiksen yhteystiedot",
+                    "url": "https:\/\/arbis.hel.fi\/fi\/tietoja-arbiksesta\/yhteystiedot\/",
                     "file_format": "HTML"
                 }
             ],
@@ -15901,6 +15910,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Contact details",
+                    "url": "https:\/\/arbis.hel.fi\/en\/about-arbis\/contact-information\/"
+                }
             ],
             "channels": [
                 {
@@ -15999,6 +16013,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Arbis kontaktinformation",
+                    "url": "https:\/\/arbis.hel.fi\/om-arbis\/kontaktuppgifter\/"
+                }
             ],
             "channels": [
                 {
@@ -17765,6 +17784,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Helsingin työväenopiston sähköpostineuvonta",
+                    "information": "Vastaamme sähköpostiisi mahdollisiman pian.",
                     "email": "tyovaenopisto@hel.fi  ",
                     "provided_languages": [
                     ],
@@ -17776,6 +17796,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Anna palautetta",
+                            "url": "https:\/\/palautteet.hel.fi\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -17862,6 +17887,7 @@
                     "type": "EMAIL",
                     "type_string": "E-mail",
                     "name": "Helsinki Finnish Adult Education Centre advisory services by email",
+                    "information": "We will respond to your email as soon as possible.",
                     "email": "tyovaenopisto@hel.fi  ",
                     "provided_languages": [
                     ],
@@ -17873,6 +17899,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Send feedback",
+                            "url": "https:\/\/palautteet.hel.fi\/en\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -17960,6 +17991,7 @@
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
                     "name": "Helsingin työväenopistos e-postservice",
+                    "information": "Vi svarar på ditt e-postmeddelande så snart som möjligt.",
                     "email": "tyovaenopisto@hel.fi  ",
                     "provided_languages": [
                     ],
@@ -17971,6 +18003,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lämna respons",
+                            "url": "https:\/\/palautteet.hel.fi\/sv\/"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -73232,175 +73269,6 @@
                             "type": "FORM",
                             "title": "Blankett för sekretessbelagd bulleranmälan (doc, otillgänglig, på finska) ",
                             "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5747,
-        "fi": {
-            "id": 5747,
-            "exact_descriptions": [
-                9628
-            ],
-            "service_id": 10786,
-            "type": "NOTICE",
-            "name": "Tee muutosilmoitus savuttomien nikotiinituotteiden ottamisesta myyntiin",
-            "name_synonyms": "nikotiinipussien myyntilupa",
-            "description": "Savuttomat nikotiinituotteet (mm. nikotiinipussit) ovat tulleet tupakkalakiin 1.8.2025 alkaen. Jos sinulla on jo tupakkalain mukainen vähittäismyyntilupa ja haluat myydä myös savuttomia nikotiinituotteita, tee muutosilmoitus myyntivalikoiman laajentumisesta.\n\nMuutosilmoitus pitää tehdä viimeistään 31.10.2025. Savuttomia nikotiinituotteita ei saa myydä ilman jätettyä muutosilmoitusta tai haettua vähittäismyyntilupaa 1.11.2025 alkaen. \n\nTee muutosilmoitus Tupakkarekisterin sähköisen asioinnin kautta tai lähettämällä ilmoituslomake sähköpostitse. Suosittelemme sähköisen asioinnin käyttämistä.\n\nMuutosilmoitusta varten tarvitset myyntipaikkasi myyntitunnuksen (entinen lupanumero), joka löytyy vähittäismyyntilupapäätöksestä tai myyntilupa-asiakirjasta. Jos lupasi on myönnetty ennen 15.8.2016, tarvitset ilmoitusta varten myös päivitetyn omavalvontasuunnitelman sekä selvityksen myyntipisteiden lukumäärästä ja sijainnista.",
-            "processing_time": "Lähetämme vahvistuksen lupatietojen kirjaamisesta järjestelmiimme ja uuden esillä pidettävän myyntilupa-asiakirjan 1.8.2026 mennessä.",
-            "costs": "Perimme muutosilmoituksen käsittelystä 105 euron maksun.",
-            "information": "Savuttomien nikotiinituotteiden ottaminen myyntiin voi nostaa vuosittaista valvontamaksua.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4379,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tee muutosilmoitus savuttomien nikotiinituotteiden ottamisesta myyntiin",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry tupakkarekisterin asiointipalveluun",
-                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5747,
-            "exact_descriptions": [
-                9628
-            ],
-            "service_id": 10786,
-            "type": "NOTICE",
-            "name": "Submit a notification of change for starting the sale of non-combustible nicotine products",
-            "description": "Non-combustible nicotine products (including nicotine pouches) were included in the Tobacco Act as of 1 August 2025. If you already have a sales permit under the Tobacco Act and you also want to sell non-combustible nicotine products, please submit a notification of change to expand your range of products.\n\nThe notification of change must be submitted by 31 October 2025. As of 1 November 2025, non-combustible nicotine products may not be sold without a submitted notification of change or application for a retail permit. \n\nSubmit a notification of change in the tobacco register e-service or by sending the notification form by email. We recommend that you use the e-service.",
-            "processing_time": "We will send you confirmation of the registration of the permit information in our systems and a new sales permit document to be displayed by 1 August 2026.",
-            "costs": "We charge a fee of €105 for processing the notification of change.",
-            "information": "For the notification of change, you will need the sales ID (formerly the permit number) of your point of sale, which can be found in the retail permit decision or the sales permit document. If your permit was issued before 15 August 2016, you will also need an updated in-house control plan and a description of the number and location of the points of sale.\n\nStarting the sale of non-combustible nicotine products may increase your annual control fee.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4379,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Submit a notification of change for starting the sale of non-combustible nicotine products",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to tobacco register e-service (in Finnish)",
-                            "url": "https:\/\/tupakkarekisteri.valvira.fi\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5747,
-            "exact_descriptions": [
-                9628
-            ],
-            "service_id": 10786,
-            "type": "NOTICE",
-            "name": "Gör en ändringsanmälan för att ta in rökfria nikotinprodukter till försäljning",
-            "description": "Rökfria nikotinprodukter (inklusive nikotinpåsar) har inkluderats i tobakslagen från och med den 1 augusti 2025. Om du redan har ett detaljhandelstillstånd enligt tobakslagen och du även vill sälja rökfria nikotinprodukter, gör en ändringsanmälan för att utöka ditt produktsortiment.\n\nÄndringsanmälan ska göras senast den 31 oktober 2025. Från och med den 1 november 2025 får man inte sälja rökfria nikotinprodukter om man inte lämnat in en ändringsanmälan eller ansökt om detaljhandelstillstånd. \n\nGör ändringsanmälan via tobaksregistrets e-tjänst eller genom att skicka anmälningsblanketten per e-post. Vi rekommenderar att du använder de elektroniska tjänsterna.",
-            "processing_time": "Vi skickar en bekräftelse på att tillståndsuppgifterna har registrerats i våra system och en ny försäljningstillståndshandling att visa upp senast den 1 augusti 2026.",
-            "costs": "Vi debiterar en avgift på 105 euro för behandlingen av en ändringsanmälan.",
-            "information": "För ändringsanmälan behöver du försäljningsplatsens försäljningskod (tidigare tillståndsnummer), som finns i beslutet om detaljhandelstillstånd eller i försäljningstillståndshandlingen. Om ditt tillstånd har beviljats före den 15 augusti 2016 behövs för anmälan också en aktuell egenkontrollplan och en redogörelse över försäljningsställenas antal och placering.\n\nOm rökfria nikotinprodukter tas in för försäljning kan den årliga tillsynsavgiften höjas.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4379,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Gör en ändringsanmälan för att ta in rökfria nikotinprodukter till försäljning",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till tobaksregistrets e-tjänst",
-                            "url": "https:\/\/asiointi.tupakkarekisteri.fi\/app\/sv\/"
                         }
                     ],
                     "availabilities": [
