@@ -4727,7 +4727,7 @@
                     "id": 3836,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Rakennus- ja kiinteistöryhmien ja kuntouttavan vankityön kuntoutusohjaajan yhteystiedot",
+                    "name": "Rakennus- ja kiinteistöryhmien kuntoutusohjaajan yhteystiedot",
                     "phone": "09 3104 6040 ",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -37606,7 +37606,6 @@
         "fi": {
             "id": 5342,
             "exact_descriptions": [
-                2915
             ],
             "service_id": 10714,
             "type": "ADVICE",
@@ -65694,165 +65693,6 @@
         }
     },
     {
-        "id": 5344,
-        "fi": {
-            "id": 5344,
-            "exact_descriptions": [
-                9617
-            ],
-            "service_id": 10406,
-            "type": "APPOINTMENT",
-            "name": "Sosiaalinen kuntoutus, ajanvaraus",
-            "description": "Keskitetty uusien asiakkaiden ajanvarausnumero.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3825,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Sosiaalinen kuntoutus, ajanvaraus",
-                    "availability_summary": "Avoinna ti, pe 09-11",
-                    "phone": "09 310 73392 ",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ti, pe 09-11"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5344,
-            "exact_descriptions": [
-                9617
-            ],
-            "service_id": 10406,
-            "type": "APPOINTMENT",
-            "name": "Social rehabilitation, appointment",
-            "description": "Centralised appointment number for new customers.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3825,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Social rehabilitation, appointment",
-                    "availability_summary": "Open Tue, Fri 09-11",
-                    "phone": "09 310 73392 ",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Tue, Fri 09-11"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5344,
-            "exact_descriptions": [
-                9617
-            ],
-            "service_id": 10406,
-            "type": "APPOINTMENT",
-            "name": "Social rehabilitering, tidsbeställning",
-            "description": "Centraliserat tidsbokningsnummer för nya kunder.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3825,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Social rehabilitering, tidsbeställning",
-                    "availability_summary": "Öppet tis, fre 09-11",
-                    "phone": "09 310 73392 ",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet tis, fre 09-11"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5338,
         "fi": {
             "id": 5338,
@@ -66304,7 +66144,6 @@
         "fi": {
             "id": 5343,
             "exact_descriptions": [
-                9620
             ],
             "service_id": 10406,
             "type": "ADVICE",

@@ -57235,7 +57235,7 @@
             "service_id": 10406,
             "title": "Sosiaalinen kuntoutus",
             "description_short": "Sosiaalisessa kuntoutuksessa saat valmennusta arkipäivän toiminnoista suoriutumiseen ja elämänhallintaan sekä tukea sosiaalisiin vuorovaikutussuhteisiin.",
-            "description_long": "Sosiaalinen kuntoutus voi sopia sinulle, jos olet kärsinyt mielenterveysongelmista, päihdeongelmista, pitkäaikaistyöttömyydestä tai syrjäytymisestä. Voit tarvita kuntoutusta myös sairauden tai erityisyytesi vuoksi.\n\nSosiaalisessa kuntoutuksessa selvitämme sosiaalista toimintakykyäsi ja kuntoutustarvettasi. Saat valmennusta muun muassa arkipäivän toiminnoista suoriutumiseen ja elämänhallintaan sekä tukea sosiaalisiin vuorovaikutussuhteisiin. \n\nSosiaaliseen kuntoutukseen voit osallistua joko alueellisessa aikuisten tai nuorten tiimissä. Osallistumisesi tarve voi tulla esiin myös palvelutarpeen arvioinnissa. \n\nVoit olla meihin yhteydessä esimerkiksi sosiaalityöntekijäsi kautta. Yhteydenotto voi tulla myös läheiseltäsi tai työntekijältä toisesta palvelusta. \n\nPalvelumme on sinulle maksutonta. \n\nYhteistiedot:\nJohtava sosiaalityöntekijä, p. 09 3104 6879",
+            "description_long": "Sosiaalinen kuntoutus voi sopia sinulle, jos olet kärsinyt mielenterveysongelmista, päihdeongelmista, pitkäaikaistyöttömyydestä tai syrjäytymisestä. Voit tarvita kuntoutusta myös sairauden tai erityisyytesi vuoksi.\n\nSosiaalisessa kuntoutuksessa selvitämme sosiaalista toimintakykyäsi ja kuntoutustarvettasi. Saat valmennusta muun muassa arkipäivän toiminnoista suoriutumiseen ja elämänhallintaan sekä tukea sosiaalisiin vuorovaikutussuhteisiin. \n\nSosiaaliseen kuntoutukseen voit osallistua joko alueellisessa aikuisten tai nuorten tiimissä. Osallistumisesi tarve voi tulla esiin myös palvelutarpeen arvioinnissa. \n\nLisää tietoa sosiaalisesta kuntoutuksesta saat sosiaalityöntekijältäsi tai ottamalla yhteyttä oman alueesi aikuissosiaalityön palvelupisteeseen. \n\nPalvelumme on sinulle maksutonta. \n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -57251,7 +57251,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5344
             ],
             "links": [
             ],
@@ -57431,105 +57430,6 @@
             ],
             "unit_ids": [
                 51654
-            ]
-        }
-    },
-    {
-        "id": 9620,
-        "fi": {
-            "id": 9620,
-            "main_description": false,
-            "service_id": 10406,
-            "title": "Sosiaalisen kuntoutuksen tehostettu yksilötyö yli 30-vuotiaille",
-            "description_short": "Tarjoamme yli 30-vuotiaille työttömille tehostettua kuntoutusta.",
-            "description_long": "Tarjoamme yli 30-vuotiaille työttömille tehostettua yksilöllistä palvelua ja kuntoutumista edistäviä ryhmätoimintoja. Tarkoituksenamme on tukea hyvinvointiasi, arkeasi ja toimintakykyäsi. \n\nSosiaalisen kuntoutuksen tehostetussa yksilötyössä tapaat säännöllisesti sosiaalityön ja -ohjauksen ammattilaisia. \n\nSaat lisätietoja palvelustamme omatyöntekijältäsi tai sosiaalisen kuntoutuksen tiimin kuntoutusohjaajalta.\n\nPalvelu on maksuton.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5343
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 9620,
-            "main_description": false,
-            "service_id": 10406,
-            "title": "Enhanced individual social work in social rehabilitation for over 30-year-olds",
-            "description_short": "We offer enhanced rehabilitation to unemployed individuals over the age of 30.",
-            "description_long": "We provide enhanced rehabilitation services tailored for unemployed individuals aged 30 and above. Our focus is on enhancing your well-being, everyday functioning and overall capacity. \n\nThrough our enhanced individual and group activities, we aim to promote rehabilitation and support your unique needs. As part of our program, you will have regular meetings with experienced social work and instruction professionals who will guide you throughout the process. \n\nFor further information about our services, feel free to reach out to your designated worker or the rehabilitation instructor from our social rehabilitation team. \n\nThe service is free of charge.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5343
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 9620,
-            "main_description": false,
-            "service_id": 10406,
-            "title": "Individuell intensifierad social rehabilitering för arbetslösa över 30 år.",
-            "description_short": "Vi erbjuder intensifierad rehabilitering för arbetslösa över 30 år.",
-            "description_long": "Vi tillhandahåller arbetslösa som har fyllt 30 år intensifierad individuell service och gruppfunktioner som främjar rehabiliteringen. Vårt syfte är att stödja ditt välmående, din vardag och arbetsförmåga. \n\nI det intensifierade individuella arbetet inom social rehabilitering träffar du regelbundet yrkespersoner inom socialt arbete och social handledning. \n\nDu får mer information om tjänsterna av din egen medarbetare eller rehabiliteringshandledaren, \n\nTjänsten är gratis.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-                "LOSING_JOB"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5343
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
             ]
         }
     },
@@ -82493,6 +82393,93 @@
         }
     },
     {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -82612,18 +82599,17 @@
         }
     },
     {
-        "id": 8961,
+        "id": 10356,
         "fi": {
-            "id": 8961,
+            "id": 10356,
             "main_description": false,
             "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "title": "Terveysneuvontapiste päihteiden käyttäjille",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan terveysneuvontapiste on avoinna arkisin klo 10-15.30.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.\n\nLaajempia palveluja päihteiden käyttäjille tarjotaan Itäkeskuksen ja Sörnäisten Symppiksissä.",
             "provided_languages": [
             ],
             "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -82632,7 +82618,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5719
             ],
             "links": [
             ],
@@ -82642,16 +82627,15 @@
             ]
         },
         "en": {
-            "id": 8961,
+            "id": 10356,
             "main_description": false,
             "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "title": "Health counselling point for substance users",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.\n\nMore extensive services for substance users are available at the Symppis centres in Itäkeskus and Sörnäinen.",
             "provided_languages": [
             ],
             "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -82660,7 +82644,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5719
             ],
             "links": [
             ],
@@ -82670,16 +82653,15 @@
             ]
         },
         "sv": {
-            "id": 8961,
+            "id": 10356,
             "main_description": false,
             "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "title": "Hälsorådgivning för personer med missbruksproblem",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.\n\nMer omfattande beroendetjänster erbjuds i Symppisarna i Östra centrum och Sörnäs.",
             "provided_languages": [
             ],
             "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -82688,7 +82670,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5719
             ],
             "links": [
             ],
@@ -82785,87 +82766,6 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Terveysneuvontapiste päihteiden käyttäjille",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan terveysneuvontapiste on avoinna arkisin klo 10-15.30.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.\n\nLaajempia palveluja päihteiden käyttäjille tarjotaan Itäkeskuksen ja Sörnäisten Symppiksissä.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Health counselling point for substance users",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.\n\nMore extensive services for substance users are available at the Symppis centres in Itäkeskus and Sörnäinen.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivning för personer med missbruksproblem",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.\n\nMer omfattande beroendetjänster erbjuds i Symppisarna i Östra centrum och Sörnäs.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -90508,111 +90408,6 @@
                 59418,
                 64297,
                 68483
-            ]
-        }
-    },
-    {
-        "id": 2915,
-        "fi": {
-            "id": 2915,
-            "main_description": false,
-            "service_id": 10714,
-            "title": "Kuntouttava vankityö",
-            "description_short": "Kuntouttava vankityön tarkoituksena on kuntouttaa päihteettömyyteen ja rikoksettomuuteen sitoutuneita vankeja.",
-            "description_long": "Kuntouttava vankityö on työtoimintaa, jonka tavoitteena on tukea päihteettömyyteen ja rikoksettomuuteen sitoutuneiden vankien kuntoutumista ja valmistautumista takaisin yhteiskuntaan. Tavoitteena on myös ennaltaehkäistä uusintarikollisuutta. \n\nKuntouttavassa vankityössä korostuvat erityisesti työhönsijoittuminen, päihdekuntoutus, asumispalvelut ja asumistaitojen kehittäminen sekä velka-asioiden järjestely. \n\nHakeudu kuntouttavaan vankityöhön Suomenlinnan vankilan erityisohjaajan ja sosiaalisen kuntoutuksen kuntoutusohjaajan haastattelun kautta. \n\nJos sinut on hyväksytty ohjelmaan, sijoittaudut Suomenlinnan vankilaan. Siellä sinut perehdytetään työskentelyyn ennen varsinaisen kuntouttavan vankityön alkamista. \n\nVarsinainen työjakso on rakennusten peruskorjauksessa tai muussa vastaavassa avotyötoiminnan työssä. Osallistut palvelumme aikana päihdehuollon palveluihin. \n\nVapautumisesi jälkeen työllistymis- ja sosiaalipalvelusi jatkuvat ja vankityö jatkuu palkkatuettuna työnä. \n\nVarmistamme, että saat kohtuullisen asunnon vapautumisen jälkeen. \n\nPalvelu on maksutonta.",
-            "prerequisites": "Päihteettömyyteen ja rikoksettomuuteen sitoutuneita vankeja, jotka vankilassa ovat osallistuneet päihdekuntoutukseen.",
-            "information": "",
-            "general_description_id": "58f411cc-8cd6-4e42-8572-04053432919a",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5342
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                51654
-            ]
-        },
-        "en": {
-            "id": 2915,
-            "main_description": false,
-            "service_id": 10714,
-            "title": "Rehabilitative work for prisoners",
-            "description_short": "The primary goal of rehabilitative work for prisoners is to support the rehabilitation and successful reintegration into society of individuals committed to a substance- and crime-free lifestyle. This includes a strong focus on preventing re-offending. \n",
-            "description_long": "Rehabilitative work for prisoners encompasses a range of activities designed to address various aspects of rehabilitation and re-entry preparation. It emphasises work placement, substance abuse rehabilitation, housing services, development of housing skills and assistance with debt matters. \n\nTo apply for rehabilitative work for prisoners, you will need to undergo an interview with a specialised instructor from Suomenlinna Prison and a rehabilitation instructor from the social rehabilitation team. \n\nIf accepted into the program, you will be placed at Suomenlinna Prison. After an orientation period, you will begin engaging in the actual rehabilitative work activities. These tasks may involve building renovation or similar non-institutional work activities. Social services and support for substance abusers are an integral part of our comprehensive services. \n\nUpon your release, employment and social services will continue and your prison work will transition into pay-subsidy employment. Additionally, we are committed to helping you secure suitable housing arrangements after your release to support your successful reintegration. \n\nThe service is free of charge.",
-            "prerequisites": "Prisoners committed to a substance and crime-free life if they have participated in substance abuse rehabilitation while in prison.",
-            "information": "Enquiries tel. 09 3104 6040.",
-            "general_description_id": "58f411cc-8cd6-4e42-8572-04053432919a",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5342
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                51654
-            ]
-        },
-        "sv": {
-            "id": 2915,
-            "main_description": false,
-            "service_id": 10714,
-            "title": "Rehabiliterande arbete för fångar",
-            "description_short": "Det rehabiliterande arbetet för fångar har som syfte att rehabilitera fångar i Helsingfors som har förbundit sig till ett liv fritt från rusmedel och kriminalitet.",
-            "description_long": "Det är frågan om arbetsverksamhet i syfte att stödja nykterhet och lagenlighet för sådana fångar som förbundit sig till detta samt att förbereda dem att återvända till samhället. Syftet är även att motarbeta att brott begås igen. \n\nI det rehabiliterande fångarbetet ligger fokus i synnerhet på att hitta en plats i arbetslivet, på missbruksrehabilitering, boendetjänster och utveckling av boendefärdigheterna samt att få ordning på skulderna. \n\nDu ansöker till det rehabiliterande fångarbetet via en intervju med specialhandledaren och rehabiliteringshandledaren i Sveaborgs fängelse. \n\nDu som har godkänts för programmet placeras på Sveaborg. Här får du en introduktion i arbetet innan det egentliga rehabiliterande fångarbetet inleds. \n\nUnder den egentliga arbetsperioden arbetar du med renovering av byggnader eller utför annat motsvarande arbete inom den öppna arbetsverksamheten. Samtidigt deltar du i våra tjänster för missbrukare. \n\nEfter din frigivning fortsätter dina sysselsättnings- och socialtjänster och fångarbetet fortsätter med lönesubvention. \n\nVi säkerställer att du får en bostad efter din frigivning. \n\nTjänsten är gratis. .",
-            "prerequisites": "Fångar som förbundit sig till ett liv fritt från missbruk och brott och som i fängelset har deltagit i en missbruksrehabilitering.",
-            "information": "Förfrågningar tfn 09 3104 6040.",
-            "general_description_id": "58f411cc-8cd6-4e42-8572-04053432919a",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5342
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                51654
             ]
         }
     },
@@ -118529,132 +118324,6 @@
         }
     },
     {
-        "id": 10129,
-        "fi": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Kirjaston lukusalit",
-            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
-            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "en": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Library reading rooms",
-            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
-            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "sv": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Bibliotekets läsesalar",
-            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
-            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        }
-    },
-    {
         "id": 7589,
         "fi": {
             "id": 7589,
@@ -118879,6 +118548,132 @@
         }
     },
     {
+        "id": 10129,
+        "fi": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Kirjaston lukusalit",
+            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
+            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "en": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Library reading rooms",
+            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
+            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "sv": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Bibliotekets läsesalar",
+            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
+            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        }
+    },
+    {
         "id": 10130,
         "fi": {
             "id": 10130,
@@ -119095,6 +118890,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -119243,70 +119102,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
