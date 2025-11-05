@@ -8281,64 +8281,6 @@
         }
     },
     {
-        "id": 5042,
-        "fi": {
-            "id": 5042,
-            "exact_descriptions": [
-            ],
-            "service_id": 10900,
-            "type": "APPLICATION",
-            "name": "Hae jakeluliikenteen pysäköintitunnusta",
-            "description": "Voit hakea jakeluliikenteen pysäköintitunnusta ilmoittamalla yrityksesi tiedot sekä rekisteröitävät ajoneuvot verkkolomakkeella. \n\nTunnus on ajoneuvokohtainen, rekisteröitävien ajoneuvojen määrää ei ole rajoitettu.\n\nTunnus on voimassa toistaiseksi. Ajoneuvoja voi lisätä tai poistaa samaa lomaketta käyttämällä. \n",
-            "process_description": "Saat tiedon hakemuksesi hyväksymisestä tai hylkäämisestä ilmoittamaasi sähköpostiosoitteeseen. \n\nVoit alkaa käyttää ParkMan-mobiilisovellusta heti, kun hakemus on hyväksytty.",
-            "information": "Tunnus myönnetään vain yrityksille, joiden jakelutoiminta on ammattimaista ja päätoimista.\n \nAjoneuvon tulee olla liikennekäytössä, rekisteröity Suomeen ja yrityksen tulee olla ajoneuvorekisterin mukaan ajoneuvon omistaja tai haltija.\n \nAjoneuvo voi olla pakettiauto tai alle 12 metriä pitkä kuorma-auto. \n\nYritykselläsi tulee olla voimassa oleva y-tunnus.\nYritykselläsi tulee olla vähintään 15 000 euron tulo tai laskutus vuodessa.\n\nToimita hakemuksen yhteydessä seuraava tiedot\n- ajoneuvojen rekisteritunnukset, joille tunnuksen käyttöoikeutta haetaan\n- yrityksesi verovelkatodistus\n- jos yritykselläsi on verovelkaa: verohallinnon hyväksymä suunnitelma velan maksamiseksi tai muu hyväksytty suunnitelma \n- viimeisin tilinpäätös tai veroilmoitus\n\nHuom! Yrityksesi on tullut rekisteröityä yritys- ja yhteisötietojärjestelmään, kaupparekisteriin sekä ennakkoperintä- ja arvonlisäverovelvollisten rekisteriin tai vastaaviin rekistereihin, jos lainsäädäntö edellyttää rekisteröitymistä.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3397,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae jakeluliikenteen pysäköintitunnusta",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun",
-                            "url": "https:\/\/www.hel.fi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 5326,
         "fi": {
             "id": 5326,
@@ -13490,8 +13432,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Lähetä suojattua sähköpostia kaupungille.",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "title": "Lähetä suojattua sähköpostia kaupungille",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -13555,8 +13497,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Send secure email to the city.",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "title": "Send secure email to the city",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?lang=en&recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -13614,8 +13556,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Skicka skyddad e-post till staden.",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "title": "Skicka skyddad e-post till staden",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?lang=sv&recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -26133,8 +26075,8 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Turvasähköpostiin kirjautuminen",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "title": "Lähetä suojattua sähköpostia kaupungille",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -26189,6 +26131,11 @@
                     "type": "INTERNET",
                     "title": "Urban Environment Division, Customer Services",
                     "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Send secure email to the city",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?lang=en&recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -26243,6 +26190,11 @@
                     "type": "INTERNET",
                     "title": "Stadsmiljösektorns kundtjänst",
                     "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Skicka skyddad e-post till staden",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?lang=sv&recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -26764,8 +26716,8 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Turvasähköpostiin kirjautuminen",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "title": "Lähetä suojattua sähköpostia kaupungille",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?recipient=kymp.pysakointitunnus@hel.fi"
                 },
                 {
                     "type": "INTERNET",
@@ -26823,6 +26775,11 @@
                     "type": "INTERNET",
                     "title": "Urban Environment Division, Customer Services",
                     "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Send secure email to the city",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?lang=en&recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
@@ -26875,6 +26832,11 @@
                     "type": "INTERNET",
                     "title": "Stadsmiljösektorns kundtjänst",
                     "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Skicka skyddad e-post till staden",
+                    "url": "https:\/\/suojattusahkoposti.hel.fi\/?lang=sv&recipient=kymp.pysakointitunnus@hel.fi"
                 }
             ],
             "channels": [
