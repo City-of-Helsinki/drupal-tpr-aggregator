@@ -82204,7 +82204,7 @@
             "service_id": 10891,
             "type": "PERMISSION",
             "name": "Vapautus hulevesiviemäriin liittymisestä",
-            "description": "Voit hakea vapautusta hulevesiviemäriin liittymisestä, jos kaikki vesihuoltolain 17 c §:n ehdot täyttyvät. Voit hakea vapautusta vasta sitten, kun alue on vahvistettu vesihuoltolaitoksen huleveden viemäröintialueeksi.",
+            "description": "HSY:n huleveden viemäröintialueella oleva kiinteistö on liitettävä hulevesiviemäriin. Liittämisvelvollisuus ei koske rakentamattomia kiinteistöjä.\n\nVoit hakea vapautusta hulevesiviemäriin liittymisestä, jos kaikki vesihuoltolain 17 c §:n ehdot täyttyvät. Voit hakea vapautusta vasta sitten, kun alue on vahvistettu vesihuoltolaitoksen huleveden viemäröintialueeksi.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -82215,6 +82215,7 @@
             "target_groups": [
             ],
             "life_events": [
+                "BUILDING_HOME"
             ],
             "links": [
                 {
@@ -82272,6 +82273,7 @@
             "target_groups": [
             ],
             "life_events": [
+                "BUILDING_HOME"
             ],
             "links": [
             ],
@@ -82323,6 +82325,7 @@
             "target_groups": [
             ],
             "life_events": [
+                "BUILDING_HOME"
             ],
             "links": [
             ],
@@ -82366,7 +82369,7 @@
             "service_id": 10891,
             "type": "PERMISSION",
             "name": "Vapautus vesijohtoon ja jätevesiviemäriin liittymisestä",
-            "description": "Voit hakea vapautusta vesijohtoon ja jätevesiviemäriin liittymisestä, jos kaikki vesihuoltolain 11 §:n ehdot täyttyvät.",
+            "description": "Helsingin seudun ympäristöpalvelujen (HSY), Sipoon Veden ja vesiosuuskuntien toiminta-alueilla kiinteistö on liitettävä vesihuoltolaitoksen vesijohtoon ja jätevesiviemäriin. Liittämisvelvollisuus ei koske rakentamattomia kiinteistöjä. Taajaman ulkopuolella olevia kiinteistöä ei aina tarvitse liittää vesihuoltoverkostoon.\n\nVoit hakea vapautusta vesijohtoon ja jätevesiviemäriin liittymisestä, jos kaikki vesihuoltolain 11 §:n ehdot täyttyvät.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -82377,12 +82380,14 @@
             "target_groups": [
             ],
             "life_events": [
+                "BUILDING_HOME"
             ],
             "links": [
                 {
                     "type": "INTERNET",
                     "title": "Vesihuoltolaki (Finlex)",
-                    "url": "https:\/\/www.finlex.fi\/fi\/lainsaadanto\/2001\/119#chp_3__sec_11"
+                    "url": "https:\/\/www.finlex.fi\/fi\/lainsaadanto\/2001\/119#chp_3__sec_11",
+                    "file_format": "HTML"
                 }
             ],
             "channels": [
@@ -82433,6 +82438,7 @@
             "target_groups": [
             ],
             "life_events": [
+                "BUILDING_HOME"
             ],
             "links": [
             ],
@@ -82484,6 +82490,7 @@
             "target_groups": [
             ],
             "life_events": [
+                "BUILDING_HOME"
             ],
             "links": [
             ],
