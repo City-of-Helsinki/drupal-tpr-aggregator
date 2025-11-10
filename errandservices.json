@@ -72790,7 +72790,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Lähetä suojattua sähköpostia kaupungille",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "url": "https:\/\/securemail.hel.fi\/?recipient=pysakointi@hel.fi"
                 }
             ],
             "channels": [
@@ -72859,7 +72859,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Send secure email to the city.",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "url": "https:\/\/securemail.hel.fi\/?lang=en&recipient=pysakointi@hel.fi"
                 }
             ],
             "channels": [
@@ -72928,7 +72928,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Skicka skyddad e-post till staden.",
-                    "url": "https:\/\/securemail.hel.fi\/"
+                    "url": "https:\/\/securemail.hel.fi\/?lang=sv&recipient=pysakointi@hel.fi"
                 }
             ],
             "channels": [
@@ -82261,8 +82261,8 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Apply for an exemption from connecting to the stormwater sewer",
-            "description": "Apply for an exemption electronically from the City of Helsinki's Environmental Services via Lupapiste.",
+            "name": "Exemption from connecting to the stormwater sewer",
+            "description": "A property in HSY's stormwater sewerage area must be connected to a stormwater sewer. The obligation to connect does not apply to undeveloped properties.\n\nYou can apply for an exemption from connecting to a stormwater sewer if all the conditions in Section 17(c) of the Water Services Act are met. You can only apply for the exemption when the area has been confirmed as the water utility's stormwater sewerage area.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -82313,8 +82313,8 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Ansök om befrielse från anslutning till dagvattenavlopp",
-            "description": "Ansök om befrielse av stadens miljötjänster elektroniskt i Lupapiste.",
+            "name": "Befrielse från anslutning till dagvattenavlopp",
+            "description": "Fastigheten som är belägen på HRM:s område för dagvattenavlopp ska anslutas till dagvattenavlopp. Anslutningsskyldigheten gäller inte obebyggda fastigheter.\n\nDu kan ansöka om befrielse från anslutning till dagvattenavlopp om alla villkoren i lagen om vattentjänster (17 c §) uppfylls. Du kan ansöka om befrielse först efter att staden har bekräftat området som vattenförsörjningsverkets område för dagvattenavlopp.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -82426,8 +82426,8 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Apply for an exemption from connecting to the water main and sewer network.",
-            "description": "Apply for an exemption electronically from the City of Helsinki's Environmental Services via Lupapiste.",
+            "name": "Exemption from connecting to the water main and sewer network",
+            "description": "A property in the operating areas of the Helsinki Region Environmental Services HSY, water company Sipoon Vesi and water cooperatives must be connected to the water utility's water main and wastewater sewer. The obligation to connect does not apply to undeveloped properties. A property outside a population centre need not always be connected to the water main or sewer.\n\nYou can apply for an exemption from connecting to the water main and sewer network if all the conditions in Section 11 of the Water Services Act are met.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -82478,8 +82478,8 @@
             ],
             "service_id": 10891,
             "type": "PERMISSION",
-            "name": "Ansök om befrielse från anslutning till vattenledning och avloppsnät",
-            "description": "Ansök om befrielse av stadens miljötjänster elektroniskt i Lupapiste.",
+            "name": "Befrielse från anslutning till vattenledning och avloppsnät",
+            "description": "På verksamhetsområdena för Helsingforsregionens miljötjänster (HRM), Sibbo Vatten och vattenandelslag ska fastigheten anslutas till vattenförsörjningsverkets vattenledning och spillvattenavlopp. Anslutningsskyldigheten gäller inte obebyggda fastigheter. Fastigheter som är belägna utanför tätorten behöver inte alltid anslutas till vattenförsörjningsnätet.\n\nDu kan ansöka om befrielse från anslutning till vattenledning och avloppsnät om alla villkoren i lagen om vattentjänster (11 §) uppfylls.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -83763,7 +83763,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Varhaiskasvatushakemus paperilomakkeella",
-            "description": "Paperilomakkeella voit hakea varhaiskasvatuksen palveluihin, mikäli sinulla\/perheelläsi ei ole suomalaisia henkilötunnuksia, sinulla\/perheelläsi ei ole suomalaisia pankkitunnuksia, sähköinen hakeminen ei ole muuten sinulle\/perheellesi mahdollista tai jollain perheessäsi on turvakielto. \n\nPalauta paperihakemus postitse osoitteeseen Varhaiskasvatuksen palveluohjaus, Työpajankatu 8, PL 58300, 00099 Helsingin kaupunki. Myös leikkipuistot ottavat paperihakemuksia vastaan (poislukien leikkipuisto Loru, Seppä ja Santahamina).\n\nVoit lähettää paperilomakkeen myös turvasähköpostilla mikäli sinulla on suomalaiset henkilötunnukset. Tällöin henkilötunnuksesi myös välittyy vastaanottajalle.\n\nKun hakemus tehdään paperilomakkeella, paikka voidaan myöntää aikaisintaan neljän kuukauden kuluttua siitä, kun paperihakemus on saapunut varhaiskasvatuksen palveluohjaukseen. \n\nJos paikan tarve on äkillinen ja ennakoimaton, lue lisää kohdasta Äkillinen, ennakoimaton paikan tarve.\n",
+            "description": "Paperilomakkeella voit hakea varhaiskasvatuksen palveluihin, mikäli sinulla\/perheelläsi ei ole suomalaisia henkilötunnuksia, sinulla\/perheelläsi ei ole suomalaisia pankkitunnuksia, sähköinen hakeminen ei ole muuten sinulle\/perheellesi mahdollista tai jollain perheessäsi on turvakielto. \n\nPalauta paperihakemus postitse osoitteeseen Varhaiskasvatuksen palveluohjaus, Työpajankatu 8, PL 58300, 00099 Helsingin kaupunki. Myös leikkipuistot ottavat paperihakemuksia vastaan (poislukien leikkipuisto Loru, Seppä ja Santahamina).\n\nVoit lähettää paperilomakkeen myös turvasähköpostilla mikäli sinulla on suomalaiset henkilötunnukset.\n\nKun hakemus tehdään paperilomakkeella, paikka voidaan myöntää aikaisintaan neljän kuukauden kuluttua siitä, kun paperihakemus on saapunut varhaiskasvatuksen palveluohjaukseen. \n\nJos paikan tarve on äkillinen ja ennakoimaton, lue lisää kohdasta Äkillinen, ennakoimaton paikan tarve.\n",
             "process_description": "Jos olet hakenut paperihakemuksella ja sinulla tai lapsella on turvakielto, lähetämme sinulle päätöksen ensisijaisesti turvasähköpostilla. Voit myös tulla noutamaan päätöksen erikseen sovittuna aikana osoitteesta Työpajankatu 8.\n\nJos hait paperihakemuksella, ja sinulla tai lapsella ei ole suomalaista henkilötunnusta lähetetään päätös joko turvasähköpostilla tai paperisena kotiosoitteeseen.\n\nKansainvälinen\/ulkopaikkakuntalainen hakija: jos olet muuttamassa Helsinkiin, on varhaiskasvatuspaikkaa hyvä hakea jo ulkomailta tai toisesta kaupungista ennen muuttoa. Et tarvitse paperihakemukseen suomalaista henkilötunnusta tai osoitetta Helsingissä - tietosi voidaan päivittää myöhemmin.",
             "provided_languages": [
                 "en",
@@ -83827,7 +83827,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Applying for early childhood education with paper application",
-            "description": "You can use the paper form to apply for early childhood education if you or your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply online for other reasons, or a member of your family has a non-disclosure for personal safety reasons.\n\nReturn the paper application by post to the following address: Service guidance for early childhood education, Työpajankatu 8, PO Box 58300, 00099 City of Helsinki. We also accept paper applications at playgrounds (except playgrounds Seppä, Loru and Santahamina).\n\nYou can also send the paper application via secure mail if you have Finnish personal identity codes. In this case the Finnish personal identity code is also sent to the recipient. \n\nWhen you apply by paper form, a place can be granted at the earliest four months from the date the paper application is received by the Service guidance for early childhood education.",
+            "description": "You can use the paper form to apply for early childhood education if you or your family do not have Finnish personal identity codes or online banking credentials, you and your family are unable to apply online for other reasons, or a member of your family has a non-disclosure for personal safety reasons.\n\nReturn the paper application by post to the following address: Service guidance for early childhood education, Työpajankatu 8, PO Box 58300, 00099 City of Helsinki. We also accept paper applications at playgrounds (except playgrounds Seppä, Loru and Santahamina).\n\nYou can also send the paper application via secure mail if you have Finnish personal identity codes.\n\nWhen you apply by paper form, a place can be granted at the earliest four months from the date the paper application is received by the Service guidance for early childhood education.",
             "process_description": "If you have applied on paper and you have a non-disclosure agreement for personal safety, we will send you the decision primarily by secure email. Alternatively, you can pick-up the decision from our offices at Työpajankatu 8 by booking an appointment.\n\nIf you or the applicant child does not have a Finnish personal identity number, we will send the decision either by secure email or on paper to your home address.\n\nFamilies moving to Helsinki from abroad or another city: We recommend you apply for a place in early childhood education before you move to Helsinki. You can apply from abroad or from another city with the paper application, even if you do not yet have an address in Helsinki or a Finnish personal identity code. Your personal details can be edited later.\n\nIf the need for a place is sudden and unforeseen, read more under \"Sudden, unforeseen need for early childhood education\".",
             "provided_languages": [
                 "en",
@@ -83891,7 +83891,7 @@
             "service_id": 10055,
             "type": "APPLICATION",
             "name": "Ansökan om plats inom småbarnspedagogik med pappersblankett",
-            "description": "Om du\/din familj inte har finsk personbeteckning, du\/din familj inte har finska bankkoder, någon i din familj har spärrmarkering eller om du\/din familj på grund av andra skäl inte har möjlighet att ansöka elektroniskt kan du ansöka om plats inom småbarnspedagogikens tjänster med en pappersblankett. \n\nSkicka pappersansökan per post till adressen Småbarnspedagogikens servicehandledning, Verkstadsgatan 8, PB 58300, 00099 Helsingfors stad. Lekparkerna tar också emot pappersansökningar (förutom lekparkerna Seppä, Loru och Santahamina).\n\nDu kan också skicka in pappersblanketten med säker e-post om du har finsk personbeteckning. Då förmedlas personbeteckningen även till mottagaren. \n\nDå du söker med pappersblankett kan en plats beviljas tidigast fyra månader från det datum pappersansökan anländer till småbarnspedagogikens servicehandledning.\n\nOm behovet av plats är akut och oförutsett, läs mer under \"Akut, oförutsett behov av plats\".\n",
+            "description": "Om du\/din familj inte har finsk personbeteckning, du\/din familj inte har finska bankkoder, någon i din familj har spärrmarkering eller om du\/din familj på grund av andra skäl inte har möjlighet att ansöka elektroniskt kan du ansöka om plats inom småbarnspedagogikens tjänster med en pappersblankett. \n\nSkicka pappersansökan per post till adressen Småbarnspedagogikens servicehandledning, Verkstadsgatan 8, PB 58300, 00099 Helsingfors stad. Lekparkerna tar också emot pappersansökningar (förutom lekparkerna Seppä, Loru och Santahamina).\n\nDu kan också skicka in pappersblanketten med säker e-post om du har finsk personbeteckning. \n\nDå du söker med pappersblankett kan en plats beviljas tidigast fyra månader från det datum pappersansökan anländer till småbarnspedagogikens servicehandledning.\n\nOm behovet av plats är akut och oförutsett, läs mer under \"Akut, oförutsett behov av plats\".\n",
             "process_description": "Om du har ansökt med en pappersblankett och du eller ditt barn har spärrmarkering skickar vi i första hand beslutet med skyddad e-post. Du kan även hämta beslutet på adressen Verkstadsgatan 8 genom att boka en tid. \n\nOm du har ansökt med en pappersblankett och du eller ditt barn inte har en finländsk personbeteckning skickar vi beslutet med skyddad e-post eller per post till er hemadress. \n\nInternationella sökanden\/sökanden från andra kommuner: Om du håller på att flytta till Helsingfors är det bra att ansöka om en plats inom småbarnspedagogiken redan från utlandet eller från en annan kommun. Du behöver inget finsk personnummer eller adress i Helsingfors - dina uppgifter kan uppdateras senare.",
             "provided_languages": [
                 "en",
@@ -83939,7 +83939,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Skicka pappersblanketten med säker e-post",
-                            "url": "https:\/\/securemail.hel.fi\/?recipient=varepalveluohjaus%40hel.fi"
+                            "url": "https:\/\/suojattusahkoposti.hel.fi\/?recipient=varepalveluohjaus%40hel.fi"
                         }
                     ],
                     "availabilities": [
