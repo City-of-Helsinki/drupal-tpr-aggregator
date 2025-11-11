@@ -55687,6 +55687,35 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4534,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Työmarkkinatorin Asiointi-palvelu",
+                    "information": "Voit asioida Helsingin työllisyyspalveluiden kanssa.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Työmarkkinatorin Asiointi-palvelu",
+                            "url": "https:\/\/tyomarkkinatori.fi\/henkiloasiakkaat\/asiointi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -55847,6 +55876,35 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4534,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Job Market Finland E-services",
+                    "information": "You can handle matters with Helsinki Employment Services.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Job Market Finland E-services",
+                            "url": "https:\/\/tyomarkkinatori.fi\/en\/personal-customers\/official-matters",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -56003,6 +56061,35 @@
                             "type": "INTERNET",
                             "title": "Securemail",
                             "url": "https:\/\/securemail.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4534,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Jobbmarknadens e-tjänster",
+                    "information": "Du kan sköta ärenden med Helsingfors sysselsättningstjänster.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Jobbmarknadens e-tjänster",
+                            "url": "https:\/\/tyomarkkinatori.fi\/sv\/personkunder\/arendehantering",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
