@@ -6068,7 +6068,8 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Hae työnjohtajaksi",
                     "provided_languages": [
-                        "fi"
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -6081,7 +6082,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Lupapisteeseen",
-                            "url": "https:\/\/lupapiste.fi"
+                            "url": "https:\/\/www.lupapiste.fi"
                         }
                     ],
                     "availabilities": [
@@ -22470,7 +22471,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry asiointipalveluun",
+                            "title": "Siirry asiointipalveluun ja ilmoita muutoksista",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
@@ -22555,7 +22556,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to e-service (in Finnish)",
+                            "title": "Go to e-service to report changes (in Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
@@ -22645,7 +22646,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till e-tjänsten (på finska)",
+                            "title": "Gå till e-tjänsten för att meddela ändringar (på finska)",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
@@ -55392,6 +55393,7 @@
                     "type_string": "Sähköposti",
                     "name": "Tietoturvallinen Securemail-palvelu",
                     "information": "Henkilökohtaiset tiedot ja liitetiedostot tulee lähettää Securemail-palvelun kautta. Palvelun käyttö vaatii vahvan tunnistautumisen.",
+                    "email": "https:\/\/securemail.hel.fi\/",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -55581,6 +55583,8 @@
                     "type_string": "E-mail",
                     "name": "Go to the Securemail service",
                     "prerequisites": "Using the service requires strong authentication.",
+                    "information": "You can send personal information or attachments via the Securemail service. Using the service requires strong authentication.",
+                    "email": "https:\/\/securemail.hel.fi\/",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -55770,6 +55774,8 @@
                     "type_string": "Elektronisk post",
                     "name": "Informationssäkra tjänsten Securemail",
                     "prerequisites": "Användningen av tjänsten kräver stark autentisering.",
+                    "information": "Personlig information eller bilagor kan skickas via den informationssäkra Securemail-tjänsten. Användningen av tjänsten kräver stark autentisering.",
+                    "email": "https:\/\/securemail.hel.fi\/",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
