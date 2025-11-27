@@ -73273,6 +73273,116 @@
         }
     },
     {
+        "id": 5882,
+        "fi": {
+            "id": 5882,
+            "exact_descriptions": [
+                10363
+            ],
+            "service_id": 10290,
+            "type": "NOTICE",
+            "name": "Tee rekisteröinti-ilmoitus liikkuvasta elintarvikehuoneistosta",
+            "description": "Rekisteröi elintarviketoimintasi ilppa.fi-palvelussa tai erillisellä lomakkeella viimeistään neljä viikkoa ennen kuin aloitat toiminnan. Voit tunnistautua palveluun yrityksesi Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4539,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee rekisteröinti-ilmoitus elintarviketoiminnasta sähköisessä palvelussa",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry ilppa-fi-palveluun",
+                            "url": "https:\/\/ilppa.fi\/ilmoitus-aloitus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4540,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Tulostettavat lomakkeet",
+                    "name": "Lähetä ilmoitus sähköpostitse",
+                    "information": "Jos et voi tehdä rekisteröintiä verkkopalvelussa, täytä lomake ja lähetä se sähköpostitse osoitteeseen ulkomyynti@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus elintarviketoiminnasta (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.docx",
+                            "file_format": "WORD"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Ilmoitus elintarviketoiminnasta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4541,
+                    "type": "MAIL",
+                    "type_string": "Posti",
+                    "name": "Lähetä ilmoitus postitse",
+                    "personal_service_street_addr": "Helsingin kaupunki\/ Elintarviketurvallisuusyksikkö",
+                    "personal_service_postal_code": "PL 58235 ",
+                    "personal_service_city": "00099 Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5135,
         "fi": {
             "id": 5135,
