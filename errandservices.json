@@ -3630,7 +3630,6 @@
                 8512,
                 8578,
                 8673,
-                8676,
                 8677,
                 8681,
                 8682,
@@ -3727,7 +3726,6 @@
                 8512,
                 8578,
                 8673,
-                8676,
                 8677,
                 8681,
                 8682,
@@ -3816,7 +3814,6 @@
                 8512,
                 8578,
                 8673,
-                8676,
                 8677,
                 8681,
                 8682,
@@ -13893,7 +13890,6 @@
             "exact_descriptions": [
                 2721,
                 7439,
-                8676,
                 8677,
                 8678,
                 8679,
@@ -13962,7 +13958,6 @@
             "exact_descriptions": [
                 2721,
                 7439,
-                8676,
                 8677,
                 8678,
                 8679,
@@ -14032,7 +14027,6 @@
             "exact_descriptions": [
                 2721,
                 7439,
-                8676,
                 8677,
                 8678,
                 8679,
@@ -53766,7 +53760,8 @@
                     "id": 4141,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Tee arvio hampaiden tai suun alueen oireesta",
+                    "name": "Tee arvio hampaiden tai suun alueen oireesta tai vammasta",
+                    "information": "Tee Omaolon oirearvio, jos kyse on hampaiden tai suun alueen oireesta tai vammasta. Saat toimintaohjeet ympäri vuorokauden. Jos oireesi vaativat ammattilaisen arviota, saat arkisin yhteyden hammashoidon ammattilaiseen sekä iltaisin ja viikonloppuisin ohjauksen päivystykseen.",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -53819,7 +53814,8 @@
                     "id": 4141,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Start the survey for dental or oral symptom or trauma",
+                    "name": "Fill out the symptom checker for dental or oral symptom or trauma",
+                    "information": "After filling out the symptom checker, you will be given reliable instructions for treating your ailment. When necessary, you can use the symptom checker to get in touch with a dental care professional during weekdays and a referral to the emergency clinic in the evenings and at weekends.",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -53873,6 +53869,7 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Gör bedömningen av symtom eller skada i tänder eller mun",
+                    "information": "Gör bedömningen i Omaolo. Du får anvisningar dygnet runt. Vid behov kan du kontakta under vardagar en yrkesutbildad person inom tandvården via enkäten, och på kvällar och veckoslut hänvisar enkäten dig till jouren.",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -72281,7 +72278,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Tee liikkuvan myynnin sopimus",
-            "description": "Tee hakemus liikkuvan myynnin sopimusta varten lomakkeella kaupungin verkkoasioinnissa tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia. Voit tehdä sopimuksen vähintään kuukauden ajaksi.Toimita hakemus hyvissä ajoin. Pyrimme käsittelemään hakemuksen 5 arkipäivän sisällä. Voit aloittaa myynnin vasta kun olet saanut vuokrauspäätöksen. \n\n",
+            "description": "Tee hakemus liikkuvan myynnin sopimusta varten kaupungin verkkopalvelussa tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia. Voit tehdä sopimuksen vähintään kuukauden ajaksi. Toimita hakemus hyvissä ajoin. Pyrimme käsittelemään hakemuksen viiden arkipäivän kuluessa. Voit aloittaa myynnin vasta kun olet saanut vuokrauspäätöksen. \n\n",
             "provided_languages": [
                 "fi"
             ],
@@ -72313,7 +72310,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Siirry kaupungin verkkoasiointiin",
+                            "title": "Siirry kaupungin verkkopalveluun",
                             "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/liikkuvan-myyntiauton-tai-vaunun-perustaminen-ja-kayttooikeudet"
                         }
                     ],
@@ -72325,7 +72322,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tee hakemus sähköpostitse",
-                    "information": "Jos et voi täyttää sähköistä lomaketta, täytä pdf-lomake ja lähetä se sähköpostitse osoitteeseen ulkoilma@hel.fi.",
+                    "information": "Jos et voi käyttää kaupungin verkkopalvelua, täytä pdf-lomake ja lähetä se sähköpostitse osoitteeseen ulkoilma@hel.fi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
