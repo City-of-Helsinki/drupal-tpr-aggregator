@@ -3630,7 +3630,6 @@
                 8512,
                 8578,
                 8673,
-                8677,
                 8946,
                 8947,
                 8949,
@@ -3724,7 +3723,6 @@
                 8512,
                 8578,
                 8673,
-                8677,
                 8946,
                 8947,
                 8949,
@@ -3810,7 +3808,6 @@
                 8512,
                 8578,
                 8673,
-                8677,
                 8946,
                 8947,
                 8949,
@@ -3873,6 +3870,122 @@
                         }
                     ]
                 }
+            ]
+        }
+    },
+    {
+        "id": 5883,
+        "fi": {
+            "id": 5883,
+            "exact_descriptions": [
+                7449,
+                8677,
+                8679,
+                9370
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Asioi Maisassa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4542,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Asioi Maisassa",
+                    "information": "Maisa-sovelluksen tai Maisa.fi-verkkopalvelun kautta voit varata ajan lasten ja nuorten määräaikaisiin hammastarkastuksiin sekä ensimmäistä lasta odottavien hammastarkastuksiin.",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/www.maisa.fi\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5883,
+            "exact_descriptions": [
+                7449,
+                8677,
+                8679,
+                9370
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Client portal Maisa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+            ]
+        },
+        "sv": {
+            "id": 5883,
+            "exact_descriptions": [
+                7449,
+                8677,
+                8679,
+                9370
+            ],
+            "service_id": 10203,
+            "type": "APPOINTMENT",
+            "name": "Sköt dina ärenden i Maisa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
             ]
         }
     },
@@ -13878,14 +13991,71 @@
         }
     },
     {
+        "id": 5885,
+        "fi": {
+            "id": 5885,
+            "exact_descriptions": [
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Hammashoidon asiakaspalvelu \/ ajan peruminen tai siirtäminen",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4543,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Hammashoidon asiakaspalvelu \/ ajan peruminen tai siirtäminen",
+                    "availability_summary": "Avoinna ma-to 07-18, pe 07-15",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 07-18"
+                        },
+                        {
+                            "availability_string": "Avoinna pe 07-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 562,
         "fi": {
             "id": 562,
             "exact_descriptions": [
                 2721,
-                7439,
+                7449,
+                8676,
                 8677,
-                8678,
                 8679,
                 8680,
                 8681,
@@ -13895,8 +14065,8 @@
             ],
             "service_id": 10203,
             "type": "APPOINTMENT",
-            "name": "Hammashoidon asiakaspalvelu",
-            "description": "Vastaanottoajan hammashoitolaan voi varata ajanvarausnumerosta 09 310 51400 (ma‒to klo 7‒18, pe klo 7‒15).",
+            "name": "Hammashoidon asiakaspalvelu \/ ajanvaraus tai muu asia, soittopyynnön jättäminen",
+            "description": "Vastaanottoajan hammashoitolaan voi varata ajanvarausnumerosta 09 310 51400 (ma‒to klo 7‒16, pe klo 7‒15).",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -13921,8 +14091,8 @@
                     "id": 2572,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Hammashoidon asiakaspalvelu",
-                    "availability_summary": "Avoinna ma-to 07-18, pe 07-15",
+                    "name": "Hammashoidon asiakaspalvelu \/ ajanvaraus tai muu asia, soittopyynnön jättäminen",
+                    "availability_summary": "Avoinna ma-to 07-16, pe 07-15",
                     "phone": "+358 9 310 51400",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -13938,7 +14108,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-to 07-18"
+                            "availability_string": "Avoinna ma-to 07-16"
                         },
                         {
                             "availability_string": "Avoinna pe 07-15"
@@ -13951,9 +14121,9 @@
             "id": 562,
             "exact_descriptions": [
                 2721,
-                7439,
+                7449,
+                8676,
                 8677,
-                8678,
                 8679,
                 8680,
                 8681,
@@ -13991,7 +14161,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Customer service for oral health care",
-                    "availability_summary": "Open Mon-Thu 07-18, Fri 07-15",
+                    "availability_summary": "Open Mon-Thu 07-16, Fri 07-15",
                     "phone": "+358 9 310 51400",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -14007,7 +14177,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon-Thu 07-18"
+                            "availability_string": "Open Mon-Thu 07-16"
                         },
                         {
                             "availability_string": "Open Fri 07-15"
@@ -14020,9 +14190,9 @@
             "id": 562,
             "exact_descriptions": [
                 2721,
-                7439,
+                7449,
+                8676,
                 8677,
-                8678,
                 8679,
                 8680,
                 8681,
@@ -14060,7 +14230,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Kundtjänst för tandvård",
-                    "availability_summary": "Öppet mån-tor 07-18, fre 07-15",
+                    "availability_summary": "Öppet mån-tor 07-16, fre 07-15",
                     "phone": "+358 9 310 51400",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -14076,7 +14246,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån-tor 07-18"
+                            "availability_string": "Öppet mån-tor 07-16"
                         },
                         {
                             "availability_string": "Öppet fre 07-15"
@@ -14085,6 +14255,61 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5886,
+        "fi": {
+            "id": 5886,
+            "exact_descriptions": [
+                7439
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Hammashoidon asiakaspalvelu \/ tapaturma tai särky",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4544,
+                    "type": "TELEPHONE",
+                    "type_string": "Puhelinpalvelu",
+                    "name": "Hammashoidon asiakaspalvelu \/ tapaturma tai särky",
+                    "availability_summary": "Avoinna ma-to 07-14",
+                    "call_charge_info": "maksuton",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna ma-to 07-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 5862,
@@ -22393,7 +22618,7 @@
                     "id": 3938,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
+                    "name": "Kaivutyöt: hae lisäaikaa ja ilmoita muutoksista, toiminnallisesta tilasta sekä valmistumisesta",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -22445,7 +22670,7 @@
                     "id": 4362,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Ilmoita työalueen vuokraukseen liittyvistä muutoksista asiointipalvelussa",
+                    "name": "Työalueen vuokraus: ilmoita muutoksista",
                     "provided_languages": [
                         "fi"
                     ],
@@ -22511,12 +22736,6 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Notification of changes, functional status and completion (PDF, in Finnish) ",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
-                            "file_format": "PDF"
-                        },
                         {
                             "type": "INTERNET",
                             "title": "Go to the Haitaton service",
@@ -22597,20 +22816,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Anmäl ändringar, funktionsstatus och färdigställande (på finska, pdf) ",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/ilmoituskaavake.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
                             "type": "INTERNET",
                             "title": "Gå till Haitaton-service",
                             "url": "https:\/\/haitaton.hel.fi\/sv\/"
-                        },
-                        {
-                            "type": "INTERNET",
-                            "title": "Meddela ändringar i anslutning till hyrning av arbetsområdet (på finska)",
-                            "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus_muutos"
                         }
                     ],
                     "availabilities": [
@@ -52966,7 +53174,6 @@
         "fi": {
             "id": 4950,
             "exact_descriptions": [
-                8678,
                 8682
             ],
             "service_id": 10203,
@@ -53015,7 +53222,6 @@
         "en": {
             "id": 4950,
             "exact_descriptions": [
-                8678,
                 8682
             ],
             "service_id": 10203,
@@ -53063,7 +53269,6 @@
         "sv": {
             "id": 4950,
             "exact_descriptions": [
-                8678,
                 8682
             ],
             "service_id": 10203,
