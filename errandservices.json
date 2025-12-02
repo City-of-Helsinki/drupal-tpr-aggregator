@@ -3619,7 +3619,6 @@
                 4397,
                 4956,
                 5541,
-                7449,
                 7697,
                 8504,
                 8505,
@@ -3633,7 +3632,6 @@
                 8946,
                 8947,
                 8949,
-                9370,
                 9721
             ],
             "service_id": 10016,
@@ -3712,7 +3710,6 @@
                 4397,
                 4956,
                 5541,
-                7449,
                 7697,
                 8504,
                 8505,
@@ -3726,7 +3723,6 @@
                 8946,
                 8947,
                 8949,
-                9370,
                 9721
             ],
             "service_id": 10016,
@@ -3797,7 +3793,6 @@
                 4397,
                 4956,
                 5541,
-                7449,
                 7697,
                 8504,
                 8505,
@@ -3811,7 +3806,6 @@
                 8946,
                 8947,
                 8949,
-                9370,
                 9721
             ],
             "service_id": 10016,
@@ -14019,6 +14013,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Hammashoidon asiakaspalvelu \/ ajan peruminen tai siirtäminen",
                     "availability_summary": "Avoinna ma-to 07-18, pe 07-15",
+                    "phone": "+358 9 310 51400",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -14285,7 +14280,8 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Hammashoidon asiakaspalvelu \/ tapaturma tai särky",
-                    "availability_summary": "Avoinna ma-to 07-14",
+                    "availability_summary": "Avoinna ma-pe 07-14",
+                    "phone": "+358 9 310 51400",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
                     ],
@@ -14300,7 +14296,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-to 07-14"
+                            "availability_string": "Avoinna ma-pe 07-14"
                         }
                     ]
                 }
@@ -72686,7 +72682,9 @@
             "name": "Tee liikkuvan myynnin sopimus",
             "description": "Tee hakemus liikkuvan myynnin sopimusta varten kaupungin verkkopalvelussa tai erillisellä lomakkeella. Voit tunnistautua palveluun Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia. Voit tehdä sopimuksen vähintään kuukauden ajaksi. Toimita hakemus hyvissä ajoin. Pyrimme käsittelemään hakemuksen viiden arkipäivän kuluessa. Voit aloittaa myynnin vasta kun olet saanut vuokrauspäätöksen. \n\n",
             "provided_languages": [
-                "fi"
+                "en",
+                "fi",
+                "sv"
             ],
             "responsible_depts": [
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
@@ -72704,7 +72702,9 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Tee hakemus liikkuvan myynnin sopimusta varten",
                     "provided_languages": [
-                        "fi"
+                        "en",
+                        "fi",
+                        "sv"
                     ],
                     "requires_authentication": true,
                     "saved_to_customer_folder": false,
@@ -72751,10 +72751,164 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5878,
+            "exact_descriptions": [
+                10359
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Sign a mobile sales agreement",
+            "description": "Submit an application for a mobile sales agreement via the City's online service or with a separate form. You can identify yourself through suomi.fi in order to log in to the service by using either a mobile ID or online banking credentials. You can sign an agreement for a minimum of one month. Please submit your application in good time. We aim to process your application within five business days. You can only start selling your goods once you have received a rental decision.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4535,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply for a mobile sales agreement",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the City's online service",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/liikkuvat-myyntiautot-ja-vaunut-0"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4536,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Submit application by email",
+                    "information": "If you are unable to use the City's online service, please fill in the PDF form and send it by email to ulkoilma@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Application for a mobile sales agreement (PDF)",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/apply-for-permits-and-facilities\/mobile-sales-operations-food-trucks-and-mopeds-sales-carts-and-bicycle-cafes\/registering-and-notification-obligation-of-food-trucks",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5878,
+            "exact_descriptions": [
+                10359
+            ],
+            "service_id": 10290,
+            "type": "APPLICATION",
+            "name": "Ingå ett avtal om mobil försäljning",
+            "description": "Gör en ansökan om ett avtal om mobil försäljning i stadens e-tjänst eller på en separat blankett. Du kan identifiera dig i tjänsten med Suomi.fi-identifikation med antingen mobilcertifikat eller nätbankskoder. Du kan ingå ett avtal för minst en månad. Skicka in din ansökan i god tid. Vi strävar efter att behandla din ansökan inom fem arbetsdagar. Du kan inleda försäljningen först när du har fått hyresbeslutet. ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4535,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en ansökan om ett avtal om mobil försäljning",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till stadens e-tjänst ",
+                            "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/hae-lupia-ja-tiloja\/liikkuva-myyntitoiminta-ruokarekat-karryt-mopot-ja-pyorat\/liikkuvat-myyntiautot-ja-vaunut-0"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4536,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Skicka ansökan via e-post",
+                    "information": "Om du inte kan använda stadens e-tjänst, fyll i pdf-blanketten och skicka den till ulkoilma@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Ansökan om avtal om mobil försäljning (pdf) ",
+                            "url": "https:\/\/www.hel.fi\/en\/business-and-work\/apply-for-permits-and-facilities\/mobile-sales-operations-food-trucks-and-mopeds-sales-carts-and-bicycle-cafes\/registering-and-notification-obligation-of-food-trucks",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 2858,
@@ -73477,6 +73631,7 @@
             "name": "Tee rekisteröinti-ilmoitus liikkuvasta elintarvikehuoneistosta",
             "description": "Rekisteröi elintarviketoimintasi ilppa.fi-palvelussa tai erillisellä lomakkeella viimeistään neljä viikkoa ennen kuin aloitat toiminnan. Voit tunnistautua palveluun yrityksesi Suomi.fi-tunnistuksella käyttämällä joko mobiilivarmennetta tai verkkopankkitunnuksia.",
             "provided_languages": [
+                "en",
                 "fi",
                 "sv"
             ],
@@ -73496,6 +73651,7 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Tee rekisteröinti-ilmoitus elintarviketoiminnasta sähköisessä palvelussa",
                     "provided_languages": [
+                        "en",
                         "fi",
                         "sv"
                     ],
@@ -73572,10 +73728,219 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5882,
+            "exact_descriptions": [
+                10363
+            ],
+            "service_id": 10290,
+            "type": "NOTICE",
+            "name": "Register a mobile food establishment",
+            "description": "Register your food business on ilppa.fi or with a separate form at least four weeks before you start operating. You can identify your business through suomi.fi in order to log in to the service by using either a mobile ID or online banking credentials.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4539,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Register your food business in the online service",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the ilppa.fi service (available in Finnish and Swedish)",
+                            "url": "https:\/\/ilppa.fi\/ilmoitus-aloitus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4540,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Send the form by e-mail",
+                    "information": "If you are unable to register online, please fill in the form and send it by email to ulkomyynti@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Notification of food operations (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.docx",
+                            "file_format": "WORD"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Notification of food operations (PDF)",
+                            "url": "http:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_en.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4541,
+                    "type": "MAIL",
+                    "type_string": "Mailing address",
+                    "name": "Send the form by post",
+                    "personal_service_street_addr": "Helsingin kaupunki\/ Elintarviketurvallisuusyksikkö",
+                    "personal_service_postal_code": "PL 58235",
+                    "personal_service_city": " 00099 Helsingin kaupunki",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5882,
+            "exact_descriptions": [
+            ],
+            "service_id": 10290,
+            "type": "NOTICE",
+            "name": "Gör en registreringsanmälan för en mobil livsmedelslokal ",
+            "description": "Registrera din livsmedelsverksamhet i tjänsten ilppa.fi eller på en separat blankett minst fyra veckor innan du inleder verksamheten. Du kan identifiera dig i tjänsten med ditt företags Suomi.fi-identifikationmed antingen mobilcertifikat eller nätbankskoder.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4539,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Gör en registreringsanmälan för en livsmedelsverksamhet i e-tjänsten",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till ilppa.fi ",
+                            "url": "https:\/\/ilppa.fi\/ilmoitus-aloitus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4540,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Skicka blanketten per e-post",
+                    "information": "Om du inte kan göra registreringen i e-tjänsten, vänligen fyll i blanketten och skicka den per e-post till ulkomyynti@hel.fi.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Anmälan om livsmedelsverksamhet (Word)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_sv.docx",
+                            "file_format": "WORD"
+                        },
+                        {
+                            "type": "FORM",
+                            "title": "Anmälan om livsmedelsverksamhet (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ymk_el10_ilmoitus_sv.pdf",
+                            "file_format": "PDF"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4541,
+                    "type": "MAIL",
+                    "type_string": "Postadress",
+                    "name": "Skicka blanketten per post",
+                    "personal_service_street_addr": "Helsingfors stads miljötjänster\/Livsmedelssäkerhet",
+                    "personal_service_postal_code": "PL 58235",
+                    "personal_service_city": "00099 Helsingfors stad",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5135,
