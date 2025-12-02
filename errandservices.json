@@ -23464,9 +23464,9 @@
             ],
             "service_id": 10608,
             "type": "OTHER_ESERVICE",
-            "name": "Ilmoita väärinpysäköidystä ajoneuvosta",
+            "name": "Ilmoita väärin pysäköidystä ajoneuvosta",
             "name_synonyms": "Pysäköinnin valvontapyyntö",
-            "description": "Voit ilmoittaa kaduille, toreille tai viheralueille väärinpysäköidyistä autoista kaupunkiympäristön asiakaspalveluun palautelomakkeella tai puhelimitse. \n\nJos väärinpysäköity auto vaarantaa liikenteen turvallisuutta, kannattaa ottaa yhteyttä puhelimitse.\n",
+            "description": "Voit ilmoittaa kaduille, toreille tai viheralueille väärin pysäköidyistä autoista kaupunkiympäristön asiakaspalveluun palautelomakkeella tai puhelimitse. \n\nJos väärin pysäköity auto vaarantaa liikenteen turvallisuutta, kannattaa ottaa yhteyttä puhelimitse.\n",
             "information": "Jos ajoneuvo on pysäköity kiinteistön alueelle, tulisi isännöitsijän tai huolto-yhtiön ottaa yhteyttä asiakaspalveluun, jotta voimme selvittää ajoneuvon siirtoa.\n\nYhteydenottaja voi isännöitsijän ja huoltoyhtiön lisäksi olla joku muu kiinteistön toimivaltainen edustaja, kuten omistaja, toimitusjohtaja, kiinteistö- tai asunto-osakeyhtiön hallituksen puheenjohtaja tai erikseen tähän valtuutettu henkilö.",
             "provided_languages": [
                 "en",
@@ -53170,6 +53170,214 @@
         }
     },
     {
+        "id": 520,
+        "fi": {
+            "id": 520,
+            "exact_descriptions": [
+                2703
+            ],
+            "service_id": 10608,
+            "type": "APPLICATION",
+            "name": "Oikaisuvaatimus pysäköintivirhemaksusta",
+            "name_synonyms": "Pysäköintivirhemaksun oikaisuvaatimus",
+            "description": "Jos pysäköintivirhemaksu on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen. Oikaisuvaatimus on tehtävä 30 päivän kuluessa. Yhdellä oikaisuvaatimuksella voi vaatia oikaisua vain yhteen pysäköintivirhemaksuun. Pysäköintivirhemaksua ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana. \n\nAsian käsittely kestää noin 5-6 kuukautta. Saat päätöksen asiointikansioon tai postitse valintasi mukaan.\n\nTee oikaisuvaatimus verkkolomakkeella tai toimita se kaupunkiympäristön asiakaspalveluun henkilökohtaisesti, postitse tai sähköpostitse osoitteeseen pysakointi@hel.fi.\n\nOikaisuvaatimus on tehtävä kirjallisena, ja siinä on mainittava\n- muutoksenhakijan nimi ja osoite\n- ajoneuvon rekisteritunnus\n- pysäköintivirhemaksun numero\n- pankkitilin numero (jos vaadit maksun palautusta).\n\nLiitä mukaan asiakirjat, joihin vetoat.\n",
+            "process_description": "",
+            "information": "Jos et halua ilmoittaa oikaisuvaatimuksen yhteydessä tilinumeroasi, tee oikaisuvaatimus sähköpostitse tai kirjeitse.\n\nOikaisuvaatimuksen käsittelyn jälkeen hävitämme lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen. \n\nKäytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kaupunkiympäristön asiakaspalvelu",
+                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/kaupunkiympariston-asiakaspalvelu"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Lähetä suojattua sähköpostia kaupungille",
+                    "url": "https:\/\/securemail.hel.fi\/?recipient=pysakointi@hel.fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 837,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tarkastele pysäköintivirheen tietoja ja tee oikaisuvaatimus",
+                    "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Tee oikaisuvaatimus asiointipalveluun",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 520,
+            "exact_descriptions": [
+                2703
+            ],
+            "service_id": 10608,
+            "type": "APPLICATION",
+            "name": "Contest a parking fine",
+            "name_synonyms": "Rectification request of a parking fine",
+            "description": "If you think that the parking fine you have received is unfounded, you can contest it by submitting a claim for rectification within 30 days. Only one parking fine decision can be rectified in a single request for rectification. You do not have to pay the parking fine while your claim is being processed.\n\nIt will take us roughly 5-6 months to process your claim. The decision will be sent to your electronic service folder or to your address by post.",
+            "information": "You can submit your claim for rectification with an online form. If this is not possible, you can also deliver it to the Urban Environment Division's customer service in person, by post or email: pysakointi@hel.fi.\n\nThe parking fine does not have to be paid while an appeal, submitted within the time limit, is pending. \nIf you do not wish to include your account number with your appeal, please submit your appeal by e-mail or by post.\n\nThe claim for rectification must made in writing, and it must include\n- your name and address\n- the license plate number of the vehicle in question\n- the number on the parking fine, and \n- your bank account number (if you are requesting a refund).\n\nAttach any documents you wish to submit to the claim before you send it. \n\nAfter processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example. Please always use secure email when sending personal data.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Urban Environment Division, Customer Services",
+                    "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Send secure email to the city.",
+                    "url": "https:\/\/securemail.hel.fi\/?lang=en&recipient=pysakointi@hel.fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 837,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "View the parking fine information and make a rectification claim",
+                    "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Make a rectification claim in e-services",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 520,
+            "exact_descriptions": [
+                2703
+            ],
+            "service_id": 10608,
+            "type": "APPLICATION",
+            "name": "Gör en begäran om omprövning av felparkeringsavgift",
+            "name_synonyms": "Omprövningsbegäran om felparkeringsavgift",
+            "description": "Om du anser att felparkeringsavgiften är obefogad, kan du göra en begäran om omprövning. En begäran om omprövning ska göras inom 30 dagar. Med en begäran om omprövning kan man endast kräva rättelse av en felparkeringsavgift. Du behöver inte betala felparkeringsavgiften under handläggningen av begäran om omprövning. \n\nHandläggningen av ärendet tar cirka 5-6 månader.Beslutet om omprövning skickas till ärendemappen eller per post.",
+            "information": "Gör en begäran om omprövning med webblanketten eller leverera den till stadsmiljösektorns kundtjänst personligen, per post eller per e-post: pysakointi@hel.fi. \n\nParkeringsavgiften behöver inte betalas medan ett överklagande som gjorts inom tidsfristen behandlas.\nOm du inte vill ange ditt kontonummer i ditt överklagande, kan du skicka in överklagandet via e-post eller per post.\n\nBegäran om omprövning ska göras skriftligen och innehålla\n- namn och adress för den ändringssökande\n- fordonets registernummer\n- felparkeringsavgiftens nummer\n- bankkontonummer(om du begär återbetalning).\n\nBifoga de handlingar som du åberopar. Efter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation. Vänligen använd alltid skyddad e-post när du skickar personuppgifter.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Stadsmiljösektorns kundtjänst",
+                    "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Skicka skyddad e-post till staden.",
+                    "url": "https:\/\/securemail.hel.fi\/?lang=sv&recipient=pysakointi@hel.fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 837,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Kontrollera uppgifterna angående felparkeringsavgiften, samt gör rättelseyrkan",
+                    "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Gör rättelseyrkan i e-tjänsten",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4950,
         "fi": {
             "id": 4950,
@@ -72845,211 +73053,6 @@
         }
     },
     {
-        "id": 520,
-        "fi": {
-            "id": 520,
-            "exact_descriptions": [
-                2703
-            ],
-            "service_id": 10608,
-            "type": "APPLICATION",
-            "name": "Tee oikaisuvaatimus pysäköintivirhemaksusta",
-            "name_synonyms": "Pysäköintivirhemaksun oikaisuvaatimus",
-            "description": "Jos pysäköintivirhemaksu on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen. Oikaisuvaatimus on tehtävä 30 päivän kuluessa. Yhdellä oikaisuvaatimuksella voi vaatia oikaisua vain yhteen pysäköintivirhemaksuun. Pysäköintivirhemaksua ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana. \n\nAsian käsittely kestää noin 5-6 kuukautta. Saat päätöksen asiointikansioon tai postitse valintasi mukaan.",
-            "process_description": "",
-            "information": "Toimi näin:\n\nTee oikaisuvaatimus verkkolomakkeella tai toimita se kaupunkiympäristön asiakaspalveluun henkilökohtaisesti, postitse tai sähköpostitse osoitteeseen pysakointi@hel.fi.\n\nPysäköintivirhemaksua ei tarvitse maksaa määräajassa tehdyn oikaisuvaatimuksen ollessa vireillä.\nJos et halua ilmoittaa oikaisuvaatimuksen yhteydessä tilinumeroasi, tee oikaisuvaatimus sähköpostitse tai kirjeitse.\n\nOikaisuvaatimus on tehtävä kirjallisena, ja siinä on mainittava\n\n- muutoksenhakijan nimi ja osoite\n- ajoneuvon rekisteritunnus\n- pysäköintivirhemaksun numero\n- pankkitilin numero (jos vaadit maksun palautusta).\n\nLiitä mukaan asiakirjat, joihin vetoat. Oikaisuvaatimuksen käsittelyn jälkeen hävitämme lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen. Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kaupunkiympäristön asiakaspalvelu",
-                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/kaupunkiympariston-asiakaspalvelu"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Lähetä suojattua sähköpostia kaupungille",
-                    "url": "https:\/\/securemail.hel.fi\/?recipient=pysakointi@hel.fi"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 837,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Tarkastele pysäköintivirheen tietoja ja tee oikaisuvaatimus",
-                    "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Tee oikaisuvaatimus asiointipalveluun",
-                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 520,
-            "exact_descriptions": [
-                2703
-            ],
-            "service_id": 10608,
-            "type": "APPLICATION",
-            "name": "Contest a parking fine",
-            "name_synonyms": "Rectification request of a parking fine",
-            "description": "If you think that the parking fine you have received is unfounded, you can contest it by submitting a claim for rectification within 30 days. Only one parking fine decision can be rectified in a single request for rectification. You do not have to pay the parking fine while your claim is being processed.\n\nIt will take us roughly 5-6 months to process your claim. The decision will be sent to your electronic service folder or to your address by post.",
-            "information": "You can submit your claim for rectification with an online form. If this is not possible, you can also deliver it to the Urban Environment Division's customer service in person, by post or email: pysakointi@hel.fi.\n\nThe parking fine does not have to be paid while an appeal, submitted within the time limit, is pending. \nIf you do not wish to include your account number with your appeal, please submit your appeal by e-mail or by post.\n\nThe claim for rectification must made in writing, and it must include\n- your name and address\n- the license plate number of the vehicle in question\n- the number on the parking fine, and \n- your bank account number (if you are requesting a refund).\n\nAttach any documents you wish to submit to the claim before you send it. \n\nAfter processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example. Please always use secure email when sending personal data.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Urban Environment Division, Customer Services",
-                    "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Send secure email to the city.",
-                    "url": "https:\/\/securemail.hel.fi\/?lang=en&recipient=pysakointi@hel.fi"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 837,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "View the parking fine information and make a rectification claim",
-                    "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Make a rectification claim in e-services",
-                            "url": "https:\/\/pysakoinninasiointi.hel.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 520,
-            "exact_descriptions": [
-                2703
-            ],
-            "service_id": 10608,
-            "type": "APPLICATION",
-            "name": "Gör en begäran om omprövning av felparkeringsavgift",
-            "name_synonyms": "Omprövningsbegäran om felparkeringsavgift",
-            "description": "Om du anser att felparkeringsavgiften är obefogad, kan du göra en begäran om omprövning. En begäran om omprövning ska göras inom 30 dagar. Med en begäran om omprövning kan man endast kräva rättelse av en felparkeringsavgift. Du behöver inte betala felparkeringsavgiften under handläggningen av begäran om omprövning. \n\nHandläggningen av ärendet tar cirka 5-6 månader.Beslutet om omprövning skickas till ärendemappen eller per post.",
-            "information": "Gör en begäran om omprövning med webblanketten eller leverera den till stadsmiljösektorns kundtjänst personligen, per post eller per e-post: pysakointi@hel.fi. \n\nParkeringsavgiften behöver inte betalas medan ett överklagande som gjorts inom tidsfristen behandlas.\nOm du inte vill ange ditt kontonummer i ditt överklagande, kan du skicka in överklagandet via e-post eller per post.\n\nBegäran om omprövning ska göras skriftligen och innehålla\n- namn och adress för den ändringssökande\n- fordonets registernummer\n- felparkeringsavgiftens nummer\n- bankkontonummer(om du begär återbetalning).\n\nBifoga de handlingar som du åberopar. Efter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation. Vänligen använd alltid skyddad e-post när du skickar personuppgifter.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Stadsmiljösektorns kundtjänst",
-                    "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Skicka skyddad e-post till staden.",
-                    "url": "https:\/\/securemail.hel.fi\/?lang=sv&recipient=pysakointi@hel.fi"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 837,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Kontrollera uppgifterna angående felparkeringsavgiften, samt gör rättelseyrkan",
-                    "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Gör rättelseyrkan i e-tjänsten",
-                            "url": "https:\/\/pysakoinninasiointi.hel.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 4858,
         "fi": {
             "id": 4858,
@@ -84141,7 +84144,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Early childhood education service guidance",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/contact-information-of-early-childhood-and-pre-primary-education"
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/e-service-and-contact-information\/contact-information-of-early-childhood-and-pre-primary-education"
                 },
                 {
                     "type": "INTERNET",
@@ -84221,7 +84224,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Småbarnspedagogikens servicehandledning",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/smabarnspedagogikens-och-forskoleundervisningens-kontaktuppgifter"
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/elektronisk-arendehantering-och-kontaktuppgifter\/smabarnspedagogikens-och-forskoleundervisningens-kontaktuppgifter"
                 },
                 {
                     "type": "INTERNET",
