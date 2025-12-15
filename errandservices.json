@@ -55302,7 +55302,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Helsingin työllisyyspalveluiden puhelinneuvonta",
                     "information": "Voit olla yhteydessä työllisyyspalveluihin puhelimitse.",
-                    "availability_summary": "Avoinna ma-pe 09-15",
+                    "availability_summary": "Avoinna ma-pe 09-15, Suljettu 24-26.12.2025 ke-pe, 1.1.2026 to, 6.1.2026 ti",
                     "phone": "+358931036107",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -55319,6 +55319,15 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 09-15"
+                        },
+                        {
+                            "availability_string": "Suljettu ti 6.1.2026"
+                        },
+                        {
+                            "availability_string": "Suljettu ke-pe 24-26.12.2025"
+                        },
+                        {
+                            "availability_string": "Suljettu to 1.1.2026"
                         }
                     ]
                 },
@@ -55390,7 +55399,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Securemail",
-                            "url": "https:\/\/securemail.hel.fi"
+                            "url": "https:\/\/securemail.hel.fi",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -55492,7 +55502,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call Helsinki Employment Services",
-                    "availability_summary": "Open Mon-Fri 09-15",
+                    "availability_summary": "Open Mon-Fri 09-15, Closed 24-26 Dec 2025 Wed-Fri, 1 Jan 2026 Thu, 6 Jan 2026 Tue",
                     "phone": "+358931036107",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -55509,6 +55519,15 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Mon-Fri 09-15"
+                        },
+                        {
+                            "availability_string": "Closed Tue 6 Jan 2026"
+                        },
+                        {
+                            "availability_string": "Closed Wed-Fri 24-26 Dec 2025"
+                        },
+                        {
+                            "availability_string": "Closed Thu 1 Jan 2026"
                         }
                     ]
                 },
@@ -55683,7 +55702,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring till Helsingfors sysselsättningstjänster",
-                    "availability_summary": "Öppet mån-fre 09-15",
+                    "availability_summary": "Öppet mån-fre 09-15, Stängt 24-26.12.2025 ons-fre, 1.1.2026 tor, 6.1.2026 tis",
                     "phone": "+358931036107",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -55700,6 +55719,15 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån-fre 09-15"
+                        },
+                        {
+                            "availability_string": "Stängt tis 6.1.2026"
+                        },
+                        {
+                            "availability_string": "Stängt ons-fre 24-26.12.2025"
+                        },
+                        {
+                            "availability_string": "Stängt tor 1.1.2026"
                         }
                     ]
                 },
@@ -55772,7 +55800,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Securemail",
-                            "url": "https:\/\/securemail.hel.fi"
+                            "url": "https:\/\/securemail.hel.fi",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
