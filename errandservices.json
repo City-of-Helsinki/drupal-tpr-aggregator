@@ -61611,7 +61611,6 @@
         "fi": {
             "id": 275,
             "exact_descriptions": [
-                4257
             ],
             "service_id": 10637,
             "type": "ECOMMERCE",
@@ -61769,7 +61768,6 @@
         "en": {
             "id": 275,
             "exact_descriptions": [
-                4257
             ],
             "service_id": 10637,
             "type": "ECOMMERCE",
@@ -61887,7 +61885,6 @@
         "sv": {
             "id": 275,
             "exact_descriptions": [
-                4257
             ],
             "service_id": 10637,
             "type": "ECOMMERCE",
@@ -62013,6 +62010,66 @@
                 }
             ]
         }
+    },
+    {
+        "id": 5888,
+        "fi": {
+            "id": 5888,
+            "exact_descriptions": [
+                4257
+            ],
+            "service_id": 10637,
+            "type": "ADVICE",
+            "name": "Rakennuspiirustusten tilaaminen",
+            "description": "Voit pyytää aineistoja sähköpostitse, jolloin saat aineiston maksutta 14 vuorokauden kuluessa.\n\nAsiakirjapyynnön tulee olla riittävän yksilöity, jotta voimme selvittää mitä asiakirjapyyntö koskee. Kirjoita pyyntöön esimerkiksi osoite ja kiinteistötunnus ja mitä aineistoja tarvitset.\n\nToimitamme aineiston mahdollisimman pian, kuitenkin viimeistään kahden viikon kuluessa asiakirjapyynnön saamisesta. Poikkeuksena ovat laajat aineistopyynnöt, joissa toimitusaika on enintään 30 vuorokautta.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4545,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Arkiston sähköposti",
+                    "email": "arkisto@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lue ohjeet piirustusten tilaamiseen",
+                            "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/tontit-ja-rakentamisen-luvat\/kaavat-kartat-ja-avustukset-rakentamiseen\/rakennusvalvonnan-arkiston-asiakaspalvelu",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 4215,
