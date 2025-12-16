@@ -71487,9 +71487,8 @@
             "service_id": 10098,
             "type": "NOTICE",
             "name": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta",
-            "description": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta Ilppa-asiointipalvelussa, sähköpostilla tai postitse.",
+            "description": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta Ilppa.fi-ilmoituspalvelussa tai lomakkeella.",
             "processing_time": "Käsittelyaika on 7 vuorokautta.",
-            "information": "Jos et voi tehdä ilmoitusta sähköisessä palvelussa, täytä PDF- tai Word-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen kymp.terveydensuojelu@hel.fi. Voit myös tulostaa lomakkeen ja lähettää sen postitse.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -71510,7 +71509,8 @@
                     "id": 2429,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tee ilmoitus terveydensuojelulain mukaisesta toiminnasta",
+                    "name": "Täytä lomake",
+                    "process_description": "Tee ilmoitus PDF- tai Word-lomakkeella. Lähetä lomake liitteineen sähköpostitse osoitteeseen kymp.terveydensuojelu@hel.fi tai tulosta lomake ja lähetä se postitse:\n \nYmpäristöpalvelut\/ympäristöterveysyksikkö\nPL 58235, 00099\nHelsingin kaupunki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -71542,7 +71542,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Tee ilmoitus sähköisessä palvelussa",
-                    "information": "Jos et voi tehdä ilmoitusta sähköisessä palvelussa, täytä PDF- tai Word-lomake ja lähetä se liitteineen sähköpostitse osoitteeseen kymp.terveydensuojelu@hel.fi. Voit myös tulostaa lomakkeen ja lähettää sen postitse.",
+                    "prerequisites": "Vaatii tunnistautumisen.",
                     "provided_languages": [
                         "fi",
                         "sv"
