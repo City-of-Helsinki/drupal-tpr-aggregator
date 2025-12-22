@@ -36800,7 +36800,6 @@
         "en": {
             "id": 5342,
             "exact_descriptions": [
-                2915
             ],
             "service_id": 10714,
             "type": "ADVICE",
@@ -36850,7 +36849,6 @@
         "sv": {
             "id": 5342,
             "exact_descriptions": [
-                2915
             ],
             "service_id": 10714,
             "type": "ADVICE",
@@ -81931,6 +81929,7 @@
                     "type_string": "Puhelinpalvelu",
                     "name": "Uusien asiakkaiden ajanvarausnumero",
                     "prerequisites": "Ajanvaraus on tarkoitettu uusille asiakkaille.",
+                    "information": "Uusien asiakkaiden ajanvarausnumeroon soittamalla voit varata ajan vammaisten henkilöiden työtoimintaan. Numerosta ei voi varata aikaa vammaispalveluihin tai kuntouttavaan työtoimintaan.",
                     "availability_summary": "Avoinna ti, pe 09-11",
                     "phone": "+358 9 310 73392 ",
                     "call_charge_info": "maksuton",
@@ -81982,6 +81981,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Appointment booking number for new clients",
+                    "information": "By calling the appointment booking number for new clients, you can book an appointment for work activities for people with disabilities. The number cannot be used to book an appointment for disability services or rehabilitative work activities.",
                     "availability_summary": "Open Tue, Fri 09-11",
                     "phone": "+358 9 310 73392 ",
                     "call_charge_info": "toll free",
@@ -82034,6 +82034,7 @@
                     "type_string": "Telefon",
                     "name": "Tidsbokningsnummer för nya kunder",
                     "prerequisites": "Telefontjänst",
+                    "information": "Genom att ringa bokningsnumret för nya kunder kan du boka en tid för arbetsaktiviteter för personer med funktionsnedsättningar. Numret kan inte användas för att boka en tid för funktionshindervård eller rehabiliterande arbetsaktiviteter.",
                     "availability_summary": "Öppet tis, fre 09-11",
                     "phone": "+358 9 310 73392 ",
                     "call_charge_info": "gratis",
