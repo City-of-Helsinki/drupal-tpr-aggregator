@@ -71654,7 +71654,8 @@
                     "id": 2429,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Forms",
+                    "name": "Submit a notification using the form",
+                    "information": "Submit a notification using a PDF or Word form. Please send the form and its attachments by email to kymp.terveydensuojelu@hel.fi or print out the form and send it by post:\n\nYmpäristöpalvelut\/ympäristöterveysyksikkö\nPL 58235, 00099\nHelsingin kaupunki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -71683,7 +71684,8 @@
                     "id": 3841,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Online services",
+                    "name": "Submit a notification via the e-service",
+                    "prerequisites": "Requires authentication.",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -71717,9 +71719,8 @@
             "service_id": 10098,
             "type": "NOTICE",
             "name": "Anmäl verksamhet i enlighet med hälsoskyddslagen",
-            "description": "Anmäl verksamhet i enlighet med hälsoskyddslagen i e-tjänsten Ilppa. I samma tjänst kan du också anmäla försäljning eller servering av mat. Du kan logga in i tjänsten med inloggningsuppgifterna till Suomi.fi genom att antingen använda mobilcertifikat eller nätbankskoder.",
+            "description": "Anmäl verksamhet i enlighet med hälsoskyddslagen i anmälningstjänsten Ilppa.fi eller med en blankett.",
             "processing_time": "Tid för handläggningen är 7 dygn.",
-            "information": "Om du inte kan lämna en elektronisk anmälan, fyll i pdf-blankett och skicka den jämte bilagor per e-post till kymp.terveydensuojelu@hel.fi.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -71740,7 +71741,8 @@
                     "id": 2429,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Blanketter",
+                    "name": "Gör anmälan med pappersblankett",
+                    "information": "Gör anmälan med PDF- eller Word-blankett. Lämna in blanketten och bilagorna per e-post till adressen kymp.terveydensuojelu@hel.fi eller skriv ut blanketten och skicka den per post till:\n\nYmpäristöpalvelut\/ympäristöterveysyksikkö\nPL 58235, 00099\nHelsingin kaupunki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -71771,7 +71773,8 @@
                     "id": 3841,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Elektronisk ärendehantering",
+                    "name": "Gör en anmälan i e-tjänsten",
+                    "prerequisites": "Kräver identifiering.\n",
                     "provided_languages": [
                         "fi",
                         "sv"
