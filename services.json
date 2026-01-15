@@ -16253,7 +16253,7 @@
             "service_id": 10087,
             "title": "Sosiaalineuvonta ja digipalvelut",
             "description_short": "Sosiaalineuvonnassa pääset keskustelemaan elämäntilanteestasi ammattilaisen kanssa, myös nimettömänä. Saat myös neuvoja etuuksien hakemiseen.",
-            "description_long": "Tarvitsetko neuvontaa ja ohjausta sosiaalipalveluista tai etuuksien ja tukien hakemisesta? Sosiaalineuvonnassa pääset keskustelemaan elämäntilanteestasi ammattilaisen kanssa. Tilanteesi kartoituksen jälkeen sinut ohjataan palveluissa tarvittaessa eteenpäin. \n\nPalvelemme sinua puhelimitse, sähköpostitse ja Sotebotti Hesterissä. Sotebotti Hester löytyy sivun oikeasta alakulmasta.\n\nChatti palvelee suomeksi arkisin klo 9-15. Nuorten sosiaalityön tiimien työntekijät ja opiskeluterveydenhuollon terveydenhoitajat vastaavat chatissa arkisin klo 12-15.\n\nJos sinulle on jo nimetty omatyöntekijä kaupungin aikuissosiaalityöstä, kysythän ohjausta ja neuvoa suoraan häneltä.",
+            "description_long": "Tarvitsetko neuvontaa ja ohjausta sosiaalipalveluista tai etuuksien ja tukien hakemisesta? Sosiaalineuvonnassa pääset keskustelemaan elämäntilanteestasi ammattilaisen kanssa. Tilanteesi kartoituksen jälkeen sinut ohjataan palveluissa tarvittaessa eteenpäin. \n\nPalvelemme sinua puhelimitse, sähköpostitse ja chatissa.\n\nChatti palvelee suomeksi arkisin klo 9-15. Nuorten sosiaalityön tiimien työntekijät ja opiskeluterveydenhuollon terveydenhoitajat vastaavat chatissa arkisin klo 12-15.\n\nJos sinulle on jo nimetty omatyöntekijä kaupungin aikuissosiaalityöstä, kysythän ohjausta ja neuvoa suoraan häneltä.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -16284,7 +16284,7 @@
             "service_id": 10087,
             "title": "Social counselling and digital services",
             "description_short": "Social counselling allows you to discuss your life situation with a professional, even anonymously. You are also given advice on applying for benefits.",
-            "description_long": "Social counselling provides a supportive platform where you can openly discuss your life situation with a professional. Our aim is to offer guidance on applying for benefits and allowances, ensuring you receive the assistance you need. \n\nWe provide our services through phone consultations, and by phone and at our chatbot, Hester. You can find Hester in the bottom right corner of the page, serving you 24\/7 and providing anonymous support in general social welfare matters. Should Hester be unable to assist you, a professional is available to chat with you during opening hours. \n\nThe Finnish-language chat service is available Mon-Fri from 9am to 3pm, while employees from the teams of social work for young people and student healthcare nurses are available in the chat Mon-Fri 12.00-15.00. \n\nPlease note that for your security, avoid entering your personal identity code into the bot. If necessary, our social instructor may request you to authenticate yourself using the suomi.fi service. \n\nIf you have already been assigned designated social worker from adult social work, ask them directly for guidance and advice.",
+            "description_long": "Social counselling provides a supportive platform where you can openly discuss your life situation with a professional. Our aim is to offer guidance on applying for benefits and allowances, ensuring you receive the assistance you need. \n\nWe provide our services through phone consultations, and by phone and at our chat. \n\nThe Finnish-language chat service is available Mon-Fri from 9am to 3pm, while employees from the teams of social work for young people and student healthcare nurses are available in the chat Mon-Fri 12.00-15.00. \n\nIf you have already been assigned designated social worker from adult social work, ask them directly for guidance and advice.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -16315,7 +16315,7 @@
             "service_id": 10087,
             "title": "Socialrådgivning och digitala tjänster",
             "description_short": "Hos socialrådgivningen kan du även få anonym samtalshjälp av en yrkesperson. Du får också hjälp med att ansöka om bidrag.",
-            "description_long": "Behöver du råd och vägledning om socialtjänsterna eller om ansökan om förmåner och stöd? Hos socialrådgivningen kan du få samtalshjälp av en yrkesperson. Efter att vi har kartlagt din situation hänvisas du vid behov vidare inom tjänsterna. \n\nVi betjänar dig via telefon, e-post och på chatbotten Hester (på finska), som finns på sidans nedre hörn.\n\nChatten betjänar på finska vardagar kl. 9.00-15.00. Medarbetarna från teamen för socialarbete för unga och hälsovårdare från studerandehälsovården svarar på frågor i chatten vardagar kl. 12-15. \n\nSkriv inte din personbeteckning i chatten! Vid behov ber socialhandledaren dig att identifiera dig via tjänsten suomi.fi. \n\nOm du redan har en egen kontaktperson från vuxensocialarbete, fråga dem direkt om vägledning och råd.",
+            "description_long": "Behöver du råd och vägledning om socialtjänsterna eller om ansökan om förmåner och stöd? Hos socialrådgivningen kan du få samtalshjälp av en yrkesperson. Efter att vi har kartlagt din situation hänvisas du vid behov vidare inom tjänsterna. \n\nVi betjänar dig via telefon, e-post och på chat.\n\nChatten betjänar på finska vardagar kl. 9.00-15.00. Medarbetarna från teamen för socialarbete för unga och hälsovårdare från studerandehälsovården svarar på frågor i chatten vardagar kl. 12-15. \n\nOm du redan har en egen kontaktperson från vuxensocialarbete, fråga dem direkt om vägledning och råd.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -117531,132 +117531,6 @@
         }
     },
     {
-        "id": 10129,
-        "fi": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Kirjaston lukusalit",
-            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
-            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "en": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Library reading rooms",
-            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
-            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "sv": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Bibliotekets läsesalar",
-            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
-            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        }
-    },
-    {
         "id": 7589,
         "fi": {
             "id": 7589,
@@ -117881,6 +117755,132 @@
         }
     },
     {
+        "id": 10129,
+        "fi": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Kirjaston lukusalit",
+            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
+            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "en": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Library reading rooms",
+            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
+            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "sv": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Bibliotekets läsesalar",
+            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
+            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        }
+    },
+    {
         "id": 10130,
         "fi": {
             "id": 10130,
@@ -118097,6 +118097,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -118245,70 +118309,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
