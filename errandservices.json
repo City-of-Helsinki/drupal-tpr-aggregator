@@ -63727,7 +63727,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Seniori-infon sivulle",
-                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/senioripalvelut\/ohjaus-ja-neuvonta\/seniori-info"
+                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/seniori-info"
                         }
                     ],
                     "availabilities": [
@@ -63844,7 +63844,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Go to the Senior Info website",
-                            "url": "https:\/\/www.hel.fi\/en\/health-and-social-services\/senior-services\/advice-and-guidance\/senior-info"
+                            "url": "https:\/\/www.hel.fi\/en\/health-and-social-services\/senior-info"
                         }
                     ],
                     "availabilities": [
@@ -63961,7 +63961,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Gå till Seniorinfos webbplats",
-                            "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/seniortjanster\/radgivning-och-handledning\/seniorinfo"
+                            "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/seniorinfo"
                         }
                     ],
                     "availabilities": [
@@ -72254,7 +72254,7 @@
             "description": "Tee meluilmoitus Lupapiste-palvelussa. Jos meluilmoitus sisältää salassa pidettäviä asiakirjoja, toimita meluilmoitus Word-lomakkeella kaupungin kirjaamoon.",
             "processing_time": "Ilmoituksen käsittely kestää tavallisesti vähintään 2-4 viikkoa.",
             "costs": "Päätöksestä peritään voimassa olevan taksan mukainen maksu.",
-            "information": "Voit kysyä lisätietoa ympäristöpalveluista lähettämällä sähköpostia osoitteeseen kymp.ymparistovalvonta@hel.fi",
+            "information": "Voit kysyä lisätietoa ympäristöpalveluista lähettämällä sähköpostia osoitteeseen kymp.ymparistovalvonta@hel.fi.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -72281,8 +72281,13 @@
                 },
                 {
                     "type": "INTERNET",
-                    "title": "Lomake salassa pidettävää meluilmoitusta varten (doc, ei saavutettava)",
-                    "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
+                    "title": "Ympäristönsuojelunmääräykset",
+                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/ymparistohaittojen-ehkaisy\/ymparistonsuojelumaaraykset#21---ilmoitusvelvollisuus-erityisen-hairitsevaa-melua-tai-tarinaa-aiheuttavasta-toiminnasta"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Meluilmoituksista perittävät maksut (pdf)",
+                    "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ymparistonsuojeluviranomaisen-taksa.pdf"
                 }
             ],
             "channels": [
@@ -72318,7 +72323,7 @@
                     "id": 3911,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Tulostettavat lomakkeet",
+                    "name": "Tee meluilmoitus Word-lomakkeella",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -72352,7 +72357,7 @@
             "description": "Submit a notification of noise via the Lupapiste service. If the notification of noise includes confidential documents, please deliver your notification to the Registrar's Office as a Word form.",
             "processing_time": "Processing notifications usually takes at least 2-4 weeks.",
             "costs": "A fee in accordance with the valid price list will be charged for the decision.",
-            "information": "You can ask the Environmental Services for more information by sending an email to kymp.ymparistovalvonta@hel.fi",
+            "information": "You can ask the Environmental Services for more information by sending an email to kymp.ymparistovalvonta@hel.fi.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -72381,6 +72386,11 @@
                     "type": "INTERNET",
                     "title": "Form for confidential notification of noise (doc, not accessible, In Finnish)",
                     "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Environmental protection regulations",
+                    "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/protection-of-the-environment-and-nature\/prevention-of-environmental-hazards\/environmental-protection-regulations#section-21-obligation-to-submit-a-notification-of-operations-that-will-cause-particularly-disruptive-noise-or-vibration"
                 }
             ],
             "channels": [
@@ -72479,6 +72489,11 @@
                     "type": "INTERNET",
                     "title": "Blankett för sekretessbelagd bulleranmälan (doc, otillgänglig) ",
                     "url": "https:\/\/www.hel.fi\/static\/liitteet\/kaupunkiymparisto\/palvelut-lomakkeet\/lomake-ysl-118.doc"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Miljöskyddsföreskrifter",
+                    "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/miljo-och-naturskydd\/forebygga-miljoolagenheter\/miljoskyddsforeskrifter#21---anmalningsplikt-gallande-verksamhet-som-medfor-sarskilt-storande-buller-eller-vibrationer"
                 }
             ],
             "channels": [
