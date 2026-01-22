@@ -86327,7 +86327,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Vuokra-asunnon haun neuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, to 09-12, ti-ke 13-15:30, pe 12-15",
+                    "availability_summary": "Avoinna ma, to-pe 12-15, ti-ke, pe 08:30-12",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -86343,13 +86343,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma, to 09-12"
+                            "availability_string": "Avoinna ma, to-pe 12-15"
                         },
                         {
-                            "availability_string": "Avoinna ti-ke 13-15:30"
-                        },
-                        {
-                            "availability_string": "Avoinna pe 12-15"
+                            "availability_string": "Avoinna ti-ke, pe 08:30-12"
                         }
                     ]
                 },
@@ -86442,7 +86439,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Rental apartment search advisory service, telephone service",
-                    "availability_summary": "Open Mon, Thu 09-12, Tue-Wed 13-15:30, Fri 12-15",
+                    "availability_summary": "Open Mon, Thu-Fri 12-15, Tue-Wed, Fri 08:30-12",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -86458,13 +86455,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon, Thu 09-12"
+                            "availability_string": "Open Mon, Thu-Fri 12-15"
                         },
                         {
-                            "availability_string": "Open Tue-Wed 13-15:30"
-                        },
-                        {
-                            "availability_string": "Open Fri 12-15"
+                            "availability_string": "Open Tue-Wed, Fri 08:30-12"
                         }
                     ]
                 },
@@ -86552,7 +86546,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Rådgivningstelefon för ansökan om hyresbostad",
-                    "availability_summary": "Öppet mån, tor 09-12, tis-ons 13-15:30, fre 12-15",
+                    "availability_summary": "Öppet mån, tor-fre 12-15, tis-ons, fre 08:30-12",
                     "phone": "+358 9 310 13030",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -86568,13 +86562,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån, tor 09-12"
+                            "availability_string": "Öppet mån, tor-fre 12-15"
                         },
                         {
-                            "availability_string": "Öppet tis-ons 13-15:30"
-                        },
-                        {
-                            "availability_string": "Öppet fre 12-15"
+                            "availability_string": "Öppet tis-ons, fre 08:30-12"
                         }
                     ]
                 },
