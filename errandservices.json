@@ -6016,8 +6016,59 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5866,
+            "exact_descriptions": [
+                9520
+            ],
+            "service_id": 10634,
+            "type": "NOTICE",
+            "name": "Declaring a specialist supervisor",
+            "description": "The specialist supervisor must be appointed for the project in accordance with the permit decision. However, Building Control Services may decide during the construction work, if necessary, that a specialist supervisor is needed for the project. The specialist supervisor must be declared to the building control authority before any construction work in the special field in question.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4514,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply to become a specialist supervisor",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": [
         ]
     },
@@ -84223,8 +84274,65 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 1168,
+            "exact_descriptions": [
+                9520
+            ],
+            "service_id": 10634,
+            "type": "PERMISSION",
+            "name": "Declaring the site supervisor",
+            "description": "The site supervisor must be declared to the building control authority before any construction or preparatory work, such as excavation, quarrying, piling or felling of trees, is started. In the case of renovation and alteration work on a building, the notification regarding the site supervisor must be submitted before any structures or building parts are demolished or constructed.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Read more: Appointment of a Site Supervisor (in Finnish)",
+                    "url": "https:\/\/tuki.lupapiste.fi\/fi\/support\/solutions\/articles\/15000017640-ty%C3%B6njohtajan-nime%C3%A4minen-hankkeelle"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2009,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Apply to become a site supervisor",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Go to Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 1168,
             "exact_descriptions": [
