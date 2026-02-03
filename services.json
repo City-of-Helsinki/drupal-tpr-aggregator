@@ -117891,6 +117891,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -118039,70 +118103,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
@@ -141398,8 +141398,8 @@
             "main_description": false,
             "service_id": 11111,
             "title": "Palkkatuki työnantajalle",
-            "description_short": "Helsingin työllisyyspalvelut voi maksaa tukea työnantajalle työttömän työnhakijan palkkakustannuksiin.",
-            "description_long": "Helsingin työllisyyspalvelut voi myöntää työnantajalle tukea palkkakustannuksiin ja edistää työttömän työnhakijan työllistymistä.\nHelsingin työllisyyspalvelut arvioi, onko tuki tarkoituksenmukaisin keino edistää työttömän työnhakijan työllistymistä ja päättää erikseen jokaisen tukijakson keston ja määrän. Tieto palkkatuesta on kirjattu työttömän työnhakijan työllistymissuunnitelmaan tai palkkatukikorttiin.",
+            "description_short": "Palkkatuki auttaa työnantajaa palkkaamaan työttömän työnhakijan tarjoamalla taloudellista tukea. Tuki korvaa osan palkkakustannuksista.\n\n",
+            "description_long": "Helsingin työllisyyspalvelut voi myöntää työnantajalle tukea palkkakustannuksiin ja edistää työttömän työnhakijan työllistymistä.\n\nPalkkatukea voi saada: \n\n- yritys \n- yhdistys, säätiö, rekisteröity uskonnollinen yhdyskunta tai seurakunta\n- hyvinvointialue, hyvinvointiyhtymä tai Helsingin kaupunki sosiaali- ja terveydenhuollon sekä pelastustoimen eriytettävissä tehtävissä \n- kunta tai kuntayhtymä, jos työntekijällä on alentunut työkyky tai hän on ollut pitkään työttömänä ja on yli 60-vuotias.",
             "general_description_id": "e77a004c-59ce-41f7-897b-2810080e86d3",
             "provided_languages": [
                 "en",
@@ -141407,7 +141407,6 @@
                 "sv"
             ],
             "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -141434,7 +141433,7 @@
             "service_id": 11111,
             "title": "Pay subsidies",
             "description_short": "Helsinki Employment Services can grant a subsidy to an employer to cover the pay costs of an unemployed jobseeker.",
-            "description_long": "A pay subsidy is a benefit intended to promote the employment of unemployed jobseekers that Helsinki Employment Service can grant to an employer to cover pay costs.\nHelsinki Employment Service assesses whether the subsidy is the most appropriate means of promoting the employment of the unemployed jobseeker and decides separately the duration and amount of each support period. The unemployed jobseeker's employment plan or pay subsidy card includes a mention of the pay subsidy.",
+            "description_long": "Helsinki Employment Service can grant an employer a pay subsidy to cover salary costs and promote the employment of an unemployed jobseeker.\n\nPay subsidies are available for: \n\n- companies\n- associations, foundations, registered religious organisations or parishes\n- wellbeing services counties, joint county authorities for wellbeing services or separated tasks of the City of Helsinki Social Services, Health Care and Rescue Services Division\n- municipalities or joint municipal authorities if the employee has diminished work ability or has been unemployed for a long time and is over 60 years old.",
             "general_description_id": "e77a004c-59ce-41f7-897b-2810080e86d3",
             "provided_languages": [
                 "en",
@@ -141442,7 +141441,6 @@
                 "sv"
             ],
             "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -141468,8 +141466,8 @@
             "main_description": false,
             "service_id": 11111,
             "title": "Lönesubvention",
-            "description_short": "Helsingfors sysselsättningstjänster kan betala en subvention till en arbetsgivare för att täcka lönekostnaderna för en arbetslös arbetssökande.",
-            "description_long": "Helsingfors sysselsättningstjänster bedömer om lönesubventionen är det mest ändamålsenliga sättet att främja sysselsättningen av den arbetslösa arbetssökanden och beslutar separat om varje stödperiods längd och omfattning. Uppgiften om lönesubventionen har antecknats i den arbetslösa arbetssökandens sysselsättningsplan eller hens lönesubventionskort.",
+            "description_short": "Lönesubventionen hjälper arbetsgivaren att anställa en arbetslös arbetssökande. Subventionen täcker en del av lönekostnaderna.\n\n",
+            "description_long": "Helsingfors sysselsättningstjänster kan bevilja arbetsgivaren lönesubvention för lönekostnader och främja sysselsättningen av en arbetslös arbetssökande. \n\nLönesubvention är tillgänglig för \n\n- företag\n- föreningar, stiftelser, registrerade religiösa samfund eller församlingar \n- välfärdsområden, välfärdssammanslutningar eller de uppgifter som särredovisas inom Helsingfors stads social- och hälsovård samt räddningsverk \n- kommuner eller samkommuner, om arbetstagaren har nedsatt arbetsförmåga eller är långtidsarbetslös och är över 60 år.",
             "general_description_id": "e77a004c-59ce-41f7-897b-2810080e86d3",
             "provided_languages": [
                 "en",
@@ -141477,7 +141475,6 @@
                 "sv"
             ],
             "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
