@@ -55849,7 +55849,7 @@
             ],
             "service_id": 11111,
             "type": "ADVICE",
-            "name": "Ota yhteyttä Helsingin työllisyyspalveluihin",
+            "name": "Ota yhteyttä Helsingin työllisyyspalveluiden työnantajien ja yrittäjien neuvontaan",
             "description": "Neuvomme työnantaja- ja yritysasiakkaita uuden työntekijän rekrytoinnissa, taloudellisista tuista, henkilöstön kouluttamisessa, muutostilanteissa ja muista palveluistamme.",
             "provided_languages": [
                 "en",
@@ -55857,7 +55857,6 @@
                 "sv"
             ],
             "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -55867,11 +55866,6 @@
                 "LOSING_JOB"
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Työnantaja- ja yritysasiakkaan neuvonta",
-                    "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
-                }
             ],
             "channels": [
                 {
@@ -55903,7 +55897,7 @@
                     "id": 4192,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Ota yhteyttä verkossa",
+                    "name": "Ota yhteyttä Työmarkkinatorin Yrityksen asiointi -osiossa.",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -55919,7 +55913,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Yrityksen ja työnantajan Oma asiointi",
+                            "title": "Yrityksen ja työnantajien asiointi",
                             "url": "https:\/\/tyomarkkinatori.fi\/tyonantajat-ja-yrittajat"
                         }
                     ],
@@ -55930,8 +55924,8 @@
                     "id": 4193,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Lähetä viesti yritys- ja työnantaja-asiakkaan palveluille",
-                    "information": "Lähetä sähköpostia yritys- ja työnantaja-asiakkaan palveluille.",
+                    "name": "Yritys- ja työnantaja-asiakkaan neuvonta",
+                    "information": "Lähetä sähköpostia yritys- ja työnantaja-asiakkaan neuvontaan.",
                     "email": "neuvonta.tyonantajat@hel.fi",
                     "provided_languages": [
                     ],
@@ -55956,7 +55950,7 @@
                     "id": 4195,
                     "type": "WEBPAGE",
                     "type_string": "Verkkosivu",
-                    "name": "Lue lisää",
+                    "name": "Lue lisää Helsingin työllisuuspalveluiden palveluista työnantajille ja yrittäjille",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -55972,7 +55966,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Helsingin kaupungin Työnantaja-sivusto",
+                            "title": "Helsingin kaupungin Työnantajat-sivusto",
                             "url": "https:\/\/www.hel.fi\/fi\/yritykset-ja-tyo\/tyonantajat"
                         }
                     ],
@@ -56025,7 +56019,6 @@
                 "sv"
             ],
             "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
@@ -56193,7 +56186,6 @@
                 "sv"
             ],
             "responsible_depts": [
-                "b277c7bc-98ff-440b-b8d3-cf9a00a75733"
             ],
             "target_groups": [
                 "ASSOCIATIONS",
