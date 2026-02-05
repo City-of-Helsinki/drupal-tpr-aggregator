@@ -8511,7 +8511,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Hae käyttöoikeutta tai vuokraa lisäpiha",
-            "description": "Täytä hakulomake ja lähetä se sähköpostilla alueiden käyttö ja valvonta -yksikön tarkastajille osoitteeseen ulkoilma@hel.fi.",
+            "description": "Täytä hakulomake ja lähetä se sähköpostilla osoitteeseen ulkoilma@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -8561,7 +8561,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Apply for an access right or rent an additional yard",
-            "description": "Fill in an application form and send it by email to the inspectors of the Land Use and Monitoring unit: ulkoilma@hel.fi.",
+            "description": "Fill in an application form and send it by email to ulkoilma@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -8591,6 +8591,12 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Apply for an access right or rent an additional yard (pdf, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/paivakotien-lisapihat\/leikkialuehakemuslomake.pdf",
+                            "file_format": "PDF"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -8605,7 +8611,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Ansök om användningsrätt eller hyr en tilläggsgård",
-            "description": "Fyll i ansökningsblanketten och skicka den per e-post till kontrollanterna för enheten för områdesanvändning och -övervakning på adressen ulkoilma@hel.fi.",
+            "description": "Fyll i ansökningsblanketten och skicka den per e-post på adressen ulkoilma@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -8637,7 +8643,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Användning och hyrning av lekområde (pdf, på finska)",
+                            "title": " Ansökan om användning eller uthyrning av lekplatsen (pdf, på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/paivakotien-lisapihat\/leikkialuehakemuslomake.pdf",
                             "file_format": "PDF"
                         }
