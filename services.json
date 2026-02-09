@@ -29877,8 +29877,8 @@
             "service_id": 10153,
             "title": "Luokkien 7-9 perusopetus",
             "name_synonyms": "yläaste, yläkoulu",
-            "description_short": "7.-9. luokilla opiskellaan valtakunnallisen tuntijaon mukaisia yhteisiä oppiaineita sekä valinnaisaineita.",
-            "description_long": "7.-9. luokilla opiskellaan valtakunnallisen tuntijaon mukaisia yhteisiä oppiaineita sekä valinnaisaineita. Yhteiset aineet ovat samoja kaikissa kouluissa. 7.-9. luokilla opettajina ovat aineenopettajat. Jokaiselle luokalle on nimetty oma luokanohjaaja. Oppiaineet ja niiden tuntimäärien jakautuminen kerrotaan koulun omassa opetussuunnitelmassa, johon voi tutustua koulun kotisivuilla.\n \nHelsinkiläiset oppilaat voivat opiskella koko peruskoulunsa ajan lähikoulussaan. Jos oppilas käy yhtenäistä peruskoulua, koulua ei tarvitse vaihtaa 7. luokalle siirryttäessä. Muut 6. luokkalaiset saavat 6. luokan syksyllä tietoa omasta 7.-9. luokkien lähikoulustaan sekä mahdollisuudesta hakeutua muihin kouluihin esimerkiksi painotettuun opetukseen. \n\nHelsingin kaupungilla on sekä suomen- että ruotsinkielisiä peruskouluja.",
+            "description_short": "7.-9. luokilla opettajina ovat aineenopettajat. Jokaiselle luokalle on nimetty oma luokanohjaaja.",
+            "description_long": "1-9. luokilla opiskellaan valtakunnallisen tuntijaon mukaisia yhteisiä oppiaineita sekä valinnaisaineita. Yhteiset aineet ovat samoja kaikissa kouluissa. 7.-9. luokilla opettajina ovat aineenopettajat. Jokaiselle luokalle on nimetty oma luokanohjaaja. Oppiaineet ja niiden tuntimäärien jakautuminen kerrotaan koulun omassa opetussuunnitelmassa, johon voi tutustua koulun kotisivuilla.\n\nHelsinkiläiset oppilaat voivat opiskella koko peruskoulunsa ajan lähikoulussaan. Jos oppilas käy yhtenäistä peruskoulua, koulua ei tarvitse vaihtaa 7. luokalle siirryttäessä. Muut 6. luokkalaiset saavat 6. luokan syksyllä tietoa omasta 7.-9. luokkien lähikoulustaan sekä mahdollisuudesta hakeutua muihin kouluihin esimerkiksi painotettuun opetukseen. \n\nHelsingin kaupungilla on sekä suomen- että ruotsinkielisiä peruskouluja.\n",
             "availability_summary": "Lukuvuosina.",
             "prerequisites": "Oppivelvolliset eli 7-16-vuotiaat, peruskoulun 1.-6.luokkien oppimäärän suorittaneet helsinkiläiset.",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
@@ -82428,6 +82428,87 @@
         }
     },
     {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5236,
         "fi": {
             "id": 5236,
@@ -82514,87 +82595,6 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -117331,6 +117331,133 @@
         }
     },
     {
+        "id": 10129,
+        "fi": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Kirjaston lukusalit",
+            "name_synonyms": "hh_kul",
+            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
+            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "en": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Library reading rooms",
+            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
+            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "sv": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Bibliotekets läsesalar",
+            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
+            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        }
+    },
+    {
         "id": 7589,
         "fi": {
             "id": 7589,
@@ -117550,133 +117677,6 @@
                 8369,
                 10037,
                 45317,
-                51342
-            ]
-        }
-    },
-    {
-        "id": 10129,
-        "fi": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Kirjaston lukusalit",
-            "name_synonyms": "hh_kul",
-            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
-            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "en": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Library reading rooms",
-            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
-            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "sv": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Bibliotekets läsesalar",
-            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
-            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
                 51342
             ]
         }
