@@ -4291,6 +4291,7 @@
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -4332,6 +4333,7 @@
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -4373,6 +4375,7 @@
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -49867,6 +49870,7 @@
             "provided_languages": [
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
             ],
@@ -49880,7 +49884,8 @@
                 {
                     "type": "INTERNET",
                     "title": "Koira kaupungissa",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kulttuuri-ja-vapaa-aika\/muu-vapaa-aika\/lemmikki-ja-kotielaimet\/koira\/"
+                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/lemmikit-ja-kotielaimet",
+                    "file_format": "HTML"
                 }
             ],
             "availabilities": [
@@ -49902,11 +49907,12 @@
             "service_id": 10372,
             "title": "Koirauimaranta",
             "name_synonyms": "koirabiitsi",
-            "description_short": "Paikka, josta koirat pääsevät uimaan.",
-            "description_long": "Paikka, josta koirat pääsevät uimaan. Virallinen koirauimaranta.",
+            "description_short": "Paikka, jossa koirat voivat uida vapaina.",
+            "description_long": "Paikka, jossa koirat voivat uida vapaina. Alueet on aidattu rannan puolelta. \nÄlä päästä koiraa veteen, jos vedessä on sinilevää. Kaupunki ei valvo koirien uimarantojen vedenlaatua.",
             "provided_languages": [
             ],
             "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
             ],
@@ -49920,7 +49926,8 @@
                 {
                     "type": "INTERNET",
                     "title": "Koira kaupungissa",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kulttuuri-ja-vapaa-aika\/muu-vapaa-aika\/lemmikki-ja-kotielaimet\/koira\/"
+                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/lemmikit-ja-kotielaimet",
+                    "file_format": "HTML"
                 }
             ],
             "availabilities": [
@@ -49945,8 +49952,8 @@
             "service_id": 10373,
             "title": "Koiraurheilualue",
             "name_synonyms": "Koirakenttä",
-            "description_short": "Koirien kisailuun tarkoitettu alue.",
-            "description_long": "Koirien kisailuun tarkoitettu alue.",
+            "description_short": "Koiraurheilualue on erityisesti koirien harrastus- ja treenikäyttöön tarkoitettu alue.",
+            "description_long": "Koiraurheilualue on erityisesti koirien harrastus- ja treenikäyttöön tarkoitettu alue, jossa koirat voivat harrastaa erilaisia lajeja, kuten agilitya, tokoa tai rally-tokoa.",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -66498,6 +66505,108 @@
         }
     },
     {
+        "id": 9603,
+        "fi": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
+            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
+            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
+            "description_short": "You can receive support from us until you turn 23.",
+            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
+            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
+            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 2921,
         "fi": {
             "id": 2921,
@@ -66603,108 +66712,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 9603,
-        "fi": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
-            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
-            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
-            "description_short": "You can receive support from us until you turn 23.",
-            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
-            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
-            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
             ],
             "links": [
             ],
@@ -73839,7 +73846,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Koira kaupungissa",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kulttuuri-ja-vapaa-aika\/muu-vapaa-aika\/lemmikki-ja-kotielaimet\/koira\/"
+                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/ympariston-ja-luonnon-suojelu\/elaimet\/lemmikit-ja-kotielaimet"
                 }
             ],
             "availabilities": [
@@ -97040,6 +97047,7 @@
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -98873,8 +98881,8 @@
             "main_description": true,
             "service_id": 10782,
             "title": "Torit",
-            "description_short": "Helsingissä on seitsemän toria, joista suurimmat ovat Kauppatori ja Hakaniemen tori. \n\nKauppatori on yksi kaupungin tärkeimmistä nähtävyyksistä. Hakaniemen tori on keskeinen ostospaikka itäisessä kantakaupungissa.",
-            "description_long": "Helsingissä on seitsemän toria, joista suurimmat ovat Kauppatori ja Hakaniemen tori.\n\nKauppatori on yksi kaupungin tärkeimmistä nähtävyyksistä. Hakaniemen tori on keskeinen ostospaikka itäisessä kantakaupungissa. \n\nTorit ovat auki maanantaista lauantaihin. Kauppatori on auki myös kesäsunnuntaisin. \n",
+            "description_short": "Helsingissä on useita toreja, joista suurimmat ovat Kauppatori ja Hakaniemen tori. \n\nKauppatori on yksi kaupungin tärkeimmistä nähtävyyksistä. Hakaniemen tori on keskeinen ostospaikka itäisessä kantakaupungissa.",
+            "description_long": "Helsingissä on useita toreja, joista suurimmat ovat Kauppatori ja Hakaniemen tori.\n\nKauppatori on yksi kaupungin tärkeimmistä nähtävyyksistä. Hakaniemen tori on keskeinen ostospaikka itäisessä kantakaupungissa. \n\nTorit ovat auki maanantaista lauantaihin. Kauppatori on auki myös kesäsunnuntaisin. \n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -98894,7 +98902,7 @@
                 {
                     "type": "INTERNET",
                     "title": "Torit ja niiden aukioloajat",
-                    "url": "https:\/\/www.hel.fi\/helsinki\/fi\/kaupunki-ja-hallinto\/hallinto\/viestinta\/helsingin-kaupunkitilat",
+                    "url": "https:\/\/www.hel.fi\/fi\/paatoksenteko-ja-hallinto\/tietoa-helsingista\/pinnalla-juuri-nyt\/syotava-helsinki\/torit-ja-kauppahallit",
                     "file_format": "HTML"
                 }
             ],
@@ -138865,6 +138873,7 @@
                 "fi"
             ],
             "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
             ],
             "target_groups": [
             ],
@@ -138893,6 +138902,7 @@
                 "fi"
             ],
             "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
             ],
             "target_groups": [
             ],
@@ -138921,6 +138931,7 @@
                 "fi"
             ],
             "responsible_depts": [
+                "421399be-a090-4298-8745-ab4899873308"
             ],
             "target_groups": [
             ],
