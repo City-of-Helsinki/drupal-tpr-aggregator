@@ -18094,9 +18094,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "INTERNET",
+                            "type": "FORM",
                             "title": "Lataa Helsinki-lisän hakulomake",
-                            "url": "https:\/\/stplattaprod.blob.core.windows.net\/tyoyrittaminen5ce88prod\/helsinki-lisa_hakulomake_2024_0.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsinki-lisa_hakulomake_2026_FI.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -18190,7 +18190,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Download the Helsinki benefit application form",
-                            "url": "https:\/\/stplattaprod.blob.core.windows.net\/tyoyrittaminen5ce88prod\/helsinkibenefit_application_2024_0.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsinki-lisa_hakulomake_2026_EN.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -18283,9 +18283,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "INTERNET",
+                            "type": "FORM",
                             "title": "Ladda ner ansökningsblanketten för Helsingforstillägget",
-                            "url": "https:\/\/stplattaprod.blob.core.windows.net\/tyoyrittaminen5ce88prod\/helsingforstillagg_ansokan_foretag_2024_0.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsinki-lisa_hakulomake_2026_SV.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -60493,7 +60493,8 @@
         "fi": {
             "id": 5470,
             "exact_descriptions": [
-                9687
+                9687,
+                9720
             ],
             "service_id": 10618,
             "type": "APPOINTMENT",
@@ -60593,7 +60594,8 @@
         "sv": {
             "id": 5470,
             "exact_descriptions": [
-                9687
+                9687,
+                9720
             ],
             "service_id": 10618,
             "type": "APPOINTMENT",
