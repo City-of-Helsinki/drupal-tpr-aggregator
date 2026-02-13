@@ -16970,171 +16970,6 @@
         }
     },
     {
-        "id": 5863,
-        "fi": {
-            "id": 5863,
-            "exact_descriptions": [
-                10280
-            ],
-            "service_id": 10135,
-            "type": "OTHER_ESERVICE",
-            "name": "Helsingin työväenopisto",
-            "description": "Työväenopisto tarjoaa tuhansia kursseja, luentoja sekä tapahtumia uuden oppijoille ja harrastajille. Tutustu kurssitarjontaan verkkosivuilla.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4508,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Verkkosivut",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Verkkosivut",
-                            "url": "https:\/\/tyovaenopisto.hel.fi\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5863,
-            "exact_descriptions": [
-                10280
-            ],
-            "service_id": 10135,
-            "type": "OTHER_ESERVICE",
-            "name": "Finnish Adult Education Centre",
-            "description": "The Adult Education Centre offers thousands of courses, lectures and events for learners and enthusiasts. Explore the course selection on the website.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4508,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Website",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Website",
-                            "url": "https:\/\/tyovaenopisto.hel.fi\/en\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5863,
-            "exact_descriptions": [
-                10280
-            ],
-            "service_id": 10135,
-            "type": "OTHER_ESERVICE",
-            "name": "Helsingfors finska arbetarinstitut",
-            "description": "Arbetarinstitutet erbjuder tusentals kurser, föreläsningar och evenemang för de som vill lära sig något nytt eller utöva en hobby. Bekanta dig med kursutbudet på webbplatsen.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4508,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Webbplats",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Webbplats",
-                            "url": "https:\/\/tyovaenopisto.hel.fi\/sv\/"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5115,
         "fi": {
             "id": 5115,
@@ -17145,6 +16980,7 @@
             "type": "ADVICE",
             "name": "Helsingin työväenopiston neuvontapalvelut, asiointipalvelu",
             "name_synonyms": "työviksen neuvonta, työvis",
+            "description": "Palvelemme sinua puhelimitse, sähköpostitse sekä palautekanavan kautta.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -17158,6 +16994,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Työväenopiston verkkosivut",
+                    "url": "https:\/\/tyovaenopisto.hel.fi\/"
+                }
             ],
             "channels": [
                 {
@@ -17249,6 +17090,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "The Finnish Adult Education Centre advisory services, service channels",
+            "description": "You can reach us by phone, email, feedback form and in person at our service points",
             "provided_languages": [
                 "en",
                 "fi",
@@ -17262,6 +17104,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsinki Finnish Adult Education Centre",
+                    "url": "https:\/\/tyovaenopisto.hel.fi\/en\/"
+                }
             ],
             "channels": [
                 {
@@ -17352,6 +17199,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Helsingin työväenopistos rådgivningstjänster, ärendehanteringstjänst",
+            "description": "Vi betjänar dig per telefon, e-post och via responskanalen.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -17365,6 +17213,11 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Helsingfors finska arbetarinstitutet",
+                    "url": "https:\/\/tyovaenopisto.hel.fi\/sv\/"
+                }
             ],
             "channels": [
                 {
