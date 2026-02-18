@@ -6008,7 +6008,8 @@
                         {
                             "type": "INTERNET",
                             "title": "Siirry Lupapisteeseen",
-                            "url": "https:\/\/www.lupapiste.fi"
+                            "url": "https:\/\/www.lupapiste.fi",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -6060,7 +6061,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to Lupapiste",
+                            "title": "Go to Lupapiste (in Finnish)",
                             "url": "https:\/\/www.lupapiste.fi"
                         }
                     ],
@@ -6069,8 +6070,60 @@
                 }
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 5866,
+            "exact_descriptions": [
+                9520
+            ],
+            "service_id": 10634,
+            "type": "NOTICE",
+            "name": "Anmälan om arbetsledare för specialområden",
+            "description": "Arbetsledaren för ett specialområde ska utses för projektet i enlighet med tillståndsbeslutet. Byggnadstillsynen kan dock vid behov, under byggarbetets gång, föreskriva att projektet ska ha en arbetsledare inom ett specialområde. Anmälan om arbetsledaren för ett specialområde ska lämnas till byggnadstillsynsmyndigheten innan byggnadsarbetena inom specialområdet i fråga inleds.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "ENTERPRISES",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "BUILDING_HOME"
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4514,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansök om att bli arbetsledare för specialområde",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/sv",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5865,
@@ -55882,11 +55935,6 @@
                 "LOSING_JOB"
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Advisory service for companies and employers",
-                    "url": "https:\/\/www.hel.fi\/en\/business-and-work\/employers"
-                }
             ],
             "channels": [
                 {
@@ -56050,11 +56098,6 @@
                 "LOSING_JOB"
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Rådgivning för företags- och arbetsgivarkunder",
-                    "url": "https:\/\/www.hel.fi\/sv\/foretag-och-arbete\/arbetsgivare"
-                }
             ],
             "channels": [
                 {
@@ -84066,7 +84109,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Go to Lupapiste",
+                            "title": "Go to Lupapiste (in Finnish)",
                             "url": "https:\/\/www.lupapiste.fi\/login\/fi"
                         }
                     ],
