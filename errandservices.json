@@ -84083,8 +84083,8 @@
             ],
             "service_id": 10634,
             "type": "PERMISSION",
-            "name": "Godkännande av ansvarig arbetsledare",
-            "description": "Den som startar projektet eller hens befullmäktigade representant utnämner arbetsledaren i Lupapiste, varifrån den utnämnda arbetsledaren får ett e-postmeddelande om detta. Arbetsledaren godkänner utnämningen i Lupapiste-tjänsten. Arbetsledaren lämnar sina egna uppgifter och sparar de bilagor som krävs och lämnar en ansökan eller gör en anmälan. Byggnadstillsynen godkänner denna ansökan eller begär de tilläggsuppgifter som krävs.\n",
+            "name": "Anmälan om ansvarig arbetsledare",
+            "description": "Anmälan om ansvarig arbetsledare ska lämnas in till byggnadstillsynsmyndigheten innan byggnadsarbeten eller förberedande arbeten, såsom schaktning, grävning, pålning eller trädfällning inleds. Vid reparationer och ändringar av en byggnad ska anmälan om ansvarig arbetsledare lämnas innan rivning eller byggande av konstruktioner eller byggnadsdelar inleds.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -84100,18 +84100,13 @@
                 "BUILDING_HOME"
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Läs mer: Utnämning av en arbetsledare (på finska)",
-                    "url": "https:\/\/tuki.lupapiste.fi\/fi\/support\/solutions\/articles\/15000017640-ty%C3%B6njohtajan-nime%C3%A4minen-hankkeelle"
-                }
             ],
             "channels": [
                 {
                     "id": 2009,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Utnämn en ansvarig arbetsledare",
+                    "name": "Ansök om att bli ansvarig arbetsledare",
                     "provided_languages": [
                         "fi",
                         "sv"
