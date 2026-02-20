@@ -59348,15 +59348,15 @@
                     "for_corporate_customer": false,
                     "links": [
                         {
-                            "type": "INTERNET",
-                            "title": "Lähetä PDF-hakulomake suojatulla sähköpostilla",
-                            "url": "https:\/\/suojattusahkoposti.hel.fi\/\/?recipient=iltapaivatoiminta@hel.fi"
-                        },
-                        {
                             "type": "FORM",
                             "title": "Hakulomake iltapäivätoimintaan lukuvuodelle 2025-2026, PDF",
                             "url": "https:\/\/www.hel.fi\/static\/kasko\/perusopetus\/FI_Hakemus_iltapaivatoiminta_25-26.pdf",
                             "file_format": "PDF"
+                        },
+                        {
+                            "type": "INTERNET",
+                            "title": "Lähetä PDF-hakulomake suojatulla sähköpostilla",
+                            "url": "https:\/\/suojattusahkoposti.hel.fi\/\/?recipient=iltapaivatoiminta@hel.fi"
                         }
                     ],
                     "availabilities": [
