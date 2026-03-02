@@ -69509,12 +69509,14 @@
                         {
                             "type": "INTERNET",
                             "title": "Pdf-lomake",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ilmoitus-elintarviketoiminnasta.pdf"
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ilmoitus-elintarviketoiminnasta.pdf",
+                            "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
                             "title": "Word-lomake",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ilmoitus-elintarviketoiminnasta.docx"
+                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ilmoitus-elintarviketoiminnasta.docx",
+                            "file_format": "WORD"
                         }
                     ],
                     "availabilities": [
@@ -83401,250 +83403,6 @@
         }
     },
     {
-        "id": 4512,
-        "fi": {
-            "id": 4512,
-            "exact_descriptions": [
-                2484,
-                8693
-            ],
-            "service_id": 10055,
-            "type": "APPLICATION",
-            "name": "Varhaiskasvatushakemus Asti-asiointipalvelussa",
-            "description": "Huoltaja voi hakea lapselleen Helsingin kaupungin järjestämää varhaiskasvatusta ja esiopetusta Asti-asiointipalvelussa.\n\n\n",
-            "process_description": "Hakemuslomakkeessa on ohjeet lomakkeen täyttämisestä. Puuttuvat tai virheelliset tiedot näkyvät punaisella sivukohtaisesti.  \n\nHakemuksella pääsee siirtymään eteen päin kun kaikki pakolliset kentät on täytetty. Hakemuksen voi tallentaa luonnoksena ja luonnosta voi myöhemmin muokata. Luonnos poistuu, kun hakemus lähetetään. Lähettämisen jälkeen lomake on muokattavissa, kunnes se lukitaan, 3 kk ennen tarpeen alkua ja kiireellisessä tilanteessa nopeammin. \n \nLähetetty hakemus tallentuu Asti-asiointipalveluun. Palvelu ilmoittaa lähetyksen onnistumisesta. Hakija voi seurata hakemuksen tilaa järjestelmässä. Lähetetyn, käsittelyä odottavan hakemuksen tila on Lähetetty. Hakemusta voi muokata, kunnes hakemus lukitaan. Kun hakemus otetaan käsittelyyn, hakemuksen tilaksi muuttuu Käsittelyssä. \n \nVarhaiskasvatushakemukseen tehdään aina päätös tarpeen alkamispäivästä lähtien ja mahdollisuuksien mukaan perheen esittämistä vaihtoehdoista. \n \nPäätös varhaiskasvatuspaikasta on nähtävissä sähköisesti lapsen huoltajille Astissa.\n \nHakemus voidaan poistaa ennen päätöksen tekemistä. Poistetun hakemuksen tila on Poistettu. Se on silloin poistettu järjestelmästä.  \n \nKäsittelyaikana hakemukseen tulevista muutoksista ilmoitetaan soittamalla palveluohjaukseen.\n",
-            "processing_time": "Hakemuksen käsittelyaika on enintään neljä kuukautta, ellei hakija ilmoita hoidon alkamiselle myöhäisempää alkamispäivää. Hakemuksen käsittely alkaa noin kolme kuukautta ennen toivottua aloituspäivää.",
-            "expiration_time": "Hakemus on voimassa yhden vuoden lähetyspäivästä lukien.",
-            "costs": "Huomioi maksupäätöksen sijainti \n \nMaksupäätökset toimitetaan Helsingin kaupungin sähköiseen Edlevo-palveluun sille huoltajalle, joka on tehnyt hakemuksen.  Edlevoon voi kirjautua osoitteessa hel.fi\/vakapalvelu. Maksupäätökset tulevat siis eri järjestelmään kuin varhaiskasvatuspäätös ja huoltajan tulee katsoa maksupäätöksiä Edlevosta.\n  \n",
-            "information": "Varhaiskasvatushakemuksen voi tehdä aikaisintaan vuotta ennen toivottua alkamispäivää.  \n  \nVarhaiskasvatuspaikkaa voi hakea myös Helsingin ulkopuolella asuvat. Paikan saamisen edellytyksenä on, että perheellä on varhaiskasvatuksen alkaessa kotipaikkana Helsinki. ",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "CHILDREN_AND_FAMILIES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Asti",
-                    "url": "https:\/\/asti.hel.fi"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Varhaiskasvatuksen palveluohjaus",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/varhaiskasvatus\/sahkoinen-asiointi-ja-yhteystiedot\/varhaiskasvatuksen-ja-esiopetuksen-yhteystiedot"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Sähköinen asiointi Edlevo",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/varhaiskasvatus\/sahkoinen-asiointi-ja-yhteystiedot\/sahkoinen-asiointi"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2871,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Täytä hakemus Asti-asiointipalvelussa",
-                    "prerequisites": "Edellyttää tunnistamista joko henkilökohtaisilla verkkopankkitunnuksilla tai mobiilivarmenteella.\nPalvelu saatavilla joka päivä ympäri vuorokauden.",
-                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry hakemukseen",
-                            "url": "https:\/\/asti.hel.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 4512,
-            "exact_descriptions": [
-                2484,
-                8693
-            ],
-            "service_id": 10055,
-            "type": "APPLICATION",
-            "name": "Apply for early childhood education on Asti online service",
-            "description": "Guardians can apply for a place for their child in municipal early childhood education and pre-primary education on the Asti online service.\n\n\n",
-            "process_description": "The application form includes instructions on how to fill in the form. Missing or incorrect information is marked in red on each page.  \n\nThe application form lets you move forward once all required fields are filled in. You can save the application as a draft and edit it later. The draft will be deleted when you submit the application. After submitting the application, you can edit it until it will be locked three months before the need for the service, or sooner if your case is urgent. \n \nThe submitted application is saved in the Asti online service. The service will notify you if it is sent successfully. You can monitor the application status in the system. The status of a submitted application that is awaiting processing is Submitted. Submitted applications can be edited until the application is locked. When the processing of the application starts, the status of the application changes to In Process. \n \nAn official decision is always made regarding an application for early childhood starting from the start date of the service and, where possible, from the options proposed by the family. \n \nThe decision on the early childhood education place can be viewed electronically by the child's guardians on Asti.\n \nYou can delete your application before a decision is made. The status of a deleted application is Deleted. It is then removed from the system.  \n \nIf you wish to make changes to the application during the processing time, please call the Service guidance for early childhood education.\n",
-            "processing_time": "The processing time of an application is up to 4 months, unless you indicate a later start date for the service. Applications are taken into processing about 2 months before the desired start date.",
-            "expiration_time": "The application is valid for 12 months from the date it was submitted.",
-            "costs": "Note the location of the fee decisions.\n \nDecisions on fees are delivered to the City of Helsinki's Edlevo e-service to the guardian who submitted the application.  You can log in to Edlevo at hel.fi\/vakapalvelu. These decisions are not delivered to the same system as the early childhood education decision, so make sure to check the Edlevo e-service for the client fee decisions.  \n \nPayment and other decisions concerning early childhood education in Helsinki can be accessed via the new Edlevo e-service from 8 April 2024 onwards.",
-            "information": "An application for early childhood education can be submitted 12 months before the desired start date. \n \nPeople living outside Helsinki can also apply for an early childhood education place, on the condition that the family must officially live in Helsinki by the beginning of the early childhood education. \n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "CHILDREN_AND_FAMILIES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Asti online service ",
-                    "url": "https:\/\/asti.hel.fi\/#\/landing"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Early childhood education service guidance",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/e-service-and-contact-information\/contact-information-of-early-childhood-and-pre-primary-education"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Edlevo e-service",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/e-service-and-contact-information\/e-service"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2871,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Fill in an application on Asti",
-                    "prerequisites": "Requires authentication. Service is available 24 hours a day.\n",
-                    "availability_summary": "Service available every day around the clock",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to Asti",
-                            "url": "https:\/\/asti.hel.fi\/#\/landing"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Service available every day around the clock"
-                        }
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 4512,
-            "exact_descriptions": [
-                2484,
-                8693
-            ],
-            "service_id": 10055,
-            "type": "APPLICATION",
-            "name": "Ansökan om plats inom småbarnspedagogik i e-tjänsten Asti",
-            "description": "I e-tjänsten Asti kan du som vårdnadshavare ansöka om plats inom Helsingfors stads småbarnspedagogik och förskoleundervisning. \n\n\n",
-            "process_description": "I ansökningsformuläret finns instruktioner om hur du ska fylla i formuläret. Uppgifter som saknas eller är felaktiga visas i röd text på den sida där informationen fattas.  \n\nDu kan gå vidare i ansökningsprocessen när alla fält i formuläret är ifyllda. Ansökan kan sparas som utkast och utkastet går att redigera senare. Utkastet försvinner när ansökan skickas in. Efter att ansökan skickas in kan den redigeras tills den är låst, tre månader innan behovet börjar och snabbare i en brådskande situation. \n \nDen inskickade ansökan sparas automatiskt i e-tjänsten Asti. Du får en avisering när ansökan kommit fram. Den sökande kan följa med ansökningens status i Asti. Status för en inskickad ansökan som väntar på behandling är Skickad. Ansökan kan redigeras tills den är låst. När behandlingen av ansökan börjar ändras status till I behandling.  \n \nBeslut om ansökan om småbarnspedagogik fattas från och med det datum man önskar att småbarnspedagogiken ska inledas och i mån av möjlighet enligt familjens önskemål. \n \nBarnets vårdnadshavare kan se beslutet om en plats inom småbarnspedagogiken i Asti.\n \nDu kan radera ansökan innan beslutet har fattats. Status för en raderad ansökan är Annullerad. Då finns ansökan inte längre i systemet.  \n \nUnder behandlingstiden kan du meddela om ändringar i ansökan genom att ringa till servicehandledningen.\n",
-            "processing_time": "Behandlingstiden för ansökan är högst fyra mån, om du inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen av ansökan börjar ungefär tre månader före önskat startdatum.",
-            "expiration_time": "Ansökan är i kraft ett år efter det att den skickats in.",
-            "costs": "Notera e-tjänsten för klientavgiftsbeslutet.\n\nAvgiftsbeslutet skickas till e-tjänsten Edlevo på adressen hel.fi\/vakapalvelu. Beslutet skickas till den vårdnadshavare som har lämnat in ansökan. Klientavgiftsbeslutet och beslutet om småbarnspedagogik skickas alltså till olika e-tjänster. För att se avgiftsbeslutet ska du logga in i e-tjänsten Edlevo.\n\n",
-            "information": "Ansökan om småbarnspedagogik kan göras tidigast ett år före det önskade startdatumet. \n \nOckså personer som bor utanför Helsingfors kan ansöka om en plats inom småbarnspedagogik. För att få en plats i småbarnpedagogiken måste familjen ändå bo i Helsingfors när barnet inleder småbarnspedagogiken. \n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "CHILDREN_AND_FAMILIES"
-            ],
-            "life_events": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Asti",
-                    "url": "https:\/\/asti.hel.fi"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Småbarnspedagogikens servicehandledning",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/elektronisk-arendehantering-och-kontaktuppgifter\/smabarnspedagogikens-och-forskoleundervisningens-kontaktuppgifter"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "E-tjänsten Edlevo",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/elektronisk-arendehantering-och-kontaktuppgifter\/elektronisk-arendehantering"
-                }
-            ],
-            "channels": [
-                {
-                    "id": 2871,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Ansökan om småbarnpedagogik",
-                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": true,
-                    "e_processing": true,
-                    "e_decision": true,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till ansökan",
-                            "url": "https:\/\/asti.hel.fi",
-                            "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 4948,
         "fi": {
             "id": 4948,
@@ -83834,6 +83592,250 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 4512,
+        "fi": {
+            "id": 4512,
+            "exact_descriptions": [
+                2484,
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Varhaiskasvatushakemus sähköisessä asiointipalvelussa",
+            "description": "Huoltaja voi hakea lapselleen Helsingin kaupungin järjestämää varhaiskasvatusta ja esiopetusta Edlevo-asiointipalvelussa.\n\n\n",
+            "process_description": "Voit kirjautua sähköiseen asiointipalveluun Edlevo-mobiilisovelluksen kautta, tai selaimella osoitteessa www.hel.fi\/vakapalvelu. Sovellus on ladattavissa Google Play tai App Store -sovelluskaupoista. Palveluun kirjaudutaan suomi.fi-tunnistautumisen avulla. \n\nKirjautumalla sähköiseen asiointipalveluun annat suostumuksen sähköiseen asiointiin sekä päätöksen sähköiseen tiedoksiantoon. Pdf-tiedostojen avaamiseen mobiililaitteella tarvitset ohjelman, jolla voi lukea pdf-tiedostoja. Vaihtoehtoinen tapa on paperinen asiointi. \n\nSähköistä hakemusta täyttäessäsi, valitse valikossa \"Alue\" ensin jokin suomenkielinen varhaiskasvatusalue. Jos haluat varhaiskasvatusta ruotsiksi, valitse \"Svensk småbarnspedagogik\". Vasta tämän jälkeen saat alueen päiväkodit näkyviin \"Toimipaikka\/Perhepäivähoito\" valikossa. \n\nLähettämisen jälkeen voit muokata hakemusta, kunnes se siirretään käsittelyyn. Tässä vaiheessa hakemusten tila Edlevossa on \"Odottaa käsittelyä kunnassa\". Hakemukset siirretään käsittelyyn noin 3 kk ennen hakemukseen valittua aloituspäivää ja kiireellisessä tilanteessa nopeammin.  \n\nKun hakemus on siirretty käsittelyyn, hakemuksen tila Edlevossa on \"Jonossa\". Tässä vaiheessa huoltaja ei voi enää itse muokata hakemusta. Hakemus käsitellään varhaiskasvatuspaikan myöntämisen perusteiden mukaisesti. \n    \nVarhaiskasvatushakemukseen tehdään aina päätös tarpeen alkamispäivästä lähtien ja mahdollisuuksien mukaan perheen esittämistä vaihtoehdoista.  \n\nKun hakemukseen on tehty päätös, saat lapsen huoltajana heräteviestin sähköpostiisi. Voit lukea päätöksen joko selaimella www.hel.fi\/vakapalvelu tai mobiililaitteelle ladattavan Edlevo-sovelluksen kautta.",
+            "processing_time": "Hakemuksen käsittelyaika on enintään neljä kuukautta, ellei hakija ilmoita hoidon alkamiselle myöhäisempää alkamispäivää. Hakemuksen käsittely alkaa noin kolme kuukautta ennen toivottua aloituspäivää.",
+            "expiration_time": "Hakemus on voimassa yhden vuoden lähetyspäivästä lukien.",
+            "costs": "Huomioi maksupäätöksen sijainti \n \nMaksupäätökset toimitetaan Helsingin kaupungin sähköiseen Edlevo-palveluun sille huoltajalle, joka on tehnyt hakemuksen.  Edlevoon voi kirjautua osoitteessa hel.fi\/vakapalvelu. Maksupäätökset tulevat siis eri järjestelmään kuin varhaiskasvatuspäätös ja huoltajan tulee katsoa maksupäätöksiä Edlevosta.\n  \n",
+            "information": "Varhaiskasvatushakemuksen voi tehdä aikaisintaan vuotta ennen toivottua alkamispäivää.  \n  \nVarhaiskasvatuspaikkaa voi hakea myös Helsingin ulkopuolella asuvat. Paikan saamisen edellytyksenä on, että perheellä on varhaiskasvatuksen alkaessa kotipaikkana Helsinki. ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Varhaiskasvatuksen palveluohjaus",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/varhaiskasvatus\/sahkoinen-asiointi-ja-yhteystiedot\/varhaiskasvatuksen-ja-esiopetuksen-yhteystiedot"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Sähköinen asiointi Edlevo",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/varhaiskasvatus\/sahkoinen-asiointi-ja-yhteystiedot\/sahkoinen-asiointi"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Edlevo-asiointipalvelu",
+                    "url": "https:\/\/www.hel.fi\/vakapalvelu"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2871,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Täytä hakemus Asti-asiointipalvelussa",
+                    "prerequisites": "Edellyttää tunnistamista joko henkilökohtaisilla verkkopankkitunnuksilla tai mobiilivarmenteella.\nPalvelu saatavilla joka päivä ympäri vuorokauden.",
+                    "availability_summary": "Palvelu saatavilla joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry hakemukseen",
+                            "url": "https:\/\/asti.hel.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Palvelu saatavilla joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 4512,
+            "exact_descriptions": [
+                2484,
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Apply for early childhood education on Asti online service",
+            "description": "Guardians can apply for a place for their child in municipal early childhood education and pre-primary education on the Asti online service.\n\n\n",
+            "process_description": "The application form includes instructions on how to fill in the form. Missing or incorrect information is marked in red on each page.  \n\nThe application form lets you move forward once all required fields are filled in. You can save the application as a draft and edit it later. The draft will be deleted when you submit the application. After submitting the application, you can edit it until it will be locked three months before the need for the service, or sooner if your case is urgent. \n \nThe submitted application is saved in the Asti online service. The service will notify you if it is sent successfully. You can monitor the application status in the system. The status of a submitted application that is awaiting processing is Submitted. Submitted applications can be edited until the application is locked. When the processing of the application starts, the status of the application changes to In Process. \n \nAn official decision is always made regarding an application for early childhood starting from the start date of the service and, where possible, from the options proposed by the family. \n \nThe decision on the early childhood education place can be viewed electronically by the child's guardians on Asti.\n \nYou can delete your application before a decision is made. The status of a deleted application is Deleted. It is then removed from the system.  \n \nIf you wish to make changes to the application during the processing time, please call the Service guidance for early childhood education.\n",
+            "processing_time": "The processing time of an application is up to 4 months, unless you indicate a later start date for the service. Applications are taken into processing about 2 months before the desired start date.",
+            "expiration_time": "The application is valid for 12 months from the date it was submitted.",
+            "costs": "Note the location of the fee decisions.\n \nDecisions on fees are delivered to the City of Helsinki's Edlevo e-service to the guardian who submitted the application.  You can log in to Edlevo at hel.fi\/vakapalvelu. These decisions are not delivered to the same system as the early childhood education decision, so make sure to check the Edlevo e-service for the client fee decisions.  \n \nPayment and other decisions concerning early childhood education in Helsinki can be accessed via the new Edlevo e-service from 8 April 2024 onwards.",
+            "information": "An application for early childhood education can be submitted 12 months before the desired start date. \n \nPeople living outside Helsinki can also apply for an early childhood education place, on the condition that the family must officially live in Helsinki by the beginning of the early childhood education. \n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Asti online service ",
+                    "url": "https:\/\/asti.hel.fi\/#\/landing"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Early childhood education service guidance",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/e-service-and-contact-information\/contact-information-of-early-childhood-and-pre-primary-education"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Edlevo e-service",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/early-childhood-education\/e-service-and-contact-information\/e-service"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2871,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Fill in an application on Asti",
+                    "prerequisites": "Requires authentication. Service is available 24 hours a day.\n",
+                    "availability_summary": "Service available every day around the clock",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Asti",
+                            "url": "https:\/\/asti.hel.fi\/#\/landing"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Service available every day around the clock"
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 4512,
+            "exact_descriptions": [
+                2484,
+                8693
+            ],
+            "service_id": 10055,
+            "type": "APPLICATION",
+            "name": "Ansökan om plats inom småbarnspedagogik i e-tjänsten Edlevo",
+            "description": "I e-tjänsten Edlevo kan du som vårdnadshavare ansöka om plats inom Helsingfors stads småbarnspedagogik och förskoleundervisning. \n\n\n",
+            "process_description": "Du kan logga in i e-tjänsten via Edlevo-mobilappen eller via en webbläsare på adressen www.hel.fi\/vakapalvelu. Du kan ladda ner appen från appbutikerna Google Play eller App Store. Du loggar in i tjänsten med hjälp av suomi.fi-identifiering. \n\nGenom att logga in i e-tjänsten Edlevo ger du ditt samtycke till att dina ärenden hanteras elektroniskt. Du kan också välja att få beslut elektroniskt. Då får du besluten i pdf-format. För att öppna pdf-filerna med en mobil enhet behöver du ett program som kan läsa dem. Om du väljer att inte få beslut elektroniskt får du dem per post. \n\nNär du fyller i ansökan i Edlevo ska du under rubriken \"Område\" välja \"Svenskspråkig småbarnspedagogik\" om du vill ansöka om plats i ett svenskspråkigt daghem. Om du vill ansöka om plats i ett finskspråkigt daghem ska du vilja något av de finskspråkiga områdena. Efter att du valt område kan du under rubriken \"Enhet\/familjedagvård\" välja daghemmet du vill ansöka till. \n\nNär du skickat in ansökan kan du redigera den tills vi börjar handlägga den. I detta skede är statusen för din ansökan i Edlevo \"inväntar handläggning från kommunen\". Vi börjar handlägga din ansökan ungefär tre månader före det startdatum som du uppgett i ansökan. I akuta, oförutsedda fall behandlar vi din ansökan fortare. \n\nNär vi börjat handlägga din ansökan i Edlevo får den status \"i kö\", vilket innebär att ansökan handläggs enligt grunderna för beviljande av plats inom småbarnspedagogiken. I det här skedet kan du inte själv längre redigera ansökan. \n\nDitt barn får alltid en plats inom småbarnspedagogiken från och med det startdatum du uppger i din ansökan. Vi försöker erbjuda barnet en plats vid något av era ansökningsönskemål. \n \nNär vi fattat beslutet om plats inom småbarnspedagogiken för ditt barn får du en avisering per e-post med rubriken:  \n\nUusi päätös sähköisessä asiointipalvelussa \/ Nytt beslut i den elektroniska ärendehanteringstjänsten \/ New decision in e-services  \n\nNytt beslut i den elektroniska ärendehanteringstjänsten. Beslutet kan läsas antingen i webbläsaren på hel.fi\/vakapalvelu eller via Edlevo-appen som kan laddas till en mobilenhet.",
+            "processing_time": "Behandlingstiden för ansökan är högst fyra mån, om du inte själv har meddelat ett senare startdatum för småbarnspedagogiken. Behandlingen av ansökan börjar ungefär tre månader före önskat startdatum.",
+            "expiration_time": "Ansökan är i kraft ett år efter det att den skickats in.",
+            "costs": "Klientavgiftsbesluten skickas till e-tjänsten Edlevo till den vårdnadshavare som har gjort ansökan.",
+            "information": "Du kan söka till småbarnspedagogiken tidigast ett år före önskat startdatum.  \n  \nÄven de som bor utanför Helsingfors kan söka om en plats inom småbarnspedagogiken. Förutsättningen för att få en plats är att familjens hemort är Helsingfors när småbarnspedagogiken börjar. ",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "E-tjänsten Edlevo",
+                    "url": "https:\/\/hel.fi\/vakapalvelu"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Småbarnspedagogikens servicehandledning",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/elektronisk-arendehantering-och-kontaktuppgifter\/smabarnspedagogikens-och-forskoleundervisningens-kontaktuppgifter"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Läs mer om e-tjänsten Edlevo",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/smabarnspedagogik\/elektronisk-arendehantering-och-kontaktuppgifter\/elektronisk-arendehantering"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 2871,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Ansökan om småbarnpedagogik",
+                    "availability_summary": "Tjänsten tillgänglig dygnet runt varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": true,
+                    "e_processing": true,
+                    "e_decision": true,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till ansökan",
+                            "url": "https:\/\/asti.hel.fi",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
+                        }
                     ]
                 }
             ]
