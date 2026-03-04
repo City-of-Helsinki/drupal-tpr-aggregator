@@ -5042,8 +5042,8 @@
             ],
             "service_id": 10554,
             "type": "ADVICE",
-            "name": "Digitukea etänä",
-            "name_synonyms": "etädigituki",
+            "name": "Digitukea palvelupisteissä",
+            "name_synonyms": "etädigituki, digineuvonta, digituki, digiopastus",
             "description": "Digitukea saa myös etäpalveluna. \n\nEtätukea saa tietokoneen, tabletin ja älypuhelimen käytössä. Tukea saa myös sähköisen asioinnin, verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nTukipyynnön jälkeen digituen antaja ottaa asiakkaaseen yhteyttä soittamalla parin arkipäivän sisällä ja sopii digituen antamisesta tarkemmin. Etädigitukea annetaan arkisin klo 9 -19 välillä.\n\nKatso alta digituen puhelin- ja chat-palvelun yhteystiedot. \n\n\n",
             "provided_languages": [
                 "en",
@@ -5064,9 +5064,9 @@
                     "id": 2784,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Etädigituki puhelimitse",
+                    "name": "Digituki puhelimitse",
                     "information": "Jos tarvitset apua tietokoneen, tabletin, puhelimen tai asiointipalveluiden käyttöön, autamme sinua Helsingin kaupungin digituen puhelinpalvelussa maksuttomasti joka arkipäivä. Tukea saa myös muiden verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nVoit myös varata puhelimesta itsellesi ajan digituen palvelupisteelle. Lisäksi voimme täyttää puhelimessa tarvittaessa kotidigitukipyynnön.",
-                    "availability_summary": "Palvelu saatavilla ma-pe 09-12",
+                    "availability_summary": "Palvelu saatavilla ma-to 09-16",
                     "phone": "09 310 10011",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -5082,7 +5082,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla ma-pe 09-12"
+                            "availability_string": "Palvelu saatavilla ma-to 09-16"
                         }
                     ]
                 },
@@ -5090,9 +5090,9 @@
                     "id": 2785,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Etädigitukea Chatissä",
+                    "name": "Digitukea Chatissä",
                     "information": "Voit pyytää digiopastusta myös chatin kautta, joka löytyy osoitteesta digituki.hel.fi, etusivun oikeasta alakulmasta. \n",
-                    "availability_summary": "Palvelu saatavilla ma-pe 09-12",
+                    "availability_summary": "Palvelu saatavilla ma-to 09-16",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -5121,7 +5121,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Palvelu saatavilla ma-pe 09-12"
+                            "availability_string": "Palvelu saatavilla ma-to 09-16"
                         }
                     ]
                 }
