@@ -5044,7 +5044,7 @@
             "type": "ADVICE",
             "name": "Digitukea palvelupisteissä, etänä ja kotona",
             "name_synonyms": "etädigituki, digineuvonta, digituki, digiopastus",
-            "description": "Katso alta digituen puhelin- ja chat-palvelun yhteystiedot ja aukioloajat, sekä lisätedot digituen palvelupisteistä.\n",
+            "description": "Katso alta digituen puhelin- ja chat-palvelun yhteystiedot ja aukioloajat, sekä lisätiedot digituen palvelupisteistä.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5065,7 +5065,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Digituki puhelimitse",
-                    "information": "Jos tarvitset apua tietokoneen, tabletin, puhelimen tai asiointipalveluiden käyttöön, autamme sinua Helsingin kaupungin digituen puhelinpalvelussa maksuttomasti arkipäivisin. Tukea saa myös muiden verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nVoit myös varata puhelimesta itsellesi ajan digituen palvelupisteelle. Lisäksi voimme täyttää puhelimessa tarvittaessa kotidigitukipyynnön.",
+                    "information": "Jos tarvitset apua tietokoneen, tabletin, puhelimen tai asiointipalveluiden käyttöön, autamme sinua Helsingin kaupungin digituen puhelinpalvelussa maksuttomasti arkipäivisin. Tukea saa myös muiden verkkopalveluiden ja yleisimpien sovellusten käyttöön liittyvissä ongelmissa. \n\nVoit myös varata puhelimesta itsellesi ajan digituen palvelupisteelle. Lisäksi voimme täyttää puhelimessa tarvittaessa kotidigitukipyynnön. Helsingin kaupunki tekee yhteistyötä HelsinkiMission kanssa, jonka koulutetut vapaaehtoiset auttavat digipulmissa omassa kodissasi.",
                     "availability_summary": "Palvelu saatavilla ma-to 09-16",
                     "phone": "09 310 10011",
                     "call_charge_info": "pvm\/mpm",
@@ -5123,6 +5123,31 @@
                         {
                             "availability_string": "Palvelu saatavilla ma-to 09-16"
                         }
+                    ]
+                },
+                {
+                    "id": 4563,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Digitukea palvelupisteillä",
+                    "information": "Tutustu digituen palvelupisteisiin ja lue lisää Helsingin kaupungin digituesta ja sen periaatteista digituen verkkosivuilta. Digitukea on tarjolla kirjastoissa, yhteisötaloilla, palvelukeskuksissa ja työväenopistossa. Digituen sivuilla voit myös varata itsellesi ajan digitukeen ja löytää tietoa digiaiheisista kursseista ja tapahtumista.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Katso digituen palvelupisteet",
+                            "url": "https:\/\/digituki.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
                     ]
                 }
             ]
