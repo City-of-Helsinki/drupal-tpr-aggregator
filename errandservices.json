@@ -59439,7 +59439,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Iltapäivätoimintaan hakeminen Wilmassa",
-                    "prerequisites": "Perusopetuksen iltapäivätoimintaan voivat hakea 1.-2. -vuosiluokkien oppilaat sekä kaikkien vuosiluokkien osalta erityistä tukea saavat oppilaat.",
+                    "prerequisites": "Perusopetuksen iltapäivätoimintaan voivat hakea 1.-2. -vuosiluokkien oppilaat sekä ne oppilaat, joilla on oppimisen tukea koskeva hallintopäätös.",
                     "process_description": "",
                     "provided_languages": [
                         "en",
@@ -59468,7 +59468,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tulostettava hakulomake perusopetuksen iltapäivätoimintaan",
-                    "information": "Jos sinulla ei ole mahdollisuutta täyttää hakulomaketta Wilmassa, toimintaan voi hakea myös paperilomakkeella. \nHuomaathan, että linkki lukuvuoden 2026-2027 hakulomakkeeseen päivittyy tähän 16.3.2026 iltapäivällä.",
+                    "information": "Jos sinulla ei ole mahdollisuutta täyttää hakulomaketta Wilmassa, toimintaan voi hakea myös paperilomakkeella.",
                     "process_description": "Paperisen hakemuksen voi postittaa osoitteeseen: Kasvatuksen ja koulutuksen toimiala, Iltapäivätoiminta, PL 51300, 00099 Helsingin kaupunki tai tuoda postilaatikkoon nimikoidussa kirjekuoressa osoitteeseen Työpajankatu 8, 00580 Helsinki.",
                     "provided_languages": [
                     ],
@@ -59548,7 +59548,7 @@
                     "type": "ESERVICE",
                     "type_string": "E-services",
                     "name": "Applying to after-school activities in Wilma",
-                    "prerequisites": "After-school activities are available to first and second grade pupils at comprehensive schools in Helsinki and also to pupils of all grades who receive special support.",
+                    "prerequisites": "After-school activities in comprehensive education are guided leisure activities for 1st and 2nd graders and for pupils who have an administrative decision on learning support.",
                     "process_description": "",
                     "provided_languages": [
                         "en",
@@ -59577,7 +59577,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
                     "name": "Paper application for after-school activities",
-                    "information": "If you are unable to fill in the form on Wilma, you can also apply with the PDF form.\nThe application form for the 2026-2027 school year will be linked below on 16 March.",
+                    "information": "If you are unable to fill in the form on Wilma, you can also apply with the PDF form.",
                     "process_description": "Post the paper application to Education Division, After-school activities, P.O. Box 51300, 00099 City of Helsinki or deliver it to our letter box at Työpajankatu 8, 00580 Helsinki.",
                     "provided_languages": [
                     ],
@@ -59656,7 +59656,7 @@
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
                     "name": "Ansökan till eftermiddagsverksamhet i Wilma",
-                    "prerequisites": "Den eftermiddagsverksamhet om grundläggande utbildning är avsedd för elever i årskurserna 1-2 och för elever i samtliga årskurser som får särskilt stöd i grundskolorna i Helsingfors. Vårdnadshavarna kan ansöka om plats för sitt barn i den här verksamheten.",
+                    "prerequisites": "Eftermiddagsverksamhet inom den grundläggande utbildningen är handledd fritidsverksamhet för elever i årskurserna 1 och 2 samt för de elever som har ett förvaltningsbeslut som gäller stödet för lärande.",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -74561,249 +74561,6 @@
                         {
                             "availability_string": "Tjänsten tillgänglig dygnet runt varje dag"
                         }
-                    ]
-                }
-            ]
-        }
-    },
-    {
-        "id": 5459,
-        "fi": {
-            "id": 5459,
-            "exact_descriptions": [
-                9682
-            ],
-            "service_id": 10138,
-            "type": "ADVICE",
-            "name": "Tiedustele neuvoja tuhohyönteisiin liittyen",
-            "description": "Voit ottaa yhteyttä myös palautejärjestelmän kautta: http:\/\/hel.fi\/palaute.\n\nAsiakaspalvelumme palvelee osoitteessa Työpajankatu 8, Helsinki.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4013,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Asumisterveysneuvonnan puhelinpalvelu",
-                    "availability_summary": "Avoinna ma, ke-to 09-12, ti 12-15",
-                    "phone": "09 310 15000",
-                    "call_charge_info": "maksuton",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna ma, ke-to 09-12"
-                        },
-                        {
-                            "availability_string": "Avoinna ti 12-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 4014,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Asumisterveyden neuvonnan sähköposti",
-                    "information": "Ympäristöpalveluiden asumisterveystiimi neuvoo sinua kodin tuholaisiin liittyen.",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Lue lisää asumisterveyden neuvonnasta",
-                            "url": "https:\/\/www.hel.fi\/fi\/asuminen\/asuminen-ja-terveys\/asumisterveysneuvonta"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5459,
-            "exact_descriptions": [
-                9682
-            ],
-            "service_id": 10138,
-            "type": "ADVICE",
-            "name": "Get advice on insect pests",
-            "description": "You may also contact us using the feedback system: http:\/\/hel.fi\/palaute\n\nOur customer service is located at Työpajankatu 8, Helsinki.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4013,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Housing health advisory service, telephone service",
-                    "availability_summary": "Open Mon, Wed-Thu 09-12, Tue 12-15",
-                    "phone": "09 310 15000",
-                    "call_charge_info": "toll free",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Open Mon, Wed-Thu 09-12"
-                        },
-                        {
-                            "availability_string": "Open Tue 12-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 4014,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Housing health advisory service, email",
-                    "information": "The Housing Health Team of Environmental Services advises you on matters related to household pests.",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Link to housing health advisory service",
-                            "url": "https:\/\/www.hel.fi\/en\/housing\/housing-and-health\/housing-health-advisory-service"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5459,
-            "exact_descriptions": [
-                9682
-            ],
-            "service_id": 10138,
-            "type": "ADVICE",
-            "name": "Fråga om råd gällande skadeinsekter",
-            "description": "Du kan också kontakta oss via responssystemet: https:\/\/palautteet.hel.fi\/\n\nVår kundtjänst hjälper dig på adressen Verkstadsgatan 8, Helsingfors.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 4013,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Telefontjänst för rådgivning om boendehälsa",
-                    "availability_summary": "Öppet mån, ons-tor 09-12, tis 12-15",
-                    "phone": "09 310 15000",
-                    "call_charge_info": "gratis",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Öppet mån, ons-tor 09-12"
-                        },
-                        {
-                            "availability_string": "Öppet tis 12-15"
-                        }
-                    ]
-                },
-                {
-                    "id": 4014,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Rådgivning om boendehälsa, e-post",
-                    "information": "Miljötjänsternas team för boendehälsa ger dig råd kring problem med skadedjur i hemmet.",
-                    "email": "kymp.asumisterveys@hel.fi",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Länk till rådgivning om boendehälsa",
-                            "url": "https:\/\/www.hel.fi\/sv\/boende\/boende-och-halsa\/radgivning-om-boendehalsa"
-                        }
-                    ],
-                    "availabilities": [
                     ]
                 }
             ]
