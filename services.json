@@ -79075,6 +79075,111 @@
         }
     },
     {
+        "id": 10388,
+        "fi": {
+            "id": 10388,
+            "main_description": false,
+            "service_id": 10608,
+            "title": "Pysäköintivirhemaksu",
+            "description_short": "Tältä sivulta löydät tietoa pysäköintivirhemaksun maksamisesta, eräpäivän siirrosta ja oikaisuvaatimuksesta. Voit hoitaa pysäköintivirhemaksuun liittyvät asiat Pysäköinnin asiointi -palvelussa.",
+            "description_long": "Jos pysäköit Helsingissä virheellisesti, voit saada pysäköintivirhemaksun. Virhemaksu eli niin sanottu pysäköintisakko on keskustassa 80 euroa ja muualla Helsingissä 60 euroa. \n\nLöydät maksamiseen tarvittavat tiedot ajoneuvoosi jätetystä pysäköintivirhemaksusta. Jos pysäköintivirhemaksu on kadonnut, ota yhteyttä Kaupunkiympäristön asiakaspalveluun. \n\nJos maksat virhemaksun eräpäivän jälkeen, lisää maksettavaan summaan 14 euroa, niin emme lähetä turhaan maksuvaatimusta.\n\nJos saamassasi pysäköintivirhemaksussa on väärä ajoneuvon rekisterinumero, voit olla asiasta yhteydessä sähköpostitse osoitteeseen pysakointi@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                520,
+                4352
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                7411
+            ]
+        },
+        "en": {
+            "id": 10388,
+            "main_description": false,
+            "service_id": 10608,
+            "title": "Parking fine",
+            "description_short": "On this page, you will find information about paying parking fines, postponing their due dates and submitting claims for rectification. You can handle matters related to parking fines in the Parking e-services.",
+            "description_long": "If you park illegally in Helsinki, you may receive a parking fine. The fine is €80 in the city centre and €60 elsewhere in Helsinki. \n\nYou can find all the information you need to pay your fine on the parking fine slip left on your vehicle. If you have misplaced your parking fine slip, please contact the Urban Environment Division's customer service.  \n\nIf you pay a fine after the due date, add €14 to the amount payable to avoid us sending you an unnecessary demand for payment.  \n\nIf a parking fine you have received contains an incorrect vehicle registration number, you can report this by email to pysakointi@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                520,
+                4352
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                7411
+            ]
+        },
+        "sv": {
+            "id": 10388,
+            "main_description": false,
+            "service_id": 10608,
+            "title": "Felparkeringsavgift",
+            "description_short": "På den här sidan hittar du information om att betala felparkeringsavgiften, om att flytta förfallodagen och om begära om omprövning. Du kan sköta ärenden som gäller felparkeringsavgiften i parkeringens e-tjänst.",
+            "description_long": "Om du parkerar fel i Helsingfors kan du få en felparkeringsavgift. Felparkeringsavgiften är 80 euro i centrum och 60 euro i övriga Helsingfors. \n\nDu hittar de uppgifter som behövs för betalning på felparkeringsboten. Om du har tappat bort felparkeringsboten, kontakta oss på stadsmiljösektorns kundtjänst.  \n\nOm du betalar felparkeringsavgiften efter förfallodagen ska du lägga till 14 euro till beloppet. Då skickar vi ingen onödig betalningsuppmaning.  \n\nOm registernumret på det fordon som anges i felparkeringsboten du fått är felaktigt kan du kontakta oss via e‑post på adressen pysakointi@hel.fi.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                520,
+                4352
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                7411
+            ]
+        }
+    },
+    {
         "id": 9945,
         "fi": {
             "id": 9945,
@@ -81986,87 +82091,6 @@
         }
     },
     {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5236,
         "fi": {
             "id": 5236,
@@ -82153,6 +82177,87 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -133638,7 +133743,7 @@
             "service_id": 10954,
             "title": "Hitas-asunnon myyminen",
             "description_short": "Hitas-asunnot ovat kaupunkilaisille tarkoitettuja omistusasuntoja, joiden hintaa säädellään. Hitas-asunnot ovat yleensä markkinahintaa edullisempia, mutta myös asuntojen myyntihinnalla on yläraja.",
-            "description_long": "Kun myyt Hitas-asuntosi, sinulla on kaksi vaihtoehtoa asunnon myyntihinnan määrittämiseen: voit käyttää vahvistettua enimmäishintaa tai voimassa olevaa velatonta rajaneliöhintaa.\n\nVahvistettu enimmäishinta tarkoittaa jokaiselle Hitas-asunnolle määriteltyä hinnan ylärajaa, jota ei saa ylittää. Tätä varten sinun on pyydettävä asumisen palveluilta vahvistettu enimmäishintalaskelma. Saat laskelman viikon kuluessa hakemuksesta.\n\nVaihtoehtoisesti voit laskea myyntihinnan voimassa olevan rajaneliöhinnan avulla, jolloin enimmäishinnan vahvistamista ei tarvitse hakea.\n\nHitas-asunnon saa aina myydä vahvistettua enimmäishintaa tai rajaneliöhintaa edullisemmin.\n\nHitas-asunnon voi myydä vain luonnolliselle henkilölle, ei esimerkiksi yritykselle.",
+            "description_long": "Kun myyt Hitas-asuntosi, sinulla on kaksi vaihtoehtoa asunnon myyntihinnan määrittämiseen: voit käyttää vahvistettua enimmäishintaa tai voimassa olevaa velatonta rajaneliöhintaa.\n\nVahvistettu enimmäishinta tarkoittaa jokaiselle Hitas-asunnolle määriteltyä hinnan ylärajaa, jota ei saa ylittää. Tätä varten sinun on pyydettävä asumisen palveluilta vahvistettu enimmäishintalaskelma. Saat laskelman viikon kuluessa hakemuksesta.\n\nVaihtoehtoisesti voit laskea myyntihinnan voimassa olevan rajaneliöhinnan avulla, jolloin enimmäishinnan vahvistamista ei tarvitse hakea.\n\nHitas-asunnon saa aina myydä vahvistettua enimmäishintaa tai rajaneliöhintaa edullisemmin.\n\nHitas-asunnot on tarkoitettu luonnollisille henkilöille, ei esimerkiksi yrityksille.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -133668,7 +133773,7 @@
             "service_id": 10954,
             "title": "Selling a Hitas-home",
             "description_short": "Hitas is a system used in Helsinki for regulating the price and quality of housing. The selling price of homes is regulated in both new and old homes.",
-            "description_long": "When you sell your Hitas home, you have two options to define the selling price of the home: you can use the fixed maximum price or the valid debt-free limit price per square metre.\n\nThe fixed maximum price refers to the maximum price set for each Hitas home, which must not be exceeded. For this, you will need to request a fixed maximum price calculation from Housing Services. You will receive the calculation within one week of the application.\n\nAlternatively, you can calculate the sales price using the valid limit price per square metre, so that you do not need to apply for confirmation of the maximum price. \n\nHitas housing can only be sold to a natural person, and not, for example, to a company.\n",
+            "description_long": "When you sell your Hitas home, you have two options to define the selling price of the home: you can use the fixed maximum price or the valid debt-free limit price per square metre.\n\nThe fixed maximum price refers to the maximum price set for each Hitas home, which must not be exceeded. For this, you will need to request a fixed maximum price calculation from Housing Services. You will receive the calculation within one week of the application.\n\nAlternatively, you can calculate the sales price using the valid limit price per square metre, so that you do not need to apply for confirmation of the maximum price. \n\nHitas housing is intended for natural persons, and not, for example, for a company.\n",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -133698,7 +133803,7 @@
             "service_id": 10954,
             "title": "Försäljning av en Hitas-bostad",
             "description_short": "Hitas är ett system för pris- och kvalitetsreglering för bostäder i Helsingfors. I Hitas-systemet regleras bostädernas försäljningspris i både nya och gamla bostäder.",
-            "description_long": "När du säljer din Hitas-bostad, kan du bestämma bostadens försäljningspris på två sätt: antingen som fast maximipris eller som skuldfritt gränspris per kvadratmeter.\n\nDet fasta maximipriset är en fastslagen övre prisgräns för varje Hitas-bostad som inte får överstigas. För att få fram priset måste du be boendetjänster om en beräkning av maximipriset. Du får beräkningen inom en vecka från ansökningen.\n\nAlternativt kan du beräkna ditt försäljningspris på grundval av det gällande gränspriset per kvadratmeter. I detta fall behöver du inte ansöka om fastställande av maximipriset. \n\nEn Hitas-bostad kan endast försäljas till en fysisk person, inte exempelvis till ett företag.\n",
+            "description_long": "När du säljer din Hitas-bostad, kan du bestämma bostadens försäljningspris på två sätt: antingen som fast maximipris eller som skuldfritt gränspris per kvadratmeter.\n\nDet fasta maximipriset är en fastslagen övre prisgräns för varje Hitas-bostad som inte får överstigas. För att få fram priset måste du be boendetjänster om en beräkning av maximipriset. Du får beräkningen inom en vecka från ansökningen.\n\nAlternativt kan du beräkna ditt försäljningspris på grundval av det gällande gränspriset per kvadratmeter. I detta fall behöver du inte ansöka om fastställande av maximipriset. \n\nHitas-bostäderna är avsedda för fysiska personer, inte exempelvis till ett företag.\n",
             "provided_languages": [
                 "fi",
                 "sv"
