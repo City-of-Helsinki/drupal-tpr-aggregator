@@ -52384,7 +52384,7 @@
                     "id": 837,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Tarkastele pysäköintivirheen tietoja ja tee oikaisuvaatimus",
+                    "name": "Tarkastele pysäköintivirhettä, tee oikaisuvaatimus tai tutustu päätökseen",
                     "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
                     "provided_languages": [
                         "en",
@@ -52401,7 +52401,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Tee oikaisuvaatimus asiointipalveluun",
+                            "title": "Siirry Pysäköinnin asiointiin",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi\/",
                             "file_format": "HTML"
                         }
@@ -52453,7 +52453,7 @@
                     "id": 837,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "View the parking fine information and make a rectification claim",
+                    "name": "Review your parking violation, submit a claim for rectification or view a decision",
                     "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
                     "provided_languages": [
                         "en",
@@ -52470,7 +52470,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Make a rectification claim in e-services",
+                            "title": "Go to Parking e-services",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
                         }
@@ -52522,7 +52522,7 @@
                     "id": 837,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Kontrollera uppgifterna angående felparkeringsavgiften, samt gör rättelseyrkan",
+                    "name": "Granska parkeringsfelet, gör en begäran om omprövning eller ta del av beslutet",
                     "authorization_code": "Pysäköintivirhemaksuasioiden hoitaminen",
                     "provided_languages": [
                         "en",
@@ -52539,7 +52539,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gör rättelseyrkan i e-tjänsten",
+                            "title": "Gå till parkerings e-tjänst",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
                         }
