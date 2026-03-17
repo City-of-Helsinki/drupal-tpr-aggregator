@@ -11907,9 +11907,9 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Hakemus asuntotontin lyhytaikaisesta vuokrauksesta (docx)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx",
-                            "file_format": "WORD"
+                            "title": "Hakemus asuntotontin lyhytaikaisesta vuokrauksesta (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -13046,9 +13046,9 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Hakemus valtakirjan ja pitkäaikaisen vuokrasopimuksen hakemista varten (docx)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.docx",
-                            "file_format": "WORD"
+                            "title": "Hakemus valtakirjan ja pitkäaikaisen vuokrasopimuksen hakemista varten (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.pdf",
+                            "file_format": "PDF"
                         }
                     ],
                     "availabilities": [
@@ -52539,6 +52539,207 @@
                             "title": "Gå till parkerings e-tjänst",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi",
                             "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5905,
+        "fi": {
+            "id": 5905,
+            "exact_descriptions": [
+                10388
+            ],
+            "service_id": 10608,
+            "type": "APPLICATION",
+            "name": "Oikaisuvaatimus pysäköintivirhemaksusta",
+            "name_synonyms": "Pysäköintivirhemaksun oikaisuvaatimus",
+            "description": "Voit tarkastella Pysäköinnin asiointi -palvelussa saamasi pysäköintivirhemaksun syytä ja mahdollisia valokuvia. \n\nJos pysäköintivirhemaksu on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen. Oikaisuvaatimus on tehtävä 30 päivän kuluessa. Virhemaksua ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana. Saat päätöksen noin 4 kuukaudessa.\n\nTee oikaisuvaatimus pysäköinnin asiointipalvelussa. Vaihtoehtoisesti voit toimittaa sen Kaupunkiympäristön asiakaspalveluun henkilökohtaisesti, postitse tai sähköpostitse osoitteeseen pysakointi@hel.fi. Asiakaspalvelun yhteystiedot löydät sivun lopusta. \n\nOikaisuvaatimuksessa on mainittava \n- muutoksenhakijan nimi ja osoite \n- ajoneuvon rekisteritunnus \n- pysäköintivirhemaksun asianumero \n\nLiitä mukaan asiakirjat, joilla perustelet vaatimustasi. Teethän jokaisesta pysäköintivirhemaksusta oman oikaisuvaatimuksen. \n",
+            "information": "Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi. \n\nOikaisuvaatimuksen käsittelyn jälkeen hävitämme lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Kaupunkiympäristön asiakaspalvelu",
+                    "url": "https:\/\/www.hel.fi\/fi\/kaupunkiymparisto-ja-liikenne\/kaupunkiympariston-asiakaspalvelu"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Lähetä suojattua sähköpostia kaupungille",
+                    "url": "https:\/\/securemail.hel.fi\/?recipient=pysakointi@hel.fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4564,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tarkastele pysäköintivirhettä, tee oikaisuvaatimus tai tutustu päätökseen",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Pysäköinnin asiointiin",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5905,
+            "exact_descriptions": [
+                10388
+            ],
+            "service_id": 10608,
+            "type": "APPLICATION",
+            "name": "Contesting a parking fine",
+            "name_synonyms": "Rectification request of a parking fine",
+            "description": "In the Parking e-services, you can view the reason for your parking fine and any photos taken. \n\nIf you think that the parking fine you have received is unfounded, you can contest it by submitting a claim for rectification within 30 days. You do not have to pay the fine while your claim is being processed. You will receive a decision in approximately 4 months.  \n\nSubmit a claim for rectification via the Parking e-services. Alternatively, you can submit it to the Urban Environment Division's customer service in person, by post or by email to pysakointi@hel.fi. You can find the customer service contact information at the bottom of the page. \n\nThe claim for rectification must include \n\n- your name and address \n- the licence plate number of the vehicle in question \n- the case number on the parking fine. \n\nPlease also attach any documents that support your claim. Please submit a separate claim for each parking fine.",
+            "information": "Please always use secure email when sending personal data.\n\nAfter processing your claim, we will destroy any attachments you have sent that concern your state of health or financial situation, for example.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Urban Environment Division, Customer Services",
+                    "url": "https:\/\/www.hel.fi\/en\/urban-environment-and-traffic\/urban-environment-division-customer-services"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Send secure email to the city.",
+                    "url": "https:\/\/securemail.hel.fi\/?lang=en&recipient=pysakointi@hel.fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4564,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Review your parking violation, submit a claim for rectification or view a decision",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to Parking e-services",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5905,
+            "exact_descriptions": [
+                10388
+            ],
+            "service_id": 10608,
+            "type": "APPLICATION",
+            "name": "Begäran om omprövning av felparkeringsavgift",
+            "name_synonyms": "Omprövningsbegäran om felparkeringsavgift",
+            "description": "Du kan läsa om orsaken till felparkeringsavgiften och se eventuella fotografier som du fått i parkeringens e-tjänst. \n\nOm du anser att felparkeringsavgiften är obefogad, kan du göra en begäran om omprövning. En begäran om omprövning ska göras inom 30 dagar. Du behöver inte betala felparkeringsavgiften under handläggningen av begäran om omprövning. Du får ett beslut inom cirka 4 månader.  \n\nGör begäran om omprövning i parkeringens e-tjänst. Alternativt kan du lämna in den till stadsmiljösektorns kundtjänst personligen, per post eller per e-post till pysakointi@hel.fi. Kundtjänstens kontaktuppgifter hittar du i slutet av sidan. \n\nOmprövningsbegäran ska innehålla \n\n- ändringssökandens namn och adress\n- fordonets registernummer\n- felparkeringsavgiftens nummer. \n\nBifoga de handlingar som motiverar ditt krav. Gör en separat begäran om omprövning för varje felparkeringsavgift.",
+            "information": "Vänligen använd alltid skyddad e-post när du skickar personuppgifter.\n\nEfter att begäran om omprövning har handlagts kasserar vi dina bilagor om exempelvis hälsotillstånd eller ekonomisk situation.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Stadsmiljösektorns kundtjänst",
+                    "url": "https:\/\/www.hel.fi\/sv\/stadsmiljo-och-trafik\/stadsmiljosektorns-kundtjanst"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Skicka skyddad e-post till staden.",
+                    "url": "https:\/\/securemail.hel.fi\/?lang=sv&recipient=pysakointi@hel.fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4564,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Granska parkeringsfelet, gör en begäran om omprövning eller ta del av beslutet",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gå till parkerings e-tjänst",
+                            "url": "https:\/\/pysakoinninasiointi.hel.fi"
                         }
                     ],
                     "availabilities": [
