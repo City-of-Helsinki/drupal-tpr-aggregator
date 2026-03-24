@@ -18169,7 +18169,7 @@
             "service_id": 10115,
             "type": "APPLICATION",
             "name": "Helsinki-lisän hakeminen",
-            "description": "Hae Helsinki-lisää sähköisessä asiointipalvelussa tai lomakkeella liitteineen.",
+            "description": "Täytä hakemus Helsinki-lisän asiointipalvelussa tai lomakkeella. Liitä tarvittavat liitteet.",
             "process_description": "1. Työllistä helsinkiläinen työtön.\n2. Varmista, että Helsinki-lisän myöntämisen ehdot täyttyvät.\n3. Täytä Helsinki-lisä-hakemus. Voit hakea Helsinki-lisää sähköisessä asiointipalvelussa tai hakemuslomakkeella. Liitä hakemukselle tarvittavat liitteet.\n4. Saat tiedon päätöksestä paperikirjeenä postitse.\n5. Kaupunki maksaa Helsinki-lisän työnantajalle.\n6. Ilmoita mahdollisista työsuhteen muutoksista.",
             "processing_time": "Hakemuksen käsittelyaika on noin neljä viikkoa.",
             "provided_languages": [
@@ -18194,8 +18194,8 @@
                     "id": 3308,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Vaihtoehtoisesti lataa ja täytä hakulomake",
-                    "prerequisites": "Lähetä täytetty hakemus liitteineen suojatun yhteyden https:\/\/suojattusahkoposti.hel.fi\/\nkautta osoitteeseen helsinkilisa@hel.fi. \n\nTarvittaessa voit toimittaa täytetyn hakemuksen liitteineen postitse osoitteeseen Työllisyyspalvelut, Helsinki-lisä, PL 70, 00099 Helsingin kaupunki.",
+                    "name": "Lataa ja täytä Helsinki-lisän hakulomake",
+                    "prerequisites": "Lähetä täytetty Helsinki-lisän hakulomake liitteineen suojatun yhteyden https:\/\/suojattusahkoposti.hel.fi\/ kautta osoitteeseen helsinkilisa@hel.fi. \n\nTarvittaessa voit toimittaa täytetyn hakemuksen liitteineen postitse osoitteeseen: Työllisyyspalvelut, Helsinki-lisä, PL 70, 00099 Helsingin kaupunki.",
                     "information": "",
                     "provided_languages": [
                     ],
