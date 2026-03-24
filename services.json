@@ -21151,7 +21151,7 @@
             "id": 8738,
             "main_description": false,
             "service_id": 10117,
-            "title": "Helsinki-lisä työnantajille",
+            "title": "Helsinki-lisä työnantajalle",
             "description_short": "Helsinki-lisä on Helsingin kaupungin harkinnanvarainen taloudellinen tuki yksityisen ja kolmannen sektorin työnantajalle, joka palkkaa työttömän helsinkiläisen.\n\n",
             "description_long": "Helsinki-lisän tarkoituksena on edistää työttömien helsinkiläisten työllistymistä. Tukea myönnetään yksityisen ja kolmannen sektorin työnantajille palkkauskustannuksiin. Tukea voi saada työttömän helsinkiläisen työllistämiseen, joka on ollut työtön vähintään 3 kuukautta ja jonka palvelutarve on arvioitu Helsingin työllisyyspalveluissa. \n \nHelsinki-lisää ei voi saada samaan työsuhteeseen palkkatuen ja 55 vuotta täyttäneiden työllistämistuen kanssa. \n\nHelsinki-lisää maksetaan 50 % palkkauskustannuksista, korkeintaan 1500 € kuukaudessa. Tukea voi saada enintään 12 kuukauden ajalle. Oppisopimuksessa tukea voidaan myöntää koko oppisopimuksen ajalle.",
             "availability_summary": "Hae Helsinki-lisää viimeistään 4 kuukauden kuluessa työsuhteen alkamisesta. Määräajan jälkeen saapuneisiin hakemuksiin tukea voidaan myöntää enintään 4 kuukautta takautuvasti saapumispäivästä.",
@@ -21190,7 +21190,7 @@
             "id": 8738,
             "main_description": false,
             "service_id": 10117,
-            "title": "Helsinki benefit for employers",
+            "title": "Helsinki benefit for employer",
             "description_short": "The Helsinki benefit is a form of discretionary financial support granted by the City of Helsinki to private and third-sector employers for hiring a long-term unemployed Helsinki resident. The employer can apply for the Helsinki benefit as an independent employment support starting from 1 January 2026.",
             "description_long": "The purpose of the Helsinki benefit is to support the employment of unemployed Helsinki residents. The benefit can be granted for hiring an unemployed Helsinki resident who has been unemployed for a minimum of three months and whose need for services has been evaluated by Helsinki Employment Services.\n\nThe Helsinki benefit covers 50% of the hiring expenses, at most EUR 1500 per month. The benefit may be granted for a maximum period of 12 months. In the case of an apprenticeship, the benefit can be granted for the entire duration of the apprenticeship period.\n",
             "availability_summary": "The Helsinki benefit must be applied for no later than within four (4) months of the start of the employment relationship. If the application is submitted after this deadline, the benefit can be granted retroactively for up to four (4) months from the arrival date of the application.",
@@ -44014,6 +44014,7 @@
             "name_synonyms": "Virastot, toimialat, hallinto",
             "description_short": "Helsingin kaupungilla on toimipisteitä, joissa on kaupungin hallinnollista toimintaa. Osassa näistä toimipisteistä on myös asiakaspalvelupiste.",
             "description_long": "Helsingin kaupungin keskushallinnon, toimialojen ja viraston vastuualueet:\n\nKaupunginkanslian tehtävänä on toimia kaupunginvaltuuston ja kaupunginhallituksen yleisenä suunnittelu-, valmistelu- ja toimeenpanoelimenä sekä vastata kaupungin kehittämisestä.\n\nKasvatuksen ja koulutuksen toimiala huolehtii kaupungin varhaiskasvatuksesta, esiopetuksesta, perusopetuksesta ja lukiokoulutuksesta, suomenkielisestä ammatillisesta koulutuksesta sekä vapaasta sivistystyöstä.\n \nKaupunkiympäristön toimiala huolehtii kaupunkiympäristön suunnittelusta, rakentamisesta ja ylläpidosta.\n\nKulttuurin ja vapaa-ajan toimiala ylläpitää ja parantaa eri-ikäisten helsinkiläisten mahdollisuuksia hyvinvointiin, sivistymiseen sekä aktiiviseen kansalaisuuteen.\n\nSosiaali-​​, terveys-​​ ja pelastustoimialan tehtävänä on tuottaa hyvinvointia, terveyttä ja turvallisuutta helsinkiläisille.\n\nTarkastusvirasto arvioi suoraan kaupunginvaltuuston ja tarkastuslautakunnan alaisena kaupunginvaltuuston asettamien tavoitteiden toteutumista.",
+            "user_instruction": "Hallinnolliset toimipisteet eivät ole tarkoitettu kuntalaisille.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -65111,6 +65112,108 @@
         }
     },
     {
+        "id": 9603,
+        "fi": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
+            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
+            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
+            "description_short": "You can receive support from us until you turn 23.",
+            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
+            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
+            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 2921,
         "fi": {
             "id": 2921,
@@ -65216,108 +65319,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 9603,
-        "fi": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
-            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
-            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
-            "description_short": "You can receive support from us until you turn 23.",
-            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
-            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
-            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
             ],
             "links": [
             ],
@@ -80941,93 +80942,6 @@
         }
     },
     {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -81143,6 +81057,93 @@
             "unit_ids": [
                 9301,
                 63087
+            ]
+        }
+    },
+    {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
             ]
         }
     },
