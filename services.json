@@ -21050,7 +21050,7 @@
             "main_description": false,
             "service_id": 10117,
             "title": "Helsinki-lisä työnantajalle",
-            "description_short": "Helsinki-lisä on Helsingin kaupungin harkinnanvarainen taloudellinen tuki yksityisen ja kolmannen sektorin työnantajalle, joka palkkaa työttömän helsinkiläisen.\n\n",
+            "description_short": "Helsinki-lisä on Helsingin kaupungin harkinnanvarainen tuki työnantajalle, joka palkkaa työttömän helsinkiläisen.\n\n",
             "description_long": "Helsinki-lisän tarkoituksena on edistää työttömien helsinkiläisten työllistymistä. Tukea myönnetään yksityisen ja kolmannen sektorin työnantajille palkkauskustannuksiin. Tukea voi saada työttömän helsinkiläisen työllistämiseen, joka on ollut työtön vähintään 3 kuukautta ja jonka palvelutarve on arvioitu Helsingin työllisyyspalveluissa. \n \nHelsinki-lisää ei voi saada samaan työsuhteeseen palkkatuen ja 55 vuotta täyttäneiden työllistämistuen kanssa. \n\nHelsinki-lisää maksetaan 50 % palkkauskustannuksista, korkeintaan 1500 € kuukaudessa. Tukea voi saada enintään 12 kuukauden ajalle. Oppisopimuksessa tukea voidaan myöntää koko oppisopimuksen ajalle.",
             "availability_summary": "Hae Helsinki-lisää viimeistään 4 kuukauden kuluessa työsuhteen alkamisesta. Määräajan jälkeen saapuneisiin hakemuksiin tukea voidaan myöntää enintään 4 kuukautta takautuvasti saapumispäivästä.",
             "prerequisites": "Työnantajalle, joka palkkaa työttömän helsinkiläisen.",
@@ -51614,7 +51614,9 @@
             "service_id": 10394,
             "title": "Kuraattori",
             "description_short": "Kuraattori auttaa ja tukee oppilaita ja heidän perheitään sosiaalityön keinoin.",
-            "description_long": "Kuraattori auttaa ja tukee oppilaita ja heidän perheitään sosiaalityön keinoin. Kuraattorilta saa apua, kun lapsella tai nuorella on pulmia koulunkäynnissä, kaverisuhteissa tai hänen elämässään tapahtuu koulunkäyntiin vaikuttavia muutoksia.\n\nVanhemmat voivat keskustella kuraattorin kanssa myös perheeseen liittyvistä asioista. Pulmatilanteita ratkotaan yhdessä vanhempien ja koulun muiden aikuisten kanssa. Tarvittaessa tehdään yhteistyötä alueen lastensuojelun, perheneuvolan ja terveydenhuollon kanssa. Kaikissa kaupungin peruskouluissa työskentelee kuraattori.\n\nOppilas itse, huoltaja tai opettaja voi ottaa yhteyttä kuraattoriin. Kuraattorin yhteystiedot löytyvät jokaisen koulun kotisivuilta.",
+            "description_long": "Kuraattori auttaa ja tukee oppilaita ja heidän perheitään sosiaalityön keinoin. Kuraattorilta saa apua, kun lapsella tai nuorella on pulmia koulunkäynnissä, kaverisuhteissa tai hänen elämässään tapahtuu koulunkäyntiin vaikuttavia muutoksia.\n\nHuoltajat voivat keskustella kuraattorin kanssa myös perheeseen liittyvistä asioista. Pulmatilanteita ratkotaan yhdessä huoltajien ja koulun muiden aikuisten kanssa. Tarvittaessa kuraattori ohjaa oppilaan tai perheen koulun ulkopuolisten palvelujen piiriin. Kuraattorin palvelut ovat oppilaalle vapaaehtoisia.\n\nOppilas itse, huoltaja tai opettaja voivat ottaa yhteyttä kuraattoriin. Kuraattorin yhteystiedot löytyvät jokaisen koulun verkkosivuilta.",
+            "availability_summary": "Lukuvuoden aikana, koulupäivinä. Loma-aikoina sovitusti.",
+            "user_instruction": "Oppilas voi ottaa yhteyttä oman koulun kuraattoriin sähköisessä Aula-palvelussa, Wilmassa, puhelimitse tai käymällä paikan päällä. Huoltaja voi ottaa yhteyttä Wilman kautta tai puhelimitse. Yhteystiedot löytyvät koulujen verkkosivuilta.",
             "general_description_id": "dce580aa-1370-48db-af5a-7f04fe32b23f",
             "provided_languages": [
                 "fi",
@@ -51639,9 +51641,17 @@
                     "type": "INTERNET",
                     "title": "Kouluhaku",
                     "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/peruskoulut"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kuraattori- ja psykologipalvelut -verkkosivu",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/tukea-oppimiseen-ja-hyvinvointiin\/kuraattori-ja-psykologipalvelut"
                 }
             ],
             "availabilities": [
+                {
+                    "availability_string": "Lukuvuoden aikana, koulupäivinä. Loma-aikoina sovitusti."
+                }
             ],
             "unit_ids": [
             ]
@@ -51658,8 +51668,11 @@
             "main_description": true,
             "service_id": 10397,
             "title": "Koulupsykologi",
-            "description_short": "Kaikissa kaupungin peruskouluissa työskentelee koulupsykologi, joka tekee psykologisia arviointeja, konsultoi ja antaa neuvontaa.",
-            "description_long": "Koulupsykologi tekee psykologisia arviointeja, konsultoi ja antaa neuvontaa. Tavoitteena on lisätä vanhempien, lapsen ja opettajien ymmärrystä, tietoa ja kokonaiskäsitystä tilanteesta ja auttaa heitä suunnittelemaan tukitoimia.\n\nPsykologi kirjoittaa tarvittavat lausunnot opetusjärjestelyjä tai jatkotutkimuksia ja hoitoja varten. Kaikissa kaupungin peruskouluissa työskentelee koulupsykologi. Psykologin yhteystiedot löytyvät jokaisen koulun kotisivuilta. \n\nKoulupsykologi auttaa oppilasta, oppimisvaikeuksissa, tarkkaavaisuuden ja työskentelyn pulmissa, tunne-elämän kehityksen solmukohdissa, omassa tai perheen kriisissä, vuorovaikutusongelmissa tai kun on tarvetta opetusjärjestelyille.",
+            "description_short": "Psykologi auttaa oppilaita oppimisvaikeuksissa, keskittymisen ja käyttäytymisen pulmissa sekä tunne-elämän haasteissa.",
+            "description_long": "Psykologi auttaa oppimisvaikeuksissa, keskittymisen ja käyttäytymisen pulmissa sekä tunne-elämän haasteissa. Psykologi tekee psykologisia tutkimuksia ja arvioita, konsultoi ja antaa neuvontaa. \n\nLisäksi psykologi osallistuu koulun tukitoimien suunnittelemiseen ja toimii kouluyhteisössä lapsen psyykkisen kehityksen sekä kognitiivisten ja psyykkisten ongelmien asiantuntijana. \nTyön tavoitteena on lisätä lapsen, nuoren, huoltajien ja opettajien ymmärrystä lapsen tai nuoren tilanteesta ja haasteista sekä auttaa suunnittelemaan tarvittavaa tukea. \n\nTarvittaessa psykologi ohjaa oppilaan koulun ulkopuolisten palvelujen piiriin.\n\n",
+            "availability_summary": "Lukuvuoden aikana, koulupäivinä.",
+            "information": "Psykologien yhteystiedot löytyvät koulujen verkkosivuilta.",
+            "user_instruction": "Oppilas voi ottaa yhteyttä oman koulun psykologiin sähköisessä Aula-palvelussa, Wilmassa, puhelimitse tai käymällä paikan päällä. Huoltaja voi ottaa yhteyttä Wilman kautta tai puhelimitse. Yhteystiedot löytyvät koulujen verkkosivuilta.",
             "general_description_id": "8e9d17ec-7adc-450c-8e21-50b5759d6966",
             "provided_languages": [
                 "fi",
@@ -51684,9 +51697,17 @@
                     "type": "INTERNET",
                     "title": "Kouluhaku",
                     "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/peruskoulut"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Kuraattori- ja psykologipalvelut -verkkosivu",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/tukea-oppimiseen-ja-hyvinvointiin\/kuraattori-ja-psykologipalvelut"
                 }
             ],
             "availabilities": [
+                {
+                    "availability_string": "Lukuvuoden aikana, koulupäivinä."
+                }
             ],
             "unit_ids": [
             ]
@@ -81044,87 +81065,6 @@
         }
     },
     {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5236,
         "fi": {
             "id": 5236,
@@ -81211,6 +81151,87 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -115655,6 +115676,133 @@
         }
     },
     {
+        "id": 10129,
+        "fi": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Kirjaston lukusalit",
+            "name_synonyms": "hh_kul",
+            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
+            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "en": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Library reading rooms",
+            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
+            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "sv": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Bibliotekets läsesalar",
+            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
+            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        }
+    },
+    {
         "id": 7589,
         "fi": {
             "id": 7589,
@@ -115874,133 +116022,6 @@
                 8369,
                 10037,
                 45317,
-                51342
-            ]
-        }
-    },
-    {
-        "id": 10129,
-        "fi": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Kirjaston lukusalit",
-            "name_synonyms": "hh_kul",
-            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
-            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "en": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Library reading rooms",
-            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
-            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "sv": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Bibliotekets läsesalar",
-            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
-            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
                 51342
             ]
         }
