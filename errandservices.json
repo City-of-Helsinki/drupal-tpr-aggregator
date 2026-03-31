@@ -73901,8 +73901,8 @@
             "service_id": 10771,
             "type": "ADVICE",
             "name": "Terveysneuvonta, asiointipalvelut",
-            "description": "Terveysneuvontaa saa vuorokauden ympäri terveysasemien chatbotista, Omaolo-palvelusta ja terveysneuvontapuhelimesta.",
-            "process_description": "Saat terveysneuvontaa vuorokauden ympäri terveysasemien chatbotista, Omaolo-palvelusta ja terveysneuvontapuhelimesta.\n\n- Terveysasemien chatbot ohjaa hakemaan terveyspalveluja oikeasta paikasta ja neuvoo myös hammashoitoon, mielenterveyteen, päihteisiin ja sosiaalipalveluihin liittyvissä asioissa. Tarvittaessa chatbot yhdistää sinut esimerkiksi kaupungin sähköiseen asiointiin, Omaoloon, Omakantaan tai sosiaalineuvonnan chattiin. Chatbot on jokaisen terveysaseman sivulla.\n\nTai\n\n- Voit arvioida hoidon tarvetta ja hakea hoito-ohjeita Omaolo-palvelussa.\n\nTai\n\n- Kiireellisessä asiassa oman terveysaseman ollessa suljettu soita Päivystysavun numeroon 116 117.\n\nTai\n\n- Soita terveysneuvonnan numeroon 09 310 10023, kun sinulla on terveyteen tai terveyspalveluihin liittyviä kysymyksiä.\n",
+            "description": "Saat terveysneuvontaa vuorokauden ympäri sosiaali- ja terveyspalvelujen chattibotista sekä Omaolo- ja Terveyskylä-verkkopalveluista.",
+            "process_description": "- Sosiaali- ja terveyspalvelujen chattibotti ohjaa hakemaan terveyspalveluja oikeasta paikasta ja neuvoo myös hammashoitoon, mielenterveyteen, päihteisiin ja sosiaalipalveluihin liittyvissä asioissa. Chattibotin sekä hammashoidon ja neuvolan livechatit löydät mm. sosiaali- ja terveyspalvelujen sivun alalaidasta Chat-nappulan takaa.\n\n- Voit arvioida hoidon tarvetta ja hakea hoito-ohjeita Omaolo-palvelussa.\n\n- Kiireellisessä asiassa oman terveysaseman ollessa suljettu soita Päivystysavun numeroon 116 117.\n",
             "information": "Palvelu on tarkoitettu helsinkiläisille.",
             "provided_languages": [
                 "fi",
@@ -73919,39 +73919,12 @@
             ],
             "channels": [
                 {
-                    "id": 2459,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Terveysneuvontapuhelin",
-                    "prerequisites": "Palvelu on tarkoitettu helsinkiläisille.",
-                    "information": "Soita terveysneuvonnan numeroon 09 310 10023, kun sinulla on kiireettömiä terveyteen tai terveyspalveluihin liittyviä kysymyksiä.\nHuom! Kiireetön terveysneuvontapuhelin (09) 310 10023 on suljettu 22.12.2025-9.1.2026.",
-                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
-                    "phone": "0931010023",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
-                        }
-                    ]
-                },
-                {
                     "id": 2726,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Terveysasemien chatbot",
+                    "name": "Chattibotti ja livechatit",
                     "prerequisites": "Palvelu on tarkoitettu helsinkiläisille.",
-                    "information": "Terveysasemien chatbot ohjaa hakemaan terveyspalveluja oikeasta paikasta ja neuvoo myös hammashoitoon, mielenterveyteen, päihteisiin ja sosiaalipalveluihin liittyvissä asioissa. Tarvittaessa chatbot yhdistää sinut esimerkiksi kaupungin sähköiseen asiointiin, Omaoloon, Omakantaan tai sosiaalineuvonnan chattiin. Chatbot on jokaisen terveysaseman sivulla.\n",
+                    "information": "Sosiaali- ja terveyspalvelujen chattibotti ohjaa hakemaan terveyspalveluja oikeasta paikasta ja neuvoo myös hammashoitoon, mielenterveyteen, päihteisiin ja sosiaalipalveluihin liittyvissä asioissa. Chattibotin sekä hammashoidon ja neuvolan livechatit löydät mm. sosiaali- ja terveyspalvelujen sivun alalaidasta Chat-nappulan takaa.\n",
                     "availability_summary": "Avoinna joka päivä",
                     "provided_languages": [
                         "fi"
@@ -73966,8 +73939,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Terveysasemat",
-                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/terveydenhoito\/terveysasemat",
+                            "title": "Sosiaali- ja terveyspalvelut",
+                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut",
                             "file_format": "HTML"
                         }
                     ],
