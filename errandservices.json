@@ -55233,6 +55233,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -55254,7 +55255,7 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
                         {
@@ -55276,7 +55277,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Contact housing health advisory service",
-            "description": "We advise you on matters related to indoor air and noise nuisances in your home by telephone and email.",
+            "description": "We advise you on matters related to indoor air and noise nuisances in your home. Please first read the instructions on our website and, if necessary, contact our advisory service by phone or online.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -55286,6 +55287,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -55296,6 +55298,7 @@
                     "id": 4565,
                     "type": "WEBPAGE",
                     "type_string": "Webpage",
+                    "name": "Read the instructions and contact the Housing Health Advisory Service",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -55306,9 +55309,14 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Read the instructions for determining health hazards in your home",
+                            "url": "https:\/\/www.hel.fi\/en\/housing\/housing-and-health\/determining-health-hazards-in-your-home"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -55323,7 +55331,7 @@
             "service_id": 10876,
             "type": "ADVICE",
             "name": "Kontakta rådgivningen om boendehälsa",
-            "description": "Vi ger dig råd kring problem med inomhusluften eller bullerolägenheter i bostaden per telefon och via e-post.",
+            "description": "Vi ger dig råd kring problem med inomhusluften eller bullerolägenheter i bostaden. Bekanta dig först med anvisningarna på vår webbplats. Vid behov kan du kontakta rådgivningen per telefon eller via våra e‑tjänster.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -55333,6 +55341,7 @@
                 "85080572-9a95-4a18-be6b-5bc306eb3d85"
             ],
             "target_groups": [
+                "INDIVIDUALS"
             ],
             "life_events": [
             ],
@@ -55343,6 +55352,7 @@
                     "id": 4565,
                     "type": "WEBPAGE",
                     "type_string": "Webbsida",
+                    "name": "Ta del av anvisningarna och kontakta rådgivningen för boendehälsa",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -55353,9 +55363,14 @@
                     "e_processing": false,
                     "e_decision": false,
                     "payment_enabled": false,
-                    "for_personal_customer": false,
+                    "for_personal_customer": true,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Läs anvisningarna om hur man utreder sanitär olägenhet i bostaden",
+                            "url": "https:\/\/www.hel.fi\/sv\/boende\/boende-och-halsa\/utredning-av-sanitara-olagenheter-i-bostader"
+                        }
                     ],
                     "availabilities": [
                     ]
