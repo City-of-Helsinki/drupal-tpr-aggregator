@@ -92094,7 +92094,7 @@
             "title": "Terveyspalvelujen neuvonta",
             "name_synonyms": "terveyspalvelujen neuvonta, terveysneuvontapuhelin, terveyspalvelujen chatbot, terveysasemien chatbot, chat, botti, omaolo",
             "description_short": "Huolettaako oma terveys? Etkö tiedä mistä voisit lähteä hakemaan apua? Saat kiireetöntä terveyspalveluiden neuvontaa verkosta ja eri palveluistamme.",
-            "description_long": "Kiireetöntä terveysneuvontaa helsinkiläisille tarjoavat Omaolo- ja Terveyskylä-verkkopalvelut, sosiaali- ja terveyspalvelujen chattibotti sekä terveysasemat, koulu- ja opiskeluterveydenhuolto ja mielenterveyspalvelupiste Mieppi.\n\nKiireellisissä asioissa helsinkiläisiä palvelevat arkisin terveysasemat ja iltaisin ja viikonloppuisin Päivystysapu, p. 116 117. Henkeä uhkaavissa tilanteissa soita hätänumeroon 112.   \n",
+            "description_long": "Kiireetöntä terveysneuvontaa helsinkiläisille tarjoavat Omaolo- ja Terveyskylä-verkkopalvelut, sosiaali- ja terveyspalvelujen chattibotti sekä terveysasemat, koulu- ja opiskeluterveydenhuolto ja mielenterveyspalvelupiste Mieppi.\n\nKiireellisissä asioissa helsinkiläisiä palvelevat arkisin terveysasemat ja iltaisin ja viikonloppuisin Päivystysapu, p. 116 117.\n\nHenkeä uhkaavissa tilanteissa soita hätänumeroon 112.   \n",
             "prerequisites": "Palvelu on tarkoitettu helsinkiläisille.",
             "information": "",
             "general_description_id": "af948b97-2f61-4545-bd38-374303e09c9e",
@@ -92130,8 +92130,8 @@
             "service_id": 10771,
             "title": "Rådgivning om hälso- och sjukvårdstjänster",
             "name_synonyms": "information om hälsovårdstjänster, rådgiving om hälsotjänster, rådgivningstelefon",
-            "description_short": "Är du orolig för din hälsa? Vet du inte var du kan få hjälp? Hos oss kan du få hälsorådgivning på nätet och om våra olika tjänster.",
-            "description_long": "Hälso- och sjukvårdstjänsternas rådgivning hjälper dig i frågor om hälsa och service, när ditt ärende inte är akut.",
+            "description_short": "Är du orolig för din hälsa? Vet du inte var du kan få hjälp? Hos oss kan du få hälsorådgivning på webben och om våra olika tjänster.",
+            "description_long": "Hälsorådgivning för Helsingforsbor erbjuds på webben på Omaolo och Hälsobyn samt på Helsingfors social- och hälsovårdstjänsters webbplats (hel.fi\/social-och-halsovardstjanster) och chatboten där.\n\nDu får även icke-brådskande hälsorådgivning av hälsostationerna, skol- och studerandehälsovården, Mieppi-mentalvårdstjänsterna och Seniorinfo (hel.fi\/seniorinfo).\n\nPå vardagar får du brådskande vård av hälsostationerna. Under kvällar, nätter och helger får du hjälp och råd i brådskande ärenden av Jourhjälpen, som har öppet dygnet runt, tfn 116 117.\n\nI livshotande situationer, ring nödnumret 112.",
             "availability_summary": "Dygnet-runt service.",
             "prerequisites": "Tjänsten är avsedd för helsingforsbor.",
             "general_description_id": "af948b97-2f61-4545-bd38-374303e09c9e",
@@ -115981,6 +115981,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -116129,70 +116193,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
