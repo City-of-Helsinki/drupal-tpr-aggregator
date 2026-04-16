@@ -1876,11 +1876,12 @@
             "id": 3410,
             "main_description": false,
             "service_id": 10004,
-            "title": "Suomi tai ruotsi toisena kielenä -oppimäärä (S2)",
+            "title": "Suomi tai ruotsi toisena kielenä -oppimäärä (S2\/R2)",
             "name_synonyms": "S2-opetus",
-            "description_short": "Suomi\/ruotsi toisena kielenä ja kirjallisuus (S2) -opetusta tarjotaan oppilaille, joiden suomen tai ruotsin kielen taito ei vielä riitä suomen\/ruotsin kieli ja kirjallisuus -oppimäärän opiskeluun.",
-            "description_long": "Suomi\/ruotsi toisena kielenä ja kirjallisuus (S2) -opetusta tarjotaan oppilaille, joiden suomen tai ruotsin kielen taito ei vielä riitä suomen\/ruotsin kieli ja kirjallisuus -oppimäärän opiskeluun. Oppilas opiskelee S2-oppimäärän mukaisesti joko kokonaan tai osittain suomen\/ruotsin kieli ja kirjallisuus -oppimäärän sijaan. S2-oppimäärän opiskelu ei lisää oppilaan tuntimäärää. \n\nOpetus ei ole tuki- tai erityisopetusta.\n\nMiten S2-opetukseen hakeudutaan:\n\n1. Opettajat huomaavat, että oppilas tarvitsee S2-opetusta ja ottavat asian puheeksi huoltajien kanssa.\n\n2. Oppilaan huoltaja päättää S2-oppimäärästä ja täyttää S2-opetuslomakkeen.\n\nS2-oppimäärä tukee oppilasta jatko-opintoihin suomen tai ruotsin kielellä. \n\nOppilas opiskelee S2-oppimäärän mukaisesti niin kauan, kunnes hän pystyy opiskelemaan suomen\/ruotsin kieli ja kirjallisuus -oppimäärän mukaisesti. \n",
-            "prerequisites": "Huoltaja päättää, opiskeleeko oppilas S2-oppimäärän mukaan.",
+            "description_short": "Suomi\/ruotsi toisena kielenä ja kirjallisuus (S2\/R2) -oppimäärän opetusta tarjotaan oppilaille, joiden suomen tai ruotsin kielen taito ei vielä riitä suomen\/ruotsin kieli ja kirjallisuus (S1\/R1) -oppimäärän opiskeluun.",
+            "description_long": "Suomi\/ruotsi toisena kielenä ja kirjallisuus -opinnot on yksi tapa suorittaa äidinkieli ja kirjallisuus -oppiaine. Oppilas opiskelee S2\/R2-oppimäärän mukaisesti joko koko perusopetuksen ajan tai osan siitä. Tavoitteena on siirtyä S1\/R1-oppimäärään perusopetuksen aikana. S2\/R2-oppimäärän opiskelu ei lisää oppilaan tuntimäärää. \n\nOpetus ei ole tuki- tai erityisopetusta. Oppilas voi opiskella S2\/R2-oppimäärän mukaisesti niin kauan, kunnes hän pystyy opiskelemaan suomen\/ruotsin kieli ja kirjallisuus -oppimäärän mukaisesti. \n\nS2\/R2-oppimäärä tukee oppilasta jatko-opintoihin suomen tai ruotsin kielellä.",
+            "prerequisites": "Huoltaja päättää, opiskeleeko oppilas S2\/R2-oppimäärän mukaan.",
+            "user_instruction": "Lasta opettavat opettajat arvioivat oppilaan kielellistä osaamista kielen eri osa-alueilla ja suosittelevat sen perusteella oppilaalle S2\/R2- tai S1\/R1-opintoja. Huoltaja kuitenkin tekee päätöksen, joka dokumentoidaan. ",
             "general_description_id": "19d221a3-d355-4763-a11d-aeb607ea56cd",
             "provided_languages": [
                 "fi",
@@ -1902,11 +1903,6 @@
                 5113
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Kouluhaku",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/peruskoulut"
-                }
             ],
             "availabilities": [
             ],
@@ -2033,10 +2029,11 @@
             "id": 3410,
             "main_description": false,
             "service_id": 10004,
-            "title": "Finnish or Swedish as a second language instruction",
-            "description_short": "Finnish or Swedish as a second language and literature (Suomi\/ruotsi toisena kielenä ja kirjallisuus, S2) instruction is provided for pupils who do not yet know enough Finnish or Swedish to study the Finnish or Swedish language and literature (suomen\/ruotsin kieli ja kirjallisuus) syllabus.",
-            "description_long": "Finnish or Swedish as a second language and literature (Suomi\/ruotsi toisena kielenä ja kirjallisuus, S2) instruction is provided for pupils who do not yet know enough Finnish or Swedish to study the Finnish or Swedish language and literature (suomen\/ruotsin kieli ja kirjallisuus) syllabus. \n\nThe pupil will study according to the S2 syllabus, either completely or partially, instead of the Finnish or Swedish language and literature syllabus. Studying the S2 syllabus will not increase the pupil's number of lessons. \n\nThe instruction is not remedial teaching or special needs education.\n\nHow to get S2 instruction:\n1. The teachers notice that the pupil needs S2 instruction and discuss this with the child's parents and carers.\n2. The child's parent or carer decides on the S2 syllabus and fills out the S2 instruction form.\n\nThe S2 syllabus supports the pupil in their future education, which will be provided in Finnish or Swedish. \n\nThe pupil will continue to study according to the S2 syllabus until they are able to study according to the Finnish or Swedish language and literature syllabus. \n",
-            "prerequisites": "The child's parent or carer decides on the S2 syllabus and fills out the S2 instruction form.",
+            "title": "Finnish or Swedish as a second language (S2\/R2) syllabus",
+            "description_short": "Finnish or Swedish as a second language and literature (S2\/R2) instruction is provided to students whose Finnish or Swedish skills are not yet adequate for the Finnish or Swedish language and literature (S1\/R2) syllabus.",
+            "description_long": "Finnish or Swedish as a second language and literature is one way of completing the mother tongue and literature subject studies. The student will study according to the S2\/R2 syllabus throughout their comprehensive education or for part of it. The aim is to move to the S1\/R1 syllabus during comprehensive education. Studying the S2\/R2 syllabus will not increase the student's number of lesson hours. \n \nThe instruction is not remedial teaching or special needs education. The student may continue to study according to the S2\/R2 syllabus until they are able to study according to the S1\/R1 Finnish or Swedish language and literature syllabus.\n\nThe S2\/R2 syllabus supports the student in their further studies in Finnish or Swedish.\n",
+            "prerequisites": "It is up to the parent or guardian to decide whether the student will study according to the S2\/R2 syllabus.",
+            "user_instruction": "The child's teachers assess their language skills in different language areas and, on this basis, recommend S2\/R2 or S1\/R1 studies for the student. However, the parent or guardian makes the decision, which will then be documented.",
             "general_description_id": "19d221a3-d355-4763-a11d-aeb607ea56cd",
             "provided_languages": [
                 "fi",
@@ -2058,11 +2055,6 @@
                 5113
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Search Schools",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/basic-education\/comprehensive-schools"
-                }
             ],
             "availabilities": [
             ],
@@ -2189,10 +2181,11 @@
             "id": 3410,
             "main_description": false,
             "service_id": 10004,
-            "title": "Lärokursen i finska eller svenska som andraspråk (S2)",
-            "description_short": "Undervisning i finska\/svenska som andraspråk och litteratur (S2) erbjuds de elever som ännu inte kan finska\/svenska tillräckligt bra för att kunna studera lärokursen finska\/svenska och litteratur.",
-            "description_long": "Undervisning i finska\/svenska som andraspråk och litteratur (S2) erbjuds de elever som ännu inte kan finska\/svenska tillräckligt bra för att kunna studera lärokursen finska\/svenska och litteratur. Eleven studerar enligt lärokursen S2 antingen helt eller delvis i stället för lärokursen finska\/svenska och litteratur. Studier i lärokursen S2 ökar inte elevens timantal. \n\nUndervisningen är inte stöd- eller specialundervisning.\n\nHur söker man till S2-undervisningen?\n\n1. Lärarna lägger märke till att eleven behöver S2-undervisning och tar upp frågan med vårdnadshavarna.\n2. Elevens vårdnadshavare fattar beslut om lärokursen S2 och fyller i blanketten för undervisning i S2.\n\nLärokursen S2 stödjer eleven mot fortsatta studier antingen på finska eller på svenska.\n \nEleven studerar enligt lärokursen S2 tills eleven kan studera enligt lärokursen finska\/svenska och litteratur. \n",
-            "prerequisites": "Elevens vårdnadshavare fattar beslut om lärokursen S2 och fyller i blanketten för undervisning i S2.",
+            "title": "Lärokursen i svenska eller finska som andraspråk (R2\/S2)",
+            "description_short": "Undervisning i svenska\/finska som andraspråk och litteratur (R2\/S2) erbjuds de elever som ännu inte kan svenska eller finska tillräckligt bra för att kunna studera lärokursen svenska\/finska och litteratur (R1\/S1).",
+            "description_long": "Studierna i svenska\/finska som andraspråk och litteratur är ett sätt att genomföra läroämnet modersmål och litteratur. Eleven studerar enligt R2\/S2-lärokursen antingen hela den grundläggande utbildningen eller en del av den. Målet är att övergå till S1-lärokursen under den grundläggande utbildningen. Studier i lärokursen R2\/S2 ökar inte elevens timantal. \n\nUndervisningen är inte stöd- eller specialundervisning. Eleven kan studera enligt R2\/S2-lärokursen tills hen kan studera enligt lärokursen i svenska\/finska och litteratur.\n\nR2\/S2-lärokursen stödjer eleven mot fortsatta studier antingen på svenska eller på finska.",
+            "prerequisites": "Vårdnadshavaren avgör om eleven ska studera enligt R2\/S2-lärokursen.",
+            "user_instruction": "Lärarna som undervisar barnet bedömer elevens kunskaper i språkets olika delområden och rekommenderar R2\/S2- eller R2\/S1-studier för barnet utifrån det. Vårdnadshavaren fattar ändå beslutet, som dokumenteras.",
             "general_description_id": "19d221a3-d355-4763-a11d-aeb607ea56cd",
             "provided_languages": [
                 "fi",
@@ -2214,11 +2207,6 @@
                 5113
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Sök skolor",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/grundlaggande-utbildning\/grundskolor"
-                }
             ],
             "availabilities": [
             ],
@@ -2351,8 +2339,9 @@
             "title": "Oman äidinkielen ja kotikielen opetus",
             "name_synonyms": "oma äidinkieli, oma kotikieli, oman äidinkielen opetus",
             "description_short": "Oppilaalle pyritään tarjoamaan oman äidinkielen tai kotikielen opetusta. Sitä järjestetään oppilaiden ilmoittautumisten perusteella.",
-            "description_long": "Oppilaalle tarjotaan oman äidinkielen tai kotikielen opetusta. Sitä järjestetään oppilaiden ilmoittautumisten perusteella. \n\nOppilas ilmoittautuu oman äidinkielen opetukseen samalla kun hän ilmoittautuu kouluun tai 7. luokalle. Ilmoittautumisen voi tehdä myös muina aikoina. Tällöin käytetään erillistä lomaketta. Lomakkeen saa koulusta ja kasvatuksen ja koulutuksen toimialan Lomakkeet-sivulta. \n\nOman äidinkielen opetukseen hakeutuminen on vapaaehtoista, mutta ryhmään ilmoittautumisen jälkeen oppilaan täytyy osallistua oppitunneille. Lukujärjestyksen saa oppilaan omalta koululta. Oman äidinkielen opetuksesta annetaan erillinen todistus.\n\nKielivalikoimassa on noin 40 kieltä. Opetusryhmän koko on vähintään 10 oppilasta. Suurimmissa kieliryhmissä opetus voi olla omassa koulussa, mutta useimmiten oppilaat joutuvat siirtymään toiseen kouluun oppitunneille.\n",
-            "prerequisites": "Opetukseen voivat ilmoittautua Helsingin kaupungin koulujen tai sopimuskoulujen oppilaat, joiden:\n \n- äidinkieli on muu kuin suomi tai ruotsi\n- kotona puhutaan muuta kuin suomea tai ruotsia.",
+            "description_long": "Oppilaalla tarjotaan oman äidinkielen, kotikielen ja ulkomailla opiskellessa hankitun ylläpitokielen opetusta. Opetus on perusopetusta täydentävää opetusta, jota järjestetään oppilaiden ilmoittautumisten perusteella. Oppilas voi osallistua vain yhden omana äidinkielenä opetettavan kielen opiskeluun. \n\nOman äidinkielen opetukseen ilmoittaudutaan 1. luokalle ilmoittautumisen yhteydessä. Ilmoittautua voi myös muilla vuosiluokilla kaksi kertaa vuodessa; seuraavalle lukuvuodelle voi ilmoittautua huhti-toukokuussa ja marras-joulukuussa voi ilmoittautua kevätlukukaudelle. \n\nOman äidinkielen opetukseen hakeutuminen on vapaaehtoista, mutta ryhmään ilmoittautumisen jälkeen oppilaalta edellytetään säännöllistä osallistumista oppitunneille, sillä opetuksesta annetaan erillinen sanallinen arviointi tai numeerinen päättöarviointi. \n\nKielivalikoimassa on noin 40 kieltä. Suurimmissa kieliryhmissä opetus voi olla omassa koulussa, mutta useimmiten oppilaat joutuvat siirtymään toiseen kouluun oppitunneille.",
+            "prerequisites": "Opetus on tarkoitettu Helsingin kaupungin kouluissa opiskeleville oppilaille. Opetukseen voivat osallistua myös Helsingin kaupungin yksityisten sopimuskoulujen, Helsingin normaalilyseon ja Helsingin yliopiston Viikin normaalikoulun oppilaat. Opetukseen voivat ilmoittautua:  \n\n- monikieliset oppilaat, joiden äidinkieli tai kotikieli on muu kuin suomi tai ruotsi \n- suomenkielisessä perusopetuksessa opiskelevat oppilaat, joiden äidinkieli tai kotikieli on ruotsi \n- oppilaat, joiden suvussa puhutaan romanikieltä \n- oppilaat, joiden suvussa puhutaan saamea \n- paluumuuttajaoppilaat, jotka ovat oppineet vieraan kielen asuessaan ulkomailla.",
+            "user_instruction": "Oman äidinkielen opetukseen ilmoittaudutaan 1.luokalle ilmoittautumisen yhteydessä. Ilmoittautua voi myös muilla vuosiluokilla kaksi kertaa vuodessa, huhti-toukokuussa tulevalle lukuvuodelle tai marras-joulukuussa kevätlukukaudelle. Ilmoittautuminen tehdään Wilmassa Ilmoittautuminen oman äidinkielen opetukseen -lomakkeella tai paperilomakkeella, joka palautetaan oppilaan oman koulun hallintoassistentille.  \n\nHelsinkiin lukuvuoden alussa tai kevätlukukauden alkuun muuttavat oppilaat voivat ilmoittautua opetukseen elokuussa ja tammikuussa. Ilmoittautumisen jälkeen huoltaja ohjataan pyytämään kielen lukujärjestys koulun hallintoassistentilta. Ilmoittautuminen on voimassa lukuvuoden kerrallaan, eli huoltajan tulee ilmoittaa oppilas opetukseen uudelleen vuosittain.",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
             "provided_languages": [
                 "fi",
@@ -2378,11 +2367,6 @@
                     "type": "INTERNET",
                     "title": "Lisätietoa oman äidinkielen opetuksesta",
                     "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/opiskelu-peruskoulussa\/opetussuunnitelma-oppiaineet-ja-arviointi#oman-aidinkielen-opetus"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Lomakkeet",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/kasvatuksen-ja-koulutuksen-lomakkeet"
                 }
             ],
             "availabilities": [
@@ -2511,9 +2495,10 @@
             "main_description": false,
             "service_id": 10004,
             "title": "Mother tongue and home language instruction",
-            "description_short": "There is an aim to give the pupil mother tongue or home language (oma äidinkieli tai kotikieli) instruction. Instruction is organised based on registration.",
-            "description_long": "There is an aim to give the pupil mother tongue or home language (oma äidinkieli tai kotikieli) instruction. Instruction is organised based on registration. \n\nThe pupil will register for their own mother tongue instruction when they enrol in school or the 7th grade. The registration can also be done at other times. There is a separate form for this. You can get the form from the school or the Forms page of the Education Sector's website. \n\nApplying for own mother tongue instruction is voluntary, but if a pupil has registered for a group they are supposed to attend the lessons. The pupil's own school will give them the timetable. A separate transcript will be given for mother tongue instruction.\nThere are approximately 40 language options available. The minimum size for an instruction group is 10 pupils. With bigger language groups, the instruction can take place at the children's own school, but usually pupils need to go to another school for these lessons.\n",
-            "prerequisites": "Pupils in the City of Helsinki's schools or contract schools can register for this instruction, if:\n\n- their mother tongue is not Finnish or Swedish\n- their home language is not Finnish or Swedish.\n",
+            "description_short": "The aim is to provide students with instruction in their own mother tongue or home language. Instruction is organised based on student enrolment.",
+            "description_long": "The student is taught their own mother tongue, home language and language to maintain that the student has learned while studying abroad. The instruction supplements comprehensive education and is organised on the basis of student enrolment. Students may only enrol in studies in one language taught as their mother tongue. \n\nStudents can enrol in mother tongue instruction when enrolling in 1st grade. At other times, enrolment is open twice a year; in April-May for the next school year and in November-December for the spring semester.\n\nEnrolling in mother tongue instruction is optional, but those who enrol are required to attend the lessons regularly, as the student will receive a separate verbal assessment or numerical final assessment of their performance. \n\nThere are roughly 40 language options available. In the largest language groups, the instruction can take place at the student's own school, but in most cases, students need to go to another school for these lessons.\n",
+            "prerequisites": "The studies are intended for students studying at schools of the City of Helsinki. Students at private schools operating under an agreement with the City of Helsinki, Helsinki Normal Lyceum and Viikki Teacher Training School can also enrol in the studies. The studies are available to:\n \n- multilingual students whose mother tongue or home language is not Finnish or Swedish \n- students whose home language or mother tongue is Swedish and who attend Finnish-language comprehensive education\n- students whose family speaks Romani\n- students whose family speaks Sámi\n- students returning to Finland from another country in which they have learned a foreign language.\n\n",
+            "user_instruction": "Students can enrol in mother tongue instruction when enrolling in 1st grade. In other grades, enrolment is open twice a year; in April-May for the next school year and in November-December for the spring semester. Enrol the child via Wilma under 'Ilmoittautuminen oman äidinkielen opetukseen' (enrolment in mother tongue instruction) or by filling out a paper form and submitting it to the administrative assistant of the student's school. \n\nStudents moving to Helsinki at the beginning of the school year or the beginning of the spring semester can enrol in August and January. After enrolment, the parent or guardian will be instructed to ask the school's administrative assistant for the timetable for the language instruction. Enrolment is valid for one school year, and the student needs to enrol in mother tongue instruction every year.\n\n",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
             "provided_languages": [
                 "fi",
@@ -2535,11 +2520,6 @@
                 5113
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Forms",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/forms-of-education-division"
-                },
                 {
                     "type": "INTERNET",
                     "title": "Mother tongue studies",
@@ -2671,10 +2651,12 @@
             "id": 3411,
             "main_description": false,
             "service_id": 10004,
-            "title": "Undervisning i det egna modersmålet och hemspråket",
-            "description_short": "För eleven ska erbjudas undervisning i det egna modersmålet eller hemspråket. Undervisning ordnas utifrån elevernas anmälningar.",
-            "description_long": "För eleven ska erbjudas undervisning i det egna modersmålet eller hemspråket. Undervisning ordnas utifrån elevernas anmälningar. \n\nEleven anmäler sig till undervisningen i det egna modersmålet samtidigt som eleven anmäler sig till skolan eller till årskurs 7. Anmälningar tas emot även under andra tider. Då ska man använda en separat blankett. Blanketten kan fås från skolan eller på sektorn för fostran och utbildnings webbplats. \n\nDet är frivilligt att söka sig till undervisning i det egna modersmålet men efter att eleven har anmält sig till gruppen ska eleven också delta i lektionerna. Schemat fås från den egna skolan. Eleven får ett separat betyg i undervisningen i det egna modersmålet.\n\nSpråkutbudet omfattar cirka 40 språk. Undervisningsgruppens storlek är minst 10 elever. För de största språkgrupperna kan undervisningen ske i den egna skolan, men oftast måste eleverna ta sig till en annan skola för denna undervisning.\n",
-            "prerequisites": "Till undervisningen kan de elever i Helsingfors stads skolor eller avtalsskolor anmäla sig\n\n- vilkas modersmål är något annat än finska eller svenska\n- som hemma talar något annat språk än finska eller svenska.",
+            "title": "Undervisning i eget modersmål och undervisning i hemspråk",
+            "name_synonyms": "eget modersmål, eget hemspråk, undervisning i eget modersmål ",
+            "description_short": "Eleverna erbjuds undervisning i det egna modersmålet eller hemspråket. Undervisning ordnas utifrån elevernas anmälningar.\n\n",
+            "description_long": "Eleverna erbjuds undervisning i det egna modersmålet eller hemspråket och språk som eleven lärt sig under studier utomlands. Undervisningen är undervisning som kompletterar den grundläggande utbildningen, och som ordnas i enlighet med elevernas anmälningar. En elev kan endast delta i studier av ett språk som undervisas som eget modersmål. \n\nEleven anmäler sig till undervisningen i det egna modersmålet i samband med anmälan till årskurs 1. Man kan också anmäla sig i andra årskurser två gånger om året: i april-maj för nästa läsår och i november-december för vårterminen. \n\nDet är frivilligt att delta i undervisning i det egna modersmålet. Efter att eleverna anmält sig till gruppen förväntas de ändå delta i lektionerna regelbundet, eftersom en separat muntlig bedömning eller en numerisk slutbedömning ges för undervisningen. \n\nUtbudet omfattar ungefär 40 språk. För de största språkgrupperna kan undervisningen ske i den egna skolan, men oftast måste eleverna ta sig till en annan skola för denna undervisning.",
+            "prerequisites": "Undervisningen är avsedd för elever som studerar i Helsingfors stads skolor. Även elever i Helsingfors stads privata avtalsskolor, Helsingin normaalilyseo och Helsingfors universitets Viikin normaalikoulu, kan delta i undervisningen. Följande elever kan anmäla sig till undervisningen:  \n\n- flerspråkiga elever som har ett annat modersmål eller hemspråk än svenska eller finska \n- elever inom den finskspråkiga grundläggande utbildningen vars modersmål eller hemspråk är svenska \n- elever i vars släkt det talas romani \n- elever i vars släkt det talas samiska \n- återvändande elever som har lärt sig främmande språk när de bott utomlands.",
+            "user_instruction": "Eleven anmäler sig till undervisningen i det egna modersmålet i samband med anmälan till årskurs 1. Man kan också anmäla sig i andra årskurser två gånger om året, i april-maj för nästa läsår eller i november-december för vårterminen. Anmälan görs med formuläret för anmälan till undervisning i det egna modersmålet i Wilma eller med en pappersblankett som lämnas in till förvaltningsassistenten i elevens skola. \n\nElever som flyttar till Helsingfors i början av läsåret eller vårterminen kan anmäla sig till undervisningen i augusti och januari. Efter anmälan instrueras vårdnadshavaren att begära en läsordning för språket från skolans förvaltningsassistent. Anmälan gäller för ett läsår i taget, så vårdnadshavaren måste anmäla eleven på nytt varje år.",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
             "provided_languages": [
                 "fi",
@@ -2696,11 +2678,6 @@
                 5113
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Blanketter",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/fostrans-och-utbildningssektorns-blanketter"
-                },
                 {
                     "type": "INTERNET",
                     "title": "Undervisning i eget modersmål",
@@ -3305,8 +3282,9 @@
             "service_id": 10004,
             "title": "Oman uskonnon opetus",
             "description_short": "Uskonto tai elämänkatsomustieto on peruskoulussa pakollinen oppiaine. Opetus on poliittisesti sitoutumatonta ja uskonnollisesti tunnustuksetonta. Lasten uskonnollinen kasvatus on kotien tehtävä.",
-            "description_long": "Oppilas opiskelee yhtä seuraavista: \n- evankelis-luterilainen uskonto\n- ortodoksinen uskonto \n- elämänkatsomustieto\n- oma uskonto. \n\nEvankelis-luterilaiseen yhdyskuntaan kuuluvat oppilaat osallistuvat aina evankelis-luterilaisen uskonnonopetukseen. Ortodoksiseen yhdyskuntaan kuuluvat oppilaat osallistuvat ortodoksiseen tai evankelis-luterilaiseen uskonnon opetukseen. Oppilaat, jotka eivät kuulu mihinkään uskonnolliseen yhdyskuntaan, opiskelevat elämänkatsomustietoa.\n\nEvankelis-luterilaisen uskonnon opetukseen voivat osallistua myös muihin uskonnollisiin yhdyskuntiin kuuluvat oppilaat ja oppilaat, jotka eivät kuulu mihinkään uskonnolliseen yhdyskuntaan. Huoltaja pyytää osallistumista evankelis-luterilaisen uskonnon opetukseen täyttämällä lomakkeen. Lomakkeen saa koulusta ja kasvatuksen ja koulutuksen toimialan Lomakkeet-sivulta. \n\nHelsingin kaupungin kouluissa voi opiskella evankelis-luterilaisen ja ortodoksisen uskonnon sekä elämänkatsomustiedon lisäksi omaa uskontoa. \n\nKouluissa opetetaan seuraavia uskontoja: \n- katolinen\n- islam\n- buddhalainen\n- Krishna\n\nOman uskonnon opetus voi olla oppilaan omassa koulussa, mutta useimmiten oppilaat joutuvat siirtymään toiseen kouluun oppitunneille.\n\nHuoltaja pyytää osallistumista oman uskonnon opetukseen täyttämällä lomakkeen. Lomakkeen saa koulusta ja kasvatuksen ja koulutuksen toimialan Lomakkeet-sivulta. \n\nUskonto tai elämänkatsomustieto on peruskoulussa pakollinen oppiaine. Opetus on poliittisesti sitoutumatonta ja uskonnollisesti tunnustuksetonta.\n\nLasten uskonnollinen kasvatus on kotien tehtävä. \n",
-            "prerequisites": "Huoltaja pyytää osallistumista oman uskonnon opetukseen täyttämällä lomakkeen.",
+            "description_long": "Oppilas opiskelee yhtä seuraavista: \n- evankelis-luterilainen uskonto\n- ortodoksinen uskonto \n- elämänkatsomustieto\n- oma uskonto. \n\nEvankelis-luterilaiseen yhdyskuntaan kuuluvat oppilaat osallistuvat aina evankelis-luterilaisen uskonnon opetukseen. Ortodoksiseen yhdyskuntaan kuuluvat oppilaat osallistuvat ortodoksiseen tai evankelis-luterilaiseen uskonnon opetukseen. Oppilaat, jotka eivät kuulu mihinkään uskonnolliseen yhdyskuntaan, opiskelevat elämänkatsomustietoa. \n\nEvankelis-luterilaisen uskonnon opetukseen voivat osallistua myös muihin uskonnollisiin yhdyskuntiin kuuluvat oppilaat ja oppilaat, jotka eivät kuulu mihinkään uskonnolliseen yhdyskuntaan. Huoltaja pyytää osallistumista evankelis-luterilaisen uskonnon opetukseen täyttämällä lomakkeen. Lomakkeen saa koulusta.  \n\nHelsingin kaupungin kouluissa voi opiskella evankelis-luterilaisen ja ortodoksisen uskonnon sekä elämänkatsomustiedon lisäksi omaa uskontoa. \n\nSuomenkielisissä kouluissa opetetaan seuraavia uskontoja: katolinen, islam, buddhalainen, Krishna. Ruotsinkielisissä kouluissa opetetaan seuraavia: katolinen ja islam. \n\n Oman uskonnon opetus voi olla oppilaan omassa koulussa, mutta oppilaat saattavat joutua siirtymään toiseen kouluun oppitunneille.",
+            "prerequisites": "Muuhun Suomessa rekisteröityyn uskonnolliseen yhdyskuntaan kuin evankelis-luterilaiseen kirkkoon tai ortodoksiseen kirkkokuntaan kuuluville oppilaille, jotka eivät osallistu enemmistön uskonnon opetukseen (ev.lut), järjestetään heidän oman uskontonsa opetusta, jos heidän huoltajansa sitä pyytävät, ja kolmen oppilaan vähimmäismäärä täyttyy. Helsingin suomenkielisissä kouluissa tarjotaan vakiintuneesti katolisen, islamin, buddhalaisen ja Krishna -uskonnon opetusta, ja ruotsinkielisissä kouluissa katolisen ja islamin opetusta. \n\nOppilaiden tulee olla kyseisen uskonnollisen yhdyskunnan jäseniä tai opetettavan uskonnon tulee oppilaan saaman kasvatuksen ja kulttuuritaustan perusteella vastata hänen uskonnollista katsomustaan (perusopetuslaki 13 § 6 mom.). \n\nKoulu voi tarvittaessa pyytää oppilaan huoltajalta luotettavan selvityksen uskonnollisen yhdyskunnan jäsenyydestä tai oppilaan saaman kasvatuksen ja kulttuuritaustan vastaavuudesta opetettavan uskonnon kanssa.",
+            "user_instruction": "Huoltaja pyytää osallistumista oman uskonnon opetukseen täyttämällä lomakkeen. Lomakkeen saa koululta.",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
             "provided_languages": [
                 "fi",
@@ -3327,11 +3305,6 @@
             "exact_errand_services": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Lomake",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/kasvatuksen-ja-koulutuksen-lomakkeet"
-                }
             ],
             "availabilities": [
             ],
@@ -3458,10 +3431,11 @@
             "id": 6433,
             "main_description": false,
             "service_id": 10004,
-            "title": "Education in the pupil's own religion",
-            "description_short": "Religion or Ethics is a compulsory subject at comprehensive school. The instruction is politically independent and secular. Providing an actual religious upbringing is the responsibility of families, if they so wish.",
-            "description_long": "The pupil will study one of the following: \n- Evangelical Lutheran religion (evankelis-luterilainen uskonto)\n- Orthodox religion (ortodoksinen uskonto) \n- Ethics (elämänkatsomustieto)\n- Pupil's own religion. \n\nPupils who are part of the Evangelical Lutheran community always take part in Evangelical Lutheran religious instruction. Pupils who are part of the Orthodox community take part in Orthodox or Evangelical Lutheran religious instruction. Pupils who are not part of any religious community take Ethics.\n\nPupils who are part of another religious community or pupils who are not part of any religious community can also take part in Evangelical Lutheran religious instruction. The parent or carer requests Evangelic Lutheran instruction for their child by filing out a form. You can get the form from the school or the Forms page of the Education Sector's website. \n\nAt the City of Helsinki's schools, pupils can study not only Evangelical Lutheran and Orthodox religion, Ethics but also their own religion. \n\nThe schools teach the following religions: \n- Catholicism (katolinen uskonto)\n- Islam (islam)\n- Buddhism (buddhalainen uskonto)\n- Krishnaism (Krishna). \n\nThe pupil's own religion can be taught at the pupil's own school, but usually pupils need to go to another school for these lessons.\n\nThe parent or carer requests religious instruction for their child by filing out a form. You can get the form from the school or the Forms page of the Education Sector's website. \n\nReligion or Ethics is a compulsory subject at comprehensive school. The instruction is politically independent and secular. \n\nProviding an actual religious upbringing is the responsibility of families, if they so wish. \n",
-            "prerequisites": "The parent or carer requests religious instruction for their child by filing out a form.",
+            "title": "Education in the student's own religion",
+            "description_short": "Religion or ethics studies is a compulsory subject at comprehensive school. The teaching of religion is politically neutral and religiously non-denominational. Children's religious education is the responsibility of their homes.",
+            "description_long": "The student will study one of the following: Evangelical Lutheran religion, Orthodox religion, ethics, or the student's own religion. \n\nStudents who are part of the Evangelical Lutheran community always take part in Evangelical Lutheran religious instruction. Students who are part of the Orthodox community take part in Orthodox or Evangelical Lutheran religious instruction. Students who are not part of any religious community take ethics studies.\n\nStudents who are part of any other religious community or students who are not part of any religious community can also take part in Evangelical Lutheran religious instruction. The parent or guardian must request Evangelical Lutheran religious instruction for their child by filling out a form. The form is provided by the school. \n\nIn addition to Evangelical Lutheran religion, Orthodox religion or ethics, students at the City of Helsinki's schools can study also their own religion. \n\nThe Finnish-language schools teach the following religions: Catholic, Islam, Buddhist and Krishna religion.\n\nThe Swedish-language schools teach Catholic and Islam religion.\n\nThe student's own religion may be taught at the student's own school, but students may also need to go to another school for these lessons.\n",
+            "prerequisites": "If your child belongs to a religious community registered in Finland other than the Evangelical Lutheran church or Orthodox church, and your child does not take part in the majority religion teaching (Evangelical Lutheran), you can request the child's own religion instruction for them. It will be provided if the minimum number of three students is met.\n\nThe Finnish-language schools of City of Helsinki provide education in Catholic, Islam, Buddhist and Krishna religion. The Swedish-language schools provide education in Catholic and Islam religion.\n\nThe students must be members of this religious community or the religion taught to the student must, in view of their upbringing and cultural background, correspond to their religious beliefs (Basic Education Act, section 13, subsection 6).\n\nIf necessary, the school can request that the student's parent or guardian submit a reliable statement of the student's membership of the religious community or of the way the student's upbringing and cultural background correspond to the religion taught to them.\n",
+            "user_instruction": "The parent or guardian can request religious instruction for their child by filling out a form. The form is provided by the school.",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
             "provided_languages": [
                 "fi",
@@ -3482,11 +3456,6 @@
             "exact_errand_services": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Forms",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/forms-of-education-division"
-                }
             ],
             "availabilities": [
             ],
@@ -3614,9 +3583,10 @@
             "main_description": false,
             "service_id": 10004,
             "title": "Undervisning i den egna religionen",
-            "description_short": "Religion eller livsåskådningskunskap är ett obligatoriskt läroämne i grundskolan. Undervisningen är politiskt oberoende och icke-konfessionell. Barnets religiösa fostran är hemmets uppgift.",
-            "description_long": "Eleven studerar något av följande: \n- evangelisk-luthersk religion\n- ortodox religion \n- livsåskådningskunskap\n- sin egen religion. \n\nDe elever som hör till det evangelisk-lutherska samfundet deltar alltid i undervisningen i evangelisk-luthersk religion. De elever som hör till det ortodoxa samfundet deltar i undervisningen i antingen ortodox eller evangelisk-luthersk religion. De elever som inte hör till något religiöst samfund studerar livsåskådningskunskap.\n\nÄven de elever som hör till andra religiösa samfund eller som inte hör till något religiöst samfund kan delta i undervisningen i evangelisk-luthersk religion. Vårdnadshavaren ansöker om möjlighet att delta i undervisningen i evangelisk-luthersk religion genom att fylla en blankett. Blanketten kan fås från skolan eller på sektorn för fostran och utbildnings webbplats. \n\nUtöver evangelisk-luthersk och ortodox religion samt livsåskådningskunskap kan man också studera sin egen religion i Helsingfors stads skolor. \n\nI skolorna ges undervisning i följande religioner: \n- katolicism\n- islam\n- buddhism\n- Krishna \n\nUndervisning i egen religion kan ges i elevens skola, men oftast måste eleverna ta sig till en annan skola för denna undervisning.\nVårdnadshavaren ansöker om möjlighet att få undervisning i den egna religionen genom att fylla i en blankett. Blanketten kan fås från skolan eller på sektorn för fostran och utbildnings webbplats. \n\nReligion eller livsåskådningskunskap är ett obligatoriskt läroämne i grundskolan. Undervisningen är politiskt oberoende och icke-konfessionell.\n\nBarnets religiösa fostran är hemmets uppgift. \n\n",
-            "prerequisites": "Vårdnadshavaren ansöker om möjlighet att få undervisning i den egna religionen genom att fylla i en blankett.",
+            "description_short": "Religion eller livsåskådningskunskap är ett obligatoriskt läroämne i grundskolan. Undervisningen är politiskt oberoende och icke-konfessionell. Barnets religiösa uppfostran är hemmets uppgift.",
+            "description_long": "Eleven studerar något av följande: evangelisk-luthersk religion, ortodox religion, livsåskådningskunskap eller den egna religionen. \n\nDe elever som hör till det evangelisk-lutherska samfundet deltar alltid i undervisningen i evangelisk-luthersk religion. De elever som hör till det ortodoxa samfundet deltar i undervisningen i antingen ortodox eller evangelisk-luthersk religion. De elever som inte hör till något religiöst samfund studerar livsåskådningskunskap. \n\nÄven de elever som hör till andra religiösa samfund eller som inte hör till något religiöst samfund kan delta i undervisningen i evangelisk-luthersk religion. Vårdnadshavaren ansöker om möjlighet att delta i undervisningen i evangelisk-luthersk religion genom att fylla i ett formulär. Formuläret fås från skolan. \n\nUtöver evangelisk-luthersk och ortodox religion samt livsåskådningskunskap kan man också studera den egna religionen i Helsingfors stads skolor.  \n\nI svenskspråkiga skolor ges undervisning i följande religioner: katolicism och islam. I finskspråkiga skolor ges undervisning i katolicism, islam, buddhism, Krishna-rörelsen. \n\nUndervisningen i den egna religionen kan ordnas i elevens egen skola, men eleverna kan också behöva ta sig till en annan skola för lektionerna.",
+            "prerequisites": "För elever som tillhör ett annat religiöst samfund som är registrerat i Finland än den evangelisk-lutherska kyrkan eller det ortodoxa kyrkosamfundet, och som inte deltar i majoritetens religionsundervisning (ev.lut), ordnas undervisning i den egna religionen om vårdnadshavarna begär det och om minimiantalet på tre elever uppfylls. I Helsingfors svenskspråkiga skolor finns etablerad undervisning i katolicism och islam. I finskspråkiga skolor finns det etablerad undervisning i katolsk, islamsk, buddhistisk och Krishna-rörelsens religion.  \n\nEleverna ska vara medlemmar i det religiösa samfundet i fråga eller den religion som lärs ut ska motsvara elevens religiösa åskådning utifrån den fostran som eleven får och elevens kulturella bakgrund (lagen om grundläggande utbildning 13 § 6 mom.). \n\nVid behov kan skolan be elevens vårdnadshavare om en tillförlitlig utredning om medlemskapet i samfundet eller om att elevens fostran och kulturella bakgrund motsvarar den undervisade religionen.",
+            "user_instruction": "Vårdnadshavaren ansöker om möjlighet att få undervisning i den egna religionen genom att fylla i ett formulär. Formuläret fås från skolan.",
             "general_description_id": "27d2f17f-085f-4686-82c7-c030cb6556ac",
             "provided_languages": [
                 "fi",
@@ -3637,11 +3607,6 @@
             "exact_errand_services": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Blanketter",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/fostrans-och-utbildningssektorns-blanketter"
-                }
             ],
             "availabilities": [
             ],
@@ -7333,6 +7298,7 @@
                 40455,
                 40459,
                 40462,
+                40463,
                 40466,
                 40471,
                 40480,
@@ -8639,6 +8605,7 @@
                 40455,
                 40459,
                 40462,
+                40463,
                 40466,
                 40471,
                 40480,
@@ -9945,6 +9912,7 @@
                 40455,
                 40459,
                 40462,
+                40463,
                 40466,
                 40471,
                 40480,
@@ -49487,6 +49455,7 @@
                 40377,
                 40395,
                 40442,
+                40463,
                 40480,
                 40509,
                 40555,
@@ -49665,6 +49634,7 @@
                 40377,
                 40395,
                 40442,
+                40463,
                 40480,
                 40509,
                 40555,
@@ -49843,6 +49813,7 @@
                 40377,
                 40395,
                 40442,
+                40463,
                 40480,
                 40509,
                 40555,
@@ -51518,9 +51489,10 @@
             "main_description": true,
             "service_id": 10394,
             "title": "Kuraattori",
-            "description_short": "Kuraattori auttaa ja tukee oppilaita ja heidän perheitään sosiaalityön keinoin.",
-            "description_long": "Kuraattori auttaa ja tukee oppilaita ja heidän perheitään sosiaalityön keinoin. Kuraattorilta saa apua, kun lapsella tai nuorella on pulmia koulunkäynnissä, kaverisuhteissa tai hänen elämässään tapahtuu koulunkäyntiin vaikuttavia muutoksia.\n\nHuoltajat voivat keskustella kuraattorin kanssa myös perheeseen liittyvistä asioista. Pulmatilanteita ratkotaan yhdessä huoltajien ja koulun muiden aikuisten kanssa. Tarvittaessa kuraattori ohjaa oppilaan tai perheen koulun ulkopuolisten palvelujen piiriin. Kuraattorin palvelut ovat oppilaalle vapaaehtoisia.\n\nOppilas itse, huoltaja tai opettaja voivat ottaa yhteyttä kuraattoriin. Kuraattorin yhteystiedot löytyvät jokaisen koulun verkkosivuilta.",
+            "description_short": "Kuraattori auttaa ja tukee peruskoulun oppilaita ja heidän perheitään sosiaalityön keinoin.",
+            "description_long": "Kuraattori auttaa ja tukee peruskoulun oppilaita ja heidän perheitään sosiaalityön keinoin. Kuraattorilta saa apua, kun lapsella tai nuorella on pulmia mm. koulunkäynnissä, kaverisuhteissa tai hänen elämässään tapahtuu koulunkäyntiin vaikuttavia muutoksia. Kuraattorin palvelut ovat oppilaalle vapaaehtoisia.\n \nHuoltajat voivat keskustella kuraattorin kanssa myös perheeseen liittyvistä asioista. Pulmatilanteita ratkotaan yhdessä huoltajien ja koulun muiden aikuisten kanssa. Tarvittaessa tehdään yhteistyötä alueen muiden lapsiperheiden ja nuorten palveluiden kanssa. Tarvittaessa kuraattori ohjaa oppilaan tai perheen koulun ulkopuolisten palvelujen piiriin.\n",
             "availability_summary": "Lukuvuoden aikana, koulupäivinä. Loma-aikoina sovitusti.",
+            "information": "Kuraattorien yhteystiedot löytyvät koulujen verkkosivuilta.",
             "user_instruction": "Oppilas voi ottaa yhteyttä oman koulun kuraattoriin sähköisessä Aula-palvelussa, Wilmassa, puhelimitse tai käymällä paikan päällä. Huoltaja voi ottaa yhteyttä Wilman kautta tai puhelimitse. Yhteystiedot löytyvät koulujen verkkosivuilta.",
             "general_description_id": "dce580aa-1370-48db-af5a-7f04fe32b23f",
             "provided_languages": [
@@ -61040,6 +61012,7 @@
                 40344,
                 40419,
                 40462,
+                40463,
                 40564,
                 40635,
                 40830,
@@ -61108,6 +61081,7 @@
                 40344,
                 40419,
                 40462,
+                40463,
                 40564,
                 40635,
                 40830,
@@ -61176,6 +61150,7 @@
                 40344,
                 40419,
                 40462,
+                40463,
                 40564,
                 40635,
                 40830,
@@ -64904,108 +64879,6 @@
         }
     },
     {
-        "id": 9603,
-        "fi": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
-            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
-            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
-            "description_short": "You can receive support from us until you turn 23.",
-            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
-            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
-            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 2921,
         "fi": {
             "id": 2921,
@@ -65111,6 +64984,108 @@
             "errand_services": [
             ],
             "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 9603,
+        "fi": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
+            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
+            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
+            "description_short": "You can receive support from us until you turn 23.",
+            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
+            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
+            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
             ],
             "links": [
             ],
@@ -80734,6 +80709,93 @@
         }
     },
     {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -80853,174 +80915,6 @@
         }
     },
     {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5236,
         "fi": {
             "id": 5236,
@@ -81107,6 +81001,87 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -116016,6 +115991,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -116164,70 +116203,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
