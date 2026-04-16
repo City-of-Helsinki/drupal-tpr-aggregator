@@ -9385,7 +9385,7 @@
             "type": "APPLICATION",
             "name": "Hae myyntilupaa liikkeen edustalle",
             "name_synonyms": "myyntipöytä, myyntitila, myytipaikka, liikkeen edusta, ulkopaikka, ",
-            "description": "Täytä hakulomake ja lähetä se sähköpostitse tarkastajille osoitteeseen ulkoilma@hel.fi.",
+            "description": "Täytä hakulomake ja lähetä se sähköpostitse tarkastajille osoitteeseen ulkotila@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -9418,7 +9418,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Maa-alueen vuokraus -hakemus (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/aluevuokraus\/hakemus_alueenkayttolupa.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -9435,7 +9435,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Apply for a permit for a sales spot in front of a shop",
-            "description": "Fill in the application and send it via email to the inspectors: ulkoilma@hel.fi.",
+            "description": "Fill in the application and send it via email to the inspectors: ulkotila@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -9465,6 +9465,11 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": true,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Land Lease Application (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/aluevuokraus\/hakemus_alueenkayttolupa.pdf"
+                        }
                     ],
                     "availabilities": [
                     ]
@@ -9479,7 +9484,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Ansök om tillstånd för försäljning utanför en affärslokal",
-            "description": "Fyll i ansökningsblanketten och skicka den per e-post till kontrollanterna på adressen ulkoilma@hel.fi.",
+            "description": "Fyll i ansökningsblanketten och skicka den per e-post till kontrollanterna på adressen ulkotila@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -9512,7 +9517,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Ansökan om områdesanvändning (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/aluevuokraus\/hakemus_alueenkayttolupa.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -10900,7 +10905,7 @@
             "type": "APPLICATION",
             "name": "Hae sesonkimyyntipaikkaa",
             "name_synonyms": "vappumyynti, myyntipaikka, myyntipöytä, myyntikoju, myyntikärry",
-            "description": "Täytä hakulomake ja lähetä se sähköpostilla alueiden käyttö ja valvonta -yksikön tarkastajille osoitteeseen ulkoilma@hel.fi.",
+            "description": "Täytä hakulomake ja lähetä se sähköpostilla alueiden käyttö ja valvonta -yksikön tarkastajille osoitteeseen ulkotila@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -10932,7 +10937,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Alueidenkäyttöhakemus (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/aluevuokraus\/hakemus_alueenkayttolupa.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -10949,7 +10954,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Apply for a seasonal sales spot",
-            "description": "Fill in an application form and send it by email to the inspectors of the Land Use and Monitoring unit: ulkoilma@hel.fi.",
+            "description": "Fill in an application form and send it by email to the inspectors of the Land Use and Monitoring unit: ulkotila@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -10981,7 +10986,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Application form (PDF, in Finnish)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/aluevuokraus\/hakemus_alueenkayttolupa.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -10998,7 +11003,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Ansök om en säsongsförsäljningsplats",
-            "description": "Fyll i ansökningsblanketten och skicka den per e-post till kontrollanterna för enheten för områdesanvändning och -övervakning på adressen ulkoilma@hel.fi.",
+            "description": "Fyll i ansökningsblanketten och skicka den per e-post till kontrollanterna för enheten för områdesanvändning och -övervakning på adressen ulkotila@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -11030,7 +11035,7 @@
                         {
                             "type": "INTERNET",
                             "title": "Ansökningsblankett (pdf, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_alueidenkaytto_tapahtumat.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/aluevuokraus\/hakemus_alueenkayttolupa.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -71603,7 +71608,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Tee hakemus sähköpostitse",
-                    "information": "Jos et voi käyttää kaupungin verkkopalvelua, täytä pdf-lomake ja lähetä se sähköpostitse osoitteeseen ulkoilma@hel.fi.",
+                    "information": "Jos et voi käyttää kaupungin verkkopalvelua, täytä pdf-lomake ja lähetä se sähköpostitse osoitteeseen ulkotila@hel.fi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -71617,7 +71622,7 @@
                         {
                             "type": "FORM",
                             "title": "Hakemus liikkuvan myynnin sopimusta varten (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_liikkuva_myynti.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/liikkuva-myynti\/hakemus-liikkuva-myynti.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -71682,7 +71687,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
                     "name": "Submit application by email",
-                    "information": "If you are unable to use the City's online service, please fill in the PDF form and send it by email to ulkoilma@hel.fi.",
+                    "information": "If you are unable to use the City's online service, please fill in the PDF form and send it by email to ulkotila@hel.fi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -71696,7 +71701,7 @@
                         {
                             "type": "FORM",
                             "title": "Application for a mobile sales agreement (PDF, in Finnish)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_liikkuva_myynti.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/liikkuva-myynti\/hakemus-liikkuva-myynti.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -71761,7 +71766,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
                     "name": "Skicka ansökan via e-post",
-                    "information": "Om du inte kan använda stadens e-tjänst, fyll i pdf-blanketten och skicka den till ulkoilma@hel.fi.",
+                    "information": "Om du inte kan använda stadens e-tjänst, fyll i pdf-blanketten och skicka den till ulkotila@hel.fi.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -71775,7 +71780,7 @@
                         {
                             "type": "FORM",
                             "title": "Ansökan om avtal om mobil försäljning (pdf, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/luvat\/hakemus_liikkuva_myynti.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/kymp\/luvat-ja-tilat\/liikkuva-myynti\/hakemus-liikkuva-myynti.pdf",
                             "file_format": "PDF"
                         }
                     ],

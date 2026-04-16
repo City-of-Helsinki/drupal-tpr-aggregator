@@ -941,7 +941,7 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Ansökan till flexibel grundläggande utbildning i årskurserna 7–9 ",
+                    "title": "Ansökan till flexibel grundläggande utbildning i årskurserna 7–9  (svenskspråkiga skolor)",
                     "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/flexklassen.pdf",
                     "file_format": "PDF"
                 },
@@ -42505,8 +42505,8 @@
             "service_id": 10290,
             "title": "Joulukuusien myyntipaikat",
             "name_synonyms": "tori, puisto, aukio, kuusenmyyntipaikka, yhteismyyntipaikka, yksinmyyntipaikka",
-            "description_short": "Helsingin kaupunki järjestää joulukuusien myyjille myyntipaikkoja toreilta, puistoista ja aukioilta. Myyntipaikat jaetaan huutokauppana loka-marraskuussa.\n",
-            "description_long": "Helsingin kaupunki järjestää joulukuusien myyjille myyntipaikkoja toreilta, puistoista ja aukioilta. Kuusenmyyntipaikkoja on lähes 100, joista osa on yhteismyyntipaikkoja ja osa yksinmyyntipaikkoja.\n\nMyyntipaikat jaetaan huutokauppana loka-marraskuussa. Huutokauppa järjestetään Huuto.net-palvelussa.\n\nTänä vuonna huutokauppa-aika alkaa 21.10.2025 klo 14.00 ja päättyy 3.11.2025 klo 16.00. \n\nJoulukuusien myyntiaika on joulukuun puolivälistä jouluaattoon.\n",
+            "description_short": "Helsingin kaupunki järjestää joulukuusien myyjille myyntipaikkoja toreilta, puistoista ja aukioilta. \n",
+            "description_long": "Julkaisemme tarkemmat ohjeet myyntipaikkojen vuokrauksesta syksyllä 2026.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -42538,8 +42538,8 @@
             "service_id": 10290,
             "title": "Christmas tree sales spots",
             "name_synonyms": "single-vendor, co-sales spots, park, square",
-            "description_short": "The City ofHelsinki organises sales spots for Christmas tree sellers from markets, parks and squares. The sales spots are assigned through auctions in October and November.",
-            "description_long": "The City of Helsinki organises sales spots for Christmas tree sellers from markets, parks and squares. There are almost 100 Christmas tree sales spots, some of which are co-sales spots and some exclusive sales spots.\n\nThe sales spots are assigned through auctions in October and November. The auctions will be held in the Huuto.net service.\n\nThis year, the auction period ended on 3 November 2025.\n\nThe sales period of Christmas trees is from mid-December to Christmas Eve.\n",
+            "description_short": "The City ofHelsinki organises sales spots for Christmas tree sellers from markets, parks and squares.",
+            "description_long": "We will publish more detailed instructions on renting sales spots in the fall of 2026.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -42571,8 +42571,8 @@
             "service_id": 10290,
             "title": "Försäljningsplatser för julgranar",
             "name_synonyms": "ensamförsäljning, samförsäljning, park, torg, granförsäljning",
-            "description_short": "Helsingfors stad ordnar försäljningsplatser för julgransförsäljare på torg, i parker och på öppna platser. Försäljningsplatserna autktioneras ut i oktober och november.",
-            "description_long": "Helsingfors stad ordnar försäljningsplatser för julgransförsäljare på torg, i parker och på öppna platser. Det finns närmare 100 granförsäljningsplatser. En del av dem är gemensamma försäljningsplatser och en del är ensamförsäljningsplatser.\n\nFörsäljningsplatserna autktioneras ut i oktober och november. Auktionen ordnas på Huuto.net.\n\nI år gick auktionstiden ut den 3 november 2025.\n\nFörsäljningstiden för julgranar är från mitten av december fram till julafton.\n",
+            "description_short": "Helsingfors stad ordnar försäljningsplatser för julgransförsäljare på torg, i parker och på öppna platser.",
+            "description_long": "Vi publicerar mer detaljerade anvisningar om uthyrning av försäljningsplatser under hösten 2026.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -45665,7 +45665,6 @@
                 153,
                 154,
                 155,
-                156,
                 157,
                 159,
                 164,
@@ -46057,7 +46056,6 @@
                 153,
                 154,
                 155,
-                156,
                 157,
                 159,
                 164,
@@ -46449,7 +46447,6 @@
                 153,
                 154,
                 155,
-                156,
                 157,
                 159,
                 164,
@@ -80743,6 +80740,93 @@
         }
     },
     {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -80858,93 +80942,6 @@
             "unit_ids": [
                 9301,
                 63087
-            ]
-        }
-    },
-    {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
             ]
         }
     },
@@ -116025,70 +116022,6 @@
         }
     },
     {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
-    },
-    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -116237,6 +116170,70 @@
                 51342
             ]
         }
+    },
+    {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 10133,
