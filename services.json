@@ -894,8 +894,13 @@
                 },
                 {
                     "type": "FORM",
-                    "title": "PDF application for Swedish-language schools",
+                    "title": "PDF application (Swedish-language schools)",
                     "url": "https:\/\/www.hel.fi\/static\/liitteet-2019\/KasKo\/lomakkeet\/flexklassen.pdf"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Applications via Wilma (Finnish-language schools)",
+                    "url": "https:\/\/helsinki.inschool.fi\/connect?langid=3"
                 }
             ],
             "availabilities": [
@@ -914,11 +919,10 @@
             "service_id": 10004,
             "title": "Flexibel grundläggande utbildning",
             "name_synonyms": "JOPO",
-            "description_short": "Elever som är minst 14 år, går i årskurserna 7-9 och riskerar att bli utan avgångsbetyg kan söka sig till den flexibla grundläggande utbildningen (flex). Sökanden ska ha minst ett år kvar av grundskolan och han eller hon måste vara motiverad och kunna dra nytta av funktionella arbetssätt.",
-            "description_long": "Inom den flexibla grundläggande utbildningen studerar eleven delvis i skolan och delvis på arbetsplatser. Studierna omfattar också utflykter, studiebesök och lägerskolor. I klassen arbetar utöver läraren också en ungdomsledare. Det finns 12 elever i gruppen.\n\nMan kan söka till flexklasserna en gång per läsår, på vårterminen, enligt en tidtabell som meddelas skilt. Sökanden fyller i en ansökningsblankett till vilken bifogas en rekommendation av elevvårdspersonalen.\n\nLäraren, skolkuratorn och ungdomsledaren intervjuar sökandena. Sektorn för fostran och utbildning beslutar vilka elever som antas.\n",
-            "availability_summary": "Man kan söka till JOPO-klasserna en gång per läsår, på vårterminen, enligt en tidtabell som meddelas skilt.",
-            "prerequisites": "Elever som är minst 14 år, går i årskurserna 7-9 och riskerar att bli utan avgångsbetyg kan söka sig till den flexibla grundläggande utbildningen (flex). Sökanden ska ha minst ett år kvar av grundskolan och han eller hon måste vara motiverad och kunna dra nytta av funktionella arbetssätt.",
-            "user_instruction": "Ansökan till den svenskspråkiga flexklassen sker i regel på vårterminen, i mars, men elever kan tas in på lediga platser även under andra tider. Den sökande fyller i en ansökningsblankett som kräver en rekommendation från skolan som bilaga. Ansökan returneras till den egna skolan.",
+            "description_short": "Inom den flexibla grundläggande utbildningen (flexklass) studerar man såväl i skola som på en arbetsplats. Inlärning i arbetet är en viktig del av studierna. Studierna omfattar även studiebesök, utflykter och lägerskolor. Utöver läraren arbetar även en skolgångshandledare i klassen. Gruppen består av högst 12 elever.",
+            "description_long": "Inom den flexibla grundläggande utbildningen (flexklass) studerar man såväl i skola som på en arbetsplats. Inlärning i arbetet är en viktig del av studierna. Studierna omfattar även studiebesök, utflykter och lägerskolor. Utöver läraren arbetar även en skolgångshandledare i klassen. Gruppen består av högst 12 elever.\n\nEn elev i årskurs 7-9 som fyllt 14 år, och som har haft utmaningar med skolgången samt skulle dra nytta av praktisk inlärning i en mindre grupp kan söka till den flexibla grundläggande utbildningen. Eleven ska ha minst ett år kvar av grundskolan för att kunna ansöka till flexklass.\n\nI Helsingfors ordnas flexklassverksamhet en svenskspråkig och fyra finskspråkiga grundskolor vilket innebär att en elev som ansöker om plats i en grupp i de flesta fall måste byta skola.\n\nAnsökan till den svenskspråkiga flexklassen görs med en blankett. Den sökande fyller i en ansökningsblankett som kräver en rekommendation från skolan som bilaga.\n\nI finskspråkiga skolor ansöker vårdnadshavarna via Wilma. Som bilaga bifogas ett eventuellt intyg över prao eller annan arbetserfarenhet. Dessutom skrivs en rekommendation av skolan för ansökan till flexklass.\n\nAlla sökande intervjuas och beslut om elevantagning fattas av områdeschefen inom den grundläggande utbildningen. \n\nMer information fås från den egna skolan till exempel av studiehandledaren eller klassföreståndaren.\n",
+            "prerequisites": "En elev i årskurs 7-9 som fyllt 14 år, och som har haft utmaningar med skolgången samt skulle dra nytta av praktisk inlärning i en mindre grupp kan söka till den flexibla grundläggande utbildningen. Eleven ska ha minst ett år kvar av grundskolan för att kunna ansöka till flexklass.",
+            "user_instruction": "Ansökan till den svenskspråkiga flexklassen görs med blankett. Ansökan till den svenskspråkiga flexklassen sker i regel på vårterminen, i mars, men elever kan tas in på lediga platser även under andra tider. \n\nAnsökan till finskspråkig flexklass görs via Wilma. Ansökan till flexklasserna görs i regel i början på året, ansökan kan lämnas in från och med början av januari fram till mitten av april. Elever kan tas in på lediga platser även under andra tider.\n",
             "general_description_id": "529e6959-6b29-4295-998a-3950fe097f99",
             "provided_languages": [
                 "fi",
@@ -952,9 +956,6 @@
                 }
             ],
             "availabilities": [
-                {
-                    "availability_string": "Man kan söka till JOPO-klasserna en gång per läsår, på vårterminen, enligt en tidtabell som meddelas skilt."
-                }
             ],
             "unit_ids": [
                 6900,
@@ -115448,133 +115449,6 @@
         }
     },
     {
-        "id": 10129,
-        "fi": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Kirjaston lukusalit",
-            "name_synonyms": "hh_kul",
-            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
-            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "en": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Library reading rooms",
-            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
-            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        },
-        "sv": {
-            "id": 10129,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Bibliotekets läsesalar",
-            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
-            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8143,
-                8149,
-                8154,
-                8178,
-                8184,
-                8192,
-                8269,
-                8310,
-                8325,
-                51342
-            ]
-        }
-    },
-    {
         "id": 7589,
         "fi": {
             "id": 7589,
@@ -115794,6 +115668,133 @@
                 8369,
                 10037,
                 45317,
+                51342
+            ]
+        }
+    },
+    {
+        "id": 10129,
+        "fi": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Kirjaston lukusalit",
+            "name_synonyms": "hh_kul",
+            "description_short": "Kirjaston lukusali on julkinen, maksuton ja kaikille avoin tila lukemiseen ja rauhalliseen yksintyöskentelyyn. \n",
+            "description_long": "Kirjaston lukusali soveltuu lukemiseen ja rauhalliseen yksintyöskentelyyn. Tilassa on langaton verkko. Lukusali on kaikille avoin tila, jossa voi keskittyä itsenäiseen lukemiseen ja muuhun hiljaiseen työskentelyyn. Lukusalien koko ja kalustus vaihtelee kirjastoittain. Lukusalia ei voi varata.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "en": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Library reading rooms",
+            "description_short": "A library's reading room is a public and free space open to all, suitable for reading and working alone quietly. \n",
+            "description_long": "The room is suitable for reading and working alone quietly. The space is equipped with Wi-Fi. A reading room is an open space where you can focus on reading and working quietly on your own. The size and furnishing of reading rooms varies from library to library. Reading rooms cannot be reserved.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
+                51342
+            ]
+        },
+        "sv": {
+            "id": 10129,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Bibliotekets läsesalar",
+            "description_short": "Bibliotekets läsesal är en offentlig, fri och öppen plats för läsning och tyst enskilt arbete. \n",
+            "description_long": "Bibliotekens läsesal lämpar sig för läsning och lugnt självständigt arbete. Ett trådlöst nätverk finns i lokalen. Läsesalen är ett utrymme som är öppet för alla, där du kan fokusera på självständig läsning och annat tyst arbete. Läsesalarnas storlek och inredning varierar med biblioteket. Läsesalen kan inte reserveras.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8143,
+                8149,
+                8154,
+                8178,
+                8184,
+                8192,
+                8269,
+                8310,
+                8325,
                 51342
             ]
         }
