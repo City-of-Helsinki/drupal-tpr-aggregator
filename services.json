@@ -29301,7 +29301,8 @@
                 51342,
                 53419,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": [
@@ -29390,7 +29391,8 @@
                 51342,
                 53419,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -29472,7 +29474,8 @@
                 51342,
                 53419,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -29554,7 +29557,8 @@
                 51342,
                 53419,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -80737,6 +80741,93 @@
         }
     },
     {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -80852,93 +80943,6 @@
             "unit_ids": [
                 9301,
                 63087
-            ]
-        }
-    },
-    {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
             ]
         }
     },
@@ -115302,7 +115306,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -115382,7 +115387,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -115462,7 +115468,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -116729,7 +116736,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -116808,7 +116816,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -116887,7 +116896,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -116969,7 +116979,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": [
@@ -117050,7 +117061,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -117131,7 +117143,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -117209,7 +117222,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -117287,7 +117301,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -117369,7 +117384,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -117448,7 +117464,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -117527,7 +117544,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -117707,7 +117725,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -117785,7 +117804,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -117863,7 +117883,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -117945,7 +117966,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -118023,7 +118045,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -118101,7 +118124,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
@@ -118181,7 +118205,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "en": {
@@ -118257,7 +118282,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         },
         "sv": {
@@ -118333,7 +118359,8 @@
                 45317,
                 51342,
                 71884,
-                74355
+                74355,
+                80346
             ]
         }
     },
