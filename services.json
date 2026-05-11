@@ -80774,6 +80774,93 @@
         }
     },
     {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -80893,18 +80980,17 @@
         }
     },
     {
-        "id": 8961,
+        "id": 10356,
         "fi": {
-            "id": 8961,
+            "id": 10356,
             "main_description": false,
             "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
             "provided_languages": [
             ],
             "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -80913,7 +80999,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5719
             ],
             "links": [
             ],
@@ -80923,16 +81008,15 @@
             ]
         },
         "en": {
-            "id": 8961,
+            "id": 10356,
             "main_description": false,
             "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
             "provided_languages": [
             ],
             "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -80941,7 +81025,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5719
             ],
             "links": [
             ],
@@ -80951,16 +81034,15 @@
             ]
         },
         "sv": {
-            "id": 8961,
+            "id": 10356,
             "main_description": false,
             "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
             "provided_languages": [
             ],
             "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -80969,7 +81051,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-                5719
             ],
             "links": [
             ],
@@ -81066,87 +81147,6 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -102903,7 +102903,7 @@
             "title": "Laitoshoito",
             "name_synonyms": "Palveluasuminen, asumispalvelu, asumispalvelut, tehostettu palveluasuminen, ympärivuorokautinen palveluasuminen, pitkäaikainen palveluasuminen, pitkäaikainen ympärivuorokautinen palveluasuminen, ympärivuorokautinen hoito, ympärivuorokautinen hoiva, laitoshoito, pitkäaikainen laitoshoito, laitospalvelu, vanhainkotihoito, vanhainkoti, monipuolinen palvelukeskus, palvelutalo, hoiva, Iäkäs henkilö, iäkkäät henkilöt, ikääntynyt väestö, ikääntyneet, vanhus, vanhusasiakas",
             "description_short": "Tarjoamme laitoshoidon yksiköissä ympärivuorokautista hoitoa ja hoivaa. Laitoshoito voi olla pitkäaikaista tai lyhytaikaista.",
-            "description_long": "Pitkäaikainen laitoshoito on tarkoitettu sinulle, jos tarvitsemaasi ympärivuorokautista hoitoa ei voida järjestää kotona tai ympärivuorokautisena palveluasumisena.\n\nPitkäaikaiseen laitoshoitoon sisältyvät sairaanhoidon ja terveydenhoidon lisäksi muun muassa ateriat, lääkkeet, hoitotarvikkeet sekä sosiaalista hyvinvointia edistävät palvelut, kuten virkistysmatkat.\n\nLyhytaikaisella arviointi- ja kuntoutusjaksolla tuemme esimerkiksi kotona asuvia ikääntyneitä tai sairaalasta kotiutumassa olevia. Lisäksi lyhytaikaisella hoidolla voidaan tukea hoitavien omaisten voimavaroja.\n\nJärjestämme laitoshoidon yksiköissämme erilaisia tapahtumia ja kulttuuritoimintaa. Henkilökuntaan kuuluu muun muassa lähihoitajia, sairaanhoitajia, fysioterapeutteja, toimintaterapeutteja, sosiaaliohjaajia ja kulttuuriohjaajia.\n\nJärjestämme lyhytaikaista ja pitkäaikaista laitoshoitoa Kivelän, Koskelan ja Kustaankartanon seniorikeskuksissa. Pitkäaikaista laitoshoitoa järjestämme myös ostopalveluna.\n\nOlemme siirtymässä pitkäaikaisesta laitoshoidosta vähitellen kohti ryhmäkodeissa tarjottavaa ympärivuorokautista hoitoa.\n\nLisätietoa palvelusta saat Seniori-infosta.\n\nPalvelu on maksullista.\n",
+            "description_long": "Pitkäaikainen laitoshoito on tarkoitettu sinulle, jos tarvitsemaasi ympärivuorokautista hoitoa ei voida järjestää kotona tai ympärivuorokautisena palveluasumisena.\n\nPitkäaikaiseen laitoshoitoon sisältyvät sairaanhoidon ja terveydenhoidon lisäksi muun muassa ateriat, lääkkeet, hoitotarvikkeet sekä sosiaalista hyvinvointia edistävät palvelut, kuten virkistysmatkat.\n\nLyhytaikaisella arviointi- ja kuntoutusjaksolla tuemme esimerkiksi kotona asuvia ikääntyneitä tai sairaalasta kotiutumassa olevia. Lisäksi lyhytaikaisella hoidolla voidaan tukea hoitavien omaisten voimavaroja.\n\nJärjestämme laitoshoidon yksiköissämme erilaisia tapahtumia ja kulttuuritoimintaa. Henkilökuntaan kuuluu muun muassa lähihoitajia, sairaanhoitajia, fysioterapeutteja, toimintaterapeutteja, sosiaaliohjaajia ja kulttuuriohjaajia.\n\nJärjestämme lyhytaikaista ja pitkäaikaista laitoshoitoa Koskelan seniorikeskuksessa. Pitkäaikaista laitoshoitoa järjestämme myös ostopalveluna.\n\nOlemme siirtymässä pitkäaikaisesta laitoshoidosta vähitellen kohti ryhmäkodeissa tarjottavaa ympärivuorokautista hoitoa.\n\nLisätietoa palvelusta saat Seniori-infosta.\n\nPalvelu on maksullista.\n",
             "prerequisites": "Tarvittava hoito pyritään aina ensisijaisesti järjestämään asiakkaan yksityiskodissa kotihoidon ja muiden avopalvelujen turvin. Ympärivuorokautista hoitopaikkaa ei voida myöntää, jos avopalveluja ei ole ollut monipuolisesti käytössä.\n\nMaksujen määräytymistä varten asiakas antaa tiedot tuloista ja varallisuudesta.\n\nPalvelu on tarkoitettu iäkkäille ja alle 65-vuotiaille monisairaille henkilöille\n\nPalvelu on tarkoitettu helsinkiläisille.",
             "information": "",
             "general_description_id": "7b6bc3f1-03ae-41f7-8558-3b7caae9dfbe",
@@ -102942,7 +102942,7 @@
             "title": "Institutional care",
             "name_synonyms": "Sheltered housing, housing service, housing services, intensive sheltered housing, 24-hour sheltered housing, long-term sheltered housing, long-term 24-hour sheltered housing, 24-hour care, institutional care, long-term institutional care, institutional service, care home for the elderly, home for the elderly, senior centre, service house, care, elderly person, elderly people, senior population, the elderly, senior, senior client",
             "description_short": "We provide 24-hour care and treatment in institutional care units. Institutional care can either be long-term or short-term.",
-            "description_long": "Long-term institutional care is for you if the 24-hour care you require cannot be provided at your home or as 24-hour service housing.\n\nIn addition to medical and health care, long-term institutional care includes, for example, meals, medicines, care supplies and services that promote social well-being, such as recreational trips.\n\nDuring the short-term assessment and rehabilitation period, we support, for example, elderly people living at home or those about to be discharged from the hospital. In addition, short-term care can support the resources of people caring for their loved ones.\n\nWe organise various events and cultural activities in our institutional care units. The staff includes practical nurses, registered nurses, physiotherapists, occupational therapists, social instructors and cultural counsellors.\n\nWe provide short- and long-term institutional care at the senior centres of Kivelä, Koskela and Kustaankartano. We also provide long-term institutional care as an outsourced service.\n\nWe are gradually moving away from long-term institutional care towards 24-hour care in group homes.\n\nFurther information about the service is available from Senior Info.\n\nThe service is subject to a charge.\n",
+            "description_long": "Long-term institutional care is for you if the 24-hour care you require cannot be provided at your home or as 24-hour service housing.\n\nIn addition to medical and health care, long-term institutional care includes, for example, meals, medicines, care supplies and services that promote social well-being, such as recreational trips.\n\nDuring the short-term assessment and rehabilitation period, we support, for example, elderly people living at home or those about to be discharged from the hospital. In addition, short-term care can support the resources of people caring for their loved ones.\n\nWe organise various events and cultural activities in our institutional care units. The staff includes practical nurses, registered nurses, physiotherapists, occupational therapists, social instructors and cultural counsellors.\n\nWe provide short- and long-term institutional care at the senior centre of Koskela. We also provide long-term institutional care as an outsourced service.\n\nWe are gradually moving away from long-term institutional care towards 24-hour care in group homes.\n\nFurther information about the service is available from Senior Info.\n\nThe service is subject to a charge.\n",
             "prerequisites": "The aim is to primarily arrange the necessary care in the client's private home with the help of home care and other non-institutional services. A place in 24-hour care cannot be granted, if the client has not been using varied non-institutional services.\n\nIn order to define the fees, the client must give information about their income and assets.\n\nThe service is intended for the elderly and for under 65-year-old people with multiple illnesses.\n\nThe service is only for the residents of Helsinki.",
             "general_description_id": "7b6bc3f1-03ae-41f7-8558-3b7caae9dfbe",
             "provided_languages": [
@@ -102980,7 +102980,7 @@
             "title": "Anstaltsvård",
             "name_synonyms": "Serviceboende, boendetjänst, boendetjänster, intensifierat serviceboende, serviceboende dygnet runt, långvarigt serviceboende, långvarigt serviceboende dygnet runt, vård dygnet runt, omsorg dygnet runt, anstaltsvård, långvarig anstaltsvård, anstaltstjänst, vård på ålderdomshem, ålderdomshem, seniorcenter, servicehus, omsorg, äldre person, äldre personer, åldrande befolkning, äldre, åldring, äldre klient",
             "description_short": "Vi erbjuder heldygnsvård och -omsorg vid anstaltsvårdens enheter. Anstaltsvården kan vara lång- eller kortvarig.",
-            "description_long": "Långvarigt anstaltsboende är avsett för dig om den heldygnsomsorg som du behöver inte kan ordnas hemma eller som serviceboende med heldygnsomsorg.\n\nI långvarig anstaltsvård ingår utöver sjuk- och hälsovård bland annat måltider, läkemedel, förbrukningsartiklar samt tjänster som främjar socialt välbefinnande, såsom rekreationsresor.\n\nUnder en kortvarig bedömnings- och rehabiliteringsperiod stöder vi till exempel äldre som bor hemma eller skrivs ut från sjukhuset. Med kortvarig vård kan man också stödja resurserna för vårdgivande anhöriga.\n\nVid anstaltsvårdsenheterna ordnar vi olika evenemang och kulturverksamhet. I personalen ingår bland annat närvårdare, sjukskötare, fysioterapeuter, ergoterapeuter, socialhandledare och kulturhandledare.\n\nVi ordnar kort- och långvarig anstaltsvård vid Stengårds, Forsby och Gustafsgårds seniorcenter. Långvarig anstaltsvård ordnar vi också som en köpt tjänst.\n\nStaden håller så småningom på att övergå från långvarig anstaltsvård till heldygnsomsorg i grupphem.\n\nDu får mer information om tjänsten från Seniorinfo.\n\nTjänsten är avgiftsbelagd.\n",
+            "description_long": "Långvarigt anstaltsboende är avsett för dig om den heldygnsomsorg som du behöver inte kan ordnas hemma eller som serviceboende med heldygnsomsorg.\n\nI långvarig anstaltsvård ingår utöver sjuk- och hälsovård bland annat måltider, läkemedel, förbrukningsartiklar samt tjänster som främjar socialt välbefinnande, såsom rekreationsresor.\n\nUnder en kortvarig bedömnings- och rehabiliteringsperiod stöder vi till exempel äldre som bor hemma eller skrivs ut från sjukhuset. Med kortvarig vård kan man också stödja resurserna för vårdgivande anhöriga.\n\nVid anstaltsvårdsenheterna ordnar vi olika evenemang och kulturverksamhet. I personalen ingår bland annat närvårdare, sjukskötare, fysioterapeuter, ergoterapeuter, socialhandledare och kulturhandledare.\n\nVi ordnar kort- och långvarig anstaltsvård vid Forsby seniorcenter. Långvarig anstaltsvård ordnar vi också som en köpt tjänst.\n\nStaden håller så småningom på att övergå från långvarig anstaltsvård till heldygnsomsorg i grupphem.\n\nDu får mer information om tjänsten från Seniorinfo.\n\nTjänsten är avgiftsbelagd.\n",
             "prerequisites": "Man strävar alltid efter att i första hand ordna den vård som behövs i klientens privata hem genom hemvård och andra öppna tjänster. Man kan inte beviljas en plats för vård dygnet runt om man inte på ett mångsidigt sätt använt öppna tjänster.\n\nFör att avgifterna ska kunna fastställas uppger klienten uppgifter om sina inkomster och sin förmögenhet.\n\nServicen är avsedd för äldre personer och multisjuka personer under 65 år.\n\nServicen är avsedd för helsingforsbor.",
             "general_description_id": "7b6bc3f1-03ae-41f7-8558-3b7caae9dfbe",
             "provided_languages": [
