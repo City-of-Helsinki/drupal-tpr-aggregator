@@ -28062,7 +28062,7 @@
             "service_id": 10148,
             "title": "Lukiokoulutus",
             "name_synonyms": "lukio, lukiot, lukio-opinnot",
-            "description_short": "Lukiossa opiskellaan monipuolisesti eri oppiaineita kuten äidinkieltä ja vieraita kieliä, matemaattis-luonnontieteellisiä ja humanistis-yhteiskunnallisia aineita, uskontoa tai elämänkatsomustietoa, terveystietoa ja liikuntaa sekä taito- ja taideaineita.\n\n",
+            "description_short": "Lukio-opinnot jakaantuvat pakollisiin, syventäviin ja soveltaviin kursseihin.\n\n",
             "description_long": "Lukiossa opiskellaan monipuolisesti eri oppiaineita kuten äidinkieltä ja vieraita kieliä, matemaattis-luonnontieteellisiä ja humanistis-yhteiskunnallisia aineita, uskontoa tai elämänkatsomustietoa, terveystietoa ja liikuntaa sekä taito- ja taideaineita.\n\nLukio-opinnot jakaantuvat pakollisiin, syventäviin ja soveltaviin kursseihin. Opiskelija valitsee itse kurssinsa ja etenee opinnoissaan henkilökohtaisen opintosuunnitelmansa mukaisesti.",
             "prerequisites": "Peruskoulun päättötodistus tai vastaava todistus. Opiskelijat valitaan lukioon peruskoulun päättötodistuksen lukuaineiden keskiarvon perusteella. Erityislukioissa voidaan painottaa myös muuta osaamista.",
             "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
@@ -28128,7 +28128,7 @@
             "service_id": 10148,
             "title": "General upper secondary education",
             "name_synonyms": "Highschool, upper secondary school",
-            "description_short": "Students at general upper secondary schools study a wide variety of subjects including their first language and foreign languages, mathematics and sciences, arts and social sciences, religion or ethics, health education, physical education, and crafts and art.",
+            "description_short": "General upper secondary studies are divided into compulsory, specialized and applied courses.",
             "description_long": "Students at general upper secondary schools study a wide variety of subjects including their first language and foreign languages, mathematics and sciences, arts and social sciences, religion or ethics, health education, physical education, and crafts and art.\n\nGeneral upper secondary studies are divided into compulsory, specialized and applied courses. Students choose their courses themselves and progress in their studies according to their personal study plans.\n",
             "prerequisites": "Application to general upper secondary education is made with the comprehensive education final certificate or a corresponding certificate. The general upper secondary schools that specialize in one or more subjects also consider the applicants' grades in those subjects in addition to the grade point average. Schools can also apply entrance or applicability tests.",
             "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
@@ -28189,7 +28189,7 @@
             "service_id": 10148,
             "title": "Gymnasiestudier",
             "name_synonyms": "Gymnasium",
-            "description_short": "I gymnasiet studerar man mångsidigt olika ämnen såsom modersmål och främmande språk, matematiska och naturvetenskapliga ämnen, humanistiska ämnen och samhällsämnen, religion eller livsåskådningskunskap, hälsokunskap och idrott samt konst- och färdighetsämnen.",
+            "description_short": "Gymnasiestudierna indelas i obligatoriska, fördjupade och tillämpade kurser.",
             "description_long": "gymnasiet studerar man mångsidigt olika ämnen såsom modersmål och främmande språk, matematiska och naturvetenskapliga ämnen, humanistiska ämnen och samhällsämnen, religion eller livsåskådningskunskap, hälsokunskap och idrott samt konst- och färdighetsämnen.\n\nGymnasiestudierna indelas i obligatoriska, fördjupade och tillämpade kurser. Studeranden väljer själv sina kurser och studierna går framåt enligt den individuella studieplanen.",
             "prerequisites": "Man söker till gymnasiet med avgångsbetyget från grundskolan eller motsvarande betyg i den gemensamma ansökan. Antagningen till gymnasiet avgörs på basis av medeltalet på grundskolans avgångsbetyg. I de gymnasier som inriktar sig på ett eller flera ämnen påverkas antagningen både av medeltalet och av betygen i de ämnen som gymnasiet är inriktat på. Även inträdes- eller lämplighetstest kan tillämpas.",
             "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
@@ -34741,6 +34741,7 @@
             "description_short": "Guardians can use the Wilma web interface to obtain information about instruction and teaching arrangements. Wilma is used by pupils and students to monitor their studies. It is used at general upper secondary schools to enroll in courses.",
             "description_long": "Helsinki schools use the Wilma web interface, which guardians can use to obtain information about instruction and teaching arrangements. Wilma is used by pupils and students to monitor their studies. It is used at general upper secondary schools to enroll in courses. \n",
             "prerequisites": "A Wilma user account. \n",
+            "information": "hel.fi\/wilma",
             "user_instruction": "You can create a Wilma user account by using Suomi.fi identification, whereby your guardian information is retrieved via the Digital and Population Data Services Agency. If you already have a Wilma account, you can add your child who is starting school to it.\n",
             "provided_languages": [
                 "en",
@@ -34797,6 +34798,7 @@
             "description_short": "Via internettjänsten Wilma får föräldrarna information om sina barns undervisning. Wilma används av elever och studerande för uppföljning av de egna studierna och i gymnasierna bland annat för kursanmälning.",
             "description_long": "Skolorna i Helsingfors använder internettjänsten Wilma. Via den får föräldrarna information om sina barns undervisningsarrangemang och undervisning. Wilma används även av elever och studerande själva för uppföljning av de egna studierna och i gymnasierna bland annat för kursanmälning.",
             "prerequisites": "Användarkoder krävs i Wilma. \n",
+            "information": "hel.fi\/wilma",
             "user_instruction": "Som barnets vårdnadshavare kan du skapa ett eget Wilma-konto. Detta görs med hjälp av Suomi.fi-identifiering. Då hämtas vårdnadshavaruppgifterna via Myndigheten för digitalisering och befolkningsdata. Om du redan har ett Wilma-konto kan du lägga till ditt barn som börjar skolan till det kontot.",
             "provided_languages": [
                 "en",
@@ -80988,6 +80990,87 @@
         }
     },
     {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5236,
         "fi": {
             "id": 5236,
@@ -81074,87 +81157,6 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -84328,179 +84330,6 @@
         ],
         "sv": [
         ]
-    },
-    {
-        "id": 3382,
-        "fi": {
-            "id": 3382,
-            "main_description": true,
-            "service_id": 10667,
-            "title": "Aikuislukiokoulutus",
-            "name_synonyms": "aikuislukiot, aikuisten lukiokoulutus",
-            "description_short": "Helsingin aikuislukioissa voi opiskella monipuolisesti.",
-            "description_long": "Helsingissä on kolme aikuislukiota, joista Konepajan aikuislukio on kaupungin ylläpitämä. Lisäksi Tölö gymnasiumissa on ruotsinkielinen aikuiskoulutuslinja.\n\nAikuislukiossa voi suorittaa peruskoulun päättötutkinnon, opiskella yksittäisiä peruskoulun aineita ja korottaa suoritettuja arvosanoja.\n\nAikuislukiossa voi suorittaa myös lukion oppimäärän ja osallistua ylioppilaskirjoituksiin, myös ammatillisen tutkinnon pohjalta. Aikuislukiossa voi myös opiskella yksittäisiä lukion aineita ja korottaa suoritettuja arvosanoja. Lukio-opintoja voi täydentää uusilla aineilla tai laajemmalla oppimäärällä.\n",
-            "general_description_id": "9b5b9ff4-ab5e-4197-93c6-31334db002c8",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "IMMIGRANTS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5113
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Eiran aikuislukio",
-                    "url": "https:\/\/www.eira.fi\/fi\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Töölön yhteiskoulun aikuislukio",
-                    "url": "https:\/\/www.tyk.fi\/aikuislukio\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Konepajan aikuislukio",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/konepajan-aikuislukio"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Tölö gymnasium vuxenstudier",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/tolo-gymnasium\/vuxenstudier"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                6820,
-                15061,
-                73101,
-                79456
-            ]
-        },
-        "en": {
-            "id": 3382,
-            "main_description": true,
-            "service_id": 10667,
-            "title": "Upper secondary school for adults",
-            "description_long": "In Helsinki, there are four general upper secondary schools for adults. Konepaja General Upper Secondary School for Adults and the Swedish-language general upper secondary school line for adults of Tölö gymnasium are maintained by the City of Helsinki. Eira High School for Adults and Töölön yhteiskoulu's adult upper secondary school are maintained by private parties.\n\nThe general upper secondary school for adults allows you to complete the general upper secondary school syllabus and also participate in the matriculation examination on the basis of a vocational qualification. You can also study individual general upper secondary school subjects and raise your completed grades. You can also extend your general upper secondary school studies with new subjects or a wider syllabus.\n\nIn addition, you can complete your comprehensive school studies, study individual comprehensive school subjects and raise completed grades at a general upper secondary school for adults.\n",
-            "general_description_id": "9b5b9ff4-ab5e-4197-93c6-31334db002c8",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "IMMIGRANTS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5113
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Eira High School for Adults",
-                    "url": "https:\/\/www.eira.fi\/fi\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Konepaja Upper Secondary School for Adults",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/konepaja-upper-secondary-school-for-adults"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Tölö gymnasium Upper Secondary School for Adults",
-                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/tolo-gymnasium-upper-secondary-school"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Töölö Coeducational School, Upper Secondary School for Adults",
-                    "url": "https:\/\/www.tyk.fi\/aikuislukio\/"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                6820,
-                15061,
-                73101,
-                79456
-            ]
-        },
-        "sv": {
-            "id": 3382,
-            "main_description": true,
-            "service_id": 10667,
-            "title": "Vuxengymnasium",
-            "description_long": "I Helsingfors kan du studera vid ett vuxengymnasium på fyra ställen. Det finska vuxengymnasiet Konepajan aikuislukio och den svenskspråkiga linjen för vuxenutbildning vid Tölö gymnasium upprätthålls av Helsingfors stad. Privat upprätthållna är Eira vuxengymnasium och Töölön yhteiskoulun aikuislukio.\n\nI vuxengymnasiet kan du förvärva gymnasiekompetens, delta i studentskrivningarna, även på grundval av yrkesexamen. I vuxengymnasiet kan du också studerar enskilda gymnasieämnen och höja redan erhållna betyg. Du kan komplettera gymnasiestudier med nya ämnen eller utvidgade kurser.\n\nDessutom kan man i vuxengymnasiet förvärva grundskolans slutexamen, studera enskilda grundskoleämnen och höja redan erhållna betyg.\n",
-            "general_description_id": "9b5b9ff4-ab5e-4197-93c6-31334db002c8",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "IMMIGRANTS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5113
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Eiran aikuislukio",
-                    "url": "https:\/\/www.eira.fi\/fi\/"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Konepajan aikuislukio",
-                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/konepajan-aikuislukio"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Tölö gymnasium vuxenstudier",
-                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/tolo-gymnasium\/vuxenstudier"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Töölön yhteiskoulun aikuislukio",
-                    "url": "https:\/\/www.tyk.fi\/aikuislukio\/"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                6820,
-                15061,
-                73101,
-                79456
-            ]
-        }
     },
     {
         "id": 2770,
