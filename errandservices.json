@@ -43882,6 +43882,176 @@
         }
     },
     {
+        "id": 5912,
+        "fi": {
+            "id": 5912,
+            "exact_descriptions": [
+            ],
+            "service_id": 10004,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa perusopetuksesta",
+            "description": "Helsingin kaupungin kasvatuksen ja koulutuksen toimialan verkkosivuilta löydät tietoa:\n- kaupungin peruskouluista\n- kouluun ilmoittautumisesta ja hakemisesta\n- opiskelusta peruskoulussa\n- oppimisen ja koulunkäynnin tuesta\n- iltapäivätoiminnasta\n- opiskelusta peruskoulun jäkeen",
+            "process_description": "",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Perusopetus Helsinginssä",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4566,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Perusopetuksen verkkosivut",
+                    "information": "Helsingin kaupunki, kasvatuksen ja koulutuksen verkkosivut",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Perusopetus",
+                            "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5912,
+            "exact_descriptions": [
+            ],
+            "service_id": 10004,
+            "type": "OTHER_ESERVICE",
+            "name": "More information about Comprehensive education",
+            "description": "Explore the topic\n- Schools in Helsinki\n- Enrolling and applying to comprehensive school\n- Comprehensive school studies\n- Support for learning, well-being and schoolwork\n- Morning and after-school activities, clubs and hobbies\n- Studies after basic education",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Comprehensive education",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/basic-education"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4566,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5912,
+            "exact_descriptions": [
+            ],
+            "service_id": 10004,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om grundläggande utbildning",
+            "description": "Läs mer om\n- grundskolor\n- anmälan och ansökan till skolan\n- studier i grundskolan\n- stöd för lärande, välbefinnande och skolgång\n- morgon- och eftermiddagsverksamhet, klubbar och hobbyer\n- studier efter grundskolan.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "CHILDREN_AND_FAMILIES",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Grundläggande utbildning",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/grundlaggande-utbildning"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4566,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5808,
         "fi": {
             "id": 5808,
