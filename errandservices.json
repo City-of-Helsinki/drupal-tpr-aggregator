@@ -4255,7 +4255,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Asunnottomien neuvonnan (Asumisen tuki) puhelinpalvelu asiakkaille, yhteistyökumppaneille ja ammattilaisille",
-                    "availability_summary": "Avoinna ma, ke, pe 09-11:30, ma, ke, pe 12-15",
+                    "availability_summary": "Avoinna ma, ke 09-11:30, ma, ke 12-15",
                     "phone": "+358 9 310 22530",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -4271,10 +4271,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma, ke, pe 09-11:30"
+                            "availability_string": "Avoinna ma, ke 09-11:30"
                         },
                         {
-                            "availability_string": "Avoinna ma, ke, pe 12-15"
+                            "availability_string": "Avoinna ma, ke 12-15"
                         }
                     ]
                 }
@@ -4310,7 +4310,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Telephone service for counselling for the unhoused (Housing Support) for clients, partners and professionals",
-                    "availability_summary": "Open Mon, Wed, Fri 09-11:30, Mon, Wed, Fri 12-15",
+                    "availability_summary": "Open Mon, Wed 09-11:30, Mon, Wed 12-15",
                     "phone": "+358 9 310 22530",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -4326,10 +4326,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon, Wed, Fri 09-11:30"
+                            "availability_string": "Open Mon, Wed 09-11:30"
                         },
                         {
-                            "availability_string": "Open Mon, Wed, Fri 12-15"
+                            "availability_string": "Open Mon, Wed 12-15"
                         }
                     ]
                 }
@@ -4365,7 +4365,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänst för bostadslösa (Boendestöd) för kunder, samarbetspartner och proffs",
-                    "availability_summary": "Öppet mån, ons, fre 09-11:30, mån, ons, fre 12-15",
+                    "availability_summary": "Öppet mån, ons 09-11:30, mån, ons 12-15",
                     "phone": "+358 9 310 22530",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -4381,10 +4381,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån, ons, fre 09-11:30"
+                            "availability_string": "Öppet mån, ons 09-11:30"
                         },
                         {
-                            "availability_string": "Öppet mån, ons, fre 12-15"
+                            "availability_string": "Öppet mån, ons 12-15"
                         }
                     ]
                 }
@@ -76766,7 +76766,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Asumisen tuen neuvonta (myös yhteistyökumppaneille)",
-                    "availability_summary": "Avoinna ma, ke, pe 09-11",
+                    "availability_summary": "Avoinna ma, ke 09-11:30, ma, ke 12-15",
                     "phone": "09 310 22530",
                     "call_charge_info": "maksuton",
                     "provided_languages": [
@@ -76782,7 +76782,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma, ke, pe 09-11"
+                            "availability_string": "Avoinna ma, ke 12-15"
+                        },
+                        {
+                            "availability_string": "Avoinna ma, ke 09-11:30"
                         }
                     ]
                 }
@@ -76816,7 +76819,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Housing Support Services (also for partners)",
-                    "availability_summary": "Open Mon, Wed, Fri 09-11",
+                    "availability_summary": "Open Mon, Wed 09-11:30, Mon, Wed 12-15",
                     "phone": "09 310 22530",
                     "call_charge_info": "toll free",
                     "provided_languages": [
@@ -76832,7 +76835,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Open Mon, Wed, Fri 09-11"
+                            "availability_string": "Open Mon, Wed 12-15"
+                        },
+                        {
+                            "availability_string": "Open Mon, Wed 09-11:30"
                         }
                     ]
                 }
@@ -76866,7 +76872,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Telefontjänsten för boendestöd (även samarbetsparter)",
-                    "availability_summary": "Öppet mån, ons, fre 09-11",
+                    "availability_summary": "Öppet mån, ons 09-11:30, mån, ons 12-15",
                     "phone": "09 310 22530",
                     "call_charge_info": "gratis",
                     "provided_languages": [
@@ -76882,7 +76888,10 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Öppet mån, ons, fre 09-11"
+                            "availability_string": "Öppet mån, ons 12-15"
+                        },
+                        {
+                            "availability_string": "Öppet mån, ons 09-11:30"
                         }
                     ]
                 }
