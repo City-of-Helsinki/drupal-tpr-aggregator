@@ -22174,7 +22174,7 @@
             "service_id": 10290,
             "type": "PERMISSION",
             "name": "Report excavation work in a street or park area",
-            "description": "Submit excavation notifications through the Haitaton system starting from 1 May 2025.\n\nWhen necessary, you can also apply for a cable report through Haitaton in connection to your excavation notification. \n\nExcavation notifications in Haitaton are always created for a certain project. This project should be created in Haitaton as early on as possible so that everyone planning their project at the same time can see it. \n\nA nuisance management plan must always be created for a project. An excavation notification specifies the nuisance management plan into measures. \n",
+            "description": "Submit excavation notifications through the Haitaton system starting from 1 May 2025.\n\nWhen necessary, you can also apply for a cable report through Haitaton in connection to your excavation notification. \n\nExcavation notifications in Haitaton are always created for a certain project. This project should be created in Haitaton as early on as possible so that everyone planning their project at the same time can see it. \n\nA nuisance management plan must always be created for a project. An excavation notification specifies the nuisance management plan into measures.\n\nPlease note! The project area means the area where the normal use of the public area is affected by the work. The project area must therefore be drawn larger than the excavation or cable report area.",
             "processing_time": "The average processing time is seven days.",
             "information": "The service is subject to a fee. See the prices in the fees section.\n\nLearn more about how to use Haitaton in the Haitaton service.\n\n",
             "provided_languages": [
@@ -22260,7 +22260,7 @@
             "service_id": 10290,
             "type": "PERMISSION",
             "name": "Anmäl grävarbeten i ett gatu- eller parkområde",
-            "description": "Gör en anmälan om grävarbeten i Haitaton-systemet fr.o.m. 1.5.2025.\n\nDu kan vid behov i samband med grävanmälan också ansöka om en ledningsutredning i Haitaton.\n \nI Haitaton skapas grävanmälningar alltid för ett projekt. Det är bra att grunda projektet så tidigt som möjligt i Haitaton, så att det syns för andra som samtidigt planerar sina projekt. \n\nFör projektet ska det alltid utarbetas en plan över hantering av olägenheter. På grävanmälan preciseras planen över hantering av olägenheter till åtgärder. \n",
+            "description": "Gör en anmälan om grävarbeten i Haitaton-systemet fr.o.m. 1.5.2025.\n\nDu kan vid behov i samband med grävanmälan också ansöka om en ledningsutredning i Haitaton.\n \nI Haitaton skapas grävanmälningar alltid för ett projekt. Det är bra att grunda projektet så tidigt som möjligt i Haitaton, så att det syns för andra som samtidigt planerar sina projekt. \n\nFör projektet ska det alltid utarbetas en plan över hantering av olägenheter. På grävanmälan preciseras planen över hantering av olägenheter till åtgärder.\n\nObs! Med projektområde avses det område där arbetet påverkar den normala användningen av det allmänna området. Projektområdet ska ritas större än grävningsområdet eller området för ledningsutredningen.\n",
             "processing_time": "Genomsnittlig handläggningstid är sju dagar.",
             "information": "Tjänsten är avgiftsbelagd. Se priserna i punkten avgifter.\n\nBekanta dig med Haitatons bruksanvisningar i Haitaton-tjänsten.",
             "provided_languages": [
@@ -56563,7 +56563,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Puhelinpalvelu",
-                    "availability_summary": "Avoinna ti 09-11",
+                    "availability_summary": "Avoinna 28.7.2026 saakka ti 09-11, Suljettu alkaen 29.7.2026 ma-pe 09-",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -56578,8 +56578,10 @@
                     "links": [
                     ],
                     "availabilities": [
+                        [
+                        ],
                         {
-                            "availability_string": "Avoinna ti 09-11"
+                            "availability_string": "Avoinna ti 28.7.2026 saakka klo 09-11"
                         }
                     ]
                 },
@@ -56613,7 +56615,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "availability_summary": "Avoinna to 09-15",
+                    "availability_summary": "Avoinna to 09-15, Suljettu poikkeuksellisesti 1.7. - 31.8.2026 ma-pe",
                     "personal_service_street_addr": "Asiakkaankatu 3A, 00930",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -56629,6 +56631,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Suljettu poikkeuksellisesti ma-pe 1.7. - 31.8.2026"
+                        },
                         {
                             "availability_string": "Avoinna to 09-15"
                         }
@@ -56691,7 +56696,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Call",
-                    "availability_summary": "Open Tue 09-11",
+                    "availability_summary": "Open until 28 Jul 2026 Tue 09-11, Closed from 29 Jul 2026 Mon-Fri 09-",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -56706,8 +56711,10 @@
                     "links": [
                     ],
                     "availabilities": [
+                        [
+                        ],
                         {
-                            "availability_string": "Open Tue 09-11"
+                            "availability_string": "Open Tue until 28 Jul 2026 at 09-11"
                         }
                     ]
                 },
@@ -56736,7 +56743,7 @@
                     "type": "LOCAL",
                     "type_string": "Local services",
                     "name": "Helsinki Employment Services, Itäkeskus office",
-                    "availability_summary": "Open Thu 09-15",
+                    "availability_summary": "Open Thu 09-15, Closed exceptinally 1 Jul - 31 Aug 2026 Mon-Fri",
                     "personal_service_street_addr": "Asiakkaankatu 3A,",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -56752,6 +56759,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Closed exceptinally Mon-Fri 1 Jul - 31 Aug 2026"
+                        },
                         {
                             "availability_string": "Open Thu 09-15"
                         }
@@ -56814,7 +56824,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Ring",
-                    "availability_summary": "Öppet tis 09-11",
+                    "availability_summary": "Öppet tills 28.7.2026 tis 09-11, Stängt från 29.7.2026 mån-fre 09-",
                     "phone": "+358 9 310 36130",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -56829,8 +56839,10 @@
                     "links": [
                     ],
                     "availabilities": [
+                        [
+                        ],
                         {
-                            "availability_string": "Öppet tis 09-11"
+                            "availability_string": "Öppet tis tills 28.7.2026 kl. 09-11"
                         }
                     ]
                 },
@@ -56864,7 +56876,7 @@
                     "type": "LOCAL",
                     "type_string": "Lokal service",
                     "name": "Helsingfors sysselsättningstjänster, Verksamhetsstället i Östra centrum",
-                    "availability_summary": "Öppet tor 09-15",
+                    "availability_summary": "Öppet tor 09-15, Stängt undantagsvis 1.7. - 31.8.2026 mån-fre",
                     "personal_service_street_addr": "Kundgatan 3A",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsingfors",
@@ -56880,6 +56892,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Stängt undantagsvis mån-fre 1.7. - 31.8.2026"
+                        },
                         {
                             "availability_string": "Öppet tor 09-15"
                         }
