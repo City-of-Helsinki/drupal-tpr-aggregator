@@ -73232,8 +73232,57 @@
                 78842
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 10395,
+            "main_description": true,
+            "service_id": 10566,
+            "title": "Gymnasieutbildning med profilering eller intensifiering",
+            "description_short": "Intensifierad undervisning innebär att du kan studera studieavsnitt, läroämnen eller studiehelheter enligt intensifieringen.",
+            "description_long": "Helsingfors stad har tio gymnasier med någon typ av intensifierad undervisning. Du kan läsa mer om våra gymnasiers intensifierade undervisning på respektive gymnasiums webbplats. \n\nIntensifierad undervisning innebär att du kan studera studieavsnitt, läroämnen eller studiehelheter enligt intensifieringen. \n\nStadens gymnasier ordnar intensifierad undervisning i exempelvis företagsverksamhet, naturvetenskaper, språk och internationalism, kreativ kompetens och journalism. Språkgymnasiet Helsingin kielilukios intensifiering är en engelsk- och finskspråkig linje där minst hälften av studierna genomförs på engelska. \n\nOm du studerar i intensifierad undervisning ska du genomföra alla obligatoriska gymnasiestudier. Studierna enligt intensifieringen ingår i ditt studieprogram som nationella valfria studier eller andra valfria studier.\n\nVid några av våra gymnasier ska du direkt söka till linjen med intensifierad undervisning i den gemensamma ansökan. Vid vissa andra gymnasier söker du först till gymnasiet och kan valfritt välja intensifierad undervisning i ditt studieprogram.\n",
+            "user_instruction": "Du söker till linjen med intensifierad undervisning i den gemensamma ansökan med avgångsbetyget från grundskolan. Urvalsgrunden är medelvitsordet i läsämnena eller ett betonat medelvitsord samt eventuellt inträdesprov och\/eller tilläggsprestationer. \n\nOm det under läsåret blir lediga platser vid gymnasiet kan de sökas via den kontinuerliga ansökan. Urvalskriterierna är desamma som i den gemensamma ansökan.\n\nOm du har genomfört en utländsk utbildning som motsvarar den grundläggande utbildningen eller om du inte har något avgångsbetyg från grundskolan, ska du söka till gymnasiet via antagning enligt prövning i den gemensamma ansökan eller den kontinuerliga ansökan.\n",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Gymnasier i Helsingfors",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/gymnasieutbildning\/gymnasier"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Studieinfo",
+                    "url": "https:\/\/opintopolku.fi\/konfo\/sv\/"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                6901,
+                30851,
+                30852,
+                30853,
+                30855,
+                30858,
+                30863,
+                30865,
+                34442,
+                73120,
+                78842
+            ]
+        }
     },
     {
         "id": 4180,
@@ -81252,93 +81301,6 @@
         }
     },
     {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -81458,6 +81420,174 @@
         }
     },
     {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 5236,
         "fi": {
             "id": 5236,
@@ -81544,87 +81674,6 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 10356,
-        "fi": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 10356,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -119174,8 +119223,62 @@
                 73120
             ]
         },
-        "sv": [
-        ]
+        "sv": {
+            "id": 3173,
+            "main_description": true,
+            "service_id": 10883,
+            "title": "Gymnasieutbildning, allmän linje",
+            "description_long": "Vid stadens samtliga gymnasier kan du studera på den allmänna linjen. På den allmänna linjen studerar du i enlighet med din individuella studieplan minst 150 studiepoäng. Gymnasiets lärokurs för vuxna omfattar minst 88 studiepoäng. Gymnasiestudierna är indelade i obligatoriska, nationella valfria studier och valfria studier. \n\nDe obligatoriska studierna inom gymnasieexamen för unga omfattar 94 eller 103 studiepoäng beroende på om du väljer den långa eller den korta lärokursen i matematik. Du måste genomföra minst 20 studiepoäng nationella valfria studier.\n\nDe obligatoriska studierna inom gymnasieexamen för vuxna omfattar 66 eller 74 studiepoäng beroende på lärokursen i matematik. \n\nI gymnasiet studerar man mångsidigt olika ämnen såsom modersmål och främmande språk, matematiska och naturvetenskapliga ämnen och humanistiska och samhällsämnen, religion eller livsåskådningskunskap, hälsokunskap och idrott samt konst- och färdighetsämnen. \n\nEfter gymnasiet kan den studerande söka till fortsatta studier vid ett universitet, en yrkeshögskola eller inom en yrkesinriktad utbildning. \n",
+            "user_instruction": "Du söker till den allmänna linjen i gymnasiet med avgångsbetyget från grundskolan eller motsvarande betyg, i första hand i den gemensamma ansökan. Du hittar information om urvalskriterierna på Studieinfo eller på webbplatsen för det gymnasium som intresserar dig.\n\nOm det under läsåret blir lediga platser vid gymnasiet kan de sökas via den kontinuerliga ansökan. Urvalskriterierna är desamma som i den gemensamma ansökan.\n\nOm du har genomfört en utländsk utbildning som motsvarar den grundläggande utbildningen eller om du inte har något avgångsbetyg från grundskolan, ska du söka till gymnasiet via antagning enligt prövning i den gemensamma ansökan eller den kontinuerliga ansökan. Du kan också vara berättigad att söka till den engelskspråkiga linjen vid Helsingin kielilukio.",
+            "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Gymnasier i Helsingors",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/gymnasieutbildning\/gymnasier"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Studieinfo",
+                    "url": "https:\/\/opintopolku.fi\/konfo\/sv\/"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                6820,
+                6901,
+                7051,
+                30851,
+                30852,
+                30853,
+                30854,
+                30855,
+                30858,
+                30862,
+                30863,
+                30864,
+                30865,
+                34442,
+                73120
+            ]
+        }
     },
     {
         "id": 9946,
