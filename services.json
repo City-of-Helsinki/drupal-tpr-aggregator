@@ -30508,7 +30508,7 @@
             "description_short": "Helsingin kaupungilla on kahdeksan erityistehtävän saanutta lukiota, joissa on erityistehtävän mukainen laaja kurssitarjonta.",
             "description_long": "Helsingin kaupungin lukioissa voit opiskella kahdeksassa eri lukiossa, joilla on jokin erityistehtävä. Näitä lukioita kutsutaan erikoislukioiksi. Erityistehtävä voi olla esimerkiksi kuvataide, musiikki, urheilu tai luonnontieteet. Lukioidemme erityistehtäviin voit tutustua kunkin lukion omilla verkkosivuilla.    \n\nLukion erityistehtävä voi tarkoittaa kahta eri asiaa.   \n1. Lukion opetuksessa painotetaan merkittävällä tavalla yhtä tai useampaa oppiainetta tai opintokokonaisuutta. Voit tietyin edellytyksin korvata osan lukion pakollisista opinnoista, kun suoritat erityistehtävän mukaisia opintoja vähintään 24 opintopistettä.   \n2. Lukion opetus tähtää siihen, että opiskelija suorittaa kansainvälisen tutkinnon. Tutkinto vastaa tasoltaan ylioppilastutkintoa. Tällainen on esimerkiksi International Baccalaureate -tutkinto.   \n\nErityistehtävän saaneessa lukiossa voit    \n1. suorittaa lukio-opinnot tai niitä vastaavat opinnot  \n2. rakentaa yksilöllisen opintopolun  \n3. hankkia erityistä osaamista tulevaisuutta varten  \n4. syventää osaamistasi tietyssä harrastuksessa  \n5. saada ylioppilastutkinnon tai kansainvälisen tutkinnon.  \n",
             "prerequisites": "",
-            "user_instruction": "Haet lukion erityistehtävän mukaiselle linjalle yhteishaussa peruskoulun päättötodistuksen lukuaineiden tai painotetun keskiarvon perusteella sekä mahdollisesti pääsykokeen ja\/tai lisänäyttöjen perusteella. \n \nJos erityistehtävän mukaisilta linjoilta vapautuu paikkoja lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Niissä on samat valintaperusteet kuin yhteishaussa. \n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet linjalle harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
+            "user_instruction": "Haet lukion erityistehtävän mukaiselle linjalle yhteishaussa peruskoulun päättötodistuksen lukuaineiden tai painotetun keskiarvon perusteella sekä mahdollisesti pääsykokeen ja\/tai lisänäyttöjen perusteella. \n \nJos paikkoja vapautuu lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Niissä on samat valintaperusteet kuin yhteishaussa. \n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet linjalle harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
             "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
             "provided_languages": [
                 "en",
@@ -30561,7 +30561,7 @@
             "title": "General upper secondary education with a special educational task",
             "description_short": "The City of Helsinki has eight general upper secondary schools that offer general upper secondary school studies based on a special educational task.",
             "description_long": "The City of Helsinki has eight general upper secondary schools that offer general upper secondary school studies based on a special educational task. A special educational task means that the school specialises in a certain subject, such as visual arts, music, sport or natural sciences, mathematics and statistics. You can find out more about the special educational tasks of our general upper secondary schools on the schools' web pages.  \n\nThe special educational task of a general upper secondary school can mean two different things.   \n\n1. The general upper secondary school places a significant emphasis on one or more subjects or study modules in its curriculum. If certain requirements are met, you can replace some of your compulsory studies by completing at least 24 credits in line with the school's special educational task.   \n2. The aim of the general upper secondary school studies is for the student to complete an international qualification at the level of the Finnish matriculation examination certificate. One example of such a qualification is the International Baccalaureate Diploma.   \n\nAt a general upper secondary school with a special educational task, you can    \n1. complete general upper secondary education or equivalent studies  \n2. build an individual study path  \n3. obtain special skills for the future  \n4. deepen your knowledge and skills in a particular hobby  \n5. obtain a matriculation examination certificate or complete an international qualification.    \n",
-            "user_instruction": "You apply to a general upper secondary school's special educational task track on the basis of the average grade of the theoretical subjects or the weighted average grade in your comprehensive education certificate and, if applicable, an entrance exam and\/or additional evidence. \n\nIf study places become available at a general upper secondary school during the school year, they will be filled through rolling admissions. The selection criteria are the same as in the joint application procedure.\n\nIf you have completed education equivalent to Finnish comprehensive education abroad or do not have a comprehensive education certificate, you can apply to general upper secondary general school via discretionary admission in the joint application procedure or through rolling admission. \n",
+            "user_instruction": "You apply to a general upper secondary school with a specialised task through the joint application system. Students are selected based on their comprehensive education certificates (either the average grade in academic subjects or a weighted average). The application process may also include an entrance exam and other additional assessments.\n\nIf places become available during the school year, you can apply for a place through the rolling submission process. The criteria for student selection are the same as in the joint application procedure.\n\nIf you have completed education equivalent to Finnish comprehensive education abroad or do not have a comprehensive education certificate, you can apply to general upper secondary general school via discretionary admission in the joint application procedure or through rolling admission. \n",
             "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
             "provided_languages": [
                 "en",
@@ -59240,6 +59240,7 @@
             ],
             "unit_ids": [
                 31093,
+                58225,
                 64521,
                 68044,
                 68047
@@ -59278,6 +59279,7 @@
             ],
             "unit_ids": [
                 31093,
+                58225,
                 64521,
                 68044,
                 68047
@@ -59316,6 +59318,7 @@
             ],
             "unit_ids": [
                 31093,
+                58225,
                 64521,
                 68044,
                 68047
@@ -65316,6 +65319,108 @@
         }
     },
     {
+        "id": 9603,
+        "fi": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
+            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
+            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
+            "description_short": "You can receive support from us until you turn 23.",
+            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
+            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
+            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
         "id": 2921,
         "fi": {
             "id": 2921,
@@ -65421,108 +65526,6 @@
             "errand_services": [
             ],
             "exact_errand_services": [
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
-        "id": 9603,
-        "fi": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
-            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
-            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
-            "description_short": "You can receive support from us until you turn 23.",
-            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
-            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
-            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
             ],
             "links": [
             ],
@@ -73134,7 +73137,7 @@
             "title": "Painotettu opetus lukiossa",
             "description_short": "Painotettu opetus lukiossa tarkoittaa sitä, että voit opiskella painotuksen mukaisia opintojaksoja, oppiaineita tai opintokokonaisuuksia.",
             "description_long": "Helsingin kaupungilla on kymmenen lukiota, joilla on opetuksessaan jokin painotus. Lukioidemme painotuksiin voit tutustua kunkin lukion omilla verkkosivuilla. \n\nPainotettu opetus tarkoittaa sitä, että voit lukiossa opiskella painotuksen mukaisia opintojaksoja, oppiaineita tai opintokokonaisuuksia. \n\nKaupungin lukioiden painotuksia ovat esimerkiksi yrittäjyys, luonnontiede, kielet ja kansainvälisyys, luova osaaminen tai toimittajan työ. Helsingin kielilukiossa on painotuksena englannin- ja suomenkielinen linja, jossa opinnoista vähintään puolet on englanniksi. \n\nJos opiskelet painotetussa opetuksessa, sinun tulee suorittaa lukion kaikki pakolliset opinnot. Painotuksen mukaiset opinnot sisältyvät opinto-ohjelmaasi valtakunnallisina valinnaisina tai muina valinnaisina opintoina.\n\nJoihinkin lukioihimme haetaan yhteishaussa suoraan painotuksen mukaiselle linjalle. Joissakin lukioissa taas haet lukion opiskelijaksi ja voit halutessasi valita painotusopintoja opinto-ohjelmaasi.\n\n\n",
-            "user_instruction": "Lukion painotuksen mukaiselle linjalle haetaan yhteishaussa peruskoulun päättötodistuksen lukuaineiden tai painotetun keskiarvon perusteella sekä mahdollisesti pääsykokeen ja\/tai lisänäyttöjen perusteella. Löydät tietoa valintaperusteista Opintopolusta tai sinua kiinnostavan lukion verkkosivuilta.\n\nJos painotuksen mukaisilta linjoilta vapautuu paikkoja lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Jatkuvassa haussa on samat valintaperusteet kuin yhteishaussa.\n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet painotuslinjalle harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
+            "user_instruction": "Lukion painotuksen mukaiselle linjalle haetaan yhteishaussa peruskoulun päättötodistuksen lukuaineiden tai painotetun keskiarvon perusteella sekä mahdollisesti pääsykokeen ja\/tai lisänäyttöjen perusteella. Löydät tietoa valintaperusteista Opintopolusta tai sinua kiinnostavan lukion verkkosivuilta.\n\nJos paikkoja vapautuu lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Jatkuvassa haussa on samat valintaperusteet kuin yhteishaussa.\n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet painotuslinjalle harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -73177,8 +73180,56 @@
                 78842
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 10395,
+            "main_description": true,
+            "service_id": 10566,
+            "title": "General upper secondary education with an emphasis",
+            "description_short": "You can find out about our schools' special emphases on the schools' own web pages.",
+            "description_long": "The City of Helsinki has ten general upper secondary schools that have a special emphasis on a particular subject in their curriculum. You can find out more about our schools' special emphases on the schools' own web pages. \n\nParticipating in special emphasis education means that you can complete study units, subjects or study modules in line with the general upper secondary school's special emphasis. \n\nExamples of the special emphases of the City's general upper secondary schools include entrepreneurship, natural sciences, languages and internationality, creative skills and journalism. The Helsinki Upper Secondary School of Languages has a special emphasis bilingual Finnish-English study track, in which at least half of the studies are in English. \n\nIf you study in special emphasis education, you must complete all the compulsory general upper secondary school studies. The studies according to the special emphasis are included in your study programme as national optional or other optional studies.\n\n",
+            "user_instruction": "You can apply to some of the special emphasis tracks of our general upper secondary schools directly in the joint application procedure. At other general upper secondary schools, you simply apply to the school and, once admitted, can include special emphasis studies in your study programme.\n\nIf study places become available during the school year, you can apply for a place through the rolling submission process. The criteria for student selection are the same as in the joint application procedure.",
+            "provided_languages": [
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Studyinfo",
+                    "url": "https:\/\/opintopolku.fi\/konfo\/en\/"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "General upper secondary schools",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/general-upper-secondary-education\/general-upper-secondary-schools"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                6901,
+                30851,
+                30852,
+                30853,
+                30855,
+                30858,
+                30863,
+                30865,
+                34442,
+                73120,
+                78842
+            ]
+        },
         "sv": [
         ]
     },
@@ -81199,93 +81250,6 @@
         }
     },
     {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -81401,6 +81365,93 @@
             "unit_ids": [
                 9301,
                 63087
+            ]
+        }
+    },
+    {
+        "id": 8961,
+        "fi": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 8961,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5719
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
             ]
         }
     },
@@ -116700,6 +116751,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -116848,70 +116963,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
