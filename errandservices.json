@@ -43642,6 +43642,198 @@
         }
     },
     {
+        "id": 5917,
+        "fi": {
+            "id": 5917,
+            "exact_descriptions": [
+            ],
+            "service_id": 10148,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa lukiokoulutuksesta",
+            "description": "Helsingin kaupungin kasvatuksen ja koulutuksen toimialan verkkosivuilta löydät tietoa muun muassa kaupungin lukioista ja niihin hakemisesta sekä opiskelusta lukiossa.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Lisätietoa lukiokoulutuksesta",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/lukiokoulutus"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4570,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lukiokoulutuksen verkkosivut",
+                    "information": "Helsingin kaupunki, lukiokoulutuksen verkkosivut",
+                    "availability_summary": "Avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lukiokoulutus",
+                            "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/lukiokoulutus"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5917,
+            "exact_descriptions": [
+            ],
+            "service_id": 10148,
+            "type": "OTHER_ESERVICE",
+            "name": "More information about General upper secondary education",
+            "description": "Read more about General upper secondary schools in helsinki, applying to general upper secondary school and studies in general upper secondary school.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "More information about General upper secondary education",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/general-upper-secondary-education"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4570,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "General upper secondary education website",
+                    "information": "More information on the General upper secondary education website",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "General upper secondary education",
+                            "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/general-upper-secondary-education"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5917,
+            "exact_descriptions": [
+            ],
+            "service_id": 10148,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om gymnasieutbildning",
+            "description": "Läs mer om stadens gymnasier, ansökan till gymnasier och studier i gymnasiet.\n",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Gymnasieutbildning i Helsingfors",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/gymnasieutbildning"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4570,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Webbplats Gymnasieutbildning",
+                    "information": "Helsingfors stads webbsidor, Gymnasieutbildning",
+                    "availability_summary": "Öppet varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Gymnasieutbildning",
+                            "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/gymnasieutbildning"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5804,
         "fi": {
             "id": 5804,
@@ -43890,6 +44082,7 @@
         "fi": {
             "id": 5912,
             "exact_descriptions": [
+                2773
             ],
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
@@ -43924,6 +44117,7 @@
                     "type_string": "Verkkosivu",
                     "name": "Perusopetuksen verkkosivut",
                     "information": "Helsingin kaupunki, kasvatuksen ja koulutuksen verkkosivut",
+                    "availability_summary": "Avoinna joka päivä",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -43944,6 +44138,9 @@
                         }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
                     ]
                 }
             ]
@@ -43951,6 +44148,7 @@
         "en": {
             "id": 5912,
             "exact_descriptions": [
+                2773
             ],
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
@@ -43982,6 +44180,9 @@
                     "id": 4566,
                     "type": "WEBPAGE",
                     "type_string": "Webpage",
+                    "name": "Comprehensive education website",
+                    "information": "See more information on the Comprehensive education website",
+                    "availability_summary": "Open every day",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -43995,8 +44196,16 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "More informaton about Coprehensive education",
+                            "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/comprehensive-education"
+                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
                     ]
                 }
             ]
@@ -44004,6 +44213,7 @@
         "sv": {
             "id": 5912,
             "exact_descriptions": [
+                2773
             ],
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
@@ -44035,6 +44245,9 @@
                     "id": 4566,
                     "type": "WEBPAGE",
                     "type_string": "Webbsida",
+                    "name": "Webbplats Grundläggande utbildning",
+                    "information": "Helsingfors stads webbsidor, Grundläggande utbildning",
+                    "availability_summary": "Öppet varje dag",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -44048,8 +44261,16 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Mer information om grundläggande utbildning",
+                            "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/grundlaggande-utbildning"
+                        }
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
                     ]
                 }
             ]
