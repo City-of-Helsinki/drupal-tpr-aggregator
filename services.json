@@ -73142,7 +73142,7 @@
             "title": "Painotettu opetus lukiossa",
             "description_short": "Painotettu opetus lukiossa tarkoittaa sitä, että voit opiskella painotuksen mukaisia opintojaksoja, oppiaineita tai opintokokonaisuuksia.",
             "description_long": "Helsingin kaupungilla on kymmenen lukiota, joilla on opetuksessaan jokin painotus. Lukioidemme painotuksiin voit tutustua kunkin lukion omilla verkkosivuilla. \n\nPainotettu opetus tarkoittaa sitä, että voit lukiossa opiskella painotuksen mukaisia opintojaksoja, oppiaineita tai opintokokonaisuuksia. \n\nKaupungin lukioiden painotuksia ovat esimerkiksi yrittäjyys, luonnontiede, kielet ja kansainvälisyys, luova osaaminen tai toimittajan työ. Helsingin kielilukiossa on painotuksena englannin- ja suomenkielinen linja, jossa opinnoista vähintään puolet on englanniksi. \n\nJos opiskelet painotetussa opetuksessa, sinun tulee suorittaa lukion kaikki pakolliset opinnot. Painotuksen mukaiset opinnot sisältyvät opinto-ohjelmaasi valtakunnallisina valinnaisina tai muina valinnaisina opintoina.\n\nJoihinkin lukioihimme haetaan yhteishaussa suoraan painotuksen mukaiselle linjalle. Joissakin lukioissa taas haet lukion opiskelijaksi ja voit halutessasi valita painotusopintoja opinto-ohjelmaasi.\n",
-            "user_instruction": "Haet lukion painotuksen mukaiselle linjalle yhteishaussa peruskoulun päättötodistuksen lukuaineiden tai painotetun keskiarvon perusteella sekä mahdollisesti pääsykokeen ja\/tai lisänäyttöjen perusteella. Löydät tietoa valintaperusteista Opintopolusta tai sinua kiinnostavan lukion verkkosivuilta.\n\nJos paikkoja vapautuu lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Jatkuvassa haussa on samat valintaperusteet kuin yhteishaussa.\n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet painotuslinjalle harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
+            "user_instruction": "Haet lukion painotuksen mukaiselle linjalle yhteishaussa peruskoulun päättötodistuksen lukuaineiden tai painotetun keskiarvon perusteella sekä mahdollisesti pääsykokeen ja\/tai lisänäyttöjen perusteella. Löydät tietoa valintaperusteista Opintopolusta tai sinua kiinnostavan lukion verkkosivuilta.\n\nJos paikkoja vapautuu lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Valintaperusteet ovat samat kuin yhteishaussa.\n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet painotuslinjalle harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -81306,93 +81306,6 @@
         }
     },
     {
-        "id": 8961,
-        "fi": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Liikkuva Symppis",
-            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
-            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Mobile Symppis health advice",
-            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
-            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 8961,
-            "main_description": false,
-            "service_id": 10622,
-            "title": "Symppis mobila hälsorådgivning",
-            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
-            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
-            "provided_languages": [
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5719
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 5078,
         "fi": {
             "id": 5078,
@@ -81512,17 +81425,18 @@
         }
     },
     {
-        "id": 10356,
+        "id": 8961,
         "fi": {
-            "id": 10356,
+            "id": 8961,
             "main_description": false,
             "service_id": 10622,
-            "title": "Kontulan terveysneuvontapiste",
-            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
-            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "title": "Liikkuva Symppis",
+            "description_short": "Liikkuva Symppis tarjoaa terveys- ja sosiaalineuvontaa arkisin eri puolilla kaupunkia.",
+            "description_long": "Liikkuva Symppis antaa terveys- ja sosiaalineuvontaa päihdeasiakkaille. Teemme hoidontarpeen arviointeja, HIV- ja hepatiittitestejä ja annamme rokotuksia. Meillä voi vaihtaa käytetyt pistosvälineet uusiin.\n\nVoit asioida meillä päihtyneenä ja nimettömänä. Tervetuloa!",
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -81531,6 +81445,7 @@
             "errand_services": [
             ],
             "exact_errand_services": [
+                5719
             ],
             "links": [
             ],
@@ -81540,15 +81455,16 @@
             ]
         },
         "en": {
-            "id": 10356,
+            "id": 8961,
             "main_description": false,
             "service_id": 10622,
-            "title": "The Kontula Health Counselling Point",
-            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
-            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "title": "Mobile Symppis health advice",
+            "description_short": "Mobile Symppis offers health counselling around the city on weekdays.",
+            "description_long": "Mobile Symppis provides health and social counselling for clients with substance abuse issues. We do treatment need assessments, HIV and hepatitis tests and administer vaccines. We can replace your used needles with new ones.\n\nYou can come to see us under the influence of drugs and\/or alcohol and anonymously. We look forward to seeing you!",
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -81557,6 +81473,7 @@
             "errand_services": [
             ],
             "exact_errand_services": [
+                5719
             ],
             "links": [
             ],
@@ -81566,15 +81483,16 @@
             ]
         },
         "sv": {
-            "id": 10356,
+            "id": 8961,
             "main_description": false,
             "service_id": 10622,
-            "title": "Hälsorådgivningen i Gårdsbacka",
-            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
-            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "title": "Symppis mobila hälsorådgivning",
+            "description_short": "Mobila Symppis ger hälsorådgivning på olika håll i staden på vardagar.",
+            "description_long": "Mobila Symppis ger hälsorådgivning åt dig som har missbruksproblem och lider av psykisk ohälsa. Vi gör bedömningar av vårdbehovet, testar för HIV och hepatit och ger vaccinationer. Hos oss kan du lämna in använda sprutor och få nya.\n\nDu kan besöka oss under rusmedelspåverkan och anonymt. Välkommen!",
             "provided_languages": [
             ],
             "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
             ],
             "target_groups": [
             ],
@@ -81583,6 +81501,7 @@
             "errand_services": [
             ],
             "exact_errand_services": [
+                5719
             ],
             "links": [
             ],
@@ -81679,6 +81598,87 @@
             ],
             "responsible_depts": [
                 "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 10356,
+        "fi": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Kontulan terveysneuvontapiste",
+            "description_short": "Kontulan terveysneuvontapiste tarjoaa terveysneuvontaa ja ohjausta muihin päihdepalveluihin.",
+            "description_long": "Kontulan on avoinna arkisin klo 10-15.30. Voit asioida myös päihtyneenä. Toimintamme on anonyymia.\n\nAsiakkaille tarjotaan terveysneuvontaa ja ohjausta muihin päihdepalveluihin. Terveysneuvontapisteessä voi myös vaihtaa käyttövälineet puhtaisiin, mikä estää osaltaan tarttuvien tautien leviämistä.\n\nTerveysneuvontapisteen palvelut ovat asiakkaille maksuttomia, eikä ajanvarausta tarvita.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "The Kontula Health Counselling Point",
+            "description_short": "The Kontula Health Counselling Point offers clients health counselling and referrals to other substance abuse services.",
+            "description_long": "The Kontula Health Counselling Point is open on weekdays from 10.00-15.00. You do not need to be sober or give your name when using our services.\n\nIt offers clients health counselling and referrals to other substance abuse services. Clients can also exchange used equipment for clean ones at the service point, helping to prevent the spread of infectious diseases.\n\nThe services of the health counselling point are free of charge and do not require an appointment.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 10356,
+            "main_description": false,
+            "service_id": 10622,
+            "title": "Hälsorådgivningen i Gårdsbacka",
+            "description_short": "Hälsorådgivningen i Gårdsbacka ger råd om hälso- och sjukvård samt info om andra beroendetjänster.",
+            "description_long": "Hälsorådgivningen i Gårdsbacka är öppen vardagar kl. 10-15. Du kan besöka oss även om du är påverkad. Vår verksamhet är anonym.\n\nKlienterna ges råd om hälso- och sjukvård samt hänvisning till andra beroendetjänster. Vid denna servicepunkt kan man också få sterila redskap, vilket förebygger spridningen av smittsamma sjukdomar.\n\nHälsorådgivningens tjänster är avgiftsfria och det krävs ingen tidsbokning för att få tjänsterna.",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
             ],
             "target_groups": [
             ],
@@ -91978,10 +91978,10 @@
             "id": 3061,
             "main_description": false,
             "service_id": 10771,
-            "title": "Terveysasemien Ite-pisteet",
+            "title": "Terveysasemien Ite- ja itsemittauspisteet",
             "name_synonyms": "itsehoitopiste, ite-piste, Itepiste, Ite-piste, itepiste",
-            "description_short": "Ite-pisteellä voit mitata muun muassa verenpaineesi. Vuosaaren ja Kalasataman terveys- ja hyvinvointikeskuksista löydät MedicubeX-itsemittauspisteen, jossa voit tehdä laajempia tutkimuksia itsenäisesti.",
-            "description_long": "Jokaisella terveysasemalla on oma Ite-piste, joka on käytettävissä terveysaseman aukioloaikana. Ite-pisteillä on tarjolla tietoa itsehoidosta ja mahdollisuus mitata verenpaine.",
+            "description_short": "Terveysasemien Ite- ja itsemittausmittauspisteillä voi tehdä terveyteesi liittyviä mittauksia. Itsemittauspisteillä voit täyttää myös Omaolon terveystarkastuksen.",
+            "description_long": "Ite-pisteellä voit mitata muun muassa verenpaineesi. Vuosaaren ja Kalasataman terveys- ja hyvinvointikeskuksista löydät MedicubeX-itsemittauspisteen, jossa voit tehdä laajempia tutkimuksia itsenäisesti ja täyttää Omaolon terveystarkastuksen.",
             "prerequisites": "Palvelu on tarkoitettu helsinkiläisille.",
             "general_description_id": "4d9c1903-839c-471e-919a-b5a8df267117",
             "provided_languages": [
@@ -119120,7 +119120,7 @@
             "name_synonyms": "yleislukio, lukiokoulutus",
             "description_short": "Yleislinjan lukiossa opiskellaan monipuolisesti erilaisia oppiaineita. Lukiokoulutus kestää noin 2-4 vuotta ja käsittää vähintään 75 kurssia.",
             "description_long": "Voit opiskella yleislinjalla kaupungin kaikissa lukioissa. Yleislinjalla opiskelet yksilöllisen opintosuunnitelmasi mukaisesti vähintään 150 opintopistettä. Aikuisten lukiotutkinnon laajuus on vähintään 88 opintopistettä. Lukio-opinnot jakaantuvat pakollisiin, valtakunnallisiin valinnaisiin ja valinnaisiin opintoihin. \n\nPakollisten opintojen määrä on nuorten lukiotutkinnossa 94 tai 102 opintopistettä riippuen matematiikan oppimäärän laajuudesta (pitkä tai lyhyt). Valtakunnallisia valinnaisia opintoja sinun on suoritettava vähintään 20 opintopisteen verran.\n\nAikuisten lukiotutkinnossa pakollisten opintojen määrä on 66 tai 74 matematiikan oppimäärän laajuuden mukaan. \n\nLukiossa opiskellaan monipuolisesti eri oppiaineita kuten äidinkieltä ja vieraita kieliä, matemaattis-luonnontieteellisiä ja humanistis-yhteiskunnallisia aineita, uskontoa tai elämänkatsomustietoa, terveystietoa ja liikuntaa sekä taito- ja taideaineita. \n\nLukion jälkeen opiskelija voi hakeutua jatko-opintoihin yliopistoihin, korkeakouluihin tai ammatilliseen koulutukseen. \n",
-            "user_instruction": "Haet lukion yleislinjalle peruskoulun päättötodistuksella tai vastaavalla todistuksella ensisijaisesti yhteishaussa. Löydät tietoa valintaperusteista Opintopolusta tai sinua kiinnostavan lukion verkkosivuilta.\n\nJos lukioista vapautuu paikkoja lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Jatkuvassa haussa on samat valintaperusteet kuin yhteishaussa.\n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet lukioon harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
+            "user_instruction": "Haet lukion yleislinjalle peruskoulun päättötodistuksella tai vastaavalla todistuksella ensisijaisesti yhteishaussa. Löydät tietoa valintaperusteista Opintopolusta tai sinua kiinnostavan lukion verkkosivuilta.\n\nJos lukioista vapautuu paikkoja lukuvuoden aikana, ne laitetaan hakuun jatkuvassa haussa. Valintaperusteet ovat samat kuin yhteishaussa.\n\nJos olet suorittanut perusopetusta vastaavan koulutuksen ulkomailla tai sinulla ei ole perusopetuksen päättötodistusta, haet lukioon harkinnanvaraisessa valinnassa yhteishaussa tai jatkuvassa haussa.",
             "general_description_id": "07ac17e9-b833-43b2-b336-a0d1ed4824b9",
             "provided_languages": [
                 "fi",
