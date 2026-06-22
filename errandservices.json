@@ -85837,12 +85837,14 @@
                 },
                 {
                     "id": 3121,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
                     "name": "Tee virka-apupyyntö",
+                    "prerequisites": "Virka-apupyynnön voi tehdä yksityisalueen toimivaltainen edustaja kuten esim. kiinteistön omistaja, isännöitsijä, toimitusjohtaja, kiinteistöosakeyhtiön tai asunto-osakeyhtiön hallituksen puheenjohtaja tai erikseen tähän valtuutettu henkilö. Kiinteistön huollosta vastaavilla henkilöillä voidaan katsoa asemavaltuutus virka-apupyynnön tekemiseen.",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -85852,8 +85854,8 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Virka-apupyyntö ajoneuvon siirtämiseksi yksityisalueelta (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/hkr\/pysakointi\/siirtolomake.pdf",
+                            "title": "Virka-apupyyntö ajoneuvon siirtämiseksi yksityisalueelta",
+                            "url": "https:\/\/lomake.hel.fi\/forms.cgi?form_id=536",
                             "file_format": "PDF"
                         }
                     ],
@@ -85986,12 +85988,13 @@
                 },
                 {
                     "id": 3121,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
                     "name": "Make a request",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -86135,12 +86138,13 @@
                 },
                 {
                     "id": 3121,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
                     "name": "Gör en begäran on handräcking",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
