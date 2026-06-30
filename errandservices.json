@@ -18297,8 +18297,8 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Download the Helsinki benefit application form",
-                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsinki-lisa_hakulomake_2026_EN.pdf",
+                            "title": "\tDownload the Helsinki benefit application form",
+                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsinki_benefit_application_2026_EN.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -18387,7 +18387,7 @@
                         {
                             "type": "FORM",
                             "title": "Ladda ner ansökningsblanketten för Helsingforstillägget",
-                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsinki-lisa_hakulomake_2026_SV.pdf",
+                            "url": "https:\/\/www.hel.fi\/static\/tyollisyys\/helsingforstillagget_ansokan_2026_SV.pdf",
                             "file_format": "PDF"
                         }
                     ],
@@ -44197,7 +44197,7 @@
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
             "name": "Lisätietoa perusopetuksesta",
-            "description": "Helsingin kaupungin kasvatuksen ja koulutuksen toimialan verkkosivuilta löydät tietoa:\n- kaupungin peruskouluista\n- kouluun ilmoittautumisesta ja hakemisesta\n- opiskelusta peruskoulussa\n- oppimisen ja koulunkäynnin tuesta\n- iltapäivätoiminnasta\n- opiskelusta peruskoulun jäkeen",
+            "description": "Helsingin kaupungin kasvatuksen ja koulutuksen toimialan verkkosivuilta löydät tietoa kaupungin peruskouluista ja kouluun ilmoittautumisesta ja hakemisesta, opiskelusta peruskoulussa, oppimisen ja koulunkäynnin tuesta, iltapäivätoiminnasta ja opiskelusta peruskoulun jäkeen",
             "process_description": "",
             "provided_languages": [
                 "en",
@@ -44265,7 +44265,7 @@
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
             "name": "More information about Comprehensive education",
-            "description": "Explore the topic\n- Schools in Helsinki\n- Enrolling and applying to comprehensive school\n- Comprehensive school studies\n- Support for learning, well-being and schoolwork\n- Morning and after-school activities, clubs and hobbies\n- Studies after basic education",
+            "description": "Explore the topic: Schools in Helsinki, Enrolling and applying to comprehensive school, Comprehensive school studies, Support for learning, well-being and schoolwork, Morning and after-school activities, clubs and hobbies, Studies after basic education",
             "provided_languages": [
                 "en",
                 "fi",
@@ -44332,7 +44332,7 @@
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
             "name": "Mer information om grundläggande utbildning",
-            "description": "Läs mer om\n- grundskolor\n- anmälan och ansökan till skolan\n- studier i grundskolan\n- stöd för lärande, välbefinnande och skolgång\n- morgon- och eftermiddagsverksamhet, klubbar och hobbyer\n- studier efter grundskolan.\n",
+            "description": "Läs mer om grundskolor, anmälan och ansökan till skolan, studier i grundskolan, stöd för lärande, välbefinnande och skolgång, morgon- och eftermiddagsverksamhet, klubbar och hobbyer och studier efter grundskolan.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -44883,6 +44883,195 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5919,
+        "fi": {
+            "id": 5919,
+            "exact_descriptions": [
+            ],
+            "service_id": 10909,
+            "type": "OTHER_ESERVICE",
+            "name": "Lisätietoa valmistavasta opetuksesta",
+            "process_description": "Lue lisää valmistavasta opetuksesta kasvatuksen ja koulutuksen verkkosivulta.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Vamistava opetus",
+                    "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/kouluun-ilmoittautuminen-ja-hakeminen\/valmistava-opetus"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4574,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Lisätietoa valmistavasta opetuksesta, verkkosivu",
+                    "information": "Tietoa valmistavasta opetuksesta Helsingin kaupungin verkkosivulla\n",
+                    "availability_summary": "Avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Valmistava opetus",
+                            "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/perusopetus\/kouluun-ilmoittautuminen-ja-hakeminen\/valmistava-opetus"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5919,
+            "exact_descriptions": [
+            ],
+            "service_id": 10909,
+            "type": "OTHER_ESERVICE",
+            "name": "More information about preparatory education",
+            "process_description": "Read more about preparatory education on the City of Helsinki website.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Preparatory education",
+                    "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/comprehensive-education\/enrolling-and-applying-to-school\/preparatory-education"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4574,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "More information about Preparatory education, webbsite",
+                    "information": "Information about preparatory education on the Helsinki City webbsite.",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Preparatory education",
+                            "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/comprehensive-education\/enrolling-and-applying-to-school\/preparatory-education"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5919,
+            "exact_descriptions": [
+            ],
+            "service_id": 10909,
+            "type": "OTHER_ESERVICE",
+            "name": "Mer information om förberedande undervisning",
+            "process_description": "Läs mer om förberedande undervisning på Helsingfors stads webbplats.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Förberedande undervisning",
+                    "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/grundlaggande-utbildning\/anmalan-och-ansokan-till-skolan\/forberedande-undervisning"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4574,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Mer information om förberedande undervisning, webbplats",
+                    "information": "Information om förberedande undervisning på Helsingfors stads webbplats.",
+                    "availability_summary": "Öppet varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Förberedande undervisning",
+                            "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/grundlaggande-utbildning\/anmalan-och-ansokan-till-skolan\/forberedande-undervisning"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
                     ]
                 }
             ]
