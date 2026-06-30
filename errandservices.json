@@ -43648,6 +43648,7 @@
             "exact_descriptions": [
                 2774,
                 3172,
+                3173,
                 10395
             ],
             "service_id": 10148,
@@ -43699,7 +43700,34 @@
                             "type": "INTERNET",
                             "title": "Lukiokoulutus",
                             "url": "https:\/\/www.hel.fi\/fi\/kasvatus-ja-koulutus\/lukiokoulutus"
-                        },
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                },
+                {
+                    "id": 4573,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Erityistehtävät ja painotukset, verkkosivu",
+                    "information": "Lue, mitä eroa on lukion erityistehtävällä ja painotuksella.",
+                    "availability_summary": "Avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                         {
                             "type": "INTERNET",
                             "title": "Erityistehtävät ja painotukset",
@@ -43719,6 +43747,7 @@
             "exact_descriptions": [
                 2774,
                 3172,
+                3173,
                 10395
             ],
             "service_id": 10148,
@@ -43770,7 +43799,34 @@
                             "type": "INTERNET",
                             "title": "General upper secondary education",
                             "url": "https:\/\/www.hel.fi\/en\/childhood-and-education\/general-upper-secondary-education"
-                        },
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                },
+                {
+                    "id": 4573,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Special educational tasks and emphases, website",
+                    "information": "See what is the difference between a special emphasis and a special educational task.",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                         {
                             "type": "INTERNET",
                             "title": "Special educational tasks and emphases",
@@ -43790,6 +43846,7 @@
             "exact_descriptions": [
                 2774,
                 3172,
+                3173,
                 10395
             ],
             "service_id": 10148,
@@ -43841,7 +43898,34 @@
                             "type": "INTERNET",
                             "title": "Gymnasieutbildning",
                             "url": "https:\/\/www.hel.fi\/sv\/fostran-och-utbildning\/gymnasieutbildning"
-                        },
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
+                    ]
+                },
+                {
+                    "id": 4573,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Särskilda utbildningsuppgifter och profileringar, webbplats",
+                    "information": "Se vad det är för skillnad mellan profilering och utbildningsuppgift.",
+                    "availability_summary": "Öppet varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                         {
                             "type": "INTERNET",
                             "title": "Särskilda utbildningsuppgifter och profileringar",
@@ -44106,7 +44190,9 @@
         "fi": {
             "id": 5912,
             "exact_descriptions": [
-                2773
+                2773,
+                3105,
+                3106
             ],
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
@@ -44172,7 +44258,9 @@
         "en": {
             "id": 5912,
             "exact_descriptions": [
-                2773
+                2773,
+                3105,
+                3106
             ],
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
@@ -44237,7 +44325,9 @@
         "sv": {
             "id": 5912,
             "exact_descriptions": [
-                2773
+                2773,
+                3105,
+                3106
             ],
             "service_id": 10004,
             "type": "OTHER_ESERVICE",
