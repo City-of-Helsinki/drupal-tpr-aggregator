@@ -1029,6 +1029,63 @@
         ]
     },
     {
+        "id": 5920,
+        "fi": {
+            "id": 5920,
+            "exact_descriptions": [
+                2998
+            ],
+            "service_id": 10018,
+            "type": "APPLICATION",
+            "name": "Ajoneuvon siirtopyyntö yksityisalueelta",
+            "description": "Voit pyytää pysäköinninvalvonnalta apua kiinteistön alueelle jätetyn ajoneuvon siirtoon oheisella verkkolomakkeella. \n\nPyynnön voi tehdä kiinteistön omistaja, isännöitsijä, huoltoyhtiö, asunto-osakeyhtiön hallituksen puheenjohtaja tai muu kiinteistöä edustava henkilö, jolla on siihen toimivalta.",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4575,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee virka-apupyyntö ajoneuvon siirtämiseksi yksityisalueelta",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry virka-apupyyntölomakkeelle",
+                            "url": "https:\/\/lomake.hel.fi\/forms.cgi?form_id=536",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 5368,
         "fi": {
             "id": 5368,
