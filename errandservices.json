@@ -13296,7 +13296,7 @@
             "type": "APPLICATION",
             "name": "Apply for a business parking permit",
             "description": "You can apply for a business parking permit or extend the validity of your buseinss parking permit by email to kymp.pysakointitunnus@hel.fi, or by visiting the Urban Environment Division's customer service point in person. \n\nYou can purchase a business parking permit for 1-12 months at a time. If you buy the permit at the customer service desk, it becomes valid immediately. Applications sent by email are processed in about two working days. The permit becomes valid approximately two business days after payment.",
-            "process_description": "When applying for a business parking permit, please provide us with the following information:\n- a certificate stating the company's address, issued within the last month by the property manager or real estate company (a rental agreement is not a sufficient certificate)\n- in case of a sole entrepreneurship where the name of the company does not indicate the business owner, in addition to the certificate of the property manager, an extract from the trade register showing the name of the entrepreneur is required\n- the vehicle license plate numbers and the company's business ID\n- information on whether the company would like a permit for one region or all zones\n- the time period for which the company would like to buy a permit \n\nIf the car is owned by or in the possession of a company employee, also provide the most recent payslip or an extract from the Finnish Incomes Register, showing the kilometre allowance paid for use of the car for work. Please always use secure email when sending personal data.\n",
+            "process_description": "When applying for a parking permit, please provide us with the following information: \n- the vehicle licence plate numbers and the company's business ID \n- information on whether the permit is required for one zone or all zones \n- the time period for which the permit is required (1-12 months). \n\nIf the car is not owned or controlled by the company, please also provide your most recent payslip or an extract from the Incomes Register showing kilometre allowances, which specifies the kilometre allowance for the use of the car during working hours. Please note that travel expense claims are not sufficient documentation. Please always use secure email when sending your personal details. \n\nWe check the location of a company's place of business primarily using the information in the Business Information System (YTJ), under the 'postal address' section. If we are unable to verify the location of the company's place of business with certainty, we will request further details regarding its location. A certificate issued by a property manager or property management company less than one month ago, stating the address of the company's place of business, will be accepted as additional documentation.",
             "costs": "If you apply for a permit by email, we will email you the permit invoice. If you apply for a permit in person at the customer service point, you can pay with cash or a debit or credit card.",
             "provided_languages": [
                 "en",
@@ -13355,7 +13355,7 @@
             "type": "APPLICATION",
             "name": "Ansök om tillstånd för företagsparkering",
             "description": "Du kan ansöka om tillstånd för företagsparkering eller förlänga tillståndets giltighet per e-post (kymp.pysakointitunnus@hel.fi) eller genom att personligen besöka stadsmiljösektorns kundtjänst. \n\nDu kan köpa tillståndet för 1-12 månader. Om du köper tillståndet hos kundtjänsten börjar det gälla genast. Om du skickar ansökan per e-post behandlas den på ungefär två dagar. Tillståndet träder i kraft ungefär två vardagar efter att du betalat. \n\n",
-            "process_description": "När du ansöker om parkeringstillstånd ber vi dig lämna in\n- ett mindre än en månad gammalt intyg från disponent eller fastighetsbolag med företagets adress. Hyresavtal räcker inte.\n- om det är fråga om ett firmanamn och det inte framgår av företagsnamnet vems firmanamn det är fråga om, ska man lämna in utöver disponentintyget ett handelsregisterutdrag med näringsidkarens namn\n- fordonets registernummer och företagets FO-nummer\n- information om tillståndet söks för ett eller alla områden\n- information om vilken tidsperiod tillståndet söks för. \n\nOm fordonet ägs eller innehas av en företagsanställd, ska du dessutom lämna in den senaste lönespecifikationen eller inkomstregisterutdraget där kilometerersättningen för användning av bilen specificeras. Vänligen använd alltid skyddad e-post när du skickar personuppgifter.",
+            "process_description": "När du ansöker om parkeringstillstånd ber vi dig lämna in \n- fordonets registernummer och företagets FO-nummer \n- information om tillståndet söks för ett eller alla områden \n- information om vilken tidsperiod (1-12 mån.) tillståndet söks för. \n\nOm bilen inte ägs eller förvaltas av företaget ska du dessutom lämna in den senaste lönespecifikationen eller ett utdrag över kilometerersättningar ur inkomstregistret med en specifikation av kilometerersättningarna för användning av bilen för arbete. Observera att reseräkningar inte räcker. Använd alltid krypterad e-post när du skickar dina personliga uppgifter. \n\nVi kontrollerar läget för företagets verksamhetsställe i första hand från företags- och organisationsdatasystemet (YTJ), under besöksadressen i uppgifterna. Om vi inte kan kontrollera verksamhetsställets läge på ett tillförlitligt sätt, ber vi om en ytterligare utredning om läget. Som ytterligare utredning godkänns ett under en månad gammalt intyg av disponenten eller fastighetsbolaget av vilket verksamhetsställets adress framgår.",
             "costs": "Tillstånd som ansöks per e-post betalas via faktura som skickas till din e-post. Tillstånd som hämtas hos kundtjänsten betalas kontant eller med bank- eller kreditkort.",
             "provided_languages": [
                 "en",
@@ -63487,67 +63487,6 @@
                 }
             ]
         }
-    },
-    {
-        "id": 4049,
-        "fi": {
-            "id": 4049,
-            "exact_descriptions": [
-            ],
-            "service_id": 10891,
-            "type": "PERMISSION",
-            "name": "Selvitys rakennus- ja purkujätteen käsittelystä",
-            "description": "Selvitys rakennus- ja purkujätteen käsittelystä liitetään rakennus- tai purkamislupahakemukseen.",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 2439,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
-                    "name": "Selvitys rakennus- ja purkujätteen käsittelystä",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                        {
-                            "type": "FORM",
-                            "title": "Selvitys rakennus- ja purkujätteen käsittelystä (PDF)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/PurRak.pdf",
-                            "file_format": "PDF"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Selvitys rakennus- ja purkujätteen käsittelystä (Word)",
-                            "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/ysl_lomakkeet\/PurRak.doc",
-                            "file_format": "WORD"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 5003,
