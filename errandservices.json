@@ -1084,8 +1084,60 @@
                 }
             ]
         },
-        "en": [
-        ],
+        "en": {
+            "id": 5920,
+            "exact_descriptions": [
+                2998
+            ],
+            "service_id": 10018,
+            "type": "APPLICATION",
+            "name": "Request to have a vehicle removed from private property",
+            "description": "You can ask Parking Control for assistance in removing a vehicle on your premises by using the attached request for assistance form. \n\nA request may be made by the property owner, the property manager, the maintenance company, the chair of the board of the housing association, or any other person representing the property who has the authority to do so.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "85080572-9a95-4a18-be6b-5bc306eb3d85"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4575,
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
+                    "name": "Request the removal of a vehicle from private property",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Go to the form for a request for assistance to remove a vehicle",
+                            "url": "https:\/\/lomake.hel.fi\/forms.cgi?form_id=536&lang=en",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
         "sv": {
             "id": 5920,
             "exact_descriptions": [
