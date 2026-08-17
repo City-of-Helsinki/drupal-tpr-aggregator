@@ -13404,7 +13404,7 @@
             "type": "APPLICATION",
             "name": "Apply for a business parking permit",
             "description": "You can apply for a business parking permit or extend the validity of your buseinss parking permit by email to kymp.pysakointitunnus@hel.fi, or by visiting the Urban Environment Division's customer service point in person. \n\nYou can purchase a business parking permit for 1-12 months at a time. If you buy the permit at the customer service desk, it becomes valid immediately. Applications sent by email are processed in about two working days. The permit becomes valid approximately two business days after payment.",
-            "process_description": "When applying for a parking permit, please provide us with the following information: \n- the vehicle licence plate numbers and the company's business ID \n- information on whether the permit is required for one zone or all zones \n- the time period for which the permit is required (1-12 months). \n\nIf the car is not owned or controlled by the company, please also provide your most recent payslip or an extract from the Incomes Register showing kilometre allowances, which specifies the kilometre allowance for the use of the car during working hours. Please note that travel expense claims are not sufficient documentation. Please always use secure email when sending your personal details. \n\nWe check the location of a company's place of business primarily using the information in the Business Information System (YTJ), under the 'postal address' section. If we are unable to verify the location of the company's place of business with certainty, we will request further details regarding its location. A certificate issued by a property manager or property management company less than one month ago, stating the address of the company's place of business, will be accepted as additional documentation.",
+            "process_description": "When applying for a parking permit, please provide us with the following information: \n- the vehicle licence plate numbers and the company's business ID \n- information on whether the permit is required for one zone or all zones \n- the time period for which the permit is required (1-12 months). \n\nIf the car is not owned or controlled by the company, please also provide your most recent payslip or an extract from the Incomes Register showing kilometre allowances, which specifies the kilometre allowance for the use of the car during working hours. Please note that travel expense claims are not sufficient documentation. Please always use secure email when sending your personal details. \n\nWe check the location of a company's place of business primarily using the information in the Business Information System (YTJ), under the 'street address' section. If we are unable to verify the location of the company's place of business with certainty, we will request further details regarding its location. A certificate issued by a property manager or property management company less than one month ago, stating the address of the company's place of business, will be accepted as additional documentation.",
             "costs": "If you apply for a permit by email, we will email you the permit invoice. If you apply for a permit in person at the customer service point, you can pay with cash or a debit or credit card.",
             "provided_languages": [
                 "en",
@@ -39338,7 +39338,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
                     "name": "Lastenvalvojien puhelinneuvonta (neuvonnasta ei voi varata aikoja)",
-                    "availability_summary": "Avoinna ma-pe 09-11, ke 15:30-17:30",
+                    "availability_summary": "Avoinna ma-pe 09-11",
                     "phone": "+358 9 310 43447",
                     "call_charge_info": "pvm\/mpm",
                     "provided_languages": [
@@ -39355,9 +39355,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Avoinna ma-pe 09-11"
-                        },
-                        {
-                            "availability_string": "Avoinna ke 15:30-17:30"
                         }
                     ]
                 }
@@ -39393,7 +39390,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telephone",
                     "name": "Child welfare supervisors' telephone counselling (no appointments can be booked here)",
-                    "availability_summary": "Open Mon-Fri 09-11, Wed 15:30-17:30",
+                    "availability_summary": "Open Mon-Fri 09-11",
                     "phone": "+358 9 310 43447",
                     "call_charge_info": "mobile call charge \/ local network charge",
                     "provided_languages": [
@@ -39410,9 +39407,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Open Mon-Fri 09-11"
-                        },
-                        {
-                            "availability_string": "Open Wed 15:30-17:30"
                         }
                     ]
                 }
@@ -39448,7 +39442,7 @@
                     "type": "TELEPHONE",
                     "type_string": "Telefon",
                     "name": "Barntillsynens telefonrådgivning (du kan inte boka tid här)",
-                    "availability_summary": "Öppet mån-fre 09-11, ons 15:30-17:30",
+                    "availability_summary": "Öppet mån-fre 09-11",
                     "phone": "+358 9 310 43447",
                     "call_charge_info": "msa\/lna",
                     "provided_languages": [
@@ -39465,9 +39459,6 @@
                     "availabilities": [
                         {
                             "availability_string": "Öppet mån-fre 09-11"
-                        },
-                        {
-                            "availability_string": "Öppet ons 15:30-17:30"
                         }
                     ]
                 }
