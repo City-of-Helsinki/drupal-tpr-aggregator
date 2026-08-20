@@ -5524,8 +5524,7 @@
                     "id": 3542,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
-                    "name": "Elintarvikeneuvonnan sähköposti",
-                    "information": "Ota yhteyttä sähköpostilla.",
+                    "name": "Ota yhteyttä Helsingin elintarvikeneuvontaan sähköpostitse",
                     "email": "kymp.elintarviketurvallisuus@hel.fi",
                     "provided_languages": [
                     ],
@@ -69609,8 +69608,7 @@
             "service_id": 10133,
             "type": "NOTICE",
             "name": "Tee ilmoitus elintarviketoiminnasta",
-            "description": "Ilmoita uudesta elintarviketoiminnasta verkossa, sähköpostitse tai postitse.",
-            "processing_time": "Käsittelyaika on 7 vuorokautta.",
+            "description": "Ilmoita uudesta elintarviketoiminnasta verkossa, sähköpostitse tai postitse. Tee ilmoitus 4 viikkoa ennen elintarviketoiminnan aloittamista. Lisää liitteeksi elintarvikehuoneiston pohjapiirustus. Pohjakuvan voit piirtää tarvittaessa itse.\n\nKäsittelemme ilmoituksen viikon kuluessa. Tarkistamme antamasi tiedot ja pyydämme tarvittaessa lisätietoja. Käsittelyn jälkeen näet Ilppa-palvelusta ilmoittamasi toimipaikan tiedot ja siihen tehdyt muutokset. Lähetämme sinulle todistuksen sähköpostilla, kun ilmoitus on käsitelty.",
             "provided_languages": [
                 "fi"
             ],
@@ -69630,6 +69628,7 @@
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
                     "name": "Tee ilmoitus elintarviketoiminnasta",
+                    "information": "Tarvitset Suomi.fi-valtuutuksen yritykseen, jolle haluat tehdä ilmoituksen.",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -69656,6 +69655,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Lomakkeet",
+                    "information": "Jos et voi tehdä ilmoitusta Ilppa-palvelussa, täytä pdf- tai Word-lomake. Lähetä se liitteineen sähköpostitse osoitteeseen kymp.elintarviketurvallisuus@hel.fi tai tulosta lomake ja lähetä se postitse: \n\nYmpäristöpalvelut\/Elintarviketurvallisuusyksikkö \nPL 58235, 00099 \nHelsingin kaupunki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -69668,13 +69668,13 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Pdf-lomake",
+                            "title": "Ilmoitus elintarviketoiminnasta (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ilmoitus-elintarviketoiminnasta.pdf",
                             "file_format": "PDF"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Word-lomake",
+                            "title": "Ilmoitus elintarviketoiminnasta (docx)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/ilmoitus-elintarviketoiminnasta.docx",
                             "file_format": "WORD"
                         }
