@@ -5504,7 +5504,6 @@
             "name": "Elintarvikeneuvonta",
             "name_synonyms": "Päivystävä elintarviketarkastaja, ravintolat, ravintolatarkastus, myymälät, elintarvikkeet, talousveden laatu, ruokamyrkytys, neuvonta",
             "description": "Neuvomme ja opastamme elintarvikkeisiin liittyvissä asioissa ja annamme ohjeita elintarviketoimintaa koskien sähköpostitse.",
-            "information": "Ota yhteyttä elintarvikeneuvontaan sähköpostilla.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -5657,8 +5656,7 @@
         "fi": {
             "id": 5129,
             "exact_descriptions": [
-                2766,
-                4821
+                2766
             ],
             "service_id": 10133,
             "type": "ADVICE",
@@ -5711,8 +5709,7 @@
         "en": {
             "id": 5129,
             "exact_descriptions": [
-                2766,
-                4821
+                2766
             ],
             "service_id": 10133,
             "type": "ADVICE",
@@ -5764,8 +5761,7 @@
         "sv": {
             "id": 5129,
             "exact_descriptions": [
-                2766,
-                4821
+                2766
             ],
             "service_id": 10133,
             "type": "ADVICE",
@@ -69627,7 +69623,7 @@
                     "id": 3545,
                     "type": "ESERVICE",
                     "type_string": "Verkkoasiointi",
-                    "name": "Tee ilmoitus elintarviketoiminnasta",
+                    "name": "Ilmoita toiminnasta verkossa",
                     "information": "Tarvitset Suomi.fi-valtuutuksen yritykseen, jolle haluat tehdä ilmoituksen.",
                     "provided_languages": [
                         "fi",
@@ -69654,7 +69650,7 @@
                     "id": 3576,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
-                    "name": "Lomakkeet",
+                    "name": "Ilmoita toiminnasta sähköpostitse tai postitse",
                     "information": "Jos et voi tehdä ilmoitusta Ilppa-palvelussa, täytä pdf- tai Word-lomake. Lähetä se liitteineen sähköpostitse osoitteeseen kymp.elintarviketurvallisuus@hel.fi tai tulosta lomake ja lähetä se postitse: \n\nYmpäristöpalvelut\/Elintarviketurvallisuusyksikkö \nPL 58235, 00099 \nHelsingin kaupunki",
                     "provided_languages": [
                     ],
