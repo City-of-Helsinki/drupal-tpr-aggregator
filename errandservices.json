@@ -12848,171 +12848,6 @@
         }
     },
     {
-        "id": 5223,
-        "fi": {
-            "id": 5223,
-            "exact_descriptions": [
-            ],
-            "service_id": 10634,
-            "type": "OTHER_ESERVICE",
-            "name": "Hae työnjohtajaksi",
-            "description": "Hae vastaavan ja erityisalojen työnjohtajaksi Lupapisteen kautta.",
-            "process_description": "Hankkeeseen ryhtyvä tai hänen valtuuttamansa asiamies nimeää työnjohtajan Lupapisteessä, josta tulee ilmoitus nimetylle työnjohtajalle sähköpostitse. Työnjohtaja hyväksyy valtuutuksen Lupapiste-palvelussa. Työnjohtaja vie Lupapisteeseen omat tietonsa, tallettaa tarvittavat liitteet ja jättää vastuuhenkilöhakemuksen tai ilmoituksen. Rakennusvalvonta hyväksyy hakemuksen tai ilmoituksen tai pyytää tarvittavat lisätiedot asian ratkaisemiseksi.",
-            "information": "Liitä hakemukseen aina nämä liitteet:\n\n- pätevyystodistus\n- tutkintotodistukset ja opintosuoritusote\n- luettelo rakennuskohteista, joissa hakija on toiminut työnjohtajana.\n\nPyydettäessä liitä hakemukseen myös nämä liitteet:\n\n- päätösotteet toimimisesta työnjohtajana muissa kunnissa\n- työtodistukset rakennusalalta ja mahdollisista työnjohtotehtävistä (myös muilta aloilta).\n\nJos tehtävä on osa-aikainen, liitä hakemukseen myös\n\n- selvitys haettavaan työnjohtotehtävään sisällytettävistä töistä ja niihin käytettäväksi arvioidusta ajasta\n - voimassa olevat muut työnjohtoa koskevat vastuut Helsingissä ja muissa kunnissa sekä arvio niiden ajankäytöstä.",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3676,
-                    "type": "ESERVICE",
-                    "type_string": "Verkkoasiointi",
-                    "name": "Hae työnjohtajaksi",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Siirry Lupapisteeseen",
-                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "en": {
-            "id": 5223,
-            "exact_descriptions": [
-            ],
-            "service_id": 10634,
-            "type": "OTHER_ESERVICE",
-            "name": "Apply for the position of site supervisor",
-            "description": "Apply for the position of site supervisor in charge or specialist supervisor via Lupapiste.",
-            "process_description": "The party initiating the project or their authorized representative appoints the site supervisor in Lupapiste (Permit point), from where a notification will be sent to the appointed site supervisor via email. The site supervisor approves the authorization in the Lupapiste service. The site supervisor enters their information into Lupapiste, uploads the necessary attachments, and submits the responsible person application or notification. The building supervision authority approves the application or notification or requests any necessary additional information to resolve the matter.",
-            "information": "Always enclose these documents with the application:\n - qualification certificate\n - degree certificates and transcript of records\n - list of construction sites for which the applicant has acted as a site supervisor.\n\nIf requested, also enclose these documents with the application:\n - decision extracts on acting as a site supervisor in other municipalities\n - certificates of employment in the construction sector and any supervisory tasks (also from other sectors).\n\nIf the position is part-time, also enclose the following documents with the application:\n - account of the work to be included in the site supervisor position applied for and the estimated time to be spent on the work\n - other current site supervisor responsibilities in Helsinki and other municipalities and the estimated time to be spent on them.\n",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3676,
-                    "type": "ESERVICE",
-                    "type_string": "E-services",
-                    "name": "Apply for the position",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Go to Lupapiste",
-                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        },
-        "sv": {
-            "id": 5223,
-            "exact_descriptions": [
-            ],
-            "service_id": 10634,
-            "type": "OTHER_ESERVICE",
-            "name": "Sök som arbetsledare",
-            "description": "Sök som ansvarig arbetsledare och arbetsledare för specialbranscher via Lupapiste.",
-            "process_description": "Den som påbörjar projektet eller ett ombud som han eller hon har bemyndigat utser arbetsledaren i Lupapiste, varifrån den utsedda arbetsledaren får ett meddelande per e-post. Arbetsledaren godkänner bemyndigandet i Lupapiste-tjänsten. Arbetsledaren för in sina uppgifter till Lupapiste, sparar nödvändiga bilagor och lämnar in en ansökan eller anmälan om ansvarig person. Byggnadstillsynen godkänner ansökan eller anmälan eller begär nödvändiga tilläggsuppgifter för att avgöra ärendet.",
-            "information": "Bifoga alltid följande bilagor till en ansökan:\n\n - kompetensintyg \n - examensbetyg och studieintyg\n - en förteckning över de byggobjekt där den sökande har fungerat som arbetsledare.\n\nBifoga även följande bilagor till en ansökan på begäran.\n - beslutsutdrag om verksamhet som arbetsledare i andra kommuner\n - arbetsintyg från byggnadsbranschen och eventuella arbetsledaruppgifter (även inom andra branscher).\n\nOm det är frågan om ett deltidsuppdrag, bifoga även till ansökan:\n - en utredning av de arbeten som ingår i arbetsledaruppdraget som söks och den uppskattade tiden som kommer att användas för dessa\n - andra arbetsledaransvar i Helsingfors och andra kommuner för tillfället samt en uppskattning av tiden som används för dessa.\n",
-            "provided_languages": [
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "85080572-9a95-4a18-be6b-5bc306eb3d85"
-            ],
-            "target_groups": [
-                "ENTERPRISES",
-                "INDIVIDUALS"
-            ],
-            "life_events": [
-            ],
-            "links": [
-            ],
-            "channels": [
-                {
-                    "id": 3676,
-                    "type": "ESERVICE",
-                    "type_string": "Elektronisk tjänst",
-                    "name": "Sök som arbetsledare",
-                    "provided_languages": [
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": true,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Gå till Lupapiste",
-                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                }
-            ]
-        }
-    },
-    {
         "id": 5366,
         "fi": {
             "id": 5366,
@@ -64962,7 +64797,7 @@
                     "name": "Sosiaalineuvonnan puhelin",
                     "availability_summary": "Avoinna ma-pe 09-15",
                     "phone": "09 310 44400",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "operaattorin mukaan",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -65015,7 +64850,7 @@
                     "name": "Social counselling telephone service",
                     "availability_summary": "Open Mon-Fri 09-15",
                     "phone": "09 310 44400",
-                    "call_charge_info": "toll free",
+                    "call_charge_info": "determined by the operator",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -65068,7 +64903,7 @@
                     "name": "Socialrådgivningens telefonnummer",
                     "availability_summary": "Öppet mån-fre 09-15",
                     "phone": "09 310 44400",
-                    "call_charge_info": "gratis",
+                    "call_charge_info": "bestäms av operatören",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -76506,7 +76341,7 @@
                     "name": "Toimeentulotuen neuvontaa suomeksi",
                     "availability_summary": "Avoinna ma-pe 09-12",
                     "phone": "09 3104 4400",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "operaattorin mukaan",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -76532,7 +76367,7 @@
                     "information": "Ruotsinkielinen puhelinneuvonta toimii takaisinsoittopalveluna.",
                     "availability_summary": "Avoinna ma-pe 09-12",
                     "phone": "09 3104 4400",
-                    "call_charge_info": "maksuton",
+                    "call_charge_info": "operaattorin mukaan",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -76584,7 +76419,7 @@
                     "name": "Benefit handling counselling in Finnish",
                     "availability_summary": "Open Mon-Fri 09-12",
                     "phone": "09 3104 4400",
-                    "call_charge_info": "toll free",
+                    "call_charge_info": "determined by the operator",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -76610,7 +76445,7 @@
                     "information": "The Swedish-language helpline works as a call-back service.",
                     "availability_summary": "Open Mon-Fri 09-12",
                     "phone": "09 3104 4400",
-                    "call_charge_info": "toll free",
+                    "call_charge_info": "determined by the operator",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -76662,7 +76497,7 @@
                     "name": "Telefonrådgivning för utkomststöd, på finska",
                     "availability_summary": "Öppet mån-fre 09-12",
                     "phone": "09 3104 4400",
-                    "call_charge_info": "gratis",
+                    "call_charge_info": "bestäms av operatören",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -76688,7 +76523,7 @@
                     "information": "Den svenskspråkiga telefonrådgivningen fungerar som en återuppringningstjänst.",
                     "availability_summary": "Öppet mån-fre 09-12",
                     "phone": "09 3104 4400",
-                    "call_charge_info": "gratis",
+                    "call_charge_info": "bestäms av operatören",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
