@@ -56716,31 +56716,6 @@
             ],
             "channels": [
                 {
-                    "id": 4256,
-                    "type": "TELEPHONE",
-                    "type_string": "Puhelinpalvelu",
-                    "name": "Puhelinpalvelu",
-                    "availability_summary": "Suljettu alkaen 29.7.2026 ",
-                    "phone": "+358 9 310 36130",
-                    "call_charge_info": "pvm\/mpm",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Suljettu alkaen 29.7.2026"
-                        }
-                    ]
-                },
-                {
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
@@ -56770,7 +56745,7 @@
                     "type": "LOCAL",
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Helsingin työllisyyspalvelut, Itäkeskuksen toimipiste",
-                    "information": "Itäkeskuksen toimipisteen ajanvaraukseton neuvonta on suljettu 1.7.-31.8.2026. Saat neuvontaa ilman ajanvarausta Kampissa (Malminkatu 34).",
+                    "availability_summary": "Avoinna 1.9. - 31.12.2026 to 09-15",
                     "personal_service_street_addr": "Asiakkaankatu 3A, 00930",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -56786,6 +56761,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Avoinna to 1.9. - 31.12.2026 klo 09-15"
+                        }
                     ]
                 },
                 {
@@ -56841,31 +56819,6 @@
             ],
             "channels": [
                 {
-                    "id": 4256,
-                    "type": "TELEPHONE",
-                    "type_string": "Telephone",
-                    "name": "Call",
-                    "availability_summary": "Closed from 29 Jul 2026 ",
-                    "phone": "+358 9 310 36130",
-                    "call_charge_info": "mobile call charge \/ local network charge",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Closed from 29 Jul 2026"
-                        }
-                    ]
-                },
-                {
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "E-mail",
@@ -56890,7 +56843,8 @@
                     "type": "LOCAL",
                     "type_string": "Local services",
                     "name": "Helsinki Employment Services, Itäkeskus office",
-                    "information": "Walk-in advice at the Itäkeskus service point is closed from 1 July to 31 August 2026. You can get advice without an appointment in Kamppi (Malminkatu 34). If you have an appointment, you will receive service at all locations and by phone throughout the summer.\n",
+                    "information": "",
+                    "availability_summary": "Open 1 Sep - 31 Dec 2026 Thu 09-15",
                     "personal_service_street_addr": "Asiakkaankatu 3A,",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsinki",
@@ -56906,6 +56860,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Open Thu 1 Sep - 31 Dec 2026 at 09-15"
+                        }
                     ]
                 },
                 {
@@ -56961,31 +56918,6 @@
             ],
             "channels": [
                 {
-                    "id": 4256,
-                    "type": "TELEPHONE",
-                    "type_string": "Telefon",
-                    "name": "Ring",
-                    "availability_summary": "Stängt från 29.7.2026 ",
-                    "phone": "+358 9 310 36130",
-                    "call_charge_info": "msa\/lna",
-                    "provided_languages": [
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": false,
-                    "for_corporate_customer": false,
-                    "links": [
-                    ],
-                    "availabilities": [
-                        {
-                            "availability_string": "Stängt från 29.7.2026"
-                        }
-                    ]
-                },
-                {
                     "id": 4257,
                     "type": "EMAIL",
                     "type_string": "Elektronisk post",
@@ -57015,7 +56947,7 @@
                     "type": "LOCAL",
                     "type_string": "Lokal service",
                     "name": "Helsingfors sysselsättningstjänster, Verksamhetsstället i Östra centrum",
-                    "information": "Rådgivning utan tidsbokning vid verksamhetsstället i Östra centrum är stängd 1.7-31.8.2026. Du får rådgivning utan tidsbokning i Kampen (Malmgatan 34). Om du har bokat tid får du service vid alla verksamhetsställen och per telefon hela sommaren.",
+                    "availability_summary": "Öppet 1.9. - 31.12.2026 tor 09-15",
                     "personal_service_street_addr": "Kundgatan 3A",
                     "personal_service_postal_code": "00930",
                     "personal_service_city": "Helsingfors",
@@ -57031,6 +56963,9 @@
                     "links": [
                     ],
                     "availabilities": [
+                        {
+                            "availability_string": "Öppet tor 1.9. - 31.12.2026 kl. 09-15"
+                        }
                     ]
                 },
                 {
