@@ -30845,8 +30845,6 @@
                 45603,
                 45604,
                 45605,
-                45606,
-                45607,
                 45608,
                 45611,
                 45618,
@@ -30924,9 +30922,6 @@
                 50153,
                 50155,
                 50156,
-                50157,
-                50158,
-                50159,
                 50851,
                 50857,
                 50864,
@@ -31188,8 +31183,6 @@
                 45603,
                 45604,
                 45605,
-                45606,
-                45607,
                 45608,
                 45611,
                 45618,
@@ -31267,9 +31260,6 @@
                 50153,
                 50155,
                 50156,
-                50157,
-                50158,
-                50159,
                 50851,
                 50857,
                 50864,
@@ -31531,8 +31521,6 @@
                 45603,
                 45604,
                 45605,
-                45606,
-                45607,
                 45608,
                 45611,
                 45618,
@@ -31610,9 +31598,6 @@
                 50153,
                 50155,
                 50156,
-                50157,
-                50158,
-                50159,
                 50851,
                 50857,
                 50864,
@@ -39651,8 +39636,6 @@
                 45600,
                 45603,
                 45605,
-                45606,
-                45607,
                 45618,
                 45619,
                 45620,
@@ -39701,9 +39684,6 @@
                 50153,
                 50155,
                 50156,
-                50157,
-                50158,
-                50159,
                 57134,
                 57190,
                 68785,
@@ -39931,8 +39911,6 @@
                 45600,
                 45603,
                 45605,
-                45606,
-                45607,
                 45618,
                 45619,
                 45620,
@@ -39981,9 +39959,6 @@
                 50153,
                 50155,
                 50156,
-                50157,
-                50158,
-                50159,
                 57134,
                 57190,
                 68785,
@@ -40212,8 +40187,6 @@
                 45600,
                 45603,
                 45605,
-                45606,
-                45607,
                 45618,
                 45619,
                 45620,
@@ -40262,9 +40235,6 @@
                 50153,
                 50155,
                 50156,
-                50157,
-                50158,
-                50159,
                 57134,
                 57190,
                 68785,
@@ -45913,6 +45883,7 @@
             "availabilities": [
             ],
             "unit_ids": [
+                2,
                 3,
                 5,
                 10,
@@ -45986,6 +45957,7 @@
                 153,
                 154,
                 155,
+                156,
                 157,
                 159,
                 164,
@@ -46255,6 +46227,7 @@
                 76778,
                 76840,
                 77643,
+                77679,
                 77890,
                 78338,
                 78430,
@@ -46303,6 +46276,7 @@
             "availabilities": [
             ],
             "unit_ids": [
+                2,
                 3,
                 5,
                 10,
@@ -46376,6 +46350,7 @@
                 153,
                 154,
                 155,
+                156,
                 157,
                 159,
                 164,
@@ -46645,6 +46620,7 @@
                 76778,
                 76840,
                 77643,
+                77679,
                 77890,
                 78338,
                 78430,
@@ -46693,6 +46669,7 @@
             "availabilities": [
             ],
             "unit_ids": [
+                2,
                 3,
                 5,
                 10,
@@ -46766,6 +46743,7 @@
                 153,
                 154,
                 155,
+                156,
                 157,
                 159,
                 164,
@@ -47035,6 +47013,7 @@
                 76778,
                 76840,
                 77643,
+                77679,
                 77890,
                 78338,
                 78430,
@@ -65275,108 +65254,6 @@
         }
     },
     {
-        "id": 9603,
-        "fi": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
-            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
-            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "en": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
-            "description_short": "You can receive support from us until you turn 23.",
-            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        },
-        "sv": {
-            "id": 9603,
-            "main_description": false,
-            "service_id": 10483,
-            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
-            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
-            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
-            "provided_languages": [
-                "en",
-                "fi",
-                "sv"
-            ],
-            "responsible_depts": [
-                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
-            ],
-            "target_groups": [
-                "IMMIGRANTS"
-            ],
-            "life_events": [
-                "IMMIGRATING_TO_FINLAND"
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-                5099
-            ],
-            "links": [
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-            ]
-        }
-    },
-    {
         "id": 2921,
         "fi": {
             "id": 2921,
@@ -65482,6 +65359,108 @@
             "errand_services": [
             ],
             "exact_errand_services": [
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        }
+    },
+    {
+        "id": 9603,
+        "fi": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Ilman huoltajaa Suomeen saapuneiden aikuistumisen tuki",
+            "description_short": "Voit saada meiltä tukea siihen saakka, kunnes täytät 23 vuotta.",
+            "description_long": "Palvelumme auttavat sinua sopeutumaan uuteen kotimaahasi ja suunnittelemme ne sinulle sopiviksi. \n\nTarkoituksena on, että pystyt osallistumaan yhteiskuntaan, vaikuttamaan omiin asiohisi ja toimimaan itsenäisesti.\n\nVoit tarvita esimerkiksi apua sopivan koulun löytämiseksi tai terveyteen ja talouteen liittyvissä asioissa.\n\nSinua tukee sosiaalityöntekijä, sosiaaliohjaaja ja psykologi.\n\nVoit olla meihin yhteydessä puhelimitse. Aikuistumisen tuen toimipiste sijaitsee osoitteessa Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "en": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Support for the transition to adulthood of individuals who arrived in Finland without a guardian",
+            "description_short": "You can receive support from us until you turn 23.",
+            "description_long": "Our services assist you in adapting to your new home country, and we tailor them to suit your needs.\n\nThe goal is for you to participate in society, have control over your own affairs, and become independent.\n\nYou may need help finding a suitable school or assistance with health or financial matters.\n\nA social worker, social counsellor, and psychologist will support you.\n\nYou can contact us by phone. Our service point is located at Mikkolankuja 6, 00680 Helsinki.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
+            ],
+            "links": [
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+            ]
+        },
+        "sv": {
+            "id": 9603,
+            "main_description": false,
+            "service_id": 10483,
+            "title": "Stödtjänster för ungdomar som anländer utan vårdnadshavare",
+            "description_short": "Vi kan erbjuda stöd ända tills du fyller 23.",
+            "description_long": "Den service som vi planerar hjälper dig att anpassa dig till ditt nya hemland. Syftet är att du ska kunna delta i samhället, påverka dina egna intressen och handla självständigt. Du kan exempelvis behöva hjälp med att hitta en lämplig skola eller i frågor som gäller hälsa och ekonomi. Du får stöd av socialarbetare, socialhandledare och en psykolog.\n\nDu kan kontakta oss per telefon. Vårt verksamhetsställe finns på adressen Mickelsvägen 8, 00640 Helsingfors.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+                "IMMIGRANTS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+                5099
             ],
             "links": [
             ],
@@ -98749,6 +98728,7 @@
                 50876,
                 50879,
                 50902,
+                50903,
                 57111,
                 57113,
                 57116,
@@ -98832,6 +98812,7 @@
                 50876,
                 50879,
                 50902,
+                50903,
                 57111,
                 57113,
                 57116,
@@ -98916,6 +98897,7 @@
                 50876,
                 50879,
                 50902,
+                50903,
                 57111,
                 57113,
                 57116,
@@ -99082,6 +99064,7 @@
                 50876,
                 50879,
                 50902,
+                50903,
                 57111,
                 57113,
                 57116,
@@ -99261,6 +99244,7 @@
                 50876,
                 50879,
                 50902,
+                50903,
                 57111,
                 57113,
                 57116,
@@ -99440,6 +99424,7 @@
                 50876,
                 50879,
                 50902,
+                50903,
                 57111,
                 57113,
                 57116,
@@ -106087,7 +106072,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "en": {
@@ -106143,7 +106129,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "sv": {
@@ -106200,7 +106187,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         }
     },
@@ -106259,7 +106247,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "en": {
@@ -106315,7 +106304,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "sv": {
@@ -106371,7 +106361,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         }
     },
@@ -107262,7 +107253,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "en": {
@@ -107314,7 +107306,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "sv": {
@@ -107365,7 +107358,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         }
     },
@@ -107782,7 +107776,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "en": {
@@ -107832,7 +107827,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         },
         "sv": {
@@ -107882,7 +107878,8 @@
                 69071,
                 76412,
                 80342,
-                80708
+                80708,
+                80775
             ]
         }
     },
@@ -111582,7 +111579,7 @@
                 50898,
                 50901,
                 50902,
-                50906,
+                50903,
                 59767,
                 59769,
                 59770,
