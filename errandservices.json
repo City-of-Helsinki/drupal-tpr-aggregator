@@ -69275,7 +69275,7 @@
                     "type": "PRINTABLE_FORM",
                     "type_string": "Tulostettavat lomakkeet",
                     "name": "Ilmoita toiminnasta sähköpostitse tai postitse",
-                    "information": "Jos et voi tehdä ilmoitusta Ilppa-palvelussa, täytä pdf- tai Word-lomake. Lähetä se liitteineen sähköpostitse osoitteeseen kymp.elintarviketurvallisuus@hel.fi tai tulosta lomake ja lähetä se postitse: \n\nYmpäristöpalvelut\/Elintarviketurvallisuusyksikkö \nPL 58235, 00099 \nHelsingin kaupunki",
+                    "information": "Jos et voi tehdä ilmoitusta Ilppa-palvelussa, täytä pdf- tai Word-lomake. Lähetä se liitteineen sähköpostitse osoitteeseen kymp.elintarviketurvallisuus@hel.fi tai tulosta lomake ja lähetä se postitse: \n\nYmpäristöpalvelut\/Elintarviketurvallisuusyksikkö \nPL 58235, 00099 \nHelsingin kaupunki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -69313,8 +69313,7 @@
             "service_id": 10133,
             "type": "NOTICE",
             "name": "Submit a notification of your food business",
-            "description": "Notify us of your new food business online, via email, or by mail.",
-            "processing_time": "Processing time is 7 days.",
+            "description": "Submit a notification regarding new food business activities online, by email or by post. Submit your notification four weeks before commencing food business activities. Attach a floor plan of the food premises to your notification. If necessary, you can draw the floor plan yourself. \n\nWe will process your notification within a week. We will check the information that you have provided and ask for further details if necessary. Once the notification has been processed, you will be able to view the details of the location regarding which you submitted the notification and any changes to it in the Ilppa service. We will send you a certificate by email once your notification has been processed.",
             "provided_languages": [
                 "fi"
             ],
@@ -69333,7 +69332,8 @@
                     "id": 3545,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Submit a notification of your food business",
+                    "name": "Submit a notification regarding your activities online",
+                    "information": "You will need Suomi.fi authorisation for the business regarding which you wish to submit a notification.",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -69348,7 +69348,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Go to Ilppa.fi service (in Finnish)",
+                            "title": "Go to the Ilppa.fi service (in Finnish)",
                             "url": "https:\/\/ilppa.fi"
                         }
                     ],
@@ -69359,7 +69359,8 @@
                     "id": 3576,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Forms",
+                    "name": "Submit a notification regarding your activities by email or post",
+                    "information": "If you are unable to submit your notification via the Ilppa service, you can fill out a PDF or Word form. Send the completed form and attachments by email to kymp.elintarviketurvallisuus@hel.fi or print out the form and send it by post to the following address: \n\nEnvironmental Services \/ Food Safety Unit \nPO Box 58235, 00099 \nCity of Helsinki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -69372,12 +69373,12 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "PDF form",
+                            "title": "Food business notification (PDF)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/notification-of-food-premises.pdf"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Word form",
+                            "title": "Food business notification (DOCX)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/notification-of-food-premises.docx"
                         }
                     ],
@@ -69395,8 +69396,7 @@
             "service_id": 10133,
             "type": "NOTICE",
             "name": "Gör en anmälan om livsmedelsverksamhet",
-            "description": "Gör en anmälan om ny livsmedelsverksamhet på nätet, per e-post eller per telefon.",
-            "processing_time": "Tid för handläggningen är 7 dygn.",
+            "description": "Gör en anmälan om ny livsmedelsverksamhet på nätet, per e-post eller per post. Gör anmälan senast fyra veckor innan livsmedelsverksamheten inleds. Bifoga en planritning över livsmedelslokalen. Du kan vid behov rita planritningen själv. \n\nVi behandlar anmälan inom en vecka. Vi kontrollerar de uppgifter du lämnat och ber vid behov om mer information. Efter handläggningen kan du se uppgifterna om det verksamhetsställe du har anmält och eventuella ändringar i uppgifterna i Ilppa. Vi skickar ett intyg till dig när din anmälan har behandlats.",
             "provided_languages": [
                 "fi"
             ],
@@ -69415,7 +69415,8 @@
                     "id": 3545,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Gör en anmälan om livsmedelsverksamhet",
+                    "name": "Anmäl verksamhet på nätet",
+                    "information": "Du behöver en Suomi.fi-fullmakt från det företag för vilket du vill lämna anmälan.",
                     "provided_languages": [
                         "fi",
                         "sv"
@@ -69430,7 +69431,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till Ilppa.fi-tjänsten",
+                            "title": "Gå till tjänsten Ilppa",
                             "url": "https:\/\/ilppa.fi"
                         }
                     ],
@@ -69441,7 +69442,8 @@
                     "id": 3576,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Blanketter",
+                    "name": "Anmäl verksamheten per e-post eller per post",
+                    "information": "Om du inte kan göra en anmälan i tjänsten Ilppa, fyll i blanketten i pdf- eller Word-format. Skicka blanketten med bilagor per e-post till kymp.elintarviketurvallisuus@hel.fi eller skriv ut blanketten och skicka den per post till: \n\nMiljötjänster\/Enheten för livsmedelssäkerhet \nPB 58235, 00099 \nHelsingfors stad",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -69454,12 +69456,12 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Pdf-blankett",
+                            "title": "Anmälan om livsmedelsverksamhet (pdf)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/anmalan-om-livsmedelslokal.pdf"
                         },
                         {
                             "type": "INTERNET",
-                            "title": "Word-blankett",
+                            "title": "Anmälan om livsmedelsverksamhet (docx)",
                             "url": "https:\/\/www.hel.fi\/static\/ymk\/lomakkeet\/el_lomakkeet\/anmalan-om-livsmedelslokal.docx"
                         }
                     ],
