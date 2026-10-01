@@ -8324,7 +8324,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Hae käyttöoikeutta tai vuokraa lisäpiha",
-            "description": "Täytä hakulomake ja lähetä se sähköpostilla osoitteeseen ulkoilma@hel.fi.",
+            "description": "Täytä hakulomake ja lähetä se sähköpostilla osoitteeseen maanvuokraus@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -8374,7 +8374,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Apply for an access right or rent an additional yard",
-            "description": "Fill in an application form and send it by email to ulkoilma@hel.fi.",
+            "description": "Fill in an application form and send it by email to maanvuokraus@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -8424,7 +8424,7 @@
             "service_id": 10290,
             "type": "APPLICATION",
             "name": "Ansök om användningsrätt eller hyr en tilläggsgård",
-            "description": "Fyll i ansökningsblanketten och skicka den per e-post på adressen ulkoilma@hel.fi.",
+            "description": "Fyll i ansökningsblanketten och skicka den per e-post på adressen maanvuokraus@hel.fi.",
             "provided_languages": [
                 "fi"
             ],
@@ -73167,7 +73167,7 @@
                     "id": 2726,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Chattibotti ja livechatit",
+                    "name": "Chattibotti",
                     "prerequisites": "Palvelu on tarkoitettu helsinkiläisille.",
                     "information": "Sosiaali- ja terveyspalvelujen chattibotti ohjaa hakemaan terveyspalveluja oikeasta paikasta ja neuvoo myös hammashoitoon, mielenterveyteen, päihteisiin ja sosiaalipalveluihin liittyvissä asioissa. Chattibotin löydät mm. sosiaali- ja terveyspalvelujen sivun alalaidasta Chat-nappulan takaa.\n",
                     "availability_summary": "Avoinna joka päivä",
@@ -86182,8 +86182,8 @@
                     "id": 4027,
                     "type": "CHAT",
                     "type_string": "Chat",
-                    "name": "Neuvolan chattipalvelu (Sotebotti Hester)",
-                    "availability_summary": "Avoinna ma-pe 10-14",
+                    "name": "Neuvolan chattipalvelu (chatbot Hester)",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -86197,7 +86197,7 @@
                     ],
                     "availabilities": [
                         {
-                            "availability_string": "Avoinna ma-pe 10-14"
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
                         }
                     ]
                 },
