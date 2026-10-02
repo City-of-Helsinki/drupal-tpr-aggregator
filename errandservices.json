@@ -21731,10 +21731,9 @@
             ],
             "service_id": 10290,
             "type": "PERMISSION",
-            "name": "Report excavation work in a street or park area",
-            "description": "Submit excavation notifications through the Haitaton system starting from 1 May 2025.\n\nWhen necessary, you can also apply for a cable report through Haitaton in connection to your excavation notification. \n\nExcavation notifications in Haitaton are always created for a certain project. This project should be created in Haitaton as early on as possible so that everyone planning their project at the same time can see it. \n\nA nuisance management plan must always be created for a project. An excavation notification specifies the nuisance management plan into measures.\n\nPlease note! The project area means the area where the normal use of the public area is affected by the work. The project area must therefore be drawn larger than the excavation or cable report area.",
-            "processing_time": "The average processing time is seven days.",
-            "information": "The service is subject to a fee. See the prices in the fees section.\n\nLearn more about how to use Haitaton in the Haitaton service.\n\n",
+            "name": "Submit a notification of excavation work",
+            "description": "If you wish to carry out excavation work on a street or in a park, provide the City with a detailed description of the work via the Haitaton service. The average processing time for notifications is seven days. \n\nIf necessary, you can also apply for a cable report when submitting your excavation notification. \n\nThe use of an area is subject to a fee.",
+            "information": "",
             "provided_languages": [
                 "en",
                 "fi",
@@ -21749,11 +21748,6 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Instructions for using Haitaton",
-                    "url": "https:\/\/haitaton.hel.fi\/en\/manual"
-                }
             ],
             "channels": [
                 {
@@ -21787,7 +21781,8 @@
                     "id": 4358,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Power of attorney",
+                    "name": "Draw up a power of attorney",
+                    "information": "If you are not the party responsible for the work, attach a power of attorney to the notification.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -21817,10 +21812,8 @@
             ],
             "service_id": 10290,
             "type": "PERMISSION",
-            "name": "Anmäl grävarbeten i ett gatu- eller parkområde",
-            "description": "Gör en anmälan om grävarbeten i Haitaton-systemet fr.o.m. 1.5.2025.\n\nDu kan vid behov i samband med grävanmälan också ansöka om en ledningsutredning i Haitaton.\n \nI Haitaton skapas grävanmälningar alltid för ett projekt. Det är bra att grunda projektet så tidigt som möjligt i Haitaton, så att det syns för andra som samtidigt planerar sina projekt. \n\nFör projektet ska det alltid utarbetas en plan över hantering av olägenheter. På grävanmälan preciseras planen över hantering av olägenheter till åtgärder.\n\nObs! Med projektområde avses det område där arbetet påverkar den normala användningen av det allmänna området. Projektområdet ska ritas större än grävningsområdet eller området för ledningsutredningen.\n",
-            "processing_time": "Genomsnittlig handläggningstid är sju dagar.",
-            "information": "Tjänsten är avgiftsbelagd. Se priserna i punkten avgifter.\n\nBekanta dig med Haitatons bruksanvisningar i Haitaton-tjänsten.",
+            "name": "Anmäl grävarbete",
+            "description": "Om du vill utföra grävarbeten på gator eller i parker ska du lämna in en detaljerad beskrivning av arbetet till staden i tjänsten Haitaton. Den genomsnittliga behandlingstiden för anmälningar är sju dygn. \n\nDu kan vid behov också ansöka om en ledningsutredning i samband med grävanmälan. \n\nAnvändningen av området är avgiftsbelagd.",
             "provided_languages": [
                 "en",
                 "fi",
@@ -21835,18 +21828,13 @@
             "life_events": [
             ],
             "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Anvisningar för användning av Haitaton",
-                    "url": "https:\/\/haitaton.hel.fi\/sv\/bruksanvisning"
-                }
             ],
             "channels": [
                 {
                     "id": 4356,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Gör grävanmälan",
+                    "name": "Gör en grävanmälan",
                     "provided_languages": [
                         "en",
                         "fi",
@@ -21862,7 +21850,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Gå till Haitaton-tjänsten",
+                            "title": "Gå till tjänsten Haitaton",
                             "url": "https:\/\/haitaton.hel.fi\/sv\/"
                         }
                     ],
@@ -21873,7 +21861,8 @@
                     "id": 4358,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Fullmakt",
+                    "name": "Bifoga fullmakt",
+                    "information": "Om du inte själv ansvarar för arbetet ska du bifoga en fullmakt till anmälan.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -22217,10 +22206,9 @@
             ],
             "service_id": 10290,
             "type": "APPLICATION",
-            "name": "Rent a street or park area as a temporary work area",
-            "description": "Submit the notification online starting from 1 May 2025.\n",
+            "name": "Submit a notification of other work in a street or park area",
+            "description": "You can reserve a section of a street or park as a temporary work area for purposes such as construction or lifting work, property renovation, moving, snow removal from roofs, and film or television productions. In this case, you can place equipment such as a facade scaffold, a hoist, a skip or a container in the area. \n\nSubmit a notification via our online service and, if necessary, attach a plan for temporary traffic arrangements. \n\nReserving an area is subject to a fee.",
             "processing_time": "The average processing time is seven days.",
-            "information": "Notification attachments:\n\n- A plan for temporary traffic arrangements if the work will affect the arrangements for pedestrian, bicycle or motor vehicle traffic, or if you reserve parking spaces for other use with street signs urging vehicle owners to move their parked vehicles.\n- A power of attorney if the notification is submitted by someone other than the person responsible for the work. The contractor may submit the notification if it is appropriate for practical reasons relating to the work. \n\nThe area rental is subject to a fee. See the prices in the fees section.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -22240,7 +22228,7 @@
                     "id": 3937,
                     "type": "ESERVICE",
                     "type_string": "E-services",
-                    "name": "Report the rental of a street or park as a work area",
+                    "name": "Submit a notification of reserving a street or park as a work area",
                     "provided_languages": [
                         "fi"
                     ],
@@ -22254,7 +22242,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Go to e-service (in Finnish)",
+                            "title": "Go to the online service for public areas (in Finnish)",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus"
                         }
                     ],
@@ -22265,7 +22253,8 @@
                     "id": 4359,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Printable form",
-                    "name": "Power of attorney",
+                    "name": "Draw up a power of attorney",
+                    "information": "If you are not the party responsible for the work, attach a power of attorney to the notification.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -22294,10 +22283,9 @@
             ],
             "service_id": 10290,
             "type": "APPLICATION",
-            "name": "Hyr ett gatu- eller parkområde som tillfälligt arbetsområde",
-            "description": "Gör anmälan i nätet fr.o.m. 1.5.2025.",
+            "name": "Anmäl annat arbete på gatu- eller parkområde",
+            "description": "Du kan reservera ett gatu- eller parkområde som tillfälligt arbetsområde bland annat för byggnads- eller lyftarbeten, fastighetsrenovering, flytt, takskottning samt film- eller tv-produktion. Då kan du placera till exempel en fasadställning, en lyftanordning, ett lösflak eller en container i området. \n\nGör anmälan i vår e-tjänst och bifoga vid behov en plan för tillfälliga trafikarrangemang. \n\nAtt reservera ett område är avgiftsbelagt.",
             "processing_time": "Genomsnittlig handläggningstid är sju dagar.",
-            "information": "Bilagor till anmälan\n\n- Plan för tillfälliga trafikarrangemang, om arbetet inverkar på arrangemangen för gång, cykling eller motorfordonstrafik eller om parkeringsplatser reserveras för annan användning med en skylt om flyttningsuppmaning.\n- Fullmakt, om någon annan än den som ansvarar för arbetet gör anmälan. Entreprenören kan göra anmälan om det är ändamålsenligt av arbetstekniska skäl. \n\nDet är avgiftsbelagt att hyra ett område. Se priserna i punkten avgifter.\n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -22317,7 +22305,7 @@
                     "id": 3937,
                     "type": "ESERVICE",
                     "type_string": "Elektronisk tjänst",
-                    "name": "Anmäl hyrning av gata eller park som arbetsområde",
+                    "name": "Anmäl att en gata eller park reserveras som arbetsområde",
                     "provided_languages": [
                         "fi"
                     ],
@@ -22331,7 +22319,7 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Gå till e-service (på finska)",
+                            "title": "Gå till e-tjänsten för allmänna områden (på finska)",
                             "url": "https:\/\/lomake.hel.fi\/akv_aluevuokraus",
                             "file_format": "HTML"
                         }
@@ -22343,7 +22331,8 @@
                     "id": 4359,
                     "type": "PRINTABLE_FORM",
                     "type_string": "Utskrivbar blankett",
-                    "name": "Fullmakt",
+                    "name": "Bifoga fullmakt",
+                    "information": "Om du inte själv ansvarar för arbetet, bifoga en fullmakt till anmälan.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
