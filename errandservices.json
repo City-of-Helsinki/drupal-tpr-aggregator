@@ -3069,8 +3069,8 @@
                     "id": 2911,
                     "type": "TELEPHONE",
                     "type_string": "Puhelinpalvelu",
-                    "name": "Asiakaspalvelun puhelinpalvelu",
-                    "information": "Ota yhteyttä puhelinpalveluun, kun tarvitset pyörätuolin perushuollon.",
+                    "name": "Asioi puhelimitse",
+                    "information": "Käytössämme on takaisinsoittopalvelu. Jos emme voi vastata heti, soitamme sinulle takaisin mahdollisimman pian, yleensä saman päivän aikana.\n\nNeuvomme sinua apuvälineiden huoltoon liittyvissä asioissa ja varaamme apuvälineelle tarvittaessa huoltoajan.",
                     "availability_summary": "Avoinna ma-ti, to 09-15, ke 10-17, pe 09-14",
                     "phone": " 09 310 47589",
                     "call_charge_info": "pvm\/mpm",
@@ -3098,12 +3098,11 @@
                     ]
                 },
                 {
-                    "id": 4042,
-                    "type": "EMAIL",
-                    "type_string": "Sähköposti",
-                    "name": "Asiakaspalvelun sähköposti",
-                    "information": "Ota yhteyttä asiakaspalveluun, kun kaipaat ohjausta ja neuvontaa apuvälineasioissa.",
-                    "email": "sotepe.apuvalinepalvelut@hel.fi",
+                    "id": 4580,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Asioi palvelupisteessä",
+                    "information": "Palvelemme sinua aukioloaikoina vuoronumerolla. Kiireettömin aika palvelupisteessä asiointiin on ennen lounasaikaa. \n\nOta mukaasi henkilökortti tai Kela-kortti henkilöllisyyden varmistamiseksi. Jos asioit toisen puolesta, ota mukaasi hänen allekirjoittamansa valtakirja. Valtakirja voi olla myös vapaamuotoinen.",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -3114,11 +3113,52 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4581,
+                    "type": "LOCAL",
+                    "type_string": "Henkilökohtainen palvelu",
+                    "name": "Huollon asiakaspalvelu",
+                    "information": "Kiireelliset apuvälineiden käyttöturvallisuuteen liittyvät huollot teemme odottaessa. Jos emme ehdi huoltaa apuvälinettä aukioloaikana, lainaamme sinulle huollon ajaksi korvaavan apuvälineen.",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4582,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Sähköinen asiointi palse.fi -portaalissa",
+                    "information": "Sähköinen asiointikanava Apuvälinepalveluiden asiakkuudessa oleville.",
+                    "provided_languages": [
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Helsingin apuvälinepalvelu",
-                            "url": "https:\/\/www.hel.fi\/fi\/sosiaali-ja-terveyspalvelut\/terveydenhoito\/kuntoutus-ja-terapiat\/apuvalinepalvelut\/helsingin-apuvalinepalvelu",
-                            "file_format": "HTML"
+                            "title": "palse.fi",
+                            "url": "https:\/\/palse.fi\/"
                         }
                     ],
                     "availabilities": [
@@ -3183,12 +3223,9 @@
                     ]
                 },
                 {
-                    "id": 4042,
-                    "type": "EMAIL",
-                    "type_string": "E-mail",
-                    "name": "Customer service email",
-                    "information": "Contact customer service when you need guidance and advice regarding assistive devices.",
-                    "email": "sotepe.apuvalinepalvelut@hel.fi",
+                    "id": 4580,
+                    "type": "LOCAL",
+                    "type_string": "Local services",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -3199,11 +3236,24 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsinki Assistive Device Services",
-                            "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/halsovard\/rehabilitering-och-terapi\/hjalpmedelstjanster\/helsingfors-hjalpmedelstjanst"
-                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4581,
+                    "type": "LOCAL",
+                    "type_string": "Local services",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -3267,12 +3317,9 @@
                     ]
                 },
                 {
-                    "id": 4042,
-                    "type": "EMAIL",
-                    "type_string": "Elektronisk post",
-                    "name": "Kundservice e-post",
-                    "information": "Ta kontakt med kundtjänsten när du behöver handledning och rådgivning i hjälpmedelärenden.",
-                    "email": "sotepe.apuvalinepalvelut@hel.fi",
+                    "id": 4580,
+                    "type": "LOCAL",
+                    "type_string": "Lokal service",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -3283,12 +3330,24 @@
                     "for_personal_customer": false,
                     "for_corporate_customer": false,
                     "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "Helsingfors hjälpmedelstjänst",
-                            "url": "https:\/\/www.hel.fi\/sv\/social-och-halsovardstjanster\/halsovard\/rehabilitering-och-terapi\/hjalpmedelstjanster\/helsingfors-hjalpmedelstjanst",
-                            "file_format": "HTML"
-                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4581,
+                    "type": "LOCAL",
+                    "type_string": "Lokal service",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
