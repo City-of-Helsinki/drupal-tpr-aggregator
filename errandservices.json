@@ -3103,6 +3103,9 @@
                     "type_string": "Henkilökohtainen palvelu",
                     "name": "Asioi palvelupisteessä",
                     "information": "Palvelemme sinua aukioloaikoina vuoronumerolla. Kiireettömin aika palvelupisteessä asiointiin on ennen lounasaikaa. \n\nOta mukaasi henkilökortti tai Kela-kortti henkilöllisyyden varmistamiseksi. Jos asioit toisen puolesta, ota mukaasi hänen allekirjoittamansa valtakirja. Valtakirja voi olla myös vapaamuotoinen.",
+                    "personal_service_street_addr": "Ruosilantie 18",
+                    "personal_service_postal_code": "00390",
+                    "personal_service_city": " Helsinki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -3226,6 +3229,9 @@
                     "id": 4580,
                     "type": "LOCAL",
                     "type_string": "Local services",
+                    "personal_service_street_addr": "Ruosilantie 18",
+                    "personal_service_postal_code": "00390",
+                    "personal_service_city": "Helsinki",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -3320,6 +3326,9 @@
                     "id": 4580,
                     "type": "LOCAL",
                     "type_string": "Lokal service",
+                    "personal_service_street_addr": "Rosasvägen 18",
+                    "personal_service_postal_code": "00390 ",
+                    "personal_service_city": "Helsingfors",
                     "provided_languages": [
                     ],
                     "requires_authentication": false,
@@ -26385,7 +26394,8 @@
         "en": {
             "id": 5661,
             "exact_descriptions": [
-                9834
+                9834,
+                10417
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -26463,7 +26473,8 @@
         "sv": {
             "id": 5661,
             "exact_descriptions": [
-                9834
+                9834,
+                10417
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -54661,7 +54672,8 @@
                 10091,
                 10092,
                 10093,
-                10097
+                10097,
+                10417
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -54840,7 +54852,8 @@
                 10091,
                 10092,
                 10093,
-                10097
+                10097,
+                10417
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -56488,7 +56501,8 @@
         "en": {
             "id": 5641,
             "exact_descriptions": [
-                9910
+                9910,
+                10417
             ],
             "service_id": 11111,
             "type": "ADVICE",
@@ -56587,7 +56601,8 @@
         "sv": {
             "id": 5641,
             "exact_descriptions": [
-                9910
+                9910,
+                10417
             ],
             "service_id": 11111,
             "type": "ADVICE",
