@@ -6073,6 +6073,213 @@
         ]
     },
     {
+        "id": 5928,
+        "fi": {
+            "id": 5928,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "INFORMATION_SERVICE",
+            "name": "Etsi suomen tai ruotsin kielen kurssi",
+            "description": "Löydät eri koulutuksen jäljestäjien suomen ja ruotsin kielen kursseja Helsingistä, Espoosta, Vantaalta ja Kauniaisista. Lisäksi suurin osa kursseista ovat verkkokursseja.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "ru",
+                "sv"
+            ],
+            "responsible_depts": [
+                "a3856963-ad62-4f4a-97e3-0eadd81b16bc"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Hae suomen tai ruotsin kurssi",
+                    "url": "https:\/\/finnishcourses.fi\/fi"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4583,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Finnishcourses.fi",
+                    "availability_summary": "Avoinna joka päivä",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "ru",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Finnishcourses.fi",
+                            "url": "https:\/\/finnishcourses.fi\/fi"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": {
+            "id": 5928,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "INFORMATION_SERVICE",
+            "name": "Search for a Finnish or Swedish course",
+            "description": "You can find Finnish and Swedish language courses offered by different education providers in Helsinki, Espoo, Vantaa and Kauniainen. Most of the courses are also available online.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "ru",
+                "sv"
+            ],
+            "responsible_depts": [
+                "a3856963-ad62-4f4a-97e3-0eadd81b16bc"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Finnishcourses.fi",
+                    "url": "https:\/\/finnishcourses.fi\/"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4583,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "name": "Finnishcourses.fi",
+                    "availability_summary": "Open every day",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "ru",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Finnishcourses.fi",
+                            "url": "https:\/\/finnishcourses.fi\/"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Open every day "
+                        }
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5928,
+            "exact_descriptions": [
+            ],
+            "service_id": 11111,
+            "type": "INFORMATION_SERVICE",
+            "name": "Sök en kurs i finska eller svenska",
+            "description": "Hitta kurser i finska och svenska från olika utbildningsanordnare i Helsingfors, Esbo, Vanda och Grankulla. De flesta kurserna ordnas på nätet.",
+            "provided_languages": [
+                "en",
+                "fi",
+                "ru",
+                "sv"
+            ],
+            "responsible_depts": [
+                "a3856963-ad62-4f4a-97e3-0eadd81b16bc"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS"
+            ],
+            "life_events": [
+                "IMMIGRATING_TO_FINLAND"
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Sök kurser i finska eller svenska",
+                    "url": "https:\/\/finnishcourses.fi\/sv"
+                }
+            ],
+            "channels": [
+                {
+                    "id": 4583,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "name": "Finnishcourses.fi",
+                    "availability_summary": "Öppet varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "ru",
+                        "sv"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Finnishcourses.fi",
+                            "url": "https:\/\/finnishcourses.fi\/sv"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet varje dag "
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 5785,
         "fi": {
             "id": 5785,
