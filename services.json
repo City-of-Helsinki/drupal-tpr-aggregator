@@ -31717,6 +31717,7 @@
                 155,
                 157,
                 159,
+                171,
                 176,
                 178,
                 181,
@@ -31853,6 +31854,7 @@
                 44392,
                 44401,
                 44880,
+                44885,
                 45019,
                 45587,
                 46377,
@@ -31871,6 +31873,7 @@
                 57403,
                 57469,
                 57472,
+                57571,
                 57588,
                 57695,
                 57866,
@@ -32024,6 +32027,7 @@
                 155,
                 157,
                 159,
+                171,
                 176,
                 178,
                 181,
@@ -32160,6 +32164,7 @@
                 44392,
                 44401,
                 44880,
+                44885,
                 45019,
                 45587,
                 46377,
@@ -32178,6 +32183,7 @@
                 57403,
                 57469,
                 57472,
+                57571,
                 57588,
                 57695,
                 57866,
@@ -32331,6 +32337,7 @@
                 155,
                 157,
                 159,
+                171,
                 176,
                 178,
                 181,
@@ -32467,6 +32474,7 @@
                 44392,
                 44401,
                 44880,
+                44885,
                 45019,
                 45587,
                 46377,
@@ -32485,6 +32493,7 @@
                 57403,
                 57469,
                 57472,
+                57571,
                 57588,
                 57695,
                 57866,
@@ -32631,6 +32640,7 @@
                 155,
                 157,
                 159,
+                171,
                 176,
                 178,
                 181,
@@ -32767,6 +32777,7 @@
                 44392,
                 44401,
                 44880,
+                44885,
                 45019,
                 45587,
                 46377,
@@ -32785,6 +32796,7 @@
                 57403,
                 57469,
                 57472,
+                57571,
                 57588,
                 57695,
                 57866,
@@ -32928,6 +32940,7 @@
                 155,
                 157,
                 159,
+                171,
                 176,
                 178,
                 181,
@@ -33064,6 +33077,7 @@
                 44392,
                 44401,
                 44880,
+                44885,
                 45019,
                 45587,
                 46377,
@@ -33082,6 +33096,7 @@
                 57403,
                 57469,
                 57472,
+                57571,
                 57588,
                 57695,
                 57866,
@@ -33225,6 +33240,7 @@
                 155,
                 157,
                 159,
+                171,
                 176,
                 178,
                 181,
@@ -33361,6 +33377,7 @@
                 44392,
                 44401,
                 44880,
+                44885,
                 45019,
                 45587,
                 46377,
@@ -33379,6 +33396,7 @@
                 57403,
                 57469,
                 57472,
+                57571,
                 57588,
                 57695,
                 57866,
@@ -70339,11 +70357,12 @@
             "service_id": 10543,
             "title": "Nuorten työpajat",
             "name_synonyms": "työpajat, nuorten työpajatoiminta",
-            "description_short": "Oletko työtön, 17-29-vuotias helsinkiläinen vailla opiskelu- tai työpaikkaa? Kiinnostaisiko työkokeilu? \n\n",
+            "description_short": "Oletko työtön, 18-29-vuotias helsinkiläinen vailla opiskelu- tai työpaikkaa? Kiinnostaisiko työkokeilu? \n\n",
             "description_long": "Nuorten työpajojen työkokeilussa sinulla on mahdollisuus kehittää osaamistasi ja oppia uusia taitoja sinua kiinnostavasta alasta. Pajoilla tutustut koulu- ja työpaikkoihin sekä kulttuuriin ja liikuntaharrastuksiin.\n\nTyökokeilusi kesto voi olla maksimissaan 6 kuukautta. Saat tältä ajalta työmarkkinatukea.\n",
             "availability_summary": "Pajat ovat avoinna elokuun alusta kesäkuun loppuun. Pajoille on jatkuva haku. Aloitukset ovat kerran kuukaudessa, mikäli pajalla on tilaa. Osa kahviloista on avoinna myös kesällä. Lisätietoja pajatilanteesta saat pajojen työvalmentajilta. Yhteystiedot löytyvät pajakuvausten yhteydestä Stadin AO:n verkkosivuilta stadinao.fi.",
-            "prerequisites": "Voit hakea työkokeiluun nuorten työpajoille, jos olet 17-29 vuotias, Helsingissä asuva, työtön työnhakija.",
+            "prerequisites": "Voit hakea työkokeiluun nuorten työpajoille, jos olet 18-29 vuotias, Helsingissä asuva, työtön työnhakija.",
             "information": "Lisätietoa Stadin AO:n työpajatoiminnasta löydät oppilaitoksen verkkosivulta stadinao.fi",
+            "user_instruction": "Ilmoittaudu työttömäksi työnhakijaksi Helsingin kaupungin työllisyyspalveluiden kautta ja täytä sen jälkeen Nuorten työpajojen sähköinen hakemuslomake. Työvalmentaja ottaa sinuun yhteyttä.",
             "general_description_id": "db40fe8b-17db-4fe6-b733-a7dee05ae157",
             "provided_languages": [
                 "fi"
@@ -70364,12 +70383,12 @@
                 {
                     "type": "INTERNET",
                     "title": "Lisätietoa Nuorten työpajoista",
-                    "url": "https:\/\/stadinao.hel.fi\/nuorten-tyopajat\/"
+                    "url": "https:\/\/stadinao.hel.fi\/hae-opiskelemaan\/nuorten-tyopajat\/"
                 },
                 {
                     "type": "INTERNET",
                     "title": "Ohjaamo",
-                    "url": "https:\/\/ohjaamo.hel.fi\/"
+                    "url": "https:\/\/nuorten.hel.fi\/opiskelu-ja-tyo\/ohjaamo\/"
                 }
             ],
             "availabilities": [
@@ -70395,117 +70414,10 @@
                 78613
             ]
         },
-        "en": {
-            "id": 2769,
-            "main_description": true,
-            "service_id": 10543,
-            "title": "Workshops for young people",
-            "description_short": "Helsinki Vocational College offers four workshops for young people to try out various jobs. A Media Immersion Workshop, a Metal Workshop and WooDoo Workshop.",
-            "description_long": "Helsinki Vocational College offers four workshops for young people to try out various jobs: a Media Immersion Workshop, a Metal Workshop and WooDoo Workshop. The workshops are intended primarily for unemployed 15- to 19-year-olds. The workshops can admit young people under 25 if space allows. \n\nThe workshops allow attendants to work on exercises and outside orders as well as to improve their vocational skills. The work experience improves their opportunities to be accepted to formal studies. The workshops last an average 5 months.\n\nApplication to workshops is made through the Future Desk, TE offices (public employment and business offices) or educational institutions. All workshops accept applications at all times.\n",
-            "availability_summary": "From the beginning of August until the end of July.",
-            "prerequisites": "Application to workshops is made through the Future Desk, TE offices (public employment and business offices) or educational institutions. All workshops accept applications at all times. The applicant must be unemployed.\n",
-            "general_description_id": "db40fe8b-17db-4fe6-b733-a7dee05ae157",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Workshops for young people (in Finnish)",
-                    "url": "https:\/\/stadinao.hel.fi\/nuorten-tyopajat\/"
-                }
-            ],
-            "availabilities": [
-                {
-                    "availability_string": "From the beginning of August until the end of July."
-                }
-            ],
-            "unit_ids": [
-                33618,
-                44035,
-                44505,
-                44508,
-                76643,
-                76645,
-                76646,
-                76647,
-                76648,
-                76677,
-                76678,
-                78532,
-                78611,
-                78612,
-                78613
-            ]
-        },
-        "sv": {
-            "id": 2769,
-            "main_description": true,
-            "service_id": 10543,
-            "title": "Ungdomsverkstäder",
-            "description_short": "Vid yrkesinstitutet Stadin ammattiopisto finns fyra verkstäder för ungdomar. Mediakylpylä, Metalliverstas och verkstaden WooDoo-werstas.",
-            "description_long": "Vid yrkesinstitutet Stadin ammattiopisto finns fyra verkstäder för ungdomar. Mediakylpylä, Metalliverstas och verkstaden WooDoo-werstas. Platserna är främst avsedda för arbetslösa ungdomar i åldern 15-19 år. Om det finns lediga platser i verkstäderna har också personer under 25 år möjlighet att delta i arbetsprövning. \n\nI verkstäderna kan de unga utföra övnings- och beställningsarbeten och den vägen utveckla sina yrkesfärdigheter. Arbetserfarenhet förbättrar möjligheterna att börja studera. Den genomsnittliga tiden för arbetsprövning är fem månader.\n",
-            "availability_summary": "Från augusti till slutet av juni. Man kan när som helst söka till alla verkstäder.",
-            "prerequisites": "Du kan söka till ungdomsverkstäderna vid Framtidsdisken, arbets- och näringsbyrån eller läroanstalten. Man kan när som helst söka till alla verkstäder. Platserna är främst avsedda för arbetslösa ungdomar.",
-            "general_description_id": "db40fe8b-17db-4fe6-b733-a7dee05ae157",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "cc70d1d8-3ca7-416a-9ea7-27e6b7ce58a8"
-            ],
-            "target_groups": [
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Mer information om ungdomsverkstäderna (på finska)",
-                    "url": "https:\/\/stadinao.hel.fi\/nuorten-tyopajat\/",
-                    "file_format": "HTML"
-                }
-            ],
-            "availabilities": [
-                {
-                    "availability_string": "Från augusti till slutet av juni. Man kan när som helst söka till alla verkstäder."
-                }
-            ],
-            "unit_ids": [
-                33618,
-                44035,
-                44505,
-                44508,
-                76643,
-                76645,
-                76646,
-                76647,
-                76648,
-                76677,
-                76678,
-                78532,
-                78611,
-                78612,
-                78613
-            ]
-        }
+        "en": [
+        ],
+        "sv": [
+        ]
     },
     {
         "id": 7518,
@@ -115807,6 +115719,70 @@
         }
     },
     {
+        "id": 4459,
+        "fi": {
+            "id": 4459,
+            "main_description": false,
+            "service_id": 10880,
+            "title": "Monikielinen kirjasto",
+            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
+            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
+            "provided_languages": [
+                "fi"
+            ],
+            "responsible_depts": [
+                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
+            ],
+            "target_groups": [
+                "ASSOCIATIONS",
+                "CHILDREN_AND_FAMILIES",
+                "DISABLED",
+                "ELDERLY_PEOPLE",
+                "ENTERPRISES",
+                "IMMIGRANTS",
+                "INDIVIDUALS",
+                "YOUTH"
+            ],
+            "life_events": [
+            ],
+            "errand_services": [
+            ],
+            "exact_errand_services": [
+            ],
+            "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Pasilan kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Monikielinen kirjasto",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-aineistohaku",
+                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
+                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
+                }
+            ],
+            "availabilities": [
+            ],
+            "unit_ids": [
+                8269
+            ]
+        },
+        "en": [
+        ],
+        "sv": [
+        ]
+    },
+    {
         "id": 10131,
         "fi": {
             "id": 10131,
@@ -115955,70 +115931,6 @@
                 51342
             ]
         }
-    },
-    {
-        "id": 4459,
-        "fi": {
-            "id": 4459,
-            "main_description": false,
-            "service_id": 10880,
-            "title": "Monikielinen kirjasto",
-            "description_short": "Monikielisessä kirjastossa on kirjoja ja lehtiä sekä muuta aineistoa yli 80 kielellä. Kirjasto sijaitsee Pasilan kirjastossa.",
-            "description_long": "Monikielisessä kirjastossa on kirjoja, musiikkia, elokuvia ja lehtiä yli 80 kielellä, esimerkiksi arabiaksi, kiinaksi, somaliksi ja kurdiksi. Monikielinen kirjasto on Pasilan kirjastossa Helsingissä. Voit käydä siellä lainaamassa. Voit myös pyytää lähikirjastoasi tilaamaan materiaalia Monikielisestä kirjastosta. Voit varata sitä myös itse Helmet-aineistohaun kautta. Varaaminen ja lainaaminen eivät maksa mitään.\nLainaamiseen ja varaamiseen tarvitset Helmet-kirjastokortin ja pin-koodin. Ne saat mistä tahansa Helmet-kirjastosta, kun näytät henkilöllisyystodistuksen.\n",
-            "provided_languages": [
-                "fi"
-            ],
-            "responsible_depts": [
-                "55ed20a5-6a3a-447c-958c-2b537b9e6ee2"
-            ],
-            "target_groups": [
-                "ASSOCIATIONS",
-                "CHILDREN_AND_FAMILIES",
-                "DISABLED",
-                "ELDERLY_PEOPLE",
-                "ENTERPRISES",
-                "IMMIGRANTS",
-                "INDIVIDUALS",
-                "YOUTH"
-            ],
-            "life_events": [
-            ],
-            "errand_services": [
-            ],
-            "exact_errand_services": [
-            ],
-            "links": [
-                {
-                    "type": "INTERNET",
-                    "title": "Pasilan kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Pasilan_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Monikielinen kirjasto",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Kirjastot_ja_palvelut\/Monikielinen_kirjasto"
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-aineistohaku",
-                    "url": "http:\/\/haku.helmet.fi\/iii\/encore\/home?lang=fin&suite=cobalt&advancedSearch=true&searchString="
-                },
-                {
-                    "type": "INTERNET",
-                    "title": "Helmet-kirjastossa käyvät henkilöllisyystodistukset ",
-                    "url": "http:\/\/www.helmet.fi\/fi-FI\/Info\/Asiakkaana_kirjastossa\/Henkilollisyystodistukset%28105340%29"
-                }
-            ],
-            "availabilities": [
-            ],
-            "unit_ids": [
-                8269
-            ]
-        },
-        "en": [
-        ],
-        "sv": [
-        ]
     },
     {
         "id": 10133,
@@ -122502,7 +122414,7 @@
             "service_id": 10937,
             "title": "Mielenterveysasiakkaiden lähityö",
             "description_short": "Lähityössä tuemme arkeasi ja elämänhallintaasi yhteisissä tapaamisissa ja kotikäynneillä.",
-            "description_long": "Mielenterveysasiakkaiden lähityö on kotona asuvien mielenterveyskuntoutujien sosiaaliohjausta, joka on tarkoitettu omissa vuokra- tai omistusasunnoissa asuville mielenterveyskuntoutujille. Hyödynnämme lähityössä digitaalisia työvälineitä. \n\nTuemme mielenterveyskuntoutujien arkea ja elämänhallintaa etätapaamisilla ja kotikäynneillä. Etätapaamisilla voi käyttää omaa tietokonetta tai älypuhelinta, mutta tarvittaessa saat meiltä kierrätystietokoneen omaan käyttöösi. Luomme tavoitteet työskentelylle yhdessä.",
+            "description_long": "Mielenterveysasiakkaiden lähityö on kotona asuvien mielenterveyskuntoutujien sosiaaliohjausta, joka on tarkoitettu omissa vuokra- tai omistusasunnoissa asuville mielenterveyskuntoutujille. Hyödynnämme lähityössä digitaalisia työvälineitä. \n\nTuemme mielenterveyskuntoutujien arkea ja elämänhallintaa etätapaamisilla ja kotikäynneillä. Etätapaamisilla voi käyttää omaa tietokonetta tai älypuhelinta. Luomme tavoitteet työskentelylle yhdessä.",
             "provided_languages": [
                 "fi"
             ],
@@ -122530,7 +122442,7 @@
             "service_id": 10937,
             "title": "Outreach support services for mental health rehabilitants",
             "description_short": "Our outreach work supports you in managing your daily life through group meetings and home visits.",
-            "description_long": "Our outreach work with clients in mental health rehabilitation provides social guidance to people in mental health rehabilitation who live at home, in their own rental or owned housing. We use digital tools in our work.\n\nWe support the daily life and life management of people in mental health recovery through remote meetings and home visits. You can use your own smart device to attend remote meetings, but you can borrow a tablet device from us, if necessary. We set the goals for our collaboration together.\n",
+            "description_long": "Our outreach work with clients in mental health rehabilitation provides social guidance to people in mental health rehabilitation who live at home, in their own rental or owned housing. We use digital tools in our work.\n\nWe support the daily life and life management of people in mental health recovery through remote meetings and home visits. You can use your own smart device to attend remote meetings. We set the goals for our collaboration together.\n",
             "provided_languages": [
                 "fi"
             ],
@@ -122558,7 +122470,7 @@
             "service_id": 10937,
             "title": "Arbete nära rehabiliteringsklienter med psykisk ohälsa",
             "description_short": "Med gemensamma möten och hembesök stöttar vi dig i vardagen och att hantera livet.",
-            "description_long": "Med gemensamma möten och hembesök stöttar vi dig i vardagen och att hantera livet.\n\nArbete nära rehabiliteringsklienter med psykisk ohälsa innebär social handledning för rehabiliteringsklienter som bor hemma, antingen i en egen eller i en hyresbostad. I vårt arbete drar vi nytta av digitala hjälpmedel.\n\nVi stödjer rehabiliteringsklienternas vardag och livsledning genom distansmöten och hembesök. Du kan använda din enhet för distansmötet, men vi lånar även ut surfplattor om det behövs. Vi ställer upp mål för att jobba tillsammans.",
+            "description_long": "Med gemensamma möten och hembesök stöttar vi dig i vardagen och att hantera livet.\n\nArbete nära rehabiliteringsklienter med psykisk ohälsa innebär social handledning för rehabiliteringsklienter som bor hemma, antingen i en egen eller i en hyresbostad. I vårt arbete drar vi nytta av digitala hjälpmedel.\n\nVi stödjer rehabiliteringsklienternas vardag och livsledning genom distansmöten och hembesök. Du kan använda din enhet för distansmötet. Vi ställer upp mål för att jobba tillsammans.",
             "provided_languages": [
                 "fi"
             ],
