@@ -23100,10 +23100,98 @@
                 }
             ]
         },
-        "en": [
-        ],
-        "sv": [
-        ]
+        "en": {
+            "id": 5396,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Report an interest subsidy paid by the state",
+            "description": "If your lease agreement contains a clause stipulating that the tenant must notify us of any interest subsidy paid by the state, please fill in the form below and submit it to us along with the required attachments. \n\nPlease attach the following documents to the form: \n- a copy of the interest subsidy decision issued by the Housing Finance and Development Centre of Finland (ARA) \n- a copy of the bank certificate on the interest-subsidised loan. \n\nPlease submit the form via email to asuntotonttitiedustelut@hel.fi. \n\nIf necessary, you can also submit the form by post to the following address: \n\nCity of Helsinki, interest subsidy notification\/Residential Plots\nLand Property Development and Plots\nPO Box 58213\nFI-00099 City of Helsinki",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3921,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Printable form",
+                    "name": "Report an interest subsidy paid by the state",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Report an interest subsidy paid by the state  (pdf, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Korkotuki-ilmoitus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        },
+        "sv": {
+            "id": 5396,
+            "exact_descriptions": [
+                9631
+            ],
+            "service_id": 10101,
+            "type": "NOTICE",
+            "name": "Anmäl det räntestöd som staten betalar",
+            "description": "Om hyresavtalet innehåller ett villkor enligt vilket hyresgästen ska informera oss om det räntestöd som staten betalar, ska du lämna in den bifogade blanketten med bilagor. \n\nBifoga följande dokument: \n- kopia av beslutet om räntestöd från Finansierings- och utvecklingscentralen för boendet (ARA) \n- kopia av bankens intyg över räntestödslånet \n\nLämna in blanketten per e-post till asuntotonttitiedustelut@hel.fi. \n\nVid behov kan du även skicka blanketten per post till följande adress: \n\nHelsingfors stad, anmälan om räntestöd\/Bostadstomter \nTomter och utveckling av markegendom \nPB 58213 \n00099 HELSINGFORS STAD",
+            "provided_languages": [
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 3921,
+                    "type": "PRINTABLE_FORM",
+                    "type_string": "Utskrivbar blankett",
+                    "name": "Anmäl det räntestöd som staten betalar",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "FORM",
+                            "title": "Anmäl det räntestöd som staten betalar (pdf, på finska) ",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/Korkotuki-ilmoitus.pdf"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                }
+            ]
+        }
     },
     {
         "id": 5398,
@@ -71837,6 +71925,119 @@
         }
     },
     {
+        "id": 5930,
+        "fi": {
+            "id": 5930,
+            "exact_descriptions": [
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Tee oirearvio Maisassa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4584,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Tee oirearvio Maisassa",
+                    "information": "Saat heti hoito-ohjeet ja tiedon siitä, miten ja milloin asiasi etenee. Arvion perusteella ohjaamme sinut tarvittaessa suuhygienistin, hammashoitajan tai hammaslääkärin vastaanotolle tai hammaspäivystykseen. Sinulle voidaan myös tarjota palveluseteliä.",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=finnish",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 5930,
+            "exact_descriptions": [
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Bedöm vårdbehovet i Maisa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+                "fff7cfd5-9161-4dad-aa0c-0706a8a63b26"
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4584,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Bedöm vårdbehovet i Maisa",
+                    "information": "Du får genast vårdanvisningar och informeras om hur och när ditt ärende går framåt. Utifrån bedömningen styr vi dig till munhygienisten, tandskötaren eller tandläkarmottagningen eller tandläkarjouren, enligt behov. Du kan även erbjudas servicesedlar.",
+                    "availability_summary": "Öppet dygnet runt varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "id": 4858,
         "fi": {
             "id": 4858,
@@ -81901,6 +82102,117 @@
                         }
                     ],
                     "availabilities": [
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5931,
+        "fi": {
+            "id": 5931,
+            "exact_descriptions": [
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Varaa tarkastus- tai neuvontakäynti Maisassa",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4585,
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
+                    "name": "Varaa tarkastus- tai neuvontakäynti Maisassa",
+                    "information": "Maisan kautta voit varata suoraan ajan lasten ja nuorten määräaikaisiin hammastarkastuksiin sekä ensimmäistä lasta odottavien neuvonta- ja ohjauskäynnille.",
+                    "availability_summary": "Avoinna joka päivä ympäri vuorokauden",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Siirry Maisaan",
+                            "url": "https:\/\/www.maisa.fi\/maisa\/Authentication\/Login?lang=finnish",
+                            "file_format": "HTML"
+                        }
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Avoinna joka päivä ympäri vuorokauden"
+                        }
+                    ]
+                }
+            ]
+        },
+        "en": [
+        ],
+        "sv": {
+            "id": 5931,
+            "exact_descriptions": [
+            ],
+            "service_id": 10203,
+            "type": "OTHER_ESERVICE",
+            "name": "Boka tid i Maisa för undersökning eller rådgivning",
+            "provided_languages": [
+                "en",
+                "fi",
+                "sv"
+            ],
+            "responsible_depts": [
+            ],
+            "target_groups": [
+            ],
+            "life_events": [
+            ],
+            "links": [
+            ],
+            "channels": [
+                {
+                    "id": 4585,
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
+                    "name": "Boka tid i Maisa för undersökning eller rådgivning",
+                    "information": "I Maisa kan du direkt boka tid till regelbundna tandkontroller för barn och ungdomar, samt till rådgivnings- och handledningsbesök för dem som väntar sitt första barn.",
+                    "availability_summary": "Öppet dygnet runt varje dag",
+                    "provided_languages": [
+                        "en",
+                        "fi",
+                        "sv"
+                    ],
+                    "requires_authentication": true,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": false,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                        {
+                            "availability_string": "Öppet dygnet runt varje dag"
+                        }
                     ]
                 }
             ]
