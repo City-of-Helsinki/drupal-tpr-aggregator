@@ -11993,11 +11993,6 @@
                             "type": "FORM",
                             "title": "Application for short-term lease of a residential plot (pdf, 2.6 MB)",
                             "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Application for short-term lease of a residential plot (docx)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx"
                         }
                     ],
                     "availabilities": [
@@ -12072,11 +12067,6 @@
                             "type": "FORM",
                             "title": "Ansökan om korttidsarrende för bostadstomt (pdf, 2,6 Mt, på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.pdf"
-                        },
-                        {
-                            "type": "FORM",
-                            "title": "Ansökan om korttidsarrende för bostadstomt (docx, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/hakemus_lyhytaikainen_vuokraus.docx"
                         }
                     ],
                     "availabilities": [
@@ -12940,8 +12930,8 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Application for a power of attorney and a long-term lease (docx)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.docx"
+                            "title": "Application for a power of attorney and a long-term lease (PDF, in Finnish)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.pdf"
                         }
                     ],
                     "availabilities": [
@@ -12990,8 +12980,8 @@
                     "links": [
                         {
                             "type": "FORM",
-                            "title": "Ansökan för fullmakt och långtidsarrendeavtal (docx, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.docx"
+                            "title": "Ansökan för fullmakt och långtidsarrendeavtal (pdf, på finska)",
+                            "url": "https:\/\/www.hel.fi\/static\/kv\/tontti\/lomakkeet\/valtakirjahakemus.pdf"
                         }
                     ],
                     "availabilities": [
@@ -23062,7 +23052,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Ilmoita valtion maksamasta korkotuesta",
-            "description": "Mikäli vuokrasopimus sisältää ehdon, jonka mukaan vuokralaisen tulee ilmoittaa meille valtion maksamasta korkotuesta, toimita meille oheinen lomake liitteineen. \n \nLiitä mukaan seuraavat asiakirjat:\n- jäljennös asumisen rahoitus- ja kehittämiskeskuksen (ARA) korkotukipäätöksestä\n- jäljennös pankin korkotukilainaa koskevasta todistuksesta\n\nLähetä lomake sähköpostitse asuntotonttitiedustelut@hel.fi.\n\nTarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki, korkotuki-ilmoitus\/Asuntotontit\nMaaomaisuuden kehittäminen ja tontit\nPL 58213\n00099 HELSINGIN KAUPUNKI\n",
+            "description": "Mikäli vuokrasopimus sisältää ehdon, jonka mukaan vuokralaisen tulee ilmoittaa meille valtion maksamasta korkotuesta, toimita meille oheinen lomake liitteineen. \n \nLiitä mukaan seuraavat asiakirjat:\n- jäljennös Valtion tukeman asuntorakentamisen keskuksen (VARKE) korkotukipäätöksestä\n- jäljennös luotonantajan korkotukilainaa koskevasta todistuksesta \n\nLähetä lomake sähköpostitse asuntotonttitiedustelut@hel.fi.\n\nTarvittaessa voit toimittaa lomakkeen myös postitse osoitteeseen:\n\nHelsingin kaupunki, korkotuki-ilmoitus\/Asuntotontit\nMaaomaisuuden kehittäminen ja tontit\nPL 58213\n00099 HELSINGIN KAUPUNKI\n",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -23108,7 +23098,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Report an interest subsidy paid by the state",
-            "description": "If your lease agreement contains a clause stipulating that the tenant must notify us of any interest subsidy paid by the state, please fill in the form below and submit it to us along with the required attachments. \n\nPlease attach the following documents to the form: \n- a copy of the interest subsidy decision issued by the Housing Finance and Development Centre of Finland (ARA) \n- a copy of the bank certificate on the interest-subsidised loan. \n\nPlease submit the form via email to asuntotonttitiedustelut@hel.fi. \n\nIf necessary, you can also submit the form by post to the following address: \n\nCity of Helsinki, interest subsidy notification\/Residential Plots\nLand Property Development and Plots\nPO Box 58213\nFI-00099 City of Helsinki",
+            "description": "If your lease agreement contains a clause stipulating that the tenant must notify us of any interest subsidy paid by the state, please fill in the form below and submit it to us along with the required attachments. \n\nPlease attach the following documents to the form: \n- a copy of the interest subsidy decision issued by the Centre for State-Subsidised Housing Construction (VARKE) \n- a copy of the lender certificate on the interest-subsidised loan. \n\nPlease submit the form via email to asuntotonttitiedustelut@hel.fi. \n\nIf necessary, you can also submit the form by post to the following address: \n\nCity of Helsinki, interest subsidy notification\/Residential Plots\nLand Property Development and Plots\nPO Box 58213\nFI-00099 City of Helsinki",
             "provided_languages": [
             ],
             "responsible_depts": [
@@ -23154,7 +23144,7 @@
             "service_id": 10101,
             "type": "NOTICE",
             "name": "Anmäl det räntestöd som staten betalar",
-            "description": "Om hyresavtalet innehåller ett villkor enligt vilket hyresgästen ska informera oss om det räntestöd som staten betalar, ska du lämna in den bifogade blanketten med bilagor. \n\nBifoga följande dokument: \n- kopia av beslutet om räntestöd från Finansierings- och utvecklingscentralen för boendet (ARA) \n- kopia av bankens intyg över räntestödslånet \n\nLämna in blanketten per e-post till asuntotonttitiedustelut@hel.fi. \n\nVid behov kan du även skicka blanketten per post till följande adress: \n\nHelsingfors stad, anmälan om räntestöd\/Bostadstomter \nTomter och utveckling av markegendom \nPB 58213 \n00099 HELSINGFORS STAD",
+            "description": "Om hyresavtalet innehåller ett villkor enligt vilket hyresgästen ska informera oss om det räntestöd som staten betalar, ska du lämna in den bifogade blanketten med bilagor. \n\nBifoga följande dokument: \n- kopia av beslutet om räntestöd från Centralen för statligt stött bostadsbyggande (VARKE)\n- kopia av kreditgivarens intyg över räntestödslånet \n\nLämna in blanketten per e-post till asuntotonttitiedustelut@hel.fi. \n\nVid behov kan du även skicka blanketten per post till följande adress: \n\nHelsingfors stad, anmälan om räntestöd\/Bostadstomter \nTomter och utveckling av markegendom \nPB 58213 \n00099 HELSINGFORS STAD",
             "provided_languages": [
             ],
             "responsible_depts": [
