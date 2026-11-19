@@ -7046,7 +7046,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Hae aloittamisoikeutta",
-            "description": "Aloittamisoikeutta voi hakea varsinaisen lupahakemuksen yhteydessä tai erillisellä hakemuksella.\n\nJos haet aloittamisoikeutta varsinaisen lupahakemuksen yhteydessä, lisää Lupapisteessä täytetty aloittamisoikeuslomake hakemuksen liitteisiin ja kirjoita hakevasi aloittamisoikeutta myös hankekuvauksessa.\n\nJos et ole hakenut aloittamisoikeutta varsinaisen lupahakemuksen yhteydessä, lähetä hakemus ja alkuperäinen vakuusasiakirja alueen lupa-assistentille. Löydät alueen lupa-assistentin sähköpostiosoitteen karttapalvelusta. Aloittamisoikeutta tulee hakea viimeistään 14 päivän kuluessa hankkeen lupapäätöksen valitusajan päättymisestä.\n",
+            "description": "Aloittamisoikeutta voi hakea varsinaisen lupahakemuksen yhteydessä tai erillisenä hakemuksena Lupapisteessä.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -7062,12 +7062,17 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Tutustu ohjeisiin: aloittamisoikeus ja rakennustyötä valmistelevat toimenpiteet (pdf)",
+                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
+                }
             ],
             "channels": [
                 {
                     "id": 3656,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Tulostettavat lomakkeet",
+                    "type": "ESERVICE",
+                    "type_string": "Verkkoasiointi",
                     "name": "Hae aloittamisoikeutta",
                     "provided_languages": [
                     ],
@@ -7126,7 +7131,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Apply for the right to commence",
-            "description": "You can apply for the right to commence in connection with the actual permit application or with a separate application.\n\nIf you apply for the right to commence in connection with the actual permit application, enclose the right to commence form, completed in the Lupapiste service, with the application and indicate in the project description that you are also applying for the right to commence.\n\nIf you have not applied for the right to commence in connection with the actual permit application, send the application and the original surety document to the local permit secretary. You can find the permit secretary's email address in the map service. The right to commence must be applied for no later than 14 days after the end of the appeal period for the project permit decision.\n",
+            "description": "You can apply for the right to commence in connection with the actual permit application or with a separate application in Lupapiste service.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -7146,8 +7151,8 @@
             "channels": [
                 {
                     "id": 3656,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Printable form",
+                    "type": "ESERVICE",
+                    "type_string": "E-services",
                     "name": "Apply for the right to commence",
                     "provided_languages": [
                     ],
@@ -7205,7 +7210,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Ansök om inledningsrätt",
-            "description": "Du kan ansöka om inledningsrätt i samband med den egentliga tillståndsansökan eller som en separat ansökan.\n\nOm du ansöker om inledningsrätt i samband med den egentliga tillståndsansökan ska du bifoga en ifylld blankett för inledningsrätt till ansökan i Lupapiste. Du ska också skriva att du ansöker om inledningsrätt i projektbeskrivningen.\n\nOm du inte har ansökt om inledningsrätt i samband med den egentliga tillståndsansökan ska du skicka ansökan och det egentliga säkerhetsdokumentet till områdets tillståndssekreterare. E-postadressen till områdets tillståndssekreterare hittar du i karttjänsten. Inledningsrätt ska ansökas senast 14 dagar efter det att besvärstiden för tillståndsbeslutet för projektet löpt ut.\n",
+            "description": "Du kan ansöka om inledningsrätt i samband med den egentliga tillståndsansökan eller som en separat ansökan i tjänsten Lupapiste.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -7231,8 +7236,8 @@
             "channels": [
                 {
                     "id": 3656,
-                    "type": "PRINTABLE_FORM",
-                    "type_string": "Utskrivbar blankett",
+                    "type": "ESERVICE",
+                    "type_string": "Elektronisk tjänst",
                     "name": "Ansök om inledningsrätt",
                     "provided_languages": [
                     ],
