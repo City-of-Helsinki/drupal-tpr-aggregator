@@ -7075,8 +7075,9 @@
                     "type_string": "Verkkoasiointi",
                     "name": "Hae aloittamisoikeutta",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -7085,10 +7086,10 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Hakemus rakennustyön aloittamiseksi ennen luvan lainvoimaisuutta (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf",
-                            "file_format": "PDF"
+                            "type": "INTERNET",
+                            "title": "Hae aloittamisoikeutta Lupapisteessä",
+                            "url": "https:\/\/www.lupapiste.fi\/",
+                            "file_format": "HTML"
                         }
                     ],
                     "availabilities": [
@@ -7116,6 +7117,31 @@
                             "type": "MAP",
                             "title": "Siirry karttapalveluun",
                             "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4586,
+                    "type": "WEBPAGE",
+                    "type_string": "Verkkosivu",
+                    "name": "Tutustu tarkempiin ohjeisiin",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "aloittamisoikeus ja rakennustyötä valmistelevat toimenpiteet (pdf)",
+                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
                         }
                     ],
                     "availabilities": [
@@ -7155,8 +7181,9 @@
                     "type_string": "E-services",
                     "name": "Apply for the right to commence",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -7196,6 +7223,25 @@
                             "title": "Link to the map service",
                             "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4586,
+                    "type": "WEBPAGE",
+                    "type_string": "Webpage",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -7240,8 +7286,9 @@
                     "type_string": "Elektronisk tjänst",
                     "name": "Ansök om inledningsrätt",
                     "provided_languages": [
+                        "fi"
                     ],
-                    "requires_authentication": false,
+                    "requires_authentication": true,
                     "saved_to_customer_folder": false,
                     "e_processing": false,
                     "e_decision": false,
@@ -7281,6 +7328,25 @@
                             "title": "Länk till karttjänsten",
                             "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4586,
+                    "type": "WEBPAGE",
+                    "type_string": "Webbsida",
+                    "provided_languages": [
+                        "fi"
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": true,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
