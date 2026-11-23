@@ -7046,7 +7046,7 @@
             "service_id": 10634,
             "type": "APPLICATION",
             "name": "Hae aloittamisoikeutta",
-            "description": "Aloittamisoikeutta voi hakea varsinaisen lupahakemuksen yhteydessä tai erillisenä hakemuksena Lupapisteessä.",
+            "description": "Aloittamisoikeutta voi hakea varsinaisen lupahakemuksen yhteydessä tai erillisellä hakemuksella Lupapisteessä.",
             "provided_languages": [
                 "fi",
                 "sv"
@@ -7066,6 +7066,11 @@
                     "type": "INTERNET",
                     "title": "Tutustu ohjeisiin: aloittamisoikeus ja rakennustyötä valmistelevat toimenpiteet (pdf)",
                     "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Hae alueen lupasihteerin yhteystiedot karttapalvelusta",
+                    "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
                 }
             ],
             "channels": [
@@ -7090,58 +7095,6 @@
                             "title": "Hae aloittamisoikeutta Lupapisteessä",
                             "url": "https:\/\/www.lupapiste.fi\/",
                             "file_format": "HTML"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3657,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Hae alueen lupasihteerin yhteystiedot",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Siirry karttapalveluun",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4586,
-                    "type": "WEBPAGE",
-                    "type_string": "Verkkosivu",
-                    "name": "Tutustu tarkempiin ohjeisiin",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "INTERNET",
-                            "title": "aloittamisoikeus ja rakennustyötä valmistelevat toimenpiteet (pdf)",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
                         }
                     ],
                     "availabilities": [
@@ -7173,6 +7126,16 @@
             "life_events": [
             ],
             "links": [
+                {
+                    "type": "INTERNET",
+                    "title": "Find the contact details for the local permit secretary in the map service",
+                    "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Read the instructions: right to commence and preparatory construction work (PDF, in Finnish)",
+                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf"
+                }
             ],
             "channels": [
                 {
@@ -7196,52 +7159,6 @@
                             "title": "Application  for commencing construction before the permit is legally valid (PDF, in Finnish)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3657,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "name": "Find the contact details for the local permit secretary",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Link to the map service",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4586,
-                    "type": "WEBPAGE",
-                    "type_string": "Webpage",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
@@ -7274,9 +7191,14 @@
             "links": [
                 {
                     "type": "INTERNET",
-                    "title": "Anvisning: Inledningsrätt",
-                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/sv\/Inledningsratt.pdf",
+                    "title": "Läs anvisningen: inledningsrätt och förberedande byggnadsarbeten (pdf, på finska)",
+                    "url": "https:\/\/www.hel.fi\/static\/rakvv\/ohjeet\/Aloittamisoikeus_vakuus.pdf",
                     "file_format": "PDF"
+                },
+                {
+                    "type": "INTERNET",
+                    "title": "Sök områdets tillståndssekreterares kontaktuppgifter i karttjänsten",
+                    "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
                 }
             ],
             "channels": [
@@ -7301,52 +7223,6 @@
                             "title": "Ansökan  om att inleda byggarbete innan bygglovet har vunnit laga kraft (pdf, på finska)",
                             "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf"
                         }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 3657,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "name": "Sök områdets tillståndssekreterares kontaktuppgifter",
-                    "provided_languages": [
-                        "en",
-                        "fi",
-                        "sv"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
-                        {
-                            "type": "MAP",
-                            "title": "Länk till karttjänsten",
-                            "url": "https:\/\/kartta.hel.fi\/?link=bm6iiQ"
-                        }
-                    ],
-                    "availabilities": [
-                    ]
-                },
-                {
-                    "id": 4586,
-                    "type": "WEBPAGE",
-                    "type_string": "Webbsida",
-                    "provided_languages": [
-                        "fi"
-                    ],
-                    "requires_authentication": false,
-                    "saved_to_customer_folder": false,
-                    "e_processing": false,
-                    "e_decision": false,
-                    "payment_enabled": false,
-                    "for_personal_customer": true,
-                    "for_corporate_customer": true,
-                    "links": [
                     ],
                     "availabilities": [
                     ]
