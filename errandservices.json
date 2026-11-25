@@ -52139,6 +52139,32 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4587,
+                    "type": "EMAIL",
+                    "type_string": "Sähköposti",
+                    "name": "Tee oikaisuvaatimus",
+                    "information": "Voit tehdä oikaisuvaatimuksen pysäköintivirhemaksusta myös sähköpostitse. Oikaisuvaatimuksessa on mainittava\n- muutoksenhakijan nimi ja osoite\n- ajoneuvon rekisteritunnus\n- pysäköintivirhemaksun asianumero.",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                        {
+                            "type": "INTERNET",
+                            "title": "Lähetä suojattua sähköpostia kaupungille",
+                            "url": "https:\/\/securemail.hel.fi\/?recipient=pysakointi@hel.fi"
+                        }
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -52205,6 +52231,25 @@
                     ],
                     "availabilities": [
                     ]
+                },
+                {
+                    "id": 4587,
+                    "type": "EMAIL",
+                    "type_string": "E-mail",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
+                    ],
+                    "availabilities": [
+                    ]
                 }
             ]
         },
@@ -52268,6 +52313,25 @@
                             "title": "Gå till parkerings e-tjänst",
                             "url": "https:\/\/pysakoinninasiointi.hel.fi"
                         }
+                    ],
+                    "availabilities": [
+                    ]
+                },
+                {
+                    "id": 4587,
+                    "type": "EMAIL",
+                    "type_string": "Elektronisk post",
+                    "email": "pysakointi@hel.fi",
+                    "provided_languages": [
+                    ],
+                    "requires_authentication": false,
+                    "saved_to_customer_folder": false,
+                    "e_processing": false,
+                    "e_decision": false,
+                    "payment_enabled": false,
+                    "for_personal_customer": true,
+                    "for_corporate_customer": false,
+                    "links": [
                     ],
                     "availabilities": [
                     ]
