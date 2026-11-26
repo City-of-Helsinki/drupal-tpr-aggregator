@@ -7155,9 +7155,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Application  for commencing construction before the permit is legally valid (PDF, in Finnish)",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf"
+                            "type": "INTERNET",
+                            "title": "Apply for the right to commence in Lupapiste service (in Finnish)",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/fi"
                         }
                     ],
                     "availabilities": [
@@ -7219,9 +7219,9 @@
                     "for_corporate_customer": true,
                     "links": [
                         {
-                            "type": "FORM",
-                            "title": "Ansökan  om att inleda byggarbete innan bygglovet har vunnit laga kraft (pdf, på finska)",
-                            "url": "https:\/\/www.hel.fi\/static\/rakvv\/lomakkeet\/Aloittaminen-vakuus.pdf"
+                            "type": "INTERNET",
+                            "title": "Ansök om inledningsrätt i tjänsten Lupapiste",
+                            "url": "https:\/\/www.lupapiste.fi\/login\/sv"
                         }
                     ],
                     "availabilities": [
@@ -52085,8 +52085,7 @@
             "type": "APPLICATION",
             "name": "Oikaisuvaatimus pysäköintivirhemaksusta",
             "name_synonyms": "Pysäköintivirhemaksun oikaisuvaatimus",
-            "description": "Voit tarkastella Pysäköinnin asiointi -palvelussa saamasi pysäköintivirhemaksun syytä ja mahdollisia valokuvia. \n\nJos pysäköintivirhemaksu on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen. Oikaisuvaatimus on tehtävä 30 päivän kuluessa. Virhemaksua ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana. Saat päätöksen noin 4 kuukaudessa.\n\nTee oikaisuvaatimus pysäköinnin asiointipalvelussa. Vaihtoehtoisesti voit toimittaa sen Kaupunkiympäristön asiakaspalveluun henkilökohtaisesti, postitse tai sähköpostitse osoitteeseen pysakointi@hel.fi. Asiakaspalvelun yhteystiedot löydät sivun lopusta. \n\nOikaisuvaatimuksessa on mainittava \n- muutoksenhakijan nimi ja osoite \n- ajoneuvon rekisteritunnus \n- pysäköintivirhemaksun asianumero \n\nLiitä mukaan asiakirjat, joilla perustelet vaatimustasi. Teethän jokaisesta pysäköintivirhemaksusta oman oikaisuvaatimuksen. \n",
-            "information": "Käytäthän aina suojattua sähköpostia, kun lähetät henkilökohtaisia tietojasi. \n\nOikaisuvaatimuksen käsittelyn jälkeen hävitämme lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen.",
+            "description": "Voit tarkastella Pysäköinnin asiointi -palvelussa saamasi pysäköintivirhemaksun syytä ja mahdollisia valokuvia. \n\nJos pysäköintivirhemaksu on mielestäsi aiheeton, voit tehdä siitä oikaisuvaatimuksen. Oikaisuvaatimus on tehtävä 30 päivän kuluessa. Virhemaksua ei tarvitse maksaa oikaisuvaatimuksen käsittelyn aikana. Saat päätöksen noin 4 kuukaudessa.\n\nTee oikaisuvaatimus pysäköinnin asiointipalvelussa. Vaihtoehtoisesti voit toimittaa sen Kaupunkiympäristön asiakaspalveluun henkilökohtaisesti, postitse tai sähköpostitse. Asiakaspalvelun yhteystiedot löydät sivun lopusta. \n\nOikaisuvaatimuksessa on mainittava \n- muutoksenhakijan nimi ja osoite \n- ajoneuvon rekisteritunnus \n- pysäköintivirhemaksun asianumero.\n\nLiitä mukaan asiakirjat, joilla perustelet vaatimustasi. Oikaisuvaatimuksen käsittelyn jälkeen hävitämme lähettämäsi liitteet, jotka liittyvät esimerkiksi terveydentilaan tai taloudelliseen tilanteeseen. Teethän jokaisesta pysäköintivirhemaksusta oman oikaisuvaatimuksen. \n",
             "provided_languages": [
                 "en",
                 "fi",
@@ -52145,7 +52144,7 @@
                     "type": "EMAIL",
                     "type_string": "Sähköposti",
                     "name": "Tee oikaisuvaatimus",
-                    "information": "Voit tehdä oikaisuvaatimuksen pysäköintivirhemaksusta myös sähköpostitse. Oikaisuvaatimuksessa on mainittava\n- muutoksenhakijan nimi ja osoite\n- ajoneuvon rekisteritunnus\n- pysäköintivirhemaksun asianumero.",
+                    "information": "Käytäthän tavallisen sähköpostin sijasta suojattua sähköpostia, jos lähetät turvakiellon alaista tai terveydentilaasi liittyvää tietoa.",
                     "email": "pysakointi@hel.fi",
                     "provided_languages": [
                     ],
@@ -52159,7 +52158,7 @@
                     "links": [
                         {
                             "type": "INTERNET",
-                            "title": "Lähetä suojattua sähköpostia kaupungille",
+                            "title": "Lähetä suojattua sähköpostia",
                             "url": "https:\/\/securemail.hel.fi\/?recipient=pysakointi@hel.fi"
                         }
                     ],
